@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Aegean';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Aegean Regular'), local('Aegean-Regular'), url(Aegean.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'CyproMinoan';
+  font-style: normal;
+  font-weight: 400;
+  src: local('CyproMinoan Regular'), local('CyproMinoan-Regular'), url(CMinoan.ttf) format('truetype');
+}
