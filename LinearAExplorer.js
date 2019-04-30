@@ -51,6 +51,7 @@ function loadInscription(inscription) {
   inscriptionImage.className = 'item';
   var img = document.createElement("img");
   img.src = inscription.image;
+  img.height = "200";
   inscriptionImage.appendChild(img);
   item.appendChild(inscriptionImage);
 
@@ -58,6 +59,7 @@ function loadInscription(inscription) {
   inscriptionImage.className = 'item';
   var img = document.createElement("img");
   img.src = inscription.tracingImage;
+  img.height = "200";
   inscriptionImage.appendChild(img);
   item.appendChild(inscriptionImage);
 

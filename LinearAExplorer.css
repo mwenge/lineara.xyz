@@ -8,17 +8,15 @@
 }
 .search {
   background-color: purple;
-  font-family: 'GFS Didot';
+  font-family: 'Orbitron';
   font-size: 5vh;
   color: white;
   border: white 3px solid;
-  text-align: center;
   display: inline-block;
   width: 15%;
   min-width: 15%;
   min-height: 5vh;
   padding: 2px;
-  box-sizing: border-box;
 }
 .masthead-container {
   position: fixed;
