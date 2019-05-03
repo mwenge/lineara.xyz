@@ -1,5 +1,5 @@
 /*
-# Copyright (c) 2018 Robert Hogan (robhogan at gmail.com) All rights reserved.
+# Copyright (c) 2019 Robert Hogan (robhogan at gmail.com) All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are
@@ -27,19 +27,37 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
-var animationDuration = 5;
+console.log("If you have any feedback or issues contact me @mwenge on Twitter")
 document.onkeydown = checkKey;
 function checkKey(e) {
     e = e || window.event;
-    if (e.keyCode == '38') {
-        // up arrow
-        animationDuration++;
-    } else if (e.keyCode == '40') {
-        // down arrow
-        animationDuration--;
-        animationDuration = Math.max(2, animationDuration);
+    console.log(e.keyCode)
+    switch(e.keyCode) {
+      case 191:
+        // /
+        if (search == document.activeElement) {
+          return true;
+        }
+        search.focus();
+        return false;
     }
-    console.log(animationDuration);
+}
+
+function updateSearch(event) {
+  var searchTerm = event.target.value;
+  var allContainers = document.getElementsByClassName('item-container');
+  for (var i = 0; i < allContainers.length; i++) {
+    var container = allContainers[i];
+    for (var j = 0; j < container.children.length; j++) {
+      var element = container.children[j];
+      if (searchTerm == "" || element.textContent.includes(searchTerm)) {
+        element.parentElement.style.display = "flex";
+        break;
+      } else {
+        element.parentElement.style.display = "none";
+      }
+    }
+  } 
 }
 
 function loadInscription(inscription) {
@@ -75,6 +93,24 @@ function loadInscription(inscription) {
     transcript.appendChild(span);
   }
   item.appendChild(transcript);
+
+  transcript = document.createElement("div");
+  transcript.className = 'item';
+  for (var i = 0; i < inscription.translatedWords.length; i++) {
+    var word = inscription.translatedWords[i];
+    var elementName = word == "\n" ? "br" : "span";
+    var span = document.createElement(elementName);
+    if (elementName == "span") {
+      span.textContent = word + " ";
+    }
+    transcript.appendChild(span);
+  }
+  item.appendChild(transcript);
+
+  var label = document.createElement("div");
+  label.className = 'label';
+  label.textContent = inscription.name;
+  item.appendChild(label);
 
   container.appendChild(item);
 }

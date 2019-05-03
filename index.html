@@ -1,39 +1,27 @@
 <!DOCTYPE html>
 <meta charset="UTF-8">
 <head>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Orbitron">
     <link rel="stylesheet" href="LinearAExplorer.css">
     <link rel="stylesheet" href="Aegean.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cinzel">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=GFS+Didot">
 </head>
 <style>
   body {
-    font-family: 'Orbitron', monospace;
+    font-family: 'CyproMinoan', serif;
     font-size: 18px;
     margin: 0px;
   }
 </style>
-<script>
-  console.log("If you have any feedback or issues contact me @mwenge on Twitter")
-  function updateSearch(event) {
-    var searchTerm = event.target.value.toLowerCase();
-    var allElements = document.getElementsByClassName('item');
-    for (var i = 0; i < allElements.length; i++) {
-      var element = allElements[i];
-      if (searchTerm == "" || element.textContent.toLowerCase().includes(searchTerm)) {
-        element.style.display = "block";
-      } else {
-        element.style.display = "none";
-      }
-    } 
-  }
-</script>
 <script src="LinearAInscriptions.js"></script>
 <script src="LinearAExplorer.js"></script>
 <div class="masthead-container">
-  <div class="search">Linear A</div><input type="search" class="masthead" id="search" placeholder="Search"></input>
+  <div class="masthead">LINEAR A</div><input type="search" class="search" id="search" placeholder="search"></input>
 </div>
+<script>
+    document.getElementById('search').oninput = updateSearch;
+    window.onload = function() {
+      document.getElementById('search').dispatchEvent(new InputEvent("input"));
+    };
+</script>
 <div id="container"></div>
 <script>
 loadExplorer();

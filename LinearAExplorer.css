@@ -1,22 +1,35 @@
 .item-container {
-  display: inline-block;
   float: left;
+  margin: 10px;
+  display: flex;
+  position: relative;
 }
+.search {
+  font-family: 'Courier', serif;
+  width: 15%;
+  min-height: 5vh;
+  display: inline-block;
+  font-size: 5vh;
+  opacity: 0.8;
+  border: gray 3px solid;
+  padding: 5px;
+}
+input:focus::placeholder { color:transparent; }
 .item {
   float: left;
   font-family: 'CyproMinoan', serif;
+  padding: 10px;
+  border: 1px solid grey;
 }
-.search {
+.masthead {
+  font-family: 'Courier', serif;
   background-color: purple;
-  font-family: 'Orbitron';
+  opacity: 0.8;
   font-size: 5vh;
   color: white;
   border: white 3px solid;
   display: inline-block;
-  width: 15%;
-  min-width: 15%;
-  min-height: 5vh;
-  padding: 2px;
+  padding: 5px;
 }
 .masthead-container {
   position: fixed;
@@ -25,4 +38,13 @@
   z-index: 100;
   min-width: 100%;
   min-height: 5vh;
+}
+.label {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: black;
+  padding: 2px;
+  color: white;
+  opacity: 0.5;
 }
