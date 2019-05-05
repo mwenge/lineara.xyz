@@ -2,48 +2,46 @@ var inscriptions = [
 {
     "image": "images/HT1-Inscription.jpg",
     "name": "HT1",
-    "parsedInscription": "𐘿𐘽𐘉𐄁\n𐘸𐘁𐄙𐄘𐄍\n𐙀𐘲𐄖\n𐘆𐘆𐘍𐘥𐄔𐄈\n𐙂𐘰𐘯𐄙𐄏\n𐘇𐘴𐘅𐘙𐄙𐄋\n",
+    "parsedInscription": "𐘿𐘽𐘉𐄁\n𐘸𐘁𐄙𐄘𐄍\n𐙀𐘲𐄖\n𐘆𐘆𐘍𐘥𐄔𐄈\n𐙂𐘰𐘯𐄙𐄏\n𐘇𐘴𐘅𐘙𐄙𐄋",
     "tracingImage": "images/HT1-Tracing.jpg",
-    "transcription": "𐘿𐘽𐘉𐄁𐘸𐘁𐄙𐄘\n𐄍𐙀𐘲𐄖𐘆𐘆\n𐘍𐘥𐄔𐄈𐙂𐘰𐘯𐄙\n𐄏𐘇𐘴𐘅𐘙𐄙𐄋\n\n\n",
+    "transcription": "𐘿𐘽𐘉𐄁𐘸𐘁𐄙𐄘\n𐄍𐙀𐘲𐄖𐘆𐘆\n𐘍𐘥𐄔𐄈𐙂𐘰𐘯𐄙\n𐄏𐘇𐘴𐘅𐘙𐄙𐄋",
     "translatedWords": [
-        "QE-U",
+        "QE𐘽-U",
         "𐄁",
         "\n",
         "owed",
         "197",
         "\n",
-        "SU",
+        "𐙀-SU",
         "70",
         "\n",
         "DI-DI-ZA-KE",
         "52",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "109",
         "\n",
         "A-RA-NA-RE",
-        "105",
-        "\n"
+        "105"
     ],
     "transliteratedWords": [
-        "QE-U",
+        "QE𐘽-U",
         "𐄁",
         "\n",
         "KI-RO",
         "197",
         "\n",
-        "SU",
+        "𐙀-SU",
         "70",
         "\n",
         "DI-DI-ZA-KE",
         "52",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "109",
         "\n",
         "A-RA-NA-RE",
-        "105",
-        "\n"
+        "105"
     ],
     "words": [
         "𐘿𐘽𐘉",
@@ -62,23 +60,22 @@ var inscriptions = [
         "𐄙𐄏",
         "\n",
         "𐘇𐘴𐘅𐘙",
-        "𐄙𐄋",
-        "\n"
+        "𐄙𐄋"
     ]
 },
 {
     "image": "images/HT2-Inscription.jpg",
     "name": "HT2",
-    "parsedInscription": "𐘇𐘾𐘘𐄁𐜋𐄑𐝫\n𐝫𐜊𐄐𐄍\n𐜎𐄉𐝫\n𐝫𐘸𐘙𐘳𐘅𐜋𐄔𐄊𐝫\n𐝫𐜊𐄓𐄍\n\n𐄇",
+    "parsedInscription": "𐘇𐘾𐘘𐄁𐜋𐄑𐝫\n𐝫𐜊𐄐𐄍\n𐜎𐄉𐝫\n𐝫𐘸𐘙𐘳𐘅𐜋𐄔𐄊𐝫\n𐝫𐜊𐄓𐄍\n𐄇",
     "tracingImage": "images/HT2-Tracing.jpg",
-    "transcription": "𐘇𐘾𐘘𐄁𐜋𐄑𐝫\n𐝫𐜊𐄐𐄍𐜎𐄉𐝫\n𐝫𐘸𐘙𐘳𐘅𐜋𐄔𐄊𐝫\n𐝫𐜊𐄓𐄍\n𐄇\n\n",
+    "transcription": "𐘇𐘾𐘘𐄁𐜋𐄑𐝫\n𐝫𐜊𐄐𐄍𐜎𐄉𐝫\n𐝫𐘸𐘙𐘳𐘅𐜋𐄔𐄊𐝫\n𐝫𐜊𐄓𐄍\n𐄇",
     "translatedWords": [
         "A-KA-RU",
         "𐄁",
         "𐜋",
         "20",
         "\n",
-        "𐝫𐜊",
+        "𐜊",
         "17",
         "\n",
         "𐜎",
@@ -88,9 +85,8 @@ var inscriptions = [
         "𐜋",
         "54",
         "\n",
-        "𐝫𐜊",
+        "𐜊",
         "47",
-        "\n",
         "\n",
         "1"
     ],
@@ -100,7 +96,7 @@ var inscriptions = [
         "𐜋",
         "20",
         "\n",
-        "𐝫𐜊",
+        "𐜊",
         "17",
         "\n",
         "𐜎",
@@ -110,9 +106,8 @@ var inscriptions = [
         "𐜋",
         "54",
         "\n",
-        "𐝫𐜊",
+        "𐜊",
         "47",
-        "\n",
         "\n",
         "1"
     ],
@@ -135,7 +130,6 @@ var inscriptions = [
         "𐝫𐜊",
         "𐄓𐄍",
         "\n",
-        "\n",
         "𐄇"
     ]
 },
@@ -144,7 +138,7 @@ var inscriptions = [
     "name": "HT3",
     "parsedInscription": "𐝫\n𐝫𐙁𐝫\n𐝫𐘆𐘅𐝫𐄈\n𐘿𐘽𐘱𐝫\n𐝫𐄈\n𐘆𐄈𐝫\n𐝫𐄊\n𐘕𐘘𐄇\n𐘘𐝫\n𐝫𐘤𐘹𐘽𐘙𐄋\n𐘆𐝫\n𐝫𐙂𐘰𐘯𐄉𐝫\n𐝫𐙁𐘆𐄈𐝫\n𐘀𐝫",
     "tracingImage": "images/HT3-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐙁𐝫𐘆𐘅𐝫\n𐝫𐄈𐘿𐘽𐘱𐝫\n𐝫𐄈𐘆𐄈𐝫\n𐄊𐘕𐘘𐄇𐘘𐝫\n𐝫𐘤𐘹𐘽𐘙𐄋𐘆𐝫\n𐝫𐙂𐘰𐘯𐄉𐝫\n𐝫𐙁𐘆𐄈𐘀𐝫\n\n\n\n\n\n",
+    "transcription": "𐝫\n𐝫𐙁𐝫𐘆𐘅𐝫\n𐝫𐄈𐘿𐘽𐘱𐝫\n𐝫𐄈𐘆𐄈𐝫\n𐄊𐘕𐘘𐄇𐘘𐝫\n𐝫𐘤𐘹𐘽𐘙𐄋𐘆𐝫\n𐝫𐙂𐘰𐘯𐄉𐝫\n𐝫𐙁𐘆𐄈𐘀𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -153,7 +147,7 @@ var inscriptions = [
         "DI-NA",
         "2",
         "\n",
-        "QE-JA",
+        "QE𐘽-JA",
         "\n",
         "2",
         "\n",
@@ -167,12 +161,12 @@ var inscriptions = [
         "\n",
         "RU",
         "\n",
-        "SI-TU-RE",
+        "SI-TU𐘽-RE",
         "5",
         "\n",
         "DI",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "3",
         "\n",
         "MA-DI",
@@ -188,7 +182,7 @@ var inscriptions = [
         "DI-NA",
         "2",
         "\n",
-        "QE-JA",
+        "QE𐘽-JA",
         "\n",
         "2",
         "\n",
@@ -202,12 +196,12 @@ var inscriptions = [
         "\n",
         "RU",
         "\n",
-        "SI-TU-RE",
+        "SI-TU𐘽-RE",
         "5",
         "\n",
         "DI",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "3",
         "\n",
         "MA-DI",
@@ -256,11 +250,11 @@ var inscriptions = [
     "name": "HT4",
     "parsedInscription": "𐝫\n𐝫𐙚𐘠𐘾𐘇𐘙𐝫\n𐝫𐘬𐘭𐘃𐄈\n𐘂𐘙𐝫\n𐝫𐘳𐘢𐘤𐘆𐄇",
     "tracingImage": "images/HT4-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐙚𐘠𐘾𐘇𐘙\n𐝫𐘬𐘭𐘃𐄈𐘂𐘙\n𐝫𐘳𐘢𐘤𐘆𐄇\n",
+    "transcription": "𐝫\n𐝫𐙚𐘠𐘾𐘇𐘙\n𐝫𐘬𐘭𐘃𐄈𐘂𐘙\n𐝫𐘳𐘢𐘤𐘆𐄇",
     "translatedWords": [
         "𐝫",
         "\n",
-        "TI-KA-A-RE",
+        "𐙚-TI-KA-A-RE",
         "\n",
         "DU-RI-TE",
         "2",
@@ -273,7 +267,7 @@ var inscriptions = [
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "TI-KA-A-RE",
+        "𐙚-TI-KA-A-RE",
         "\n",
         "DU-RI-TE",
         "2",
@@ -306,7 +300,7 @@ var inscriptions = [
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐙛𐝫",
+        "𐙛",
         "\n",
         "MA-SI",
         "30",
@@ -321,7 +315,7 @@ var inscriptions = [
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐙛𐝫",
+        "𐙛",
         "\n",
         "MA-SI",
         "30",
@@ -354,7 +348,7 @@ var inscriptions = [
     "name": "HT6a",
     "parsedInscription": "𐘾𐘂𐄁\n𐘀𐘳𐘴𐄁𐘃𐄁𐘝𐄐𐄋\n𐘢𐘳𐘱𐄑𐄊\n𐛑𐝓\n𐙁𐙭𐄐\n𐘵𐘽𐘆𐘗𐄈\n𐘾𐘂𐘿𐄋𐝕\n𐘀𐘿𐘴𐄁\n𐘿𐘢𐘳𐄑𐄈𐝕\n𐘝𐄐𐄋𐝆",
     "tracingImage": "images/HT6a-Tracing.jpg",
-    "transcription": "𐘾𐘂𐄁𐘀𐘳𐘴\n𐄁𐘃𐄁𐘝𐄐𐄋𐘢𐘳𐘱\n𐄑𐄊𐛑𐝓𐙁𐙭\n𐄐𐘵𐘽𐘆𐘗𐄈𐘾\n𐘂𐘿𐄋𐝕\n𐘀𐘿𐘴𐄁𐘿𐘢𐘳\n𐄑𐄈𐝕𐘝𐄐𐄋𐝆\n\n\n",
+    "transcription": "𐘾𐘂𐄁𐘀𐘳𐘴\n𐄁𐘃𐄁𐘝𐄐𐄋𐘢𐘳𐘱\n𐄑𐄊𐛑𐝓𐙁𐙭\n𐄐𐘵𐘽𐘆𐘗𐄈𐘾\n𐘂𐘿𐄋𐝕\n𐘀𐘿𐘴𐄁𐘿𐘢𐘳\n𐄑𐄈𐝕𐘝𐄐𐄋𐝆",
     "translatedWords": [
         "KA-PA",
         "𐄁",
@@ -372,10 +366,10 @@ var inscriptions = [
         "𐛑",
         "𐝓",
         "\n",
-        "MA",
+        "MA𐙭",
         "10",
         "\n",
-        "O-DI-NE",
+        "O𐘽-DI-NE",
         "2",
         "\n",
         "KA-PA-QE",
@@ -410,10 +404,10 @@ var inscriptions = [
         "𐛑",
         "𐝓",
         "\n",
-        "MA",
+        "MA𐙭",
         "10",
         "\n",
-        "O-DI-NE",
+        "O𐘽-DI-NE",
         "2",
         "\n",
         "KA-PA-QE",
@@ -475,7 +469,7 @@ var inscriptions = [
     "name": "HT6b",
     "parsedInscription": "𐘮𐘬𐘝𐘻𐄉𐝅\n𐘴𐘠𐘈𐄇\n𐙁𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃\n𐘞𐙁𐄒𐄋\n𐘰𐘝𐘅𐄐𐄍𐝆",
     "tracingImage": "images/HT6b-Tracing.jpg",
-    "transcription": "𐘮𐘬𐘝𐘻\n𐄉𐝅𐝢𐘠𐘈𐄇𐙁\n𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃𐘞𐙁𐄒\n𐄋𐘰𐘝𐘅𐄐𐄍𐝆\n",
+    "transcription": "𐘮𐘬𐘝𐘻\n𐄉𐝅𐝢𐘠𐘈𐄇𐙁\n𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃𐘞𐙁𐄒\n𐄋𐘰𐘝𐘅𐄐𐄍𐝆",
     "translatedWords": [
         "WA-DU-NI-MI",
         "3",
@@ -497,7 +491,7 @@ var inscriptions = [
         "SA-MA",
         "35",
         "\n",
-        "NI-NA",
+        "𐘰-NI-NA",
         "17",
         "¹⁄₂"
     ],
@@ -522,7 +516,7 @@ var inscriptions = [
         "SA-MA",
         "35",
         "\n",
-        "NI-NA",
+        "𐘰-NI-NA",
         "17",
         "¹⁄₂"
     ],
@@ -557,7 +551,7 @@ var inscriptions = [
     "name": "HT7a",
     "parsedInscription": "𐘿𐘠𐄁𐙇\n𐘚𐘘𐘱𐄉\n𐘬𐘱𐄊\n𐘳𐘅𐘠𐄇\n𐘀𐘙𐄇\n𐘃𐘹𐄇",
     "tracingImage": "images/HT7a-Tracing.jpg",
-    "transcription": "𐘿𐘠𐄁𐙇\n𐘚𐘘𐘱𐄉\n𐘬𐘱𐄊\n𐘳𐘅𐘠𐄇𐘀𐘙\n𐄇𐘃𐘹𐄇\n",
+    "transcription": "𐘿𐘠𐄁𐙇\n𐘚𐘘𐘱𐄉\n𐘬𐘱𐄊\n𐘳𐘅𐘠𐄇𐘀𐘙\n𐄇𐘃𐘹𐄇",
     "translatedWords": [
         "QE-TI",
         "𐄁",
@@ -622,32 +616,29 @@ var inscriptions = [
 {
     "image": "images/HT7b-Inscription.jpg",
     "name": "HT7b",
-    "parsedInscription": "𐘐𐘹𐘗𐄇\n𐘀𐘘𐙵𐄈\n",
+    "parsedInscription": "𐘐𐘹𐘗𐄇\n𐘀𐘘𐙵𐄈",
     "tracingImage": "images/HT7b-Tracing.jpg",
-    "transcription": "𐘐𐘹𐘗𐄇\n𐘀𐘘𐙵𐄈\n",
+    "transcription": "𐘐𐘹𐘗𐄇\n𐘀𐘘𐙵𐄈",
     "translatedWords": [
-        "TU-NE",
+        "𐘐-TU-NE",
         "1",
         "\n",
-        "DA-RU",
-        "2",
-        "\n"
+        "DA-RU𐙵",
+        "2"
     ],
     "transliteratedWords": [
-        "TU-NE",
+        "𐘐-TU-NE",
         "1",
         "\n",
-        "DA-RU",
-        "2",
-        "\n"
+        "DA-RU𐙵",
+        "2"
     ],
     "words": [
         "𐘐𐘹𐘗",
         "𐄇",
         "\n",
         "𐘀𐘘𐙵",
-        "𐄈",
-        "\n"
+        "𐄈"
     ]
 },
 {
@@ -655,13 +646,13 @@ var inscriptions = [
     "name": "HT8a",
     "parsedInscription": "𐘧𐘆𐜓𐄐\n𐘰𐘾𐘴𐘠𐄇𐝆\n𐘂𐄉𐝆\n𐘃𐙕𐄈\n𐘌𐙠𐘚𐝕\n𐘤𐘸𐘴𐝃\n𐘸𐘙𐘳𐘅𐝆",
     "tracingImage": "images/HT8a-Tracing.jpg",
-    "transcription": "𐘧𐘆𐜓𐄐𐘰\n𐘾𐘴𐘠𐄇𐝆𐘂𐄉𐝆\n𐘃𐙕𐄈𐘌𐙠𐘚\n𐝕𐘤𐘸𐘴𐝃\n𐘸𐘙𐘳𐘅𐝆\n\n",
+    "transcription": "𐘧𐘆𐜓𐄐𐘰\n𐘾𐘴𐘠𐄇𐝆𐘂𐄉𐝆\n𐘃𐙕𐄈𐘌𐙠𐘚\n𐝕𐘤𐘸𐘴𐝃\n𐘸𐘙𐘳𐘅𐝆",
     "translatedWords": [
         "JE-DI",
         "𐜓",
         "10",
         "\n",
-        "KA-RA-TI",
+        "𐘰-KA-RA-TI",
         "1",
         "¹⁄₂",
         "\n",
@@ -669,10 +660,10 @@ var inscriptions = [
         "3",
         "¹⁄₂",
         "\n",
-        "TE",
+        "TE𐙕",
         "2",
         "\n",
-        "QA-I",
+        "QA𐙠-I",
         "𐝕",
         "\n",
         "SI-KI-RA",
@@ -686,7 +677,7 @@ var inscriptions = [
         "𐜓",
         "10",
         "\n",
-        "KA-RA-TI",
+        "𐘰-KA-RA-TI",
         "1",
         "¹⁄₂",
         "\n",
@@ -694,10 +685,10 @@ var inscriptions = [
         "3",
         "¹⁄₂",
         "\n",
-        "TE",
+        "TE𐙕",
         "2",
         "\n",
-        "QA-I",
+        "QA𐙠-I",
         "𐝕",
         "\n",
         "SI-KI-RA",
@@ -735,13 +726,12 @@ var inscriptions = [
 {
     "image": "images/HT8b-Inscription.jpg",
     "name": "HT8b",
-    "parsedInscription": "𐘲𐘜𐙓𐄇\n\n—\n𐄋\n𐘰𐙓𐄈\n𐘌𐙠𐘚𐄇𐝃𐝄\n𐘾𐘂𐝆\n𐘂𐘱𐘙𐄇𐝄\n𐛥𐝆\n𐝆",
+    "parsedInscription": "𐘲𐘜𐙓𐄇\n—\n𐄋\n𐘰𐙓𐄈\n𐘌𐙠𐘚𐄇𐝃𐝄\n𐘾𐘂𐝆\n𐘂𐘱𐘙𐄇𐝄\n𐛥𐝆\n𐝆",
     "tracingImage": "images/HT8b-Tracing.jpg",
-    "transcription": "𐘲𐘜𐙓𐄇\n—\n𐄋𐘰𐙓𐄈𐘌𐙠\n𐘚𐄇𐝃𐝄𐘾𐘂𐝆\n𐘂𐘱𐘙𐄇𐝄𐛥𐝆\n𐝆\n\n\n\n",
+    "transcription": "𐘲𐘜𐙓𐄇\n—\n𐄋𐘰𐙓𐄈𐘌𐙠\n𐘚𐄇𐝃𐝄𐘾𐘂𐝆\n𐘂𐘱𐘙𐄇𐝄𐛥𐝆\n𐝆",
     "translatedWords": [
-        "SU",
+        "SU𐘜𐙓",
         "1",
-        "\n",
         "\n",
         "—",
         "\n",
@@ -750,7 +740,7 @@ var inscriptions = [
         "𐘰𐙓",
         "2",
         "\n",
-        "QA-I",
+        "QA𐙠-I",
         "1",
         "³⁄₈",
         "\n",
@@ -767,9 +757,8 @@ var inscriptions = [
         "¹⁄₂"
     ],
     "transliteratedWords": [
-        "SU",
+        "SU𐘜𐙓",
         "1",
-        "\n",
         "\n",
         "—",
         "\n",
@@ -778,7 +767,7 @@ var inscriptions = [
         "𐘰𐙓",
         "2",
         "\n",
-        "QA-I",
+        "QA𐙠-I",
         "1",
         "³⁄₈",
         "\n",
@@ -797,7 +786,6 @@ var inscriptions = [
     "words": [
         "𐘲𐘜𐙓",
         "𐄇",
-        "\n",
         "\n",
         "—",
         "\n",
@@ -828,7 +816,7 @@ var inscriptions = [
     "name": "HT9a",
     "parsedInscription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝆𐝃\n𐙚𐘹𐄐\n𐘆𐘅𐘉𐄊\n𐘿𐘫𐄈\n𐙰𐘆𐘴𐄈𐝆\n𐘳𐘚𐙌𐄈𐝆\n𐘇𐘘𐄊𐝃\n𐙂𐘁𐄒𐄇𐝆𐝃",
     "tracingImage": "images/HT9a-Tracing.jpg",
-    "transcription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝕𐙚𐘹\n𐄐𐘆𐘅𐘉𐄊𐘿𐘫\n𐄈𐙰𐘆𐘴𐄈𐝆𐘳\n𐘚𐙌𐄈𐝆𐘇𐘘\n𐄊𐝃𐙂𐘁𐄒𐄇𐝆𐝃\n\n\n",
+    "transcription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝕𐙚𐘹\n𐄐𐘆𐘅𐘉𐄊𐘿𐘫\n𐄈𐙰𐘆𐘴𐄈𐝆𐘳\n𐘚𐙌𐄈𐝆𐘇𐘘\n𐄊𐝃𐙂𐘁𐄒𐄇𐝆𐝃",
     "translatedWords": [
         "SA-RO",
         "𐄁",
@@ -842,7 +830,7 @@ var inscriptions = [
         "5",
         "𐝆𐝃",
         "\n",
-        "TU",
+        "𐙚-TU",
         "10",
         "\n",
         "DI-NA-U",
@@ -851,11 +839,11 @@ var inscriptions = [
         "QE-PU",
         "2",
         "\n",
-        "DI-RA",
+        "𐙰-DI-RA",
         "2",
         "¹⁄₂",
         "\n",
-        "TA-I",
+        "TA-I𐙌",
         "2",
         "¹⁄₂",
         "\n",
@@ -880,7 +868,7 @@ var inscriptions = [
         "5",
         "𐝆𐝃",
         "\n",
-        "TU",
+        "𐙚-TU",
         "10",
         "\n",
         "DI-NA-U",
@@ -889,11 +877,11 @@ var inscriptions = [
         "QE-PU",
         "2",
         "\n",
-        "DI-RA",
+        "𐙰-DI-RA",
         "2",
         "¹⁄₂",
         "\n",
-        "TA-I",
+        "TA-I𐙌",
         "2",
         "¹⁄₂",
         "\n",
@@ -949,7 +937,7 @@ var inscriptions = [
     "name": "HT9b",
     "parsedInscription": "𐘰𐄁\n𐘮𐘱𐘢𐝫\n—\n𐘾𐙙𐄁\n𐘂𐘦𐄉\n𐘇𐘤𐄉\n𐙚𐘹𐄎\n𐙰𐘆𐘴𐄈\n𐘿𐘫𐄈\n𐘳𐘚𐙌𐄈\n𐘆𐘅𐘉𐄊\n𐙂𐘁𐄑𐄊",
     "tracingImage": "images/HT9b-Tracing.jpg",
-    "transcription": "𐘰𐄁𐘮𐘱𐘢𐝫\n—\n𐘾𐙙𐄁𐘂𐘦𐄉𐘇𐘤\n𐄉𐙚𐘹𐄎𐙰𐘆𐘴𐄈\n𐘿𐘫𐄈𐘳𐘚𐙌𐄈\n𐘆𐘅𐘉𐄊\n𐙂𐘁𐄑𐄊\n\n\n\n\n",
+    "transcription": "𐘰𐄁𐘮𐘱𐘢𐝫\n—\n𐘾𐙙𐄁𐘂𐘦𐄉𐘇𐘤\n𐄉𐙚𐘹𐄎𐙰𐘆𐘴𐄈\n𐘿𐘫𐄈𐘳𐘚𐙌𐄈\n𐘆𐘅𐘉𐄊\n𐙂𐘁𐄑𐄊",
     "translatedWords": [
         "𐘰",
         "𐄁",
@@ -958,7 +946,7 @@ var inscriptions = [
         "\n",
         "—",
         "\n",
-        "KA",
+        "KA𐙙",
         "𐄁",
         "\n",
         "PA-DE",
@@ -967,16 +955,16 @@ var inscriptions = [
         "A-SI",
         "3",
         "\n",
-        "TU",
+        "𐙚-TU",
         "8",
         "\n",
-        "DI-RA",
+        "𐙰-DI-RA",
         "2",
         "\n",
         "QE-PU",
         "2",
         "\n",
-        "TA-I",
+        "TA-I𐙌",
         "2",
         "\n",
         "DI-NA-U",
@@ -993,7 +981,7 @@ var inscriptions = [
         "\n",
         "—",
         "\n",
-        "KA",
+        "KA𐙙",
         "𐄁",
         "\n",
         "PA-DE",
@@ -1002,16 +990,16 @@ var inscriptions = [
         "A-SI",
         "3",
         "\n",
-        "TU",
+        "𐙚-TU",
         "8",
         "\n",
-        "DI-RA",
+        "𐙰-DI-RA",
         "2",
         "\n",
         "QE-PU",
         "2",
         "\n",
-        "TA-I",
+        "TA-I𐙌",
         "2",
         "\n",
         "DI-NA-U",
@@ -1061,7 +1049,7 @@ var inscriptions = [
     "name": "HT10a",
     "parsedInscription": "𐙂𐘝𐘲𐄁\n𐘞𐙁𐄊\n𐄁𐘂𐄁\n𐘀𐘙𐄐𐄌𐝆\n𐘉𐙱𐘍𐄊\n𐙕𐄌\n𐘉𐙱𐘍𐄐𐄊𐝫\n𐙙𐘘𐄈𐝆\n𐘀𐘭𐘀𐄎\n𐘋𐘍𐄉",
     "tracingImage": "images/HT10a-Tracing.jpg",
-    "transcription": "𐙂𐘝𐘲𐄁𐘞𐙁𐄊𐄁\n𐘉𐙱𐘍𐄊\n𐘂𐄁𐘀𐘙𐄐𐄌𐝆𐙕\n𐄌𐘉𐙱𐘍𐄐𐄊𐝫𐙙𐘘\n𐄈𐝆𐘀𐘭𐘀𐄎𐘋𐘍𐄉\n\n\n\n\n",
+    "transcription": "𐙂𐘝𐘲𐄁𐘞𐙁𐄊𐄁\n𐘉𐙱𐘍𐄊\n𐘂𐄁𐘀𐘙𐄐𐄌𐝆𐙕\n𐄌𐘉𐙱𐘍𐄐𐄊𐝫𐙙𐘘\n𐄈𐝆𐘀𐘭𐘀𐄎𐘋𐘍𐄉",
     "translatedWords": [
         "Placename",
         "𐄁",
@@ -1086,7 +1074,7 @@ var inscriptions = [
         "Linear B kutato",
         "14",
         "\n",
-        "RU",
+        "𐙙-RU",
         "2",
         "¹⁄₂",
         "\n",
@@ -1111,16 +1099,16 @@ var inscriptions = [
         "16",
         "¹⁄₂",
         "\n",
-        "U-ZA",
+        "U𐙱-ZA",
         "4",
         "\n",
         "𐙕",
         "6",
         "\n",
-        "U-ZA",
+        "U𐙱-ZA",
         "14",
         "\n",
-        "RU",
+        "𐙙-RU",
         "2",
         "¹⁄₂",
         "\n",
@@ -1170,7 +1158,7 @@ var inscriptions = [
     "name": "HT10b",
     "parsedInscription": "𐘉𐘠𐄇\n𐘀𐘙𐄈\n𐘳𐘭𐘅𐄐𐄋\n𐙢𐘳𐄌𐝆\n𐘾𐘞𐘘𐄌\n𐘳𐘅𐘠𐄏𐝃",
     "tracingImage": "images/HT10b-Tracing.jpg",
-    "transcription": "𐘉𐘠𐄇𐘀𐘙𐄈𐘳\n𐘭𐘅𐄐𐄋𐙢𐘳𐄌𐝆\n𐘾𐘞𐘘𐄌\n𐘳𐘅𐘠𐄏𐝃\n\n",
+    "transcription": "𐘉𐘠𐄇𐘀𐘙𐄈𐘳\n𐘭𐘅𐄐𐄋𐙢𐘳𐄌𐝆\n𐘾𐘞𐘘𐄌\n𐘳𐘅𐘠𐄏𐝃",
     "translatedWords": [
         "U-TI",
         "1",
@@ -1181,7 +1169,7 @@ var inscriptions = [
         "TA-RI-NA",
         "15",
         "\n",
-        "TA",
+        "𐙢-TA",
         "6",
         "¹⁄₂",
         "\n",
@@ -1202,7 +1190,7 @@ var inscriptions = [
         "TA-RI-NA",
         "15",
         "\n",
-        "TA",
+        "𐙢-TA",
         "6",
         "¹⁄₂",
         "\n",
@@ -1240,7 +1228,7 @@ var inscriptions = [
     "name": "HT11a",
     "parsedInscription": "𐘇𐘘𐘴𐝫𐄁𐝫𐝫𐄉\n𐘾𐘁𐘅𐄈\n𐙮𐘭𐄇\n𐙂𐘁𐄐\n𐘇𐘲𐘱𐄇\n𐙇𐘚𐄉\n𐘷𐄐𐄋",
     "tracingImage": "images/HT11a-Tracing.jpg",
-    "transcription": "𐘇𐘘𐘴𐝫𐄁𐝫\n𐄉𐘾𐘁𐘅𐄈𐘇\n𐙮𐘭𐄇𐙂𐘁𐄐𐘇\n𐘲𐘱𐄇𐙇𐘚\n𐄉𐘷𐄐𐄋\n\n",
+    "transcription": "𐘇𐘘𐘴𐝫𐄁𐝫\n𐄉𐘾𐘁𐘅𐄈𐘇\n𐙮𐘭𐄇𐙂𐘁𐄐𐘇\n𐘲𐘱𐄇𐙇𐘚\n𐄉𐘷𐄐𐄋",
     "translatedWords": [
         "A-RU-RA",
         "𐄁",
@@ -1253,13 +1241,13 @@ var inscriptions = [
         "3",
         "KA-RO-NA",
         "2",
-        "RI",
+        "𐙮-RI",
         "1",
         "total",
         "10",
         "A-SU-JA",
         "1",
-        "I",
+        "𐙇-I",
         "3",
         "TA2",
         "15"
@@ -1276,13 +1264,13 @@ var inscriptions = [
         "3",
         "KA-RO-NA",
         "2",
-        "RI",
+        "𐙮-RI",
         "1",
         "KU-RO",
         "10",
         "A-SU-JA",
         "1",
-        "I",
+        "𐙇-I",
         "3",
         "TA2",
         "15"
@@ -1316,13 +1304,13 @@ var inscriptions = [
     "name": "HT11b",
     "parsedInscription": "𐝫𐘦𐘯\n𐘘𐘽\n𐙅𐘾𐄓\n𐘾𐄒\n𐘾𐄔\n𐘘𐙀𐘅𐘾𐄒\n𐘞𐘿𐘭𐄁𐘾𐄒\n𐙂𐘁𐄙𐄗",
     "tracingImage": "images/HT11b-Tracing.jpg",
-    "transcription": "𐝫𐘦𐘯𐘘𐘽\n𐙅𐘾𐄓𐘾𐄒\n𐘾𐄔𐘘𐙀𐘅\n𐘾𐄒𐘞𐘿𐘭𐄁\n𐘾𐄒𐙂𐘁\n𐄙𐄗\n\n",
+    "transcription": "𐝫𐘦𐘯𐘘𐘽\n𐙅𐘾𐄓𐘾𐄒\n𐘾𐄔𐘘𐙀𐘅\n𐘾𐄒𐘞𐘿𐘭𐄁\n𐘾𐄒𐙂𐘁\n𐄙𐄗",
     "translatedWords": [
         "DE-NU",
         "\n",
-        "RU",
+        "RU𐘽",
         "\n",
-        "KA",
+        "𐙅-KA",
         "40",
         "\n",
         "KA",
@@ -1331,7 +1319,7 @@ var inscriptions = [
         "KA",
         "50",
         "\n",
-        "RU-NA",
+        "RU𐙀-NA",
         "KA",
         "30",
         "\n",
@@ -1346,9 +1334,9 @@ var inscriptions = [
     "transliteratedWords": [
         "DE-NU",
         "\n",
-        "RU",
+        "RU𐘽",
         "\n",
-        "KA",
+        "𐙅-KA",
         "40",
         "\n",
         "KA",
@@ -1357,7 +1345,7 @@ var inscriptions = [
         "KA",
         "50",
         "\n",
-        "RU-NA",
+        "RU𐙀-NA",
         "KA",
         "30",
         "\n",
@@ -1401,7 +1389,7 @@ var inscriptions = [
     "name": "HT12",
     "parsedInscription": "𐘌𐘠𐘀𐘃𐄁𐜉𐄋\n𐙘𐄋\n𐘿𐘹𐘗𐄁𐚻𐄇\n𐘡𐄒\n𐛢𐄁𐙈𐄋\n𐜚𐄉\n𐘝𐄇\n𐚼𐝇\n𐘀𐘚𐄔",
     "tracingImage": "images/HT12-Tracing.jpg",
-    "transcription": "𐘌𐘠𐘀𐘃𐄁\n𐜉𐄋𐙘𐄋\n𐘿𐘹𐘗𐄁𐚻𐄇\n𐘡𐄒𐛢𐄁𐙈\n𐄋𐜚𐄉𐘝𐄇\n𐚼𐝇𐘀𐘚𐄔\n\n\n",
+    "transcription": "𐘌𐘠𐘀𐘃𐄁\n𐜉𐄋𐙘𐄋\n𐘿𐘹𐘗𐄁𐚻𐄇\n𐘡𐄒𐛢𐄁𐙈\n𐄋𐜚𐄉𐘝𐄇\n𐚼𐝇𐘀𐘚𐄔",
     "translatedWords": [
         "QA-TI-DA-TE",
         "𐄁",
@@ -1510,7 +1498,7 @@ var inscriptions = [
     "name": "HT13",
     "parsedInscription": "𐘾𐘉𐘦𐘳𐙍𐄁𐘃𐄁\n𐘙𐘍𐄋𐝫𐝆𐝫\n𐘃𐘹𐄔𐄌\n𐘃𐘸𐄑𐄍𐝆\n𐙂𐙀𐘝𐄐𐄎\n𐘀𐘤𐙈𐄐𐄏\n𐘚𐘬𐘗𐘤𐄋\n𐙂𐘁𐄙𐄒𐝆",
     "tracingImage": "images/HT13-Tracing.jpg",
-    "transcription": "𐘾𐘉𐘦𐘳\n𐙍𐄁𐘃𐄁𐘙𐘍𐄋𐝫𐝆𐝫\n𐘃𐘹𐄔𐄌𐘃𐘸\n𐄑𐄍𐝆𐙂𐙀𐘝𐄐𐄎\n𐘀𐘤𐙈𐄐𐄏𐘚𐘬\n𐘗𐘤𐄋\n𐙂𐘁𐄙𐄒𐝆\n",
+    "transcription": "𐘾𐘉𐘦𐘳\n𐙍𐄁𐘃𐄁𐘙𐘍𐄋𐝫𐝆𐝫\n𐘃𐘹𐄔𐄌𐘃𐘸\n𐄑𐄍𐝆𐙂𐙀𐘝𐄐𐄎\n𐘀𐘤𐙈𐄐𐄏𐘚𐘬\n𐘗𐘤𐄋\n𐙂𐘁𐄙𐄒𐝆",
     "translatedWords": [
         "KA-U-DE-TA",
         "wine",
@@ -1529,10 +1517,10 @@ var inscriptions = [
         "27",
         "¹⁄₂",
         "\n",
-        "KU-NI",
+        "KU𐙀-NI",
         "18",
         "\n",
-        "DA-SI",
+        "DA-SI𐙈",
         "19",
         "\n",
         "I-DU-NE-SI",
@@ -1560,10 +1548,10 @@ var inscriptions = [
         "27",
         "¹⁄₂",
         "\n",
-        "KU-NI",
+        "KU𐙀-NI",
         "18",
         "\n",
-        "DA-SI",
+        "DA-SI𐙈",
         "19",
         "\n",
         "I-DU-NE-SI",
@@ -1608,11 +1596,11 @@ var inscriptions = [
 {
     "image": "images/HT14-Inscription.jpg",
     "name": "HT14",
-    "parsedInscription": "𐘫𐙍𐄁𐘃𐄁𐙉𐄒\n𐜗𐄉\n𐜉𐄉\n𐙘𐄏\n𐙋𐄐𐄉\n𐘇𐘜𐘅𐘬𐙉𐄓𐄋\n𐜗𐄋\n𐜉𐄊\n𐙘𐄌\n𐙋𐄐𐄊\n",
+    "parsedInscription": "𐘫𐙍𐄁𐘃𐄁𐙉𐄒\n𐜗𐄉\n𐜉𐄉\n𐙘𐄏\n𐙋𐄐𐄉\n𐘇𐘜𐘅𐘬𐙉𐄓𐄋\n𐜗𐄋\n𐜉𐄊\n𐙘𐄌\n𐙋𐄐𐄊",
     "tracingImage": "images/HT14-Tracing.jpg",
-    "transcription": "𐘫𐙍𐄁𐘃𐄁𐙉𐄒𐜗𐄉\n𐜉𐄉𐙘𐄏𐙋𐄐𐄉\n𐘇𐘜𐘅𐘬𐙉𐄓𐄋\n𐜗𐄋𐜉𐄊𐙘𐄌\n𐙋𐄐𐄊\n\n\n\n\n\n",
+    "transcription": "𐘫𐙍𐄁𐘃𐄁𐙉𐄒𐜗𐄉\n𐜉𐄉𐙘𐄏𐙋𐄐𐄉\n𐘇𐘜𐘅𐘬𐙉𐄓𐄋\n𐜗𐄋𐜉𐄊𐙘𐄌\n𐙋𐄐𐄊",
     "translatedWords": [
-        "PU",
+        "PU𐙍",
         "𐄁",
         "TE",
         "𐄁",
@@ -1631,7 +1619,7 @@ var inscriptions = [
         "olives",
         "13",
         "\n",
-        "A-NA-DU",
+        "A𐘜-NA-DU",
         "grain",
         "45",
         "\n",
@@ -1645,11 +1633,10 @@ var inscriptions = [
         "6",
         "\n",
         "olives",
-        "14",
-        "\n"
+        "14"
     ],
     "transliteratedWords": [
-        "PU",
+        "PU𐙍",
         "𐄁",
         "TE",
         "𐄁",
@@ -1668,7 +1655,7 @@ var inscriptions = [
         "olives",
         "13",
         "\n",
-        "A-NA-DU",
+        "A𐘜-NA-DU",
         "grain",
         "45",
         "\n",
@@ -1682,8 +1669,7 @@ var inscriptions = [
         "6",
         "\n",
         "olives",
-        "14",
-        "\n"
+        "14"
     ],
     "words": [
         "𐘫𐙍",
@@ -1719,8 +1705,7 @@ var inscriptions = [
         "𐄌",
         "\n",
         "𐙋",
-        "𐄐𐄊",
-        "\n"
+        "𐄐𐄊"
     ]
 },
 {
@@ -1730,10 +1715,10 @@ var inscriptions = [
     "tracingImage": "images/HT15-Tracing.jpg",
     "transcription": "𐘉𐘟𐘤𐙉𐘬𐙌𐘇\n𐄞𐄗𐄊𐛹\n𐄝𐄖\n𐙓𐄁𐘸𐘁𐄜\n𐝫",
     "translatedWords": [
-        "U-SI",
+        "U𐘟-SI",
         "grain",
         "\n",
-        "DU-A",
+        "DU𐙌-A",
         "684",
         "\n",
         "𐛹",
@@ -1747,10 +1732,10 @@ var inscriptions = [
         "𐝫"
     ],
     "transliteratedWords": [
-        "U-SI",
+        "U𐘟-SI",
         "grain",
         "\n",
-        "DU-A",
+        "DU𐙌-A",
         "684",
         "\n",
         "𐛹",
@@ -1786,7 +1771,7 @@ var inscriptions = [
     "name": "HT16",
     "parsedInscription": "𐘾𐙂𐘂𐄁\n𐘆𐘅𐘉𐝄\n𐄁𐘮𐝁\n𐜇𐝃𐝄\n𐘞𐘊𐘼𐝇",
     "tracingImage": "images/HT16-Tracing.jpg",
-    "transcription": "𐘾𐙂𐘂𐄁𐘆\n𐘅𐘉𐝄𐄁𐘮\n𐝁𐜇𐝃𐝄\n𐘞𐘊𐘼𐝇\n",
+    "transcription": "𐘾𐙂𐘂𐄁𐘆\n𐘅𐘉𐝄𐄁𐘮\n𐝁𐜇𐝃𐝄\n𐘞𐘊𐘼𐝇",
     "translatedWords": [
         "KA-KU-PA",
         "𐄁",
@@ -1845,11 +1830,11 @@ var inscriptions = [
 {
     "image": "images/HT17-Inscription.jpg",
     "name": "HT17",
-    "parsedInscription": "𐘴󽇫𐘠𐄁𐘃𐄁𐙍𐄒𐄍\n𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋\n",
+    "parsedInscription": "𐘴󽇫𐘠𐄁𐘃𐄁𐙍𐄒𐄍\n𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
     "tracingImage": "images/HT17-Tracing.jpg",
-    "transcription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍\n𐄒𐄍𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋\n",
+    "transcription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍\n𐄒𐄍𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
     "translatedWords": [
-        "RA-TI",
+        "RA󽇫-TI",
         "𐄁",
         "TE",
         "𐄁",
@@ -1860,11 +1845,10 @@ var inscriptions = [
         "10",
         "\n",
         "SI-DA-RE",
-        "5",
-        "\n"
+        "5"
     ],
     "transliteratedWords": [
-        "RA-TI",
+        "RA󽇫-TI",
         "𐄁",
         "TE",
         "𐄁",
@@ -1875,8 +1859,7 @@ var inscriptions = [
         "10",
         "\n",
         "SI-DA-RE",
-        "5",
-        "\n"
+        "5"
     ],
     "words": [
         "𐘴󽇫𐘠",
@@ -1890,16 +1873,15 @@ var inscriptions = [
         "𐄐",
         "\n",
         "𐘤𐘀𐘙",
-        "𐄋",
-        "\n"
+        "𐄋"
     ]
 },
 {
     "image": "images/HT18-Inscription.jpg",
     "name": "HT18",
-    "parsedInscription": "𐘂𐘈𐛱𐄑\n𐜓𐄈\n𐙘𐄉\n𐘞𐘽𐙉𐄐\n𐘝𐄐\n",
+    "parsedInscription": "𐘂𐘈𐛱𐄑\n𐜓𐄈\n𐙘𐄉\n𐘞𐘽𐙉𐄐\n𐘝𐄐",
     "tracingImage": "images/HT18-Tracing.jpg",
-    "transcription": "𐘂𐘈𐛱𐄑𐜓𐄈\n𐙘𐄉𐘞𐘽𐙉𐄐𐘝\n𐄐\n\n\n",
+    "transcription": "𐘂𐘈𐛱𐄑𐜓𐄈\n𐙘𐄉𐘞𐘽𐙉𐄐𐘝\n𐄐",
     "translatedWords": [
         "PA-SE",
         "𐛱",
@@ -1911,13 +1893,12 @@ var inscriptions = [
         "coriander?",
         "3",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "10",
         "\n",
         "figs",
-        "10",
-        "\n"
+        "10"
     ],
     "transliteratedWords": [
         "PA-SE",
@@ -1930,13 +1911,12 @@ var inscriptions = [
         "coriander?",
         "3",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "10",
         "\n",
         "figs",
-        "10",
-        "\n"
+        "10"
     ],
     "words": [
         "𐘂𐘈",
@@ -1954,18 +1934,17 @@ var inscriptions = [
         "𐄐",
         "\n",
         "𐘝",
-        "𐄐",
-        "\n"
+        "𐄐"
     ]
 },
 {
     "image": "images/HT19-Inscription.jpg",
     "name": "HT19",
-    "parsedInscription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍𐄒\n𐘞𐘁𐄋𐝆\n𐘬𐘋𐘆𐄓𐄉𐝆\n",
+    "parsedInscription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍𐄒\n𐘞𐘁𐄋𐝆\n𐘬𐘋𐘆𐄓𐄉𐝆",
     "tracingImage": "images/HT19-Tracing.jpg",
     "transcription": "𐘴𐙐𐘠𐄁𐘃𐄁\n𐙍𐄒𐘞𐘁\n𐄋𐝆𐘬𐘋𐘆\n𐄓𐄉𐝆",
     "translatedWords": [
-        "RA-TI",
+        "RA𐙐-TI",
         "𐄁",
         "TE",
         "𐄁",
@@ -1978,11 +1957,10 @@ var inscriptions = [
         "\n",
         "DU-ME-DI",
         "43",
-        "¹⁄₂",
-        "\n"
+        "¹⁄₂"
     ],
     "transliteratedWords": [
-        "RA-TI",
+        "RA𐙐-TI",
         "𐄁",
         "TE",
         "𐄁",
@@ -1995,8 +1973,7 @@ var inscriptions = [
         "\n",
         "DU-ME-DI",
         "43",
-        "¹⁄₂",
-        "\n"
+        "¹⁄₂"
     ],
     "words": [
         "𐘴𐙐𐘠",
@@ -2012,8 +1989,7 @@ var inscriptions = [
         "\n",
         "𐘬𐘋𐘆",
         "𐄓𐄉",
-        "𐝆",
-        "\n"
+        "𐝆"
     ]
 },
 {
@@ -2021,7 +1997,7 @@ var inscriptions = [
     "name": "HT20",
     "parsedInscription": "𐘂𐘁𐘲𐄁\n𐙂𐙁𐘶𐝃\n𐘿𐙂𐘙𐄁𐘆𐝆\n𐘑𐝄\n𐘞𐘙𐘶𐝄\n𐘮𐝃\n𐜇𐝆",
     "tracingImage": "images/HT20-Tracing.jpg",
-    "transcription": "𐘂𐘁𐘲𐄁𐙂\n𐙁𐘶𐝃𐘿𐙂\n𐘙𐄁𐘆𐝆𐘑𐝄\n𐘞𐘙𐘶𐝄𐘮\n𐝃𐜇𐝆\n\n",
+    "transcription": "𐘂𐘁𐘲𐄁𐙂\n𐙁𐘶𐝃𐘿𐙂\n𐘙𐄁𐘆𐝆𐘑𐝄\n𐘞𐘙𐘶𐝄𐘮\n𐝃𐜇𐝆",
     "translatedWords": [
         "PA-RO-SU",
         "𐄁",
@@ -2098,9 +2074,9 @@ var inscriptions = [
 {
     "image": "images/HT21-Inscription.jpg",
     "name": "HT21",
-    "parsedInscription": "𐘢𐘳𐘾𐘈𐄁𐘃𐄁𐙉𐄙𐄕𐄇\n𐜋𐄐𐄇\n𐜎𐄉𐝕\n𐙘𐄍𐝕\n𐙋𐄇𐝃\n",
+    "parsedInscription": "𐘢𐘳𐘾𐘈𐄁𐘃𐄁𐙉𐄙𐄕𐄇\n𐜋𐄐𐄇\n𐜎𐄉𐝕\n𐙘𐄍𐝕\n𐙋𐄇𐝃",
     "tracingImage": "images/HT21-Tracing.jpg",
-    "transcription": "𐘢𐘳𐘾𐘈𐄁𐘃𐄁\n𐙉𐄙𐄕𐄇𐜋𐄐\n𐄇𐜎𐄉𐝕𐙘𐄍𐝕\n𐙋𐄇𐝃\n\n",
+    "transcription": "𐘢𐘳𐘾𐘈𐄁𐘃𐄁\n𐙉𐄙𐄕𐄇𐜋𐄐\n𐄇𐜎𐄉𐝕𐙘𐄍𐝕\n𐙋𐄇𐝃",
     "translatedWords": [
         "PI-TA-KA-SE",
         "𐄁",
@@ -2122,8 +2098,7 @@ var inscriptions = [
         "\n",
         "olives",
         "1",
-        "¹⁄₄",
-        "\n"
+        "¹⁄₄"
     ],
     "transliteratedWords": [
         "PI-TA-KA-SE",
@@ -2146,8 +2121,7 @@ var inscriptions = [
         "\n",
         "olives",
         "1",
-        "¹⁄₄",
-        "\n"
+        "¹⁄₄"
     ],
     "words": [
         "𐘢𐘳𐘾𐘈",
@@ -2170,8 +2144,7 @@ var inscriptions = [
         "\n",
         "𐙋",
         "𐄇",
-        "𐝃",
-        "\n"
+        "𐝃"
     ]
 },
 {
@@ -2219,7 +2192,7 @@ var inscriptions = [
     "name": "HT23a",
     "parsedInscription": "𐘾𐘅𐄁𐙗𐝁\n𐙜𐝅\n𐜍𐝅\n𐜖𐝅\n𐜏𐝅\n𐛚𐝅\n𐙍𐄐\n𐚹𐄐\n𐚺𐄐\n𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇\n𐘞𐘞𐘋𐝇\n𐛊𐄐\n𐘺𐘘𐄇",
     "tracingImage": "images/HT23a-Tracing.jpg",
-    "transcription": "𐘾𐘅𐄁𐙗𐝁𐙜𐝅𐜍𐝅\n𐜖𐝅𐜏𐝅𐛚𐝅𐙍\n𐄐𐚹𐄐𐚺𐄐𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇𐘞𐘞\n𐘋𐝇𐛊𐄐𐘺𐘘𐄇\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐘾𐘅𐄁𐙗𐝁𐙜𐝅𐜍𐝅\n𐜖𐝅𐜏𐝅𐛚𐝅𐙍\n𐄐𐚹𐄐𐚺𐄐𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇𐘞𐘞\n𐘋𐝇𐛊𐄐𐘺𐘘𐄇",
     "translatedWords": [
         "KA-NA",
         "𐄁",
@@ -2253,7 +2226,7 @@ var inscriptions = [
         "E",
         "17",
         "\n",
-        "RI-TU-QA",
+        "𐘐-RI-TU-QA",
         "¹⁄₁₆",
         "\n",
         "SA-SA-ME",
@@ -2298,7 +2271,7 @@ var inscriptions = [
         "E",
         "17",
         "\n",
-        "RI-TU-QA",
+        "𐘐-RI-TU-QA",
         "¹⁄₁₆",
         "\n",
         "SA-SA-ME",
@@ -2361,7 +2334,7 @@ var inscriptions = [
     "name": "HT23b",
     "parsedInscription": "𐘝𐘴𐙗𐝁\n𐙖𐝫𐝁\n𐛚\n𐝫𐘕𐝫\n𐚻𐝫\n𐚹𐄇\n𐝫\n𐘡𐄍𐝫\n𐝫",
     "tracingImage": "images/HT23b-Tracing.jpg",
-    "transcription": "𐘝𐘴𐙗𐝁𐙖𐝫𐝁\n𐛚𐝫𐘕𐝫𐚻𐝫𐚹𐄇\n𐝫𐘡𐄍𐝫\n𐝫\n𐝫\n\n\n\n",
+    "transcription": "𐘝𐘴𐙗𐝁𐙖𐝫𐝁\n𐛚𐝫𐘕𐝫𐚻𐝫𐚹𐄇\n𐝫𐘡𐄍𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "NI-RA",
         "cyperus",
@@ -2374,7 +2347,7 @@ var inscriptions = [
         "\n",
         "bovine",
         "\n",
-        "𐚻𐝫",
+        "𐚻",
         "\n",
         "𐚹",
         "1",
@@ -2398,7 +2371,7 @@ var inscriptions = [
         "\n",
         "bovine",
         "\n",
-        "𐚻𐝫",
+        "𐚻",
         "\n",
         "𐚹",
         "1",
@@ -2440,9 +2413,9 @@ var inscriptions = [
     "name": "HT24a",
     "parsedInscription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌\n𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆\n𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐙁𐘘𐘋\n𐘘𐘚𐘺𐛢𐝫",
     "tracingImage": "images/HT24a-Tracing.jpg",
-    "transcription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐛢𐝫\n𐘘𐘚𐘺𐛢𐝫\n\n",
+    "transcription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐛢𐝫\n𐘘𐘚𐘺𐛢𐝫",
     "translatedWords": [
-        "KU-RI-JA",
+        "KU𐘰-RI-JA",
         "KI-MA-RU",
         "\n",
         "6",
@@ -2460,10 +2433,10 @@ var inscriptions = [
         "\n",
         "MA-RU-ME",
         "RU-I-KO",
-        "𐛢𐝫"
+        "𐛢"
     ],
     "transliteratedWords": [
-        "KU-RI-JA",
+        "KU𐘰-RI-JA",
         "KI-MA-RU",
         "\n",
         "6",
@@ -2481,7 +2454,7 @@ var inscriptions = [
         "\n",
         "MA-RU-ME",
         "RU-I-KO",
-        "𐛢𐝫"
+        "𐛢"
     ],
     "words": [
         "𐙂𐘰𐘭𐘱",
@@ -2508,9 +2481,9 @@ var inscriptions = [
 {
     "image": "images/HT24b-Inscription.jpg",
     "name": "HT24b",
-    "parsedInscription": "𐝫𐙈𐄇𐝆𐝃\n𐛋𐙈𐄇𐝆𐝃\n𐛒𐙈𐄇\n",
+    "parsedInscription": "𐝫𐙈𐄇𐝆𐝃\n𐛋𐙈𐄇𐝆𐝃\n𐛒𐙈𐄇",
     "tracingImage": "images/HT24b-Tracing.jpg",
-    "transcription": "𐝫𐙈𐄇𐝕𐛋\n𐙈𐄇𐝕𐛒𐙈𐄇\n\n",
+    "transcription": "𐝫𐙈𐄇𐝕𐛋\n𐙈𐄇𐝕𐛒𐙈𐄇",
     "translatedWords": [
         "weight base unit",
         "1",
@@ -2521,8 +2494,7 @@ var inscriptions = [
         "𐝆𐝃",
         "\n",
         "𐛒𐙈",
-        "1",
-        "\n"
+        "1"
     ],
     "transliteratedWords": [
         "weight base unit",
@@ -2534,8 +2506,7 @@ var inscriptions = [
         "𐝆𐝃",
         "\n",
         "𐛒𐙈",
-        "1",
-        "\n"
+        "1"
     ],
     "words": [
         "𐝫𐙈",
@@ -2547,8 +2518,7 @@ var inscriptions = [
         "𐝆𐝃",
         "\n",
         "𐛒𐙈",
-        "𐄇",
-        "\n"
+        "𐄇"
     ]
 },
 {
@@ -2556,7 +2526,7 @@ var inscriptions = [
     "name": "HT25a",
     "parsedInscription": "𐝫\n𐝫𐄇\n𐘆𐘅𐘉𐝫\n𐝫𐘘𐘝𐄇\n𐘉𐘙𐘣𐄇\n𐘆𐘅𐘉𐄇\n𐘇𐘭𐘝𐘳𐄇\n𐘹𐘿𐘯𐝫\n𐝫𐙀𐘶𐘜𐄇\n𐘬𐘘𐘣𐝫\n𐝫𐘚𐘸𐘴𐄇\n𐘂𐄇",
     "tracingImage": "images/HT25a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐄇𐘆𐘅𐘉𐝫\n𐝫𐘘𐘝𐄇𐘉𐘙𐘣𐄇𐘆𐘅𐘉\n𐄇𐘇𐘭𐘝𐘳𐄇𐘹𐘿𐘯𐝫\n𐝫𐙀𐘶𐘜𐄇𐘬𐘘𐘣𐝫\n𐝫𐘚𐘸𐘴𐄇𐘂𐄇\n\n\n\n\n\n",
+    "transcription": "𐝫\n𐝫𐄇𐘆𐘅𐘉𐝫\n𐝫𐘘𐘝𐄇𐘉𐘙𐘣𐄇𐘆𐘅𐘉\n𐄇𐘇𐘭𐘝𐘳𐄇𐘹𐘿𐘯𐝫\n𐝫𐙀𐘶𐘜𐄇𐘬𐘘𐘣𐝫\n𐝫𐘚𐘸𐘴𐄇𐘂𐄇",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -2578,7 +2548,7 @@ var inscriptions = [
         "\n",
         "TU-QE-NU",
         "\n",
-        "JU",
+        "𐙀-JU𐘜",
         "1",
         "\n",
         "DU-RU-WI",
@@ -2610,7 +2580,7 @@ var inscriptions = [
         "\n",
         "TU-QE-NU",
         "\n",
-        "JU",
+        "𐙀-JU𐘜",
         "1",
         "\n",
         "DU-RU-WI",
@@ -2659,7 +2629,7 @@ var inscriptions = [
     "name": "HT25b",
     "parsedInscription": "𐝫\n𐝫\n𐙂𐘁𐄐𐄌\n𐘣𐘃𐘁𐄁𐘚𐘠𐙇𐄑𐄎\n𐙇𐄑𐄊\n𐙂𐘁𐄔𐄈",
     "tracingImage": "images/HT25b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐙂𐘁𐄐𐄌𐘣𐘃𐘁𐄁𐘚\n𐘠𐙇𐄑𐄎𐙇𐄑𐄊\n𐙂𐘁𐄔𐄈\n",
+    "transcription": "𐝫\n𐝫\n𐙂𐘁𐄐𐄌𐘣𐘃𐘁𐄁𐘚\n𐘠𐙇𐄑𐄎𐙇𐄑𐄊\n𐙂𐘁𐄔𐄈",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -2726,12 +2696,12 @@ var inscriptions = [
     "name": "HT26a",
     "parsedInscription": "𐜮𐄁\n𐙢𐘃𐘃𐄁\n𐘳𐘠𐄑𐄇\n𐘻𐘸𐘈𐘅𐄐𐄋\n𐘉𐘯𐘐𐄋𐝫\n𐝫",
     "tracingImage": "images/HT26a-Tracing.jpg",
-    "transcription": "𐜮𐄁𐙢𐘃𐘃𐄁\n𐘳𐘠𐄑𐄇𐘻𐘸\n𐘈𐘅𐄐𐄋𐘉𐘯\n𐘐𐄋𐝫\n𐝫\n",
+    "transcription": "𐜮𐄁𐙢𐘃𐘃𐄁\n𐘳𐘠𐄑𐄇𐘻𐘸\n𐘈𐘅𐄐𐄋𐘉𐘯\n𐘐𐄋𐝫\n𐝫",
     "translatedWords": [
         "𐜮",
         "𐄁",
         "\n",
-        "TE-TE",
+        "𐙢-TE-TE",
         "𐄁",
         "\n",
         "TA-TI",
@@ -2740,7 +2710,7 @@ var inscriptions = [
         "MI-KI-SE-NA",
         "15",
         "\n",
-        "U-NU",
+        "U-NU𐘐",
         "5",
         "\n",
         "𐝫"
@@ -2749,7 +2719,7 @@ var inscriptions = [
         "𐜮",
         "𐄁",
         "\n",
-        "TE-TE",
+        "𐙢-TE-TE",
         "𐄁",
         "\n",
         "TA-TI",
@@ -2758,7 +2728,7 @@ var inscriptions = [
         "MI-KI-SE-NA",
         "15",
         "\n",
-        "U-NU",
+        "U-NU𐘐",
         "5",
         "\n",
         "𐝫"
@@ -2787,7 +2757,7 @@ var inscriptions = [
     "name": "HT26b",
     "parsedInscription": "𐄁𐜮𐄁𐙇𐄏\n𐝫𐘁𐘝𐄉\n𐘾𐘉𐙀𐘝𐄊\n𐛖𐄐𐄈\n𐘚𐙜𐄈𐝫\n𐙓𐙅𐄍𐝫\n𐝫",
     "tracingImage": "images/HT26b-Tracing.jpg",
-    "transcription": "𐄁𐜮𐄁𐙇𐄏\n𐝫𐘁𐘝𐄉𐘾𐘉\n𐙀𐘝𐄊𐛖𐄐𐄈\n𐘚𐙜𐄈𐝫𐙓𐙅𐄍𐝫\n𐝫\n\n",
+    "transcription": "𐄁𐜮𐄁𐙇𐄏\n𐝫𐘁𐘝𐄉𐘾𐘉\n𐙀𐘝𐄊𐛖𐄐𐄈\n𐘚𐙜𐄈𐝫𐙓𐙅𐄍𐝫\n𐝫",
     "translatedWords": [
         "𐄁",
         "𐜮",
@@ -2798,13 +2768,13 @@ var inscriptions = [
         "RO-NI",
         "3",
         "\n",
-        "KA-U-NI",
+        "KA-U𐙀-NI",
         "4",
         "\n",
         "𐛖",
         "12",
         "\n",
-        "I",
+        "I𐙜",
         "2",
         "\n",
         "𐙓𐙅",
@@ -2822,13 +2792,13 @@ var inscriptions = [
         "RO-NI",
         "3",
         "\n",
-        "KA-U-NI",
+        "KA-U𐙀-NI",
         "4",
         "\n",
         "𐛖",
         "12",
         "\n",
-        "I",
+        "I𐙜",
         "2",
         "\n",
         "𐙓𐙅",
@@ -2866,7 +2836,7 @@ var inscriptions = [
     "name": "HT27a",
     "parsedInscription": "𐘠𐘝𐘳𐄁𐙛𐄁\n𐙇𐄘\n𐝫𐄔\n𐙅𐄔𐄇\n𐘙𐄑\n𐝫𐘚𐘻𐘞𐘴𐄓𐄉\n𐝫𐘿𐄑𐄇\n𐘸𐘀𐝫\n𐝫𐘸𐙠𐄁𐙂𐙙𐝫\n𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝆𐝃𐝁\n𐘝𐄐𐝁\n𐙍𐄍",
     "tracingImage": "images/HT27a-Tracing.jpg",
-    "transcription": "𐘠𐘝𐘳𐄁𐙛𐄁𐙇𐄘\n𐝫𐄔𐙅𐄔𐄇𐘙𐄑𐝫\n𐘚𐘻𐘞𐘴𐄓𐄉𐝫\n𐘿𐄑𐄇𐘸𐘀𐝫𐘸\n𐙠𐄁𐙂𐙙𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝆𐝃𐝁𐘝𐄐𐝁𐙍𐄍\n\n\n\n\n\n\n",
+    "transcription": "𐘠𐘝𐘳𐄁𐙛𐄁𐙇𐄘\n𐝫𐄔𐙅𐄔𐄇𐘙𐄑𐝫\n𐘚𐘻𐘞𐘴𐄓𐄉𐝫\n𐘿𐄑𐄇𐘸𐘀𐝫𐘸\n𐙠𐄁𐙂𐙙𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝆𐝃𐝁𐘝𐄐𐝁𐙍𐄍",
     "translatedWords": [
         "TI-NI-TA",
         "𐄁",
@@ -2892,9 +2862,9 @@ var inscriptions = [
         "\n",
         "KI-DA",
         "\n",
-        "KI",
+        "KI𐙠",
         "𐄁",
-        "KU",
+        "KU𐙙",
         "\n",
         "SA-RA-DI",
         "5",
@@ -2941,9 +2911,9 @@ var inscriptions = [
         "\n",
         "KI-DA",
         "\n",
-        "KI",
+        "KI𐙠",
         "𐄁",
-        "KU",
+        "KU𐙙",
         "\n",
         "SA-RA-DI",
         "5",
@@ -3018,9 +2988,9 @@ var inscriptions = [
 {
     "image": "images/HT27b-Inscription.jpg",
     "name": "HT27b",
-    "parsedInscription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐄁𐙉𐄁𐘞𐄇\n𐘙𐄐𐄊\n𐙍𐄁𐘤𐄁\n𐝫\n\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊\n𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊\n𐘙𐝫𐄓\n",
+    "parsedInscription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐄁𐙉𐄁𐘞𐄇\n𐘙𐄐𐄊\n𐙍𐄁𐘤𐄁\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊\n𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊\n𐘙𐝫𐄓",
     "tracingImage": "images/HT27b-Tracing.jpg",
-    "transcription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐙉𐄁𐘞𐄇𐘙𐄐𐄊𐙍𐘤\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊𐘙𐝫𐄓\n\n\n\n\n\n",
+    "transcription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐙉𐄁𐘞𐄇𐘙𐄐𐄊𐙍𐘤\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊𐘙𐝫𐄓",
     "translatedWords": [
         "MI-DA",
         "𐄁",
@@ -3046,7 +3016,6 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "\n",
         "PA-SE",
         "𐄁",
         "𐛽",
@@ -3065,8 +3034,7 @@ var inscriptions = [
         "4",
         "\n",
         "RE",
-        "40",
-        "\n"
+        "40"
     ],
     "transliteratedWords": [
         "MI-DA",
@@ -3093,7 +3061,6 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "\n",
         "PA-SE",
         "𐄁",
         "𐛽",
@@ -3112,8 +3079,7 @@ var inscriptions = [
         "4",
         "\n",
         "RE",
-        "40",
-        "\n"
+        "40"
     ],
     "words": [
         "𐝫𐘻𐘀",
@@ -3140,7 +3106,6 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "\n",
         "𐘂𐘈",
         "𐄁",
         "𐛽",
@@ -3159,8 +3124,7 @@ var inscriptions = [
         "𐄊",
         "\n",
         "𐘙𐝫",
-        "𐄓",
-        "\n"
+        "𐄓"
     ]
 },
 {
@@ -3168,12 +3132,12 @@ var inscriptions = [
     "name": "HT28a",
     "parsedInscription": "𐘇𐘤𐘱𐘾𐄁\n𐘱𐘐𐄁𐛱𐄋\n𐜋𐄈\n𐜓𐝆\n𐜗𐄇\n𐜖𐝉\n𐘞𐘽𐜉𐄇\n𐘝𐄈\n𐙍𐄉\n𐛧𐙍𐄌\n𐘇𐘘𐘀𐘴𐙉𐄋\n𐙘𐄈\n𐜉𐄉\n𐘚𐘳𐘱𐜉𐄐",
     "tracingImage": "images/HT28a-Tracing.jpg",
-    "transcription": "𐘇𐘤𐘱𐘾𐄁𐘱𐘐𐄁𐛱\n𐄋𐜋𐄈𐜓𐝆𐜗𐄇𐜖\n𐝉𐘞𐘽𐜉𐄇𐘝𐄈\n𐙍𐄉𐛧𐙍𐄌\n𐘇𐘘𐘀𐘴𐙉𐄋𐙘𐄈\n𐜉𐄉𐘚𐘳𐘱𐜉𐄐\n\n\n\n\n\n\n\n",
+    "transcription": "𐘇𐘤𐘱𐘾𐄁𐘱𐘐𐄁𐛱\n𐄋𐜋𐄈𐜓𐝆𐜗𐄇𐜖\n𐝉𐘞𐘽𐜉𐄇𐘝𐄈\n𐙍𐄉𐛧𐙍𐄌\n𐘇𐘘𐘀𐘴𐙉𐄋𐙘𐄈\n𐜉𐄉𐘚𐘳𐘱𐜉𐄐",
     "translatedWords": [
         "A-SI-JA-KA",
         "𐄁",
         "\n",
-        "JA",
+        "JA𐘐",
         "𐄁",
         "𐛱",
         "5",
@@ -3190,7 +3154,7 @@ var inscriptions = [
         "𐜖",
         "𐝉",
         "\n",
-        "SA",
+        "SA𐘽",
         "𐜉",
         "1",
         "\n",
@@ -3221,7 +3185,7 @@ var inscriptions = [
         "A-SI-JA-KA",
         "𐄁",
         "\n",
-        "JA",
+        "JA𐘐",
         "𐄁",
         "𐛱",
         "5",
@@ -3238,7 +3202,7 @@ var inscriptions = [
         "𐜖",
         "𐝉",
         "\n",
-        "SA",
+        "SA𐘽",
         "𐜉",
         "1",
         "\n",
@@ -3319,14 +3283,14 @@ var inscriptions = [
     "name": "HT28b",
     "parsedInscription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻𐘅𐘤𐄁\n𐘞𐘽𐙉𐄑\n𐜉𐄋\n𐘝𐄈\n𐙍𐄊\n𐘫𐘽𐘝𐄌\n𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉\n𐙍𐄉\n𐝫𐝃",
     "tracingImage": "images/HT28b-Tracing.jpg",
-    "transcription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻𐄁\n𐘅𐘤𐘞𐘽𐙉𐄑𐜉\n𐄋𐘝𐄈𐙍𐄊𐘫𐘽\n𐘝𐄌𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉𐙍𐄉\n𐝫𐝃𐝫\n\n\n\n",
+    "transcription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻𐄁\n𐘅𐘤𐘞𐘽𐙉𐄑𐜉\n𐄋𐘝𐄈𐙍𐄊𐘫𐘽\n𐘝𐄌𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉𐙍𐄉\n𐝫𐝃𐝫",
     "translatedWords": [
         "A-SI-JA-KA",
         "𐄁",
         "owed",
         "𐄁",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "20",
         "\n",
@@ -3339,11 +3303,11 @@ var inscriptions = [
         "wine",
         "4",
         "\n",
-        "PU",
+        "PU𐘽",
         "figs",
         "6",
         "\n",
-        "JA",
+        "JA𐘐",
         "wine",
         "6",
         "\n",
@@ -3362,7 +3326,7 @@ var inscriptions = [
         "U-MI-NA-SI",
         "𐄁",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "20",
         "\n",
@@ -3375,11 +3339,11 @@ var inscriptions = [
         "wine",
         "4",
         "\n",
-        "PU",
+        "PU𐘽",
         "figs",
         "6",
         "\n",
-        "JA",
+        "JA𐘐",
         "wine",
         "6",
         "\n",
@@ -3434,7 +3398,7 @@ var inscriptions = [
     "name": "HT29",
     "parsedInscription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐝫𐄇\n𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇\n𐝫𐄁𐝫𐘸𐘳𐄈\n𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
     "tracingImage": "images/HT29-Tracing.jpg",
-    "transcription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐝫𐄇𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇𐝫𐄁𐝫𐘸𐘳\n𐄈𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇\n\n",
+    "transcription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐝫𐄇𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇𐝫𐄁𐝫𐘸𐘳\n𐄈𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
     "translatedWords": [
         "RU-MA-TA",
         "2",
@@ -3452,7 +3416,7 @@ var inscriptions = [
         "2",
         "DI-JA-I",
         "2",
-        "SA-MI",
+        "SA𐙯-MI",
         "1",
         "KI-TA",
         "2",
@@ -3478,7 +3442,7 @@ var inscriptions = [
         "2",
         "DI-JA-I",
         "2",
-        "SA-MI",
+        "SA𐙯-MI",
         "1",
         "KI-TA",
         "2",
@@ -3519,12 +3483,12 @@ var inscriptions = [
     "name": "HT30",
     "parsedInscription": "𐘤𐄊\n𐘞𐘽𐙗𐝫\n𐝫𐄐𐄊𐝆\n𐘝𐄍𐝂\n𐙍𐄎𐝆\n𐜐𐝓\n𐚻𐝂\n𐘞𐘴𐘴𐝆\n𐘖𐄊\n𐘸𐘁𐄁𐙗𐄎\n𐘝𐝓\n𐙍𐝆\n𐘖𐄇𐝫\n𐝫𐝂\n𐜐𐝂\n𐝫",
     "tracingImage": "images/HT30-Tracing.jpg",
-    "transcription": "𐘤𐄊𐘞𐘽𐙗𐝫\n𐝫𐄐𐄊𐝆𐘝𐄍𐝂𐙍𐄎𐝆\n𐜐𐝓𐚻𐝂𐘞𐘴𐘴𐝆\n𐘖𐄊𐘸𐘁𐄁𐙗𐄎𐘝𐝓\n𐙍𐝆𐘖𐄇𐝫𐝂𐜐𐝂\n𐝫\n\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐘤𐄊𐘞𐘽𐙗𐝫\n𐝫𐄐𐄊𐝆𐘝𐄍𐝂𐙍𐄎𐝆\n𐜐𐝓𐚻𐝂𐘞𐘴𐘴𐝆\n𐘖𐄊𐘸𐘁𐄁𐙗𐄎𐘝𐝓\n𐙍𐝆𐘖𐄇𐝫𐝂𐜐𐝂\n𐝫",
     "translatedWords": [
         "SI",
         "4",
         "\n",
-        "SA",
+        "SA𐘽",
         "cyperus",
         "\n",
         "14",
@@ -3575,7 +3539,7 @@ var inscriptions = [
         "SI",
         "4",
         "\n",
-        "SA",
+        "SA𐘽",
         "cyperus",
         "\n",
         "14",
@@ -3679,7 +3643,7 @@ var inscriptions = [
     "name": "HT31",
     "parsedInscription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋\n𐚢𐘌𐘰𐄐\n𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐\n𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐\n𐘸𐘦𐙁𐙯𐘅\n𐚢𐄜\n𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
     "tracingImage": "images/HT31-Tracing.jpg",
-    "transcription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋𐚢𐘌𐘰𐄐𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐𐘸𐘦𐙁𐙯𐘅\n𐝫𐚢𐝫𐄜𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤\n\n\n\n\n",
+    "transcription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋𐚢𐘌𐘰𐄐𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐𐘸𐘦𐙁𐙯𐘅\n𐝫𐚢𐝫𐄜𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
     "translatedWords": [
         "𐄁",
         "TI-SA",
@@ -3691,13 +3655,13 @@ var inscriptions = [
         "\n",
         "5",
         "\n",
-        "QA",
+        "𐚢-QA𐘰",
         "10",
         "\n",
-        "SU-PU",
+        "𐚯-SU-PU",
         "10",
         "\n",
-        "KA-RO",
+        "𐚰-KA-RO𐘰",
         "10",
         "\n",
         "SA-JA-MA",
@@ -3705,15 +3669,15 @@ var inscriptions = [
         "\n",
         "10",
         "\n",
-        "KI-DE-MA-NA",
+        "KI-DE-MA𐙯-NA",
         "\n",
         "𐚢",
         "400",
         "\n",
-        "SU-RA",
+        "𐚢-SU𐘰-RA",
         "300",
         "\n",
-        "PA-TA-QE",
+        "𐚢-PA-TA-QE",
         "𐄤"
     ],
     "transliteratedWords": [
@@ -3727,13 +3691,13 @@ var inscriptions = [
         "\n",
         "5",
         "\n",
-        "QA",
+        "𐚢-QA𐘰",
         "10",
         "\n",
-        "SU-PU",
+        "𐚯-SU-PU",
         "10",
         "\n",
-        "KA-RO",
+        "𐚰-KA-RO𐘰",
         "10",
         "\n",
         "SA-JA-MA",
@@ -3741,15 +3705,15 @@ var inscriptions = [
         "\n",
         "10",
         "\n",
-        "KI-DE-MA-NA",
+        "KI-DE-MA𐙯-NA",
         "\n",
         "𐚢",
         "400",
         "\n",
-        "SU-RA",
+        "𐚢-SU𐘰-RA",
         "300",
         "\n",
-        "PA-TA-QE",
+        "𐚢-PA-TA-QE",
         "𐄤"
     ],
     "words": [
@@ -3792,13 +3756,13 @@ var inscriptions = [
 {
     "image": "images/HT32-Inscription.jpg",
     "name": "HT32",
-    "parsedInscription": "𐙛\n𐘞𐘽𐄁𐙜𐝆\n𐜍𐝆𐝇\n𐚻𐄇𐝇\n𐚹𐄇\n𐛚𐄇\n𐘲𐘙𐄁𐄙𐄎\n𐘆𐄕𐄋\n𐜍𐝫\n𐝫𐘙𐄙𐄊\n𐘆𐄔𐄉\n",
+    "parsedInscription": "𐙛\n𐘞𐘽𐄁𐙜𐝆\n𐜍𐝆𐝇\n𐚻𐄇𐝇\n𐚹𐄇\n𐛚𐄇\n𐘲𐘙𐄁𐄙𐄎\n𐘆𐄕𐄋\n𐜍𐝫\n𐝫𐘙𐄙𐄊\n𐘆𐄔𐄉",
     "tracingImage": "images/HT32-Tracing.jpg",
-    "transcription": "𐙛𐘞𐘽𐄁𐙜𐝆𐜍𐝆𐝇\n𐚻𐄇𐝇𐚹𐄇𐛚𐄇\n𐘲𐘙𐄁𐄙𐄎𐘆𐄕𐄋\n𐜍𐝫𐘙𐄙𐄊𐘆𐄔𐄉\n\n\n\n\n\n\n\n",
+    "transcription": "𐙛𐘞𐘽𐄁𐙜𐝆𐜍𐝆𐝇\n𐚻𐄇𐝇𐚹𐄇𐛚𐄇\n𐘲𐘙𐄁𐄙𐄎𐘆𐄕𐄋\n𐜍𐝫𐘙𐄙𐄊𐘆𐄔𐄉",
     "translatedWords": [
         "𐙛",
         "\n",
-        "SA",
+        "SA𐘽",
         "𐄁",
         "𐙜",
         "¹⁄₂",
@@ -3823,19 +3787,18 @@ var inscriptions = [
         "DI",
         "65",
         "\n",
-        "𐜍𐝫",
+        "𐜍",
         "\n",
         "RE",
         "104",
         "\n",
         "DI",
-        "53",
-        "\n"
+        "53"
     ],
     "transliteratedWords": [
         "𐙛",
         "\n",
-        "SA",
+        "SA𐘽",
         "𐄁",
         "𐙜",
         "¹⁄₂",
@@ -3860,14 +3823,13 @@ var inscriptions = [
         "DI",
         "65",
         "\n",
-        "𐜍𐝫",
+        "𐜍",
         "\n",
         "RE",
         "104",
         "\n",
         "DI",
-        "53",
-        "\n"
+        "53"
     ],
     "words": [
         "𐙛",
@@ -3903,16 +3865,15 @@ var inscriptions = [
         "𐄙𐄊",
         "\n",
         "𐘆",
-        "𐄔𐄉",
-        "\n"
+        "𐄔𐄉"
     ]
 },
 {
     "image": "images/HT33-Inscription.jpg",
     "name": "HT33",
-    "parsedInscription": "𐝫𐄁\n𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃\n𐚹𐝉𐝋𐝫\n𐝫𐄉\n𐛆𐝃𐝉\n𐛜𐝂\n𐙙𐄘\n𐜦𐄙\n𐛐𐄙\n",
+    "parsedInscription": "𐝫𐄁\n𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃\n𐚹𐝉𐝋𐝫\n𐝫𐄉\n𐛆𐝃𐝉\n𐛜𐝂\n𐙙𐄘\n𐜦𐄙\n𐛐𐄙",
     "tracingImage": "images/HT33-Tracing.jpg",
-    "transcription": "𐝫𐄁𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃𐚹𐝉𐝋𐝫\n𐝫𐄉𐛆𐝃𐝉𐛜𐝂\n𐙙𐄘𐜦𐄙𐛐𐄙\n\n\n\n\n\n\n",
+    "transcription": "𐝫𐄁𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃𐚹𐝉𐝋𐝫\n𐝫𐄉𐛆𐝃𐝉𐛜𐝂\n𐙙𐄘𐜦𐄙𐛐𐄙",
     "translatedWords": [
         "𐄁",
         "\n",
@@ -3925,9 +3886,8 @@ var inscriptions = [
         "\n",
         "\n",
         "\n",
-        "\n",
         "𐝫𐄁",
-        "SA",
+        "SA𐘽",
         "𐜫",
         "𐚺",
         "1",
@@ -3958,9 +3918,8 @@ var inscriptions = [
         "\n",
         "\n",
         "\n",
-        "\n",
         "𐝫𐄁",
-        "SA",
+        "SA𐘽",
         "𐜫",
         "𐚺",
         "1",
@@ -3983,7 +3942,6 @@ var inscriptions = [
         "𐄁",
         "\n",
         "𐄁",
-        "\n",
         "\n",
         "\n",
         "\n",
@@ -4018,16 +3976,16 @@ var inscriptions = [
     "name": "HT34",
     "parsedInscription": "𐘀𐘶𐘃𐄁𐘤𐛀𐄁\n𐘞𐘽𐄁𐛜𐝫\n𐝫\n𐝫𐝁\n𐘡𐄁𐙉𐄚𐝫\n𐝫𐛅𐄈𐝅𐝇\n𐚻𐝀\n𐚹𐝃\n𐛛𐄚𐄓𐄋\n𐛂𐄙\n𐘰𐄖\n𐘸𐘁𐄒𐄍\n𐛆𐝇\n𐘫𐝄",
     "tracingImage": "images/HT34-Tracing.jpg",
-    "transcription": "𐘀𐘶𐘃𐄁𐘤𐛀𐄁𐘞𐘽𐄁\n𐛜𐝫𐝁\n𐘡𐄁𐙉𐄚𐝫𐛅𐄈𐝅𐝇\n𐚻𐝀𐚹𐝃\n𐛛𐄚𐄓𐄋\n𐛂𐄙𐘰𐄖𐘸𐘁𐄒𐄍\n𐛆𐝇𐘫𐝄\n\n\n\n\n\n\n",
+    "transcription": "𐘀𐘶𐘃𐄁𐘤𐛀𐄁𐘞𐘽𐄁\n𐛜𐝫𐝁\n𐘡𐄁𐙉𐄚𐝫𐛅𐄈𐝅𐝇\n𐚻𐝀𐚹𐝃\n𐛛𐄚𐄓𐄋\n𐛂𐄙𐘰𐄖𐘸𐘁𐄒𐄍\n𐛆𐝇𐘫𐝄",
     "translatedWords": [
         "DA-JU-TE",
         "𐄁",
-        "SI",
+        "SI𐛀",
         "𐄁",
         "\n",
-        "SA",
+        "SA𐘽",
         "𐄁",
-        "𐛜𐝫",
+        "𐛜",
         "\n",
         "𐝫",
         "\n",
@@ -4038,7 +3996,7 @@ var inscriptions = [
         "grain",
         "200",
         "\n",
-        "𐝫𐛅",
+        "𐛅",
         "2",
         "𐝅𐝇",
         "\n",
@@ -4069,12 +4027,12 @@ var inscriptions = [
     "transliteratedWords": [
         "DA-JU-TE",
         "𐄁",
-        "SI",
+        "SI𐛀",
         "𐄁",
         "\n",
-        "SA",
+        "SA𐘽",
         "𐄁",
-        "𐛜𐝫",
+        "𐛜",
         "\n",
         "𐝫",
         "\n",
@@ -4085,7 +4043,7 @@ var inscriptions = [
         "grain",
         "200",
         "\n",
-        "𐝫𐛅",
+        "𐛅",
         "2",
         "𐝅𐝇",
         "\n",
@@ -4164,9 +4122,9 @@ var inscriptions = [
 {
     "image": "images/HT35-Inscription.jpg",
     "name": "HT35",
-    "parsedInscription": "𐘠𐘠𐙂𐄁𐙲𐄁\n𐘚𐙂𐘳𐙗𐄇\n𐛚𐝁\n𐜏𐝁\n𐙜𐝁\n𐜐𐝫\n𐘡𐄋\n𐚻𐝇\n𐙍𐝂\n",
+    "parsedInscription": "𐘠𐘠𐙂𐄁𐙲𐄁\n𐘚𐙂𐘳𐙗𐄇\n𐛚𐝁\n𐜏𐝁\n𐙜𐝁\n𐜐𐝫\n𐘡𐄋\n𐚻𐝇\n𐙍𐝂",
     "tracingImage": "images/HT35-Tracing.jpg",
-    "transcription": "𐘠𐘠𐙂𐄁𐙲𐄁𐘚𐙂𐘳\n𐙗𐄇𐛚𐝁𐜏𐝁𐙜𐝁\n𐜐𐝫𐘡𐄋𐚻𐝇\n𐙍𐝂\n\n\n\n\n\n",
+    "transcription": "𐘠𐘠𐙂𐄁𐙲𐄁𐘚𐙂𐘳\n𐙗𐄇𐛚𐝁𐜏𐝁𐙜𐝁\n𐜐𐝫𐘡𐄋𐚻𐝇\n𐙍𐝂",
     "translatedWords": [
         "TI-TI-KU",
         "𐄁",
@@ -4186,7 +4144,7 @@ var inscriptions = [
         "𐙜",
         "¹⁄₃",
         "\n",
-        "𐜐𐝫",
+        "𐜐",
         "\n",
         "E",
         "5",
@@ -4195,8 +4153,7 @@ var inscriptions = [
         "¹⁄₁₆",
         "\n",
         "wine",
-        "¹⁄₅",
-        "\n"
+        "¹⁄₅"
     ],
     "transliteratedWords": [
         "TI-TI-KU",
@@ -4217,7 +4174,7 @@ var inscriptions = [
         "𐙜",
         "¹⁄₃",
         "\n",
-        "𐜐𐝫",
+        "𐜐",
         "\n",
         "E",
         "5",
@@ -4226,8 +4183,7 @@ var inscriptions = [
         "¹⁄₁₆",
         "\n",
         "wine",
-        "¹⁄₅",
-        "\n"
+        "¹⁄₅"
     ],
     "words": [
         "𐘠𐘠𐙂",
@@ -4257,14 +4213,13 @@ var inscriptions = [
         "𐝇",
         "\n",
         "𐙍",
-        "𐝂",
-        "\n"
+        "𐝂"
     ]
 },
 {
     "image": "images/HT36-Inscription.jpg",
     "name": "HT36",
-    "parsedInscription": "𐘧𐘆𐜠𐛱𐄑𐄓𐄊𐝆\n𐘬𐙀𐘮𐄍𐝆\n𐝫\n𐄌\n",
+    "parsedInscription": "𐘧𐘆𐜠𐛱𐄑𐄓𐄊𐝆\n𐘬𐙀𐘮𐄍𐝆\n𐝫\n𐄌",
     "tracingImage": "images/HT36-Tracing.jpg",
     "transcription": "𐘧𐘆𐜠𐛱𐄑\n𐄓𐄊𐝆𐘬𐙀𐘮\n𐄍𐝆\n𐝫\n𐄌",
     "translatedWords": [
@@ -4273,14 +4228,13 @@ var inscriptions = [
         "64",
         "¹⁄₂",
         "\n",
-        "DU-WA",
+        "DU𐙀-WA",
         "7",
         "¹⁄₂",
         "\n",
         "𐝫",
         "\n",
-        "6",
-        "\n"
+        "6"
     ],
     "transliteratedWords": [
         "JE-DI",
@@ -4288,14 +4242,13 @@ var inscriptions = [
         "64",
         "¹⁄₂",
         "\n",
-        "DU-WA",
+        "DU𐙀-WA",
         "7",
         "¹⁄₂",
         "\n",
         "𐝫",
         "\n",
-        "6",
-        "\n"
+        "6"
     ],
     "words": [
         "𐘧𐘆",
@@ -4309,8 +4262,7 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "𐄌",
-        "\n"
+        "𐄌"
     ]
 },
 {
@@ -4318,7 +4270,7 @@ var inscriptions = [
     "name": "HT37",
     "parsedInscription": "𐛛𐄁\n𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐝫\n𐝫𐄌\n𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁\n𐘾𐘸𐄐𐄇\n𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍",
     "tracingImage": "images/HT37-Tracing.jpg",
-    "transcription": "𐛛𐄁𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐄌𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁𐘾𐘸𐄐𐄇𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍\n\n\n\n\n",
+    "transcription": "𐛛𐄁𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐄌𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁𐘾𐘸𐄐𐄇𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍",
     "translatedWords": [
         "𐛛",
         "𐄁",
@@ -4334,7 +4286,7 @@ var inscriptions = [
         "6",
         "\n",
         "\n",
-        "KI-RE",
+        "KI𐙠-RE",
         "1",
         "\n",
         "owed",
@@ -4365,7 +4317,7 @@ var inscriptions = [
         "6",
         "\n",
         "\n",
-        "KI-RE",
+        "KI𐙠-RE",
         "1",
         "\n",
         "KI-RO",
@@ -4416,9 +4368,9 @@ var inscriptions = [
 {
     "image": "images/HT38-Inscription.jpg",
     "name": "HT38",
-    "parsedInscription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇\n𐙄𐄇\n𐘒𐄉\n𐛞𐙈𐄉\n𐛎𐄈\n𐛏𐄇\n",
+    "parsedInscription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇\n𐙄𐄇\n𐘒𐄉\n𐛞𐙈𐄉\n𐛎𐄈\n𐛏𐄇",
     "tracingImage": "images/HT38-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇𐙄𐄇𐘒𐄉𐛞\n𐙈𐄉𐛎𐄈𐛏𐄇\n\n\n\n\n",
+    "transcription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇𐙄𐄇𐘒𐄉𐛞\n𐙈𐄉𐛎𐄈𐛏𐄇",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -4440,8 +4392,7 @@ var inscriptions = [
         "2",
         "\n",
         "𐛏",
-        "1",
-        "\n"
+        "1"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -4464,8 +4415,7 @@ var inscriptions = [
         "2",
         "\n",
         "𐛏",
-        "1",
-        "\n"
+        "1"
     ],
     "words": [
         "𐝫",
@@ -4488,18 +4438,17 @@ var inscriptions = [
         "𐄈",
         "\n",
         "𐛏",
-        "𐄇",
-        "\n"
+        "𐄇"
     ]
 },
 {
     "image": "images/HT39-Inscription.jpg",
     "name": "HT39",
-    "parsedInscription": "𐘳𐘚𐙌𐄐𐝫\n𐝫𐙂𐘙𐘶𐄎\n𐙂𐝫\n𐝫𐘞𐙁𐘠𐄐\n𐙂𐘙𐝫\n\n𐝫𐙂𐘁𐜯𐄙\n𐝫𐛤𐄈𐝫\n𐛍𐝫\n𐝫",
+    "parsedInscription": "𐘳𐘚𐙌𐄐𐝫\n𐝫𐙂𐘙𐘶𐄎\n𐙂𐝫\n𐝫𐘞𐙁𐘠𐄐\n𐙂𐘙𐝫\n𐝫𐙂𐘁𐜯𐄙\n𐝫𐛤𐄈𐝫\n𐛍𐝫\n𐝫",
     "tracingImage": "images/HT39-Tracing.jpg",
-    "transcription": "𐘳𐘚𐙌𐄐𐝫\n𐝫𐙂𐘙𐘶𐄎𐙂𐝫\n𐝫𐘞𐙁𐘠𐄐𐙂𐘙𐝫\n𐝫𐙂𐘁𐜯𐄙\n𐝫𐛤𐄈𐝫𐛍𐝫\n𐝫\n\n\n\n",
+    "transcription": "𐘳𐘚𐙌𐄐𐝫\n𐝫𐙂𐘙𐘶𐄎𐙂𐝫\n𐝫𐘞𐙁𐘠𐄐𐙂𐘙𐝫\n𐝫𐙂𐘁𐜯𐄙\n𐝫𐛤𐄈𐝫𐛍𐝫\n𐝫",
     "translatedWords": [
-        "TA-I",
+        "TA-I𐙌",
         "10",
         "\n",
         "KU-RE-JU",
@@ -4511,21 +4460,20 @@ var inscriptions = [
         "10",
         "\n",
         "KU-RE",
-        "\n",
         "\n",
         "total",
         "𐜯",
         "100",
         "\n",
-        "𐝫𐛤",
+        "𐛤",
         "2",
         "\n",
-        "𐛍𐝫",
+        "𐛍",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
-        "TA-I",
+        "TA-I𐙌",
         "10",
         "\n",
         "KU-RE-JU",
@@ -4538,15 +4486,14 @@ var inscriptions = [
         "\n",
         "KU-RE",
         "\n",
-        "\n",
         "KU-RO",
         "𐜯",
         "100",
         "\n",
-        "𐝫𐛤",
+        "𐛤",
         "2",
         "\n",
-        "𐛍𐝫",
+        "𐛍",
         "\n",
         "𐝫"
     ],
@@ -4563,7 +4510,6 @@ var inscriptions = [
         "𐄐",
         "\n",
         "𐙂𐘙𐝫",
-        "\n",
         "\n",
         "𐝫𐙂𐘁",
         "𐜯",
@@ -4584,7 +4530,7 @@ var inscriptions = [
     "tracingImage": "images/HT40-Tracing.jpg",
     "transcription": "𐘯𐘬𐙷𐄁𐘃𐄁𐙉𐄚𐄍\n𐘸𐘀𐘳𐄁𐙉𐝫𐄙𐄒𐄊\n𐙂𐘁𐝫\n𐙂𐝫\n𐝫",
     "translatedWords": [
-        "NU-DU",
+        "NU-DU𐙷",
         "𐄁",
         "TE",
         "𐄁",
@@ -4603,7 +4549,7 @@ var inscriptions = [
         "𐝫"
     ],
     "transliteratedWords": [
-        "NU-DU",
+        "NU-DU𐙷",
         "𐄁",
         "TE",
         "𐄁",
@@ -4646,7 +4592,7 @@ var inscriptions = [
     "name": "HT41a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘿𐘹𐄐\n𐙙𐄁𐙘𐄐\n𐘙𐄁𐙘𐄐\n𐘻𐘀𐘝𐄁𐘂𐘱𐄈𐝂𐝂",
     "tracingImage": "images/HT41a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐝫𐘿𐘹𐄐\n𐙙𐄁𐙘𐄐𐘙𐄁𐙘𐄐\n𐘻𐘀𐘝𐄁𐘂𐘱𐄈𐝂𐝂\n",
+    "transcription": "𐝫\n𐝫\n𐝫𐘿𐘹𐄐\n𐙙𐄁𐙘𐄐𐘙𐄁𐙘𐄐\n𐘻𐘀𐘝𐄁𐘂𐘱𐄈𐝂𐝂",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -4723,61 +4669,56 @@ var inscriptions = [
 {
     "image": "images/HT41b-Inscription.jpg",
     "name": "HT41b",
-    "parsedInscription": "𐝫\n𐝫\n—\n",
+    "parsedInscription": "𐝫\n𐝫\n—",
     "tracingImage": "images/HT41b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n—\n",
+    "transcription": "𐝫\n𐝫\n—",
     "translatedWords": [
         "𐝫",
         "\n",
         "𐝫",
         "\n",
-        "—",
-        "\n"
+        "—"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
         "𐝫",
         "\n",
-        "—",
-        "\n"
+        "—"
     ],
     "words": [
         "𐝫",
         "\n",
         "𐝫",
         "\n",
-        "—",
-        "\n"
+        "—"
     ]
 },
 {
     "image": "images/HT43-Inscription.jpg",
     "name": "HT43",
-    "parsedInscription": "𐙁𐘤𐘬𐄁𐘂𐚂𐘚𐄁𐘚𐄁𐛭𐄋𐝫\n",
+    "parsedInscription": "𐙁𐘤𐘬𐄁𐘂𐚂𐘚𐄁𐘚𐄁𐛭𐄋𐝫",
     "tracingImage": "images/HT43-Tracing.jpg",
     "transcription": "𐙁𐘤𐘬𐄁𐘂\n𐚂𐘚𐄁𐘚𐄁𐛭𐄋𐝫",
     "translatedWords": [
         "MA-SI-DU",
         "𐄁",
-        "PA-I",
+        "PA𐚂-I",
         "𐄁",
         "I",
         "𐄁",
         "𐛭",
-        "5",
-        "\n"
+        "5"
     ],
     "transliteratedWords": [
         "MA-SI-DU",
         "𐄁",
-        "PA-I",
+        "PA𐚂-I",
         "𐄁",
         "I",
         "𐄁",
         "𐛭",
-        "5",
-        "\n"
+        "5"
     ],
     "words": [
         "𐙁𐘤𐘬",
@@ -4787,18 +4728,17 @@ var inscriptions = [
         "𐘚",
         "𐄁",
         "𐛭",
-        "𐄋𐝫",
-        "\n"
+        "𐄋𐝫"
     ]
 },
 {
     "image": "images/HT44a-Inscription.jpg",
     "name": "HT44a",
-    "parsedInscription": "𐘚𐘌𐙈𐄁𐙉𐝫\n𐜒𐄉\n𐜋𐄋𐝫\n𐜑𐄋\n𐙋𐄇𐝫\n𐝫𐘝𐄇\n𐙍𐝫\n\n𐝫",
+    "parsedInscription": "𐘚𐘌𐙈𐄁𐙉𐝫\n𐜒𐄉\n𐜋𐄋𐝫\n𐜑𐄋\n𐙋𐄇𐝫\n𐝫𐘝𐄇\n𐙍𐝫\n𐝫",
     "tracingImage": "images/HT44a-Tracing.jpg",
-    "transcription": "𐘚𐘌𐙈𐄁𐙉𐝫\n𐜒𐄉𐜋𐄋𐝫\n𐜑𐄋𐙋𐄇𐝫\n𐝫𐘝𐄇𐙍𐝫\n𐝫\n\n\n\n",
+    "transcription": "𐘚𐘌𐙈𐄁𐙉𐝫\n𐜒𐄉𐜋𐄋𐝫\n𐜑𐄋𐙋𐄇𐝫\n𐝫𐘝𐄇𐙍𐝫\n𐝫",
     "translatedWords": [
-        "I-QA",
+        "I-QA𐙈",
         "𐄁",
         "grain",
         "\n",
@@ -4818,12 +4758,11 @@ var inscriptions = [
         "1",
         "\n",
         "wine",
-        "\n",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
-        "I-QA",
+        "I-QA𐙈",
         "𐄁",
         "grain",
         "\n",
@@ -4843,7 +4782,6 @@ var inscriptions = [
         "1",
         "\n",
         "wine",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -4869,20 +4807,19 @@ var inscriptions = [
         "\n",
         "𐙍𐝫",
         "\n",
-        "\n",
         "𐝫"
     ]
 },
 {
     "image": "images/HT44b-Inscription.jpg",
     "name": "HT44b",
-    "parsedInscription": "𐝫𐘱𐄁𐘃𐛵𐝫\n𐝫𐄋\n𐘝𐝫\n𐝫𐙍𐄖𐄋\n𐝫𐄐𐄎\n𐝫𐄐\n\n𐝫",
+    "parsedInscription": "𐝫𐘱𐄁𐘃𐛵𐝫\n𐝫𐄋\n𐘝𐝫\n𐝫𐙍𐄖𐄋\n𐝫𐄐𐄎\n𐝫𐄐\n𐝫",
     "tracingImage": "images/HT44b-Tracing.jpg",
-    "transcription": "𐝫𐘱𐄁𐘃𐛵𐝫\n𐝫𐄋𐘝𐝫\n𐝫𐙍𐄖𐄋\n𐝫𐄐𐄎\n𐝫𐄐\n𐝫\n\n",
+    "transcription": "𐝫𐘱𐄁𐘃𐛵𐝫\n𐝫𐄋𐘝𐝫\n𐝫𐙍𐄖𐄋\n𐝫𐄐𐄎\n𐝫𐄐\n𐝫",
     "translatedWords": [
         "JA",
         "𐄁",
-        "TE",
+        "TE𐛵",
         "\n",
         "5",
         "\n",
@@ -4894,14 +4831,13 @@ var inscriptions = [
         "18",
         "\n",
         "10",
-        "\n",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
         "JA",
         "𐄁",
-        "TE",
+        "TE𐛵",
         "\n",
         "5",
         "\n",
@@ -4913,7 +4849,6 @@ var inscriptions = [
         "18",
         "\n",
         "10",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -4933,7 +4868,6 @@ var inscriptions = [
         "\n",
         "𐝫𐄐",
         "\n",
-        "\n",
         "𐝫"
     ]
 },
@@ -4942,7 +4876,7 @@ var inscriptions = [
     "name": "HT45a",
     "parsedInscription": "𐝫\n𐝫𐝉\n𐘂𐝫\n𐝫𐙅𐄁𐙙𐄈𐝫\n𐝫𐙪𐄁𐙙𐄈",
     "tracingImage": "images/HT45a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐝉𐘂𐝫\n𐝫𐙅𐄁𐙙𐄈𐝫\n𐝫𐙪𐄁𐙙𐄈\n",
+    "transcription": "𐝫\n𐝫𐝉𐘂𐝫\n𐝫𐙅𐄁𐙙𐄈𐝫\n𐝫𐙪𐄁𐙙𐄈",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -4950,12 +4884,12 @@ var inscriptions = [
         "\n",
         "PA",
         "\n",
-        "𐝫𐙅",
+        "𐙅",
         "𐄁",
         "𐙙",
         "2",
         "\n",
-        "𐝫𐙪",
+        "𐙪",
         "𐄁",
         "𐙙",
         "2"
@@ -4967,12 +4901,12 @@ var inscriptions = [
         "\n",
         "PA",
         "\n",
-        "𐝫𐙅",
+        "𐙅",
         "𐄁",
         "𐙙",
         "2",
         "\n",
-        "𐝫𐙪",
+        "𐙪",
         "𐄁",
         "𐙙",
         "2"
@@ -5000,7 +4934,7 @@ var inscriptions = [
     "name": "HT45b",
     "parsedInscription": "𐝫\n—\n𐝫𐄎𐝂𐝂\n𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍\n𐚺𐝉\n𐘂𐝫𐄁𐝫𐘇𐄑𐝁\n𐄁𐙂𐝃\n𐙂𐝃",
     "tracingImage": "images/HT45b-Tracing.jpg",
-    "transcription": "𐝫\n—\n𐝫𐄎𐝓𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍𐚺𐝉𐘂𐝫𐄁𐝫𐘇𐄑\n𐝁𐄁𐙂𐝃\n𐙂𐝃\n\n\n",
+    "transcription": "𐝫\n—\n𐝫𐄎𐝓𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍𐚺𐝉𐘂𐝫𐄁𐝫𐘇𐄑\n𐝁𐄁𐙂𐝃\n𐙂𐝃",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5189,13 +5123,13 @@ var inscriptions = [
     "name": "HT47a",
     "parsedInscription": "𐘾𐝫𐝫𐛗𐄁\n𐙂𐘰𐘅𐘹𐄑𐝫\n𐝫𐘬𐄑𐝫\n𐘉𐝫\n𐝫𐘢𐄐\n𐘸𐘀𐘁𐝫𐝫\n𐝫𐄋\n𐝫𐘻𐘯𐘻",
     "tracingImage": "images/HT47a-Tracing.jpg",
-    "transcription": "𐘾𐝫𐛗𐄁𐙂𐘰\n𐘅𐘹𐄑𐝫\n𐝫𐘬𐄑𐝫𐘉𐝫𐘢\n𐄐𐘸𐘀𐘁𐝫\n𐝫𐄋\n𐝫𐘻𐘯𐘻\n\n",
+    "transcription": "𐘾𐝫𐛗𐄁𐙂𐘰\n𐘅𐘹𐄑𐝫\n𐝫𐘬𐄑𐝫𐘉𐝫𐘢\n𐄐𐘸𐘀𐘁𐝫\n𐝫𐄋\n𐝫𐘻𐘯𐘻",
     "translatedWords": [
         "KA",
-        "𐝫𐛗",
+        "𐛗",
         "𐄁",
         "\n",
-        "KU-NA-TU",
+        "KU𐘰-NA-TU",
         "20",
         "\n",
         "DU",
@@ -5214,10 +5148,10 @@ var inscriptions = [
     ],
     "transliteratedWords": [
         "KA",
-        "𐝫𐛗",
+        "𐛗",
         "𐄁",
         "\n",
-        "KU-NA-TU",
+        "KU𐘰-NA-TU",
         "20",
         "\n",
         "DU",
@@ -5284,12 +5218,12 @@ var inscriptions = [
     "name": "HT49a",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫\n𐝫𐘭𐄇\n𐘲𐘸𐝫\n𐝫𐄇\n𐘠𐘬𐘝𐄇𐝫\n𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇\n𐚞𐄇\n𐙢𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘲𐘜𐄇\n𐘸𐄇\n—\n𐝫𐄋\n𐘹𐄊\n𐘸𐄇𐝫\n𐝫",
     "tracingImage": "images/HT49a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫𐘭𐄇𐘲𐘸𐝫\n𐝫𐄇𐘠𐘬𐘝𐄇𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇𐚞𐄇𐙢𐄇𐙂\n𐘰𐘯𐄇𐘹𐘲𐘜𐄇𐘸𐄇\n—\n𐝫𐄋𐘹𐄊𐘸𐄇𐝫\n𐝫\n\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫𐘭𐄇𐘲𐘸𐝫\n𐝫𐄇𐘠𐘬𐘝𐄇𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇𐚞𐄇𐙢𐄇𐙂\n𐘰𐘯𐄇𐘹𐘲𐘜𐄇𐘸𐄇\n—\n𐝫𐄋𐘹𐄊𐘸𐄇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
         "𐄁",
-        "DU",
+        "𐘽-DU",
         "\n",
         "TA-NA-TI",
         "𐄁",
@@ -5325,9 +5259,9 @@ var inscriptions = [
         "1",
         "𐙢",
         "1",
-        "KU-NU",
+        "KU𐘰-NU",
         "1",
-        "TU-SU",
+        "TU-SU𐘜",
         "1",
         "KI",
         "1",
@@ -5343,7 +5277,7 @@ var inscriptions = [
         "𐝫",
         "\n",
         "𐄁",
-        "DU",
+        "𐘽-DU",
         "\n",
         "TA-NA-TI",
         "𐄁",
@@ -5379,9 +5313,9 @@ var inscriptions = [
         "1",
         "𐙢",
         "1",
-        "KU-NU",
+        "KU𐘰-NU",
         "1",
-        "TU-SU",
+        "TU-SU𐘜",
         "1",
         "KI",
         "1",
@@ -5502,7 +5436,7 @@ var inscriptions = [
     "name": "HT50a",
     "parsedInscription": "𐝫\n—\n𐝫𐙉𐝫\n𐝫𐝃\n𐜓𐝃\n𐜗\n𐝆\n𐜎𐝆\n𐙘𐄇𐝆𐝫\n𐝫𐙋𐄉\n𐛺𐝃𐝄",
     "tracingImage": "images/HT50a-Tracing.jpg",
-    "transcription": "𐝫\n—\n𐝫𐙉𐝫\n𐝫𐝃𐜓𐝃𐜗\n𐝫𐝆𐜎𐝆𐙘𐄇𐝆\n𐝫𐙋𐄉𐛺𐝃𐝄\n\n\n\n\n",
+    "transcription": "𐝫\n—\n𐝫𐙉𐝫\n𐝫𐝃𐜓𐝃𐜗\n𐝫𐝆𐜎𐝆𐙘𐄇𐝆\n𐝫𐙋𐄉𐛺𐝃𐝄",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5606,7 +5540,7 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "𐝫𐜉",
+        "𐜉",
         "1"
     ],
     "transliteratedWords": [
@@ -5618,7 +5552,7 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "𐝫𐜉",
+        "𐜉",
         "1"
     ],
     "words": [
@@ -5639,7 +5573,7 @@ var inscriptions = [
     "name": "HT51a",
     "parsedInscription": "𐝫𐄋\n𐘝𐄁𐘃𐄁\n𐙁𐝫\n𐝫𐘈𐄕𐄊\n𐘠𐘝𐝫\n𐝫𐘙𐝫\n𐝫",
     "tracingImage": "images/HT51a-Tracing.jpg",
-    "transcription": "𐝫𐄋𐘝𐄁𐘃𐄁𐙁𐝫\n𐝫𐘈𐄕𐄊𐘠𐘝𐝫\n𐝫𐘙𐝫\n𐝫\n\n\n",
+    "transcription": "𐝫𐄋𐘝𐄁𐘃𐄁𐙁𐝫\n𐝫𐘈𐄕𐄊𐘠𐘝𐝫\n𐝫𐘙𐝫\n𐝫",
     "translatedWords": [
         "5",
         "\n",
@@ -5703,12 +5637,12 @@ var inscriptions = [
     "name": "HT51b",
     "parsedInscription": "𐝫𐙂𐘋𐘳𐄐𐄈𐝫\n𐝫𐙀𐘬𐝆𐝄\n𐘤𐝫\n𐝫\n𐝫",
     "tracingImage": "images/HT51b-Tracing.jpg",
-    "transcription": "𐝫𐙂𐘋𐘳𐄐𐄈𐝫\n𐝫𐙀𐘬𐝆𐝄𐘤𐝫\n𐝫\n𐝫\n",
+    "transcription": "𐝫𐙂𐘋𐘳𐄐𐄈𐝫\n𐝫𐙀𐘬𐝆𐝄𐘤𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "KU-ME-TA",
         "12",
         "\n",
-        "DU",
+        "𐙀-DU",
         "𐝆𐝄",
         "\n",
         "SI",
@@ -5721,7 +5655,7 @@ var inscriptions = [
         "KU-ME-TA",
         "12",
         "\n",
-        "DU",
+        "𐙀-DU",
         "𐝆𐝄",
         "\n",
         "SI",
@@ -5749,7 +5683,7 @@ var inscriptions = [
     "name": "HT52a",
     "parsedInscription": "𐘞𐙁𐄁𐘃𐄁𐝫\n𐝫𐄊\n𐘆𐘾𐘸𐝫\n𐝫\n𐝫",
     "tracingImage": "images/HT52a-Tracing.jpg",
-    "transcription": "𐘞𐙁𐄁𐘃𐄁𐝫\n𐝫𐄊𐘆𐘾𐘸𐝫\n𐝫\n𐝫\n",
+    "transcription": "𐘞𐙁𐄁𐘃𐄁𐝫\n𐝫𐄊𐘆𐘾𐘸𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "SA-MA",
         "𐄁",
@@ -5835,7 +5769,7 @@ var inscriptions = [
     "name": "HT53a",
     "parsedInscription": "𐝫\n𐝫𐘞𐘗𐝫\n𐝫\n𐝫𐄓\n𐝫𐙖𐝫\n𐝫𐄙\n𐘴𐝫\n𐝫",
     "tracingImage": "images/HT53a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘞𐘗𐝫\n𐝫\n𐝫𐄓𐝫𐙖𐝫\n𐝫𐄙𐘴𐝫\n𐝫\n\n",
+    "transcription": "𐝫\n𐝫𐘞𐘗𐝫\n𐝫\n𐝫𐄓𐝫𐙖𐝫\n𐝫𐄙𐘴𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5937,7 +5871,7 @@ var inscriptions = [
         "\n",
         "KU-MI-NA-QE",
         "\n",
-        "KI-MI",
+        "KI-MI𐘽",
         "\n",
         "𐝫"
     ],
@@ -5947,7 +5881,7 @@ var inscriptions = [
         "\n",
         "KU-MI-NA-QE",
         "\n",
-        "KI-MI",
+        "KI-MI𐘽",
         "\n",
         "𐝫"
     ],
@@ -5967,7 +5901,7 @@ var inscriptions = [
     "name": "HT54b",
     "parsedInscription": "𐝫\n𐝫𐄊\n𐘸𐝫\n𐝫\n𐝫",
     "tracingImage": "images/HT54b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐄊𐘸𐝫\n𐝫\n𐝫\n",
+    "transcription": "𐝫\n𐝫𐄊𐘸𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -6004,7 +5938,7 @@ var inscriptions = [
     "name": "HT55a",
     "parsedInscription": "𐝫𐘸𐘁𐄁\n𐙁𐘙𐄇𐝫\n𐝫𐙕𐄇\n𐘤𐘘𐄇\n𐘗𐝫\n𐝫𐘹𐄇𐝫\n𐝫\n𐝫",
     "tracingImage": "images/HT55a-Tracing.jpg",
-    "transcription": "𐝫𐘸𐘁𐄁𐙁𐘙𐄇𐝫\n𐝫𐙕𐄇𐘤𐘘𐄇𐘗𐝫\n𐝫𐘹𐄇𐝫\n𐝫\n𐝫\n\n\n",
+    "transcription": "𐝫𐘸𐘁𐄁𐙁𐘙𐄇𐝫\n𐝫𐙕𐄇𐘤𐘘𐄇𐘗𐝫\n𐝫𐘹𐄇𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "owed",
         "𐄁",
@@ -6012,7 +5946,7 @@ var inscriptions = [
         "MA-RE",
         "1",
         "\n",
-        "𐝫𐙕",
+        "𐙕",
         "1",
         "\n",
         "SI-RU",
@@ -6034,7 +5968,7 @@ var inscriptions = [
         "MA-RE",
         "1",
         "\n",
-        "𐝫𐙕",
+        "𐙕",
         "1",
         "\n",
         "SI-RU",
@@ -6077,7 +6011,7 @@ var inscriptions = [
     "name": "HT55b",
     "parsedInscription": "𐝫𐘃𐄇\n𐘿𐝫\n𐝫𐘭𐘱𐄇\n𐘚𐝫\n𐝫\n𐝫",
     "tracingImage": "images/HT55b-Tracing.jpg",
-    "transcription": "𐝫𐘃𐄇𐘿𐝫\n𐝫𐘭𐘱𐄇𐘚𐝫\n𐝫\n𐝫\n\n",
+    "transcription": "𐝫𐘃𐄇𐘿𐝫\n𐝫𐘭𐘱𐄇𐘚𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "TE",
         "1",
@@ -6126,7 +6060,7 @@ var inscriptions = [
     "name": "HT56a",
     "parsedInscription": "𐙓𐄁\n𐘞𐝫\n𐝫𐄐𐄇𐝆\n𐘉𐝫\n𐝫",
     "tracingImage": "images/HT56a-Tracing.jpg",
-    "transcription": "𐙓𐄁𐘞𐝫\n𐝫𐄐𐄇𐝆𐘉𐝫\n𐝫\n\n",
+    "transcription": "𐙓𐄁𐘞𐝫\n𐝫𐄐𐄇𐝆𐘉𐝫\n𐝫",
     "translatedWords": [
         "𐙓",
         "𐄁",
@@ -6206,7 +6140,7 @@ var inscriptions = [
     "name": "HT57a",
     "parsedInscription": "𐘀𐘿𐘴𐝫\n𐝫𐄇\n𐘇𐝫\n𐝫𐝄𐝫\n𐝫",
     "tracingImage": "images/HT57a-Tracing.jpg",
-    "transcription": "𐘀𐘿𐘴𐝫\n𐝫𐄇𐘇𐝫\n𐝫𐝄𐝫\n𐝫\n",
+    "transcription": "𐘀𐘿𐘴𐝫\n𐝫𐄇𐘇𐝫\n𐝫𐝄𐝫\n𐝫",
     "translatedWords": [
         "DA-QE-RA",
         "\n",
@@ -6248,7 +6182,7 @@ var inscriptions = [
     "tracingImage": "images/HT57b-Tracing.jpg",
     "transcription": "𐝫𐙙𐄎\n𐝫\n𐝫",
     "translatedWords": [
-        "𐝫𐙙",
+        "𐙙",
         "8",
         "\n",
         "𐝫",
@@ -6256,7 +6190,7 @@ var inscriptions = [
         "𐝫"
     ],
     "transliteratedWords": [
-        "𐝫𐙙",
+        "𐙙",
         "8",
         "\n",
         "𐝫",
@@ -6277,7 +6211,7 @@ var inscriptions = [
     "name": "HT58",
     "parsedInscription": "𐘿𐘠𐘴𐘬𐄁𐙇𐝫\n𐜋𐄐𐄏\n𐜗𐝫\n𐝫𐜎𐄉\n𐙋𐄓𐄇\n𐝫𐘉𐘸𐝫\n𐝫",
     "tracingImage": "images/HT58-Tracing.jpg",
-    "transcription": "𐘿𐘠𐘴𐘬𐄁𐙇𐝫\n𐜋𐄐𐄏𐜗𐝫\n𐝫𐜎𐄉𐙋𐄓𐄇\n𐝫𐘉𐘸𐝫\n𐝫\n\n",
+    "transcription": "𐘿𐘠𐘴𐘬𐄁𐙇𐝫\n𐜋𐄐𐄏𐜗𐝫\n𐝫𐜎𐄉𐙋𐄓𐄇\n𐝫𐘉𐘸𐝫\n𐝫",
     "translatedWords": [
         "QE-TI-RA-DU",
         "𐄁",
@@ -6286,9 +6220,9 @@ var inscriptions = [
         "𐜋",
         "19",
         "\n",
-        "𐜗𐝫",
+        "𐜗",
         "\n",
-        "𐝫𐜎",
+        "𐜎",
         "3",
         "\n",
         "olives",
@@ -6306,9 +6240,9 @@ var inscriptions = [
         "𐜋",
         "19",
         "\n",
-        "𐜗𐝫",
+        "𐜗",
         "\n",
-        "𐝫𐜎",
+        "𐜎",
         "3",
         "\n",
         "olives",
@@ -6344,11 +6278,11 @@ var inscriptions = [
     "name": "HT60",
     "parsedInscription": "𐝫\n𐝫𐜏𐝇\n𐛙\n𐝫𐝇\n𐙍𐝇\n𐝃𐄋\n𐚹𐝫\n𐝫𐚻𐝉𐝫",
     "tracingImage": "images/HT60-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐜏𐝇𐛙𐝫\n𐝇𐙍𐝇𐝃𐄋𐚹𐝫\n𐝫𐚻𐝉𐝫\n\n\n\n",
+    "transcription": "𐝫\n𐝫𐜏𐝇𐛙𐝫\n𐝇𐙍𐝇𐝃𐄋𐚹𐝫\n𐝫𐚻𐝉𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜏",
+        "𐜏",
         "¹⁄₁₆",
         "\n",
         "𐛙",
@@ -6361,15 +6295,15 @@ var inscriptions = [
         "¹⁄₄",
         "5",
         "\n",
-        "𐚹𐝫",
+        "𐚹",
         "\n",
-        "𐝫𐚻",
+        "𐚻",
         "𐝉𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜏",
+        "𐜏",
         "¹⁄₁₆",
         "\n",
         "𐛙",
@@ -6382,9 +6316,9 @@ var inscriptions = [
         "¹⁄₄",
         "5",
         "\n",
-        "𐚹𐝫",
+        "𐚹",
         "\n",
-        "𐝫𐚻",
+        "𐚻",
         "𐝉𐝫"
     ],
     "words": [
@@ -6412,7 +6346,7 @@ var inscriptions = [
 {
     "image": "images/HT61-Inscription.jpg",
     "name": "HT61",
-    "parsedInscription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫\n",
+    "parsedInscription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫",
     "tracingImage": "images/HT61-Tracing.jpg",
     "transcription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫\n𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃𐘾𐙂𐄊𐝫",
     "translatedWords": [
@@ -6421,8 +6355,7 @@ var inscriptions = [
         "MI-TI",
         "𐄁",
         "𐛲",
-        "6",
-        "\n"
+        "6"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -6430,8 +6363,7 @@ var inscriptions = [
         "MI-TI",
         "𐄁",
         "𐛲",
-        "6",
-        "\n"
+        "6"
     ],
     "words": [
         "𐝫",
@@ -6439,8 +6371,7 @@ var inscriptions = [
         "𐝫𐘻𐘠",
         "𐄁",
         "𐛲",
-        "𐄌𐝫",
-        "\n"
+        "𐄌𐝫"
     ]
 },
 {
@@ -6448,7 +6379,7 @@ var inscriptions = [
     "name": "HT62",
     "parsedInscription": "𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃\n𐘾𐙂𐄊𐝫\n𐝫𐄐𐄎\n𐘛𐘠𐝫𐄁𐝫𐄌\n𐘆𐝫\n𐝫𐄊𐝃\n𐘾𐝫\n𐝫𐙇𐝫𐝫𐄊\n𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫",
     "tracingImage": "images/HT62-Tracing.jpg",
-    "transcription": "𐝫𐄐𐄎𐘛𐘠𐝫𐄁𐝫𐄌𐘆𐝫\n𐝫𐄊𐝃𐘾𐝫\n𐝫𐙇𐝫𐄊𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n\n\n\n\n\n",
+    "transcription": "𐝫𐄐𐄎𐘛𐘠𐝫𐄁𐝫𐄌𐘆𐝫\n𐝫𐄊𐝃𐘾𐝫\n𐝫𐙇𐝫𐄊𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫",
     "translatedWords": [
         "𐄁",
         "NA",
@@ -6461,7 +6392,7 @@ var inscriptions = [
         "\n",
         "18",
         "\n",
-        "TI",
+        "𐘛-TI",
         "𐄁",
         "\n",
         "\n",
@@ -6496,7 +6427,7 @@ var inscriptions = [
         "\n",
         "18",
         "\n",
-        "TI",
+        "𐘛-TI",
         "𐄁",
         "\n",
         "\n",
@@ -6560,7 +6491,7 @@ var inscriptions = [
     "name": "HT63",
     "parsedInscription": "𐙙𐄁𐘃𐄇\n𐘾𐘠𐄇\n𐘲𐘜𐝫\n𐝫𐙀𐄈\n𐝫\n𐝫",
     "tracingImage": "images/HT63-Tracing.jpg",
-    "transcription": "𐙙𐄁𐘃𐄇𐘾𐘠𐄇𐘲𐘜\n𐝫𐙀𐄈\n𐝫\n𐝫\n\n",
+    "transcription": "𐙙𐄁𐘃𐄇𐘾𐘠𐄇𐘲𐘜\n𐝫𐙀𐄈\n𐝫\n𐝫",
     "translatedWords": [
         "𐙙",
         "𐄁",
@@ -6570,9 +6501,9 @@ var inscriptions = [
         "KA-TI",
         "1",
         "\n",
-        "SU",
+        "SU𐘜",
         "\n",
-        "𐝫𐙀",
+        "𐙀",
         "2",
         "\n",
         "𐝫",
@@ -6587,9 +6518,9 @@ var inscriptions = [
         "KA-TI",
         "1",
         "\n",
-        "SU",
+        "SU𐘜",
         "\n",
-        "𐝫𐙀",
+        "𐙀",
         "2",
         "\n",
         "𐝫",
@@ -6616,19 +6547,18 @@ var inscriptions = [
 {
     "image": "images/HT64-Inscription.jpg",
     "name": "HT64",
-    "parsedInscription": "𐝫\n𐝫𐙂𐙀𐘅𐝫\n𐝫𐘅𐄈\n𐘘𐙁𐝫\n\n𐝫𐄉\n𐘑𐄌\n𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐙂𐙀𐘅𐝫\n𐝫𐘅𐄈\n𐘘𐙁𐝫\n𐝫𐄉\n𐘑𐄌\n𐝫\n𐝫",
     "tracingImage": "images/HT64-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐙂𐙀𐘅\n𐝫𐘅𐄈𐘘𐙁\n𐝫𐄉𐘑𐄌\n𐝫\n𐝫\n\n\n",
+    "transcription": "𐝫\n𐝫𐙂𐙀𐘅\n𐝫𐘅𐄈𐘘𐙁\n𐝫𐄉𐘑𐄌\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "KU-NA",
+        "KU𐙀-NA",
         "\n",
         "NA",
         "2",
         "\n",
         "RU-MA",
-        "\n",
         "\n",
         "3",
         "\n",
@@ -6641,13 +6571,12 @@ var inscriptions = [
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "KU-NA",
+        "KU𐙀-NA",
         "\n",
         "NA",
         "2",
         "\n",
         "RU-MA",
-        "\n",
         "\n",
         "3",
         "\n",
@@ -6666,7 +6595,6 @@ var inscriptions = [
         "𐄈",
         "\n",
         "𐘘𐙁𐝫",
-        "\n",
         "\n",
         "𐝫𐄉",
         "\n",
@@ -6704,7 +6632,7 @@ var inscriptions = [
     "name": "HT66",
     "parsedInscription": "𐙀𐄁𐙇𐄁𐝫\n𐝫𐘆𐄈\n𐘳𐝫\n𐝫𐘳𐘻𐝫\n𐝫𐘙𐄇\n𐝫",
     "tracingImage": "images/HT66-Tracing.jpg",
-    "transcription": "𐙀𐄁𐙇𐄁𐝫\n𐝫𐘆𐄈𐘳𐝫\n𐝫𐘳𐘻𐝫\n𐝫𐘙𐄇\n𐝫\n",
+    "transcription": "𐙀𐄁𐙇𐄁𐝫\n𐝫𐘆𐄈𐘳𐝫\n𐝫𐘳𐘻𐝫\n𐝫𐘙𐄇\n𐝫",
     "translatedWords": [
         "𐙀",
         "𐄁",
@@ -6804,11 +6732,322 @@ var inscriptions = [
     ]
 },
 {
+    "image": "images/HT68-Inscription.jpg",
+    "name": "HT68",
+    "parsedInscription": "𐝫𐄁𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
+    "tracingImage": "images/HT68-Tracing.jpg",
+    "transcription": "𐝫𐄁𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
+    "translatedWords": [
+        "𐄁",
+        "flour",
+        "𐄁",
+        "person",
+        "\n",
+        "4",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐄁",
+        "flour",
+        "𐄁",
+        "person",
+        "\n",
+        "4",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐄁",
+        "𐝫𐘶",
+        "𐄁",
+        "𐙇𐝫",
+        "\n",
+        "𐝫𐄊𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/HT69-Inscription.jpg",
+    "name": "HT69",
+    "parsedInscription": "𐝫\n𐝫𐄋\n𐘆𐄎𐝫\n𐝫𐙁𐘆𐄊𐝫\n𐝫𐘆𐄐𐄈𐝫\n𐝫",
+    "tracingImage": "images/HT69-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐄋𐘆𐄎𐝫\n𐝫𐙁𐘆𐄊𐝫\n𐝫𐘆𐄐𐄈𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "5",
+        "\n",
+        "DI",
+        "8",
+        "\n",
+        "MA-DI",
+        "4",
+        "\n",
+        "DI",
+        "12",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "5",
+        "\n",
+        "DI",
+        "8",
+        "\n",
+        "MA-DI",
+        "4",
+        "\n",
+        "DI",
+        "12",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐄋",
+        "\n",
+        "𐘆",
+        "𐄎𐝫",
+        "\n",
+        "𐝫𐙁𐘆",
+        "𐄊𐝫",
+        "\n",
+        "𐝫𐘆",
+        "𐄐𐄈𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/HT70-Inscription.jpg",
+    "name": "HT70",
+    "parsedInscription": "𐝫𐘝𐄁𐘃𐄒𐝫\n𐝫𐘌𐙈𐘞𐄈𐝃𐝫\n𐝫𐘚𐄉𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/HT70-Tracing.jpg",
+    "transcription": "𐝫𐘝𐄁𐘃𐄒𐝫\n𐝫𐘌𐙈𐘞𐄈𐝃\n𐝫𐘚𐄉𐝫\n𐝫\n𐝫",
+    "translatedWords": [
+        "figs",
+        "𐄁",
+        "TE",
+        "30",
+        "\n",
+        "QA𐙈-SA",
+        "2",
+        "¹⁄₄",
+        "\n",
+        "I",
+        "3",
+        "\n",
+        "𐝫",
+        "\n"
+    ],
+    "transliteratedWords": [
+        "figs",
+        "𐄁",
+        "TE",
+        "30",
+        "\n",
+        "QA𐙈-SA",
+        "2",
+        "¹⁄₄",
+        "\n",
+        "I",
+        "3",
+        "\n",
+        "𐝫",
+        "\n"
+    ],
+    "words": [
+        "𐝫𐘝",
+        "𐄁",
+        "𐘃",
+        "𐄒𐝫",
+        "\n",
+        "𐝫𐘌𐙈𐘞",
+        "𐄈",
+        "𐝃𐝫",
+        "\n",
+        "𐝫𐘚",
+        "𐄉𐝫",
+        "\n",
+        "𐝫",
+        "\n"
+    ]
+},
+{
+    "image": "images/HT72-Inscription.jpg",
+    "name": "HT72",
+    "parsedInscription": "𐘤𐙇𐝫𐄁𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/HT72-Tracing.jpg",
+    "transcription": "𐘤𐙇𐝫𐄁𐝫\n𐝫\n𐝫",
+    "translatedWords": [
+        "SI𐙇",
+        "𐄁",
+        "𐝫",
+        "\n",
+        "\n"
+    ],
+    "transliteratedWords": [
+        "SI𐙇",
+        "𐄁",
+        "𐝫",
+        "\n",
+        "\n"
+    ],
+    "words": [
+        "𐘤𐙇𐝫",
+        "𐄁",
+        "𐝫",
+        "\n",
+        "\n"
+    ]
+},
+{
+    "image": "images/HT74-Inscription.jpg",
+    "name": "HT74",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄑𐝫\n𐝫",
+    "tracingImage": "images/HT74-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄑𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "\n",
+        "total",
+        "20",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "\n",
+        "KU-RO",
+        "20",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "\n",
+        "𐝫𐙂𐘁",
+        "𐄑𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/HT75-Inscription.jpg",
+    "name": "HT75",
+    "parsedInscription": "𐘾𐘘𐝫\n—\n𐝫",
+    "tracingImage": "images/HT75-Tracing.jpg",
+    "transcription": "𐘾𐘘𐝫\n—\n𐝫",
+    "translatedWords": [
+        "KA-RU",
+        "\n",
+        "—",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "KA-RU",
+        "\n",
+        "—",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐘾𐘘𐝫",
+        "\n",
+        "—",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/HT78-Inscription.jpg",
+    "name": "HT78",
+    "parsedInscription": "𐝫\n—\n𐝫𐘕𐙢𐝫\n—\n𐝫",
+    "tracingImage": "images/HT78-Tracing.jpg",
+    "transcription": "𐝫\n—\n𐝫𐘕𐙢𐝫\n—\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "—",
+        "\n",
+        "MU𐙢",
+        "\n",
+        "—",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "—",
+        "\n",
+        "MU𐙢",
+        "\n",
+        "—",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "—",
+        "\n",
+        "𐝫𐘕𐙢𐝫",
+        "\n",
+        "—",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/HT80-Inscription.jpg",
+    "name": "HT80",
+    "parsedInscription": "𐝫\n𐝫𐘶𐘴𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/HT80-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐘶𐘴𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "JU-RA",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "JU-RA",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐘶𐘴𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
     "image": "images/HT81-Inscription.jpg",
     "name": "HT81",
     "parsedInscription": "𐘇𐘈𐄁𐛚𐄁𐝅𐝫\n𐝫𐘭𐘲𐙁𐝋\n𐘸𐝫\n𐝫",
     "tracingImage": "images/HT81-Tracing.jpg",
-    "transcription": "𐘇𐘈𐄁𐛚𐄁𐝅𐝫\n𐝫𐘭𐘲𐙁𐝋𐘸𐝫\n𐝫\n",
+    "transcription": "𐘇𐘈𐄁𐛚𐄁𐝅𐝫\n𐝫𐘭𐘲𐙁𐝋𐘸𐝫\n𐝫",
     "translatedWords": [
         "A-SE",
         "𐄁",
@@ -6861,7 +7100,7 @@ var inscriptions = [
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐛮",
+        "𐛮",
         "¹⁄₁₆",
         "\n",
         "𐜜",
@@ -6872,7 +7111,7 @@ var inscriptions = [
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐛮",
+        "𐛮",
         "¹⁄₁₆",
         "\n",
         "𐜜",
@@ -6899,7 +7138,7 @@ var inscriptions = [
     "tracingImage": "images/HT84-Tracing.jpg",
     "transcription": "𐘐𐘱𐘬𐝫\n𐝫𐘯𐘠𐄁𐙇𐝫\n𐝫\n𐝫",
     "translatedWords": [
-        "JA-DU",
+        "𐘐-JA-DU",
         "\n",
         "NU-TI",
         "𐄁",
@@ -6909,7 +7148,7 @@ var inscriptions = [
         "\n"
     ],
     "transliteratedWords": [
-        "JA-DU",
+        "𐘐-JA-DU",
         "\n",
         "NU-TI",
         "𐄁",
@@ -6934,7 +7173,7 @@ var inscriptions = [
     "name": "HT85a",
     "parsedInscription": "𐘇𐘬𐄁𐜠𐄁𐙇𐄁\n𐘀𐘭𐘀𐄐𐄈\n𐘰𐘝𐄐𐄈\n𐘉𐙱𐘍𐄌\n𐘀𐘤𐙈𐄑𐄊\n𐙂𐙀𐘝𐄋\n𐘃𐘥𐄉\n𐘀𐘙𐄊\n𐙂𐘁𐝫𐝫𐄕𐄌",
     "tracingImage": "images/HT85a-Tracing.jpg",
-    "transcription": "𐘇𐘬𐄁𐜠𐄁𐙇𐄁\n𐘀𐘭𐘀𐄐𐄈𐘰𐘝𐄐𐄈\n𐘉𐙱𐘍𐄌𐘀𐘤\n𐙈𐄑𐄊𐙂𐙀𐘝𐄋\n𐘃𐘥𐄉𐘀𐘙𐄊\n𐙂𐘁𐝫𐄕𐄌\n\n\n",
+    "transcription": "𐘇𐘬𐄁𐜠𐄁𐙇𐄁\n𐘀𐘭𐘀𐄐𐄈𐘰𐘝𐄐𐄈\n𐘉𐙱𐘍𐄌𐘀𐘤\n𐙈𐄑𐄊𐙂𐙀𐘝𐄋\n𐘃𐘥𐄉𐘀𐘙𐄊\n𐙂𐘁𐝫𐄕𐄌",
     "translatedWords": [
         "assessment",
         "𐄁",
@@ -6946,16 +7185,16 @@ var inscriptions = [
         "DA-RI-DA",
         "12",
         "\n",
-        "NI",
+        "𐘰-NI",
         "12",
         "\n",
         "Linear B kutato",
         "6",
         "\n",
-        "DA-SI",
+        "DA-SI𐙈",
         "24",
         "\n",
-        "KU-NI",
+        "KU𐙀-NI",
         "5",
         "\n",
         "TE-KE",
@@ -6978,16 +7217,16 @@ var inscriptions = [
         "DA-RI-DA",
         "12",
         "\n",
-        "NI",
+        "𐘰-NI",
         "12",
         "\n",
-        "U-ZA",
+        "U𐙱-ZA",
         "6",
         "\n",
-        "DA-SI",
+        "DA-SI𐙈",
         "24",
         "\n",
-        "KU-NI",
+        "KU𐙀-NI",
         "5",
         "\n",
         "TE-KE",
@@ -7037,12 +7276,12 @@ var inscriptions = [
     "name": "HT85b",
     "parsedInscription": "𐘸𐘸𐘴𐘱𐄁\n𐘸𐘙𐘷𐄇\n𐘿𐘾𐄇\n𐘂𐄇\n𐘃𐘹𐝫𐄇\n𐘾𐄇\n𐘆𐄇\n𐘋𐘍𐄇\n𐘙𐘆𐘈𐄇\n𐘮𐘬𐘝𐘻𐄇\n𐙁𐘆𐄇\n𐘌𐙠𐘚𐄇",
     "tracingImage": "images/HT85b-Tracing.jpg",
-    "transcription": "𐘸𐘸𐘴𐘱𐄁𐘸𐘙\n𐘷𐄇𐘿𐘾𐄇𐘂𐄇𐘃𐘹\n𐝫𐄇𐘾𐄇𐘆𐄇𐘋𐘍𐄇\n𐘙𐘆𐘈𐄇𐘮𐘬𐘝\n𐘻𐄇𐙁𐘆𐄇𐘌𐙠\n𐘚𐄇\n\n\n\n\n\n",
+    "transcription": "𐘸𐘸𐘴𐘱𐄁𐘸𐘙\n𐘷𐄇𐘿𐘾𐄇𐘂𐄇𐘃𐘹\n𐝫𐄇𐘾𐄇𐘆𐄇𐘋𐘍𐄇\n𐘙𐘆𐘈𐄇𐘮𐘬𐘝\n𐘻𐄇𐙁𐘆𐄇𐘌𐙠\n𐘚𐄇",
     "translatedWords": [
         "KI-KI-RA-JA",
         "𐄁",
         "\n",
-        "KI-RE",
+        "KI-RE𐘷",
         "1",
         "\n",
         "QE-KA",
@@ -7072,14 +7311,14 @@ var inscriptions = [
         "MA-DI",
         "1",
         "\n",
-        "QA-I",
+        "QA𐙠-I",
         "1"
     ],
     "transliteratedWords": [
         "KI-KI-RA-JA",
         "𐄁",
         "\n",
-        "KI-RE",
+        "KI-RE𐘷",
         "1",
         "\n",
         "QE-KA",
@@ -7109,7 +7348,7 @@ var inscriptions = [
         "MA-DI",
         "1",
         "\n",
-        "QA-I",
+        "QA𐙠-I",
         "1"
     ],
     "words": [
@@ -7153,9 +7392,9 @@ var inscriptions = [
 {
     "image": "images/HT86a-Inscription.jpg",
     "name": "HT86a",
-    "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦𐘘𐄑\n𐘌𐘽𐘮𐄐\n—\n𐘇𐘬𐄁\n𐘀𐘋𐛳𐄑\n𐘻𐘯𐘃𐄑\n",
+    "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦𐘘𐄑\n𐘌𐘽𐘮𐄐\n—\n𐘇𐘬𐄁\n𐘀𐘋𐛳𐄑\n𐘻𐘯𐘃𐄑",
     "tracingImage": "images/HT86a-Tracing.jpg",
-    "transcription": "𐘇𐘾𐘘𐄁𐙂𐘝\n𐘲𐛷𐄑𐘞𐘘𐄑\n𐘆𐘦𐘘𐄑𐘌𐘽𐘮𐄐\n—\n𐘇𐘬𐄁𐘀𐘋𐛳𐄑\n𐘻𐘯𐘃𐄑\n\n\n\n",
+    "transcription": "𐘇𐘾𐘘𐄁𐙂𐘝\n𐘲𐛷𐄑𐘞𐘘𐄑\n𐘆𐘦𐘘𐄑𐘌𐘽𐘮𐄐\n—\n𐘇𐘬𐄁𐘀𐘋𐛳𐄑\n𐘻𐘯𐘃𐄑",
     "translatedWords": [
         "A-KA-RU",
         "𐄁",
@@ -7170,7 +7409,7 @@ var inscriptions = [
         "DI-DE-RU",
         "20",
         "\n",
-        "QA-WA",
+        "QA𐘽-WA",
         "10",
         "\n",
         "—",
@@ -7183,8 +7422,7 @@ var inscriptions = [
         "20",
         "\n",
         "MI-NU-TE",
-        "20",
-        "\n"
+        "20"
     ],
     "transliteratedWords": [
         "A-KA-RU",
@@ -7200,7 +7438,7 @@ var inscriptions = [
         "DI-DE-RU",
         "20",
         "\n",
-        "QA-WA",
+        "QA𐘽-WA",
         "10",
         "\n",
         "—",
@@ -7213,8 +7451,7 @@ var inscriptions = [
         "20",
         "\n",
         "MI-NU-TE",
-        "20",
-        "\n"
+        "20"
     ],
     "words": [
         "𐘇𐘾𐘘",
@@ -7243,16 +7480,15 @@ var inscriptions = [
         "𐄑",
         "\n",
         "𐘻𐘯𐘃",
-        "𐄑",
-        "\n"
+        "𐄑"
     ]
 },
 {
     "image": "images/HT86b-Inscription.jpg",
     "name": "HT86b",
-    "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦\n",
+    "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦",
     "tracingImage": "images/HT86b-Tracing.jpg",
-    "transcription": "𐘇𐘾𐘘𐄁𐙂𐘝\n𐘲𐛷𐄑𐘞𐘘𐄑\n𐘆𐘦\n\n",
+    "transcription": "𐘇𐘾𐘘𐄁𐙂𐘝\n𐘲𐛷𐄑𐘞𐘘𐄑\n𐘆𐘦",
     "translatedWords": [
         "A-KA-RU",
         "𐄁",
@@ -7264,8 +7500,7 @@ var inscriptions = [
         "SA-RU",
         "20",
         "\n",
-        "DI-DE",
-        "\n"
+        "DI-DE"
     ],
     "transliteratedWords": [
         "A-KA-RU",
@@ -7278,8 +7513,7 @@ var inscriptions = [
         "SA-RU",
         "20",
         "\n",
-        "DI-DE",
-        "\n"
+        "DI-DE"
     ],
     "words": [
         "𐘇𐘾𐘘",
@@ -7292,8 +7526,7 @@ var inscriptions = [
         "𐘞𐘘",
         "𐄑",
         "\n",
-        "𐘆𐘦",
-        "\n"
+        "𐘆𐘦"
     ]
 },
 {
@@ -7301,9 +7534,9 @@ var inscriptions = [
     "name": "HT87",
     "parsedInscription": "𐘐𐘹𐘗𐄁𐙁𐘾𐘭𐘃𐄁\n𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇\n𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇\n𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇",
     "tracingImage": "images/HT87-Tracing.jpg",
-    "transcription": "𐘐𐘹𐘗𐄁𐙁𐘾\n𐘭𐘃𐄁𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇\n\n",
+    "transcription": "𐘐𐘹𐘗𐄁𐙁𐘾\n𐘭𐘃𐄁𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇",
     "translatedWords": [
-        "TU-NE",
+        "𐘐-TU-NE",
         "𐄁",
         "MA-KA-RI-TE",
         "𐄁",
@@ -7329,7 +7562,7 @@ var inscriptions = [
         "1"
     ],
     "transliteratedWords": [
-        "TU-NE",
+        "𐘐-TU-NE",
         "𐄁",
         "MA-KA-RI-TE",
         "𐄁",
@@ -7384,9 +7617,9 @@ var inscriptions = [
 {
     "image": "images/HT88-Inscription.jpg",
     "name": "HT88",
-    "parsedInscription": "𐘇𐘬𐛧𐄑\n𐘙𐘍𐄌\n𐘝𐄁𐘸𐘸𐘅𐄍\n\n𐘸𐘁𐄁\n𐙂𐘰𐘰𐄇\n𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘱𐘙𐄇\n𐘞𐙁𐘁𐄇\n𐘀𐘳𐘙𐄇\n𐙂𐘁𐄌",
+    "parsedInscription": "𐘇𐘬𐛧𐄑\n𐘙𐘍𐄌\n𐘝𐄁𐘸𐘸𐘅𐄍\n𐘸𐘁𐄁\n𐙂𐘰𐘰𐄇\n𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘱𐘙𐄇\n𐘞𐙁𐘁𐄇\n𐘀𐘳𐘙𐄇\n𐙂𐘁𐄌",
     "tracingImage": "images/HT88-Tracing.jpg",
-    "transcription": "𐘇𐘬𐛧𐄑𐘙𐘍\n𐄌𐘝𐄁𐘸𐘸𐘅𐄍\n𐘸𐘁𐄁𐙂𐘰𐘰𐄇𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇𐘂𐘱𐘙𐄇𐘞𐙁\n𐘁𐄇𐘀𐘳𐘙𐄇𐙂𐘁𐄌\n\n\n\n\n\n\n",
+    "transcription": "𐘇𐘬𐛧𐄑𐘙𐘍\n𐄌𐘝𐄁𐘸𐘸𐘅𐄍\n𐘸𐘁𐄁𐙂𐘰𐘰𐄇𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇𐘂𐘱𐘙𐄇𐘞𐙁\n𐘁𐄇𐘀𐘳𐘙𐄇𐙂𐘁𐄌",
     "translatedWords": [
         "assessment",
         "𐛧",
@@ -7400,17 +7633,16 @@ var inscriptions = [
         "figs",
         "7",
         "\n",
-        "\n",
         "owed",
         "𐄁",
         "\n",
-        "KU",
+        "KU𐘰𐘰",
         "1",
         "\n",
         "KA-JU",
         "1",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "1",
         "\n",
         "PA-JA-RE",
@@ -7438,17 +7670,16 @@ var inscriptions = [
         "KI-KI-NA",
         "7",
         "\n",
-        "\n",
         "KI-RO",
         "𐄁",
         "\n",
-        "KU",
+        "KU𐘰𐘰",
         "1",
         "\n",
         "KA-JU",
         "1",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "1",
         "\n",
         "PA-JA-RE",
@@ -7475,7 +7706,6 @@ var inscriptions = [
         "𐄁",
         "𐘸𐘸𐘅",
         "𐄍",
-        "\n",
         "\n",
         "𐘸𐘁",
         "𐄁",
@@ -7507,9 +7737,9 @@ var inscriptions = [
     "name": "HT89",
     "parsedInscription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈\n𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉\n𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝆𐝃\n𐘝𐄈𐝃\n𐙍𐄌𐝫",
     "tracingImage": "images/HT89-Tracing.jpg",
-    "transcription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝆𐝃𐘝𐄈𐝃𐙍𐄌𐝫\n\n\n\n",
+    "transcription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝆𐝃𐘝𐄈𐝃𐙍𐄌𐝫",
     "translatedWords": [
-        "A-SA",
+        "A-SA𐘽",
         "𐄁",
         "𐙛",
         "𐄁",
@@ -7543,7 +7773,7 @@ var inscriptions = [
         "6"
     ],
     "transliteratedWords": [
-        "A-SA",
+        "A-SA𐘽",
         "𐄁",
         "𐙛",
         "𐄁",
@@ -7614,13 +7844,13 @@ var inscriptions = [
 {
     "image": "images/HT90-Inscription.jpg",
     "name": "HT90",
-    "parsedInscription": "𐘚𐙂𐘭𐘅\n𐘞𐘽𐙉𐄑\n𐘝𐄐\n𐜉𐄉\n𐘤𐘘𐙁𐘭𐘷𐙉𐄇\n𐘝𐄇\n𐜗𐄇\n𐙘𐄇\n",
+    "parsedInscription": "𐘚𐙂𐘭𐘅\n𐘞𐘽𐙉𐄑\n𐘝𐄐\n𐜉𐄉\n𐘤𐘘𐙁𐘭𐘷𐙉𐄇\n𐘝𐄇\n𐜗𐄇\n𐙘𐄇",
     "tracingImage": "images/HT90-Tracing.jpg",
-    "transcription": "𐘚𐙂𐘭𐘅𐘞𐘽𐙉\n𐄑𐘝𐄐𐜉𐄉𐘤\n𐘘𐙁𐘭𐘷𐙉𐄇𐘝\n𐄇𐜗𐄇𐙘𐄇\n\n\n\n\n",
+    "transcription": "𐘚𐙂𐘭𐘅𐘞𐘽𐙉\n𐄑𐘝𐄐𐜉𐄉𐘤\n𐘘𐙁𐘭𐘷𐙉𐄇𐘝\n𐄇𐜗𐄇𐙘𐄇",
     "translatedWords": [
         "I-KU-RI-NA",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "20",
         "\n",
@@ -7630,7 +7860,7 @@ var inscriptions = [
         "𐜉",
         "3",
         "\n",
-        "SI-RU-MA-RI",
+        "SI-RU-MA-RI𐘷",
         "grain",
         "1",
         "\n",
@@ -7641,13 +7871,12 @@ var inscriptions = [
         "1",
         "\n",
         "coriander?",
-        "1",
-        "\n"
+        "1"
     ],
     "transliteratedWords": [
         "I-KU-RI-NA",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "20",
         "\n",
@@ -7657,7 +7886,7 @@ var inscriptions = [
         "𐜉",
         "3",
         "\n",
-        "SI-RU-MA-RI",
+        "SI-RU-MA-RI𐘷",
         "grain",
         "1",
         "\n",
@@ -7668,8 +7897,7 @@ var inscriptions = [
         "1",
         "\n",
         "coriander?",
-        "1",
-        "\n"
+        "1"
     ],
     "words": [
         "𐘚𐙂𐘭𐘅",
@@ -7695,8 +7923,7 @@ var inscriptions = [
         "𐄇",
         "\n",
         "𐙘",
-        "𐄇",
-        "\n"
+        "𐄇"
     ]
 },
 {
@@ -7704,7 +7931,7 @@ var inscriptions = [
     "name": "HT91",
     "parsedInscription": "𐘚𐘾𐄁𐙲𐄁𐙉𐝎\n𐙘𐝀\n𐄁𐜓𐝀\n𐜋𐝀\n𐜗𐝀\n𐙋𐝀\n𐘝𐝀\n𐙍𐝀\n𐘡𐄋\n𐘃𐘭𐄁𐜗𐝀\n𐘡𐄉𐝫\n𐝫",
     "tracingImage": "images/HT91-Tracing.jpg",
-    "transcription": "𐘚𐘾𐄁𐙲𐄁𐙉𐝎\n𐙘𐝀𐄁𐜓𐝀𐜋\n𐝀𐜗𐝀𐙋𐝀𐘝𐝀\n𐙍𐝀𐘡𐄋\n𐘃𐘭𐄁𐜗𐝀𐘡𐄉𐝫\n𐝫\n\n\n\n\n\n",
+    "transcription": "𐘚𐘾𐄁𐙲𐄁𐙉𐝎\n𐙘𐝀𐄁𐜓𐝀𐜋\n𐝀𐜗𐝀𐙋𐝀𐘝𐝀\n𐙍𐝀𐘡𐄋\n𐘃𐘭𐄁𐜗𐝀𐘡𐄉𐝫\n𐝫",
     "translatedWords": [
         "I-KA",
         "𐄁",
@@ -7838,9 +8065,9 @@ var inscriptions = [
 {
     "image": "images/HT92-Inscription.jpg",
     "name": "HT92",
-    "parsedInscription": "𐘃𐄁\n𐘇𐘬𐄁𐙉𐄞𐄗\n𐙘𐄐𐄈\n",
+    "parsedInscription": "𐘃𐄁\n𐘇𐘬𐄁𐙉𐄞𐄗\n𐙘𐄐𐄈",
     "tracingImage": "images/HT92-Tracing.jpg",
-    "transcription": "𐘃𐄁𐘇𐘬𐄁𐙉𐄞\n𐄗𐙘𐄐𐄈\n\n",
+    "transcription": "𐘃𐄁𐘇𐘬𐄁𐙉𐄞\n𐄗𐙘𐄐𐄈",
     "translatedWords": [
         "TE",
         "𐄁",
@@ -7851,8 +8078,7 @@ var inscriptions = [
         "680",
         "\n",
         "coriander?",
-        "12",
-        "\n"
+        "12"
     ],
     "transliteratedWords": [
         "TE",
@@ -7864,8 +8090,7 @@ var inscriptions = [
         "680",
         "\n",
         "coriander?",
-        "12",
-        "\n"
+        "12"
     ],
     "words": [
         "𐘃",
@@ -7877,18 +8102,17 @@ var inscriptions = [
         "𐄞𐄗",
         "\n",
         "𐙘",
-        "𐄐𐄈",
-        "\n"
+        "𐄐𐄈"
     ]
 },
 {
     "image": "images/HT93a-Inscription.jpg",
     "name": "HT93a",
-    "parsedInscription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈\n𐘆𐘭𐘅𐄁𐚴𐄓𐄉𐝆\n𐘸𐘆𐘝𐄋𐝆𐝅\n𐘇𐘈𐄁𐘚𐛭𐄑𐄌𐝆𐝃\n𐘞𐘽𐄑\n𐘌𐘌𐘘𐄁𐘚𐛭𐄋\n𐙇𐘚𐄌\n𐘦𐘶𐙂𐄇𐝆\n𐘵𐘠𐝫𐄁𐝫𐄉\n𐘀𐘭𐘀𐚦𐄈\n𐚃𐄈\n𐘰𐘝𐘅𐝫\n𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫\n𐝫𐘾𐄊",
+    "parsedInscription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈\n𐘆𐘭𐘅𐄁𐚴𐄓𐄉𐝆\n𐘸𐘆𐘝𐄋𐝆𐝅\n𐘇𐘈𐄁𐘚𐛭𐄑𐄌𐝆𐝃\n𐘞𐘽𐄑\n𐘌𐘌𐘘𐄁𐘚𐛭𐄋\n𐙇𐘚𐄌\n𐘦𐘶𐙂𐄇𐝆\n𐘵𐘠𐝫𐄁𐄉\n𐘀𐘭𐘀𐚦𐄈\n𐚃𐄈\n𐘰𐘝𐘅𐝫\n𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫\n𐝫𐘾𐄊",
     "tracingImage": "images/HT93a-Tracing.jpg",
-    "transcription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈𐘆\n𐘭𐘅𐄁𐚴𐄓𐄉𐝆𐘸𐘆\n𐘝𐄋𐝆𐝅𐘇𐘈𐄁𐘚\n𐛭𐄑𐄌𐝆𐝃𐘞𐘽𐄑𐘌𐘌\n𐘘𐄁𐘚𐛭𐄋𐙇𐘚\n𐄌𐘦𐘶𐙂𐄇𐝆𐘵𐘠\n𐝫𐄁𐝫𐄉𐘀𐘭𐘀𐚦𐄈𐚃𐄈\n𐘰𐘝𐘅𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫𐘾𐄊\n\n\n\n\n\n",
+    "transcription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈𐘆\n𐘭𐘅𐄁𐚴𐄓𐄉𐝆𐘸𐘆\n𐘝𐄋𐝆𐝅𐘇𐘈𐄁𐘚\n𐛭𐄑𐄌𐝆𐝃𐘞𐘽𐄑𐘌𐘌\n𐘘𐄁𐘚𐛭𐄋𐙇𐘚\n𐄌𐘦𐘶𐙂𐄇𐝆𐘵𐘠\n𐝫𐄁𐝫𐄉𐘀𐘭𐘀𐚦𐄈𐚃𐄈\n𐘰𐘝𐘅𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫𐘾𐄊",
     "translatedWords": [
-        "NI-NA",
+        "𐘰-NI-NA",
         "𐄁",
         "𐙉𐘰",
         "𐄁",
@@ -7907,19 +8131,19 @@ var inscriptions = [
         "\n",
         "A-SE",
         "𐄁",
-        "I",
+        "I𐛭",
         "26",
         "𐝆𐝃",
         "\n",
-        "SA",
+        "SA𐘽",
         "20",
         "\n",
         "QA-QA-RU",
         "𐄁",
-        "I",
+        "I𐛭",
         "5",
         "\n",
-        "I",
+        "𐙇-I",
         "6",
         "\n",
         "DE-JU-KU",
@@ -7928,29 +8152,29 @@ var inscriptions = [
         "\n",
         "O-TI",
         "𐄁",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
         "3",
+        "\n",
         "DA-RI-DA",
         "𐚦",
         "2",
+        "\n",
         "𐚃",
         "2",
-        "NI-NA",
+        "\n",
+        "𐘰-NI-NA",
+        "\n",
         "PA-SE-JA",
         "20",
+        "\n",
         "person",
         "10",
         "¹⁄₈",
+        "\n",
         "KA",
         "4"
     ],
     "transliteratedWords": [
-        "NI-NA",
+        "𐘰-NI-NA",
         "𐄁",
         "𐙉𐘰",
         "𐄁",
@@ -7969,19 +8193,19 @@ var inscriptions = [
         "\n",
         "A-SE",
         "𐄁",
-        "I",
+        "I𐛭",
         "26",
         "𐝆𐝃",
         "\n",
-        "SA",
+        "SA𐘽",
         "20",
         "\n",
         "QA-QA-RU",
         "𐄁",
-        "I",
+        "I𐛭",
         "5",
         "\n",
-        "I",
+        "𐙇-I",
         "6",
         "\n",
         "DE-JU-KU",
@@ -7990,24 +8214,24 @@ var inscriptions = [
         "\n",
         "O-TI",
         "𐄁",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
         "3",
+        "\n",
         "DA-RI-DA",
         "𐚦",
         "2",
+        "\n",
         "𐚃",
         "2",
-        "NI-NA",
+        "\n",
+        "𐘰-NI-NA",
+        "\n",
         "PA-SE-JA",
         "20",
+        "\n",
         "person",
         "10",
         "¹⁄₈",
+        "\n",
         "KA",
         "4"
     ],
@@ -8052,24 +8276,24 @@ var inscriptions = [
         "\n",
         "𐘵𐘠𐝫",
         "𐄁",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
         "𐄉",
+        "\n",
         "𐘀𐘭𐘀",
         "𐚦",
         "𐄈",
+        "\n",
         "𐚃",
         "𐄈",
+        "\n",
         "𐘰𐘝𐘅𐝫",
+        "\n",
         "𐝫𐘂𐘈𐘱",
         "𐄑",
+        "\n",
         "𐙇",
         "𐄐",
         "𐝄𐝫",
+        "\n",
         "𐝫𐘾",
         "𐄊"
     ]
@@ -8077,40 +8301,34 @@ var inscriptions = [
 {
     "image": "images/HT93b-Inscription.jpg",
     "name": "HT93b",
-    "parsedInscription": "𐝫𐄙𐄕𐄋𐝅\n𐘸𐘁𐝫\n\n",
+    "parsedInscription": "𐝫𐄙𐄕𐄋𐝅\n𐘸𐘁𐝫",
     "tracingImage": "images/HT93b-Tracing.jpg",
-    "transcription": "𐝫𐄙𐄕𐄋𐝅𐘸𐘁\n𐝫\n\n",
+    "transcription": "𐝫𐄙𐄕𐄋𐝅𐘸𐘁\n𐝫",
     "translatedWords": [
         "165",
         "≈ ¹⁄₆",
         "\n",
-        "owed",
-        "\n",
-        "\n"
+        "owed"
     ],
     "transliteratedWords": [
         "165",
         "≈ ¹⁄₆",
         "\n",
-        "KI-RO",
-        "\n",
-        "\n"
+        "KI-RO"
     ],
     "words": [
         "𐝫𐄙𐄕𐄋",
         "𐝅",
         "\n",
-        "𐘸𐘁𐝫",
-        "\n",
-        "\n"
+        "𐘸𐘁𐝫"
     ]
 },
 {
     "image": "images/HT94a-Inscription.jpg",
     "name": "HT94a",
-    "parsedInscription": "𐘾𐘂𐙇𐄕𐄈\n𐙅𐄑\n𐛃𐄍\n𐛪𐄐𐄎\n𐘳𐄊\n𐙂𐘁𐄙𐄐\n𐘞𐘽𐙗𐄋\n𐘝𐄉𐝅\n𐝫𐄈\n𐙪𐙚𐄐𐄇\n𐙗𐝂𐝂\n𐘝𐝂𐝂\n𐝫𐄐𐄊𐝆\n𐘝𐝂\n",
+    "parsedInscription": "𐘾𐘂𐙇𐄕𐄈\n𐙅𐄑\n𐛃𐄍\n𐛪𐄐𐄎\n𐘳𐄊\n𐙂𐘁𐄙𐄐\n𐘞𐘽𐙗𐄋\n𐘝𐄉𐝅\n𐝫𐄈\n𐙪𐙚𐄐𐄇\n𐙗𐝂𐝂\n𐘝𐝂𐝂\n𐝫𐄐𐄊𐝆\n𐘝𐝂",
     "tracingImage": "images/HT94a-Tracing.jpg",
-    "transcription": "𐘾𐘂𐙇𐄕𐄈𐙅𐄑\n𐛃𐄍𐛪𐄐𐄎𐘳𐄊\n𐙂𐘁𐄙𐄐𐘞𐘽𐙗𐄋𐘝𐄉𐝅\n𐝫𐄈𐙪𐙚𐄐𐄇𐙗𐝓𐘝𐝓\n𐝫𐄐𐄊𐝆𐘝𐝂\n\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐘾𐘂𐙇𐄕𐄈𐙅𐄑\n𐛃𐄍𐛪𐄐𐄎𐘳𐄊\n𐙂𐘁𐄙𐄐𐘞𐘽𐙗𐄋𐘝𐄉𐝅\n𐝫𐄈𐙪𐙚𐄐𐄇𐙗𐝓𐘝𐝓\n𐝫𐄐𐄊𐝆𐘝𐝂",
     "translatedWords": [
         "KA-PA",
         "person",
@@ -8131,7 +8349,7 @@ var inscriptions = [
         "total",
         "110",
         "\n",
-        "SA",
+        "SA𐘽",
         "cyperus",
         "5",
         "\n",
@@ -8154,8 +8372,7 @@ var inscriptions = [
         "¹⁄₂",
         "\n",
         "figs",
-        "¹⁄₅",
-        "\n"
+        "¹⁄₅"
     ],
     "transliteratedWords": [
         "KA-PA",
@@ -8177,7 +8394,7 @@ var inscriptions = [
         "KU-RO",
         "110",
         "\n",
-        "SA",
+        "SA𐘽",
         "cyperus",
         "5",
         "\n",
@@ -8200,8 +8417,7 @@ var inscriptions = [
         "¹⁄₂",
         "\n",
         "figs",
-        "¹⁄₅",
-        "\n"
+        "¹⁄₅"
     ],
     "words": [
         "𐘾𐘂",
@@ -8246,16 +8462,15 @@ var inscriptions = [
         "𐝆",
         "\n",
         "𐘝",
-        "𐝂",
-        "\n"
+        "𐝂"
     ]
 },
 {
     "image": "images/HT94b-Inscription.jpg",
     "name": "HT94b",
-    "parsedInscription": "𐘸𐘁𐄁\n𐘹𐙁𐄇\n𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇\n𐘥𐘸𐘘𐄇\n𐘞𐘘𐄇\n𐙂𐘁𐄋\n\n𐙅𐄁\n𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇\n",
+    "parsedInscription": "𐘸𐘁𐄁\n𐘹𐙁𐄇\n𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇\n𐘥𐘸𐘘𐄇\n𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁\n𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
     "tracingImage": "images/HT94b-Tracing.jpg",
-    "transcription": "𐘸𐘁𐄁𐘹𐙁𐄇𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇𐘥𐘸𐘘𐄇𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇\n\n\n\n\n\n\n",
+    "transcription": "𐘸𐘁𐄁𐘹𐙁𐄇𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇𐘥𐘸𐘘𐄇𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
     "translatedWords": [
         "owed",
         "𐄁",
@@ -8278,7 +8493,6 @@ var inscriptions = [
         "total",
         "5",
         "\n",
-        "\n",
         "𐙅",
         "𐄁",
         "\n",
@@ -8287,9 +8501,8 @@ var inscriptions = [
         "DE-ME-TE",
         "1",
         "\n",
-        "TU",
+        "𐘐-TU",
         "𐄁",
-        "\n",
         "1"
     ],
     "transliteratedWords": [
@@ -8314,7 +8527,6 @@ var inscriptions = [
         "KU-RO",
         "5",
         "\n",
-        "\n",
         "𐙅",
         "𐄁",
         "\n",
@@ -8323,9 +8535,8 @@ var inscriptions = [
         "DE-ME-TE",
         "1",
         "\n",
-        "TU",
+        "𐘐-TU",
         "𐄁",
-        "\n",
         "1"
     ],
     "words": [
@@ -8350,7 +8561,6 @@ var inscriptions = [
         "𐙂𐘁",
         "𐄋",
         "\n",
-        "\n",
         "𐙅",
         "𐄁",
         "\n",
@@ -8361,7 +8571,6 @@ var inscriptions = [
         "\n",
         "𐘐𐘹𐝫",
         "𐄁",
-        "\n",
         "𐄇"
     ]
 },
@@ -8370,7 +8579,7 @@ var inscriptions = [
     "name": "HT95a",
     "parsedInscription": "𐘀𐘬𐙁𐘳𐄁𐙉\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐘞𐘘𐄑\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄍",
     "tracingImage": "images/HT95a-Tracing.jpg",
-    "transcription": "𐘀𐘬𐙁𐘳𐄁𐙉\n𐘀𐘋𐄐𐘻𐘯𐘃𐄐\n𐘞𐘘𐄑𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄍\n\n",
+    "transcription": "𐘀𐘬𐙁𐘳𐄁𐙉\n𐘀𐘋𐄐𐘻𐘯𐘃𐄐\n𐘞𐘘𐄑𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄍",
     "translatedWords": [
         "DA-DU-MA-TA",
         "𐄁",
@@ -8391,7 +8600,7 @@ var inscriptions = [
         "DI-DE-RU",
         "10",
         "\n",
-        "QE-U",
+        "QE𐘽-U",
         "7"
     ],
     "transliteratedWords": [
@@ -8414,7 +8623,7 @@ var inscriptions = [
         "DI-DE-RU",
         "10",
         "\n",
-        "QE-U",
+        "QE𐘽-U",
         "7"
     ],
     "words": [
@@ -8446,7 +8655,7 @@ var inscriptions = [
     "name": "HT95b",
     "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘘𐄐\n𐝫𐄁𐝫\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄐",
     "tracingImage": "images/HT95b-Tracing.jpg",
-    "transcription": "𐘇𐘬𐄁𐘞𐘘𐄐\n𐝫𐄁𐝫𐘀𐘋𐄐𐘻\n𐘯𐘃𐄐𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄐\n\n\n",
+    "transcription": "𐘇𐘬𐄁𐘞𐘘𐄐\n𐝫𐄁𐝫𐘀𐘋𐄐𐘻\n𐘯𐘃𐄐𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄐",
     "translatedWords": [
         "assessment",
         "𐄁",
@@ -8468,7 +8677,7 @@ var inscriptions = [
         "DI-DE-RU",
         "10",
         "\n",
-        "QE-U",
+        "QE𐘽-U",
         "10"
     ],
     "transliteratedWords": [
@@ -8492,7 +8701,7 @@ var inscriptions = [
         "DI-DE-RU",
         "10",
         "\n",
-        "QE-U",
+        "QE𐘽-U",
         "10"
     ],
     "words": [
@@ -8525,13 +8734,13 @@ var inscriptions = [
     "name": "HT96a",
     "parsedInscription": "𐘚𐘠𐘠𐙂𐘝𐄁𐘇𐘂𐘴𐘗𐄁𐘇𐙌𐘃𐄁\n𐘤𐘻𐘳𐙉𐄋\n𐘘𐘞𐄊\n𐙯𐙩𐄇\n𐘢𐘳𐘴𐄁𐄇\n𐙯𐚄𐄇\n—\n𐝫𐙂𐙁𐘁𐄁𐄁𐘃𐘝𐄑\n𐝫𐘝𐄈\n—\n𐝫",
     "tracingImage": "images/HT96a-Tracing.jpg",
-    "transcription": "𐘚𐘠𐘠𐙂𐘝𐄁𐘇𐘂\n𐘴𐘗𐄁𐘇𐙌𐘃𐄁𐘤𐘻\n𐘳𐙉𐄋𐘘𐘞𐄊𐙯𐙩𐄇\n𐘢𐘳𐘴𐄁𐄇𐙯𐚄𐄇\n—\n𐝫𐙂𐙁𐘁𐄁𐄁𐘃𐘝𐄑\n𐝫𐘝𐄈\n—\n𐝫\n\n",
+    "transcription": "𐘚𐘠𐘠𐙂𐘝𐄁𐘇𐘂\n𐘴𐘗𐄁𐘇𐙌𐘃𐄁𐘤𐘻\n𐘳𐙉𐄋𐘘𐘞𐄊𐙯𐙩𐄇\n𐘢𐘳𐘴𐄁𐄇𐙯𐚄𐄇\n—\n𐝫𐙂𐙁𐘁𐄁𐄁𐘃𐘝𐄑\n𐝫𐘝𐄈\n—\n𐝫",
     "translatedWords": [
         "I-TI-TI-KU-NI",
         "𐄁",
         "A-PA-RA-NE",
         "𐄁",
-        "A-TE",
+        "A𐙌-TE",
         "𐄁",
         "\n",
         "SI-MI-TA",
@@ -8571,7 +8780,7 @@ var inscriptions = [
         "𐄁",
         "A-PA-RA-NE",
         "𐄁",
-        "A-TE",
+        "A𐙌-TE",
         "𐄁",
         "\n",
         "SI-MI-TA",
@@ -8650,14 +8859,14 @@ var inscriptions = [
 {
     "image": "images/HT96b-Inscription.jpg",
     "name": "HT96b",
-    "parsedInscription": "𐘇𐘂𐘴𐘗𐄁\n𐘌𐙈𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝆𐝃\n𐜋𐄊\n𐘝𐄈𐝇\n\n𐝫",
+    "parsedInscription": "𐘇𐘂𐘴𐘗𐄁\n𐘌𐙈𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝆𐝃\n𐜋𐄊\n𐘝𐄈𐝇\n𐝫",
     "tracingImage": "images/HT96b-Tracing.jpg",
-    "transcription": "𐘇𐘂𐘴𐘗𐄁𐘌𐙈\n𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝕\n𐜋𐄊𐘝𐄈𐝇\n𐝫\n\n",
+    "transcription": "𐘇𐘂𐘴𐘗𐄁𐘌𐙈\n𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝕\n𐜋𐄊𐘝𐄈𐝇\n𐝫",
     "translatedWords": [
         "A-PA-RA-NE",
         "𐄁",
         "\n",
-        "QA-RA-RE",
+        "QA𐙈-RA-RE",
         "𐄁",
         "𐛀",
         "𐄁",
@@ -8672,7 +8881,6 @@ var inscriptions = [
         "figs",
         "2",
         "¹⁄₁₆",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -8680,7 +8888,7 @@ var inscriptions = [
         "A-PA-RA-NE",
         "𐄁",
         "\n",
-        "QA-RA-RE",
+        "QA𐙈-RA-RE",
         "𐄁",
         "𐛀",
         "𐄁",
@@ -8695,7 +8903,6 @@ var inscriptions = [
         "figs",
         "2",
         "¹⁄₁₆",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -8719,7 +8926,6 @@ var inscriptions = [
         "𐄈",
         "𐝇",
         "\n",
-        "\n",
         "𐝫"
     ]
 },
@@ -8728,7 +8934,7 @@ var inscriptions = [
     "name": "HT97a",
     "parsedInscription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈\n𐙳𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋\n𐘂𐘚𐘄𐄌\n𐘆𐄊\n𐘅𐘠𐄊\n𐙁𐘆𐄋\n𐘶𐄐𐄋\n𐘸𐄉\n𐙀𐝫𐄋\n𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫\n𐝫𐘇𐄋\n𐝫",
     "tracingImage": "images/HT97a-Tracing.jpg",
-    "transcription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈𐙳\n𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋𐘂𐘚𐘄𐄌\n𐘆𐄊𐘅𐘠𐄊𐙁𐘆𐄋𐘶\n𐄐𐄋𐘸𐄉𐙀𐝫𐄋𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫𐘇𐄋\n𐝫\n\n\n\n\n\n\n",
+    "transcription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈𐙳\n𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋𐘂𐘚𐘄𐄌\n𐘆𐄊𐘅𐘠𐄊𐙁𐘆𐄋𐘶\n𐄐𐄋𐘸𐄉𐙀𐝫𐄋𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫𐘇𐄋\n𐝫",
     "translatedWords": [
         "KA-RU",
         "𐄁",
@@ -8878,10 +9084,10 @@ var inscriptions = [
     "tracingImage": "images/HT97b-Tracing.jpg",
     "transcription": "𐘞𐙸𐝃",
     "translatedWords": [
-        "SA"
+        "SA𐘽"
     ],
     "transliteratedWords": [
-        "SA"
+        "SA𐘽"
     ],
     "words": [
         "𐘞𐘽"
@@ -8892,7 +9098,7 @@ var inscriptions = [
     "name": "HT98a",
     "parsedInscription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇\n𐘳𐘅𐘠𐝆𐝃\n𐘆𐘙𐘆𐘅𐝆\n𐘃𐙕𐝆𐝃\n𐘁𐘥𐝆\n𐘾𐘭𐙠𐘚𐝃",
     "tracingImage": "images/HT98a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇𐘳𐘅𐘠𐝕𐘆\n𐘙𐘆𐘅𐝆𐘃𐙕𐝕\n𐘁𐘥𐝆𐘾𐘭𐙠𐘚\n𐝃\n\n",
+    "transcription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇𐘳𐘅𐘠𐝕𐘆\n𐘙𐘆𐘅𐝆𐘃𐙕𐝕\n𐘁𐘥𐝆𐘾𐘭𐙠𐘚\n𐝃",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -8908,13 +9114,13 @@ var inscriptions = [
         "DI-RE-DI-NA",
         "¹⁄₂",
         "\n",
-        "TE",
+        "TE𐙕",
         "𐝆𐝃",
         "\n",
         "RO-KE",
         "¹⁄₂",
         "\n",
-        "KA-RI-I",
+        "KA-RI𐙠-I",
         "¹⁄₄"
     ],
     "transliteratedWords": [
@@ -8932,13 +9138,13 @@ var inscriptions = [
         "DI-RE-DI-NA",
         "¹⁄₂",
         "\n",
-        "TE",
+        "TE𐙕",
         "𐝆𐝃",
         "\n",
         "RO-KE",
         "¹⁄₂",
         "\n",
-        "KA-RI-I",
+        "KA-RI𐙠-I",
         "¹⁄₄"
     ],
     "words": [
@@ -8969,32 +9175,30 @@ var inscriptions = [
 {
     "image": "images/HT98b-Inscription.jpg",
     "name": "HT98b",
-    "parsedInscription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝆𐝃\n𐘀𐘘𐘗𐘃𐝇\n",
+    "parsedInscription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝆𐝃\n𐘀𐘘𐘗𐘃𐝇",
     "tracingImage": "images/HT98b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝕𐘀𐘘𐘗𐘃𐝇\n\n",
+    "transcription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝕𐘀𐘘𐘗𐘃𐝇",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐙓𐝫",
+        "𐙓",
         "\n",
         "wine",
         "𐝆𐝃",
         "\n",
         "DA-RU-NE-TE",
-        "¹⁄₁₆",
-        "\n"
+        "¹⁄₁₆"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐙓𐝫",
+        "𐙓",
         "\n",
         "wine",
         "𐝆𐝃",
         "\n",
         "DA-RU-NE-TE",
-        "¹⁄₁₆",
-        "\n"
+        "¹⁄₁₆"
     ],
     "words": [
         "𐝫",
@@ -9005,21 +9209,20 @@ var inscriptions = [
         "𐝆𐝃",
         "\n",
         "𐘀𐘘𐘗𐘃",
-        "𐝇",
-        "\n"
+        "𐝇"
     ]
 },
 {
     "image": "images/HT99a-Inscription.jpg",
     "name": "HT99a",
-    "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫\n𐙍𐄇𐝅\n𐛱\n𐝫\n",
+    "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫\n𐙍𐄇𐝅\n𐛱\n𐝫",
     "tracingImage": "images/HT99a-Tracing.jpg",
-    "transcription": "𐘇𐘬𐄁𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫𐙍𐄇𐝅𐛱\n𐝫\n\n\n\n",
+    "transcription": "𐘇𐘬𐄁𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫𐙍𐄇𐝅𐛱\n𐝫",
     "translatedWords": [
         "assessment",
         "𐄁",
         "\n",
-        "SA",
+        "SA𐘽",
         "cyperus",
         "4",
         "\n",
@@ -9032,14 +9235,13 @@ var inscriptions = [
         "\n",
         "𐛱",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ],
     "transliteratedWords": [
         "A-DU",
         "𐄁",
         "\n",
-        "SA",
+        "SA𐘽",
         "cyperus",
         "4",
         "\n",
@@ -9052,8 +9254,7 @@ var inscriptions = [
         "\n",
         "𐛱",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ],
     "words": [
         "𐘇𐘬",
@@ -9072,43 +9273,40 @@ var inscriptions = [
         "\n",
         "𐛱",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ]
 },
 {
     "image": "images/HT99b-Inscription.jpg",
     "name": "HT99b",
-    "parsedInscription": "𐛉𐘝𐄌\n𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇\n𐘘𐙁𐘳𐄇\n",
+    "parsedInscription": "𐛉𐘝𐄌\n𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇\n𐘘𐙁𐘳𐄇",
     "tracingImage": "images/HT99b-Tracing.jpg",
-    "transcription": "𐛉𐘝𐄌𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇𐘘𐙁𐘳\n𐄇\n\n",
+    "transcription": "𐛉𐘝𐄌𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇𐘘𐙁𐘳\n𐄇",
     "translatedWords": [
-        "NI",
+        "𐛉-NI",
         "6",
         "\n",
-        "DA-SI",
+        "DA-SI𐙈",
         "2",
         "\n",
-        "DU",
+        "𐙀-DU",
         "1",
         "\n",
         "RU-MA-TA",
-        "1",
-        "\n"
+        "1"
     ],
     "transliteratedWords": [
-        "NI",
+        "𐛉-NI",
         "6",
         "\n",
-        "DA-SI",
+        "DA-SI𐙈",
         "2",
         "\n",
-        "DU",
+        "𐙀-DU",
         "1",
         "\n",
         "RU-MA-TA",
-        "1",
-        "\n"
+        "1"
     ],
     "words": [
         "𐛉𐘝",
@@ -9121,21 +9319,20 @@ var inscriptions = [
         "𐄇",
         "\n",
         "𐘘𐙁𐘳",
-        "𐄇",
-        "\n"
+        "𐄇"
     ]
 },
 {
     "image": "images/HT100-Inscription.jpg",
     "name": "HT100",
-    "parsedInscription": "𐝫𐛧𐄔𐄎\n𐜝𐝫𐝫\n𐛃𐄐𐄈\n𐘸𐄈\n𐙙𐄋\n𐛩𐄐𐄌\n𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃\n𐘝𐄈𐝂𐝂\n𐙍𐄈𐝆\n𐜋𐄈𐝅\n𐜗𐄉\n𐜍𐝆𐝃\n",
+    "parsedInscription": "𐝫𐛧𐄔𐄎\n𐜝𐝫𐝫\n𐛃𐄐𐄈\n𐘸𐄈\n𐙙𐄋\n𐛩𐄐𐄌\n𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃\n𐘝𐄈𐝂𐝂\n𐙍𐄈𐝆\n𐜋𐄈𐝅\n𐜗𐄉\n𐜍𐝆𐝃",
     "tracingImage": "images/HT100-Tracing.jpg",
-    "transcription": "𐝫𐛧𐄔𐄎𐜝\n𐝫𐛃𐄐𐄈𐘸𐄈𐙙𐄋𐛩\n𐄐𐄌𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃𐘝𐄈𐝓𐙍𐄈𐝆\n𐜋𐄈𐝅𐜗𐄉𐜍𐝕\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐝫𐛧𐄔𐄎𐜝\n𐝫𐛃𐄐𐄈𐘸𐄈𐙙𐄋𐛩\n𐄐𐄌𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃𐘝𐄈𐝓𐙍𐄈𐝆\n𐜋𐄈𐝅𐜗𐄉𐜍𐝕",
     "translatedWords": [
-        "𐝫𐛧",
+        "𐛧",
         "58",
         "\n",
-        "𐜝𐝫",
+        "𐜝",
         "𐝫",
         "\n",
         "𐛃",
@@ -9153,7 +9350,7 @@ var inscriptions = [
         "total",
         "97",
         "\n",
-        "SA",
+        "SA𐘽",
         "cyperus",
         "5",
         "¹⁄₄",
@@ -9174,14 +9371,13 @@ var inscriptions = [
         "3",
         "\n",
         "𐜍",
-        "𐝆𐝃",
-        "\n"
+        "𐝆𐝃"
     ],
     "transliteratedWords": [
-        "𐝫𐛧",
+        "𐛧",
         "58",
         "\n",
-        "𐜝𐝫",
+        "𐜝",
         "𐝫",
         "\n",
         "𐛃",
@@ -9199,7 +9395,7 @@ var inscriptions = [
         "KU-RO",
         "97",
         "\n",
-        "SA",
+        "SA𐘽",
         "cyperus",
         "5",
         "¹⁄₄",
@@ -9220,8 +9416,7 @@ var inscriptions = [
         "3",
         "\n",
         "𐜍",
-        "𐝆𐝃",
-        "\n"
+        "𐝆𐝃"
     ],
     "words": [
         "𐝫𐛧",
@@ -9266,18 +9461,17 @@ var inscriptions = [
         "𐄉",
         "\n",
         "𐜍",
-        "𐝆𐝃",
-        "\n"
+        "𐝆𐝃"
     ]
 },
 {
     "image": "images/HT101-Inscription.jpg",
     "name": "HT101",
-    "parsedInscription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎\n𐜗𐄎\n𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇\n𐙖𐄐\n𐚸𐄉\n𐙂𐘰𐝫𐝫𐜋𐄈\n—\n𐝫𐄑\n𐙘𐄉\n𐜓𐄈𐝫\n𐝫𐄉\n𐙋𐄇𐝃\n𐛺𐄇\n",
+    "parsedInscription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎\n𐜗𐄎\n𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇\n𐙖𐄐\n𐚸𐄉\n𐙂𐘰𐝫𐝫𐜋𐄈\n—\n𐝫𐄑\n𐙘𐄉\n𐜓𐄈𐝫\n𐝫𐄉\n𐙋𐄇𐝃\n𐛺𐄇",
     "tracingImage": "images/HT101-Tracing.jpg",
-    "transcription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎𐜗𐄎𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇𐜋𐙖𐄐𐚸𐄉\n𐙂𐘰𐝫𐜋𐄈\n—\n𐝫𐄑𐙘𐄉𐜓𐄈\n𐝫𐄉𐙋𐄇𐝃𐛺𐄇\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎𐜗𐄎𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇𐜋𐙖𐄐𐚸𐄉\n𐙂𐘰𐝫𐜋𐄈\n—\n𐝫𐄑𐙘𐄉𐜓𐄈\n𐝫𐄉𐙋𐄇𐝃𐛺𐄇",
     "translatedWords": [
-        "DI",
+        "𐙀𐘓-DI",
         "𐛱",
         "40",
         "\n",
@@ -9290,7 +9484,7 @@ var inscriptions = [
         "𐜓",
         "2",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "41",
         "\n",
@@ -9300,8 +9494,8 @@ var inscriptions = [
         "𐚸",
         "3",
         "\n",
-        "KU",
-        "𐝫𐜋",
+        "KU𐘰",
+        "𐜋",
         "2",
         "\n",
         "—",
@@ -9321,11 +9515,10 @@ var inscriptions = [
         "¹⁄₄",
         "\n",
         "𐛺",
-        "1",
-        "\n"
+        "1"
     ],
     "transliteratedWords": [
-        "DI",
+        "𐙀𐘓-DI",
         "𐛱",
         "40",
         "\n",
@@ -9338,7 +9531,7 @@ var inscriptions = [
         "𐜓",
         "2",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "41",
         "\n",
@@ -9348,8 +9541,8 @@ var inscriptions = [
         "𐚸",
         "3",
         "\n",
-        "KU",
-        "𐝫𐜋",
+        "KU𐘰",
+        "𐜋",
         "2",
         "\n",
         "—",
@@ -9369,8 +9562,7 @@ var inscriptions = [
         "¹⁄₄",
         "\n",
         "𐛺",
-        "1",
-        "\n"
+        "1"
     ],
     "words": [
         "𐙀𐘓𐘆",
@@ -9417,8 +9609,7 @@ var inscriptions = [
         "𐝃",
         "\n",
         "𐛺",
-        "𐄇",
-        "\n"
+        "𐄇"
     ]
 },
 {
@@ -9426,25 +9617,25 @@ var inscriptions = [
     "name": "HT102",
     "parsedInscription": "𐘾𐘂\n𐘞𐘽𐙉𐄡𐄖𐄌\n𐘰𐘝𐛭𐄒𐄉𐝫\n𐝫𐙇𐛭𐄒𐄉\n𐘆𐘭𐘅𐄐\n𐙁𐙀𐄉\n𐘣𐄐\n𐘚𐘾𐄋\n𐙂𐘁𐄢𐄕",
     "tracingImage": "images/HT102-Tracing.jpg",
-    "transcription": "𐘾𐘂𐘞𐘽𐙉𐄡\n𐄖𐄌𐘰𐘝𐛭𐄒𐄉𐝫\n𐙇𐛭𐄒𐄉𐘆𐘭𐘅𐄐𐙁\n𐙀𐄉𐘣𐄐𐘚𐘾𐄋\n𐙂𐘁𐄢𐄕\n\n\n\n",
+    "transcription": "𐘾𐘂𐘞𐘽𐙉𐄡\n𐄖𐄌𐘰𐘝𐛭𐄒𐄉𐝫\n𐙇𐛭𐄒𐄉𐘆𐘭𐘅𐄐𐙁\n𐙀𐄉𐘣𐄐𐘚𐘾𐄋\n𐙂𐘁𐄢𐄕",
     "translatedWords": [
         "KA-PA",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "976",
         "\n",
-        "NI",
+        "𐘰-NI",
         "𐛭",
         "33",
         "\n",
-        "𐝫𐙇𐛭",
+        "𐙇𐛭",
         "33",
         "\n",
         "DI-RI-NA",
         "10",
         "\n",
-        "MA",
+        "MA𐙀",
         "3",
         "\n",
         "WI",
@@ -9459,21 +9650,21 @@ var inscriptions = [
     "transliteratedWords": [
         "KA-PA",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "976",
         "\n",
-        "NI",
+        "𐘰-NI",
         "𐛭",
         "33",
         "\n",
-        "𐝫𐙇𐛭",
+        "𐙇𐛭",
         "33",
         "\n",
         "DI-RI-NA",
         "10",
         "\n",
-        "MA",
+        "MA𐙀",
         "3",
         "\n",
         "WI",
@@ -9520,9 +9711,9 @@ var inscriptions = [
     "name": "HT103",
     "parsedInscription": "𐘉𐘷𐄁𐘝𐄓\n𐘰\n𐘀𐙂𐘈𐘗𐝫𐝫𐄌𐝆\n𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇\n𐘀𐙂𐘈𐘗𐄇\n𐘸𐘴𐄋𐝆",
     "tracingImage": "images/HT103-Tracing.jpg",
-    "transcription": "𐘉𐘷𐄁𐘝𐄓\n𐘰𐘀𐙂𐘈𐘗\n𐝫𐄌𐝆𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇𐘀𐙂𐘈\n𐘗𐄇𐘸𐝢𐄋𐝆\n\n",
+    "transcription": "𐘉𐘷𐄁𐘝𐄓\n𐘰𐘀𐙂𐘈𐘗\n𐝫𐄌𐝆𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇𐘀𐙂𐘈\n𐘗𐄇𐘸𐝢𐄋𐝆",
     "translatedWords": [
-        "U",
+        "U𐘷",
         "𐄁",
         "figs",
         "40",
@@ -9547,7 +9738,7 @@ var inscriptions = [
         "¹⁄₂"
     ],
     "transliteratedWords": [
-        "U",
+        "U𐘷",
         "𐄁",
         "figs",
         "40",
@@ -9600,9 +9791,9 @@ var inscriptions = [
 {
     "image": "images/HT104-Inscription.jpg",
     "name": "HT104",
-    "parsedInscription": "𐘳𐘂𐄁𐚷𐄁\n𐘀𐙂𐘈𐘗𐘠𐄓𐄋𐝆\n𐘚𐘬𐘠𐄑𐝆\n𐘂𐘀𐘲𐘠𐄑𐄏\n𐙂𐘁𐄘𐄋\n",
+    "parsedInscription": "𐘳𐘂𐄁𐚷𐄁\n𐘀𐙂𐘈𐘗𐘠𐄓𐄋𐝆\n𐘚𐘬𐘠𐄑𐝆\n𐘂𐘀𐘲𐘠𐄑𐄏\n𐙂𐘁𐄘𐄋",
     "tracingImage": "images/HT104-Tracing.jpg",
-    "transcription": "𐘳𐘂𐄁𐚷𐄁𐘀𐙂\n𐘈𐘗𐘠𐄓𐄋𐝆𐘚\n𐘬𐘠𐄑𐝆𐘂𐘀\n𐘲𐘠𐄑𐄏\n𐙂𐘁𐄘𐄋\n",
+    "transcription": "𐘳𐘂𐄁𐚷𐄁𐘀𐙂\n𐘈𐘗𐘠𐄓𐄋𐝆𐘚\n𐘬𐘠𐄑𐝆𐘂𐘀\n𐘲𐘠𐄑𐄏\n𐙂𐘁𐄘𐄋",
     "translatedWords": [
         "TA-PA",
         "𐄁",
@@ -9621,8 +9812,7 @@ var inscriptions = [
         "29",
         "\n",
         "total",
-        "95",
-        "\n"
+        "95"
     ],
     "transliteratedWords": [
         "TA-PA",
@@ -9642,8 +9832,7 @@ var inscriptions = [
         "29",
         "\n",
         "KU-RO",
-        "95",
-        "\n"
+        "95"
     ],
     "words": [
         "𐘳𐘂",
@@ -9663,16 +9852,15 @@ var inscriptions = [
         "𐄑𐄏",
         "\n",
         "𐙂𐘁",
-        "𐄘𐄋",
-        "\n"
+        "𐄘𐄋"
     ]
 },
 {
     "image": "images/HT105-Inscription.jpg",
     "name": "HT105",
-    "parsedInscription": "𐘾𐘂𐝫\n𐝫\n𐝫𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋\n",
+    "parsedInscription": "𐘾𐘂𐝫\n𐝫\n𐝫𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋",
     "tracingImage": "images/HT105-Tracing.jpg",
-    "transcription": "𐘾𐘂𐝫\n𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋\n\n",
+    "transcription": "𐘾𐘂𐝫\n𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋",
     "translatedWords": [
         "KA-PA",
         "\n",
@@ -9680,11 +9868,10 @@ var inscriptions = [
         "person",
         "234",
         "\n",
-        "SA",
+        "SA𐘽",
         "𐄁",
         "person",
-        "235",
-        "\n"
+        "235"
     ],
     "transliteratedWords": [
         "KA-PA",
@@ -9693,11 +9880,10 @@ var inscriptions = [
         "person",
         "234",
         "\n",
-        "SA",
+        "SA𐘽",
         "𐄁",
         "person",
-        "235",
-        "\n"
+        "235"
     ],
     "words": [
         "𐘾𐘂𐝫",
@@ -9709,8 +9895,7 @@ var inscriptions = [
         "𐘞𐘽",
         "𐄁",
         "𐙇",
-        "𐄚𐄒𐄋",
-        "\n"
+        "𐄚𐄒𐄋"
     ]
 },
 {
@@ -9718,7 +9903,7 @@ var inscriptions = [
     "name": "HT106",
     "parsedInscription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆\n𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
     "tracingImage": "images/HT106-Tracing.jpg",
-    "transcription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫\n",
+    "transcription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
     "translatedWords": [
         "MI-NU-TE",
         "cyperus",
@@ -9792,14 +9977,13 @@ var inscriptions = [
 {
     "image": "images/HT107-Inscription.jpg",
     "name": "HT107",
-    "parsedInscription": "𐝫\n𐝫𐄉𐝫\n𐝫\n\n𐘃𐄗𐄌\n𐙸𐄍",
+    "parsedInscription": "𐝫\n𐝫𐄉𐝫\n𐝫\n𐘃𐄗𐄌\n𐙸𐄍",
     "tracingImage": "images/HT107-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐄉𐝫\n𐘃𐄗𐄌𐙸𐄍\n\n\n",
+    "transcription": "𐝫\n𐝫𐄉𐝫\n𐘃𐄗𐄌𐙸𐄍",
     "translatedWords": [
         "𐝫",
         "\n",
         "3",
-        "\n",
         "\n",
         "\n",
         "TE",
@@ -9814,7 +9998,6 @@ var inscriptions = [
         "3",
         "\n",
         "\n",
-        "\n",
         "TE",
         "84",
         "\n",
@@ -9827,7 +10010,6 @@ var inscriptions = [
         "𐝫𐄉𐝫",
         "\n",
         "\n",
-        "\n",
         "𐘃",
         "𐄗𐄌",
         "\n",
@@ -9838,9 +10020,9 @@ var inscriptions = [
 {
     "image": "images/HT108-Inscription.jpg",
     "name": "HT108",
-    "parsedInscription": "𐘸𐘙𐘳𐘅𐙇𐄇\n𐛶𐄖\n—\n𐘆𐘅𐘁𐄈\n𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐\n𐘶𐝫\n\n𐝫",
+    "parsedInscription": "𐘸𐘙𐘳𐘅𐙇𐄇\n𐛶𐄖\n—\n𐘆𐘅𐘁𐄈\n𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐\n𐘶𐝫\n𐝫",
     "tracingImage": "images/HT108-Tracing.jpg",
-    "transcription": "𐘸𐘙𐘳𐘅𐙇𐄇𐛶𐄖\n—\n𐘆𐘅𐘁𐄈𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐𐘶𐝫\n𐝫\n\n\n\n",
+    "transcription": "𐘸𐘙𐘳𐘅𐙇𐄇𐛶𐄖\n—\n𐘆𐘅𐘁𐄈𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐𐘶𐝫\n𐝫",
     "translatedWords": [
         "KI-RE-TA-NA",
         "person",
@@ -9858,11 +10040,10 @@ var inscriptions = [
         "5",
         "\n",
         "𐄁",
-        "TI",
+        "𐘽-TI",
         "10",
         "\n",
         "flour",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -9883,11 +10064,10 @@ var inscriptions = [
         "5",
         "\n",
         "𐄁",
-        "TI",
+        "𐘽-TI",
         "10",
         "\n",
         "flour",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -9913,7 +10093,6 @@ var inscriptions = [
         "\n",
         "𐘶𐝫",
         "\n",
-        "\n",
         "𐝫"
     ]
 },
@@ -9922,7 +10101,7 @@ var inscriptions = [
     "name": "HT109",
     "parsedInscription": "𐝫\n𐝫𐘙𐄊𐝫\n𐝫\n𐝫𐘳𐄊\n𐙂𐘁𐄙𐄑𐄏\n𐘇𐘴𐘶𐄙𐄑𐄉",
     "tracingImage": "images/HT109-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘙𐄊𐝫\n𐝫𐘳𐄊\n𐝫𐙂𐘁𐄙𐄑𐄏\n𐝫𐘇𐘴𐘶𐄙𐄑𐄉\n",
+    "transcription": "𐝫\n𐝫𐘙𐄊𐝫\n𐝫𐘳𐄊\n𐝫𐙂𐘁𐄙𐄑𐄏\n𐝫𐘇𐘴𐘶𐄙𐄑𐄉",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -9979,7 +10158,7 @@ var inscriptions = [
     "tracingImage": "images/HT110a-Tracing.jpg",
     "transcription": "𐘤𐘬𐘟𐙂𐘻\n𐜚𐄑𐙂𐘂𐄇\n𐙂𐘁𐄙𐝫\n𐝫𐘝𐄐𐄋𐝫\n𐝫𐄕",
     "translatedWords": [
-        "SI-DU-KU-MI",
+        "SI-DU𐘟-KU-MI",
         "𐜚",
         "20",
         "\n",
@@ -9995,7 +10174,7 @@ var inscriptions = [
         "60"
     ],
     "transliteratedWords": [
-        "SI-DU-KU-MI",
+        "SI-DU𐘟-KU-MI",
         "𐜚",
         "20",
         "\n",
@@ -10030,9 +10209,9 @@ var inscriptions = [
 {
     "image": "images/HT110b-Inscription.jpg",
     "name": "HT110b",
-    "parsedInscription": "𐙉𐝫\n𐝫𐘁𐄑\n𐜧𐄉𐝫\n𐝫𐄇\n𐙁𐄋𐝆\n\n𐝫𐄈\n𐘝𐄇𐝆𐝫\n𐝫𐄇\n𐙁𐄈\n𐙕𐝆𐝃",
+    "parsedInscription": "𐙉𐝫\n𐝫𐘁𐄑\n𐜧𐄉𐝫\n𐝫𐄇\n𐙁𐄋𐝆\n𐝫𐄈\n𐘝𐄇𐝆𐝫\n𐝫𐄇\n𐙁𐄈\n𐙕𐝆𐝃",
     "tracingImage": "images/HT110b-Tracing.jpg",
-    "transcription": "𐙉𐝫𐘁𐄑𐜧\n𐄉𐝫𐄇𐙁𐄋𐝆\n𐝫𐄈𐘝𐄇𐝆\n𐝫𐄇𐙁𐄈𐙕𐝕\n\n\n\n\n\n\n",
+    "transcription": "𐙉𐝫𐘁𐄑𐜧\n𐄉𐝫𐄇𐙁𐄋𐝆\n𐝫𐄈𐘝𐄇𐝆\n𐝫𐄇𐙁𐄈𐙕𐝕",
     "translatedWords": [
         "grain",
         "\n",
@@ -10047,7 +10226,6 @@ var inscriptions = [
         "MA",
         "5",
         "¹⁄₂",
-        "\n",
         "\n",
         "2",
         "\n",
@@ -10078,7 +10256,6 @@ var inscriptions = [
         "5",
         "¹⁄₂",
         "\n",
-        "\n",
         "2",
         "\n",
         "figs",
@@ -10108,7 +10285,6 @@ var inscriptions = [
         "𐄋",
         "𐝆",
         "\n",
-        "\n",
         "𐝫𐄈",
         "\n",
         "𐘝",
@@ -10129,7 +10305,7 @@ var inscriptions = [
     "name": "HT111a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘿𐘾𐄎\n𐘌𐘞𐝫\n𐝫𐘌𐘘𐄎\n𐘆𐄐𐄊𐝫\n𐝫𐘝𐝫\n𐝫",
     "tracingImage": "images/HT111a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐝫𐘿𐘾𐄎𐘌𐘞𐝫\n𐝫𐘌𐘘𐄎𐘆𐄐𐄊𐝫\n𐝫𐘝𐝫\n𐝫\n\n",
+    "transcription": "𐝫\n𐝫\n𐝫𐘿𐘾𐄎𐘌𐘞𐝫\n𐝫𐘌𐘘𐄎𐘆𐄐𐄊𐝫\n𐝫𐘝𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -10191,9 +10367,9 @@ var inscriptions = [
 {
     "image": "images/HT111b-Inscription.jpg",
     "name": "HT111b",
-    "parsedInscription": "𐝫\n𐝫𐄐𐄎\n𐘞𐘆𐄊𐝫\n𐝫𐄉\n𐘿𐝫\n𐘅𐝫𐝫𐘝𐄇𐝫\n\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐄐𐄎\n𐘞𐘆𐄊𐝫\n𐝫𐄉\n𐘿𐝫\n𐘅𐝫𐝫𐘝𐄇𐝫\n𐝫",
     "tracingImage": "images/HT111b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐄐𐄎𐘞𐘆𐄊𐝫\n𐝫𐄉𐘿𐝫\n𐝫𐘝𐄇𐝫𐘅𐝫\n𐝫\n\n\n",
+    "transcription": "𐝫\n𐝫𐄐𐄎𐘞𐘆𐄊𐝫\n𐝫𐄉𐘿𐝫\n𐝫𐘝𐄇𐝫𐘅𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -10209,7 +10385,6 @@ var inscriptions = [
         "NA",
         "figs",
         "1",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -10229,7 +10404,6 @@ var inscriptions = [
         "figs",
         "1",
         "\n",
-        "\n",
         "𐝫"
     ],
     "words": [
@@ -10247,7 +10421,6 @@ var inscriptions = [
         "𐘅𐝫",
         "𐝫𐘝",
         "𐄇𐝫",
-        "\n",
         "\n",
         "𐝫"
     ]
@@ -10391,13 +10564,13 @@ var inscriptions = [
 {
     "image": "images/HT114a-Inscription.jpg",
     "name": "HT114a",
-    "parsedInscription": "𐘸𐘭𐘷\n𐘞𐘽𐙉𐄐\n𐙖𐄍\n𐘝𐄇\n𐙍𐄇\n𐘖𐄉\n",
+    "parsedInscription": "𐘸𐘭𐘷\n𐘞𐘽𐙉𐄐\n𐙖𐄍\n𐘝𐄇\n𐙍𐄇\n𐘖𐄉",
     "tracingImage": "images/HT114a-Tracing.jpg",
-    "transcription": "𐘸𐘭𐘷𐘞\n𐘽𐙉𐄐𐙖𐄍\n𐘝𐄇𐙍𐄇𐘖\n𐄉\n\n\n",
+    "transcription": "𐘸𐘭𐘷𐘞\n𐘽𐙉𐄐𐙖𐄍\n𐘝𐄇𐙍𐄇𐘖\n𐄉",
     "translatedWords": [
-        "KI-RI",
+        "KI-RI𐘷",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "10",
         "\n",
@@ -10411,13 +10584,12 @@ var inscriptions = [
         "1",
         "\n",
         "bull",
-        "3",
-        "\n"
+        "3"
     ],
     "transliteratedWords": [
-        "KI-RI",
+        "KI-RI𐘷",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "10",
         "\n",
@@ -10431,8 +10603,7 @@ var inscriptions = [
         "1",
         "\n",
         "bull",
-        "3",
-        "\n"
+        "3"
     ],
     "words": [
         "𐘸𐘭𐘷",
@@ -10451,30 +10622,26 @@ var inscriptions = [
         "𐄇",
         "\n",
         "𐘖",
-        "𐄉",
-        "\n"
+        "𐄉"
     ]
 },
 {
     "image": "images/HT114b-Inscription.jpg",
     "name": "HT114b",
-    "parsedInscription": "𐘞𐙍𐄏\n",
+    "parsedInscription": "𐘞𐙍𐄏",
     "tracingImage": "images/HT114b-Tracing.jpg",
-    "transcription": "𐘞𐙍𐄏\n",
+    "transcription": "𐘞𐙍𐄏",
     "translatedWords": [
-        "SA",
-        "9",
-        "\n"
+        "SA𐙍",
+        "9"
     ],
     "transliteratedWords": [
-        "SA",
-        "9",
-        "\n"
+        "SA𐙍",
+        "9"
     ],
     "words": [
         "𐘞𐙍",
-        "𐄏",
-        "\n"
+        "𐄏"
     ]
 },
 {
@@ -10482,9 +10649,9 @@ var inscriptions = [
     "name": "HT115a",
     "parsedInscription": "𐘨𐘯𐘴𐘱𐄁𐘚𐄁𐛯\n𐘭𐘳𐙁𐘯𐘣𐄈\n𐙕𐘉𐘴\n𐘅𐘐𐘗𐘻𐘅𐄇\n𐘈𐙂𐘹𐝆\n𐘂𐘴𐘗𐄇\n𐘇𐘈𐘱𐝂𐝂𐝂𐝂\n𐘾𐘊𐘘𐄇\n𐘭𐘲𐙁𐝫\n𐘲𐄈𐝂𐝫\n𐝫",
     "tracingImage": "images/HT115a-Tracing.jpg",
-    "transcription": "𐘨𐘯𐘴𐘱𐄁𐘚𐄁𐛯𐘭𐘳𐙁\n𐘯𐘣𐄈𐙕𐘉𐘴𐘅𐘐\n𐘗𐘻𐘅𐄇𐘈𐙂𐘹𐝆\n𐘂𐘴𐘗𐄇𐘇𐘈𐘱𐝂𐝂𐝂𐝂\n𐘾𐘊𐘘𐄇\n𐘭𐘲𐙁𐝫\n𐘲𐄈𐝂𐝫\n𐝫\n\n\n",
+    "transcription": "𐘨𐘯𐘴𐘱𐄁𐘚𐄁𐛯𐘭𐘳𐙁\n𐘯𐘣𐄈𐙕𐘉𐘴𐘅𐘐\n𐘗𐘻𐘅𐄇𐘈𐙂𐘹𐝆\n𐘂𐘴𐘗𐄇𐘇𐘈𐘱𐝂𐝂𐝂𐝂\n𐘾𐘊𐘘𐄇\n𐘭𐘲𐙁𐝫\n𐘲𐄈𐝂𐝫\n𐝫",
     "translatedWords": [
-        "NU-RA-JA",
+        "𐘨-NU-RA-JA",
         "𐄁",
         "I",
         "𐄁",
@@ -10493,9 +10660,9 @@ var inscriptions = [
         "RI-TA-MA-NU-WI",
         "2",
         "\n",
-        "U-RA",
+        "𐙕-U-RA",
         "\n",
-        "NA-NE-MI-NA",
+        "NA𐘐-NE-MI-NA",
         "1",
         "\n",
         "SE-KU-TU",
@@ -10519,7 +10686,7 @@ var inscriptions = [
         "𐝫"
     ],
     "transliteratedWords": [
-        "NU-RA-JA",
+        "𐘨-NU-RA-JA",
         "𐄁",
         "I",
         "𐄁",
@@ -10528,9 +10695,9 @@ var inscriptions = [
         "RI-TA-MA-NU-WI",
         "2",
         "\n",
-        "U-RA",
+        "𐙕-U-RA",
         "\n",
-        "NA-NE-MI-NA",
+        "NA𐘐-NE-MI-NA",
         "1",
         "\n",
         "SE-KU-TU",
@@ -10592,9 +10759,9 @@ var inscriptions = [
 {
     "image": "images/HT115b-Inscription.jpg",
     "name": "HT115b",
-    "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫\n",
+    "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
     "tracingImage": "images/HT115b-Tracing.jpg",
-    "transcription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇𐜞𐄇𐙂𐘳𐝫\n\n\n\n\n",
+    "transcription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇𐜞𐄇𐙂𐘳𐝫",
     "translatedWords": [
         "RU",
         "𐄁",
@@ -10608,7 +10775,7 @@ var inscriptions = [
         "grain",
         "¹⁄₂",
         "\n",
-        "DU-NA",
+        "DU𐘰-NA",
         "1",
         "\n",
         "KU-RU-MA",
@@ -10616,12 +10783,11 @@ var inscriptions = [
         "I",
         "¹⁄₂",
         "\n",
-        "TU-JA",
+        "𐙚-TU-JA",
         "1",
         "\n",
         "A-I",
         "𐄁",
-        "\n",
         "\n",
         "\n",
         "1",
@@ -10642,7 +10808,7 @@ var inscriptions = [
         "grain",
         "¹⁄₂",
         "\n",
-        "DU-NA",
+        "DU𐘰-NA",
         "1",
         "\n",
         "KU-RU-MA",
@@ -10650,12 +10816,11 @@ var inscriptions = [
         "I",
         "¹⁄₂",
         "\n",
-        "TU-JA",
+        "𐙚-TU-JA",
         "1",
         "\n",
         "A-I",
         "𐄁",
-        "\n",
         "\n",
         "\n",
         "1",
@@ -10691,7 +10856,6 @@ var inscriptions = [
         "𐄁",
         "\n",
         "\n",
-        "\n",
         "𐄇",
         "𐜞",
         "𐄇",
@@ -10703,7 +10867,7 @@ var inscriptions = [
     "name": "HT116a",
     "parsedInscription": "𐘉𐘳𐘁𐄁𐘃𐄁\n𐙂𐘂𐘱𐙉𐄐𐄌\n𐘫𐘽𐄁𐙉𐄓\n𐜉𐄋\n𐛉𐙉𐄐𐄌\n𐜓𐄇\n𐜗𐄌\n𐙋𐄉\n𐘢𐘟𐘃𐙉𐄋\n𐙖𐝫𐄋\n𐜗𐄇\n𐛺𐄈\n𐘤𐘸𐘗𐙉𐄐𐄈\n𐙘𐄐𐄈\n𐘌𐘯𐙁𐙉𐄑\n𐙘𐄉",
     "tracingImage": "images/HT116a-Tracing.jpg",
-    "transcription": "𐘉𐘳𐘁𐄁𐘃𐄁𐙂𐘂𐘱𐙉\n𐄐𐄌𐘫𐘽𐄁𐙉𐄓𐜉𐄋\n𐛉𐙉𐄐𐄌𐜓𐄇𐜗𐄌\n𐙋𐄉𐘢𐘟𐘃𐙉𐄋\n𐙖𐝫𐄋𐜗𐄇𐛺𐄈𐘤𐘸\n𐘗𐙉𐄐𐄈𐙘𐄐𐄈𐘌𐘯𐙁\n𐙉𐄑𐙘𐄉\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐘉𐘳𐘁𐄁𐘃𐄁𐙂𐘂𐘱𐙉\n𐄐𐄌𐘫𐘽𐄁𐙉𐄓𐜉𐄋\n𐛉𐙉𐄐𐄌𐜓𐄇𐜗𐄌\n𐙋𐄉𐘢𐘟𐘃𐙉𐄋\n𐙖𐝫𐄋𐜗𐄇𐛺𐄈𐘤𐘸\n𐘗𐙉𐄐𐄈𐙘𐄐𐄈𐘌𐘯𐙁\n𐙉𐄑𐙘𐄉",
     "translatedWords": [
         "U-TA-RO",
         "𐄁",
@@ -10714,7 +10878,7 @@ var inscriptions = [
         "grain",
         "16",
         "\n",
-        "PU",
+        "PU𐘽",
         "𐄁",
         "grain",
         "40",
@@ -10735,7 +10899,7 @@ var inscriptions = [
         "olives",
         "3",
         "\n",
-        "PI-TE",
+        "PI𐘟-TE",
         "grain",
         "5",
         "\n",
@@ -10772,7 +10936,7 @@ var inscriptions = [
         "grain",
         "16",
         "\n",
-        "PU",
+        "PU𐘽",
         "𐄁",
         "grain",
         "40",
@@ -10793,7 +10957,7 @@ var inscriptions = [
         "olives",
         "3",
         "\n",
-        "PI-TE",
+        "PI𐘟-TE",
         "grain",
         "5",
         "\n",
@@ -10882,9 +11046,9 @@ var inscriptions = [
 {
     "image": "images/HT116b-Inscription.jpg",
     "name": "HT116b",
-    "parsedInscription": "𐙂𐘁𐙉𐄙𐝫\n𐙘𐄐𐄋\n𐙖𐄐𐄍\n",
+    "parsedInscription": "𐙂𐘁𐙉𐄙𐝫\n𐙘𐄐𐄋\n𐙖𐄐𐄍",
     "tracingImage": "images/HT116b-Tracing.jpg",
-    "transcription": "𐙂𐘁𐙉𐄙𐝫𐙘𐄐𐄋\n𐙖𐄐𐄍\n\n",
+    "transcription": "𐙂𐘁𐙉𐄙𐝫𐙘𐄐𐄋\n𐙖𐄐𐄍",
     "translatedWords": [
         "total",
         "grain",
@@ -10894,8 +11058,7 @@ var inscriptions = [
         "15",
         "\n",
         "olive oil",
-        "17",
-        "\n"
+        "17"
     ],
     "transliteratedWords": [
         "KU-RO",
@@ -10906,8 +11069,7 @@ var inscriptions = [
         "15",
         "\n",
         "olive oil",
-        "17",
-        "\n"
+        "17"
     ],
     "words": [
         "𐙂𐘁",
@@ -10918,8 +11080,7 @@ var inscriptions = [
         "𐄐𐄋",
         "\n",
         "𐙖",
-        "𐄐𐄍",
-        "\n"
+        "𐄐𐄍"
     ]
 },
 {
@@ -10927,7 +11088,7 @@ var inscriptions = [
     "name": "HT117a",
     "parsedInscription": "𐙁𐘾𐘭𐘃𐄁𐘸𐘁𐄁𐘉𐘻𐘅𐘤𐄁\n𐘉𐘲𐄇\n𐘻𐘹𐄇\n𐙂𐘴𐘕𐄇\n𐙁𐘘𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘶𐙁𐄇\n𐘉𐘆𐘻𐄇\n𐘻𐘘𐘳𐘴𐘙𐄇\n𐘃𐘱𐘙𐄇\n𐘅𐘀𐘙𐄇\n𐙂𐘁𐄐\n—\n𐘞𐘳𐄁\n𐙂𐙂𐘀𐘴𐄇\n𐘺𐘞𐘚𐘠𐄇\n𐘀𐘻𐘯𐄇\n𐘀𐘗𐙂𐘠𐄇\n𐘸𐘀𐘁𐄇",
     "tracingImage": "images/HT117a-Tracing.jpg",
-    "transcription": "𐙁𐘾𐘭𐘃𐄁𐘸𐘁𐄁𐘉𐘻\n𐘅𐘤𐄁𐘉𐘲𐄇𐘻𐘹𐄇𐙂\n𐘴𐘕𐄇𐙁𐘘𐄇𐙂𐘰𐘯𐄇𐘹\n𐘶𐙁𐄇𐘉𐘆𐘻𐄇𐘻𐘘𐘳\n𐘴𐘙𐄇𐘃𐘱𐘙𐄇𐘅𐘀𐘙𐄇\n𐙂𐘁𐄐\n—\n𐘞𐘳𐄁𐙂𐙂𐘀𐘴𐄇𐘺𐘞𐘚\n𐘠𐄇𐘀𐘻𐘯𐄇𐘀𐘗𐙂\n𐘠𐄇𐘸𐘀𐘁𐄇\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐙁𐘾𐘭𐘃𐄁𐘸𐘁𐄁𐘉𐘻\n𐘅𐘤𐄁𐘉𐘲𐄇𐘻𐘹𐄇𐙂\n𐘴𐘕𐄇𐙁𐘘𐄇𐙂𐘰𐘯𐄇𐘹\n𐘶𐙁𐄇𐘉𐘆𐘻𐄇𐘻𐘘𐘳\n𐘴𐘙𐄇𐘃𐘱𐘙𐄇𐘅𐘀𐘙𐄇\n𐙂𐘁𐄐\n—\n𐘞𐘳𐄁𐙂𐙂𐘀𐘴𐄇𐘺𐘞𐘚\n𐘠𐄇𐘀𐘻𐘯𐄇𐘀𐘗𐙂\n𐘠𐄇𐘸𐘀𐘁𐄇",
     "translatedWords": [
         "MA-KA-RI-TE",
         "𐄁",
@@ -10948,7 +11109,7 @@ var inscriptions = [
         "MA-RU",
         "1",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "1",
         "\n",
         "TU-JU-MA",
@@ -11009,7 +11170,7 @@ var inscriptions = [
         "MA-RU",
         "1",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "1",
         "\n",
         "TU-JU-MA",
@@ -11115,30 +11276,28 @@ var inscriptions = [
 {
     "image": "images/HT117b-Inscription.jpg",
     "name": "HT117b",
-    "parsedInscription": "𐘐𐘹𐘗𐄁\n𐙂𐘙𐘶𐄇\n𐘆𐘸𐘈𐄇\n",
+    "parsedInscription": "𐘐𐘹𐘗𐄁\n𐙂𐘙𐘶𐄇\n𐘆𐘸𐘈𐄇",
     "tracingImage": "images/HT117b-Tracing.jpg",
-    "transcription": "𐘐𐘹𐘗𐄁𐙂𐘙𐘶𐄇\n𐘆𐘸𐘈𐄇\n\n",
+    "transcription": "𐘐𐘹𐘗𐄁𐙂𐘙𐘶𐄇\n𐘆𐘸𐘈𐄇",
     "translatedWords": [
-        "TU-NE",
+        "𐘐-TU-NE",
         "𐄁",
         "\n",
         "KU-RE-JU",
         "1",
         "\n",
         "DI-KI-SE",
-        "1",
-        "\n"
+        "1"
     ],
     "transliteratedWords": [
-        "TU-NE",
+        "𐘐-TU-NE",
         "𐄁",
         "\n",
         "KU-RE-JU",
         "1",
         "\n",
         "DI-KI-SE",
-        "1",
-        "\n"
+        "1"
     ],
     "words": [
         "𐘐𐘹𐘗",
@@ -11148,8 +11307,7 @@ var inscriptions = [
         "𐄇",
         "\n",
         "𐘆𐘸𐘈",
-        "𐄇",
-        "\n"
+        "𐄇"
     ]
 },
 {
@@ -11157,7 +11315,7 @@ var inscriptions = [
     "name": "HT118",
     "parsedInscription": "𐙄𐄁𐛀𐄁\n𐙁𐘆𐄐𐄋𐘸𐄐\n𐘌𐘌𐘘𐄌𐘸𐄊\n𐘇𐘭𐘲𐄊𐘸𐄇\n𐘭𐘘𐙁𐄐\n𐙂𐘁𐄒𐘸𐄐𐄋𐝫",
     "tracingImage": "images/HT118-Tracing.jpg",
-    "transcription": "𐙄𐄁𐛀𐄁𐙁𐘆\n𐄐𐄋𐘸𐄐𐘌𐘌\n𐘘𐄌𐘸𐄊𐘇𐘭𐘲\n𐄊𐘸𐄇𐘭𐘘𐙁𐄐\n𐙂𐘁𐄒𐘸𐄐𐄋𐝫\n",
+    "transcription": "𐙄𐄁𐛀𐄁𐙁𐘆\n𐄐𐄋𐘸𐄐𐘌𐘌\n𐘘𐄌𐘸𐄊𐘇𐘭𐘲\n𐄊𐘸𐄇𐘭𐘘𐙁𐄐\n𐙂𐘁𐄒𐘸𐄐𐄋𐝫",
     "translatedWords": [
         "pig",
         "𐄁",
@@ -11239,7 +11397,7 @@ var inscriptions = [
     "name": "HT119",
     "parsedInscription": "𐙳𐄒𐄊\n𐙇𐄕𐄍\n𐘭𐘻𐘤𐄐𐄉\n𐘺𐘱𐄐\n𐙂𐘰𐘅𐘹𐄍\n𐘠𐄍\n𐘱𐚅𐄐\n𐙚𐘹𐄈\n𐙳𐘶𐄎\n𐙂𐘁𐄙𐄕",
     "tracingImage": "images/HT119-Tracing.jpg",
-    "transcription": "𐙳𐄒𐄊𐙇𐄕𐄍\n𐘭𐘻𐘤𐄐𐄉𐘺𐘱𐄐\n𐙂𐘰𐘅𐘹𐄍𐘠𐄍\n𐘱𐚅𐄐𐙚𐘹𐄈𐙳𐘶\n𐄎𐙂𐘁𐄙𐄕\n\n\n\n\n",
+    "transcription": "𐙳𐄒𐄊𐙇𐄕𐄍\n𐘭𐘻𐘤𐄐𐄉𐘺𐘱𐄐\n𐙂𐘰𐘅𐘹𐄍𐘠𐄍\n𐘱𐚅𐄐𐙚𐘹𐄈𐙳𐘶\n𐄎𐙂𐘁𐄙𐄕",
     "translatedWords": [
         "𐙳",
         "34",
@@ -11253,19 +11411,19 @@ var inscriptions = [
         "KO-JA",
         "10",
         "\n",
-        "KU-NA-TU",
+        "KU𐘰-NA-TU",
         "7",
         "\n",
         "TI",
         "7",
         "\n",
-        "JA",
+        "JA𐚅",
         "10",
         "\n",
-        "TU",
+        "𐙚-TU",
         "2",
         "\n",
-        "JU",
+        "𐙳-JU",
         "8",
         "\n",
         "total",
@@ -11284,19 +11442,19 @@ var inscriptions = [
         "KO-JA",
         "10",
         "\n",
-        "KU-NA-TU",
+        "KU𐘰-NA-TU",
         "7",
         "\n",
         "TI",
         "7",
         "\n",
-        "JA",
+        "JA𐚅",
         "10",
         "\n",
-        "TU",
+        "𐙚-TU",
         "2",
         "\n",
-        "JU",
+        "𐙳-JU",
         "8",
         "\n",
         "KU-RO",
@@ -11339,7 +11497,7 @@ var inscriptions = [
     "name": "HT120",
     "parsedInscription": "𐘀𐘿𐘴𐄁\n𐘀𐘋𐛷𐄖𐄊\n𐛭𐄕𐄈𐝆𐝀\n𐘀𐘉𐘪𐄁𐘚𐛭𐄑\n𐘸𐘙𐘳𐘅𐛳𐄕\n𐛭𐄓𐄎\n𐘂𐘚𐘄𐄉𐝂",
     "tracingImage": "images/HT120-Tracing.jpg",
-    "transcription": "𐘀𐘿𐘴𐄁𐘀𐘋\n𐛷𐄖𐄊𐛭\n𐄕𐄈𐝆𐝀𐘀𐘉\n𐘪𐄁𐘚𐛭𐄑𐘸\n𐘙𐘳𐘅𐛳𐄕\n𐛭𐄓𐄎𐘂𐘚𐘄𐄉𐝂\n",
+    "transcription": "𐘀𐘿𐘴𐄁𐘀𐘋\n𐛷𐄖𐄊𐛭\n𐄕𐄈𐝆𐝀𐘀𐘉\n𐘪𐄁𐘚𐛭𐄑𐘸\n𐘙𐘳𐘅𐛳𐄕\n𐛭𐄓𐄎𐘂𐘚𐘄𐄉𐝂",
     "translatedWords": [
         "DA-QE-RA",
         "𐄁",
@@ -11352,9 +11510,9 @@ var inscriptions = [
         "61",
         "𐝆𐝀",
         "\n",
-        "DA-U",
+        "DA-U𐘪",
         "𐄁",
-        "I",
+        "I𐛭",
         "20",
         "\n",
         "KI-RE-TA-NA",
@@ -11380,9 +11538,9 @@ var inscriptions = [
         "61",
         "𐝆𐝀",
         "\n",
-        "DA-U",
+        "DA-U𐘪",
         "𐄁",
-        "I",
+        "I𐛭",
         "20",
         "\n",
         "KI-RE-TA-NA",
@@ -11430,13 +11588,13 @@ var inscriptions = [
     "name": "HT121",
     "parsedInscription": "𐘸𐘭𐘷𐜘𐄐\n𐘞𐘽𐙉𐄋\n𐙖𐄊\n𐘝𐄈\n𐙍𐄉\n𐘖𐄉",
     "tracingImage": "images/HT121-Tracing.jpg",
-    "transcription": "𐘸𐘭𐘷𐜘𐄐\n𐘞𐘽𐙉𐄋𐙖𐄊\n𐘝𐄈𐙍𐄉𐘖\n𐄉\n\n",
+    "transcription": "𐘸𐘭𐘷𐜘𐄐\n𐘞𐘽𐙉𐄋𐙖𐄊\n𐘝𐄈𐙍𐄉𐘖\n𐄉",
     "translatedWords": [
-        "KI-RI",
+        "KI-RI𐘷",
         "𐜘",
         "10",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "5",
         "\n",
@@ -11453,11 +11611,11 @@ var inscriptions = [
         "3"
     ],
     "transliteratedWords": [
-        "KI-RI",
+        "KI-RI𐘷",
         "𐜘",
         "10",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "5",
         "\n",
@@ -11500,7 +11658,7 @@ var inscriptions = [
     "name": "HT122a",
     "parsedInscription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈𐝫\n𐝫𐄈\n𐘀𐘤𐙈𐄈\n𐘂𐝫𐄁𐝫\n𐝫𐘆𐄇\n𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉\n𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇\n𐙰𐘆𐘴𐄇\n𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘳𐘗𐄇\n𐙚𐘹𐄇\n𐝫𐘬𐄇\n𐙂𐘰𐘯𐄇\n𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇\n𐙂𐘀𐄇",
     "tracingImage": "images/HT122a-Tracing.jpg",
-    "transcription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈\n𐝫𐄈𐘀𐘤𐙈𐄈𐘂\n𐝫𐄁𐝫𐘆𐄇𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇𐙰𐘆𐘴𐄇𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇𐘂𐘳𐘗𐄇𐙚𐘹𐄇\n𐝫𐘬𐄇𐙂𐘰𐘯𐄇𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇𐙂𐘀𐄇\n\n\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈\n𐝫𐄈𐘀𐘤𐙈𐄈𐘂\n𐝫𐄁𐝫𐘆𐄇𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇𐙰𐘆𐘴𐄇𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇𐘂𐘳𐘗𐄇𐙚𐘹𐄇\n𐝫𐘬𐄇𐙂𐘰𐘯𐄇𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇𐙂𐘀𐄇",
     "translatedWords": [
         "RA-RI",
         "𐄁",
@@ -11509,7 +11667,7 @@ var inscriptions = [
         "\n",
         "2",
         "\n",
-        "DA-SI",
+        "DA-SI𐙈",
         "2",
         "\n",
         "PA",
@@ -11521,7 +11679,7 @@ var inscriptions = [
         "TE-KI",
         "2",
         "\n",
-        "QA-I",
+        "QA𐙠-I",
         "3",
         "\n",
         "JA-MI-DA-RE",
@@ -11530,25 +11688,25 @@ var inscriptions = [
         "SI-DA-RE",
         "1",
         "\n",
-        "DI-RA",
+        "𐙰-DI-RA",
         "1",
         "\n",
         "PA-DE",
         "1",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "1",
         "\n",
         "PA-TA-NE",
         "1",
         "\n",
-        "TU",
+        "𐙚-TU",
         "1",
         "\n",
         "DU",
         "1",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "1",
         "\n",
         "DA-RI-DA",
@@ -11568,7 +11726,7 @@ var inscriptions = [
         "\n",
         "2",
         "\n",
-        "DA-SI",
+        "DA-SI𐙈",
         "2",
         "\n",
         "PA",
@@ -11580,7 +11738,7 @@ var inscriptions = [
         "TE-KI",
         "2",
         "\n",
-        "QA-I",
+        "QA𐙠-I",
         "3",
         "\n",
         "JA-MI-DA-RE",
@@ -11589,25 +11747,25 @@ var inscriptions = [
         "SI-DA-RE",
         "1",
         "\n",
-        "DI-RA",
+        "𐙰-DI-RA",
         "1",
         "\n",
         "PA-DE",
         "1",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "1",
         "\n",
         "PA-TA-NE",
         "1",
         "\n",
-        "TU",
+        "𐙚-TU",
         "1",
         "\n",
         "DU",
         "1",
         "\n",
-        "KU-NU",
+        "KU𐘰-NU",
         "1",
         "\n",
         "DA-RI-DA",
@@ -11682,9 +11840,9 @@ var inscriptions = [
 {
     "image": "images/HT122b-Inscription.jpg",
     "name": "HT122b",
-    "parsedInscription": "𐘧𐘆𐄁𐚆𐄁𐙇𐝫\n𐝫𐙚𐘸𐘷𐄍𐝫\n𐝫𐘇𐘴𐘶𐘉𐘦𐘍𐄈\n𐘌𐘌𐘘𐄈\n𐘆𐄈\n𐘀𐘙𐄈\n𐙂𐘁𐄕𐄋\n𐘊𐘄𐙂𐘁𐄘𐄍\n",
+    "parsedInscription": "𐘧𐘆𐄁𐚆𐄁𐙇𐝫\n𐝫𐙚𐘸𐘷𐄍𐝫\n𐝫𐘇𐘴𐘶𐘉𐘦𐘍𐄈\n𐘌𐘌𐘘𐄈\n𐘆𐄈\n𐘀𐘙𐄈\n𐙂𐘁𐄕𐄋\n𐘊𐘄𐙂𐘁𐄘𐄍",
     "tracingImage": "images/HT122b-Tracing.jpg",
-    "transcription": "𐘧𐘆𐄁𐚆𐄁𐙇𐝫\n𐙚𐘸𐘷𐄍𐝫\n𐝫𐘇𐘴𐘶𐘉𐘦𐘍𐄈𐘌𐘌\n𐘘𐄈𐘆𐄈𐘀𐘙𐄈\n𐙂𐘁𐄕𐄋\n𐘊𐘄𐙂𐘁𐄘𐄍\n\n\n",
+    "transcription": "𐘧𐘆𐄁𐚆𐄁𐙇𐝫\n𐙚𐘸𐘷𐄍𐝫\n𐝫𐘇𐘴𐘶𐘉𐘦𐘍𐄈𐘌𐘌\n𐘘𐄈𐘆𐄈𐘀𐘙𐄈\n𐙂𐘁𐄕𐄋\n𐘊𐘄𐙂𐘁𐄘𐄍",
     "translatedWords": [
         "JE-DI",
         "𐄁",
@@ -11692,7 +11850,7 @@ var inscriptions = [
         "𐄁",
         "person",
         "\n",
-        "KI",
+        "𐙚-KI𐘷",
         "7",
         "\n",
         "A-RA-JU-U-DE-ZA",
@@ -11711,8 +11869,7 @@ var inscriptions = [
         "65",
         "\n",
         "grand total",
-        "97",
-        "\n"
+        "97"
     ],
     "transliteratedWords": [
         "JE-DI",
@@ -11721,7 +11878,7 @@ var inscriptions = [
         "𐄁",
         "person",
         "\n",
-        "KI",
+        "𐙚-KI𐘷",
         "7",
         "\n",
         "A-RA-JU-U-DE-ZA",
@@ -11740,8 +11897,7 @@ var inscriptions = [
         "65",
         "\n",
         "PO-TO-KU-RO",
-        "97",
-        "\n"
+        "97"
     ],
     "words": [
         "𐘧𐘆",
@@ -11769,8 +11925,7 @@ var inscriptions = [
         "𐄕𐄋",
         "\n",
         "𐘊𐘄𐙂𐘁",
-        "𐄘𐄍",
-        "\n"
+        "𐄘𐄍"
     ]
 },
 {
@@ -11778,7 +11933,7 @@ var inscriptions = [
     "name": "HT123a",
     "parsedInscription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃\n𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆\n𐙜𐄎𐝆𐝃\n𐘸𐘁𐝎\n𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫\n𐝫𐘸𐘁𐝆𐝃\n𐘀𐘹𐙋𐄐𐄋\n𐙜𐄊𐝃\n𐘸𐘁𐝆𐝃\n𐙂𐘁𐙋𐄘𐄉𐝆\n𐙜𐄁\n𐙂𐘁𐝫𐄑𐄋𐝅\n𐘸𐘁𐄌𐝫",
     "tracingImage": "images/HT123a-Tracing.jpg",
-    "transcription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆𐙜𐄎\n𐝕𐘸𐘁𐝎𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫𐘸𐘁𐝆𐝃\n𐘀𐘹𐙋𐄐𐄋𐙜𐄊𐝃\n𐘸𐘁𐝕𐙂𐘁𐙋\n𐄘𐄉𐝆𐙜𐄁𐙂𐘁𐝫𐄑\n𐄋𐝅𐘸𐘁𐄌𐝫\n\n\n\n\n\n\n",
+    "transcription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆𐙜𐄎\n𐝕𐘸𐘁𐝎𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫𐘸𐘁𐝆𐝃\n𐘀𐘹𐙋𐄐𐄋𐙜𐄊𐝃\n𐘸𐘁𐝕𐙂𐘁𐙋\n𐄘𐄉𐝆𐙜𐄁𐙂𐘁𐝫𐄑\n𐄋𐝅𐘸𐘁𐄌𐝫",
     "translatedWords": [
         "KI-TA-I",
         "𐄁",
@@ -11793,7 +11948,7 @@ var inscriptions = [
         "1",
         "𐝎",
         "\n",
-        "PU",
+        "PU𐙍",
         "olives",
         "31",
         "¹⁄₂",
@@ -11856,7 +12011,7 @@ var inscriptions = [
         "1",
         "𐝎",
         "\n",
-        "PU",
+        "PU𐙍",
         "olives",
         "31",
         "¹⁄₂",
@@ -11972,9 +12127,9 @@ var inscriptions = [
 {
     "image": "images/HT123b-Inscription.jpg",
     "name": "HT123b",
-    "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝆𐝃\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫\n",
+    "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝆𐝃\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫",
     "tracingImage": "images/HT123b-Tracing.jpg",
-    "transcription": "𐙓𐙜𐄐𐄇𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁𐘢𐘞𐄊𐙓\n𐄇𐙓𐘬𐄐𐘹𐘂𐘆𐘀\n𐝆𐝉𐘾𐘅𐝫𐘤𐘬\n𐝀𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑𐘸𐘁𐄋\n\n\n\n\n\n\n",
+    "transcription": "𐙓𐙜𐄐𐄇𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁𐘢𐘞𐄊𐙓\n𐄇𐙓𐘬𐄐𐘹𐘂𐘆𐘀\n𐝆𐝉𐘾𐘅𐝫𐘤𐘬\n𐝀𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑𐘸𐘁𐄋",
     "translatedWords": [
         "𐙓𐙜",
         "11",
@@ -11992,7 +12147,7 @@ var inscriptions = [
         "𐙓",
         "1",
         "\n",
-        "DU",
+        "𐙓-DU",
         "𐄁",
         "10",
         "\n",
@@ -12011,8 +12166,7 @@ var inscriptions = [
         "20",
         "\n",
         "owed",
-        "5",
-        "\n"
+        "5"
     ],
     "transliteratedWords": [
         "𐙓𐙜",
@@ -12031,7 +12185,7 @@ var inscriptions = [
         "𐙓",
         "1",
         "\n",
-        "DU",
+        "𐙓-DU",
         "𐄁",
         "10",
         "\n",
@@ -12050,8 +12204,7 @@ var inscriptions = [
         "20",
         "\n",
         "KI-RO",
-        "5",
-        "\n"
+        "5"
     ],
     "words": [
         "𐙓𐙜",
@@ -12089,8 +12242,7 @@ var inscriptions = [
         "𐄑",
         "\n",
         "𐘸𐘁",
-        "𐄋𐝫",
-        "\n"
+        "𐄋𐝫"
     ]
 },
 {
@@ -12098,23 +12250,23 @@ var inscriptions = [
     "name": "HT125a",
     "parsedInscription": "𐝫\n𐝫𐘽𐝫\n𐝫𐜓𐄇𐝂\n𐜋𐝫\n𐝫𐜗𐄇𐝆𐝫\n𐝫𐘞𐘽𐙉𐄈\n𐙖𐝫𐄇",
     "tracingImage": "images/HT125a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘽𐝫\n𐜓𐄇𐝂𐜋𐝫\n𐜗𐄇𐝆𐝫\n𐘞𐘽𐙉𐄈𐙖𐝫𐄇\n\n",
+    "transcription": "𐝫\n𐝫𐘽𐝫\n𐜓𐄇𐝂𐜋𐝫\n𐜗𐄇𐝆𐝫\n𐘞𐘽𐙉𐄈𐙖𐝫𐄇",
     "translatedWords": [
         "𐝫",
         "\n",
         "RA2",
         "\n",
-        "𐝫𐜓",
+        "𐜓",
         "1",
         "¹⁄₅",
         "\n",
-        "𐜋𐝫",
+        "𐜋",
         "\n",
-        "𐝫𐜗",
+        "𐜗",
         "1",
         "¹⁄₂",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "2",
         "\n",
@@ -12126,17 +12278,17 @@ var inscriptions = [
         "\n",
         "RA2",
         "\n",
-        "𐝫𐜓",
+        "𐜓",
         "1",
         "¹⁄₅",
         "\n",
-        "𐜋𐝫",
+        "𐜋",
         "\n",
-        "𐝫𐜗",
+        "𐜗",
         "1",
         "¹⁄₂",
         "\n",
-        "SA",
+        "SA𐘽",
         "grain",
         "2",
         "\n",
@@ -12171,14 +12323,14 @@ var inscriptions = [
     "name": "HT125b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄑\n𐝫𐘙𐘷𐛭𐄑\n𐛵𐄍𐝆\n𐙘𐄐\n𐘝𐄑𐄉",
     "tracingImage": "images/HT125b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐝫𐄑\n𐝫𐘙𐘷𐛭𐄑\n𐛵𐄍𐝆𐙘𐄐\n𐘝𐄑𐄉\n",
+    "transcription": "𐝫\n𐝫\n𐝫𐄑\n𐝫𐘙𐘷𐛭𐄑\n𐛵𐄍𐝆𐙘𐄐\n𐘝𐄑𐄉",
     "translatedWords": [
         "𐝫",
         "\n",
         "\n",
         "20",
         "\n",
-        "RE",
+        "RE𐘷",
         "𐛭",
         "20",
         "\n",
@@ -12198,7 +12350,7 @@ var inscriptions = [
         "\n",
         "20",
         "\n",
-        "RE",
+        "RE𐘷",
         "𐛭",
         "20",
         "\n",
@@ -12238,7 +12390,7 @@ var inscriptions = [
     "name": "HT126a",
     "parsedInscription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇\n𐘉𐝫\n𐝫𐝆\n𐘤𐘆𐘱𐄇𐝫\n𐝫𐘉𐘪𐄇\n𐘢𐝫\n𐝫𐄕𐄈𐝫\n𐝫𐄈𐝫\n𐝫",
     "tracingImage": "images/HT126a-Tracing.jpg",
-    "transcription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇𐘉𐝫\n𐝆𐘤𐘆𐘱𐄇𐝫\n𐘉𐘪𐄇𐘢𐝫\n𐄕𐄈𐝫\n𐄈𐝫\n𐝫\n\n\n",
+    "transcription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇𐘉𐝫\n𐝆𐘤𐘆𐘱𐄇𐝫\n𐘉𐘪𐄇𐘢𐝫\n𐄕𐄈𐝫\n𐄈𐝫\n𐝫",
     "translatedWords": [
         "DA-NA-SI",
         "𐄁",
@@ -12260,7 +12412,7 @@ var inscriptions = [
         "¹⁄₂",
         "SI-DI-JA",
         "1",
-        "U",
+        "U𐘪",
         "1",
         "PI",
         "61",
@@ -12288,7 +12440,7 @@ var inscriptions = [
         "¹⁄₂",
         "SI-DI-JA",
         "1",
-        "U",
+        "U𐘪",
         "1",
         "PI",
         "61",
@@ -12329,9 +12481,9 @@ var inscriptions = [
     "name": "HT126b",
     "parsedInscription": "𐝫𐙙𐄉\n𐝫𐄌\n𐙆𐄊\n𐄁𐘐𐝫\n𐝫\n𐝫𐙆𐝫\n𐝫𐘹𐄌\n𐝫",
     "tracingImage": "images/HT126b-Tracing.jpg",
-    "transcription": "𐝫𐙙𐄉\n𐝫𐄌𐙆𐄊𐄁𐘐𐝫\n𐝫𐙆\n𐝫𐘹𐄌\n𐝫\n\n\n",
+    "transcription": "𐝫𐙙𐄉\n𐝫𐄌𐙆𐄊𐄁𐘐𐝫\n𐝫𐙆\n𐝫𐘹𐄌\n𐝫",
     "translatedWords": [
-        "𐝫𐙙",
+        "𐙙",
         "3",
         "\n",
         "6",
@@ -12351,7 +12503,7 @@ var inscriptions = [
         "𐝫"
     ],
     "transliteratedWords": [
-        "𐝫𐙙",
+        "𐙙",
         "3",
         "\n",
         "6",
@@ -12394,9 +12546,9 @@ var inscriptions = [
 {
     "image": "images/HT127a-Inscription.jpg",
     "name": "HT127a",
-    "parsedInscription": "𐝫\n𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇\n",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
     "tracingImage": "images/HT127a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇\n",
+    "transcription": "𐝫\n𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -12404,9 +12556,8 @@ var inscriptions = [
         "DU-NE-MI",
         "1",
         "\n",
-        "DA-KU",
-        "1",
-        "\n"
+        "𐜝-DA𐘨-KU",
+        "1"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -12415,9 +12566,8 @@ var inscriptions = [
         "DU-NE-MI",
         "1",
         "\n",
-        "DA-KU",
-        "1",
-        "\n"
+        "𐜝-DA𐘨-KU",
+        "1"
     ],
     "words": [
         "𐝫",
@@ -12427,23 +12577,21 @@ var inscriptions = [
         "𐄇𐝫",
         "\n",
         "𐝫𐜝𐘀𐘨𐙂",
-        "𐄇",
-        "\n"
+        "𐄇"
     ]
 },
 {
     "image": "images/HT127b-Inscription.jpg",
     "name": "HT127b",
-    "parsedInscription": "𐝫\n𐝫\n𐝫𐘗𐄐𐄉𐝫\n\n𐙂𐘁𐙛𐄙𐄔𐄌\n𐙂𐄖𐄈\n𐛫𐄑𐄊\n𐛖𐄐𐄋\n𐙕𐄐𐄇\n𐛖𐄐𐄊\n𐙂𐘁𐄚𐄘𐄈",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐘗𐄐𐄉𐝫\n𐙂𐘁𐙛𐄙𐄔𐄌\n𐙂𐄖𐄈\n𐛫𐄑𐄊\n𐛖𐄐𐄋\n𐙕𐄐𐄇\n𐛖𐄐𐄊\n𐙂𐘁𐄚𐄘𐄈",
     "tracingImage": "images/HT127b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐝫𐘗𐄐𐄉𐝫\n𐙂𐘁𐙛𐄙𐄔𐄌𐙂\n𐄖𐄈𐛫𐄑𐄊𐛖𐄐𐄋\n𐙕𐄐𐄇𐛖𐄐𐄊\n𐙂𐘁𐄚𐄘𐄈\n\n\n\n",
+    "transcription": "𐝫\n𐝫\n𐝫𐘗𐄐𐄉𐝫\n𐙂𐘁𐙛𐄙𐄔𐄌𐙂\n𐄖𐄈𐛫𐄑𐄊𐛖𐄐𐄋\n𐙕𐄐𐄇𐛖𐄐𐄊\n𐙂𐘁𐄚𐄘𐄈",
     "translatedWords": [
         "𐝫",
         "\n",
         "\n",
         "NE",
         "13",
-        "\n",
         "\n",
         "total",
         "𐙛",
@@ -12473,7 +12621,6 @@ var inscriptions = [
         "\n",
         "NE",
         "13",
-        "\n",
         "\n",
         "KU-RO",
         "𐙛",
@@ -12504,7 +12651,6 @@ var inscriptions = [
         "𐝫𐘗",
         "𐄐𐄉𐝫",
         "\n",
-        "\n",
         "𐙂𐘁",
         "𐙛",
         "𐄙𐄔𐄌",
@@ -12533,7 +12679,7 @@ var inscriptions = [
     "name": "HT128a",
     "parsedInscription": "𐙲𐄁\n𐘂𐘴\n𐘹𐘘𐘯𐘈𐘋𐙉𐝫𐄐\n𐘮𐘹𐙁𐘙𐛲𐄐𐄈𐝫\n𐝫𐘻𐘳𐛭𐝆𐝫\n𐛲𐄌\n𐘆𐝫\n𐛲𐄊\n𐙁𐘭𐝫\n𐝫",
     "tracingImage": "images/HT128a-Tracing.jpg",
-    "transcription": "𐙲𐄁𐘂𐘴𐘹𐘘𐘯𐘈𐘋\n𐙉𐝫𐄐𐘮𐘹𐙁𐘙𐛲𐄐𐄈\n𐝫𐘻𐘳𐛭𐝆𐝫𐛲𐄌𐘆\n𐝫𐛲𐄊𐙁𐘭\n𐝫\n\n\n\n\n",
+    "transcription": "𐙲𐄁𐘂𐘴𐘹𐘘𐘯𐘈𐘋\n𐙉𐝫𐄐𐘮𐘹𐙁𐘙𐛲𐄐𐄈\n𐝫𐘻𐘳𐛭𐝆𐝫𐛲𐄌𐘆\n𐝫𐛲𐄊𐙁𐘭\n𐝫",
     "translatedWords": [
         "𐙲",
         "𐄁",
@@ -12628,16 +12774,15 @@ var inscriptions = [
 {
     "image": "images/HT128b-Inscription.jpg",
     "name": "HT128b",
-    "parsedInscription": "𐛲𐄌\n𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n\n𐝫",
+    "parsedInscription": "𐛲𐄌\n𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫",
     "tracingImage": "images/HT128b-Tracing.jpg",
-    "transcription": "𐛲𐄌𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫\n\n",
+    "transcription": "𐛲𐄌𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫",
     "translatedWords": [
         "\n",
         "𐙇𐙵",
         "𐛲",
         "\n",
         "𐄁",
-        "\n",
         "\n",
         "6",
         "𐛲",
@@ -12654,7 +12799,6 @@ var inscriptions = [
         "𐛲",
         "\n",
         "𐄁",
-        "\n",
         "\n",
         "6",
         "𐛲",
@@ -12672,7 +12816,6 @@ var inscriptions = [
         "\n",
         "𐄁",
         "\n",
-        "\n",
         "𐄌",
         "𐛲",
         "𐄇",
@@ -12688,9 +12831,9 @@ var inscriptions = [
     "name": "HT129",
     "parsedInscription": "𐘸𐘙𐘷𐙉𐄒𐄉𐝆𐝁\n𐙘𐄐\n𐘝𐄑𐄈\n𐘹𐘐𐘭𐘅𐙉𐄓𐝆\n𐜉𐄇𐝫\n𐝫𐜓𐄌\n𐝫𐙖𐝫\n𐝫",
     "tracingImage": "images/HT129-Tracing.jpg",
-    "transcription": "𐘸𐘙𐘷𐙉𐄒𐄉𐝆𐝁\n𐙘𐄐𐘝𐄑𐄈𐘹𐘐𐘭𐘅\n𐙉𐄓𐝆𐜉𐄇𐝫\n𐝫𐜓𐄌𐙖𐝫\n𐝫\n\n\n",
+    "transcription": "𐘸𐘙𐘷𐙉𐄒𐄉𐝆𐝁\n𐙘𐄐𐘝𐄑𐄈𐘹𐘐𐘭𐘅\n𐙉𐄓𐝆𐜉𐄇𐝫\n𐝫𐜓𐄌𐙖𐝫\n𐝫",
     "translatedWords": [
-        "KI-RE",
+        "KI-RE𐘷",
         "grain",
         "33",
         "𐝆𐝁",
@@ -12701,7 +12844,7 @@ var inscriptions = [
         "figs",
         "22",
         "\n",
-        "TU-RI-NA",
+        "TU𐘐-RI-NA",
         "grain",
         "40",
         "¹⁄₂",
@@ -12709,7 +12852,7 @@ var inscriptions = [
         "𐜉",
         "1",
         "\n",
-        "𐝫𐜓",
+        "𐜓",
         "6",
         "\n",
         "olive oil",
@@ -12717,7 +12860,7 @@ var inscriptions = [
         "𐝫"
     ],
     "transliteratedWords": [
-        "KI-RE",
+        "KI-RE𐘷",
         "grain",
         "33",
         "𐝆𐝁",
@@ -12728,7 +12871,7 @@ var inscriptions = [
         "figs",
         "22",
         "\n",
-        "TU-RI-NA",
+        "TU𐘐-RI-NA",
         "grain",
         "40",
         "¹⁄₂",
@@ -12736,7 +12879,7 @@ var inscriptions = [
         "𐜉",
         "1",
         "\n",
-        "𐝫𐜓",
+        "𐜓",
         "6",
         "\n",
         "olive oil",
@@ -12776,13 +12919,13 @@ var inscriptions = [
     "name": "HT130",
     "parsedInscription": "𐝫\n𐝫𐘤𐄉\n𐘞𐘽𐙗𐝫\n𐝫\n𐝫𐘽𐝫\n𐝫𐙂𐘁𐝫\n—\n𐘤𐙗𐄎\n𐘝𐄌\n𐙍𐄉",
     "tracingImage": "images/HT130-Tracing.jpg",
-    "transcription": "𐝫𐘤𐄉\n𐘞𐘽𐙗𐝫\n𐝫𐘽𐝫\n𐝫𐙂𐘁𐝫\n—\n𐘤𐙗𐄎𐘝\n𐄌𐙍𐄉\n\n\n",
+    "transcription": "𐝫𐘤𐄉\n𐘞𐘽𐙗𐝫\n𐝫𐘽𐝫\n𐝫𐙂𐘁𐝫\n—\n𐘤𐙗𐄎𐘝\n𐄌𐙍𐄉",
     "translatedWords": [
         "\n",
         "SI",
         "3",
         "\n",
-        "SA",
+        "SA𐘽",
         "cyperus",
         "\n",
         "\n",
@@ -12792,7 +12935,7 @@ var inscriptions = [
         "\n",
         "—",
         "\n",
-        "SI",
+        "SI𐙗",
         "8",
         "\n",
         "figs",
@@ -12806,7 +12949,7 @@ var inscriptions = [
         "SI",
         "3",
         "\n",
-        "SA",
+        "SA𐘽",
         "cyperus",
         "\n",
         "\n",
@@ -12816,7 +12959,7 @@ var inscriptions = [
         "\n",
         "—",
         "\n",
-        "SI",
+        "SI𐙗",
         "8",
         "\n",
         "figs",
@@ -12855,7 +12998,7 @@ var inscriptions = [
     "name": "HT131a",
     "parsedInscription": "𐝫\n𐝫𐘝𐄕𐄈\n𐙂𐝫\n𐝫𐄛𐄔𐄉\n𐘚𐘌𐙈𐙉𐄔𐄎𐝫\n𐝫𐙖𐄐𐄈𐝆\n𐙘𐄐𐄈𐝆𐝃",
     "tracingImage": "images/HT131a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘝𐄕𐄈𐙂𐝫\n𐝫𐄛𐄔𐄉𐘚𐘌\n𐝫𐙈𐙉𐄔𐄎\n𐝫𐙖𐄐𐄈𐝆𐙘𐄐𐄈𐝆𐝃\n\n",
+    "transcription": "𐝫\n𐝫𐘝𐄕𐄈𐙂𐝫\n𐝫𐄛𐄔𐄉𐘚𐘌\n𐝫𐙈𐙉𐄔𐄎\n𐝫𐙖𐄐𐄈𐝆𐙘𐄐𐄈𐝆𐝃",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -12866,7 +13009,7 @@ var inscriptions = [
         "\n",
         "353",
         "\n",
-        "I-QA",
+        "I-QA𐙈",
         "grain",
         "58",
         "\n",
@@ -12888,7 +13031,7 @@ var inscriptions = [
         "\n",
         "353",
         "\n",
-        "I-QA",
+        "I-QA𐙈",
         "grain",
         "58",
         "\n",
@@ -12926,7 +13069,7 @@ var inscriptions = [
 {
     "image": "images/HT131b-Inscription.jpg",
     "name": "HT131b",
-    "parsedInscription": "𐝫\n𐝫𐘝𐄒𐝫\n𐝫𐙋𐄈\n𐛼𐝫\n—\n𐘊𐘄𐙂𐘁𐝫𐄜𐄔𐄈𐝆𐝫\n",
+    "parsedInscription": "𐝫\n𐝫𐘝𐄒𐝫\n𐝫𐙋𐄈\n𐛼𐝫\n—\n𐘊𐘄𐙂𐘁𐝫𐄜𐄔𐄈𐝆𐝫",
     "tracingImage": "images/HT131b-Tracing.jpg",
     "transcription": "𐝫\n𐝫\n𐝫𐘝𐄒𐝫\n𐝫𐙋𐄈𐛼𐝫\n—\n𐘊𐘄𐙂𐘁𐝫𐄜\n𐄔𐄈𐝆𐝫",
     "translatedWords": [
@@ -12937,14 +13080,13 @@ var inscriptions = [
         "olives",
         "2",
         "\n",
-        "𐛼𐝫",
+        "𐛼",
         "\n",
         "—",
         "\n",
         "grand total",
         "451",
-        "¹⁄₂",
-        "\n"
+        "¹⁄₂"
     ],
     "transliteratedWords": [
         "\n",
@@ -12954,14 +13096,13 @@ var inscriptions = [
         "olives",
         "2",
         "\n",
-        "𐛼𐝫",
+        "𐛼",
         "\n",
         "—",
         "\n",
         "PO-TO-KU-RO",
         "451",
-        "¹⁄₂",
-        "\n"
+        "¹⁄₂"
     ],
     "words": [
         "\n",
@@ -12977,8 +13118,7 @@ var inscriptions = [
         "\n",
         "𐘊𐘄𐙂𐘁",
         "𐝫𐄜𐄔𐄈",
-        "𐝆𐝫",
-        "\n"
+        "𐝆𐝫"
     ]
 },
 {
@@ -12986,7 +13126,7 @@ var inscriptions = [
     "name": "HT132",
     "parsedInscription": "𐘇𐘈𐄁𐙫𐄋\n𐘌𐘙𐘄𐄁𐘓𐄑𐄍\n𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫",
     "tracingImage": "images/HT132-Tracing.jpg",
-    "transcription": "𐘇𐘈𐄁𐙫𐄋𐘌𐘙\n𐘄𐄁𐘐𐄑𐄍𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫\n",
+    "transcription": "𐘇𐘈𐄁𐙫𐄋𐘌𐘙\n𐘄𐄁𐘐𐄑𐄍𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "A-SE",
         "𐄁",
@@ -13048,35 +13188,29 @@ var inscriptions = [
 {
     "image": "images/HT133-Inscription.jpg",
     "name": "HT133",
-    "parsedInscription": "𐘇𐘬𐄁𐘃𐛬𐄔𐄋\n\n",
+    "parsedInscription": "𐘇𐘬𐄁𐘃𐛬𐄔𐄋",
     "tracingImage": "images/HT133-Tracing.jpg",
-    "transcription": "𐘇𐘬𐄁𐘃𐛬\n𐄔𐄋\n",
+    "transcription": "𐘇𐘬𐄁𐘃𐛬\n𐄔𐄋",
     "translatedWords": [
         "assessment",
         "𐄁",
         "TE",
         "𐛬",
-        "55",
-        "\n",
-        "\n"
+        "55"
     ],
     "transliteratedWords": [
         "A-DU",
         "𐄁",
         "TE",
         "𐛬",
-        "55",
-        "\n",
-        "\n"
+        "55"
     ],
     "words": [
         "𐘇𐘬",
         "𐄁",
         "𐘃",
         "𐛬",
-        "𐄔𐄋",
-        "\n",
-        "\n"
+        "𐄔𐄋"
     ]
 },
 {
@@ -13084,7 +13218,7 @@ var inscriptions = [
     "name": "HT135a",
     "parsedInscription": "𐝫\n𐝫𐘗𐘻𐘅𐄐𐝫\n𐝫𐘻𐘹𐄁\n𐘻𐘾𐝫\n𐝫𐄇\n𐘅𐘐𐘗𐝫\n𐝫𐘻𐄈",
     "tracingImage": "images/HT135a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘗𐘻𐘅𐄐𐝫\n𐝫𐘻𐘹𐄁𐘻𐘾\n𐝫𐄇𐘅𐘐𐘗\n𐝫𐘻𐄈\n\n",
+    "transcription": "𐝫\n𐝫𐘗𐘻𐘅𐄐𐝫\n𐝫𐘻𐘹𐄁𐘻𐘾\n𐝫𐄇𐘅𐘐𐘗\n𐝫𐘻𐄈",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -13098,7 +13232,7 @@ var inscriptions = [
         "\n",
         "1",
         "\n",
-        "NA-NE",
+        "NA𐘐-NE",
         "\n",
         "MI",
         "2"
@@ -13116,7 +13250,7 @@ var inscriptions = [
         "\n",
         "1",
         "\n",
-        "NA-NE",
+        "NA𐘐-NE",
         "\n",
         "MI",
         "2"
@@ -13143,7 +13277,7 @@ var inscriptions = [
 {
     "image": "images/HT135b-Inscription.jpg",
     "name": "HT135b",
-    "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈\n",
+    "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈",
     "tracingImage": "images/HT135b-Tracing.jpg",
     "transcription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈\n𐘐𐄒𐝫",
     "translatedWords": [
@@ -13152,8 +13286,7 @@ var inscriptions = [
         "𐄁",
         "TA-NE",
         "\n",
-        "2",
-        "\n"
+        "2"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -13161,8 +13294,7 @@ var inscriptions = [
         "𐄁",
         "TA-NE",
         "\n",
-        "2",
-        "\n"
+        "2"
     ],
     "words": [
         "𐝫",
@@ -13170,8 +13302,7 @@ var inscriptions = [
         "𐄁",
         "𐝫𐘳𐘗𐝫",
         "\n",
-        "𐄈",
-        "\n"
+        "𐄈"
     ]
 },
 {
@@ -13196,14 +13327,13 @@ var inscriptions = [
 {
     "image": "images/HT136b-Inscription.jpg",
     "name": "HT136b",
-    "parsedInscription": "𐝫\n𐝫𐄑𐄊𐝫\n\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐄑𐄊𐝫\n𐝫",
     "tracingImage": "images/HT136b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐄑𐄊\n𐝫\n",
+    "transcription": "𐝫\n𐝫𐄑𐄊\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
         "24",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -13212,7 +13342,6 @@ var inscriptions = [
         "\n",
         "24",
         "\n",
-        "\n",
         "𐝫"
     ],
     "words": [
@@ -13220,16 +13349,15 @@ var inscriptions = [
         "\n",
         "𐝫𐄑𐄊𐝫",
         "\n",
-        "\n",
         "𐝫"
     ]
 },
 {
     "image": "images/HT137-Inscription.jpg",
     "name": "HT137",
-    "parsedInscription": "𐝫\n𐝫𐘷𐙉𐝫𐄉𐝫\n𐜗𐄌𐝫\n𐝫𐙖𐄈\n\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐘷𐙉𐝫𐄉𐝫\n𐜗𐄌𐝫\n𐝫𐙖𐄈\n𐝫",
     "tracingImage": "images/HT137-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘷𐙉𐝫𐄉𐜗𐄌𐝫\n𐝫𐙖𐄈𐝫\n𐝫\n\n",
+    "transcription": "𐝫\n𐝫𐘷𐙉𐝫𐄉𐜗𐄌𐝫\n𐝫𐙖𐄈𐝫\n𐝫",
     "translatedWords": [
         "\n",
         "TA2",
@@ -13238,7 +13366,6 @@ var inscriptions = [
         "\n",
         "𐜗",
         "6",
-        "\n",
         "\n",
         "\n",
         "2",
@@ -13252,7 +13379,6 @@ var inscriptions = [
         "\n",
         "𐜗",
         "6",
-        "\n",
         "\n",
         "\n",
         "2",
@@ -13268,7 +13394,6 @@ var inscriptions = [
         "𐄌𐝫",
         "\n",
         "\n",
-        "\n",
         "𐄈",
         "𐝫"
     ]
@@ -13278,7 +13403,7 @@ var inscriptions = [
     "name": "HT139",
     "parsedInscription": "𐝫𐘫𐙁𐙂𐝫\n𐝫𐙉𐝫𐄇\n𐙖𐝆\n𐝫𐘾𐘽𐝫\n𐝫",
     "tracingImage": "images/HT139-Tracing.jpg",
-    "transcription": "𐝫𐘫𐙁𐙂\n𐝫𐙉𐝫𐄇𐙖𐝆\n𐝫𐘾𐘽\n𐝫\n",
+    "transcription": "𐝫𐘫𐙁𐙂\n𐝫𐙉𐝫𐄇𐙖𐝆\n𐝫𐘾𐘽\n𐝫",
     "translatedWords": [
         "PU-MA-KU",
         "\n",
@@ -13288,7 +13413,7 @@ var inscriptions = [
         "olive oil",
         "¹⁄₂",
         "\n",
-        "KA",
+        "KA𐘽",
         "\n",
         "𐝫"
     ],
@@ -13301,7 +13426,7 @@ var inscriptions = [
         "olive oil",
         "¹⁄₂",
         "\n",
-        "KA",
+        "KA𐘽",
         "\n",
         "𐝫"
     ],
@@ -13322,14 +13447,14 @@ var inscriptions = [
 {
     "image": "images/HT140-Inscription.jpg",
     "name": "HT140",
-    "parsedInscription": "𐘉𐘟𐘤𐄁\n𐙅𐘤𐘝𐄁𐄇𐝫\n𐘧𐘆𐄁𐜓𐄇𐝆\n𐄁\n𐘉𐘟𐘤𐝫𐄁𐝫\n𐙅𐘤𐙈𐘾𐄉\n𐘾𐝫\n𐝫𐙁𐝫\n𐝫𐘾𐝫\n𐝫𐄊\n𐜋𐄉\n𐘾𐄇\n𐜋𐄇\n𐝫𐘾𐄇\n𐜋𐄈\n𐘾𐘂𐝆𐝫\n𐝫𐜋𐄌𐝆\n",
+    "parsedInscription": "𐘉𐘟𐘤𐄁\n𐙅𐘤𐘝𐄁𐄇𐝫\n𐘧𐘆𐄁𐜓𐄇𐝆\n𐄁\n𐘉𐘟𐘤𐝫𐄁𐝫\n𐙅𐘤𐙈𐘾𐄉\n𐘾𐝫\n𐝫𐙁𐝫\n𐝫𐘾𐝫\n𐝫𐄊\n𐜋𐄉\n𐘾𐄇\n𐜋𐄇\n𐝫𐘾𐄇\n𐜋𐄈\n𐘾𐘂𐝆𐝫\n𐝫𐜋𐄌𐝆",
     "tracingImage": "images/HT140-Tracing.jpg",
-    "transcription": "𐘉𐘟𐘤𐄁𐙅𐘤𐘝𐄁𐄇𐝫𐘧𐘆𐄁\n𐜓𐄇𐝆𐄁𐘉𐘟𐘤𐝫𐄁𐝫𐙅𐘤𐙈𐘾𐄉\n𐘾𐝫𐙁𐝫𐘾𐝫𐄊\n𐜋𐄉𐘾𐄇𐜋𐄇\n𐝫𐘾𐄇𐜋𐄈𐘾𐘂𐝆\n𐝫𐜋𐄌𐝆\n\n\n\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐘉𐘟𐘤𐄁𐙅𐘤𐘝𐄁𐄇𐝫𐘧𐘆𐄁\n𐜓𐄇𐝆𐄁𐘉𐘟𐘤𐝫𐄁𐝫𐙅𐘤𐙈𐘾𐄉\n𐘾𐝫𐙁𐝫𐘾𐝫𐄊\n𐜋𐄉𐘾𐄇𐜋𐄇\n𐝫𐘾𐄇𐜋𐄈𐘾𐘂𐝆\n𐝫𐜋𐄌𐝆",
     "translatedWords": [
-        "U-SI",
+        "U𐘟-SI",
         "𐄁",
         "\n",
-        "SI-NI",
+        "𐙅-SI-NI",
         "𐄁",
         "1",
         "\n",
@@ -13341,10 +13466,10 @@ var inscriptions = [
         "\n",
         "𐄁",
         "\n",
-        "U-SI",
+        "U𐘟-SI",
         "𐄁",
         "\n",
-        "SI-KA",
+        "𐙅-SI𐙈-KA",
         "3",
         "\n",
         "KA",
@@ -13372,17 +13497,16 @@ var inscriptions = [
         "\n",
         "KA-PA",
         "¹⁄₂",
-        "\n",
         "\n",
         "𐜋",
         "6",
         "¹⁄₂"
     ],
     "transliteratedWords": [
-        "U-SI",
+        "U𐘟-SI",
         "𐄁",
         "\n",
-        "SI-NI",
+        "𐙅-SI-NI",
         "𐄁",
         "1",
         "\n",
@@ -13394,10 +13518,10 @@ var inscriptions = [
         "\n",
         "𐄁",
         "\n",
-        "U-SI",
+        "U𐘟-SI",
         "𐄁",
         "\n",
-        "SI-KA",
+        "𐙅-SI𐙈-KA",
         "3",
         "\n",
         "KA",
@@ -13425,7 +13549,6 @@ var inscriptions = [
         "\n",
         "KA-PA",
         "¹⁄₂",
-        "\n",
         "\n",
         "𐜋",
         "6",
@@ -13479,26 +13602,123 @@ var inscriptions = [
         "𐘾𐘂",
         "𐝆𐝫",
         "\n",
-        "\n",
         "𐜋",
         "𐄌",
         "𐝆"
     ]
 },
 {
-    "image": "images/HT146-Inscription.jpg",
-    "name": "HT146",
-    "parsedInscription": "𐝫\n\n𐝫𐘿𐝫𐝫𐄒\n𐘭𐙙𐄒\n𐙁𐄒\n𐘭𐘾𐘳𐄒",
-    "tracingImage": "images/HT146-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘿𐝫𐄒\n𐘭𐙙𐄒𐙁𐄒\n𐘭𐘾𐘳𐄒\n\n",
+    "image": "images/HT141-Inscription.jpg",
+    "name": "HT141",
+    "parsedInscription": "𐝫\n𐝫𐄇\n𐘇𐘭𐝫\n𐝫𐘘𐘆𐝫\n𐝫",
+    "tracingImage": "images/HT141-Tracing.jpg",
+    "transcription": "𐝫\n𐄇𐘇𐘭𐝫\n𐝫𐘘𐘆𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
+        "1",
+        "\n",
+        "A-RI",
+        "\n",
+        "RU-DI",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "1",
+        "\n",
+        "A-RI",
+        "\n",
+        "RU-DI",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐄇",
+        "\n",
+        "𐘇𐘭𐝫",
+        "\n",
+        "𐝫𐘘𐘆𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/HT142-Inscription.jpg",
+    "name": "HT142",
+    "parsedInscription": "𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/HT142-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "\n",
+        "\n"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "\n",
+        "\n"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "\n",
+        "\n"
+    ]
+},
+{
+    "image": "images/HT144-Inscription.jpg",
+    "name": "HT144",
+    "parsedInscription": "𐝫𐄁𐘵𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/HT144-Tracing.jpg",
+    "transcription": "𐝫𐄁𐘵𐝫\n𐝫\n𐝫",
+    "translatedWords": [
+        "𐄁",
+        "O",
+        "\n",
+        "𐝫",
+        "\n"
+    ],
+    "transliteratedWords": [
+        "𐄁",
+        "O",
+        "\n",
+        "𐝫",
+        "\n"
+    ],
+    "words": [
+        "𐄁",
+        "𐘵𐝫",
+        "\n",
+        "𐝫",
+        "\n"
+    ]
+},
+{
+    "image": "images/HT146-Inscription.jpg",
+    "name": "HT146",
+    "parsedInscription": "𐝫\n𐝫𐘿𐝫𐝫𐄒\n𐘭𐙙𐄒\n𐙁𐄒\n𐘭𐘾𐘳𐄒",
+    "tracingImage": "images/HT146-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐘿𐝫𐄒\n𐘭𐙙𐄒𐙁𐄒\n𐘭𐘾𐘳𐄒",
+    "translatedWords": [
+        "𐝫",
         "\n",
         "QE",
         "30",
         "\n",
-        "RI",
+        "RI𐙙",
         "30",
         "\n",
         "MA",
@@ -13510,11 +13730,10 @@ var inscriptions = [
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "\n",
         "QE",
         "30",
         "\n",
-        "RI",
+        "RI𐙙",
         "30",
         "\n",
         "MA",
@@ -13525,7 +13744,6 @@ var inscriptions = [
     ],
     "words": [
         "𐝫",
-        "\n",
         "\n",
         "𐝫𐘿𐝫",
         "𐝫𐄒",
@@ -13583,9 +13801,9 @@ var inscriptions = [
 {
     "image": "images/HT154-Inscription.jpg",
     "name": "HT154",
-    "parsedInscription": "𐛀𐄁\n𐘠𐝫\n𐝫𐄙\n𐝫𐄍𐝫\n𐝫𐄓𐝫\n𐘸𐝫\n𐝫\n",
+    "parsedInscription": "𐛀𐄁\n𐘠𐝫\n𐝫𐄙\n𐝫𐄍𐝫\n𐝫𐄓𐝫\n𐘸𐝫\n𐝫",
     "tracingImage": "images/HT154-Tracing.jpg",
-    "transcription": "𐛀𐄁𐘠𐝫𐄙𐝫\n𐝫𐄍𐝫𐄓𐝫\n𐘸𐝫\n𐝫\n\n\n\n",
+    "transcription": "𐛀𐄁𐘠𐝫𐄙𐝫\n𐝫𐄍𐝫𐄓𐝫\n𐘸𐝫\n𐝫",
     "translatedWords": [
         "𐛀",
         "𐄁",
@@ -13600,8 +13818,7 @@ var inscriptions = [
         "\n",
         "KI",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐛀",
@@ -13617,8 +13834,7 @@ var inscriptions = [
         "\n",
         "KI",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ],
     "words": [
         "𐛀",
@@ -13634,8 +13850,7 @@ var inscriptions = [
         "\n",
         "𐘸𐝫",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ]
 },
 {
@@ -13667,15 +13882,141 @@ var inscriptions = [
     ]
 },
 {
+    "image": "images/KH1-Inscription.jpg",
+    "name": "KH1",
+    "parsedInscription": "𐝫𐘧𐄁𐛵𐄖𐝫\n𐄉𐝆\n𐘝𐝫\n𐝫",
+    "tracingImage": "images/KH1-Tracing.jpg",
+    "transcription": "𐝫𐘧𐄁𐛵𐄖𐝫\n𐝫𐄉𐝆𐘝𐝫\n𐝫",
+    "translatedWords": [
+        "JE",
+        "𐄁",
+        "𐛵",
+        "70",
+        "\n",
+        "3",
+        "¹⁄₂",
+        "\n",
+        "figs",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "JE",
+        "𐄁",
+        "𐛵",
+        "70",
+        "\n",
+        "3",
+        "¹⁄₂",
+        "\n",
+        "figs",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫𐘧",
+        "𐄁",
+        "𐛵",
+        "𐄖𐝫",
+        "\n",
+        "𐄉",
+        "𐝆",
+        "\n",
+        "𐘝𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH2-Inscription.jpg",
+    "name": "KH2",
+    "parsedInscription": "𐝫\n𐝫𐄑\n𐘹𐝫\n𐙗𐝫𐝃\n𐙚𐜚𐝫\n𐝫",
+    "tracingImage": "images/KH2-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐄑𐘹𐝫\n𐝫𐙗𐝫𐝃𐙚𐙗𐝃𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "20",
+        "\n",
+        "TU",
+        "\n",
+        "cyperus",
+        "¹⁄₄",
+        "\n",
+        "𐙚𐜚",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "20",
+        "\n",
+        "TU",
+        "\n",
+        "cyperus",
+        "¹⁄₄",
+        "\n",
+        "𐙚𐜚",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐄑",
+        "\n",
+        "𐘹𐝫",
+        "\n",
+        "𐙗𐝫",
+        "𐝃",
+        "\n",
+        "𐙚𐜚𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH3-Inscription.jpg",
+    "name": "KH3",
+    "parsedInscription": "𐝫\n𐝫𐘯𐄇\n—",
+    "tracingImage": "images/KH3-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐘯𐄇\n—",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "NU",
+        "1",
+        "\n",
+        "—"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "NU",
+        "1",
+        "\n",
+        "—"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐘯",
+        "𐄇",
+        "\n",
+        "—"
+    ]
+},
+{
     "image": "images/KH4-Inscription.jpg",
     "name": "KH4",
     "parsedInscription": "𐘇𐘬𐘙𐝫\n𐝫𐙚𐄊\n𐙗𐝁𐝫\n𐝫\n𐝫",
     "tracingImage": "images/KH4-Tracing.jpg",
-    "transcription": "𐘇𐘬𐘙𐝫\n𐝫𐙚𐄊𐙗𐝁𐝫\n𐝫\n𐝫\n",
+    "transcription": "𐘇𐘬𐘙𐝫\n𐝫𐙚𐄊𐙗𐝁𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "A-DU-RE",
         "\n",
-        "𐝫𐙚",
+        "𐙚",
         "4",
         "\n",
         "cyperus",
@@ -13688,7 +14029,7 @@ var inscriptions = [
     "transliteratedWords": [
         "A-DU-RE",
         "\n",
-        "𐝫𐙚",
+        "𐙚",
         "4",
         "\n",
         "cyperus",
@@ -13717,7 +14058,7 @@ var inscriptions = [
     "name": "KH5",
     "parsedInscription": "𐘇𐘸𐘤𐘾𐄁𐘇𐘴𐘉𐘀𐄁\n𐘣𐘞𐘞𐘗𐜚𐄈\n𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁\n𐙂𐘂𐙀𐙗𐝫𐄉𐝫𐝀\n𐘝𐄈𐝆𐝁",
     "tracingImage": "images/KH5-Tracing.jpg",
-    "transcription": "𐘇𐘸𐘤𐘾𐄁𐘇𐘴𐘉\n𐘀𐄁𐘣𐘞𐘞𐘗𐜚𐄈𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁𐙂𐘂𐙀\n𐙗𐝫𐄉𐝫𐝀𐘝𐄈𐝆𐝁\n\n",
+    "transcription": "𐘇𐘸𐘤𐘾𐄁𐘇𐘴𐘉\n𐘀𐄁𐘣𐘞𐘞𐘗𐜚𐄈𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁𐙂𐘂𐙀\n𐙗𐝫𐄉𐝫𐝀𐘝𐄈𐝆𐝁",
     "translatedWords": [
         "A-KI-SI-KA",
         "𐄁",
@@ -13733,10 +14074,10 @@ var inscriptions = [
         "\n",
         "WI-NA-DU",
         "𐄁",
-        "NA",
+        "𐙕-NA",
         "𐄁",
         "\n",
-        "KU-PA",
+        "KU-PA𐙀",
         "cyperus",
         "3",
         "≈ ¹⁄₆",
@@ -13760,10 +14101,10 @@ var inscriptions = [
         "\n",
         "WI-NA-DU",
         "𐄁",
-        "NA",
+        "𐙕-NA",
         "𐄁",
         "\n",
-        "KU-PA",
+        "KU-PA𐙀",
         "cyperus",
         "3",
         "≈ ¹⁄₆",
@@ -13805,9 +14146,9 @@ var inscriptions = [
     "name": "KH6",
     "parsedInscription": "𐝫𐜙𐝆\n𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆\n𐚇𐝫\n𐝫𐙗𐝫𐝆\n𐘭𐘳𐘧𐜙𐝫\n𐝫𐘑𐄇\n𐜙𐝆\n𐘕𐄇\n𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇\n𐜙𐝆\n𐘢𐘞𐝫\n𐝫𐜙𐝆\n𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎\n𐙗𐄈𐝆𐝁",
     "tracingImage": "images/KH6-Tracing.jpg",
-    "transcription": "𐝫𐜙𐝆𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆𐚇\n𐝫𐙗𐝫𐝆𐘭𐘳𐘧𐜙𐝫\n𐝫𐘔𐄇𐜙𐝆𐘕𐄇𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇𐜙𐝆𐘢𐘞𐝫\n𐝫𐜙𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎𐙗𐄈𐝆𐝁\n\n\n\n\n\n\n\n\n\n",
+    "transcription": "𐝫𐜙𐝆𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆𐚇\n𐝫𐙗𐝫𐝆𐘭𐘳𐘧𐜙𐝫\n𐝫𐘔𐄇𐜙𐝆𐘕𐄇𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇𐜙𐝆𐘢𐘞𐝫\n𐝫𐜙𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎𐙗𐄈𐝆𐝁",
     "translatedWords": [
-        "𐝫𐜙",
+        "𐜙",
         "¹⁄₂",
         "\n",
         "DI-SI",
@@ -13818,13 +14159,13 @@ var inscriptions = [
         "𐜙",
         "¹⁄₂",
         "\n",
-        "𐚇𐝫",
+        "𐚇",
         "\n",
         "cyperus",
         "¹⁄₂",
         "\n",
         "RI-TA-JE",
-        "𐜙𐝫",
+        "𐜙",
         "\n",
         "ram",
         "1",
@@ -13847,24 +14188,22 @@ var inscriptions = [
         "\n",
         "PI-SA",
         "\n",
-        "𐝫𐜙",
-        "\n",
-        "𐄁",
-        "\n",
-        "\n",
-        "PI-SA",
-        "𐝫𐜙",
+        "𐜙",
         "¹⁄₂",
+        "\n",
         "AU-RE-TE",
+        "𐄁",
         "𐙚",
         "1",
+        "\n",
         "8",
+        "\n",
         "cyperus",
         "2",
         "𐝆𐝁"
     ],
     "transliteratedWords": [
-        "𐝫𐜙",
+        "𐜙",
         "¹⁄₂",
         "\n",
         "DI-SI",
@@ -13875,13 +14214,13 @@ var inscriptions = [
         "𐜙",
         "¹⁄₂",
         "\n",
-        "𐚇𐝫",
+        "𐚇",
         "\n",
         "cyperus",
         "¹⁄₂",
         "\n",
         "RI-TA-JE",
-        "𐜙𐝫",
+        "𐜙",
         "\n",
         "ram",
         "1",
@@ -13904,18 +14243,16 @@ var inscriptions = [
         "\n",
         "PI-SA",
         "\n",
-        "𐝫𐜙",
-        "\n",
-        "𐄁",
-        "\n",
-        "\n",
-        "PI-SA",
-        "𐝫𐜙",
+        "𐜙",
         "¹⁄₂",
+        "\n",
         "AU-RE-TE",
+        "𐄁",
         "𐙚",
         "1",
+        "\n",
         "8",
+        "\n",
         "cyperus",
         "2",
         "𐝆𐝁"
@@ -13962,17 +14299,15 @@ var inscriptions = [
         "𐘢𐘞𐝫",
         "\n",
         "𐝫𐜙",
-        "\n",
-        "𐄁",
-        "\n",
-        "\n",
-        "𐘢𐘞𐝫",
-        "𐝫𐜙",
         "𐝆",
+        "\n",
         "𐙄𐘙𐘃",
+        "𐄁",
         "𐙚",
         "𐄇",
+        "\n",
         "𐝫𐄎",
+        "\n",
         "𐙗",
         "𐄈",
         "𐝆𐝁"
@@ -13983,7 +14318,7 @@ var inscriptions = [
     "name": "KH7a",
     "parsedInscription": "𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊\n𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇\n𐘡𐘅𐘤𐄁𐛪𐄐\n𐜙𐝆\n𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐛪𐄊\n𐜙𐝁\n𐘈𐙙𐄁\n𐙂𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎\n𐜙𐄇𐝆𐝃𐝉𐝫\n𐝫𐝁𐝌\n𐝫",
     "tracingImage": "images/KH7a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇𐘡𐘅𐘤𐄁\n𐛪𐄐𐜙𐝆𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐙇𐄊𐜙𐝁𐘈𐙙𐄁𐙂\n𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎𐜙𐄇𐝆𐝃𐝉𐝫\n𐝫𐝁𐝌\n\n\n\n\n\n",
+    "transcription": "𐝫\n𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇𐘡𐘅𐘤𐄁\n𐛪𐄐𐜙𐝆𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐙇𐄊𐜙𐝁𐘈𐙙𐄁𐙂\n𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎𐜙𐄇𐝆𐝃𐝉𐝫\n𐝫𐝁𐝌",
     "translatedWords": [
         "NE",
         "𐄁",
@@ -14018,7 +14353,7 @@ var inscriptions = [
         "𐜙",
         "¹⁄₃",
         "\n",
-        "SE",
+        "SE𐙙",
         "𐄁",
         "\n",
         "KU",
@@ -14069,7 +14404,7 @@ var inscriptions = [
         "𐜙",
         "¹⁄₃",
         "\n",
-        "SE",
+        "SE𐙙",
         "𐄁",
         "\n",
         "KU",
@@ -14141,12 +14476,11 @@ var inscriptions = [
 {
     "image": "images/KH7b-Inscription.jpg",
     "name": "KH7b",
-    "parsedInscription": "𐝫\n\n—\n𐘉𐘳𐘚𐘈𐜙𐝆𐝫\n𐝫𐘂𐘅𐘹𐜙𐝆\n𐜝𐄇\n𐘤𐄐𐄊\n𐜛𐄈\n",
+    "parsedInscription": "𐝫\n—\n𐘉𐘳𐘚𐘈𐜙𐝆𐝫\n𐝫𐘂𐘅𐘹𐜙𐝆\n𐜝𐄇\n𐘤𐄐𐄊\n𐜛𐄈",
     "tracingImage": "images/KH7b-Tracing.jpg",
-    "transcription": "𐝫\n—\n𐘉𐘳𐘚𐘈𐜙𐝆𐝫𐝫𐘂𐘅\n𐘹𐜙𐝆𐜝𐄇𐘤𐄐𐄊𐜛𐄈\n\n\n\n\n",
+    "transcription": "𐝫\n—\n𐘉𐘳𐘚𐘈𐜙𐝆𐝫𐝫𐘂𐘅\n𐘹𐜙𐝆𐜝𐄇𐘤𐄐𐄊𐜛𐄈",
     "translatedWords": [
         "𐝫",
-        "\n",
         "\n",
         "—",
         "\n",
@@ -14165,13 +14499,11 @@ var inscriptions = [
         "14",
         "\n",
         "𐜛",
-        "2",
-        "\n"
+        "2"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "\n",
         "—",
         "\n",
         "U-TA-I-SE",
@@ -14189,12 +14521,10 @@ var inscriptions = [
         "14",
         "\n",
         "𐜛",
-        "2",
-        "\n"
+        "2"
     ],
     "words": [
         "𐝫",
-        "\n",
         "\n",
         "—",
         "\n",
@@ -14213,8 +14543,7 @@ var inscriptions = [
         "𐄐𐄊",
         "\n",
         "𐜛",
-        "𐄈",
-        "\n"
+        "𐄈"
     ]
 },
 {
@@ -14222,7 +14551,7 @@ var inscriptions = [
     "name": "KH8",
     "parsedInscription": "𐝫\n𐝫𐘙𐝫\n𐝫𐘳𐄈\n𐜙𐝆\n𐘝𐝆\n𐝫𐙉𐝆\n𐙘𐝃\n𐙗𐝃\n𐙇𐝫\n𐝫𐘝𐝃\n𐙢𐄇\n𐚻𐄇",
     "tracingImage": "images/KH8-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘙𐝫\n𐝫𐘳𐄈𐜙𐝆𐘝𐝆\n𐝫𐙉𐝆𐙘𐝃𐙗𐝃𐙇𐝫\n𐝫𐘝𐝃𐙢𐄇𐚻𐄇𐝫\n\n\n\n\n\n\n",
+    "transcription": "𐝫\n𐝫𐘙𐝫\n𐝫𐘳𐄈𐜙𐝆𐘝𐝆\n𐝫𐙉𐝆𐙘𐝃𐙗𐝃𐙇𐝫\n𐝫𐘝𐝃𐙢𐄇𐚻𐄇𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -14331,11 +14660,11 @@ var inscriptions = [
     "name": "KH9",
     "parsedInscription": "𐘇𐘤𐘲𐘊𐘇𐄁𐛨𐝫\n𐝫𐝇\n𐘝𐝃𐝁\n𐘻𐝫\n𐝫𐘚𐘤𐄁𐜙𐝆𐝫\n𐝫𐄈\n𐙗𐝃\n𐙍𐝫\n𐝫𐙗𐝃𐝉𐝫\n𐝫𐝎\n𐛌𐙘𐄇𐝫",
     "tracingImage": "images/KH9-Tracing.jpg",
-    "transcription": "𐘇𐘤𐘲𐘊𐘇𐄁𐛨𐝫\n𐝫𐝇𐘝𐝃𐝁𐘻𐝫\n𐝫𐘚𐘤𐄁𐜙𐝆𐝫\n𐝫𐄈𐙗𐝃𐙍𐝫\n𐝫𐙗𐝃𐝉𐝫\n𐝫𐝎𐛌𐙘𐄇𐝫\n\n\n\n\n",
+    "transcription": "𐘇𐘤𐘲𐘊𐘇𐄁𐛨𐝫\n𐝫𐝇𐘝𐝃𐝁𐘻𐝫\n𐝫𐘚𐘤𐄁𐜙𐝆𐝫\n𐝫𐄈𐙗𐝃𐙍𐝫\n𐝫𐙗𐝃𐝉𐝫\n𐝫𐝎𐛌𐙘𐄇𐝫",
     "translatedWords": [
         "A-SI-SU-PO-A",
         "𐄁",
-        "𐛨𐝫",
+        "𐛨",
         "\n",
         "¹⁄₁₆",
         "\n",
@@ -14367,7 +14696,7 @@ var inscriptions = [
     "transliteratedWords": [
         "A-SI-SU-PO-A",
         "𐄁",
-        "𐛨𐝫",
+        "𐛨",
         "\n",
         "¹⁄₁₆",
         "\n",
@@ -14434,7 +14763,7 @@ var inscriptions = [
     "name": "KH10",
     "parsedInscription": "𐝫\n𐝫𐄈\n𐝫𐝆\n𐙉𐄐\n𐘚𐘂𐘞𐘱𐄁𐘌𐙈\n𐘇𐘸𐘢𐘡𐘃𐙉𐄘",
     "tracingImage": "images/KH10-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐄈\n𐝫𐝆𐙉𐄐\n𐘚𐘂𐘞𐘱𐄁𐘌𐙈𐘇𐘸𐘢\n𐘡𐘃𐙉𐄘\n",
+    "transcription": "𐝫\n𐝫𐄈\n𐝫𐝆𐙉𐄐\n𐘚𐘂𐘞𐘱𐄁𐘌𐙈𐘇𐘸𐘢\n𐘡𐘃𐙉𐄘",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -14448,7 +14777,7 @@ var inscriptions = [
         "grain",
         "10",
         "I-PA-SA-JA",
-        "QA",
+        "QA𐙈",
         "A-KI-PI-E-TE",
         "grain",
         "90"
@@ -14466,7 +14795,7 @@ var inscriptions = [
         "grain",
         "10",
         "I-PA-SA-JA",
-        "QA",
+        "QA𐙈",
         "A-KI-PI-E-TE",
         "grain",
         "90"
@@ -14495,7 +14824,7 @@ var inscriptions = [
     "name": "KH11",
     "parsedInscription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉\n𐜚𐝇𐝉\n𐙍𐝀\n𐙚𐄊\n𐙗𐝁\n𐚈𐙗𐝇𐝉\n𐘇𐘄𐚉𐘄𐘚𐜚𐄉\n𐘝𐄇\n𐙍𐄉\n𐘇𐘳𐚊𐙕𐄇\n𐙚𐄇\n𐘤𐙗𐝇𐝉",
     "tracingImage": "images/KH11-Tracing.jpg",
-    "transcription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉𐜚𐝇𐝉𐙍𐝀\n𐙚𐄊𐙗𐝁𐚈𐙗𐝇\n𐝉𐘇𐘄𐚉𐘄𐘚𐜚\n𐄉𐘝𐄇𐙍𐄉𐘇𐘳𐚊\n𐙕𐄇𐙚𐄇𐘤𐙗𐝇𐝉\n\n\n\n\n\n\n",
+    "transcription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉𐜚𐝇𐝉𐙍𐝀\n𐙚𐄊𐙗𐝁𐚈𐙗𐝇\n𐝉𐘇𐘄𐚉𐘄𐘚𐜚\n𐄉𐘝𐄇𐙍𐄉𐘇𐘳𐚊\n𐙕𐄇𐙚𐄇𐘤𐙗𐝇𐝉",
     "translatedWords": [
         "assessment",
         "𐄁",
@@ -14521,7 +14850,7 @@ var inscriptions = [
         "𐚈𐙗",
         "𐝇𐝉",
         "\n",
-        "A-TO-TO-I",
+        "A-TO𐚉-TO-I",
         "𐜚",
         "3",
         "\n",
@@ -14531,14 +14860,14 @@ var inscriptions = [
         "wine",
         "3",
         "\n",
-        "A-TA",
+        "A-TA𐚊",
         "𐙕",
         "1",
         "\n",
         "𐙚",
         "1",
         "\n",
-        "SI",
+        "SI𐙗",
         "𐝇𐝉"
     ],
     "transliteratedWords": [
@@ -14566,7 +14895,7 @@ var inscriptions = [
         "𐚈𐙗",
         "𐝇𐝉",
         "\n",
-        "A-TO-TO-I",
+        "A-TO𐚉-TO-I",
         "𐜚",
         "3",
         "\n",
@@ -14576,14 +14905,14 @@ var inscriptions = [
         "wine",
         "3",
         "\n",
-        "A-TA",
+        "A-TA𐚊",
         "𐙕",
         "1",
         "\n",
         "𐙚",
         "1",
         "\n",
-        "SI",
+        "SI𐙗",
         "𐝇𐝉"
     ],
     "words": [
@@ -14637,7 +14966,7 @@ var inscriptions = [
     "name": "KH12",
     "parsedInscription": "𐝫𐙗𐝫𐄈\n𐙜𐝆\n𐛚𐝆\n𐝫𐝁\n𐙻𐝫𐝫𐝁\n𐛀\n𐝫𐝇\n𐜫𐝂\n𐜩𐝍𐝫\n𐝫𐜩𐝍𐝫\n𐝫",
     "tracingImage": "images/KH12-Tracing.jpg",
-    "transcription": "𐝫𐙗𐝫𐄈𐙜𐝆𐛚𐝆\n𐝫𐝁𐙻𐝫𐝁𐛀\n𐝫𐝇𐜫𐝂𐜩𐝍\n𐝫𐜩𐝍𐝫\n𐝫\n\n\n\n\n\n",
+    "transcription": "𐝫𐙗𐝫𐄈𐙜𐝆𐛚𐝆\n𐝫𐝁𐙻𐝫𐝁𐛀\n𐝫𐝇𐜫𐝂𐜩𐝍\n𐝫𐜩𐝍𐝫\n𐝫",
     "translatedWords": [
         "cyperus",
         "2",
@@ -14650,7 +14979,7 @@ var inscriptions = [
         "\n",
         "¹⁄₃",
         "\n",
-        "𐙻𐝫",
+        "𐙻",
         "¹⁄₃",
         "\n",
         "𐛀",
@@ -14663,7 +14992,7 @@ var inscriptions = [
         "𐜩",
         "𐝍𐝫",
         "\n",
-        "𐝫𐜩",
+        "𐜩",
         "𐝍𐝫",
         "\n",
         "𐝫"
@@ -14680,7 +15009,7 @@ var inscriptions = [
         "\n",
         "¹⁄₃",
         "\n",
-        "𐙻𐝫",
+        "𐙻",
         "¹⁄₃",
         "\n",
         "𐛀",
@@ -14693,7 +15022,7 @@ var inscriptions = [
         "𐜩",
         "𐝍𐝫",
         "\n",
-        "𐝫𐜩",
+        "𐜩",
         "𐝍𐝫",
         "\n",
         "𐝫"
@@ -14734,7 +15063,7 @@ var inscriptions = [
     "name": "KH13",
     "parsedInscription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉\n𐙘𐝫𐙗𐝁𐝫\n𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫",
     "tracingImage": "images/KH13-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉𐙘𐝁𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫\n\n",
+    "transcription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉𐙘𐝁𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -14745,7 +15074,7 @@ var inscriptions = [
         "\n",
         "𐝫𐝃𐝉",
         "\n",
-        "𐙘𐝫𐙗",
+        "𐙘𐙗",
         "¹⁄₃",
         "\n",
         "𐝫",
@@ -14766,7 +15095,7 @@ var inscriptions = [
         "\n",
         "𐝫𐝃𐝉",
         "\n",
-        "𐙘𐝫𐙗",
+        "𐙘𐙗",
         "¹⁄₃",
         "\n",
         "𐝫",
@@ -14804,7 +15133,7 @@ var inscriptions = [
     "name": "KH14",
     "parsedInscription": "𐝫𐘴𐄁\n𐘇𐙁𐘱𐄁𐙗𐄌𐝫\n𐝫𐙗𐝃\n𐙼𐄈\n𐙗𐝇𐝫\n𐝫𐘝𐝃\n𐛨𐄈𐝫\n𐙗𐝫\n𐝫",
     "tracingImage": "images/KH14-Tracing.jpg",
-    "transcription": "𐝫𐘴𐄁𐘇𐙁𐘱𐄁𐙗𐄌𐝫\n𐝫𐙗𐝃𐙼𐄈𐙗𐝇𐝫\n𐝫𐘝𐝃𐛨𐄈𐝫𐙗𐝫\n𐝫\n\n\n\n\n",
+    "transcription": "𐝫𐘴𐄁𐘇𐙁𐘱𐄁𐙗𐄌𐝫\n𐝫𐙗𐝃𐙼𐄈𐙗𐝇𐝫\n𐝫𐘝𐝃𐛨𐄈𐝫𐙗𐝫\n𐝫",
     "translatedWords": [
         "RA",
         "𐄁",
@@ -14895,7 +15224,7 @@ var inscriptions = [
     "name": "KH15",
     "parsedInscription": "𐝫𐙗𐝫𐝆\n𐘝𐝆\n𐝫𐘝𐝃",
     "tracingImage": "images/KH15-Tracing.jpg",
-    "transcription": "𐝫𐙗𐝫𐝆𐘝𐝆\n𐝫𐘝𐝃\n",
+    "transcription": "𐝫𐙗𐝫𐝆𐘝𐝆\n𐝫𐘝𐝃",
     "translatedWords": [
         "cyperus",
         "¹⁄₂",
@@ -14932,7 +15261,7 @@ var inscriptions = [
     "name": "KH16",
     "parsedInscription": "𐝫𐄑𐄈\n𐙗𐝇𐝉𐝫\n𐝫𐘉𐘳𐘚𐘤𐜙𐝫\n𐝫𐝆\n𐘳𐝫\n𐝫",
     "tracingImage": "images/KH16-Tracing.jpg",
-    "transcription": "𐝫𐄑𐄈𐙗𐝇𐝉𐝫\n𐝫𐘉𐘳𐘚𐘤𐜙𐝫\n𐝫𐝆𐘳𐝫\n𐝫\n\n",
+    "transcription": "𐝫𐄑𐄈𐙗𐝇𐝉𐝫\n𐝫𐘉𐘳𐘚𐘤𐜙𐝫\n𐝫𐝆𐘳𐝫\n𐝫",
     "translatedWords": [
         "22",
         "\n",
@@ -14940,7 +15269,7 @@ var inscriptions = [
         "𐝇𐝉𐝫",
         "\n",
         "U-TA-I-SI",
-        "𐜙𐝫",
+        "𐜙",
         "\n",
         "¹⁄₂",
         "\n",
@@ -14955,7 +15284,7 @@ var inscriptions = [
         "𐝇𐝉𐝫",
         "\n",
         "U-TA-I-SI",
-        "𐜙𐝫",
+        "𐜙",
         "\n",
         "¹⁄₂",
         "\n",
@@ -14982,14 +15311,13 @@ var inscriptions = [
 {
     "image": "images/KH17-Inscription.jpg",
     "name": "KH17",
-    "parsedInscription": "𐝫\n𐝫𐝫\n\n𐝫𐄊𐝆𐝁\n𐘝𐝫\n𐝫𐘝𐄇\n𐘇𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐝫\n𐝫𐄊𐝆𐝁\n𐘝𐝫\n𐝫𐘝𐄇\n𐘇𐝫\n𐝫",
     "tracingImage": "images/KH17-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐝫𐄊𐝆𐝁𐘝\n𐝫𐘝𐄇𐘇𐝫\n𐝫\n\n\n",
+    "transcription": "𐝫\n𐝫\n𐝫𐄊𐝆𐝁𐘝\n𐝫𐘝𐄇𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
         "𐝫",
-        "\n",
         "\n",
         "4",
         "𐝆𐝁",
@@ -15008,7 +15336,6 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "\n",
         "4",
         "𐝆𐝁",
         "\n",
@@ -15025,7 +15352,6 @@ var inscriptions = [
         "𐝫",
         "\n",
         "𐝫",
-        "\n",
         "\n",
         "𐝫𐄊",
         "𐝆𐝁",
@@ -15045,11 +15371,11 @@ var inscriptions = [
     "name": "KH18",
     "parsedInscription": "𐝫\n𐝫𐜨\n𐝫𐄋\n𐘚𐙂𐘢𐝫\n𐝫𐙏𐄇\n𐙂𐄑𐄈\n𐘤𐝫\n𐝫𐚵𐙏𐄇\n𐚶𐝫",
     "tracingImage": "images/KH18-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐜨\n𐝫𐄋𐘚𐙂𐘢𐝫\n𐝫𐙏𐄇𐙂𐄑𐄈𐘤𐝫\n𐝫𐚵𐙏𐄇𐚶𐝫\n\n\n\n",
+    "transcription": "𐝫\n𐝫𐜨\n𐝫𐄋𐘚𐙂𐘢𐝫\n𐝫𐙏𐄇𐙂𐄑𐄈𐘤𐝫\n𐝫𐚵𐙏𐄇𐚶𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜨",
+        "𐜨",
         "\n",
         "5",
         "\n",
@@ -15063,16 +15389,16 @@ var inscriptions = [
         "\n",
         "SI",
         "\n",
-        "𐝫𐚵",
+        "𐚵",
         "wine",
         "1",
         "\n",
-        "𐚶𐝫"
+        "𐚶"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜨",
+        "𐜨",
         "\n",
         "5",
         "\n",
@@ -15086,11 +15412,11 @@ var inscriptions = [
         "\n",
         "SI",
         "\n",
-        "𐝫𐚵",
+        "𐚵",
         "wine",
         "1",
         "\n",
-        "𐚶𐝫"
+        "𐚶"
     ],
     "words": [
         "𐝫",
@@ -15121,9 +15447,9 @@ var inscriptions = [
     "name": "KH19",
     "parsedInscription": "𐝫𐙚𐛨𐄐𐄉𐝫\n𐝫𐄈\n𐜐𐝁𐝫",
     "tracingImage": "images/KH19-Tracing.jpg",
-    "transcription": "𐝫𐙚𐙇𐙛𐄐𐄉𐝫\n𐝫𐄈𐜐𐝁𐝫\n",
+    "transcription": "𐝫𐙚𐙇𐙛𐄐𐄉𐝫\n𐝫𐄈𐜐𐝁𐝫",
     "translatedWords": [
-        "𐝫𐙚𐛨",
+        "𐙚𐛨",
         "13",
         "\n",
         "2",
@@ -15132,7 +15458,7 @@ var inscriptions = [
         "¹⁄₃"
     ],
     "transliteratedWords": [
-        "𐝫𐙚𐛨",
+        "𐙚𐛨",
         "13",
         "\n",
         "2",
@@ -15153,9 +15479,9 @@ var inscriptions = [
 {
     "image": "images/KH20-Inscription.jpg",
     "name": "KH20",
-    "parsedInscription": "𐝫\n𐝫\n𐘇𐘤𐘸𐘴𐄁𐜚𐝫\n𐝫𐝁\n\n𐝫𐘬𐘙𐘍𐄁𐜚𐝆\n𐘝𐝃\n",
+    "parsedInscription": "𐝫\n𐝫\n𐘇𐘤𐘸𐘴𐄁𐜚𐝫\n𐝫𐝁\n𐝫𐘬𐘙𐘍𐄁𐜚𐝆\n𐘝𐝃",
     "tracingImage": "images/KH20-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐘇𐘤𐘸𐘴𐄁𐜚𐝫𐝁\n𐝫𐘬𐘙𐘍𐄁𐜚𐝆𐘝𐝃\n\n\n\n",
+    "transcription": "𐝫\n𐝫\n𐘇𐘤𐘸𐘴𐄁𐜚𐝫𐝁\n𐝫𐘬𐘙𐘍𐄁𐜚𐝆𐘝𐝃",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15163,10 +15489,9 @@ var inscriptions = [
         "\n",
         "A-SI-KI-RA",
         "𐄁",
-        "𐜚𐝫",
+        "𐜚",
         "\n",
         "¹⁄₃",
-        "\n",
         "\n",
         "DU-RE-ZA",
         "𐄁",
@@ -15174,8 +15499,7 @@ var inscriptions = [
         "¹⁄₂",
         "\n",
         "figs",
-        "¹⁄₄",
-        "\n"
+        "¹⁄₄"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -15184,10 +15508,9 @@ var inscriptions = [
         "\n",
         "A-SI-KI-RA",
         "𐄁",
-        "𐜚𐝫",
+        "𐜚",
         "\n",
         "¹⁄₃",
-        "\n",
         "\n",
         "DU-RE-ZA",
         "𐄁",
@@ -15195,8 +15518,7 @@ var inscriptions = [
         "¹⁄₂",
         "\n",
         "figs",
-        "¹⁄₄",
-        "\n"
+        "¹⁄₄"
     ],
     "words": [
         "𐝫",
@@ -15209,15 +15531,13 @@ var inscriptions = [
         "\n",
         "𐝫𐝁",
         "\n",
-        "\n",
         "𐝫𐘬𐘙𐘍",
         "𐄁",
         "𐜚",
         "𐝆",
         "\n",
         "𐘝",
-        "𐝃",
-        "\n"
+        "𐝃"
     ]
 },
 {
@@ -15225,7 +15545,7 @@ var inscriptions = [
     "name": "KH21",
     "parsedInscription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂\n𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
     "tracingImage": "images/KH21-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫\n",
+    "transcription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15237,7 +15557,7 @@ var inscriptions = [
         "figs",
         "2",
         "\n",
-        "QE-DU"
+        "𐙚-QE-DU"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -15250,7 +15570,7 @@ var inscriptions = [
         "figs",
         "2",
         "\n",
-        "QE-DU"
+        "𐙚-QE-DU"
     ],
     "words": [
         "𐝫",
@@ -15271,14 +15591,14 @@ var inscriptions = [
     "name": "KH22",
     "parsedInscription": "𐝫𐘍𐄁𐘲𐄍\n𐜚𐝫\n𐝫𐘤𐄊\n𐙗𐝫\n𐝫",
     "tracingImage": "images/KH22-Tracing.jpg",
-    "transcription": "𐝫𐘍𐄁𐘲𐄍𐜚𐝫\n𐝫𐘤𐄊𐙗𐝫\n𐝫\n\n",
+    "transcription": "𐝫𐘍𐄁𐘲𐄍𐜚𐝫\n𐝫𐘤𐄊𐙗𐝫\n𐝫",
     "translatedWords": [
         "ZA",
         "𐄁",
         "SU",
         "7",
         "\n",
-        "𐜚𐝫",
+        "𐜚",
         "\n",
         "SI",
         "4",
@@ -15293,7 +15613,7 @@ var inscriptions = [
         "SU",
         "7",
         "\n",
-        "𐜚𐝫",
+        "𐜚",
         "\n",
         "SI",
         "4",
@@ -15416,7 +15736,7 @@ var inscriptions = [
     "name": "KH26",
     "parsedInscription": "𐝫\n𐝫𐙇𐄕𐝫\n𐝫𐘝𐄈𐝃𐝋\n𐝫\n𐝫\n𐝫",
     "tracingImage": "images/KH26-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐙇𐄕𐝫\n𐘝𐄈𐝃𐝋𐝫\n𐝫\n𐝫\n",
+    "transcription": "𐝫\n𐝫𐙇𐄕𐝫\n𐘝𐄈𐝃𐝋𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15477,7 +15797,7 @@ var inscriptions = [
         "\n",
         "figs",
         "\n",
-        "𐝫𐛭",
+        "𐛭",
         "4"
     ],
     "transliteratedWords": [
@@ -15485,7 +15805,7 @@ var inscriptions = [
         "\n",
         "figs",
         "\n",
-        "𐝫𐛭",
+        "𐛭",
         "4"
     ],
     "words": [
@@ -15510,7 +15830,7 @@ var inscriptions = [
         "\n",
         "SE",
         "𐄁",
-        "𐛵𐝫"
+        "𐛵"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -15519,7 +15839,7 @@ var inscriptions = [
         "\n",
         "SE",
         "𐄁",
-        "𐛵𐝫"
+        "𐛵"
     ],
     "words": [
         "𐝫",
@@ -15536,7 +15856,7 @@ var inscriptions = [
     "name": "KH29",
     "parsedInscription": "𐝫𐘴𐄁𐘷𐝫\n𐝫𐄇\n𐙂𐘂𐝫\n𐝫𐄈\n𐙗𐝆𐝫\n𐝫\n𐝫",
     "tracingImage": "images/KH29-Tracing.jpg",
-    "transcription": "𐝫𐘴𐄁𐘷𐝫\n𐝫𐄇𐙂𐘂𐝫\n𐝫𐄈𐙗𐝆𐝫\n𐝫\n𐝫\n\n",
+    "transcription": "𐝫𐘴𐄁𐘷𐝫\n𐝫𐄇𐙂𐘂𐝫\n𐝫𐄈𐙗𐝆𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "RA",
         "𐄁",
@@ -15595,17 +15915,16 @@ var inscriptions = [
 {
     "image": "images/KH30-Inscription.jpg",
     "name": "KH30",
-    "parsedInscription": "𐝫\n𐝫𐝉𐝫\n𐝫𐘝𐄏\n",
+    "parsedInscription": "𐝫\n𐝫𐝉𐝫\n𐝫𐘝𐄏",
     "tracingImage": "images/KH30-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐝉𐝫\n𐝫𐘝𐄏\n",
+    "transcription": "𐝫\n𐝫𐝉𐝫\n𐝫𐘝𐄏",
     "translatedWords": [
         "𐝫",
         "\n",
         "𐝫𐝉𐝫",
         "\n",
         "figs",
-        "9",
-        "\n"
+        "9"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -15613,8 +15932,7 @@ var inscriptions = [
         "𐝫𐝉𐝫",
         "\n",
         "figs",
-        "9",
-        "\n"
+        "9"
     ],
     "words": [
         "𐝫",
@@ -15622,27 +15940,25 @@ var inscriptions = [
         "𐝫𐝉𐝫",
         "\n",
         "𐝫𐘝",
-        "𐄏",
-        "\n"
+        "𐄏"
     ]
 },
 {
     "image": "images/KH31-Inscription.jpg",
     "name": "KH31",
-    "parsedInscription": "𐝫\n𐝫𐜨\n\n—\n𐝫𐝆\n𐜪𐝫\n𐝫𐄇\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐜨\n—\n𐝫𐝆\n𐜪𐝫\n𐝫𐄇\n𐝫",
     "tracingImage": "images/KH31-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐜨\n—\n𐝫𐝆𐜪𐝫\n𐝫𐄇\n𐝫\n\n",
+    "transcription": "𐝫\n𐝫𐜨\n—\n𐝫𐝆𐜪𐝫\n𐝫𐄇\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜨",
-        "\n",
+        "𐜨",
         "\n",
         "—",
         "\n",
         "¹⁄₂",
         "\n",
-        "𐜪𐝫",
+        "𐜪",
         "\n",
         "1",
         "\n",
@@ -15651,14 +15967,13 @@ var inscriptions = [
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜨",
-        "\n",
+        "𐜨",
         "\n",
         "—",
         "\n",
         "¹⁄₂",
         "\n",
-        "𐜪𐝫",
+        "𐜪",
         "\n",
         "1",
         "\n",
@@ -15668,7 +15983,6 @@ var inscriptions = [
         "𐝫",
         "\n",
         "𐝫𐜨",
-        "\n",
         "\n",
         "—",
         "\n",
@@ -15688,14 +16002,14 @@ var inscriptions = [
     "tracingImage": "images/KH32-Tracing.jpg",
     "transcription": "𐘚𐙷𐝫\n𐝫𐄋𐝫\n𐝫",
     "translatedWords": [
-        "I",
+        "I𐙷",
         "\n",
         "5",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
-        "I",
+        "I𐙷",
         "\n",
         "5",
         "\n",
@@ -15714,11 +16028,11 @@ var inscriptions = [
     "name": "KH33",
     "parsedInscription": "𐝫\n𐝫𐜙𐝫\n𐝫𐄇\n𐘇𐝫\n𐝫",
     "tracingImage": "images/KH33-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐜙𐝫\n𐝫𐄇𐘇𐝫\n𐝫\n",
+    "transcription": "𐝫\n𐝫𐜙𐝫\n𐝫𐄇𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜙𐝫",
+        "𐜙",
         "\n",
         "1",
         "\n",
@@ -15729,7 +16043,7 @@ var inscriptions = [
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜙𐝫",
+        "𐜙",
         "\n",
         "1",
         "\n",
@@ -15750,11 +16064,119 @@ var inscriptions = [
     ]
 },
 {
+    "image": "images/KH34-Inscription.jpg",
+    "name": "KH34",
+    "parsedInscription": "𐝫𐜚𐄈\n𐘝𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/KH34-Tracing.jpg",
+    "transcription": "𐝫𐜚𐄈𐘝𐝫\n𐝫\n𐝫",
+    "translatedWords": [
+        "𐜚",
+        "2",
+        "\n",
+        "figs",
+        "\n",
+        "𐝫",
+        "\n"
+    ],
+    "transliteratedWords": [
+        "𐜚",
+        "2",
+        "\n",
+        "figs",
+        "\n",
+        "𐝫",
+        "\n"
+    ],
+    "words": [
+        "𐝫𐜚",
+        "𐄈",
+        "\n",
+        "𐘝𐝫",
+        "\n",
+        "𐝫",
+        "\n"
+    ]
+},
+{
+    "image": "images/KH35-Inscription.jpg",
+    "name": "KH35",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐄇\n𐙗𐝫\n𐝫",
+    "tracingImage": "images/KH35-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫𐄇𐙗𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "\n",
+        "1",
+        "\n",
+        "cyperus",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "\n",
+        "1",
+        "\n",
+        "cyperus",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "\n",
+        "𐝫𐄇",
+        "\n",
+        "𐙗𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH36-Inscription.jpg",
+    "name": "KH36",
+    "parsedInscription": "𐝫𐘾𐄁𐛚𐄊𐝫\n𐝫𐘅𐝫\n𐝫",
+    "tracingImage": "images/KH36-Tracing.jpg",
+    "transcription": "𐝫𐘾𐄁𐛚𐄊𐝫\n𐝫𐘅𐝫\n𐝫",
+    "translatedWords": [
+        "KA",
+        "𐄁",
+        "𐛚",
+        "4",
+        "\n",
+        "NA",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "KA",
+        "𐄁",
+        "𐛚",
+        "4",
+        "\n",
+        "NA",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫𐘾",
+        "𐄁",
+        "𐛚",
+        "𐄊𐝫",
+        "\n",
+        "𐝫𐘅𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
     "image": "images/KH37-Inscription.jpg",
     "name": "KH37",
     "parsedInscription": "𐜜𐄈\n𐘣𐝫\n𐜜\n𐝫",
     "tracingImage": "images/KH37-Tracing.jpg",
-    "transcription": "𐜜𐄈𐘣𐝫\n𐜜\n𐝫\n",
+    "transcription": "𐜜𐄈𐘣𐝫\n𐜜\n𐝫",
     "translatedWords": [
         "𐜜",
         "2",
@@ -15832,14 +16254,14 @@ var inscriptions = [
     "translatedWords": [
         "A-TA",
         "\n",
-        "𐝫𐜐𐝫",
+        "𐜐",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
         "A-TA",
         "\n",
-        "𐝫𐜐𐝫",
+        "𐜐",
         "\n",
         "𐝫"
     ],
@@ -15916,14 +16338,14 @@ var inscriptions = [
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜟𐝫",
+        "𐜟",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜟𐝫",
+        "𐜟",
         "\n",
         "𐝫"
     ],
@@ -15940,20 +16362,20 @@ var inscriptions = [
     "name": "KH43",
     "parsedInscription": "𐝫𐛢𐘙𐄈\n𐛇𐝫\n𐝫",
     "tracingImage": "images/KH43-Tracing.jpg",
-    "transcription": "𐝫𐙁𐘘𐘙𐄈𐛇𐝫\n𐝫\n",
+    "transcription": "𐝫𐙁𐘘𐘙𐄈𐛇𐝫\n𐝫",
     "translatedWords": [
-        "RE",
+        "𐛢-RE",
         "2",
         "\n",
-        "𐛇𐝫",
+        "𐛇",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
-        "RE",
+        "𐛢-RE",
         "2",
         "\n",
-        "𐛇𐝫",
+        "𐛇",
         "\n",
         "𐝫"
     ],
@@ -15977,7 +16399,7 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "𐝫𐙻𐝫",
+        "𐙻",
         "\n",
         "𐝫"
     ],
@@ -15986,7 +16408,7 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "𐝫𐙻𐝫",
+        "𐙻",
         "\n",
         "𐝫"
     ],
@@ -16029,11 +16451,131 @@ var inscriptions = [
     ]
 },
 {
+    "image": "images/KH46-Inscription.jpg",
+    "name": "KH46",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐝋\n𐙍𐝫\n𐝫",
+    "tracingImage": "images/KH46-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫𐝋𐙍𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫𐝋",
+        "\n",
+        "wine",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫𐝋",
+        "\n",
+        "wine",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫𐝋",
+        "\n",
+        "𐙍𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH47-Inscription.jpg",
+    "name": "KH47",
+    "parsedInscription": "𐝫\n𐝫𐘌𐘗𐝫\n𐝫𐄌\n𐘤𐝫\n𐝫𐘴𐄁𐙚𐝫",
+    "tracingImage": "images/KH47-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐘌𐘗𐝫\n𐝫𐄌𐘤𐝫\n𐘴𐄁𐙚𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "QA-NE",
+        "\n",
+        "6",
+        "\n",
+        "SI",
+        "\n",
+        "RA",
+        "𐄁",
+        "𐙚"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "QA-NE",
+        "\n",
+        "6",
+        "\n",
+        "SI",
+        "\n",
+        "RA",
+        "𐄁",
+        "𐙚"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐘌𐘗𐝫",
+        "\n",
+        "𐝫𐄌",
+        "\n",
+        "𐘤𐝫",
+        "\n",
+        "𐝫𐘴",
+        "𐄁",
+        "𐙚𐝫"
+    ]
+},
+{
+    "image": "images/KH49-Inscription.jpg",
+    "name": "KH49",
+    "parsedInscription": "𐝫\n𐝫𐘘𐝫\n𐝫𐙂𐝫\n𐝫",
+    "tracingImage": "images/KH49-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐘘𐝫\n𐝫𐙂𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "RU",
+        "\n",
+        "KU",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "RU",
+        "\n",
+        "KU",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐘘𐝫",
+        "\n",
+        "𐝫𐙂𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
     "image": "images/KH50-Inscription.jpg",
     "name": "KH50",
     "parsedInscription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈\n𐘿𐝫𐄁𐝫𐄇\n—\n—",
     "tracingImage": "images/KH50-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈𐘿𐝫𐄁𐝫𐄇\n—\n—\n",
+    "transcription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈𐘿𐝫𐄁𐝫𐄇\n—\n—",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -16091,7 +16633,7 @@ var inscriptions = [
     "name": "KH51",
     "parsedInscription": "𐝫𐘤𐘚𐘤𐄉\n𐝫𐄊\n𐘹𐝫\n𐝫",
     "tracingImage": "images/KH51-Tracing.jpg",
-    "transcription": "𐝫𐘤𐘚𐘤𐄉\n𐝫𐄊𐘹𐝫\n𐝫\n",
+    "transcription": "𐝫𐘤𐘚𐘤𐄉\n𐝫𐄊𐘹𐝫\n𐝫",
     "translatedWords": [
         "SI-I-SI",
         "3",
@@ -16153,6 +16695,126 @@ var inscriptions = [
         "𐝫",
         "\n",
         "𐝫𐘳𐘉𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH53-Inscription.jpg",
+    "name": "KH53",
+    "parsedInscription": "𐝫𐘇𐘋𐙌𐄁\n𐘗𐝫\n𐝫",
+    "tracingImage": "images/KH53-Tracing.jpg",
+    "transcription": "𐝫𐘇𐘋𐙌𐄁𐘗𐝫\n𐝫",
+    "translatedWords": [
+        "A-ME𐙌",
+        "𐄁",
+        "\n",
+        "NE",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "A-ME𐙌",
+        "𐄁",
+        "\n",
+        "NE",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫𐘇𐘋𐙌",
+        "𐄁",
+        "\n",
+        "𐘗𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH54-Inscription.jpg",
+    "name": "KH54",
+    "parsedInscription": "𐝫𐜚𐄇\n𐙉𐝫𐄇𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/KH54-Tracing.jpg",
+    "transcription": "𐝫𐜚𐄇𐙉𐝫𐄇𐝫\n𐝫\n𐝫",
+    "translatedWords": [
+        "𐜚",
+        "1",
+        "\n",
+        "grain",
+        "1",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐜚",
+        "1",
+        "\n",
+        "grain",
+        "1",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫𐜚",
+        "𐄇",
+        "\n",
+        "𐙉𐝫",
+        "𐄇𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH55-Inscription.jpg",
+    "name": "KH55",
+    "parsedInscription": "𐝫\n𐝫\n𐜐𐝁𐝫\n𐄉𐝫\n𐘝𐝫\n𐝫",
+    "tracingImage": "images/KH55-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐜐𐝁𐝫\n𐝫𐄉𐘝𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐜐",
+        "¹⁄₃",
+        "\n",
+        "3",
+        "\n",
+        "figs",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐜐",
+        "¹⁄₃",
+        "\n",
+        "3",
+        "\n",
+        "figs",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐜐",
+        "𐝁𐝫",
+        "\n",
+        "𐄉𐝫",
+        "\n",
+        "𐘝𐝫",
         "\n",
         "𐝫"
     ]
@@ -16236,7 +16898,7 @@ var inscriptions = [
     "name": "KH58",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙗𐝫𐄊\n𐘝𐝫\n𐝫𐜚𐄇𐝃\n𐘇𐝫\n𐝫𐜚𐄊𐝫\n𐝫𐙗𐝫𐝆\n𐘇𐙕𐝫",
     "tracingImage": "images/KH58-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐝫𐙗𐝫𐄊𐘝𐝫\n𐝫𐜚𐄇𐝃𐘇𐝫\n𐝫𐜚𐄊𐝫\n𐝫𐙗𐝫𐝆𐘇𐙕𐝫\n\n\n",
+    "transcription": "𐝫\n𐝫\n𐝫𐙗𐝫𐄊𐘝𐝫\n𐝫𐜚𐄇𐝃𐘇𐝫\n𐝫𐜚𐄊𐝫\n𐝫𐙗𐝫𐝆𐘇𐙕𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -16247,19 +16909,19 @@ var inscriptions = [
         "\n",
         "figs",
         "\n",
-        "𐝫𐜚",
+        "𐜚",
         "1",
         "¹⁄₄",
         "\n",
         "A",
         "\n",
-        "𐝫𐜚",
+        "𐜚",
         "4",
         "\n",
         "cyperus",
         "¹⁄₂",
         "\n",
-        "A"
+        "A𐙕"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -16271,19 +16933,19 @@ var inscriptions = [
         "\n",
         "figs",
         "\n",
-        "𐝫𐜚",
+        "𐜚",
         "1",
         "¹⁄₄",
         "\n",
         "A",
         "\n",
-        "𐝫𐜚",
+        "𐜚",
         "4",
         "\n",
         "cyperus",
         "¹⁄₂",
         "\n",
-        "A"
+        "A𐙕"
     ],
     "words": [
         "𐝫",
@@ -16361,14 +17023,14 @@ var inscriptions = [
     "name": "KH60",
     "parsedInscription": "𐝫𐘴𐘸𐘳𐘅𐘤𐝫\n𐝫𐙏𐝍\n𐘷𐙗𐝫\n𐝫𐝂\n𐛚𐝂𐝫\n𐝫\n𐝫",
     "tracingImage": "images/KH60-Tracing.jpg",
-    "transcription": "𐝫𐘴𐘸𐘳𐘅𐘤𐝫\n𐝫𐙏𐝍𐘷𐙗𐝫\n𐝫𐝂𐛚𐝂𐝫\n𐝫\n𐝫\n\n",
+    "transcription": "𐝫𐘴𐘸𐘳𐘅𐘤𐝫\n𐝫𐙏𐝍𐘷𐙗𐝫\n𐝫𐝂𐛚𐝂𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "RA-KI-TA-NA-SI",
         "\n",
         "wine",
         "𐝍",
         "\n",
-        "𐘷𐙗𐝫",
+        "𐘷𐙗",
         "\n",
         "¹⁄₅",
         "\n",
@@ -16385,7 +17047,7 @@ var inscriptions = [
         "wine",
         "𐝍",
         "\n",
-        "𐘷𐙗𐝫",
+        "𐘷𐙗",
         "\n",
         "¹⁄₅",
         "\n",
@@ -16419,7 +17081,7 @@ var inscriptions = [
     "name": "KH61",
     "parsedInscription": "𐝫\n𐝫𐄑𐝫\n𐝫𐄇\n𐙁𐝫\n𐝫𐝁\n𐜐𐝉𐝫\n𐝫𐙗𐝫𐄈\n𐙉𐄇𐝍",
     "tracingImage": "images/KH61-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐄑𐝫\n𐝫𐄇𐙁𐝫\n𐝫𐝁𐜐𐝉𐝫\n𐝫𐙗𐝫𐄈𐙉𐄇𐝍\n\n\n",
+    "transcription": "𐝫\n𐝫𐄑𐝫\n𐝫𐄇𐙁𐝫\n𐝫𐝁𐜐𐝉𐝫\n𐝫𐙗𐝫𐄈𐙉𐄇𐝍",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -16487,26 +17149,23 @@ var inscriptions = [
 {
     "image": "images/KH62-Inscription.jpg",
     "name": "KH62",
-    "parsedInscription": "𐝫\n𐝫𐙁𐝫\n",
+    "parsedInscription": "𐝫\n𐝫𐙁𐝫",
     "tracingImage": "images/KH62-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐙁𐝫\n",
+    "transcription": "𐝫\n𐝫𐙁𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "MA",
-        "\n"
+        "MA"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "MA",
-        "\n"
+        "MA"
     ],
     "words": [
         "𐝫",
         "\n",
-        "𐝫𐙁𐝫",
-        "\n"
+        "𐝫𐙁𐝫"
     ]
 },
 {
@@ -16521,7 +17180,7 @@ var inscriptions = [
         "SU",
         "10",
         "\n",
-        "𐝫𐜩",
+        "𐜩",
         "𐝉𐝫",
         "\n",
         "𐝫"
@@ -16532,7 +17191,7 @@ var inscriptions = [
         "SU",
         "10",
         "\n",
-        "𐝫𐜩",
+        "𐜩",
         "𐝉𐝫",
         "\n",
         "𐝫"
@@ -16584,6 +17243,146 @@ var inscriptions = [
     ]
 },
 {
+    "image": "images/KH65-Inscription.jpg",
+    "name": "KH65",
+    "parsedInscription": "𐝫\n𐝫𐘝𐝫\n𐝫",
+    "tracingImage": "images/KH65-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐘝𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "figs",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "figs",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐘝𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH66-Inscription.jpg",
+    "name": "KH66",
+    "parsedInscription": "𐝫𐄒𐝫\n𐝫",
+    "tracingImage": "images/KH66-Tracing.jpg",
+    "transcription": "𐝫𐄒𐝫\n𐝫",
+    "translatedWords": [
+        "30",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "30",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫𐄒𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH67-Inscription.jpg",
+    "name": "KH67",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐄇𐝫\n𐝫",
+    "tracingImage": "images/KH67-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫𐄇𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "1",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "1",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫𐄇𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH69-Inscription.jpg",
+    "name": "KH69",
+    "parsedInscription": "𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/KH69-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH70-Inscription.jpg",
+    "name": "KH70",
+    "parsedInscription": "𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/KH70-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
     "image": "images/KH72-Inscription.jpg",
     "name": "KH72",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
@@ -16616,7 +17415,7 @@ var inscriptions = [
     "name": "KH73",
     "parsedInscription": "𐝫\n𐝫𐝉\n𐘇𐝫\n𐝫𐄇\n𐘝𐄇\n𐜝𐄇𐝫\n𐝫𐝇\n𐘇𐝫\n𐝫",
     "tracingImage": "images/KH73-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐝉𐘇𐝫\n𐝫𐄇𐘝𐄇𐜝𐄇𐝫\n𐝫𐝇𐘇𐝫\n𐝫\n\n\n\n",
+    "transcription": "𐝫\n𐝫𐝉𐘇𐝫\n𐝫𐄇𐘝𐄇𐜝𐄇𐝫\n𐝫𐝇𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -16692,7 +17491,7 @@ var inscriptions = [
         "𐄁",
         "JA-DA-SU",
         "\n",
-        "SI-MI",
+        "SI𐝥-MI",
         "\n",
         "𐝫"
     ],
@@ -16701,7 +17500,7 @@ var inscriptions = [
         "𐄁",
         "JA-DA-SU",
         "\n",
-        "SI-MI",
+        "SI𐝥-MI",
         "\n",
         "𐝫"
     ],
@@ -16720,7 +17519,7 @@ var inscriptions = [
     "name": "KH75",
     "parsedInscription": "𐝫\n𐝫𐝆𐝫\n𐝫𐙗𐝫𐝇𐝉\n𐘝𐝁\n𐝫",
     "tracingImage": "images/KH75-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐝆𐝫\n𐝫𐙗𐝫𐝇𐝉𐘝𐝁\n𐝫\n",
+    "transcription": "𐝫\n𐝫𐝆𐝫\n𐝫𐙗𐝫𐝇𐝉𐘝𐝁\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -16802,11 +17601,380 @@ var inscriptions = [
     ]
 },
 {
+    "image": "images/KH77-Inscription.jpg",
+    "name": "KH77",
+    "parsedInscription": "𐝫𐙗𐝫𐝍\n𐝫",
+    "tracingImage": "images/KH77-Tracing.jpg",
+    "transcription": "𐝫𐙗𐝫𐝍\n𐝫",
+    "translatedWords": [
+        "cyperus",
+        "𐝍",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "cyperus",
+        "𐝍",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫𐙗𐝫",
+        "𐝍",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH78-Inscription.jpg",
+    "name": "KH78",
+    "parsedInscription": "𐝫\n𐝫𐄒𐝫\n𐝫",
+    "tracingImage": "images/KH78-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐄒𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "30",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "30",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐄒𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH79-Inscription.jpg",
+    "name": "KH79",
+    "parsedInscription": "𐝫\n𐝫𐘂𐘀𐝫\n𐝫",
+    "tracingImage": "images/KH79-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐘂𐘀𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫𐘂𐘀𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫𐘂𐘀𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐘂𐘀𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH80-Inscription.jpg",
+    "name": "KH80",
+    "parsedInscription": "𐝫𐝂\n𐙖𐝫\n𐝫",
+    "tracingImage": "images/KH80-Tracing.jpg",
+    "transcription": "𐝫𐝂𐙖𐝫\n𐝫",
+    "translatedWords": [
+        "¹⁄₅",
+        "\n",
+        "olive oil",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "¹⁄₅",
+        "\n",
+        "olive oil",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫𐝂",
+        "\n",
+        "𐙖𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH81-Inscription.jpg",
+    "name": "KH81",
+    "parsedInscription": "𐝫\n𐝫\n𐄋𐝫\n𐛛𐄢𐝫\n𐝫𐄉\n𐝫",
+    "tracingImage": "images/KH81-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐄋𐝫𐛛𐄢𐝫\n𐝫𐄉\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "5",
+        "\n",
+        "𐛛",
+        "𐄢𐝫",
+        "\n",
+        "3",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "5",
+        "\n",
+        "𐛛",
+        "𐄢𐝫",
+        "\n",
+        "3",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐄋𐝫",
+        "\n",
+        "𐛛",
+        "𐄢𐝫",
+        "\n",
+        "𐝫𐄉",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH82-Inscription.jpg",
+    "name": "KH82",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐜏𐝉𐝫\n𐝫𐙧𐄇𐝫\n𐝫𐙼𐝫\n𐝫",
+    "tracingImage": "images/KH82-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫𐜏𐝉𐝫\n𐝫𐙧𐄇𐝫\n𐝫𐙼𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐜏",
+        "𐝉𐝫",
+        "\n",
+        "𐙧",
+        "1",
+        "\n",
+        "𐙼",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐜏",
+        "𐝉𐝫",
+        "\n",
+        "𐙧",
+        "1",
+        "\n",
+        "𐙼",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫𐜏",
+        "𐝉𐝫",
+        "\n",
+        "𐝫𐙧",
+        "𐄇𐝫",
+        "\n",
+        "𐝫𐙼𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH83-Inscription.jpg",
+    "name": "KH83",
+    "parsedInscription": "𐝫𐄁\n𐘇𐘆𐘗𐝫\n𐄐𐄋\n𐜩𐝫\n𐝫",
+    "tracingImage": "images/KH83-Tracing.jpg",
+    "transcription": "𐝫𐄁𐘇𐘆𐘗𐝫\n𐝫𐄐𐄋𐚡𐘇𐝫\n𐝫",
+    "translatedWords": [
+        "𐄁",
+        "\n",
+        "A-DI-NE",
+        "\n",
+        "15",
+        "\n",
+        "𐜩",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐄁",
+        "\n",
+        "A-DI-NE",
+        "\n",
+        "15",
+        "\n",
+        "𐜩",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐄁",
+        "\n",
+        "𐘇𐘆𐘗𐝫",
+        "\n",
+        "𐄐𐄋",
+        "\n",
+        "𐜩𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH84-Inscription.jpg",
+    "name": "KH84",
+    "parsedInscription": "𐝫\n𐝫𐙗𐝆𐝫\n𐝫𐙕𐄇\n𐙚𐝫\n𐜩𐝫\n𐝫",
+    "tracingImage": "images/KH84-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐙗𐝆𐝫\n𐝫𐙕𐄇𐙚𐝫\n𐜩𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "cyperus",
+        "¹⁄₂",
+        "\n",
+        "𐙕",
+        "1",
+        "\n",
+        "𐙚",
+        "\n",
+        "𐜩",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "cyperus",
+        "¹⁄₂",
+        "\n",
+        "𐙕",
+        "1",
+        "\n",
+        "𐙚",
+        "\n",
+        "𐜩",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐙗",
+        "𐝆𐝫",
+        "\n",
+        "𐝫𐙕",
+        "𐄇",
+        "\n",
+        "𐙚𐝫",
+        "\n",
+        "𐜩𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/KH85-Inscription.jpg",
+    "name": "KH85",
+    "parsedInscription": "𐝫\n𐝫𐜐𐝆\n𐙜𐝫\n𐝫𐜩𐝇\n𐙏𐝫\n𐝫𐙘𐝫\n𐝫𐙗𐝫𐝂𐝫\n𐝫",
+    "tracingImage": "images/KH85-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐜐𐝆𐙜𐝫\n𐝫𐜩𐝇𐙏𐝫\n𐝫𐙘𐝂𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐜐",
+        "¹⁄₂",
+        "\n",
+        "𐙜",
+        "\n",
+        "𐜩",
+        "¹⁄₁₆",
+        "\n",
+        "wine",
+        "\n",
+        "coriander?",
+        "\n",
+        "cyperus",
+        "¹⁄₅",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐜐",
+        "¹⁄₂",
+        "\n",
+        "𐙜",
+        "\n",
+        "𐜩",
+        "¹⁄₁₆",
+        "\n",
+        "wine",
+        "\n",
+        "coriander?",
+        "\n",
+        "cyperus",
+        "¹⁄₅",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐜐",
+        "𐝆",
+        "\n",
+        "𐙜𐝫",
+        "\n",
+        "𐝫𐜩",
+        "𐝇",
+        "\n",
+        "𐙏𐝫",
+        "\n",
+        "𐝫𐙘𐝫",
+        "\n",
+        "𐝫𐙗𐝫",
+        "𐝂𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
     "image": "images/KH86-Inscription.jpg",
     "name": "KH86",
     "parsedInscription": "𐝫𐘙𐘍𐙗𐝫\n𐝫𐙗𐝫𐝀𐝁𐝁\n𐘢𐘯𐝫\n𐝫𐄉𐝫\n𐝫𐙗𐝫𐝕𐝫\n𐝫",
     "tracingImage": "images/KH86-Tracing.jpg",
-    "transcription": "𐝫𐘙𐘍𐙗𐝫\n𐝫𐙗𐝑𐘢𐘯𐝫\n𐝫𐄉𐝫𐙗𐝫𐝕𐝫\n𐝫\n\n",
+    "transcription": "𐝫𐘙𐘍𐙗𐝫\n𐝫𐙗𐝑𐘢𐘯𐝫\n𐝫𐄉𐝫𐙗𐝫𐝕𐝫\n𐝫",
     "translatedWords": [
         "RE-ZA",
         "cyperus",
@@ -16861,7 +18029,7 @@ var inscriptions = [
     "name": "KH87",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝉\n𐙚𐝫\n𐝫𐝆\n𐘖𐄇",
     "tracingImage": "images/KH87-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐝫𐝉𐙚𐝫\n𐝫𐝆𐘖𐄇\n\n",
+    "transcription": "𐝫\n𐝫\n𐝫𐝉𐙚𐝫\n𐝫𐝆𐘖𐄇",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -16869,7 +18037,7 @@ var inscriptions = [
         "\n",
         "𐝫𐝉",
         "\n",
-        "𐙚𐝫",
+        "𐙚",
         "\n",
         "¹⁄₂",
         "\n",
@@ -16883,7 +18051,7 @@ var inscriptions = [
         "\n",
         "𐝫𐝉",
         "\n",
-        "𐙚𐝫",
+        "𐙚",
         "\n",
         "¹⁄₂",
         "\n",
@@ -16908,57 +18076,45 @@ var inscriptions = [
 {
     "image": "images/KN1a-Inscription.jpg",
     "name": "KN1a",
-    "parsedInscription": "𐘱𐙂𐘠𐘡𐄚𐄓\n\n",
+    "parsedInscription": "𐘱𐙂𐘠𐘡𐄚𐄓",
     "tracingImage": "images/KN1a-Tracing.jpg",
-    "transcription": "𐘱𐙂𐘠\n𐘡𐄚𐄓\n",
+    "transcription": "𐘱𐙂𐘠\n𐘡𐄚𐄓",
     "translatedWords": [
         "JA-KU-TI",
         "E",
-        "240",
-        "\n",
-        "\n"
+        "240"
     ],
     "transliteratedWords": [
         "JA-KU-TI",
         "E",
-        "240",
-        "\n",
-        "\n"
+        "240"
     ],
     "words": [
         "𐘱𐙂𐘠",
         "𐘡",
-        "𐄚𐄓",
-        "\n",
-        "\n"
+        "𐄚𐄓"
     ]
 },
 {
     "image": "images/KN1b-Inscription.jpg",
     "name": "KN1b",
-    "parsedInscription": "𐘱𐘬𐘴𐘠𐘡𐄙𐄋\n\n",
+    "parsedInscription": "𐘱𐘬𐘴𐘠𐘡𐄙𐄋",
     "tracingImage": "images/KN1b-Tracing.jpg",
     "transcription": "𐘱𐘬𐘴𐘠\n𐘡𐄙\n𐄋",
     "translatedWords": [
         "JA-DU-RA-TI",
         "E",
-        "105",
-        "\n",
-        "\n"
+        "105"
     ],
     "transliteratedWords": [
         "JA-DU-RA-TI",
         "E",
-        "105",
-        "\n",
-        "\n"
+        "105"
     ],
     "words": [
         "𐘱𐘬𐘴𐘠",
         "𐘡",
-        "𐄙𐄋",
-        "\n",
-        "\n"
+        "𐄙𐄋"
     ]
 },
 {
@@ -16966,7 +18122,7 @@ var inscriptions = [
     "name": "KN2",
     "parsedInscription": "𐝫𐘘𐘅𐄈\n𐙈𐄉\n𐛁𐄋𐝫\n𐝫",
     "tracingImage": "images/KN2-Tracing.jpg",
-    "transcription": "𐝫𐘘𐘅𐄈\n𐙈𐄉𐘚𐙕𐄋\n𐝫\n",
+    "transcription": "𐝫𐘘𐘅𐄈\n𐙈𐄉𐘚𐙕𐄋\n𐝫",
     "translatedWords": [
         "RU-NA",
         "2",
@@ -17005,6 +18161,84 @@ var inscriptions = [
     ]
 },
 {
+    "image": "images/KN22a-Inscription.jpg",
+    "name": "KN22a",
+    "parsedInscription": "𐝫𐘲𐘶𐘳𐝫𐝫𐄑𐝫\n𐝫𐘾𐘧𐝫",
+    "tracingImage": "images/KN22a-Tracing.jpg",
+    "transcription": "𐝫𐘲𐘶𐘳𐝫𐄑𐝫\n𐝫𐘾𐘧𐝫",
+    "translatedWords": [
+        "SU-JU-TA",
+        "20",
+        "\n",
+        "KA-JE"
+    ],
+    "transliteratedWords": [
+        "SU-JU-TA",
+        "20",
+        "\n",
+        "KA-JE"
+    ],
+    "words": [
+        "𐝫𐘲𐘶𐘳𐝫",
+        "𐝫𐄑𐝫",
+        "\n",
+        "𐝫𐘾𐘧𐝫"
+    ]
+},
+{
+    "image": "images/KN22b-Inscription.jpg",
+    "name": "KN22b",
+    "parsedInscription": "𐝫𐘊𐘆𐘰𐄙𐄐",
+    "tracingImage": "images/KN22b-Tracing.jpg",
+    "transcription": "𐝫𐘊𐘆𐘰𐄙𐄐",
+    "translatedWords": [
+        "PO-DI𐘰",
+        "110"
+    ],
+    "transliteratedWords": [
+        "PO-DI𐘰",
+        "110"
+    ],
+    "words": [
+        "𐝫𐘊𐘆𐘰",
+        "𐄙𐄐"
+    ]
+},
+{
+    "image": "images/KN22c-Inscription.jpg",
+    "name": "KN22c",
+    "parsedInscription": "𐝫𐙁𐘲𐘻𐄁𐝫𐄁𐝫𐘅𐝫\n𐝫",
+    "tracingImage": "images/KN22c-Tracing.jpg",
+    "transcription": "𐝫𐙁𐘲𐘻𐄁𐝫𐄁𐝫𐘅𐝫\n𐝫",
+    "translatedWords": [
+        "MA-SU-MI",
+        "𐄁",
+        "𐝫",
+        "𐄁",
+        "NA",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "MA-SU-MI",
+        "𐄁",
+        "𐝫",
+        "𐄁",
+        "NA",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫𐙁𐘲𐘻",
+        "𐄁",
+        "𐝫",
+        "𐄁",
+        "𐝫𐘅𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
     "image": "images/KN28a-Inscription.jpg",
     "name": "KN28a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘓𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
@@ -17018,7 +18252,7 @@ var inscriptions = [
         "she-goat",
         "1",
         "\n",
-        "𐝫𐙠",
+        "𐙠",
         "9",
         "\n",
         "grain",
@@ -17034,7 +18268,7 @@ var inscriptions = [
         "she-goat",
         "1",
         "\n",
-        "𐝫𐙠",
+        "𐙠",
         "9",
         "\n",
         "grain",
@@ -17062,9 +18296,9 @@ var inscriptions = [
 {
     "image": "images/KN28b-Inscription.jpg",
     "name": "KN28b",
-    "parsedInscription": "𐝫\n𐝫\n𐝫𐘃𐝊𐝫\n𐝫𐄉\n𐛓𐝊𐝫\n\n𐝫",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐘃𐝊𐝫\n𐝫𐄉\n𐛓𐝊𐝫\n𐝫",
     "tracingImage": "images/KN28b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫\n𐝫𐘃𐝊𐝫\n𐝫𐄉𐛓𐝊\n𐝫\n\n",
+    "transcription": "𐝫\n𐝫\n𐝫𐘃𐝊𐝫\n𐝫𐄉𐛓𐝊\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -17077,7 +18311,6 @@ var inscriptions = [
         "\n",
         "𐛓",
         "𐝊𐝫",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -17094,7 +18327,6 @@ var inscriptions = [
         "𐛓",
         "𐝊𐝫",
         "\n",
-        "\n",
         "𐝫"
     ],
     "words": [
@@ -17109,7 +18341,6 @@ var inscriptions = [
         "\n",
         "𐛓",
         "𐝊𐝫",
-        "\n",
         "\n",
         "𐝫"
     ]
@@ -17153,7 +18384,7 @@ var inscriptions = [
     "name": "KN32b",
     "parsedInscription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘞𐘫\n𐘂𐝫\n𐝫𐘱𐘲\n𐝫",
     "tracingImage": "images/KN32b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘞𐘫𐄁𐘂\n𐝫𐘱𐘲\n𐝫\n",
+    "transcription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘞𐘫𐄁𐘂\n𐝫𐘱𐘲\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -17199,16 +18430,16 @@ var inscriptions = [
     "name": "MA1a",
     "parsedInscription": "𐄂𐘚𐘬𐘣𐘨\n𐘿𐘦𐘻𐘯𐄁",
     "tracingImage": "images/MA1a-Tracing.jpg",
-    "transcription": "𐄂𐘚𐘬𐘣𐄁𐘨𐄁𐘿𐘦𐘻𐘯𐄁\n",
+    "transcription": "𐄂𐘚𐘬𐘣𐄁𐘨𐄁𐘿𐘦𐘻𐘯𐄁",
     "translatedWords": [
-        "I-DU-WI",
+        "𐄂-I-DU-WI",
         "𐘨",
         "\n",
         "QE-DE-MI-NU",
         "𐄁"
     ],
     "transliteratedWords": [
-        "I-DU-WI",
+        "𐄂-I-DU-WI",
         "𐘨",
         "\n",
         "QE-DE-MI-NU",
@@ -17227,7 +18458,7 @@ var inscriptions = [
     "name": "MA1b",
     "parsedInscription": "𐘇𐙁𐄁𐘨\n𐘿𐘦𐘻𐘯",
     "tracingImage": "images/MA1b-Tracing.jpg",
-    "transcription": "𐘇𐙁𐄁𐘨𐄁𐘿𐘦𐘻𐘯\n",
+    "transcription": "𐘇𐙁𐄁𐘨𐄁𐘿𐘦𐘻𐘯",
     "translatedWords": [
         "A-MA",
         "𐄁",
@@ -17267,13 +18498,103 @@ var inscriptions = [
     ]
 },
 {
+    "image": "images/MA2a-Inscription.jpg",
+    "name": "MA2a",
+    "parsedInscription": "𐝫𐘬𐘴𐄋",
+    "tracingImage": "images/MA2a-Tracing.jpg",
+    "transcription": "𐝫𐘬𐘴𐄋",
+    "translatedWords": [
+        "DU-RA",
+        "5"
+    ],
+    "transliteratedWords": [
+        "DU-RA",
+        "5"
+    ],
+    "words": [
+        "𐝫𐘬𐘴",
+        "𐄋"
+    ]
+},
+{
+    "image": "images/MA2b-Inscription.jpg",
+    "name": "MA2b",
+    "parsedInscription": "𐝫𐘙𐘠𐄊\n𐝫𐘠𐄇\n𐘱𐙂𐄈\n𐘠𐝫",
+    "tracingImage": "images/MA2b-Tracing.jpg",
+    "transcription": "𐝫𐘙𐘠𐄊𐝫\n𐝫𐘠𐄇𐘱𐙂𐄈𐘠𐝫",
+    "translatedWords": [
+        "RE-TI",
+        "4",
+        "\n",
+        "TI",
+        "1",
+        "\n",
+        "JA-KU",
+        "2",
+        "\n",
+        "TI"
+    ],
+    "transliteratedWords": [
+        "RE-TI",
+        "4",
+        "\n",
+        "TI",
+        "1",
+        "\n",
+        "JA-KU",
+        "2",
+        "\n",
+        "TI"
+    ],
+    "words": [
+        "𐝫𐘙𐘠",
+        "𐄊",
+        "\n",
+        "𐝫𐘠",
+        "𐄇",
+        "\n",
+        "𐘱𐙂",
+        "𐄈",
+        "\n",
+        "𐘠𐝫"
+    ]
+},
+{
+    "image": "images/MA2c-Inscription.jpg",
+    "name": "MA2c",
+    "parsedInscription": "𐝫𐘉𐘅𐘅𐄉\n𐝫𐘱𐙁𐘉𐘠𐄌",
+    "tracingImage": "images/MA2c-Tracing.jpg",
+    "transcription": "𐝫𐘉𐘅𐘅𐄉\n𐝫𐘱𐙁𐘉𐘠𐄌",
+    "translatedWords": [
+        "U-NA-NA",
+        "3",
+        "\n",
+        "JA-MA-U-TI",
+        "6"
+    ],
+    "transliteratedWords": [
+        "U-NA-NA",
+        "3",
+        "\n",
+        "JA-MA-U-TI",
+        "6"
+    ],
+    "words": [
+        "𐝫𐘉𐘅𐘅",
+        "𐄉",
+        "\n",
+        "𐝫𐘱𐙁𐘉𐘠",
+        "𐄌"
+    ]
+},
+{
     "image": "images/MA4a-Inscription.jpg",
     "name": "MA4a",
     "parsedInscription": "𐘳𐜅𐄐𐄋\n𐜆𐄙𐄑\n𐜄𐄔𐄉\n𐜃𐄒",
     "tracingImage": "images/MA4a-Tracing.jpg",
-    "transcription": "𐘳𐜅𐄐𐄋𐜆𐄙𐄑𐜄𐄔𐄉𐜃𐄒\n\n\n",
+    "transcription": "𐘳𐜅𐄐𐄋𐜆𐄙𐄑𐜄𐄔𐄉𐜃𐄒",
     "translatedWords": [
-        "TA",
+        "TA𐜅",
         "15",
         "\n",
         "𐜆",
@@ -17286,7 +18607,7 @@ var inscriptions = [
         "30"
     ],
     "transliteratedWords": [
-        "TA",
+        "TA𐜅",
         "15",
         "\n",
         "𐜆",
@@ -17317,7 +18638,7 @@ var inscriptions = [
     "name": "MA4b",
     "parsedInscription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉\n𐄙𐄕",
     "tracingImage": "images/MA4b-Tracing.jpg",
-    "transcription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉𐄙𐄕\n",
+    "transcription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉𐄙𐄕",
     "translatedWords": [
         "A-JA",
         "hide?",
@@ -17345,7 +18666,7 @@ var inscriptions = [
     "name": "MA6a",
     "parsedInscription": "𐝫𐙒𐝫𐄡𐄓𐄇\n𐜅𐄒𐄋",
     "tracingImage": "images/MA6a-Tracing.jpg",
-    "transcription": "𐝫𐙒𐝫𐄡𐄓𐄇𐜅𐄒𐄋\n",
+    "transcription": "𐝫𐙒𐝫𐄡𐄓𐄇𐜅𐄒𐄋",
     "translatedWords": [
         "hide?",
         "941",
@@ -17392,9 +18713,9 @@ var inscriptions = [
     "name": "MA6c",
     "parsedInscription": "𐝫𐜅𐄊𐝫\n𐙒𐝫𐄗𐄍𐝫\n𐝫𐙒𐝫𐄚𐄒𐄉𐝫",
     "tracingImage": "images/MA6c-Tracing.jpg",
-    "transcription": "𐝫𐜅𐄊𐝫𐙒𐄗𐄍𐝫\n𐝫𐙒𐝫𐄚𐄒𐄉𐝫\n",
+    "transcription": "𐝫𐜅𐄊𐝫𐙒𐄗𐄍𐝫\n𐝫𐙒𐝫𐄚𐄒𐄉𐝫",
     "translatedWords": [
-        "𐝫𐜅",
+        "𐜅",
         "4",
         "\n",
         "hide?",
@@ -17404,7 +18725,7 @@ var inscriptions = [
         "233"
     ],
     "transliteratedWords": [
-        "𐝫𐜅",
+        "𐜅",
         "4",
         "\n",
         "hide?",
@@ -17446,23 +18767,20 @@ var inscriptions = [
 {
     "image": "images/PA1-Inscription.jpg",
     "name": "PA1",
-    "parsedInscription": "𐘇𐙂𐘶𐘂𐙈𐄒𐄋\n",
+    "parsedInscription": "𐘇𐙂𐘶𐘂𐙈𐄒𐄋",
     "tracingImage": "images/PA1-Tracing.jpg",
     "transcription": "𐘇𐙂𐘶𐘂𐙈\n𐄒𐄋",
     "translatedWords": [
-        "A-KU-JU-PA",
-        "35",
-        "\n"
+        "A-KU-JU-PA𐙈",
+        "35"
     ],
     "transliteratedWords": [
-        "A-KU-JU-PA",
-        "35",
-        "\n"
+        "A-KU-JU-PA𐙈",
+        "35"
     ],
     "words": [
         "𐘇𐙂𐘶𐘂𐙈",
-        "𐄒𐄋",
-        "\n"
+        "𐄒𐄋"
     ]
 },
 {
@@ -17470,7 +18788,7 @@ var inscriptions = [
     "name": "PH1a",
     "parsedInscription": "𐝫𐘆𐘴𐘆𐘅𐙨𐝫𐄁𐝫𐝉\n𐝫𐘱𐄁𐙨𐄇\n𐙗𐝅\n𐝫",
     "tracingImage": "images/PH1a-Tracing.jpg",
-    "transcription": "𐝫𐘆𐘴𐘆𐘅𐙨𐝫𐄁𐝫𐝉\n𐝫𐘱𐄁𐙨𐄇𐙗𐝅\n𐝫\n",
+    "transcription": "𐝫𐘆𐘴𐘆𐘅𐙨𐝫𐄁𐝫𐝉\n𐝫𐘱𐄁𐙨𐄇𐙗𐝅\n𐝫",
     "translatedWords": [
         "DI-RA-DI-NA",
         "𐙨",
@@ -17523,9 +18841,9 @@ var inscriptions = [
 {
     "image": "images/PH1b-Inscription.jpg",
     "name": "PH1b",
-    "parsedInscription": "𐝫𐄁𐝫𐘅𐄇\n𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇\n",
+    "parsedInscription": "𐝫𐄁𐝫𐘅𐄇\n𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
     "tracingImage": "images/PH1b-Tracing.jpg",
-    "transcription": "𐝫𐄁𐝫𐘅𐄇𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇\n\n",
+    "transcription": "𐝫𐄁𐝫𐘅𐄇𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
     "translatedWords": [
         "𐄁",
         "NA",
@@ -17535,8 +18853,7 @@ var inscriptions = [
         "\n",
         "figs",
         "2",
-        "𐝄𐝇",
-        "\n"
+        "𐝄𐝇"
     ],
     "transliteratedWords": [
         "𐄁",
@@ -17547,8 +18864,7 @@ var inscriptions = [
         "\n",
         "figs",
         "2",
-        "𐝄𐝇",
-        "\n"
+        "𐝄𐝇"
     ],
     "words": [
         "𐄁",
@@ -17559,8 +18875,7 @@ var inscriptions = [
         "\n",
         "𐝫𐘝",
         "𐄈",
-        "𐝄𐝇",
-        "\n"
+        "𐝄𐝇"
     ]
 },
 {
@@ -17570,7 +18885,7 @@ var inscriptions = [
     "tracingImage": "images/PH2-Tracing.jpg",
     "transcription": "𐘇𐘈𐘹𐘐𐄇\n𐘴𐘵𐘆𐘸𐄕\n𐘢𐘘𐘡𐘶𐄕\n𐘈𐘞𐘰𐄕\n𐝫",
     "translatedWords": [
-        "A-SE-TU",
+        "A-SE-TU𐘐",
         "1",
         "\n",
         "RA-O-DI-KI",
@@ -17579,13 +18894,13 @@ var inscriptions = [
         "PI-RU-E-JU",
         "60",
         "\n",
-        "SE-SA",
+        "SE-SA𐘰",
         "60",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
-        "A-SE-TU",
+        "A-SE-TU𐘐",
         "1",
         "\n",
         "RA-O-DI-KI",
@@ -17594,7 +18909,7 @@ var inscriptions = [
         "PI-RU-E-JU",
         "60",
         "\n",
-        "SE-SA",
+        "SE-SA𐘰",
         "60",
         "\n",
         "𐝫"
@@ -17620,20 +18935,20 @@ var inscriptions = [
     "name": "PH3a",
     "parsedInscription": "𐝫𐛠𐄇\n𐘳𐝫\n𐝫𐛡𐄇\n𐛣𐝓\n𐝫𐛢𐝓\n𐘂𐘴𐝓\n𐝫𐘂𐝫\n𐝫𐄇\n𐝫",
     "tracingImage": "images/PH3a-Tracing.jpg",
-    "transcription": "𐝫𐛠𐄇𐘳\n𐝫𐛡𐄇𐛣𐝓\n𐝫𐛢𐝓𐘂𐘴𐝓\n𐝫𐘂𐝫𐄇\n𐝫\n\n\n\n",
+    "transcription": "𐝫𐛠𐄇𐘳\n𐝫𐛡𐄇𐛣𐝓\n𐝫𐛢𐝓𐘂𐘴𐝓\n𐝫𐘂𐝫𐄇\n𐝫",
     "translatedWords": [
-        "𐝫𐛠",
+        "𐛠",
         "1",
         "\n",
         "TA",
         "\n",
-        "𐝫𐛡",
+        "𐛡",
         "1",
         "\n",
         "𐛣",
         "𐝓",
         "\n",
-        "𐝫𐛢",
+        "𐛢",
         "𐝓",
         "\n",
         "PA-RA",
@@ -17646,18 +18961,18 @@ var inscriptions = [
         "𐝫"
     ],
     "transliteratedWords": [
-        "𐝫𐛠",
+        "𐛠",
         "1",
         "\n",
         "TA",
         "\n",
-        "𐝫𐛡",
+        "𐛡",
         "1",
         "\n",
         "𐛣",
         "𐝓",
         "\n",
-        "𐝫𐛢",
+        "𐛢",
         "𐝓",
         "\n",
         "PA-RA",
@@ -17701,7 +19016,7 @@ var inscriptions = [
     "tracingImage": "images/PH3b-Tracing.jpg",
     "transcription": "𐝫𐛘𐝕𐝫\n𐝫𐘤𐝃𐝫\n𐝫\n𐝫𐘤𐄇𐝃𐝫\n𐝫",
     "translatedWords": [
-        "𐝫𐛘",
+        "𐛘",
         "𐝕𐝫",
         "\n",
         "SI",
@@ -17716,7 +19031,7 @@ var inscriptions = [
         "𐝫"
     ],
     "transliteratedWords": [
-        "𐝫𐛘",
+        "𐛘",
         "𐝕𐝫",
         "\n",
         "SI",
@@ -17751,18 +19066,18 @@ var inscriptions = [
     "name": "PH6",
     "parsedInscription": "𐘚𐘅𐘮𐄁\n𐘇𐘭\n𐘚𐙀𐘭𐘝𐘳\n𐘇𐘭\n𐘚𐘀𐘰𐘚𐘞𐘭",
     "tracingImage": "images/PH6-Tracing.jpg",
-    "transcription": "𐘚𐘅𐘮𐄁𐘇𐘭\n𐘚𐙀𐘭𐘝𐘳\n𐘇𐘭\n𐘚𐘀𐘰𐘚𐘞𐘭\n",
+    "transcription": "𐘚𐘅𐘮𐄁𐘇𐘭\n𐘚𐙀𐘭𐘝𐘳\n𐘇𐘭\n𐘚𐘀𐘰𐘚𐘞𐘭",
     "translatedWords": [
         "I-NA-WA",
         "𐄁",
         "\n",
         "A-RI",
         "\n",
-        "I-RI-NI-TA",
+        "I𐙀-RI-NI-TA",
         "\n",
         "A-RI",
         "\n",
-        "I-DA-I-SA-RI"
+        "I-DA𐘰-I-SA-RI"
     ],
     "transliteratedWords": [
         "I-NA-WA",
@@ -17770,11 +19085,11 @@ var inscriptions = [
         "\n",
         "A-RI",
         "\n",
-        "I-RI-NI-TA",
+        "I𐙀-RI-NI-TA",
         "\n",
         "A-RI",
         "\n",
-        "I-DA-I-SA-RI"
+        "I-DA𐘰-I-SA-RI"
     ],
     "words": [
         "𐘚𐘅𐘮",
@@ -17840,10 +19155,10 @@ var inscriptions = [
         "\n",
         "TA",
         "1",
-        "𐝈𐝫",
+        "𐝈",
         "\n",
         "DA-RA",
-        "𐝈𐝫",
+        "𐝈",
         "\n",
         "wine",
         "𐝈𐝃",
@@ -17855,10 +19170,10 @@ var inscriptions = [
         "\n",
         "TA",
         "1",
-        "𐝈𐝫",
+        "𐝈",
         "\n",
         "DA-RA",
-        "𐝈𐝫",
+        "𐝈",
         "\n",
         "wine",
         "𐝈𐝃",
@@ -17886,11 +19201,11 @@ var inscriptions = [
     "name": "PH8a",
     "parsedInscription": "𐝫\n𐝫𐜵𐄍\n—\n𐝫𐙇𐄐𐄇\n𐙘𐄈\n—\n𐝫𐄐𐄌\n𐜶𐄇\n—\n𐝫",
     "tracingImage": "images/PH8a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐜵𐄍\n—\n𐝫𐙇𐄐𐄇𐙘𐄈\n—\n𐝫𐄐𐄌𐜶𐄇\n—\n𐝫\n\n",
+    "transcription": "𐝫\n𐝫𐜵𐄍\n—\n𐝫𐙇𐄐𐄇𐙘𐄈\n—\n𐝫𐄐𐄌𐜶𐄇\n—\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜵",
+        "𐜵",
         "7",
         "\n",
         "—",
@@ -17915,7 +19230,7 @@ var inscriptions = [
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐜵",
+        "𐜵",
         "7",
         "\n",
         "—",
@@ -17966,28 +19281,26 @@ var inscriptions = [
 {
     "image": "images/PH8b-Inscription.jpg",
     "name": "PH8b",
-    "parsedInscription": "𐝫\n𐝫𐙨𐄇\n𐜢𐝫\n\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐙨𐄇\n𐜢𐝫\n𐝫",
     "tracingImage": "images/PH8b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐙨𐄇𐜢𐝫\n𐝫\n\n",
+    "transcription": "𐝫\n𐝫𐙨𐄇𐜢𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐙨",
+        "𐙨",
         "1",
         "\n",
-        "𐜢𐝫",
-        "\n",
+        "𐜢",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐙨",
+        "𐙨",
         "1",
         "\n",
-        "𐜢𐝫",
-        "\n",
+        "𐜢",
         "\n",
         "𐝫"
     ],
@@ -17999,7 +19312,6 @@ var inscriptions = [
         "\n",
         "𐜢𐝫",
         "\n",
-        "\n",
         "𐝫"
     ]
 },
@@ -18010,11 +19322,11 @@ var inscriptions = [
     "tracingImage": "images/PH9a-Tracing.jpg",
     "transcription": "𐙩𐘿𐚍𐝏",
     "translatedWords": [
-        "QE",
+        "𐙩-QE𐚍",
         "≈ ¹⁄₄"
     ],
     "transliteratedWords": [
-        "QE",
+        "𐙩-QE𐚍",
         "≈ ¹⁄₄"
     ],
     "words": [
@@ -18029,12 +19341,12 @@ var inscriptions = [
     "tracingImage": "images/PH9b-Tracing.jpg",
     "transcription": "𐝫𐚬𐙍𐄇𐝆𐝆",
     "translatedWords": [
-        "𐝫𐚬𐙍",
+        "𐚬𐙍",
         "1",
         "𐝆𐝆"
     ],
     "transliteratedWords": [
-        "𐝫𐚬𐙍",
+        "𐚬𐙍",
         "1",
         "𐝆𐝆"
     ],
@@ -18051,12 +19363,12 @@ var inscriptions = [
     "tracingImage": "images/PH10-Tracing.jpg",
     "transcription": "𐚏𐘡𐚎𐙒𐝈𐝈",
     "translatedWords": [
-        "E",
+        "𐚏-E𐚎",
         "hide?",
         "𐝈𐝈"
     ],
     "transliteratedWords": [
-        "E",
+        "𐚏-E𐚎",
         "hide?",
         "𐝈𐝈"
     ],
@@ -18155,17 +19467,71 @@ var inscriptions = [
     ]
 },
 {
+    "image": "images/PH13a-Inscription.jpg",
+    "name": "PH13a",
+    "parsedInscription": "𐝫𐙒𐙴𐝫𐝃𐝃",
+    "tracingImage": "images/PH13a-Tracing.jpg",
+    "transcription": "𐝫𐝃𐝃𐙒𐙴𐝫",
+    "translatedWords": [
+        "𐙒𐙴",
+        "𐝫𐝃𐝃"
+    ],
+    "transliteratedWords": [
+        "𐙒𐙴",
+        "𐝫𐝃𐝃"
+    ],
+    "words": [
+        "𐝫𐙒𐙴",
+        "𐝫𐝃𐝃"
+    ]
+},
+{
+    "image": "images/PH13b-Inscription.jpg",
+    "name": "PH13b",
+    "parsedInscription": "𐝫𐚐",
+    "tracingImage": "images/PH13b-Tracing.jpg",
+    "transcription": "𐝫𐚐",
+    "translatedWords": [
+        "𐚐"
+    ],
+    "transliteratedWords": [
+        "𐚐"
+    ],
+    "words": [
+        "𐝫𐚐"
+    ]
+},
+{
+    "image": "images/PH13c-Inscription.jpg",
+    "name": "PH13c",
+    "parsedInscription": "𐝫𐘃𐙀𐝃𐝃𐝫",
+    "tracingImage": "images/PH13c-Tracing.jpg",
+    "transcription": "𐝫𐝃𐝃𐙀𐘃𐝫",
+    "translatedWords": [
+        "TE𐙀",
+        "𐝃𐝃𐝫"
+    ],
+    "transliteratedWords": [
+        "TE𐙀",
+        "𐝃𐝃𐝫"
+    ],
+    "words": [
+        "𐝫𐘃𐙀",
+        "𐝃𐝃𐝫"
+    ]
+},
+{
     "image": "images/PH14a-Inscription.jpg",
     "name": "PH14a",
     "parsedInscription": "𐝫𐘱𐙘𐘝",
     "tracingImage": "images/PH14a-Tracing.jpg",
     "transcription": "𐝫𐘝𐙘𐘱𐝫",
     "translatedWords": [
-        "JA",
+        "JA𐙘",
         "figs"
     ],
     "transliteratedWords": [
-        "JA",
+        "JA𐙘",
         "figs"
     ],
     "words": [
@@ -18218,11 +19584,11 @@ var inscriptions = [
     "tracingImage": "images/PH15b-Tracing.jpg",
     "transcription": "𐝫𐚑𐙒𐝫",
     "translatedWords": [
-        "𐝫𐚑",
+        "𐚑",
         "hide?"
     ],
     "transliteratedWords": [
-        "𐝫𐚑",
+        "𐚑",
         "hide?"
     ],
     "words": [
@@ -18281,11 +19647,11 @@ var inscriptions = [
     "tracingImage": "images/PH26-Tracing.jpg",
     "transcription": "𐝫𐙦𐝔𐝫",
     "translatedWords": [
-        "𐝫𐙦",
+        "𐙦",
         "𐝃𐝏𐝏𐝏𐝫"
     ],
     "transliteratedWords": [
-        "𐝫𐙦",
+        "𐙦",
         "𐝃𐝏𐝏𐝏𐝫"
     ],
     "words": [
@@ -18336,10 +19702,10 @@ var inscriptions = [
     "translatedWords": [
         "𐝫",
         "\n",
-        "A",
+        "A𐘰",
         "𐄁",
         "\n",
-        "JA-KI",
+        "JA-KI𐘰",
         "𐄁",
         "\n",
         "A-RI-JA"
@@ -18347,10 +19713,10 @@ var inscriptions = [
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "A",
+        "A𐘰",
         "𐄁",
         "\n",
-        "JA-KI",
+        "JA-KI𐘰",
         "𐄁",
         "\n",
         "A-RI-JA"
@@ -18372,7 +19738,7 @@ var inscriptions = [
     "name": "PH28b",
     "parsedInscription": "𐝫\n𐝫𐄙𐄈𐝫\n𐝫𐄈\n𐙘𐄌\n𐝫𐄌\n𐝮",
     "tracingImage": "images/PH28b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐄙𐄈𐝫\n𐝫𐄈𐙘𐄌\n𐝫𐄌𐝮\n\n",
+    "transcription": "𐝫\n𐝫𐄙𐄈𐝫\n𐝫𐄈𐙘𐄌\n𐝫𐄌𐝮",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -18421,7 +19787,7 @@ var inscriptions = [
     "name": "ZA4a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘡𐝫\n𐝫𐘢𐝫𐄁𐝫𐘈𐝫𐝫𐄋\n𐘱𐘄𐘱𐝫𐝫𐄉𐝫\n𐘇𐘠𐘘𐄊\n𐘱𐘂𐄇𐝫\n𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊\n𐘛𐘯𐙁𐘙𐄐𐄉\n𐘤𐘢𐘸𐄋\n𐘡𐙃𐄔\n𐘾𐘆𐄉",
     "tracingImage": "images/ZA4a-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘡𐝫\n𐘢𐝫𐄁𐝫𐘈𐝫𐄋𐘱𐘄𐘱\n𐝫𐄉𐝫𐘇𐘠𐘘𐄊𐘱\n𐘂𐄇𐝫𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊𐘛\n𐘯𐙁𐘙𐄐𐄉𐘤𐘢\n𐘸𐄋𐘡𐙃𐄔\n𐘾𐘆𐄉\n\n\n\n",
+    "transcription": "𐝫\n𐝫𐘡𐝫\n𐘢𐝫𐄁𐝫𐘈𐝫𐄋𐘱𐘄𐘱\n𐝫𐄉𐝫𐘇𐘠𐘘𐄊𐘱\n𐘂𐄇𐝫𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊𐘛\n𐘯𐙁𐘙𐄐𐄉𐘤𐘢\n𐘸𐄋𐘡𐙃𐄔\n𐘾𐘆𐄉",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -18447,16 +19813,16 @@ var inscriptions = [
         "TU-ME-SE",
         "18",
         "\n",
-        "QE-SI-E",
+        "QE-SI𐙀-E",
         "4",
         "\n",
-        "NU-MA-RE",
+        "𐘛-NU-MA-RE",
         "13",
         "\n",
         "SI-PI-KI",
         "5",
         "\n",
-        "E",
+        "E𐙃",
         "50",
         "\n",
         "KA-DI",
@@ -18487,16 +19853,16 @@ var inscriptions = [
         "TU-ME-SE",
         "18",
         "\n",
-        "QE-SI-E",
+        "QE-SI𐙀-E",
         "4",
         "\n",
-        "NU-MA-RE",
+        "𐘛-NU-MA-RE",
         "13",
         "\n",
         "SI-PI-KI",
         "5",
         "\n",
-        "E",
+        "E𐙃",
         "50",
         "\n",
         "KA-DI",
@@ -18546,41 +19912,38 @@ var inscriptions = [
 {
     "image": "images/ZA4b-Inscription.jpg",
     "name": "ZA4b",
-    "parsedInscription": "𐝫\n𐝫𐙍𐄙𐄊𐝫\n",
+    "parsedInscription": "𐝫\n𐝫𐙍𐄙𐄊𐝫",
     "tracingImage": "images/ZA4b-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐙍𐄙𐄊𐝫\n",
+    "transcription": "𐝫\n𐝫𐙍𐄙𐄊𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
         "wine",
-        "104",
-        "\n"
+        "104"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
         "wine",
-        "104",
-        "\n"
+        "104"
     ],
     "words": [
         "𐝫",
         "\n",
         "𐝫𐙍",
-        "𐄙𐄊𐝫",
-        "\n"
+        "𐄙𐄊𐝫"
     ]
 },
 {
     "image": "images/ZA5a-Inscription.jpg",
     "name": "ZA5a",
-    "parsedInscription": "𐘐𐙈𐄁𐙍𐘲\n𐘸𐘝𐙁𐄍\n𐘵𐘳𐘝𐘍𐘈𐄌\n𐘞𐘻𐘀𐘡𐝫\n𐝫\n\n𐝫\n𐝫\n𐝫",
+    "parsedInscription": "𐘐𐙈𐄁𐙍𐘲\n𐘸𐘝𐙁𐄍\n𐘵𐘳𐘝𐘍𐘈𐄌\n𐘞𐘻𐘀𐘡𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
     "tracingImage": "images/ZA5a-Tracing.jpg",
-    "transcription": "𐘐𐙈𐄁𐙍𐘲𐘸𐘝\n𐙁𐄍𐘵𐘳𐘝𐘍\n𐘈𐄌𐘞𐘻𐘀𐘡\n𐝫\n\n\n\n\n",
+    "transcription": "𐘐𐙈𐄁𐙍𐘲𐘸𐘝\n𐙁𐄍𐘵𐘳𐘝𐘍\n𐘈𐄌𐘞𐘻𐘀𐘡\n𐝫",
     "translatedWords": [
         "𐘐𐙈",
         "𐄁",
-        "SU",
+        "𐙍-SU",
         "\n",
         "KI-NI-MA",
         "7",
@@ -18591,7 +19954,6 @@ var inscriptions = [
         "SA-MI-DA-E",
         "\n",
         "𐝫",
-        "\n",
         "\n",
         "𐝫",
         "\n",
@@ -18602,7 +19964,7 @@ var inscriptions = [
     "transliteratedWords": [
         "𐘐𐙈",
         "𐄁",
-        "SU",
+        "𐙍-SU",
         "\n",
         "KI-NI-MA",
         "7",
@@ -18613,7 +19975,6 @@ var inscriptions = [
         "SA-MI-DA-E",
         "\n",
         "𐝫",
-        "\n",
         "\n",
         "𐝫",
         "\n",
@@ -18636,7 +19997,6 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "\n",
         "𐝫",
         "\n",
         "𐝫",
@@ -18647,11 +20007,11 @@ var inscriptions = [
 {
     "image": "images/ZA5b-Inscription.jpg",
     "name": "ZA5b",
-    "parsedInscription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆\n𐙁𐘾𐘚𐘳𐄉\n",
+    "parsedInscription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆\n𐙁𐘾𐘚𐘳𐄉",
     "tracingImage": "images/ZA5b-Tracing.jpg",
-    "transcription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆𐙁𐘾\n𐘚𐘳𐄉\n",
+    "transcription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆𐙁𐘾\n𐘚𐘳𐄉",
     "translatedWords": [
-        "NU-MA-RE",
+        "𐘛-NU-MA-RE",
         "20",
         "\n",
         "SI-PI-KI",
@@ -18659,11 +20019,10 @@ var inscriptions = [
         "¹⁄₂",
         "\n",
         "MA-KA-I-TA",
-        "3",
-        "\n"
+        "3"
     ],
     "transliteratedWords": [
-        "NU-MA-RE",
+        "𐘛-NU-MA-RE",
         "20",
         "\n",
         "SI-PI-KI",
@@ -18671,8 +20030,7 @@ var inscriptions = [
         "¹⁄₂",
         "\n",
         "MA-KA-I-TA",
-        "3",
-        "\n"
+        "3"
     ],
     "words": [
         "𐘛𐘯𐙁𐘙",
@@ -18683,8 +20041,7 @@ var inscriptions = [
         "𐝆",
         "\n",
         "𐙁𐘾𐘚𐘳",
-        "𐄉",
-        "\n"
+        "𐄉"
     ]
 },
 {
@@ -18692,13 +20049,13 @@ var inscriptions = [
     "name": "ZA6a",
     "parsedInscription": "𐙙𐘮𐘅𐙑𐄐𐄏\n𐘟𐘶𐘃𐘻𐝫\n𐝫𐄙𐄗\n𐘚𐘈𐝫\n𐝫𐙋𐄐𐄋\n𐝫𐙋𐄐\n𐘚𐝫\n𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫\n𐝫𐙋𐝫\n𐝫𐄑𐄋\n𐙘𐝫\n𐝫𐄑\n𐘚𐘈𐝫𐄁",
     "tracingImage": "images/ZA6a-Tracing.jpg",
-    "transcription": "𐙙𐘮𐘅𐙑𐄐𐄏𐘟𐘶\n𐘃𐘻𐝫𐄙𐄗\n𐘚𐘈𐝫𐙋\n𐄐𐄋𐝫𐙋𐄐\n𐘚𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫𐙋𐝫\n𐝫𐄑𐄋𐙘𐝫\n𐝫𐄑𐘚𐘈\n𐝫𐄁\n\n\n\n\n",
+    "transcription": "𐙙𐘮𐘅𐙑𐄐𐄏𐘟𐘶\n𐘃𐘻𐝫𐄙𐄗\n𐘚𐘈𐝫𐙋\n𐄐𐄋𐝫𐙋𐄐\n𐘚𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫𐙋𐝫\n𐝫𐄑𐄋𐙘𐝫\n𐝫𐄑𐘚𐘈\n𐝫𐄁",
     "translatedWords": [
-        "WA-NA",
+        "𐙙-WA-NA",
         "fodder?",
         "19",
         "\n",
-        "JU-TE-MI",
+        "𐘟-JU-TE-MI",
         "\n",
         "180",
         "\n",
@@ -18714,8 +20071,8 @@ var inscriptions = [
         "\n",
         "2",
         "\n",
-        "𐝫𐘜𐘽",
-        "𐛭𐝫",
+        "𐘜𐘽",
+        "𐛭",
         "\n",
         "20",
         "\n",
@@ -18731,11 +20088,11 @@ var inscriptions = [
         "I-SE"
     ],
     "transliteratedWords": [
-        "WA-NA",
+        "𐙙-WA-NA",
         "fodder?",
         "19",
         "\n",
-        "JU-TE-MI",
+        "𐘟-JU-TE-MI",
         "\n",
         "180",
         "\n",
@@ -18751,8 +20108,8 @@ var inscriptions = [
         "\n",
         "2",
         "\n",
-        "𐝫𐘜𐘽",
-        "𐛭𐝫",
+        "𐘜𐘽",
+        "𐛭",
         "\n",
         "20",
         "\n",
@@ -18808,11 +20165,11 @@ var inscriptions = [
 {
     "image": "images/ZA6b-Inscription.jpg",
     "name": "ZA6b",
-    "parsedInscription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓\n𐜁𐄐\n𐙢𐘷𐛭𐄓𐝫\n𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫\n",
+    "parsedInscription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓\n𐜁𐄐\n𐙢𐘷𐛭𐄓𐝫\n𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫",
     "tracingImage": "images/ZA6b-Tracing.jpg",
-    "transcription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓𐜁𐄐𐙢𐘷\n𐛭𐄓𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫\n\n\n",
+    "transcription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓𐜁𐄐𐙢𐘷\n𐛭𐄓𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫",
     "translatedWords": [
-        "I-KU-JU-TI",
+        "I-KU-JU-TI𐘛",
         "𐛭",
         "50",
         "¹⁄₄",
@@ -18833,11 +20190,10 @@ var inscriptions = [
         "\n",
         "PA-ZA",
         "\n",
-        "I-MA",
-        "\n"
+        "I-MA"
     ],
     "transliteratedWords": [
-        "I-KU-JU-TI",
+        "I-KU-JU-TI𐘛",
         "𐛭",
         "50",
         "¹⁄₄",
@@ -18858,8 +20214,7 @@ var inscriptions = [
         "\n",
         "PA-ZA",
         "\n",
-        "I-MA",
-        "\n"
+        "I-MA"
     ],
     "words": [
         "𐘚𐙂𐘶𐘠𐘛",
@@ -18883,16 +20238,15 @@ var inscriptions = [
         "\n",
         "𐘂𐘍𐝫",
         "\n",
-        "𐝫𐘚𐙁𐝫",
-        "\n"
+        "𐝫𐘚𐙁𐝫"
     ]
 },
 {
     "image": "images/ZA7a-Inscription.jpg",
     "name": "ZA7a",
-    "parsedInscription": "𐘉𐘶𐄋\n𐘇𐘴𐘹𐄊\n𐘇𐘙𐘹𐘻𐝫\n\n𐝫\n",
+    "parsedInscription": "𐘉𐘶𐄋\n𐘇𐘴𐘹𐄊\n𐘇𐘙𐘹𐘻𐝫\n𐝫",
     "tracingImage": "images/ZA7a-Tracing.jpg",
-    "transcription": "𐘉𐘶𐄋𐘇\n𐘴𐘹𐄊𐘇𐘙𐘹\n𐘻𐝫\n𐝫\n\n",
+    "transcription": "𐘉𐘶𐄋𐘇\n𐘴𐘹𐄊𐘇𐘙𐘹\n𐘻𐝫\n𐝫",
     "translatedWords": [
         "U-JU",
         "5",
@@ -18902,9 +20256,7 @@ var inscriptions = [
         "\n",
         "A-RE-TU-MI",
         "\n",
-        "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ],
     "transliteratedWords": [
         "U-JU",
@@ -18915,9 +20267,7 @@ var inscriptions = [
         "\n",
         "A-RE-TU-MI",
         "\n",
-        "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ],
     "words": [
         "𐘉𐘶",
@@ -18928,20 +20278,17 @@ var inscriptions = [
         "\n",
         "𐘇𐘙𐘹𐘻𐝫",
         "\n",
-        "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ]
 },
 {
     "image": "images/ZA7b-Inscription.jpg",
     "name": "ZA7b",
-    "parsedInscription": "𐘇𐙁𐝫\n\n𐝫𐝄𐝉𐝫\n𐝫",
+    "parsedInscription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫\n𐝫",
     "tracingImage": "images/ZA7b-Tracing.jpg",
-    "transcription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫\n\n",
+    "transcription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫",
     "translatedWords": [
         "A-MA",
-        "\n",
         "\n",
         "𐝫𐝄𐝉𐝫",
         "\n",
@@ -18950,14 +20297,12 @@ var inscriptions = [
     "transliteratedWords": [
         "A-MA",
         "\n",
-        "\n",
         "𐝫𐝄𐝉𐝫",
         "\n",
         "𐝫"
     ],
     "words": [
         "𐘇𐙁𐝫",
-        "\n",
         "\n",
         "𐝫𐝄𐝉𐝫",
         "\n",
@@ -18969,7 +20314,7 @@ var inscriptions = [
     "name": "ZA8",
     "parsedInscription": "𐘸𐘴𐄁\n𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝂𐝂\n𐘇𐘭𐘝𐘳𐄇𐝫𐝁𐝁\n𐘳𐘚𐘯𐙁𐘂𐝆\n𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝁𐝁",
     "tracingImage": "images/ZA8-Tracing.jpg",
-    "transcription": "𐘸𐘴𐄁𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝓𐘇𐘭\n𐘝𐘳𐄇𐝫𐝁𐝁𐘳𐘚𐘯𐙁\n𐘂𐝆𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝒\n\n",
+    "transcription": "𐘸𐘴𐄁𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝓𐘇𐘭\n𐘝𐘳𐄇𐝫𐝁𐝁𐘳𐘚𐘯𐙁\n𐘂𐝆𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝒",
     "translatedWords": [
         "balance",
         "𐄁",
@@ -19069,7 +20414,7 @@ var inscriptions = [
     "name": "ZA9",
     "parsedInscription": "𐝫𐘯𐘠𐄁\n𐘍𐝫\n𐝫𐘴𐚽𐄋\n𐝫\n𐝫𐘁𐘤𐘴𐝫𐚽𐄊\n𐘇𐘳𐘅𐝫𐄁𐝫𐚽𐄈\n𐝫𐄁𐝫𐙁𐘶𐘓𐄈\n𐘣𐘴𐘙𐘻𐘃𐘓𐄇",
     "tracingImage": "images/ZA9-Tracing.jpg",
-    "transcription": "𐝫𐘯𐘠𐄁𐘍𐝫\n𐝫𐝢𐚽𐄋𐝫\n𐝫𐘁𐘤𐝢\n𐝫𐚽𐄊𐘇𐘳𐘅𐝫𐄁𐝫\n𐚽𐄈𐝫𐄁𐝫𐙁𐘶𐘐𐄈\n𐘣𐝢𐘙𐘻𐘃𐘐𐄇\n\n",
+    "transcription": "𐝫𐘯𐘠𐄁𐘍𐝫\n𐝫𐝢𐚽𐄋𐝫\n𐝫𐘁𐘤𐝢\n𐝫𐚽𐄊𐘇𐘳𐘅𐝫𐄁𐝫\n𐚽𐄈𐝫𐄁𐝫𐙁𐘶𐘐𐄈\n𐘣𐝢𐘙𐘻𐘃𐘐𐄇",
     "translatedWords": [
         "NU-TI",
         "𐄁",
@@ -19169,7 +20514,7 @@ var inscriptions = [
     "name": "ZA10a",
     "parsedInscription": "𐘳𐘅𐘃𐄈\n𐘂𐝫𐄇\n𐘇𐙂𐘻𐘅𐄇\n𐘇𐘳𐘅𐘃𐄇\n𐘇𐘻𐘀𐘉𐄇\n𐘇𐘬𐙂𐘻𐘅𐄇\n𐘀𐘚𐘢𐘳𐄇\n𐘬𐘙𐘍𐘈𐄈",
     "tracingImage": "images/ZA10a-Tracing.jpg",
-    "transcription": "𐘳𐘅𐘃𐄈𐘂𐝫𐄇𐘇𐙂\n𐘻𐘅𐄇𐘇𐘳𐘅𐝠𐄇\n𐘇𐘻𐘀𐘉𐄇𐘇𐘬\n𐙂𐘻𐘅𐄇𐘀𐘚𐘢\n𐘳𐄇𐘬𐘙𐘍𐘈𐄈\n\n\n",
+    "transcription": "𐘳𐘅𐘃𐄈𐘂𐝫𐄇𐘇𐙂\n𐘻𐘅𐄇𐘇𐘳𐘅𐝠𐄇\n𐘇𐘻𐘀𐘉𐄇𐘇𐘬\n𐙂𐘻𐘅𐄇𐘀𐘚𐘢\n𐘳𐄇𐘬𐘙𐘍𐘈𐄈",
     "translatedWords": [
         "TA-NA-TE",
         "2",
@@ -19251,16 +20596,16 @@ var inscriptions = [
     "name": "ZA10b",
     "parsedInscription": "𐘮𐚖𐄈\n𐘬𐘙𐘍𐘈𐙎𐄋\n𐘉𐘪𐄌\n𐙁𐘍𐄋\n𐙁𐘸𐘦𐘃𐄋\n𐘞𐙁𐄋\n𐘇𐘦𐄊\n𐘇𐘻𐘳𐄉\n𐘽𐘁𐘙𐄈\n𐘂𐘱𐘙𐄇\n𐘾𐙂𐘗𐘃𐝆\n𐘳𐄈\n𐘬𐄇𐝫",
     "tracingImage": "images/ZA10b-Tracing.jpg",
-    "transcription": "𐘮𐚖𐄈𐘬𐘙𐘍𐘈\n𐙎𐄋𐘉𐘪𐄌𐙁𐘍\n𐄋𐙁𐘸𐘦𐝠𐄋𐘞\n𐙁𐄋𐘇𐘦𐄊𐘇𐘻\n𐘳𐄉𐘽𐘁𐘙𐄈𐘂𐘱𐘙\n𐄇𐘾𐙂𐘗𐘃𐝆𐘳\n𐄈𐘬𐄇𐝫\n\n\n\n\n\n",
+    "transcription": "𐘮𐚖𐄈𐘬𐘙𐘍𐘈\n𐙎𐄋𐘉𐘪𐄌𐙁𐘍\n𐄋𐙁𐘸𐘦𐝠𐄋𐘞\n𐙁𐄋𐘇𐘦𐄊𐘇𐘻\n𐘳𐄉𐘽𐘁𐘙𐄈𐘂𐘱𐘙\n𐄇𐘾𐙂𐘗𐘃𐝆𐘳\n𐄈𐘬𐄇𐝫",
     "translatedWords": [
-        "WA",
+        "WA𐚖",
         "2",
         "\n",
         "DU-RE-ZA-SE",
         "wine",
         "5",
         "\n",
-        "U",
+        "U𐘪",
         "6",
         "\n",
         "MA-ZA",
@@ -19278,7 +20623,7 @@ var inscriptions = [
         "A-MI-TA",
         "3",
         "\n",
-        "RO-RE",
+        "𐘽-RO-RE",
         "2",
         "\n",
         "PA-JA-RE",
@@ -19294,14 +20639,14 @@ var inscriptions = [
         "1"
     ],
     "transliteratedWords": [
-        "WA",
+        "WA𐚖",
         "2",
         "\n",
         "DU-RE-ZA-SE",
         "wine",
         "5",
         "\n",
-        "U",
+        "U𐘪",
         "6",
         "\n",
         "MA-ZA",
@@ -19319,7 +20664,7 @@ var inscriptions = [
         "A-MI-TA",
         "3",
         "\n",
-        "RO-RE",
+        "𐘽-RO-RE",
         "2",
         "\n",
         "PA-JA-RE",
@@ -19381,14 +20726,14 @@ var inscriptions = [
     "name": "ZA11a",
     "parsedInscription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁\n𐛭𐝫\n𐝫𐘴𐙁𐘤𐙍𐝆𐝫\n𐝫𐘡𐙂𐘘𐄈𐝃\n𐘶𐝈𐝉\n𐙍𐝆\n𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫\n𐘢𐙠𐘇𐝫\n𐝫𐙋𐄈\n𐝫",
     "tracingImage": "images/ZA11a-Tracing.jpg",
-    "transcription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁𐛭𐝫\n𐝫𐘴𐙁𐘤\n𐙍𐝆𐝫𐝫𐘡𐙂𐘘𐄈\n𐝃𐘶𐝈𐝉𐙍𐝆𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫𐘢𐙠𐘇\n𐝫𐙋𐄈\n𐝫\n\n\n\n",
+    "transcription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁𐛭𐝫\n𐝫𐘴𐙁𐘤\n𐙍𐝆𐝫𐝫𐘡𐙂𐘘𐄈\n𐝃𐘶𐝈𐝉𐙍𐝆𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫𐘢𐙠𐘇\n𐝫𐙋𐄈\n𐝫",
     "translatedWords": [
-        "DI-DI-KO-RA-ME",
+        "DI-DI-KO-RA-ME𐘷",
         "𐄁",
         "𐛀",
         "𐄁",
         "\n",
-        "𐛭𐝫",
+        "𐛭",
         "\n",
         "RA-MA-SI",
         "wine",
@@ -19412,7 +20757,7 @@ var inscriptions = [
         "𐛭",
         "1",
         "\n",
-        "PI-A",
+        "PI𐙠-A",
         "\n",
         "olives",
         "2",
@@ -19420,12 +20765,12 @@ var inscriptions = [
         "𐝫"
     ],
     "transliteratedWords": [
-        "DI-DI-KO-RA-ME",
+        "DI-DI-KO-RA-ME𐘷",
         "𐄁",
         "𐛀",
         "𐄁",
         "\n",
-        "𐛭𐝫",
+        "𐛭",
         "\n",
         "RA-MA-SI",
         "wine",
@@ -19449,7 +20794,7 @@ var inscriptions = [
         "𐛭",
         "1",
         "\n",
-        "PI-A",
+        "PI𐙠-A",
         "\n",
         "olives",
         "2",
@@ -19499,18 +20844,18 @@ var inscriptions = [
     "name": "ZA11b",
     "parsedInscription": "𐘡𐘄𐘭𐛀𐄁\n𐘞𐙕𐘭𐄁𐛭𐄇𐝫\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈\n𐙂𐘂𐄁𐛭𐄉\n𐝫",
     "tracingImage": "images/ZA11b-Tracing.jpg",
-    "transcription": "𐘡𐘄𐘭𐛀𐄁𐘞𐙕𐘭𐄁𐛭𐄇\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈𐙂𐘂𐄁𐛭𐄉\n𐝫\n\n",
+    "transcription": "𐘡𐘄𐘭𐛀𐄁𐘞𐙕𐘭𐄁𐛭𐄇\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈𐙂𐘂𐄁𐛭𐄉\n𐝫",
     "translatedWords": [
         "E-TO-RI",
         "𐛀",
         "𐄁",
         "\n",
-        "SA-RI",
+        "SA𐙕-RI",
         "𐄁",
         "𐛭",
         "1",
         "\n",
-        "I",
+        "I𐙋",
         "1",
         "\n",
         "I-DE",
@@ -19530,12 +20875,12 @@ var inscriptions = [
         "𐛀",
         "𐄁",
         "\n",
-        "SA-RI",
+        "SA𐙕-RI",
         "𐄁",
         "𐛭",
         "1",
         "\n",
-        "I",
+        "I𐙋",
         "1",
         "\n",
         "I-DE",
@@ -19581,7 +20926,7 @@ var inscriptions = [
     "name": "ZA12a",
     "parsedInscription": "𐝫\n𐘂𐝫𐄕𐄊𐝫\n𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌",
     "tracingImage": "images/ZA12a-Tracing.jpg",
-    "transcription": "𐝫\n𐘂𐝫𐄕𐄊𐝫𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌\n",
+    "transcription": "𐝫\n𐘂𐝫𐄕𐄊𐝫𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -19628,40 +20973,37 @@ var inscriptions = [
 {
     "image": "images/ZA13-Inscription.jpg",
     "name": "ZA13",
-    "parsedInscription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫\n",
+    "parsedInscription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫",
     "tracingImage": "images/ZA13-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫\n",
+    "transcription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
         "SU-PA",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
         "SU-PA",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ],
     "words": [
         "𐝫",
         "\n",
         "𐝫𐘲𐘂𐝫",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ]
 },
 {
     "image": "images/ZA14-Inscription.jpg",
     "name": "ZA14",
-    "parsedInscription": "𐘋𐘸𐘆𐄇\n𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉\n𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇\n𐘹𐘻𐘠𐘍𐘈𐄓𐄋𐝫\n𐘂𐘯𐘿𐄈\n𐘱𐘣𐝫\n𐝫\n\n𐝫",
+    "parsedInscription": "𐘋𐘸𐘆𐄇\n𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉\n𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇\n𐘹𐘻𐘠𐘍𐘈𐄓𐄋𐝫\n𐘂𐘯𐘿𐄈\n𐘱𐘣𐝫\n𐝫\n𐝫",
     "tracingImage": "images/ZA14-Tracing.jpg",
-    "transcription": "𐘋𐘸𐘆𐄇𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇𐘹𐘻𐘠𐘍𐘈\n𐄓𐄋𐝫𐘂𐘯𐘿𐄈𐘱𐘣𐝫\n𐝫\n𐝫\n\n\n\n\n",
+    "transcription": "𐘋𐘸𐘆𐄇𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇𐘹𐘻𐘠𐘍𐘈\n𐄓𐄋𐝫𐘂𐘯𐘿𐄈𐘱𐘣𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "ME-KI-DI",
         "1",
@@ -19669,7 +21011,7 @@ var inscriptions = [
         "𐘐𐙈",
         "1",
         "\n",
-        "PU-NI-KA",
+        "PU-NI-KA𐚗",
         "3",
         "\n",
         "QA-TI-JU",
@@ -19687,7 +21029,6 @@ var inscriptions = [
         "JA-WI",
         "\n",
         "𐝫",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -19698,7 +21039,7 @@ var inscriptions = [
         "𐘐𐙈",
         "1",
         "\n",
-        "PU-NI-KA",
+        "PU-NI-KA𐚗",
         "3",
         "\n",
         "QA-TI-JU",
@@ -19716,7 +21057,6 @@ var inscriptions = [
         "JA-WI",
         "\n",
         "𐝫",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -19746,7 +21086,6 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "\n",
         "𐝫"
     ]
 },
@@ -19755,23 +21094,23 @@ var inscriptions = [
     "name": "ZA15a",
     "parsedInscription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐\n𐘋𐙍\n𐘻𐘍𐘈𐄉\n𐘛𐘯𐙁𐘙𐄌\n𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋\n𐘞𐘻𐘀𐘡𐄊\n𐚗𐘥𐙁𐘈𐄋",
     "tracingImage": "images/ZA15a-Tracing.jpg",
-    "transcription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐𐘋𐙍\n𐘻𐘍𐘈𐄉𐘛𐘯𐙁\n𐘙𐄌𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋𐘞𐘻𐘀\n𐘡𐄊𐚗𐘥𐙁𐘈𐄋\n\n\n",
+    "transcription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐𐘋𐙍\n𐘻𐘍𐘈𐄉𐘛𐘯𐙁\n𐘙𐄌𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋𐘞𐘻𐘀\n𐘡𐄊𐚗𐘥𐙁𐘈𐄋",
     "translatedWords": [
-        "KU-NA",
-        "SA",
+        "𐘨-KU-NA",
+        "SA𐙍",
         "\n",
-        "QE-SI-E",
+        "QE-SI𐙀-E",
         "57",
         "\n",
         "Itanos",
         "10",
         "\n",
-        "ME",
+        "ME𐙍",
         "\n",
         "MI-ZA-SE",
         "3",
         "\n",
-        "NU-MA-RE",
+        "𐘛-NU-MA-RE",
         "6",
         "\n",
         "SI-PI-KI",
@@ -19784,25 +21123,25 @@ var inscriptions = [
         "SA-MI-DA-E",
         "4",
         "\n",
-        "KE-MA-SE",
+        "𐚗-KE-MA-SE",
         "5"
     ],
     "transliteratedWords": [
-        "KU-NA",
-        "SA",
+        "𐘨-KU-NA",
+        "SA𐙍",
         "\n",
-        "QE-SI-E",
+        "QE-SI𐙀-E",
         "57",
         "\n",
         "I-TI-NI-SA",
         "10",
         "\n",
-        "ME",
+        "ME𐙍",
         "\n",
         "MI-ZA-SE",
         "3",
         "\n",
-        "NU-MA-RE",
+        "𐘛-NU-MA-RE",
         "6",
         "\n",
         "SI-PI-KI",
@@ -19815,7 +21154,7 @@ var inscriptions = [
         "SA-MI-DA-E",
         "4",
         "\n",
-        "KE-MA-SE",
+        "𐚗-KE-MA-SE",
         "5"
     ],
     "words": [
@@ -19853,9 +21192,9 @@ var inscriptions = [
 {
     "image": "images/ZA15b-Inscription.jpg",
     "name": "ZA15b",
-    "parsedInscription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍\n",
+    "parsedInscription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍",
     "tracingImage": "images/ZA15b-Tracing.jpg",
-    "transcription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍\n",
+    "transcription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍",
     "translatedWords": [
         "KA-DI",
         "𐄁",
@@ -19870,8 +21209,7 @@ var inscriptions = [
         "76",
         "\n",
         "𐛿",
-        "17",
-        "\n"
+        "17"
     ],
     "transliteratedWords": [
         "KA-DI",
@@ -19887,8 +21225,7 @@ var inscriptions = [
         "76",
         "\n",
         "𐛿",
-        "17",
-        "\n"
+        "17"
     ],
     "words": [
         "𐘾𐘆",
@@ -19904,16 +21241,15 @@ var inscriptions = [
         "𐄖𐄎",
         "\n",
         "𐛿",
-        "𐄐𐄍",
-        "\n"
+        "𐄐𐄍"
     ]
 },
 {
     "image": "images/ZA16-Inscription.jpg",
     "name": "ZA16",
-    "parsedInscription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫\n𐝫𐘲𐄊𐝫\n𐝫\n",
+    "parsedInscription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫\n𐝫𐘲𐄊𐝫\n𐝫",
     "tracingImage": "images/ZA16-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫𐘲𐄊𐝫\n𐝫\n\n",
+    "transcription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫𐘲𐄊𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -19927,8 +21263,7 @@ var inscriptions = [
         "SU",
         "4",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -19943,8 +21278,7 @@ var inscriptions = [
         "SU",
         "4",
         "\n",
-        "𐝫",
-        "\n"
+        "𐝫"
     ],
     "words": [
         "𐝫",
@@ -19959,21 +21293,48 @@ var inscriptions = [
         "𐝫𐘲",
         "𐄊𐝫",
         "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/ZA17-Inscription.jpg",
+    "name": "ZA17",
+    "parsedInscription": "𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/ZA17-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫",
+    "translatedWords": [
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
     ]
 },
 {
     "image": "images/ZA18a-Inscription.jpg",
     "name": "ZA18a",
-    "parsedInscription": "𐘀𐘙𐙂𐝫𐝫𐄁\n𐙂𐙭𐄁𐛭𐄈𐝂𐝂\n𐙉𐝫𐄈𐝂𐝂\n𐜓𐝁𐝁\n𐙋𐝃\n\n𐝫",
+    "parsedInscription": "𐘀𐘙𐙂𐝫𐝫𐄁\n𐙂𐙭𐄁𐛭𐄈𐝂𐝂\n𐙉𐝫𐄈𐝂𐝂\n𐜓𐝁𐝁\n𐙋𐝃\n𐝫",
     "tracingImage": "images/ZA18a-Tracing.jpg",
-    "transcription": "𐘀𐘙𐙂𐝫𐄁𐙂𐙭𐄁𐛭𐄈𐝓\n𐙉𐝫𐄈𐝓𐜓𐝒𐙋𐝃\n𐝫\n\n\n\n",
+    "transcription": "𐘀𐘙𐙂𐝫𐄁𐙂𐙭𐄁𐛭𐄈𐝓\n𐙉𐝫𐄈𐝓𐜓𐝒𐙋𐝃\n𐝫",
     "translatedWords": [
         "DA-RE-KU",
         "𐄁",
         "\n",
-        "KU",
+        "KU𐙭",
         "𐄁",
         "𐛭",
         "2",
@@ -19988,7 +21349,6 @@ var inscriptions = [
         "\n",
         "olives",
         "¹⁄₄",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -19996,7 +21356,7 @@ var inscriptions = [
         "DA-RE-KU",
         "𐄁",
         "\n",
-        "KU",
+        "KU𐙭",
         "𐄁",
         "𐛭",
         "2",
@@ -20011,7 +21371,6 @@ var inscriptions = [
         "\n",
         "olives",
         "¹⁄₄",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -20034,7 +21393,6 @@ var inscriptions = [
         "\n",
         "𐙋",
         "𐝃",
-        "\n",
         "\n",
         "𐝫"
     ]
@@ -20070,9 +21428,9 @@ var inscriptions = [
 {
     "image": "images/ZA20-Inscription.jpg",
     "name": "ZA20",
-    "parsedInscription": "𐝫\n𐝫𐘬𐘙𐘍𐘈𐝫𐝫𐘻𐝫\n𐝫𐄁𐄊\n𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌\n𐘃𐙌𐄐𐄈\n𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐘬𐘙𐘍𐘈𐝫𐝫𐘻𐝫\n𐝫𐄁𐄊\n𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌\n𐘃𐙌𐄐𐄈\n𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫",
     "tracingImage": "images/ZA20-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘬𐘙𐘍\n𐘈𐝫𐘻𐝫𐄁𐝫𐄊𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌𐘃𐙌𐄐𐄈𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫\n\n\n\n",
+    "transcription": "𐝫\n𐝫𐘬𐘙𐘍\n𐘈𐝫𐘻𐝫𐄁𐝫𐄊𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌𐘃𐙌𐄐𐄈𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -20088,7 +21446,7 @@ var inscriptions = [
         "SI-TU",
         "6",
         "\n",
-        "TE",
+        "TE𐙌",
         "12",
         "\n",
         "RU-MA-TA-SE",
@@ -20096,7 +21454,6 @@ var inscriptions = [
         "\n",
         "total",
         "130",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -20115,7 +21472,7 @@ var inscriptions = [
         "SI-TU",
         "6",
         "\n",
-        "TE",
+        "TE𐙌",
         "12",
         "\n",
         "RU-MA-TA-SE",
@@ -20123,7 +21480,6 @@ var inscriptions = [
         "\n",
         "KU-RA",
         "130",
-        "\n",
         "\n",
         "𐝫"
     ],
@@ -20151,7 +21507,6 @@ var inscriptions = [
         "𐙂𐘴",
         "𐄙𐄒",
         "\n",
-        "\n",
         "𐝫"
     ]
 },
@@ -20160,7 +21515,7 @@ var inscriptions = [
     "name": "ZA21a",
     "parsedInscription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁𐝫\n𐝫𐘃𐄈\n𐘳𐘥𐝫\n𐝫\n𐝫𐘂𐝫𐄋\n𐘳𐙁𐘢𐝫\n𐝫𐄉\n𐘇𐝫\n𐝫𐙈𐘻𐝫𐝫𐄈",
     "tracingImage": "images/ZA21a-Tracing.jpg",
-    "transcription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁𐝫𐘃𐄈𐘳𐘥\n𐝫\n𐝫𐘂𐝫𐄋𐘳𐙁𐘢𐝫\n𐝫𐄉𐘇𐝫𐝫𐙈𐘻𐝫𐄈\n\n\n\n\n",
+    "transcription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁𐝫𐘃𐄈𐘳𐘥\n𐝫\n𐝫𐘂𐝫𐄋𐘳𐙁𐘢𐝫\n𐝫𐄉𐘇𐝫𐝫𐙈𐘻𐝫𐄈",
     "translatedWords": [
         "ME",
         "\n",
@@ -20185,7 +21540,7 @@ var inscriptions = [
         "\n",
         "A",
         "\n",
-        "MI",
+        "𐙈-MI",
         "2"
     ],
     "transliteratedWords": [
@@ -20212,7 +21567,7 @@ var inscriptions = [
         "\n",
         "A",
         "\n",
-        "MI",
+        "𐙈-MI",
         "2"
     ],
     "words": [
@@ -20246,9 +21601,9 @@ var inscriptions = [
 {
     "image": "images/ZA21b-Inscription.jpg",
     "name": "ZA21b",
-    "parsedInscription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈\n𐘞𐘭𐝫\n𐝫\n𐝫\n\n𐘋",
+    "parsedInscription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈\n𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋",
     "tracingImage": "images/ZA21b-Tracing.jpg",
-    "transcription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋\n\n",
+    "transcription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋",
     "translatedWords": [
         "I-DA",
         "\n",
@@ -20257,7 +21612,6 @@ var inscriptions = [
         "2",
         "\n",
         "SA-RI",
-        "\n",
         "\n",
         "\n",
         "\n",
@@ -20274,7 +21628,6 @@ var inscriptions = [
         "\n",
         "\n",
         "\n",
-        "\n",
         "ME"
     ],
     "words": [
@@ -20288,16 +21641,15 @@ var inscriptions = [
         "\n",
         "\n",
         "\n",
-        "\n",
         "𐘋"
     ]
 },
 {
     "image": "images/ZA22-Inscription.jpg",
     "name": "ZA22",
-    "parsedInscription": "𐝫\n𐝫𐘓𐝫\n𐘔𐄇𐝫\n𐝫𐄇\n𐘴𐝫𐄁𐝫𐘓𐄇𐝫\n𐝫𐄌\n𐘬𐘶𐝫\n𐘓𐄙𐝫\n",
+    "parsedInscription": "𐝫\n𐝫𐘓𐝫\n𐘔𐄇𐝫\n𐝫𐄇\n𐘴𐝫𐄁𐝫𐘓𐄇𐝫\n𐝫𐄌\n𐘬𐘶𐝫\n𐘓𐄙𐝫",
     "tracingImage": "images/ZA22-Tracing.jpg",
-    "transcription": "𐝫\n𐝫𐘐𐝫\n𐘑𐄇𐝫\n𐝫𐄇𐘴𐝫𐄁𐝫𐘐𐄇𐝫\n𐝫𐄌𐘬𐘶𐝫\n𐘐𐄙𐝫\n\n\n",
+    "transcription": "𐝫\n𐝫𐘐𐝫\n𐘑𐄇𐝫\n𐝫𐄇𐘴𐝫𐄁𐝫𐘐𐄇𐝫\n𐝫𐄌𐘬𐘶𐝫\n𐘐𐄙𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -20313,7 +21665,6 @@ var inscriptions = [
         "𐝫",
         "she-goat",
         "1",
-        "\n",
         "\n",
         "\n",
         "\n",
@@ -20340,7 +21691,6 @@ var inscriptions = [
         "𐝫",
         "she-goat",
         "1",
-        "\n",
         "\n",
         "\n",
         "\n",
@@ -20370,7 +21720,6 @@ var inscriptions = [
         "\n",
         "\n",
         "\n",
-        "\n",
         "𐘴𐝫",
         "𐝫",
         "𐘓",
@@ -20378,6 +21727,71 @@ var inscriptions = [
         "𐘬𐘶𐝫",
         "𐘓",
         "𐄙𐝫"
+    ]
+},
+{
+    "image": "images/ZA23-Inscription.jpg",
+    "name": "ZA23",
+    "parsedInscription": "𐝫\n—\n𐝫𐘃𐘃𐝫\n𐝫𐘻𐘙𐝫",
+    "tracingImage": "images/ZA23-Tracing.jpg",
+    "transcription": "𐝫\n—\n𐝫𐘃𐘃𐝫\n𐝫𐘻𐘙𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "—",
+        "\n",
+        "TE-TE",
+        "\n",
+        "MI-RE"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "—",
+        "\n",
+        "TE-TE",
+        "\n",
+        "MI-RE"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "—",
+        "\n",
+        "𐝫𐘃𐘃𐝫",
+        "\n",
+        "𐝫𐘻𐘙𐝫"
+    ]
+},
+{
+    "image": "images/ZA24a-Inscription.jpg",
+    "name": "ZA24a",
+    "parsedInscription": "𐘚𐘀𐙉𐝫\n𐝫\n𐝫",
+    "tracingImage": "images/ZA24a-Tracing.jpg",
+    "transcription": "𐘚𐘀𐙉𐝫\n𐝫\n𐝫",
+    "translatedWords": [
+        "I-DA",
+        "grain",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "I-DA",
+        "grain",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐘚𐘀",
+        "𐙉𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫"
     ]
 },
 {
@@ -20407,7 +21821,7 @@ var inscriptions = [
     "name": "ZA26a",
     "parsedInscription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘓𐄐𐄉\n𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
     "tracingImage": "images/ZA26a-Tracing.jpg",
-    "transcription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘐𐄐𐄉𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫\n",
+    "transcription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘐𐄐𐄉𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
     "translatedWords": [
         "SI-TE",
         "𐄁",
@@ -20447,6 +21861,77 @@ var inscriptions = [
         "𐘱𐘸𐝫",
         "\n",
         "𐝫𐘸𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/ZA29-Inscription.jpg",
+    "name": "ZA29",
+    "parsedInscription": "𐝫\n𐝫𐙁𐄙𐝫\n𐝫𐘃𐝫\n𐝫",
+    "tracingImage": "images/ZA29-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐙁𐄙𐝫\n𐝫𐘃𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "MA",
+        "100",
+        "\n",
+        "TE",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "MA",
+        "100",
+        "\n",
+        "TE",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐙁",
+        "𐄙𐝫",
+        "\n",
+        "𐝫𐘃𐝫",
+        "\n",
+        "𐝫"
+    ]
+},
+{
+    "image": "images/ZA30-Inscription.jpg",
+    "name": "ZA30",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐄍𐝫\n𐝫",
+    "tracingImage": "images/ZA30-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫𐄍𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "7",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "7",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫𐄍𐝫",
         "\n",
         "𐝫"
     ]
