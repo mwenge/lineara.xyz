@@ -15,11 +15,17 @@
   padding: 5px;
 }
 input:focus::placeholder { color:transparent; }
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
 .item {
   float: left;
   font-family: 'CyproMinoan', serif;
   padding: 10px;
   border: 1px solid grey;
+  max-width: 150px;
 }
 .masthead {
   font-family: 'Courier', serif;
