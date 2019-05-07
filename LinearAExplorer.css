@@ -6,7 +6,7 @@
 }
 .search {
   font-family: 'Courier', serif;
-  width: 15%;
+  width: 200px;
   min-height: 5vh;
   display: inline-block;
   font-size: 5vh;
@@ -26,6 +26,7 @@ img {
   padding: 10px;
   border: 1px solid grey;
   max-width: 150px;
+  position: relative;
 }
 .masthead {
   font-family: 'Courier', serif;
@@ -39,10 +40,10 @@ img {
 }
 .masthead-container {
   position: fixed;
+  display: inline-flex;
   top: 0px;
   left: 0px;
   z-index: 100;
-  min-width: 100%;
   min-height: 5vh;
 }
 .label {
@@ -53,4 +54,18 @@ img {
   padding: 2px;
   color: white;
   opacity: 0.5;
+}
+.image-label {
+  position: fixed;
+  font-size: 10px;
+  background-color: gray;
+}
+
+.image-label > a:link, .image-label > a:visited { 
+  color: white;
+  text-decoration: none;
+}
+
+.image-label > a:link:active, .image-label > a:visited:active { 
+  color: white;
 }

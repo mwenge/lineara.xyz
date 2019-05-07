@@ -89,6 +89,9 @@ function loadInscription(inscription) {
     var span = document.createElement(elementName);
     if (elementName == "span") {
       span.textContent = word;
+      span.id = inscription.name + "-transcription-" + i;
+      span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
     }
     transcript.appendChild(span);
   }
@@ -102,6 +105,9 @@ function loadInscription(inscription) {
     var span = document.createElement(elementName);
     if (elementName == "span") {
       span.textContent = word + " ";
+      span.id = inscription.name + "-translation-" + i;
+      span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
     }
     transcript.appendChild(span);
   }
@@ -112,9 +118,27 @@ function loadInscription(inscription) {
   label.textContent = inscription.name;
   item.appendChild(label);
 
+
   container.appendChild(item);
 }
 
+function highlightWords(evt, name, index) {
+  var items = ["transcription", "translation"];
+  for (var i = 0; i < items.length; i++) {
+    var item = items[i];
+    var element = document.getElementById(name + "-" + item + "-" + index);
+    element.style.backgroundColor = "yellow";
+  }
+}
+
+function clearHighlight(evt, name, index) {
+  var items = ["transcription", "translation"];
+  for (var i = 0; i < items.length; i++) {
+    var item = items[i];
+    var element = document.getElementById(name + "-" + item + "-" + index);
+    element.style.backgroundColor = "";
+  }
+}
 function loadExplorer() {
   for (var i = 0; i < inscriptions.length; i++) {
     loadInscription(inscriptions[i]);
