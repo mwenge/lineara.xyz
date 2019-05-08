@@ -140,7 +140,7 @@ function clearHighlight(evt, name, index) {
   }
 }
 function loadExplorer() {
-  for (var i = 0; i < inscriptions.length; i++) {
+  for (var i = 0; i < 10; i++) {
     loadInscription(inscriptions[i]);
   }
 }
