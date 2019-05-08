@@ -8,5 +8,5 @@
   font-family: 'CyproMinoan';
   font-style: normal;
   font-weight: 400;
-  src: url(CMinoan.ttf) format('truetype'), url(CMinoan.woff) format('woff');
+  src: url('CMinoan.ttf') format('truetype'), url('CMinoan.woff') format('woff');
 }
