@@ -4,9 +4,3 @@
   font-weight: 400;
   src: local('Aegean Regular'), local('Aegean-Regular'), url(Aegean.ttf) format('truetype');
 }
-@font-face {
-  font-family: 'CyproMinoan';
-  font-style: normal;
-  font-weight: 400;
-  src: url('CMinoan.woff') format('woff');
-}
