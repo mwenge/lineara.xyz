@@ -30,20 +30,41 @@
 console.log("If you have any feedback or issues contact me @mwenge on Twitter")
 document.onkeydown = checkKey;
 function checkKey(e) {
-    e = e || window.event;
-    console.log(e.keyCode)
-    switch(e.keyCode) {
-      case 191:
-        // /
-        if (search == document.activeElement) {
-          return true;
-        }
-        search.focus();
-        return false;
-    }
+  e = e || window.event;
+  console.log(e.keyCode)
+  switch(e.keyCode) {
+    case 191:
+      // /
+      if (search == document.activeElement) {
+        return true;
+      }
+      search.focus();
+      return false;
+  }
 }
 
+function highlightMatchesInElement(element, searchTerm) {
+  for (var j = 0; j < element.children.length; j++) {
+    var span = element.children[j];
+    if (searchTerm != "" && span.textContent.includes(searchTerm)) {
+      span.style.backgroundColor = "yellow";
+      element.nextSibling.children[j].style.backgroundColor = "yellow";
+      highlightedSearchElements.push(span);
+      highlightedSearchElements.push(element.nextSibling.children[j]);
+    }
+  }
+}
+
+function clearHighlights() {
+  for (var index in highlightedSearchElements) {
+    highlightedSearchElements[index].style.backgroundColor = "";
+  }
+  highlightedSearchElements = [];
+}
+
+var highlightedSearchElements = [];
 function updateSearch(event) {
+  clearHighlights();
   var searchTerm = event.target.value;
   var allContainers = document.getElementsByClassName('item-container');
   for (var i = 0; i < allContainers.length; i++) {
@@ -52,6 +73,7 @@ function updateSearch(event) {
       var element = container.children[j];
       if (searchTerm == "" || element.textContent.includes(searchTerm)) {
         element.parentElement.style.display = "flex";
+        highlightMatchesInElement(element, searchTerm);
         break;
       } else {
         element.parentElement.style.display = "none";
@@ -60,6 +82,7 @@ function updateSearch(event) {
   } 
 }
 
+var wordsInCorpus = new Map();
 function loadInscription(inscription) {
   var item = document.createElement("div");
   item.className = 'item-container';
@@ -89,9 +112,17 @@ function loadInscription(inscription) {
     var span = document.createElement(elementName);
     if (elementName == "span") {
       span.textContent = word;
+
+      var searchTerm = word.replace(/𐝫/g, "");
+      if (wordsInCorpus.has(searchTerm)) {
+        wordsInCorpus.set(searchTerm, wordsInCorpus.get(searchTerm) + 1);
+      } else {
+        wordsInCorpus.set(searchTerm, 1);
+      }
       span.id = inscription.name + "-transcription-" + i;
       span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onclick", "searchForWord(event, '" + inscription.name + "', '" + i + "')");
     }
     transcript.appendChild(span);
   }
@@ -108,6 +139,7 @@ function loadInscription(inscription) {
       span.id = inscription.name + "-translation-" + i;
       span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onclick", "searchForWord(event, '" + inscription.name + "', '" + i + "')");
     }
     transcript.appendChild(span);
   }
@@ -118,8 +150,28 @@ function loadInscription(inscription) {
   label.textContent = inscription.name;
   item.appendChild(label);
 
-
   container.appendChild(item);
+}
+
+function updateTip(word) {
+  console.log(word);
+  word = word.replace(/𐝫/g, "");
+  if (!wordsInCorpus.has(word)) {
+    return;
+  }
+  var wordCount = wordsInCorpus.get(word) - 1;
+  var tipText = ""
+  switch(wordCount) {
+    case 0:
+      tipText = "There is no other instance of this word."
+      break;
+    case 1:
+      tipText = wordCount + " other instance of this word. Click word to view it."
+      break;
+    default:
+      tipText = wordCount + " other instances of this word. Click word to view them."
+  }
+  document.getElementById("tip").textContent = tipText;
 }
 
 function highlightWords(evt, name, index) {
@@ -127,18 +179,32 @@ function highlightWords(evt, name, index) {
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
+    updateTip(element.textContent);
     element.style.backgroundColor = "yellow";
   }
 }
 
 function clearHighlight(evt, name, index) {
+  document.getElementById("tip").textContent = "";
   var items = ["transcription", "translation"];
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
+    if (highlightedSearchElements.includes(element)) {
+      continue;
+    }
     element.style.backgroundColor = "";
   }
 }
+
+function searchForWord(evt, name, index) {
+  var element = document.getElementById(name + "-transcription-" + index);
+  var searchTerm = element.textContent.replace(/𐝫/g, "");
+  var searchBox = document.getElementById("search");
+  searchBox.value = searchTerm;
+  searchBox.dispatchEvent(new InputEvent("input"));
+}
+
 function loadExplorer() {
   for (var i = 0; i < inscriptions.length; i++) {
     loadInscription(inscriptions[i]);

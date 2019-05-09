@@ -61,6 +61,15 @@ img {
   background-color: gray;
 }
 
+.tip {
+  position: fixed;
+  left: 0;
+  bottom:0;
+  font-size: 25px;
+  color: white;
+  background-color: gray;
+}
+
 .image-label > a:link, .image-label > a:visited { 
   color: white;
   text-decoration: none;
