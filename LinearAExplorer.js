@@ -47,10 +47,16 @@ function highlightMatchesInElement(element, searchTerm) {
   for (var j = 0; j < element.children.length; j++) {
     var span = element.children[j];
     if (searchTerm != "" && span.textContent.includes(searchTerm)) {
-      span.style.backgroundColor = "yellow";
-      element.nextSibling.children[j].style.backgroundColor = "yellow";
-      highlightedSearchElements.push(span);
-      highlightedSearchElements.push(element.nextSibling.children[j]);
+      var inscription = element.getAttribute("inscription");
+      if (!inscription) {
+        continue;
+      }
+      var translation = document.getElementById(inscription + "-translation-" + j);
+      translation.style.backgroundColor = "yellow";
+      var transcription = document.getElementById(inscription + "-transcription-" + j);
+      transcription.style.backgroundColor = "yellow";
+      highlightedSearchElements.push(translation);
+      highlightedSearchElements.push(transcription);
     }
   }
 }
@@ -106,6 +112,7 @@ function loadInscription(inscription) {
 
   var transcript = document.createElement("div");
   transcript.className = 'item';
+  transcript.setAttribute("inscription", inscription.name);
   for (var i = 0; i < inscription.words.length; i++) {
     var word = inscription.words[i];
     var elementName = word == "\n" ? "br" : "span";
@@ -130,6 +137,7 @@ function loadInscription(inscription) {
 
   transcript = document.createElement("div");
   transcript.className = 'item';
+  transcript.setAttribute("inscription", inscription.name);
   for (var i = 0; i < inscription.translatedWords.length; i++) {
     var word = inscription.translatedWords[i];
     var elementName = word == "\n" ? "br" : "span";
