@@ -71,6 +71,7 @@ function clearHighlights() {
 var highlightedSearchElements = [];
 function updateSearch(event) {
   clearHighlights();
+  document.getElementById("search-terms").innerHTML = "";
   var searchTerm = event.target.value;
   var allContainers = document.getElementsByClassName('item-container');
   for (var i = 0; i < allContainers.length; i++) {
@@ -129,7 +130,7 @@ function loadInscription(inscription) {
       span.id = inscription.name + "-transcription-" + i;
       span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
-      span.setAttribute("onclick", "searchForWord(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onclick", "updateSearchTerms(event, '" + inscription.name + "', '" + i + "')");
     }
     transcript.appendChild(span);
   }
@@ -147,7 +148,7 @@ function loadInscription(inscription) {
       span.id = inscription.name + "-translation-" + i;
       span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
-      span.setAttribute("onclick", "searchForWord(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onclick", "updateSearchTerms(event, '" + inscription.name + "', '" + i + "')");
     }
     transcript.appendChild(span);
   }
@@ -157,6 +158,7 @@ function loadInscription(inscription) {
   label.className = 'label';
   label.textContent = inscription.name;
   item.appendChild(label);
+  inscription.element = item;
 
   container.appendChild(item);
 }
@@ -203,6 +205,60 @@ function clearHighlight(evt, name, index) {
     }
     element.style.backgroundColor = "";
   }
+}
+
+function updateSearchTerms(evt, name, index) {
+  var element = document.getElementById(name + "-transcription-" + index);
+  var searchTerm = element.textContent.replace(/𐝫/g, "");
+  var container = document.getElementById("search-terms");
+  var existingElement = document.getElementById(searchTerm);
+  if (existingElement) {
+    return;
+  }
+  var item = document.createElement("div");
+  item.className = 'search-term';
+  item.textContent = searchTerm;
+  item.id = searchTerm;
+  item.setAttribute("term", searchTerm);
+  item.setAttribute("onclick", "removeFilter(event)");
+  container.appendChild(item);
+  applySearchTerms();
+}
+
+function applySearchTerms() {
+  var searchTerms = document.getElementById("search-terms");
+  clearHighlights();
+  for (var i = 0; i < inscriptions.length; i++) {
+    var inscription = inscriptions[i];
+    var shouldDisplay = true;
+    for (var j = 0; j < searchTerms.children.length; j++) {
+      var element = searchTerms.children[j];
+      var searchTerm = element.textContent;
+    var searchTerm = element.textContent.replace(/𐝫/g, "");
+      if (!inscription.words.includes(searchTerm) &&
+          !inscription.words.map(x => x.replace(/𐝫/g, "")).includes(searchTerm)) {
+        shouldDisplay = false;
+        break;
+      }
+    }
+    if (!shouldDisplay) {
+      inscription.element.style.display = "none";
+      continue;
+    }
+    inscription.element.style.display = "flex";
+    for (index in searchTerms.children) {
+      var term = searchTerms.children[index].textContent;
+      for (var j = 0; j < inscription.element.children.length; j++) {
+        var element = inscription.element.children[j];
+        highlightMatchesInElement(element, term);
+      }
+    }
+  }
+}
+
+function removeFilter(evt) {
+  evt.target.parentElement.removeChild(evt.target);
+  applySearchTerms();
 }
 
 function searchForWord(evt, name, index) {

@@ -70,6 +70,21 @@ img {
   background-color: gray;
 }
 
+.search-terms {
+  position: fixed;
+  right: 0;
+  top:0;
+  padding: 10px;
+}
+
+.search-term {
+  margin: 10px;
+  padding: 5px;
+  font-size: 25px;
+  border: 1px solid black;
+  background-color: gray;
+  opacity: 0.5;
+}
 .image-label > a:link, .image-label > a:visited { 
   color: white;
   text-decoration: none;
