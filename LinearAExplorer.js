@@ -170,18 +170,21 @@ function updateTip(word) {
     return;
   }
   var wordCount = wordsInCorpus.get(word) - 1;
-  var tipText = ""
+  var tipText = "";
+  if (lexicon.has(word)) {
+    tipText += lexicon.get(word) + "<br>";
+  }
   switch(wordCount) {
     case 0:
-      tipText = "There is no other instance of this word."
+      tipText += "There is no other instance of this word."
       break;
     case 1:
-      tipText = wordCount + " other instance of this word. Click word to view it."
+      tipText += wordCount + " other instance of this word. Click word to view it."
       break;
     default:
-      tipText = wordCount + " other instances of this word. Click word to view them."
+      tipText += wordCount + " other instances of this word. Click word to view them."
   }
-  document.getElementById("tip").textContent = tipText;
+  document.getElementById("tip").innerHTML = tipText;
 }
 
 function highlightWords(evt, name, index) {
