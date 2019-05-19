@@ -31,7 +31,6 @@ console.log("If you have any feedback or issues contact me @mwenge on Twitter")
 document.onkeydown = checkKey;
 function checkKey(e) {
   e = e || window.event;
-  console.log(e.keyCode)
   switch(e.keyCode) {
     case 191: // '/' - focus search bar
       if (search == document.activeElement) {
@@ -42,7 +41,7 @@ function checkKey(e) {
     case 83: // 's' - sort inscriptions by closest edit distance to 
              // inscription currently hovered over
       var current = getInscriptionHoveredOver();
-      sortNearest(inscriptions.get(current.id).parsedInscription);
+      sortNearest(current);
       break;
   }
 }
@@ -180,8 +179,7 @@ function loadInscription(inscription) {
   container.appendChild(item);
 }
 
-function updateTip(word) {
-  console.log(word);
+function addWordTip(word) {
   word = word.replace(/𐝫/g, "");
   if (!wordsInCorpus.has(word)) {
     return;
@@ -218,12 +216,17 @@ function updateTip(word) {
   tip.appendChild(wordCommentElement);
 }
 
+function updateTipText(string) {
+  var tip = document.getElementById("tip");
+  tip.innerHTML = string;
+}
+
 function highlightWords(evt, name, index) {
   var items = ["transcription", "translation"];
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
-    updateTip(element.textContent);
+    addWordTip(element.textContent);
     element.style.backgroundColor = "yellow";
   }
 }
@@ -294,6 +297,32 @@ function removeFilter(evt) {
   applySearchTerms();
 }
 
+function resetSort(evt) {
+  var element = evt.target;
+  element.style.display = "none";
+  var p = document.getElementById('container');
+  Array.prototype.slice.call(p.children)
+    .map(function (x) { return p.removeChild(x); })
+    .sort(function(a, b) {
+          var x = a.id;
+          var y = b.id;
+          if (x < y) {
+            return -1;
+          }
+          if (x > y) {
+            return 1;
+          }
+          return 0;
+    })
+    .forEach(function (x) { p.appendChild(x); });
+}
+
+function updateSortStatus(inscription) {
+  var element = document.getElementById("sort-status");
+  element.textContent = "Sorted by " + inscription;
+  element.style.display = "flex";
+}
+
 function searchForWord(evt, name, index) {
   var element = document.getElementById(name + "-transcription-" + index);
   var searchTerm = element.textContent.replace(/𐝫/g, "");
@@ -308,7 +337,9 @@ function loadExplorer() {
   }
 }
 
-function sortNearest(string) {
+function sortNearest(current) {
+  var string = inscriptions.get(current.id).parsedInscription;
+  updateTipText("Sorting..");
   var p = document.getElementById('container');
   Array.prototype.slice.call(p.children)
     .map(function (x) { return p.removeChild(x); })
@@ -326,10 +357,18 @@ function sortNearest(string) {
           return 0;
     })
     .forEach(function (x) { p.appendChild(x); });
+  updateTipText("");
+  updateSortStatus(current.id);
 } 
 
 String.prototype.levenstein = function(string) {
+  if (typeof String.prototype.levenstein.cachedDistances == "undefined") {
+    String.prototype.levenstein.cachedDistances = new Map();
+  }
 	var a = this, b = string + "", m = [], i, j, min = Math.min;
+  if (String.prototype.levenstein.cachedDistances.has(a+b)) {
+    return String.prototype.levenstein.cachedDistances.get(a+b);
+  }
 
 	if (!(a && b)) return (b || a).length;
 
@@ -346,5 +385,8 @@ String.prototype.levenstein = function(string) {
 		}
 	}
 
-	return m[b.length][a.length];
+	var result = m[b.length][a.length];
+  String.prototype.levenstein.cachedDistances.set(a+b, result);
+  String.prototype.levenstein.cachedDistances.set(b+a, result);
+  return result;
 }
