@@ -1,5 +1,5 @@
-var inscriptions = [
-{
+var inscriptions = new Map([
+["HT1",{
     "image": "images/HT1-Inscription.jpg",
     "name": "HT1",
     "parsedInscription": "𐘿𐘽𐘉𐄁\n𐘸𐘁𐄙𐄘𐄍\n𐙀𐘲𐄖\n𐘆𐘆𐘍𐘥𐄔𐄈\n𐙂𐘰𐘯𐄙𐄏\n𐘇𐘴𐘅𐘙𐄙𐄋",
@@ -9,7 +9,7 @@ var inscriptions = [
         "QE-RA2-U",
         "𐄁",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "197",
         "\n",
         "𐙀-SU",
@@ -62,8 +62,8 @@ var inscriptions = [
         "𐘇𐘴𐘅𐘙",
         "𐄙𐄋"
     ]
-},
-{
+}],
+["HT2",{
     "image": "images/HT2-Inscription.jpg",
     "name": "HT2",
     "parsedInscription": "𐘇𐘾𐘘𐄁𐜋𐄑𐝫\n𐝫𐜊𐄐𐄍\n𐜎𐄉𐝫\n𐝫𐘸𐘙𐘳𐘅𐜋𐄔𐄊𐝫\n𐝫𐜊𐄓𐄍\n𐄇",
@@ -132,8 +132,8 @@ var inscriptions = [
         "\n",
         "𐄇"
     ]
-},
-{
+}],
+["HT3",{
     "image": "images/HT3-Inscription.jpg",
     "name": "HT3",
     "parsedInscription": "𐝫\n𐝫𐙁𐝫\n𐝫𐘆𐘅𐝫𐄈\n𐘿𐘽𐘱𐝫\n𐝫𐄈\n𐘆𐄈𐝫\n𐝫𐄊\n𐘕𐘘𐄇\n𐘘𐝫\n𐝫𐘤𐘹𐘽𐘙𐄋\n𐘆𐝫\n𐝫𐙂𐘰𐘯𐄉𐝫\n𐝫𐙁𐘆𐄈𐝫\n𐘀𐝫",
@@ -169,7 +169,7 @@ var inscriptions = [
         "KU𐘰-NU",
         "3",
         "\n",
-        "livestock/shepherd",
+        "MA-DI(livestock/shepherd)",
         "2",
         "\n",
         "DA"
@@ -244,8 +244,8 @@ var inscriptions = [
         "\n",
         "𐘀𐝫"
     ]
-},
-{
+}],
+["HT4",{
     "image": "images/HT4-Inscription.jpg",
     "name": "HT4",
     "parsedInscription": "𐝫\n𐝫𐙚𐘠𐘾𐘇𐘙𐝫\n𐝫𐘬𐘭𐘃𐄈\n𐘂𐘙𐝫\n𐝫𐘳𐘢𐘤𐘆𐄇",
@@ -290,8 +290,8 @@ var inscriptions = [
         "𐝫𐘳𐘢𐘤𐘆",
         "𐄇"
     ]
-},
-{
+}],
+["HT5",{
     "image": "images/HT5-Inscription.jpg",
     "name": "HT5",
     "parsedInscription": "𐝫\n𐝫𐙛𐝫\n𐝫𐙁𐘤𐄒𐝫\n𐝫𐘣𐘬𐄐𐝫\n𐝫\n𐝫",
@@ -342,15 +342,15 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT6a",{
     "image": "images/HT6a-Inscription.jpg",
     "name": "HT6a",
     "parsedInscription": "𐘾𐘂𐄁\n𐘀𐘳𐘴𐄁𐘃𐄁𐘝𐄐𐄋\n𐘢𐘳𐘱𐄑𐄊\n𐛑𐝓\n𐙁𐙭𐄐\n𐘵𐘽𐘆𐘗𐄈\n𐘾𐘂𐘿𐄋𐝕\n𐘀𐘿𐘴𐄁\n𐘿𐘢𐘳𐄑𐄈𐝕\n𐘝𐄐𐄋𐝆",
     "tracingImage": "images/HT6a-Tracing.jpg",
     "transcription": "𐘾𐘂𐄁𐘀𐘳𐘴\n𐄁𐘃𐄁𐘝𐄐𐄋𐘢𐘳𐘱\n𐄑𐄊𐛑𐝓𐙁𐙭\n𐄐𐘵𐘽𐘆𐘗𐄈𐘾\n𐘂𐘿𐄋𐝕\n𐘀𐘿𐘴𐄁𐘿𐘢𐘳\n𐄑𐄈𐝕𐘝𐄐𐄋𐝆",
     "translatedWords": [
-        "fruit,crops",
+        "KA-PA(fruit,crops)",
         "𐄁",
         "\n",
         "DA-TA-RA",
@@ -463,8 +463,8 @@ var inscriptions = [
         "𐄐𐄋",
         "𐝆"
     ]
-},
-{
+}],
+["HT6b",{
     "image": "images/HT6b-Inscription.jpg",
     "name": "HT6b",
     "parsedInscription": "𐘮𐘬𐘝𐘻𐄉𐝅\n𐘴𐘠𐘈𐄇\n𐙁𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃\n𐘞𐙁𐄒𐄋\n𐘰𐘝𐘅𐄐𐄍𐝆",
@@ -545,19 +545,19 @@ var inscriptions = [
         "𐄐𐄍",
         "𐝆"
     ]
-},
-{
+}],
+["HT7a",{
     "image": "images/HT7a-Inscription.jpg",
     "name": "HT7a",
     "parsedInscription": "𐘿𐘠𐄁𐙇\n𐘚𐘘𐘱𐄉\n𐘬𐘱𐄊\n𐘳𐘅𐘠𐄇\n𐘀𐘙𐄇\n𐘃𐘹𐄇",
     "tracingImage": "images/HT7a-Tracing.jpg",
     "transcription": "𐘿𐘠𐄁𐙇\n𐘚𐘘𐘱𐄉\n𐘬𐘱𐄊\n𐘳𐘅𐘠𐄇𐘀𐘙\n𐄇𐘃𐘹𐄇",
     "translatedWords": [
-        "pot",
+        "QE-TI(pot)",
         "𐄁",
         "person",
         "\n",
-        "priestess",
+        "I-RU-JA(priestess)",
         "3",
         "\n",
         "DU-JA",
@@ -612,8 +612,8 @@ var inscriptions = [
         "𐘃𐘹",
         "𐄇"
     ]
-},
-{
+}],
+["HT7b",{
     "image": "images/HT7b-Inscription.jpg",
     "name": "HT7b",
     "parsedInscription": "𐘐𐘹𐘗𐄇\n𐘀𐘘𐙵𐄈",
@@ -640,8 +640,8 @@ var inscriptions = [
         "𐘀𐘘𐙵",
         "𐄈"
     ]
-},
-{
+}],
+["HT8a",{
     "image": "images/HT8a-Inscription.jpg",
     "name": "HT8a",
     "parsedInscription": "𐘧𐘆𐜓𐄐\n𐘰𐘾𐘴𐘠𐄇𐝆\n𐘂𐄉𐝆\n𐘃𐙕𐄈\n𐘌𐙠𐘚𐝕\n𐘤𐘸𐘴𐝃\n𐘸𐘙𐘳𐘅𐝆",
@@ -722,8 +722,8 @@ var inscriptions = [
         "𐘸𐘙𐘳𐘅",
         "𐝆"
     ]
-},
-{
+}],
+["HT8b",{
     "image": "images/HT8b-Inscription.jpg",
     "name": "HT8b",
     "parsedInscription": "𐘲𐘜𐙓𐄇\n—\n𐄋\n𐘰𐙓𐄈\n𐘌𐙠𐘚𐄇𐝃𐝄\n𐘾𐘂𐝆\n𐘂𐘱𐘙𐄇𐝄\n𐛥𐝆\n𐝆",
@@ -744,7 +744,7 @@ var inscriptions = [
         "1",
         "³⁄₈",
         "\n",
-        "fruit,crops",
+        "KA-PA(fruit,crops)",
         "¹⁄₂",
         "\n",
         "PA-JA-RE",
@@ -810,8 +810,8 @@ var inscriptions = [
         "\n",
         "𐝆"
     ]
-},
-{
+}],
+["HT9a",{
     "image": "images/HT9a-Inscription.jpg",
     "name": "HT9a",
     "parsedInscription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝆𐝃\n𐙚𐘹𐄐\n𐘆𐘅𐘉𐄊\n𐘿𐘫𐄈\n𐙰𐘆𐘴𐄈𐝆\n𐘳𐘚𐙌𐄈𐝆\n𐘇𐘘𐄊𐝃\n𐙂𐘁𐄒𐄇𐝆𐝃",
@@ -851,7 +851,7 @@ var inscriptions = [
         "4",
         "¹⁄₄",
         "\n",
-        "total",
+        "KU-RO(total)",
         "31",
         "𐝆𐝃"
     ],
@@ -931,8 +931,8 @@ var inscriptions = [
         "𐄒𐄇",
         "𐝆𐝃"
     ]
-},
-{
+}],
+["HT9b",{
     "image": "images/HT9b-Inscription.jpg",
     "name": "HT9b",
     "parsedInscription": "𐘰𐄁\n𐘮𐘱𐘢𐝫\n—\n𐘾𐙙𐄁\n𐘂𐘦𐄉\n𐘇𐘤𐄉\n𐙚𐘹𐄎\n𐙰𐘆𐘴𐄈\n𐘿𐘫𐄈\n𐘳𐘚𐙌𐄈\n𐘆𐘅𐘉𐄊\n𐙂𐘁𐄑𐄊",
@@ -970,7 +970,7 @@ var inscriptions = [
         "DI-NA-U",
         "4",
         "\n",
-        "total",
+        "KU-RO(total)",
         "24"
     ],
     "transliteratedWords": [
@@ -1043,15 +1043,15 @@ var inscriptions = [
         "𐙂𐘁",
         "𐄑𐄊"
     ]
-},
-{
+}],
+["HT10a",{
     "image": "images/HT10a-Inscription.jpg",
     "name": "HT10a",
     "parsedInscription": "𐙂𐘝𐘲𐄁\n𐘞𐙁𐄊\n𐄁𐘂𐄁\n𐘀𐘙𐄐𐄌𐝆\n𐘉𐙱𐘍𐄊\n𐙕𐄌\n𐘉𐙱𐘍𐄐𐄊𐝫\n𐙙𐘘𐄈𐝆\n𐘀𐘭𐘀𐄎\n𐘋𐘍𐄉",
     "tracingImage": "images/HT10a-Tracing.jpg",
     "transcription": "𐙂𐘝𐘲𐄁𐘞𐙁𐄊𐄁\n𐘉𐙱𐘍𐄊\n𐘂𐄁𐘀𐘙𐄐𐄌𐝆𐙕\n𐄌𐘉𐙱𐘍𐄐𐄊𐝫𐙙𐘘\n𐄈𐝆𐘀𐘭𐘀𐄎𐘋𐘍𐄉",
     "translatedWords": [
-        "Placename",
+        "KU-NI-SU(Placename)",
         "𐄁",
         "\n",
         "SA-MA",
@@ -1065,13 +1065,13 @@ var inscriptions = [
         "16",
         "¹⁄₂",
         "\n",
-        "Linear B kutato",
+        "U𐙱-ZA(Linear B kutato)",
         "4",
         "\n",
         "𐙕",
         "6",
         "\n",
-        "Linear B kutato",
+        "U𐙱-ZA(Linear B kutato)",
         "14",
         "\n",
         "𐙙-RU",
@@ -1081,7 +1081,7 @@ var inscriptions = [
         "DA-RI-DA",
         "8",
         "\n",
-        "great",
+        "ME-ZA(great)",
         "3"
     ],
     "transliteratedWords": [
@@ -1152,8 +1152,8 @@ var inscriptions = [
         "𐘋𐘍",
         "𐄉"
     ]
-},
-{
+}],
+["HT10b",{
     "image": "images/HT10b-Inscription.jpg",
     "name": "HT10b",
     "parsedInscription": "𐘉𐘠𐄇\n𐘀𐘙𐄈\n𐘳𐘭𐘅𐄐𐄋\n𐙢𐘳𐄌𐝆\n𐘾𐘞𐘘𐄌\n𐘳𐘅𐘠𐄏𐝃",
@@ -1222,15 +1222,15 @@ var inscriptions = [
         "𐄏",
         "𐝃"
     ]
-},
-{
+}],
+["HT11a",{
     "image": "images/HT11a-Inscription.jpg",
     "name": "HT11a",
     "parsedInscription": "𐘇𐘘𐘴𐝫𐄁𐝫𐄉\n𐘾𐘁𐘅𐄈\n𐙮𐘭𐄇\n𐙂𐘁𐄐\n𐘇𐘲𐘱𐄇\n𐙇𐘚𐄉\n𐘷𐄐𐄋",
     "tracingImage": "images/HT11a-Tracing.jpg",
     "transcription": "𐘇𐘘𐘴𐝫𐄁𐝫\n𐄉𐘾𐘁𐘅𐄈𐘇\n𐙮𐘭𐄇𐙂𐘁𐄐𐘇\n𐘲𐘱𐄇𐙇𐘚\n𐄉𐘷𐄐𐄋",
     "translatedWords": [
-        "unit of land/plough[?]  Greek ἀρούρα",
+        "A-RU-RA(unit of land/plough[?]  Greek ἀρούρα)",
         "𐄁",
         "3",
         "\n",
@@ -1240,7 +1240,7 @@ var inscriptions = [
         "𐙮-RI",
         "1",
         "\n",
-        "total",
+        "KU-RO(total)",
         "10",
         "\n",
         "A-SU-JA",
@@ -1298,8 +1298,8 @@ var inscriptions = [
         "𐘷",
         "𐄐𐄋"
     ]
-},
-{
+}],
+["HT11b",{
     "image": "images/HT11b-Inscription.jpg",
     "name": "HT11b",
     "parsedInscription": "𐝫𐘦𐘯\n𐘘𐘽\n𐙅𐘾𐄓\n𐘾𐄒\n𐘾𐄔\n𐘘𐙀𐘅𐘾𐄒\n𐘞𐘿𐘭𐄁𐘾𐄒\n𐙂𐘁𐄙𐄗",
@@ -1328,7 +1328,7 @@ var inscriptions = [
         "KA",
         "30",
         "\n",
-        "total",
+        "KU-RO(total)",
         "180"
     ],
     "transliteratedWords": [
@@ -1383,8 +1383,8 @@ var inscriptions = [
         "𐙂𐘁",
         "𐄙𐄗"
     ]
-},
-{
+}],
+["HT12",{
     "image": "images/HT12-Inscription.jpg",
     "name": "HT12",
     "parsedInscription": "𐘌𐘠𐘀𐘃𐄁𐜉𐄋\n𐙘𐄋\n𐘿𐘹𐘗𐄁𐚻𐄇\n𐘡𐄒\n𐛢𐄁𐙈𐄋\n𐜚𐄉\n𐘝𐄇\n𐚼𐝇\n𐘀𐘚𐄔",
@@ -1492,8 +1492,8 @@ var inscriptions = [
         "𐘀𐘚",
         "𐄔"
     ]
-},
-{
+}],
+["HT13",{
     "image": "images/HT13-Inscription.jpg",
     "name": "HT13",
     "parsedInscription": "𐘾𐘉𐘦𐘳𐙍𐄁𐘃𐄁\n𐘙𐘍𐄋𐝫𐝆𐝫\n𐘃𐘹𐄔𐄌\n𐘃𐘸𐄑𐄍𐝆\n𐙂𐙀𐘝𐄐𐄎\n𐘀𐘤𐙈𐄐𐄏\n𐘚𐘬𐘗𐘤𐄋\n𐙂𐘁𐄙𐄒𐝆",
@@ -1526,7 +1526,7 @@ var inscriptions = [
         "I-DU-NE-SI",
         "5",
         "\n",
-        "total",
+        "KU-RO(total)",
         "130",
         "¹⁄₂"
     ],
@@ -1592,8 +1592,8 @@ var inscriptions = [
         "𐄙𐄒",
         "𐝆"
     ]
-},
-{
+}],
+["HT14",{
     "image": "images/HT14-Inscription.jpg",
     "name": "HT14",
     "parsedInscription": "𐘫𐙍𐄁𐘃𐄁𐙉𐄒\n𐜗𐄉\n𐜉𐄉\n𐙘𐄏\n𐙋𐄐𐄉\n𐘇𐘜𐘅𐘬𐙉𐄓𐄋\n𐜗𐄋\n𐜉𐄊\n𐙘𐄌\n𐙋𐄐𐄊",
@@ -1707,8 +1707,8 @@ var inscriptions = [
         "𐙋",
         "𐄐𐄊"
     ]
-},
-{
+}],
+["HT15",{
     "image": "images/HT15-Inscription.jpg",
     "name": "HT15",
     "parsedInscription": "𐘉𐘟𐘤𐙉\n𐘬𐙌𐘇𐄞𐄗𐄊\n𐛹𐄝𐄖\n𐙓𐄁𐘸𐘁𐄜\n𐝫",
@@ -1726,7 +1726,7 @@ var inscriptions = [
         "\n",
         "𐙓",
         "𐄁",
-        "owed",
+        "KI-RO(owed)",
         "400",
         "\n",
         "𐝫"
@@ -1765,8 +1765,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT16",{
     "image": "images/HT16-Inscription.jpg",
     "name": "HT16",
     "parsedInscription": "𐘾𐙂𐘂𐄁\n𐘆𐘅𐘉𐝄\n𐄁𐘮𐝁\n𐜇𐝃𐝄\n𐘞𐘊𐘼𐝇",
@@ -1826,8 +1826,8 @@ var inscriptions = [
         "𐘼",
         "𐝇"
     ]
-},
-{
+}],
+["HT17",{
     "image": "images/HT17-Inscription.jpg",
     "name": "HT17",
     "parsedInscription": "𐘴󽇫𐘠𐄁𐘃𐄁𐙍𐄒𐄍\n𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
@@ -1875,8 +1875,8 @@ var inscriptions = [
         "𐘤𐘀𐘙",
         "𐄋"
     ]
-},
-{
+}],
+["HT18",{
     "image": "images/HT18-Inscription.jpg",
     "name": "HT18",
     "parsedInscription": "𐘂𐘈𐛱𐄑\n𐜓𐄈\n𐙘𐄉\n𐘞𐘽𐙉𐄐\n𐘝𐄐",
@@ -1936,8 +1936,8 @@ var inscriptions = [
         "𐘝",
         "𐄐"
     ]
-},
-{
+}],
+["HT19",{
     "image": "images/HT19-Inscription.jpg",
     "name": "HT19",
     "parsedInscription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍𐄒\n𐘞𐘁𐄋𐝆\n𐘬𐘋𐘆𐄓𐄉𐝆",
@@ -1991,8 +1991,8 @@ var inscriptions = [
         "𐄓𐄉",
         "𐝆"
     ]
-},
-{
+}],
+["HT20",{
     "image": "images/HT20-Inscription.jpg",
     "name": "HT20",
     "parsedInscription": "𐘂𐘁𐘲𐄁\n𐙂𐙁𐘶𐝃\n𐘿𐙂𐘙𐄁𐘆𐝆\n𐘑𐝄\n𐘞𐘙𐘶𐝄\n𐘮𐝃\n𐜇𐝆",
@@ -2070,8 +2070,8 @@ var inscriptions = [
         "𐜇",
         "𐝆"
     ]
-},
-{
+}],
+["HT21",{
     "image": "images/HT21-Inscription.jpg",
     "name": "HT21",
     "parsedInscription": "𐘢𐘳𐘾𐘈𐄁𐘃𐄁𐙉𐄙𐄕𐄇\n𐜋𐄐𐄇\n𐜎𐄉𐝕\n𐙘𐄍𐝕\n𐙋𐄇𐝃",
@@ -2146,8 +2146,8 @@ var inscriptions = [
         "𐄇",
         "𐝃"
     ]
-},
-{
+}],
+["HT22",{
     "image": "images/HT22-Inscription.jpg",
     "name": "HT22",
     "parsedInscription": "𐝫\n𐛸𐄚𐄒\n—\n𐜣𐄙𐄐𐄉",
@@ -2186,8 +2186,8 @@ var inscriptions = [
         "𐜣",
         "𐄙𐄐𐄉"
     ]
-},
-{
+}],
+["HT23a",{
     "image": "images/HT23a-Inscription.jpg",
     "name": "HT23a",
     "parsedInscription": "𐘾𐘅𐄁𐙗𐝁\n𐙜𐝅\n𐜍𐝅\n𐜖𐝅\n𐜏𐝅\n𐛚𐝅\n𐙍𐄐\n𐚹𐄐\n𐚺𐄐\n𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇\n𐘞𐘞𐘋𐝇\n𐛊𐄐\n𐘺𐘘𐄇",
@@ -2229,7 +2229,7 @@ var inscriptions = [
         "𐘐-RI-TU-QA",
         "¹⁄₁₆",
         "\n",
-        "sesame",
+        "SA-SA-ME(sesame)",
         "¹⁄₁₆",
         "\n",
         "𐛊",
@@ -2328,8 +2328,8 @@ var inscriptions = [
         "𐘺𐘘",
         "𐄇"
     ]
-},
-{
+}],
+["HT23b",{
     "image": "images/HT23b-Inscription.jpg",
     "name": "HT23b",
     "parsedInscription": "𐘝𐘴𐙗𐝁\n𐙖𐝫𐝁\n𐛚\n𐝫𐘕𐝫\n𐚻𐝫\n𐚹𐄇\n𐝫\n𐘡𐄍𐝫\n𐝫",
@@ -2407,8 +2407,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT24a",{
     "image": "images/HT24a-Inscription.jpg",
     "name": "HT24a",
     "parsedInscription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌\n𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆\n𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐙁𐘘𐘋\n𐘘𐘚𐘺𐛢𐝫",
@@ -2477,8 +2477,8 @@ var inscriptions = [
         "𐘘𐘚𐘺",
         "𐛢𐝫"
     ]
-},
-{
+}],
+["HT24b",{
     "image": "images/HT24b-Inscription.jpg",
     "name": "HT24b",
     "parsedInscription": "𐝫𐙈𐄇𐝆𐝃\n𐛋𐙈𐄇𐝆𐝃\n𐛒𐙈𐄇",
@@ -2520,8 +2520,8 @@ var inscriptions = [
         "𐛒𐙈",
         "𐄇"
     ]
-},
-{
+}],
+["HT25a",{
     "image": "images/HT25a-Inscription.jpg",
     "name": "HT25a",
     "parsedInscription": "𐝫\n𐝫𐄇\n𐘆𐘅𐘉𐝫\n𐝫𐘘𐘝𐄇\n𐘉𐘙𐘣𐄇\n𐘆𐘅𐘉𐄇\n𐘇𐘭𐘝𐘳𐄇\n𐘹𐘿𐘯𐝫\n𐝫𐙀𐘶𐘜𐄇\n𐘬𐘘𐘣𐝫\n𐝫𐘚𐘸𐘴𐄇\n𐘂𐄇",
@@ -2623,8 +2623,8 @@ var inscriptions = [
         "𐘂",
         "𐄇"
     ]
-},
-{
+}],
+["HT25b",{
     "image": "images/HT25b-Inscription.jpg",
     "name": "HT25b",
     "parsedInscription": "𐝫\n𐝫\n𐙂𐘁𐄐𐄌\n𐘣𐘃𐘁𐄁𐘚𐘠𐙇𐄑𐄎\n𐙇𐄑𐄊\n𐙂𐘁𐄔𐄈",
@@ -2635,7 +2635,7 @@ var inscriptions = [
         "\n",
         "𐝫",
         "\n",
-        "total",
+        "KU-RO(total)",
         "16",
         "\n",
         "WI-TE-RO",
@@ -2647,7 +2647,7 @@ var inscriptions = [
         "person",
         "24",
         "\n",
-        "total",
+        "KU-RO(total)",
         "52"
     ],
     "transliteratedWords": [
@@ -2690,8 +2690,8 @@ var inscriptions = [
         "𐙂𐘁",
         "𐄔𐄈"
     ]
-},
-{
+}],
+["HT26a",{
     "image": "images/HT26a-Inscription.jpg",
     "name": "HT26a",
     "parsedInscription": "𐜮𐄁\n𐙢𐘃𐘃𐄁\n𐘳𐘠𐄑𐄇\n𐘻𐘸𐘈𐘅𐄐𐄋\n𐘉𐘯𐘐𐄋𐝫\n𐝫",
@@ -2751,8 +2751,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT26b",{
     "image": "images/HT26b-Inscription.jpg",
     "name": "HT26b",
     "parsedInscription": "𐄁𐜮𐄁𐙇𐄏\n𐝫𐘁𐘝𐄉\n𐘾𐘉𐙀𐘝𐄊\n𐛖𐄐𐄈\n𐘚𐙜𐄈𐝫\n𐙓𐙅𐄍𐝫\n𐝫",
@@ -2830,8 +2830,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT27a",{
     "image": "images/HT27a-Inscription.jpg",
     "name": "HT27a",
     "parsedInscription": "𐘠𐘝𐘳𐄁𐙛𐄁\n𐙇𐄘\n𐝫𐄔\n𐙅𐄔𐄇\n𐘙𐄑\n𐝫𐘚𐘻𐘞𐘴𐄓𐄉\n𐝫𐘿𐄑𐄇\n𐘸𐘀𐝫\n𐝫𐘸𐙠𐄁𐙂𐙙𐝫\n𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝆𐝃𐝁\n𐘝𐄐𐝁\n𐙍𐄍",
@@ -2872,7 +2872,7 @@ var inscriptions = [
         "person",
         "42",
         "\n",
-        "total",
+        "KU-RO(total)",
         "335",
         "\n",
         "cyperus",
@@ -2984,8 +2984,8 @@ var inscriptions = [
         "𐙍",
         "𐄍"
     ]
-},
-{
+}],
+["HT27b",{
     "image": "images/HT27b-Inscription.jpg",
     "name": "HT27b",
     "parsedInscription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐄁𐙉𐄁𐘞𐄇\n𐘙𐄐𐄊\n𐙍𐄁𐘤𐄁\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊\n𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊\n𐘙𐝫𐄓",
@@ -3126,8 +3126,8 @@ var inscriptions = [
         "𐘙𐝫",
         "𐄓"
     ]
-},
-{
+}],
+["HT28a",{
     "image": "images/HT28a-Inscription.jpg",
     "name": "HT28a",
     "parsedInscription": "𐘇𐘤𐘱𐘾𐄁\n𐘱𐘐𐄁𐛱𐄋\n𐜋𐄈\n𐜓𐝆\n𐜗𐄇\n𐜖𐝉\n𐘞𐘽𐜉𐄇\n𐘝𐄈\n𐙍𐄉\n𐛧𐙍𐄌\n𐘇𐘘𐘀𐘴𐙉𐄋\n𐙘𐄈\n𐜉𐄉\n𐘚𐘳𐘱𐜉𐄐",
@@ -3277,8 +3277,8 @@ var inscriptions = [
         "𐜉",
         "𐄐"
     ]
-},
-{
+}],
+["HT28b",{
     "image": "images/HT28b-Inscription.jpg",
     "name": "HT28b",
     "parsedInscription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻𐘅𐘤𐄁\n𐘞𐘽𐙉𐄑\n𐜉𐄋\n𐘝𐄈\n𐙍𐄊\n𐘫𐘽𐘝𐄌\n𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉\n𐙍𐄉\n𐝫𐝃",
@@ -3287,7 +3287,7 @@ var inscriptions = [
     "translatedWords": [
         "A-SI-JA-KA",
         "𐄁",
-        "owed",
+        "U-MI-NA-SI(owed)",
         "𐄁",
         "\n",
         "SA-RA2",
@@ -3392,8 +3392,8 @@ var inscriptions = [
         "\n",
         "𐝃"
     ]
-},
-{
+}],
+["HT29",{
     "image": "images/HT29-Inscription.jpg",
     "name": "HT29",
     "parsedInscription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐄇\n𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇\n𐝫𐄁𐝫𐘸𐘳𐄈\n𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
@@ -3477,8 +3477,8 @@ var inscriptions = [
         "𐘾𐘬𐙁𐘗",
         "𐄇"
     ]
-},
-{
+}],
+["HT30",{
     "image": "images/HT30-Inscription.jpg",
     "name": "HT30",
     "parsedInscription": "𐘤𐄊\n𐘞𐘽𐙗𐝫\n𐝫𐄐𐄊𐝆\n𐘝𐄍𐝂\n𐙍𐄎𐝆\n𐜐𐝓\n𐚻𐝂\n𐘞𐘴𐘴𐝆\n𐘖𐄊\n𐘸𐘁𐄁𐙗𐄎\n𐘝𐝓\n𐙍𐝆\n𐘖𐄇𐝫\n𐝫𐝂\n𐜐𐝂\n𐝫",
@@ -3514,7 +3514,7 @@ var inscriptions = [
         "bull",
         "4",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "𐄁",
         "cyperus",
         "8",
@@ -3637,8 +3637,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT31",{
     "image": "images/HT31-Inscription.jpg",
     "name": "HT31",
     "parsedInscription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋\n𐚢𐘌𐘰𐄐\n𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐\n𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐\n𐘸𐘦𐙁𐙯𐘅\n𐚢𐄜\n𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
@@ -3648,7 +3648,7 @@ var inscriptions = [
         "𐄁",
         "TI-SA",
         "𐄁",
-        "bronze?",
+        "PU-KO(bronze?)",
         "𐄁",
         "𐚪",
         "𐝫",
@@ -3752,8 +3752,8 @@ var inscriptions = [
         "𐚢𐘂𐘳𐘿",
         "𐄤"
     ]
-},
-{
+}],
+["HT32",{
     "image": "images/HT32-Inscription.jpg",
     "name": "HT32",
     "parsedInscription": "𐙛\n𐘞𐘽𐄁𐙜𐝆\n𐜍𐝆𐝇\n𐚻𐄇𐝇\n𐚹𐄇\n𐛚𐄇\n𐘲𐘙𐄁𐄙𐄎\n𐘆𐄕𐄋\n𐜍𐝫\n𐝫𐘙𐄙𐄊\n𐘆𐄔𐄉",
@@ -3867,8 +3867,8 @@ var inscriptions = [
         "𐘆",
         "𐄔𐄉"
     ]
-},
-{
+}],
+["HT33",{
     "image": "images/HT33-Inscription.jpg",
     "name": "HT33",
     "parsedInscription": "𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃\n𐚹𐝉𐝋𐝫\n𐝫𐄉\n𐛆𐝃𐝉\n𐛜𐝂\n𐙙𐄘\n𐜦𐄙\n𐛐𐄙",
@@ -3961,8 +3961,8 @@ var inscriptions = [
         "𐛐",
         "𐄙"
     ]
-},
-{
+}],
+["HT34",{
     "image": "images/HT34-Inscription.jpg",
     "name": "HT34",
     "parsedInscription": "𐘀𐘶𐘃𐄁𐘤𐛀𐄁\n𐘞𐘽𐄁𐛜𐝫\n𐝫\n𐝫𐝁\n𐘡𐄁𐙉𐄚𐝫\n𐝫𐛅𐄈𐝅𐝇\n𐚻𐝀\n𐚹𐝃\n𐛛𐄚𐄓𐄋\n𐛂𐄙\n𐘰𐄖\n𐘸𐘁𐄒𐄍\n𐛆𐝇\n𐘫𐝄",
@@ -4006,7 +4006,7 @@ var inscriptions = [
         "𐘰",
         "70",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "37",
         "\n",
         "𐛆",
@@ -4109,8 +4109,8 @@ var inscriptions = [
         "𐘫",
         "𐝄"
     ]
-},
-{
+}],
+["HT35",{
     "image": "images/HT35-Inscription.jpg",
     "name": "HT35",
     "parsedInscription": "𐘠𐘠𐙂𐄁𐙲𐄁\n𐘚𐙂𐘳𐙗𐄇\n𐛚𐝁\n𐜏𐝁\n𐙜𐝁\n𐜐𐝫\n𐘡𐄋\n𐚻𐝇\n𐙍𐝂",
@@ -4206,8 +4206,8 @@ var inscriptions = [
         "𐙍",
         "𐝂"
     ]
-},
-{
+}],
+["HT36",{
     "image": "images/HT36-Inscription.jpg",
     "name": "HT36",
     "parsedInscription": "𐘧𐘆𐜠𐛱𐄑𐄓𐄊𐝆\n𐘬𐙀𐘮𐄍𐝆\n𐝫\n𐄌",
@@ -4255,8 +4255,8 @@ var inscriptions = [
         "\n",
         "𐄌"
     ]
-},
-{
+}],
+["HT37",{
     "image": "images/HT37-Inscription.jpg",
     "name": "HT37",
     "parsedInscription": "𐛛𐄁\n𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐝫\n𐝫𐄌\n𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁\n𐘾𐘸𐄐𐄇\n𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍",
@@ -4266,7 +4266,7 @@ var inscriptions = [
         "𐛛",
         "𐄁",
         "\n",
-        "bronze",
+        "KA-KI(bronze)",
         "𐄁",
         "𐄁",
         "SU",
@@ -4280,10 +4280,10 @@ var inscriptions = [
         "KI𐙠-RE",
         "1",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "𐄁",
         "\n",
-        "bronze",
+        "KA-KI(bronze)",
         "11",
         "\n",
         "A",
@@ -4355,8 +4355,8 @@ var inscriptions = [
         "𐝫𐘿",
         "𐄐𐄍"
     ]
-},
-{
+}],
+["HT38",{
     "image": "images/HT38-Inscription.jpg",
     "name": "HT38",
     "parsedInscription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇\n𐙄𐄇\n𐘒𐄉\n𐛞𐙈𐄉\n𐛎𐄈\n𐛏𐄇",
@@ -4431,8 +4431,8 @@ var inscriptions = [
         "𐛏",
         "𐄇"
     ]
-},
-{
+}],
+["HT39",{
     "image": "images/HT39-Inscription.jpg",
     "name": "HT39",
     "parsedInscription": "𐘳𐘚𐙌𐄐𐝫\n𐝫𐙂𐘙𐘶𐄎\n𐙂𐝫\n𐝫𐘞𐙁𐘠𐄐\n𐙂𐘙𐝫\n𐝫𐙂𐘁𐜯𐄙\n𐝫𐛤𐄈𐝫\n𐛍𐝫\n𐝫",
@@ -4452,7 +4452,7 @@ var inscriptions = [
         "\n",
         "KU-RE",
         "\n",
-        "total",
+        "KU-RO(total)",
         "𐜯",
         "100",
         "\n",
@@ -4513,8 +4513,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT40",{
     "image": "images/HT40-Inscription.jpg",
     "name": "HT40",
     "parsedInscription": "𐘯𐘬𐙷𐄁𐘃𐄁𐙉𐄚𐄍\n𐘸𐘀𐘳𐄁𐙉𐝫𐄙𐄒𐄊\n𐙂𐘁𐝫\n𐙂𐝫\n𐝫",
@@ -4533,7 +4533,7 @@ var inscriptions = [
         "grain",
         "134",
         "\n",
-        "total",
+        "KU-RO(total)",
         "\n",
         "KU",
         "\n",
@@ -4577,8 +4577,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT41a",{
     "image": "images/HT41a-Inscription.jpg",
     "name": "HT41a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘿𐘹𐄐\n𐙙𐄁𐙘𐄐\n𐘙𐄁𐙘𐄐\n𐘻𐘀𐘝𐄁𐘂𐘱𐄈𐝂𐝂",
@@ -4656,8 +4656,8 @@ var inscriptions = [
         "𐄈",
         "𐝂𐝂"
     ]
-},
-{
+}],
+["HT41b",{
     "image": "images/HT41b-Inscription.jpg",
     "name": "HT41b",
     "parsedInscription": "𐝫\n𐝫\n—",
@@ -4684,8 +4684,8 @@ var inscriptions = [
         "\n",
         "—"
     ]
-},
-{
+}],
+["HT43",{
     "image": "images/HT43-Inscription.jpg",
     "name": "HT43",
     "parsedInscription": "𐙁𐘤𐘬𐄁𐘂𐚂𐘚𐄁𐘚𐄁𐛭𐄋𐝫",
@@ -4721,8 +4721,8 @@ var inscriptions = [
         "𐛭",
         "𐄋𐝫"
     ]
-},
-{
+}],
+["HT44a",{
     "image": "images/HT44a-Inscription.jpg",
     "name": "HT44a",
     "parsedInscription": "𐘚𐘌𐙈𐄁𐙉𐝫\n𐜒𐄉\n𐜋𐄋𐝫\n𐜑𐄋\n𐙋𐄇𐝫\n𐝫𐘝𐄇\n𐙍𐝫\n𐝫",
@@ -4800,8 +4800,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT44b",{
     "image": "images/HT44b-Inscription.jpg",
     "name": "HT44b",
     "parsedInscription": "𐝫𐘱𐄁𐘃𐛵𐝫\n𐝫𐄋\n𐘝𐝫\n𐝫𐙍𐄖𐄋\n𐝫𐄐𐄎\n𐝫𐄐\n𐝫",
@@ -4861,8 +4861,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT45a",{
     "image": "images/HT45a-Inscription.jpg",
     "name": "HT45a",
     "parsedInscription": "𐝫\n𐝫𐝉\n𐘂𐝫\n𐝫𐙅𐄁𐙙𐄈𐝫\n𐝫𐙪𐄁𐙙𐄈",
@@ -4919,8 +4919,8 @@ var inscriptions = [
         "𐙙",
         "𐄈"
     ]
-},
-{
+}],
+["HT45b",{
     "image": "images/HT45b-Inscription.jpg",
     "name": "HT45b",
     "parsedInscription": "𐝫\n—\n𐝫𐄎𐝂𐝂\n𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍\n𐚺𐝉\n𐘂𐝫𐄁𐝫𐘇𐄑𐝁\n𐄁𐙂𐝃\n𐙂𐝃",
@@ -5037,8 +5037,8 @@ var inscriptions = [
         "𐙂",
         "𐝃"
     ]
-},
-{
+}],
+["HT46a",{
     "image": "images/HT46a-Inscription.jpg",
     "name": "HT46a",
     "parsedInscription": "𐝫\n𐝫𐘕𐘘𐄇𐝫\n𐝫𐙂𐘁𐄓𐄉𐝆",
@@ -5050,7 +5050,7 @@ var inscriptions = [
         "MU-RU",
         "1",
         "\n",
-        "total",
+        "KU-RO(total)",
         "43",
         "¹⁄₂"
     ],
@@ -5074,8 +5074,8 @@ var inscriptions = [
         "𐄓𐄉",
         "𐝆"
     ]
-},
-{
+}],
+["HT46b",{
     "image": "images/HT46b-Inscription.jpg",
     "name": "HT46b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄐𐄌𐝆\n𐝫𐄈𐄊",
@@ -5108,8 +5108,8 @@ var inscriptions = [
         "\n",
         "𐝫𐄈𐄊"
     ]
-},
-{
+}],
+["HT47a",{
     "image": "images/HT47a-Inscription.jpg",
     "name": "HT47a",
     "parsedInscription": "𐘾𐝫𐝫𐛗𐄁\n𐙂𐘰𐘅𐘹𐄑𐝫\n𐝫𐘬𐄑𐝫\n𐘉𐝫\n𐝫𐘢𐄐\n𐘸𐘀𐘁𐝫𐝫\n𐝫𐄋\n𐝫𐘻𐘯𐘻",
@@ -5181,8 +5181,8 @@ var inscriptions = [
         "\n",
         "𐝫𐘻𐘯𐘻"
     ]
-},
-{
+}],
+["HT47b",{
     "image": "images/HT47b-Inscription.jpg",
     "name": "HT47b",
     "parsedInscription": "𐝫𐘴𐘅𐘙𐝫\n𐝫",
@@ -5203,8 +5203,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT49a",{
     "image": "images/HT49a-Inscription.jpg",
     "name": "HT49a",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫\n𐝫𐘭𐄇\n𐘲𐘸𐝫\n𐝫𐄇\n𐘠𐘬𐘝𐄇𐝫\n𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇\n𐚞𐄇\n𐙢𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘲𐘜𐄇\n𐘸𐄇\n—\n𐝫𐄋\n𐘹𐄊\n𐘸𐄇𐝫\n𐝫",
@@ -5384,8 +5384,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT49b",{
     "image": "images/HT49b-Inscription.jpg",
     "name": "HT49b",
     "parsedInscription": "𐝫\n𐝫𐙂𐝫\n𐝫𐘚𐘸𐝫𐝫𐘳\n—\n𐝫\n𐝫𐘾𐝫\n𐝫",
@@ -5433,8 +5433,8 @@ var inscriptions = [
         "𐝫𐘾𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT50a",{
     "image": "images/HT50a-Inscription.jpg",
     "name": "HT50a",
     "parsedInscription": "𐝫\n—\n𐝫𐙉𐝫\n𐝫𐝃\n𐜓𐝃\n𐜗\n𐝆\n𐜎𐝆\n𐙘𐄇𐝆𐝫\n𐝫𐙋𐄉\n𐛺𐝃𐝄",
@@ -5527,8 +5527,8 @@ var inscriptions = [
         "𐛺",
         "𐝃𐝄"
     ]
-},
-{
+}],
+["HT50b",{
     "image": "images/HT50b-Inscription.jpg",
     "name": "HT50b",
     "parsedInscription": "𐝫\n𐝫\n𐜓\n𐝫\n𐝫𐜉𐄇𐝫",
@@ -5570,8 +5570,8 @@ var inscriptions = [
         "𐝫𐜉",
         "𐄇𐝫"
     ]
-},
-{
+}],
+["HT51a",{
     "image": "images/HT51a-Inscription.jpg",
     "name": "HT51a",
     "parsedInscription": "𐝫𐄋\n𐘝𐄁𐘃𐄁\n𐙁𐝫\n𐝫𐘈𐄕𐄊\n𐘠𐘝𐝫\n𐝫𐘙𐝫\n𐝫",
@@ -5634,8 +5634,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT51b",{
     "image": "images/HT51b-Inscription.jpg",
     "name": "HT51b",
     "parsedInscription": "𐝫𐙂𐘋𐘳𐄐𐄈𐝫\n𐝫𐙀𐘬𐝆𐝄\n𐘤𐝫\n𐝫\n𐝫",
@@ -5680,8 +5680,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT52a",{
     "image": "images/HT52a-Inscription.jpg",
     "name": "HT52a",
     "parsedInscription": "𐘞𐙁𐄁𐘃𐄁𐝫\n𐝫𐄊\n𐘆𐘾𐘸𐝫\n𐝫\n𐝫",
@@ -5729,8 +5729,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT52b",{
     "image": "images/HT52b-Inscription.jpg",
     "name": "HT52b",
     "parsedInscription": "𐝫𐘗𐄁𐙉𐄚𐄇𐝫\n𐝫\n𐝫",
@@ -5766,8 +5766,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT53a",{
     "image": "images/HT53a-Inscription.jpg",
     "name": "HT53a",
     "parsedInscription": "𐝫\n𐝫𐘞𐘗𐝫\n𐝫\n𐝫𐄓\n𐝫𐙖𐝫\n𐝫𐄙\n𐘴𐝫\n𐝫",
@@ -5821,8 +5821,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT53b",{
     "image": "images/HT53b-Inscription.jpg",
     "name": "HT53b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄐𐄎𐝫\n𐝫\n𐝫𐙂𐘙𐝫\n𐝫",
@@ -5861,8 +5861,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT54a",{
     "image": "images/HT54a-Inscription.jpg",
     "name": "HT54a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘻𐘅𐘿𐝫\n𐝫𐘸𐘻𐘽𐝫\n𐝫",
@@ -5898,8 +5898,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT54b",{
     "image": "images/HT54b-Inscription.jpg",
     "name": "HT54b",
     "parsedInscription": "𐝫\n𐝫𐄊\n𐘸𐝫\n𐝫\n𐝫",
@@ -5935,15 +5935,15 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT55a",{
     "image": "images/HT55a-Inscription.jpg",
     "name": "HT55a",
     "parsedInscription": "𐝫𐘸𐘁𐄁\n𐙁𐘙𐄇𐝫\n𐝫𐙕𐄇\n𐘤𐘘𐄇\n𐘗𐝫\n𐝫𐘹𐄇𐝫\n𐝫\n𐝫",
     "tracingImage": "images/HT55a-Tracing.jpg",
     "transcription": "𐝫𐘸𐘁𐄁𐙁𐘙𐄇𐝫\n𐝫𐙕𐄇𐘤𐘘𐄇𐘗𐝫\n𐝫𐘹𐄇𐝫\n𐝫\n𐝫",
     "translatedWords": [
-        "owed",
+        "KI-RO(owed)",
         "𐄁",
         "\n",
         "MA-RE",
@@ -6008,8 +6008,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT55b",{
     "image": "images/HT55b-Inscription.jpg",
     "name": "HT55b",
     "parsedInscription": "𐝫𐘃𐄇\n𐘿𐝫\n𐝫𐘭𐘱𐄇\n𐘚𐝫\n𐝫\n𐝫",
@@ -6057,8 +6057,8 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT56a",{
     "image": "images/HT56a-Inscription.jpg",
     "name": "HT56a",
     "parsedInscription": "𐙓𐄁\n𐘞𐝫\n𐝫𐄐𐄇𐝆\n𐘉𐝫\n𐝫",
@@ -6103,8 +6103,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT56b",{
     "image": "images/HT56b-Inscription.jpg",
     "name": "HT56b",
     "parsedInscription": "𐜓𐄑𐝫\n—\n𐝫\n𐝫",
@@ -6137,8 +6137,8 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT57a",{
     "image": "images/HT57a-Inscription.jpg",
     "name": "HT57a",
     "parsedInscription": "𐘀𐘿𐘴𐝫\n𐝫𐄇\n𐘇𐝫\n𐝫𐝄𐝫\n𐝫",
@@ -6177,8 +6177,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT57b",{
     "image": "images/HT57b-Inscription.jpg",
     "name": "HT57b",
     "parsedInscription": "𐝫𐙙𐄎\n𐝫\n𐝫",
@@ -6208,8 +6208,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT58",{
     "image": "images/HT58-Inscription.jpg",
     "name": "HT58",
     "parsedInscription": "𐘿𐘠𐘴𐘬𐄁𐙇𐝫\n𐜋𐄐𐄏\n𐜗𐝫\n𐝫𐜎𐄉\n𐙋𐄓𐄇\n𐝫𐘉𐘸𐝫\n𐝫",
@@ -6275,8 +6275,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT60",{
     "image": "images/HT60-Inscription.jpg",
     "name": "HT60",
     "parsedInscription": "𐝫\n𐝫𐜏𐝇\n𐛙\n𐝫𐝇\n𐙍𐝇\n𐝃𐄋\n𐚹𐝫\n𐝫𐚻𐝉𐝫",
@@ -6345,8 +6345,8 @@ var inscriptions = [
         "𐝫𐚻",
         "𐝉𐝫"
     ]
-},
-{
+}],
+["HT61",{
     "image": "images/HT61-Inscription.jpg",
     "name": "HT61",
     "parsedInscription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫",
@@ -6376,8 +6376,8 @@ var inscriptions = [
         "𐛲",
         "𐄌𐝫"
     ]
-},
-{
+}],
+["HT62",{
     "image": "images/HT62-Inscription.jpg",
     "name": "HT62",
     "parsedInscription": "𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃\n𐘾𐙂𐄊𐝫\n𐝫𐄐𐄎\n𐘛𐘠𐝫𐄁𐄌\n𐘆𐝫\n𐝫𐄊𐝃\n𐘾𐝫\n𐝫𐙇𐝫𐝫𐄊\n𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫",
@@ -6488,8 +6488,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT63",{
     "image": "images/HT63-Inscription.jpg",
     "name": "HT63",
     "parsedInscription": "𐙙𐄁𐘃𐄇\n𐘾𐘠𐄇\n𐘲𐘜𐝫\n𐝫𐙀𐄈\n𐝫\n𐝫",
@@ -6501,7 +6501,7 @@ var inscriptions = [
         "TE",
         "1",
         "\n",
-        "pot",
+        "KA-TI(pot)",
         "1",
         "\n",
         "SU-PU2",
@@ -6546,8 +6546,8 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT64",{
     "image": "images/HT64-Inscription.jpg",
     "name": "HT64",
     "parsedInscription": "𐝫\n𐝫𐙂𐙀𐘅𐝫\n𐝫𐘅𐄈\n𐘘𐙁𐝫\n𐝫𐄉\n𐘑𐄌\n𐝫\n𐝫",
@@ -6607,8 +6607,8 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT65",{
     "image": "images/HT65-Inscription.jpg",
     "name": "HT65",
     "parsedInscription": "𐝫\n𐜤𐝇𐝫",
@@ -6629,8 +6629,8 @@ var inscriptions = [
         "𐜤",
         "𐝇𐝫"
     ]
-},
-{
+}],
+["HT66",{
     "image": "images/HT66-Inscription.jpg",
     "name": "HT66",
     "parsedInscription": "𐙀𐄁𐙇𐄁𐝫\n𐝫𐘆𐄈\n𐘳𐝫\n𐝫𐘳𐘻𐝫\n𐝫𐘙𐄇\n𐝫",
@@ -6690,8 +6690,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT67",{
     "image": "images/HT67-Inscription.jpg",
     "name": "HT67",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄜𐄑𐝫\n𐝫𐘝𐄁𐘃𐄜𐝫",
@@ -6701,7 +6701,7 @@ var inscriptions = [
         "𐝫",
         "\n",
         "\n",
-        "total",
+        "KU-RO(total)",
         "402",
         "\n",
         "figs",
@@ -6733,8 +6733,8 @@ var inscriptions = [
         "𐘃",
         "𐄜𐝫"
     ]
-},
-{
+}],
+["HT68",{
     "image": "images/HT68-Inscription.jpg",
     "name": "HT68",
     "parsedInscription": "𐝫𐄁𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
@@ -6770,8 +6770,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT69",{
     "image": "images/HT69-Inscription.jpg",
     "name": "HT69",
     "parsedInscription": "𐝫\n𐝫𐄋\n𐘆𐄎𐝫\n𐝫𐙁𐘆𐄊𐝫\n𐝫𐘆𐄐𐄈𐝫\n𐝫",
@@ -6785,7 +6785,7 @@ var inscriptions = [
         "DI",
         "8",
         "\n",
-        "livestock/shepherd",
+        "MA-DI(livestock/shepherd)",
         "4",
         "\n",
         "DI",
@@ -6825,8 +6825,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT70",{
     "image": "images/HT70-Inscription.jpg",
     "name": "HT70",
     "parsedInscription": "𐝫𐘝𐄁𐘃𐄒𐝫\n𐝫𐘌𐙈𐘞𐄈𐝃𐝫\n𐝫𐘚𐄉𐝫\n𐝫\n𐝫",
@@ -6880,8 +6880,8 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT72",{
     "image": "images/HT72-Inscription.jpg",
     "name": "HT72",
     "parsedInscription": "𐘤𐙇𐝫𐄁𐝫\n𐝫\n𐝫",
@@ -6908,8 +6908,8 @@ var inscriptions = [
         "\n",
         "\n"
     ]
-},
-{
+}],
+["HT74",{
     "image": "images/HT74-Inscription.jpg",
     "name": "HT74",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄑𐝫\n𐝫",
@@ -6919,7 +6919,7 @@ var inscriptions = [
         "𐝫",
         "\n",
         "\n",
-        "total",
+        "KU-RO(total)",
         "20",
         "\n",
         "𐝫"
@@ -6942,8 +6942,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT75",{
     "image": "images/HT75-Inscription.jpg",
     "name": "HT75",
     "parsedInscription": "𐘾𐘘𐝫\n—\n𐝫",
@@ -6970,8 +6970,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT78",{
     "image": "images/HT78-Inscription.jpg",
     "name": "HT78",
     "parsedInscription": "𐝫\n—\n𐝫𐘕𐙢𐝫\n—\n𐝫",
@@ -7010,8 +7010,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT80",{
     "image": "images/HT80-Inscription.jpg",
     "name": "HT80",
     "parsedInscription": "𐝫\n𐝫𐘶𐘴𐝫\n𐝫\n𐝫",
@@ -7044,8 +7044,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT81",{
     "image": "images/HT81-Inscription.jpg",
     "name": "HT81",
     "parsedInscription": "𐘇𐘈𐄁𐛚𐄁𐝅𐝫\n𐝫𐘭𐘲𐙁𐝋\n𐘸𐝫\n𐝫",
@@ -7093,8 +7093,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT82",{
     "image": "images/HT82-Inscription.jpg",
     "name": "HT82",
     "parsedInscription": "𐝫\n𐝫𐛮𐝇𐝫\n𐜜𐝃𐝫\n𐝫",
@@ -7133,8 +7133,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT84",{
     "image": "images/HT84-Inscription.jpg",
     "name": "HT84",
     "parsedInscription": "𐘐𐘱𐘬𐝫\n𐝫𐘯𐘠𐄁𐙇𐝫\n𐝫\n𐝫",
@@ -7170,15 +7170,15 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT85a",{
     "image": "images/HT85a-Inscription.jpg",
     "name": "HT85a",
     "parsedInscription": "𐘇𐘬𐄁𐜠𐄁𐙇𐄁\n𐘀𐘭𐘀𐄐𐄈\n𐘰𐘝𐄐𐄈\n𐘉𐙱𐘍𐄌\n𐘀𐘤𐙈𐄑𐄊\n𐙂𐙀𐘝𐄋\n𐘃𐘥𐄉\n𐘀𐘙𐄊\n𐙂𐘁𐝫𐝫𐄕𐄌",
     "tracingImage": "images/HT85a-Tracing.jpg",
     "transcription": "𐘇𐘬𐄁𐜠𐄁𐙇𐄁\n𐘀𐘭𐘀𐄐𐄈𐘰𐘝𐄐𐄈\n𐘉𐙱𐘍𐄌𐘀𐘤\n𐙈𐄑𐄊𐙂𐙀𐘝𐄋\n𐘃𐘥𐄉𐘀𐘙𐄊\n𐙂𐘁𐝫𐄕𐄌",
     "translatedWords": [
-        "assessment",
+        "A-DU(assessment)",
         "𐄁",
         "𐜠",
         "𐄁",
@@ -7191,7 +7191,7 @@ var inscriptions = [
         "𐘰-NI",
         "12",
         "\n",
-        "Linear B kutato",
+        "U𐙱-ZA(Linear B kutato)",
         "6",
         "\n",
         "DA-SI𐙈",
@@ -7206,7 +7206,7 @@ var inscriptions = [
         "DA-RE",
         "4",
         "\n",
-        "total",
+        "KU-RO(total)",
         "66"
     ],
     "transliteratedWords": [
@@ -7273,8 +7273,8 @@ var inscriptions = [
         "𐙂𐘁𐝫",
         "𐝫𐄕𐄌"
     ]
-},
-{
+}],
+["HT85b",{
     "image": "images/HT85b-Inscription.jpg",
     "name": "HT85b",
     "parsedInscription": "𐘸𐘸𐘴𐘱𐄁\n𐘸𐘙𐘷𐄇\n𐘿𐘾𐄇\n𐘂𐄇\n𐘃𐘹𐝫𐄇\n𐘾𐄇\n𐘆𐄇\n𐘋𐘍𐄇\n𐘙𐘆𐘈𐄇\n𐘮𐘬𐘝𐘻𐄇\n𐙁𐘆𐄇\n𐘌𐙠𐘚𐄇",
@@ -7302,7 +7302,7 @@ var inscriptions = [
         "DI",
         "1",
         "\n",
-        "great",
+        "ME-ZA(great)",
         "1",
         "\n",
         "RE-DI-SE",
@@ -7311,7 +7311,7 @@ var inscriptions = [
         "WA-DU-NI-MI",
         "1",
         "\n",
-        "livestock/shepherd",
+        "MA-DI(livestock/shepherd)",
         "1",
         "\n",
         "QA𐙠-I",
@@ -7391,8 +7391,8 @@ var inscriptions = [
         "𐘌𐙠𐘚",
         "𐄇"
     ]
-},
-{
+}],
+["HT86a",{
     "image": "images/HT86a-Inscription.jpg",
     "name": "HT86a",
     "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦𐘘𐄑\n𐘌𐘽𐘮𐄐\n—\n𐘇𐘬𐄁\n𐘀𐘋𐛳𐄑\n𐘻𐘯𐘃𐄑",
@@ -7402,14 +7402,14 @@ var inscriptions = [
         "A-KA-RU",
         "𐄁",
         "\n",
-        "Placename",
+        "KU-NI-SU(Placename)",
         "𐛷",
         "20",
         "\n",
         "SA-RU",
         "20",
         "\n",
-        "Cf. Linear B didero. See also kunisu (Semitic) for emmer wheat.",
+        "DI-DE-RU(Cf. Linear B didero. See also kunisu (Semitic) for emmer wheat.)",
         "20",
         "\n",
         "QA-RA2-WA",
@@ -7417,7 +7417,7 @@ var inscriptions = [
         "\n",
         "—",
         "\n",
-        "assessment",
+        "A-DU(assessment)",
         "𐄁",
         "\n",
         "DA-ME",
@@ -7485,8 +7485,8 @@ var inscriptions = [
         "𐘻𐘯𐘃",
         "𐄑"
     ]
-},
-{
+}],
+["HT86b",{
     "image": "images/HT86b-Inscription.jpg",
     "name": "HT86b",
     "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦",
@@ -7496,7 +7496,7 @@ var inscriptions = [
         "A-KA-RU",
         "𐄁",
         "\n",
-        "Placename",
+        "KU-NI-SU(Placename)",
         "𐛷",
         "20",
         "\n",
@@ -7531,8 +7531,8 @@ var inscriptions = [
         "\n",
         "𐘆𐘦"
     ]
-},
-{
+}],
+["HT87",{
     "image": "images/HT87-Inscription.jpg",
     "name": "HT87",
     "parsedInscription": "𐘐𐘹𐘗𐄁𐙁𐘾𐘭𐘃𐄁\n𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇\n𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇\n𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇",
@@ -7616,15 +7616,15 @@ var inscriptions = [
         "𐝫𐘇𐘹",
         "𐄇"
     ]
-},
-{
+}],
+["HT88",{
     "image": "images/HT88-Inscription.jpg",
     "name": "HT88",
     "parsedInscription": "𐘇𐘬𐛧𐄑\n𐘙𐘍𐄌\n𐘝𐄁𐘸𐘸𐘅𐄍\n𐘸𐘁𐄁\n𐙂𐘰𐘰𐄇\n𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘱𐘙𐄇\n𐘞𐙁𐘁𐄇\n𐘀𐘳𐘙𐄇\n𐙂𐘁𐄌",
     "tracingImage": "images/HT88-Tracing.jpg",
     "transcription": "𐘇𐘬𐛧𐄑𐘙𐘍\n𐄌𐘝𐄁𐘸𐘸𐘅𐄍\n𐘸𐘁𐄁𐙂𐘰𐘰𐄇𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇𐘂𐘱𐘙𐄇𐘞𐙁\n𐘁𐄇𐘀𐘳𐘙𐄇𐙂𐘁𐄌",
     "translatedWords": [
-        "assessment",
+        "A-DU(assessment)",
         "𐛧",
         "20",
         "\n",
@@ -7633,10 +7633,10 @@ var inscriptions = [
         "\n",
         "figs",
         "𐄁",
-        "figs",
+        "KI-KI-NA(figs)",
         "7",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "𐄁",
         "\n",
         "KU𐘰𐘰",
@@ -7657,7 +7657,7 @@ var inscriptions = [
         "DA-TA-RE",
         "1",
         "\n",
-        "total",
+        "KU-RO(total)",
         "6"
     ],
     "transliteratedWords": [
@@ -7734,8 +7734,8 @@ var inscriptions = [
         "𐙂𐘁",
         "𐄌"
     ]
-},
-{
+}],
+["HT89",{
     "image": "images/HT89-Inscription.jpg",
     "name": "HT89",
     "parsedInscription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈\n𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉\n𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝆𐝃\n𐘝𐄈𐝃\n𐙍𐄌𐝫",
@@ -7761,7 +7761,7 @@ var inscriptions = [
         "TA-RA",
         "5",
         "\n",
-        "total",
+        "KU-RO(total)",
         "87",
         "\n",
         "cyperus",
@@ -7843,8 +7843,8 @@ var inscriptions = [
         "𐙍",
         "𐄌𐝫"
     ]
-},
-{
+}],
+["HT90",{
     "image": "images/HT90-Inscription.jpg",
     "name": "HT90",
     "parsedInscription": "𐘚𐙂𐘭𐘅\n𐘞𐘽𐙉𐄑\n𐘝𐄐\n𐜉𐄉\n𐘤𐘘𐙁𐘭𐘷𐙉𐄇\n𐘝𐄇\n𐜗𐄇\n𐙘𐄇",
@@ -7928,8 +7928,8 @@ var inscriptions = [
         "𐙘",
         "𐄇"
     ]
-},
-{
+}],
+["HT91",{
     "image": "images/HT91-Inscription.jpg",
     "name": "HT91",
     "parsedInscription": "𐘚𐘾𐄁𐙲𐄁𐙉𐝎\n𐙘𐝀\n𐄁𐜓𐝀\n𐜋𐝀\n𐜗𐝀\n𐙋𐝀\n𐘝𐝀\n𐙍𐝀\n𐘡𐄋\n𐘃𐘭𐄁𐜗𐝀\n𐘡𐄉𐝫\n𐝫",
@@ -8064,8 +8064,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT92",{
     "image": "images/HT92-Inscription.jpg",
     "name": "HT92",
     "parsedInscription": "𐘃𐄁\n𐘇𐘬𐄁𐙉𐄞𐄗\n𐙘𐄐𐄈",
@@ -8075,7 +8075,7 @@ var inscriptions = [
         "TE",
         "𐄁",
         "\n",
-        "assessment",
+        "A-DU(assessment)",
         "𐄁",
         "grain",
         "680",
@@ -8107,8 +8107,8 @@ var inscriptions = [
         "𐙘",
         "𐄐𐄈"
     ]
-},
-{
+}],
+["HT93a",{
     "image": "images/HT93a-Inscription.jpg",
     "name": "HT93a",
     "parsedInscription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈\n𐘆𐘭𐘅𐄁𐚴𐄓𐄉𐝆\n𐘸𐘆𐘝𐄋𐝆𐝅\n𐘇𐘈𐄁𐘚𐛭𐄑𐄌𐝆𐝃\n𐘞𐘽𐄑\n𐘌𐘌𐘘𐄁𐘚𐛭𐄋\n𐙇𐘚𐄌\n𐘦𐘶𐙂𐄇𐝆\n𐘵𐘠𐝫𐄁𐄉\n𐘀𐘭𐘀𐚦𐄈\n𐚃𐄈\n𐘰𐘝𐘅𐝫\n𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫\n𐝫𐘾𐄊",
@@ -8300,8 +8300,8 @@ var inscriptions = [
         "𐝫𐘾",
         "𐄊"
     ]
-},
-{
+}],
+["HT93b",{
     "image": "images/HT93b-Inscription.jpg",
     "name": "HT93b",
     "parsedInscription": "𐝫𐄙𐄕𐄋𐝅\n𐘸𐘁𐝫",
@@ -8311,7 +8311,7 @@ var inscriptions = [
         "165",
         "≈ ¹⁄₆",
         "\n",
-        "owed"
+        "KI-RO(owed)"
     ],
     "transliteratedWords": [
         "165",
@@ -8325,15 +8325,15 @@ var inscriptions = [
         "\n",
         "𐘸𐘁𐝫"
     ]
-},
-{
+}],
+["HT94a",{
     "image": "images/HT94a-Inscription.jpg",
     "name": "HT94a",
     "parsedInscription": "𐘾𐘂𐙇𐄕𐄈\n𐙅𐄑\n𐛃𐄍\n𐛪𐄐𐄎\n𐘳𐄊\n𐙂𐘁𐄙𐄐\n𐘞𐘽𐙗𐄋\n𐘝𐄉𐝅\n𐝫𐄈\n𐙪𐙚𐄐𐄇\n𐙗𐝂𐝂\n𐘝𐝂𐝂\n𐝫𐄐𐄊𐝆\n𐘝𐝂",
     "tracingImage": "images/HT94a-Tracing.jpg",
     "transcription": "𐘾𐘂𐙇𐄕𐄈𐙅𐄑\n𐛃𐄍𐛪𐄐𐄎𐘳𐄊\n𐙂𐘁𐄙𐄐𐘞𐘽𐙗𐄋𐘝𐄉𐝅\n𐝫𐄈𐙪𐙚𐄐𐄇𐙗𐝓𐘝𐝓\n𐝫𐄐𐄊𐝆𐘝𐝂",
     "translatedWords": [
-        "fruit,crops",
+        "KA-PA(fruit,crops)",
         "person",
         "61",
         "\n",
@@ -8349,7 +8349,7 @@ var inscriptions = [
         "TA",
         "4",
         "\n",
-        "total",
+        "KU-RO(total)",
         "110",
         "\n",
         "SA-RA2",
@@ -8467,15 +8467,15 @@ var inscriptions = [
         "𐘝",
         "𐝂"
     ]
-},
-{
+}],
+["HT94b",{
     "image": "images/HT94b-Inscription.jpg",
     "name": "HT94b",
     "parsedInscription": "𐘸𐘁𐄁\n𐘹𐙁𐄇\n𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇\n𐘥𐘸𐘘𐄇\n𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁\n𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
     "tracingImage": "images/HT94b-Tracing.jpg",
     "transcription": "𐘸𐘁𐄁𐘹𐙁𐄇𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇𐘥𐘸𐘘𐄇𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
     "translatedWords": [
-        "owed",
+        "KI-RO(owed)",
         "𐄁",
         "\n",
         "TU-MA",
@@ -8493,7 +8493,7 @@ var inscriptions = [
         "SA-RU",
         "1",
         "\n",
-        "total",
+        "KU-RO(total)",
         "5",
         "\n",
         "𐙅",
@@ -8576,8 +8576,8 @@ var inscriptions = [
         "𐄁",
         "𐄇"
     ]
-},
-{
+}],
+["HT95a",{
     "image": "images/HT95a-Inscription.jpg",
     "name": "HT95a",
     "parsedInscription": "𐘀𐘬𐙁𐘳𐄁𐙉\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐘞𐘘𐄑\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄍",
@@ -8597,10 +8597,10 @@ var inscriptions = [
         "SA-RU",
         "20",
         "\n",
-        "Placename",
+        "KU-NI-SU(Placename)",
         "10",
         "\n",
-        "Cf. Linear B didero. See also kunisu (Semitic) for emmer wheat.",
+        "DI-DE-RU(Cf. Linear B didero. See also kunisu (Semitic) for emmer wheat.)",
         "10",
         "\n",
         "QE-RA2-U",
@@ -8652,15 +8652,15 @@ var inscriptions = [
         "𐘿𐘽𐘉",
         "𐄍"
     ]
-},
-{
+}],
+["HT95b",{
     "image": "images/HT95b-Inscription.jpg",
     "name": "HT95b",
     "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘘𐄐\n𐝫𐄁𐝫\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄐",
     "tracingImage": "images/HT95b-Tracing.jpg",
     "transcription": "𐘇𐘬𐄁𐘞𐘘𐄐\n𐝫𐄁𐝫𐘀𐘋𐄐𐘻\n𐘯𐘃𐄐𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄐",
     "translatedWords": [
-        "assessment",
+        "A-DU(assessment)",
         "𐄁",
         "\n",
         "SA-RU",
@@ -8674,10 +8674,10 @@ var inscriptions = [
         "MI-NU-TE",
         "10",
         "\n",
-        "Placename",
+        "KU-NI-SU(Placename)",
         "10",
         "\n",
-        "Cf. Linear B didero. See also kunisu (Semitic) for emmer wheat.",
+        "DI-DE-RU(Cf. Linear B didero. See also kunisu (Semitic) for emmer wheat.)",
         "10",
         "\n",
         "QE-RA2-U",
@@ -8731,8 +8731,8 @@ var inscriptions = [
         "𐘿𐘽𐘉",
         "𐄐"
     ]
-},
-{
+}],
+["HT96a",{
     "image": "images/HT96a-Inscription.jpg",
     "name": "HT96a",
     "parsedInscription": "𐘚𐘠𐘠𐙂𐘝𐄁𐘇𐘂𐘴𐘗𐄁𐘇𐙌𐘃𐄁\n𐘤𐘻𐘳𐙉𐄋\n𐘘𐘞𐄊\n𐙯𐙩𐄇\n𐘢𐘳𐘴𐄁𐄇\n𐙯𐚄𐄇\n—\n𐝫𐙂𐙁𐘁𐄁𐄁𐘃𐘝𐄑\n𐝫𐘝𐄈\n—\n𐝫",
@@ -8746,7 +8746,7 @@ var inscriptions = [
         "A𐙌-TE",
         "𐄁",
         "\n",
-        "= mouse? Cf. Linear B Simiteu HT 96 LM 1 b Simi/ta -> Sminqeu/j = epithet of thegod Apollo. Pareidolia P:",
+        "SI-MI-TA(= mouse? Cf. Linear B Simiteu HT 96 LM 1 b Simi/ta -> Sminqeu/j = epithet of thegod Apollo. Pareidolia P:)",
         "grain",
         "5",
         "\n",
@@ -8858,8 +8858,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT96b",{
     "image": "images/HT96b-Inscription.jpg",
     "name": "HT96b",
     "parsedInscription": "𐘇𐘂𐘴𐘗𐄁\n𐘌𐙈𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝆𐝃\n𐜋𐄊\n𐘝𐄈𐝇\n𐝫",
@@ -8931,8 +8931,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT97a",{
     "image": "images/HT97a-Inscription.jpg",
     "name": "HT97a",
     "parsedInscription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈\n𐙳𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋\n𐘂𐘚𐘄𐄌\n𐘆𐄊\n𐘅𐘠𐄊\n𐙁𐘆𐄋\n𐘶𐄐𐄋\n𐘸𐄉\n𐙀𐝫𐄋\n𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫\n𐝫𐘇𐄋\n𐝫",
@@ -8952,7 +8952,7 @@ var inscriptions = [
         "KA-NU-TI",
         "25",
         "\n",
-        "Phaistos",
+        "PA-I-TO(Phaistos)",
         "6",
         "\n",
         "DI",
@@ -8961,7 +8961,7 @@ var inscriptions = [
         "NA-TI",
         "4",
         "\n",
-        "livestock/shepherd",
+        "MA-DI(livestock/shepherd)",
         "5",
         "\n",
         "flour",
@@ -9079,8 +9079,8 @@ var inscriptions = [
         "𐄋",
         "𐝫"
     ]
-},
-{
+}],
+["HT97b",{
     "image": "images/HT97b-Inscription.jpg",
     "name": "HT97b",
     "parsedInscription": "𐘞𐘽",
@@ -9095,8 +9095,8 @@ var inscriptions = [
     "words": [
         "𐘞𐘽"
     ]
-},
-{
+}],
+["HT98a",{
     "image": "images/HT98a-Inscription.jpg",
     "name": "HT98a",
     "parsedInscription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇\n𐘳𐘅𐘠𐝆𐝃\n𐘆𐘙𐘆𐘅𐝆\n𐘃𐙕𐝆𐝃\n𐘁𐘥𐝆\n𐘾𐘭𐙠𐘚𐝃",
@@ -9174,8 +9174,8 @@ var inscriptions = [
         "𐘾𐘭𐙠𐘚",
         "𐝃"
     ]
-},
-{
+}],
+["HT98b",{
     "image": "images/HT98b-Inscription.jpg",
     "name": "HT98b",
     "parsedInscription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝆𐝃\n𐘀𐘘𐘗𐘃𐝇",
@@ -9214,15 +9214,15 @@ var inscriptions = [
         "𐘀𐘘𐘗𐘃",
         "𐝇"
     ]
-},
-{
+}],
+["HT99a",{
     "image": "images/HT99a-Inscription.jpg",
     "name": "HT99a",
     "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫\n𐙍𐄇𐝅\n𐛱\n𐝫",
     "tracingImage": "images/HT99a-Tracing.jpg",
     "transcription": "𐘇𐘬𐄁𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫𐙍𐄇𐝅𐛱\n𐝫",
     "translatedWords": [
-        "assessment",
+        "A-DU(assessment)",
         "𐄁",
         "\n",
         "SA-RA2",
@@ -9278,8 +9278,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT99b",{
     "image": "images/HT99b-Inscription.jpg",
     "name": "HT99b",
     "parsedInscription": "𐛉𐘝𐄌\n𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇\n𐘘𐙁𐘳𐄇",
@@ -9324,8 +9324,8 @@ var inscriptions = [
         "𐘘𐙁𐘳",
         "𐄇"
     ]
-},
-{
+}],
+["HT100",{
     "image": "images/HT100-Inscription.jpg",
     "name": "HT100",
     "parsedInscription": "𐝫𐛧𐄔𐄎\n𐜝𐝫𐝫\n𐛃𐄐𐄈\n𐘸𐄈\n𐙙𐄋\n𐛩𐄐𐄌\n𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃\n𐘝𐄈𐝂𐝂\n𐙍𐄈𐝆\n𐜋𐄈𐝅\n𐜗𐄉\n𐜍𐝆𐝃",
@@ -9350,7 +9350,7 @@ var inscriptions = [
         "𐛩",
         "16",
         "\n",
-        "total",
+        "KU-RO(total)",
         "97",
         "\n",
         "SA-RA2",
@@ -9466,8 +9466,8 @@ var inscriptions = [
         "𐜍",
         "𐝆𐝃"
     ]
-},
-{
+}],
+["HT101",{
     "image": "images/HT101-Inscription.jpg",
     "name": "HT101",
     "parsedInscription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎\n𐜗𐄎\n𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇\n𐙖𐄐\n𐚸𐄉\n𐙂𐘰𐝫𐝫𐜋𐄈\n—\n𐝫𐄑\n𐙘𐄉\n𐜓𐄈𐝫\n𐝫𐄉\n𐙋𐄇𐝃\n𐛺𐄇",
@@ -9614,15 +9614,15 @@ var inscriptions = [
         "𐛺",
         "𐄇"
     ]
-},
-{
+}],
+["HT102",{
     "image": "images/HT102-Inscription.jpg",
     "name": "HT102",
     "parsedInscription": "𐘾𐘂\n𐘞𐘽𐙉𐄡𐄖𐄌\n𐘰𐘝𐛭𐄒𐄉𐝫\n𐝫𐙇𐛭𐄒𐄉\n𐘆𐘭𐘅𐄐\n𐙁𐙀𐄉\n𐘣𐄐\n𐘚𐘾𐄋\n𐙂𐘁𐄢𐄕",
     "tracingImage": "images/HT102-Tracing.jpg",
     "transcription": "𐘾𐘂𐘞𐘽𐙉𐄡\n𐄖𐄌𐘰𐘝𐛭𐄒𐄉𐝫\n𐙇𐛭𐄒𐄉𐘆𐘭𐘅𐄐𐙁\n𐙀𐄉𐘣𐄐𐘚𐘾𐄋\n𐙂𐘁𐄢𐄕",
     "translatedWords": [
-        "fruit,crops",
+        "KA-PA(fruit,crops)",
         "\n",
         "SA-RA2",
         "grain",
@@ -9647,7 +9647,7 @@ var inscriptions = [
         "I-KA",
         "5",
         "\n",
-        "total",
+        "KU-RO(total)",
         "𐄢𐄕"
     ],
     "transliteratedWords": [
@@ -9708,8 +9708,8 @@ var inscriptions = [
         "𐙂𐘁",
         "𐄢𐄕"
     ]
-},
-{
+}],
+["HT103",{
     "image": "images/HT103-Inscription.jpg",
     "name": "HT103",
     "parsedInscription": "𐘉𐘷𐄁𐘝𐄓\n𐘰\n𐘀𐙂𐘈𐘗𐝫𐝫𐄌𐝆\n𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇\n𐘀𐙂𐘈𐘗𐄇\n𐘸𐘴𐄋𐝆",
@@ -9736,7 +9736,7 @@ var inscriptions = [
         "DA-KU-SE-NE",
         "1",
         "\n",
-        "balance",
+        "KI-RA(balance)",
         "5",
         "¹⁄₂"
     ],
@@ -9790,8 +9790,8 @@ var inscriptions = [
         "𐄋",
         "𐝆"
     ]
-},
-{
+}],
+["HT104",{
     "image": "images/HT104-Inscription.jpg",
     "name": "HT104",
     "parsedInscription": "𐘳𐘂𐄁𐚷𐄁\n𐘀𐙂𐘈𐘗𐘠𐄓𐄋𐝆\n𐘚𐘬𐘠𐄑𐝆\n𐘂𐘀𐘲𐘠𐄑𐄏\n𐙂𐘁𐄘𐄋",
@@ -9814,7 +9814,7 @@ var inscriptions = [
         "PA-DA-SU-TI",
         "29",
         "\n",
-        "total",
+        "KU-RO(total)",
         "95"
     ],
     "transliteratedWords": [
@@ -9857,15 +9857,15 @@ var inscriptions = [
         "𐙂𐘁",
         "𐄘𐄋"
     ]
-},
-{
+}],
+["HT105",{
     "image": "images/HT105-Inscription.jpg",
     "name": "HT105",
     "parsedInscription": "𐘾𐘂𐝫\n𐝫\n𐝫𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋",
     "tracingImage": "images/HT105-Tracing.jpg",
     "transcription": "𐘾𐘂𐝫\n𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋",
     "translatedWords": [
-        "fruit,crops",
+        "KA-PA(fruit,crops)",
         "\n",
         "\n",
         "person",
@@ -9900,8 +9900,8 @@ var inscriptions = [
         "𐙇",
         "𐄚𐄒𐄋"
     ]
-},
-{
+}],
+["HT106",{
     "image": "images/HT106-Inscription.jpg",
     "name": "HT106",
     "parsedInscription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆\n𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
@@ -9976,8 +9976,8 @@ var inscriptions = [
         "𐄉𐝫",
         "𐝫"
     ]
-},
-{
+}],
+["HT107",{
     "image": "images/HT107-Inscription.jpg",
     "name": "HT107",
     "parsedInscription": "𐝫\n𐝫𐄉𐝫\n𐝫\n𐘃𐄗𐄌\n𐙸𐄍",
@@ -10019,8 +10019,8 @@ var inscriptions = [
         "𐙸",
         "𐄍"
     ]
-},
-{
+}],
+["HT108",{
     "image": "images/HT108-Inscription.jpg",
     "name": "HT108",
     "parsedInscription": "𐘸𐘙𐘳𐘅𐙇𐄇\n𐛶𐄖\n—\n𐘆𐘅𐘁𐄈\n𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐\n𐘶𐝫\n𐝫",
@@ -10098,8 +10098,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT109",{
     "image": "images/HT109-Inscription.jpg",
     "name": "HT109",
     "parsedInscription": "𐝫\n𐝫𐘙𐄊𐝫\n𐝫\n𐝫𐘳𐄊\n𐙂𐘁𐄙𐄑𐄏\n𐘇𐘴𐘶𐄙𐄑𐄉",
@@ -10115,7 +10115,7 @@ var inscriptions = [
         "TA",
         "4",
         "\n",
-        "total",
+        "KU-RO(total)",
         "129",
         "\n",
         "A-RA-JU",
@@ -10153,8 +10153,8 @@ var inscriptions = [
         "𐘇𐘴𐘶",
         "𐄙𐄑𐄉"
     ]
-},
-{
+}],
+["HT110a",{
     "image": "images/HT110a-Inscription.jpg",
     "name": "HT110a",
     "parsedInscription": "𐘤𐘬𐘟𐙂𐘻𐜚𐄑\n𐙂𐘂𐄇\n𐙂𐘁𐄙𐝫\n𐝫𐘝𐄐𐄋𐝫\n𐝫𐄕",
@@ -10168,7 +10168,7 @@ var inscriptions = [
         "KU-PA",
         "1",
         "\n",
-        "total",
+        "KU-RO(total)",
         "100",
         "\n",
         "figs",
@@ -10208,8 +10208,8 @@ var inscriptions = [
         "\n",
         "𐝫𐄕"
     ]
-},
-{
+}],
+["HT110b",{
     "image": "images/HT110b-Inscription.jpg",
     "name": "HT110b",
     "parsedInscription": "𐙉𐝫\n𐝫𐘁𐄑\n𐜧𐄉𐝫\n𐝫𐄇\n𐙁𐄋𐝆\n𐝫𐄈\n𐘝𐄇𐝆𐝫\n𐝫𐄇\n𐙁𐄈\n𐙕𐝆𐝃",
@@ -10302,8 +10302,8 @@ var inscriptions = [
         "𐙕",
         "𐝆𐝃"
     ]
-},
-{
+}],
+["HT111a",{
     "image": "images/HT111a-Inscription.jpg",
     "name": "HT111a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘿𐘾𐄎\n𐘌𐘞𐝫\n𐝫𐘌𐘘𐄎\n𐘆𐄐𐄊𐝫\n𐝫𐘝𐝫\n𐝫",
@@ -10366,8 +10366,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT111b",{
     "image": "images/HT111b-Inscription.jpg",
     "name": "HT111b",
     "parsedInscription": "𐝫\n𐝫𐄐𐄎\n𐘞𐘆𐄊𐝫\n𐝫𐄉\n𐘿𐝫\n𐘅𐝫𐝫𐘝𐄇𐝫\n𐝫",
@@ -10427,8 +10427,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT112a",{
     "image": "images/HT112a-Inscription.jpg",
     "name": "HT112a",
     "parsedInscription": "𐘐𐝫\n𐝫𐘹𐘂𐝫\n𐝫\n𐝫",
@@ -10458,8 +10458,8 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT112b",{
     "image": "images/HT112b-Inscription.jpg",
     "name": "HT112b",
     "parsedInscription": "𐝫𐙗𐄌𐝫\n𐝫\n𐝫\n𐝫",
@@ -10489,8 +10489,8 @@ var inscriptions = [
         "\n",
         "\n"
     ]
-},
-{
+}],
+["HT113",{
     "image": "images/HT113-Inscription.jpg",
     "name": "HT113",
     "parsedInscription": "𐘴𐘭𐘦𐝫\n𐝫𐘣𐘞𐄁𐝫𐝫𐄐𐄐𐄐\n𐘵𐄈𐝆\n𐝫",
@@ -10535,8 +10535,8 @@ var inscriptions = [
         "𐝆",
         "𐝫"
     ]
-},
-{
+}],
+["HT113ter",{
     "image": "images/HT113ter-Inscription.jpg",
     "name": "HT113ter",
     "parsedInscription": "𐝫𐘻𐝫\n𐝫𐄊𐝫\n𐝫",
@@ -10563,8 +10563,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT114a",{
     "image": "images/HT114a-Inscription.jpg",
     "name": "HT114a",
     "parsedInscription": "𐘸𐘭𐘷\n𐘞𐘽𐙉𐄐\n𐙖𐄍\n𐘝𐄇\n𐙍𐄇\n𐘖𐄉",
@@ -10627,8 +10627,8 @@ var inscriptions = [
         "𐘖",
         "𐄉"
     ]
-},
-{
+}],
+["HT114b",{
     "image": "images/HT114b-Inscription.jpg",
     "name": "HT114b",
     "parsedInscription": "𐘞𐙍𐄏",
@@ -10646,8 +10646,8 @@ var inscriptions = [
         "𐘞𐙍",
         "𐄏"
     ]
-},
-{
+}],
+["HT115a",{
     "image": "images/HT115a-Inscription.jpg",
     "name": "HT115a",
     "parsedInscription": "𐘨𐘯𐘴𐘱𐄁𐘚𐄁𐛯\n𐘭𐘳𐙁𐘯𐘣𐄈\n𐙕𐘉𐘴\n𐘅𐘐𐘗𐘻𐘅𐄇\n𐘈𐙂𐘹𐝆\n𐘂𐘴𐘗𐄇\n𐘇𐘈𐘱𐝂𐝂𐝂𐝂\n𐘾𐘊𐘘𐄇\n𐘭𐘲𐙁𐝫\n𐘲𐄈𐝂𐝫\n𐝫",
@@ -10758,8 +10758,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT115b",{
     "image": "images/HT115b-Inscription.jpg",
     "name": "HT115b",
     "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
@@ -10864,8 +10864,8 @@ var inscriptions = [
         "𐄇",
         "𐙂𐘳𐝫"
     ]
-},
-{
+}],
+["HT116a",{
     "image": "images/HT116a-Inscription.jpg",
     "name": "HT116a",
     "parsedInscription": "𐘉𐘳𐘁𐄁𐘃𐄁\n𐙂𐘂𐘱𐙉𐄐𐄌\n𐘫𐘽𐄁𐙉𐄓\n𐜉𐄋\n𐛉𐙉𐄐𐄌\n𐜓𐄇\n𐜗𐄌\n𐙋𐄉\n𐘢𐘟𐘃𐙉𐄋\n𐙖𐝫𐄋\n𐜗𐄇\n𐛺𐄈\n𐘤𐘸𐘗𐙉𐄐𐄈\n𐙘𐄐𐄈\n𐘌𐘯𐙁𐙉𐄑\n𐙘𐄉",
@@ -11045,15 +11045,15 @@ var inscriptions = [
         "𐙘",
         "𐄉"
     ]
-},
-{
+}],
+["HT116b",{
     "image": "images/HT116b-Inscription.jpg",
     "name": "HT116b",
     "parsedInscription": "𐙂𐘁𐙉𐄙𐝫\n𐙘𐄐𐄋\n𐙖𐄐𐄍",
     "tracingImage": "images/HT116b-Tracing.jpg",
     "transcription": "𐙂𐘁𐙉𐄙𐝫𐙘𐄐𐄋\n𐙖𐄐𐄍",
     "translatedWords": [
-        "total",
+        "KU-RO(total)",
         "grain",
         "100",
         "\n",
@@ -11085,8 +11085,8 @@ var inscriptions = [
         "𐙖",
         "𐄐𐄍"
     ]
-},
-{
+}],
+["HT117a",{
     "image": "images/HT117a-Inscription.jpg",
     "name": "HT117a",
     "parsedInscription": "𐙁𐘾𐘭𐘃𐄁𐘸𐘁𐄁𐘉𐘻𐘅𐘤𐄁\n𐘉𐘲𐄇\n𐘻𐘹𐄇\n𐙂𐘴𐘕𐄇\n𐙁𐘘𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘶𐙁𐄇\n𐘉𐘆𐘻𐄇\n𐘻𐘘𐘳𐘴𐘙𐄇\n𐘃𐘱𐘙𐄇\n𐘅𐘀𐘙𐄇\n𐙂𐘁𐄐\n—\n𐘞𐘳𐄁\n𐙂𐙂𐘀𐘴𐄇\n𐘺𐘞𐘚𐘠𐄇\n𐘀𐘻𐘯𐄇\n𐘀𐘗𐙂𐘠𐄇\n𐘸𐘀𐘁𐄇",
@@ -11095,9 +11095,9 @@ var inscriptions = [
     "translatedWords": [
         "MA-KA-RI-TE",
         "𐄁",
-        "owed",
+        "KI-RO(owed)",
         "𐄁",
-        "owed",
+        "U-MI-NA-SI(owed)",
         "𐄁",
         "\n",
         "U-SU",
@@ -11109,7 +11109,7 @@ var inscriptions = [
         "KU-RA-MU",
         "1",
         "\n",
-        "wool",
+        "MA-RU(wool)",
         "1",
         "\n",
         "KU𐘰-NU",
@@ -11130,7 +11130,7 @@ var inscriptions = [
         "NA-DA-RE",
         "1",
         "\n",
-        "total",
+        "KU-RO(total)",
         "10",
         "\n",
         "—",
@@ -11275,8 +11275,8 @@ var inscriptions = [
         "𐘸𐘀𐘁",
         "𐄇"
     ]
-},
-{
+}],
+["HT117b",{
     "image": "images/HT117b-Inscription.jpg",
     "name": "HT117b",
     "parsedInscription": "𐘐𐘹𐘗𐄁\n𐙂𐘙𐘶𐄇\n𐘆𐘸𐘈𐄇",
@@ -11312,8 +11312,8 @@ var inscriptions = [
         "𐘆𐘸𐘈",
         "𐄇"
     ]
-},
-{
+}],
+["HT118",{
     "image": "images/HT118-Inscription.jpg",
     "name": "HT118",
     "parsedInscription": "𐙄𐄁𐛀𐄁\n𐙁𐘆𐄐𐄋𐘸𐄐\n𐘌𐘌𐘘𐄌𐘸𐄊\n𐘇𐘭𐘲𐄊𐘸𐄇\n𐘭𐘘𐙁𐄐\n𐙂𐘁𐄒𐘸𐄐𐄋𐝫",
@@ -11325,7 +11325,7 @@ var inscriptions = [
         "𐛀",
         "𐄁",
         "\n",
-        "livestock/shepherd",
+        "MA-DI(livestock/shepherd)",
         "15",
         "𐘸𐄐",
         "\n",
@@ -11340,7 +11340,7 @@ var inscriptions = [
         "RI-RU-MA",
         "10",
         "\n",
-        "total",
+        "KU-RO(total)",
         "30",
         "𐘸𐄐𐄋𐝫"
     ],
@@ -11394,8 +11394,8 @@ var inscriptions = [
         "𐄒",
         "𐘸𐄐𐄋𐝫"
     ]
-},
-{
+}],
+["HT119",{
     "image": "images/HT119-Inscription.jpg",
     "name": "HT119",
     "parsedInscription": "𐙳𐄒𐄊\n𐙇𐄕𐄍\n𐘭𐘻𐘤𐄐𐄉\n𐘺𐘱𐄐\n𐙂𐘰𐘅𐘹𐄍\n𐘠𐄍\n𐘱𐚅𐄐\n𐙚𐘹𐄈\n𐙳𐘶𐄎\n𐙂𐘁𐄙𐄕",
@@ -11429,7 +11429,7 @@ var inscriptions = [
         "𐙳-JU",
         "8",
         "\n",
-        "total",
+        "KU-RO(total)",
         "160"
     ],
     "transliteratedWords": [
@@ -11494,8 +11494,8 @@ var inscriptions = [
         "𐙂𐘁",
         "𐄙𐄕"
     ]
-},
-{
+}],
+["HT120",{
     "image": "images/HT120-Inscription.jpg",
     "name": "HT120",
     "parsedInscription": "𐘀𐘿𐘴𐄁\n𐘀𐘋𐛷𐄖𐄊\n𐛭𐄕𐄈𐝆𐝀\n𐘀𐘉𐘪𐄁𐘚𐛭𐄑\n𐘸𐘙𐘳𐘅𐛳𐄕\n𐛭𐄓𐄎\n𐘂𐘚𐘄𐄉𐝂",
@@ -11525,7 +11525,7 @@ var inscriptions = [
         "𐛭",
         "48",
         "\n",
-        "Phaistos",
+        "PA-I-TO(Phaistos)",
         "3",
         "¹⁄₅"
     ],
@@ -11585,8 +11585,8 @@ var inscriptions = [
         "𐄉",
         "𐝂"
     ]
-},
-{
+}],
+["HT121",{
     "image": "images/HT121-Inscription.jpg",
     "name": "HT121",
     "parsedInscription": "𐘸𐘭𐘷𐜘𐄐\n𐘞𐘽𐙉𐄋\n𐙖𐄊\n𐘝𐄈\n𐙍𐄉\n𐘖𐄉",
@@ -11655,8 +11655,8 @@ var inscriptions = [
         "𐘖",
         "𐄉"
     ]
-},
-{
+}],
+["HT122a",{
     "image": "images/HT122a-Inscription.jpg",
     "name": "HT122a",
     "parsedInscription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈𐝫\n𐝫𐄈\n𐘀𐘤𐙈𐄈\n𐘂𐝫𐄁𐝫\n𐝫𐘆𐄇\n𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉\n𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇\n𐙰𐘆𐘴𐄇\n𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘳𐘗𐄇\n𐙚𐘹𐄇\n𐝫𐘬𐄇\n𐙂𐘰𐘯𐄇\n𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇\n𐙂𐘀𐄇",
@@ -11715,7 +11715,7 @@ var inscriptions = [
         "DA-RI-DA",
         "1",
         "\n",
-        "total",
+        "KU-RO(total)",
         "31",
         "\n",
         "KU-DA",
@@ -11839,8 +11839,8 @@ var inscriptions = [
         "𐙂𐘀",
         "𐄇"
     ]
-},
-{
+}],
+["HT122b",{
     "image": "images/HT122b-Inscription.jpg",
     "name": "HT122b",
     "parsedInscription": "𐘧𐘆𐄁𐚆𐄁𐙇𐝫\n𐝫𐙚𐘸𐘷𐄍𐝫\n𐝫𐘇𐘴𐘶𐘉𐘦𐘍𐄈\n𐘌𐘌𐘘𐄈\n𐘆𐄈\n𐘀𐘙𐄈\n𐙂𐘁𐄕𐄋\n𐘊𐘄𐙂𐘁𐄘𐄍",
@@ -11868,10 +11868,10 @@ var inscriptions = [
         "DA-RE",
         "2",
         "\n",
-        "total",
+        "KU-RO(total)",
         "65",
         "\n",
-        "grand total",
+        "PO-TO-KU-RO(grand total)",
         "97"
     ],
     "transliteratedWords": [
@@ -11930,8 +11930,8 @@ var inscriptions = [
         "𐘊𐘄𐙂𐘁",
         "𐄘𐄍"
     ]
-},
-{
+}],
+["HT123a",{
     "image": "images/HT123a-Inscription.jpg",
     "name": "HT123a",
     "parsedInscription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃\n𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆\n𐙜𐄎𐝆𐝃\n𐘸𐘁𐝎\n𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫\n𐝫𐘸𐘁𐝆𐝃\n𐘀𐘹𐙋𐄐𐄋\n𐙜𐄊𐝃\n𐘸𐘁𐝆𐝃\n𐙂𐘁𐙋𐄘𐄉𐝆\n𐙜𐄁\n𐙂𐘁𐝫𐄑𐄋𐝅\n𐘸𐘁𐄌𐝫",
@@ -11947,7 +11947,7 @@ var inscriptions = [
         "8",
         "¹⁄₄",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "1",
         "𐝎",
         "\n",
@@ -11960,7 +11960,7 @@ var inscriptions = [
         "8",
         "𐝆𐝃",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "𐝎",
         "\n",
         "SA-RU",
@@ -11971,7 +11971,7 @@ var inscriptions = [
         "4",
         "≈ ¹⁄₆",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "𐝆𐝃",
         "\n",
         "DA-TU",
@@ -11982,10 +11982,10 @@ var inscriptions = [
         "4",
         "¹⁄₄",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "𐝆𐝃",
         "\n",
-        "total",
+        "KU-RO(total)",
         "olive",
         "93",
         "¹⁄₂",
@@ -11993,11 +11993,11 @@ var inscriptions = [
         "𐙜",
         "𐄁",
         "\n",
-        "total",
+        "KU-RO(total)",
         "25",
         "≈ ¹⁄₆",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "6"
     ],
     "transliteratedWords": [
@@ -12126,8 +12126,8 @@ var inscriptions = [
         "𐘸𐘁",
         "𐄌𐝫"
     ]
-},
-{
+}],
+["HT123b",{
     "image": "images/HT123b-Inscription.jpg",
     "name": "HT123b",
     "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝆𐝃\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫",
@@ -12165,10 +12165,10 @@ var inscriptions = [
         "DU-MA-I-NA",
         "³⁄₈",
         "\n",
-        "total",
+        "KU-RO(total)",
         "20",
         "\n",
-        "owed",
+        "KI-RO(owed)",
         "5"
     ],
     "transliteratedWords": [
@@ -12247,8 +12247,8 @@ var inscriptions = [
         "𐘸𐘁",
         "𐄋𐝫"
     ]
-},
-{
+}],
+["HT125a",{
     "image": "images/HT125a-Inscription.jpg",
     "name": "HT125a",
     "parsedInscription": "𐝫\n𐝫𐘽𐝫\n𐝫𐜓𐄇𐝂\n𐜋𐝫\n𐝫𐜗𐄇𐝆𐝫\n𐝫𐘞𐘽𐙉𐄈\n𐙖𐝫𐄇",
@@ -12320,8 +12320,8 @@ var inscriptions = [
         "𐙖𐝫",
         "𐄇"
     ]
-},
-{
+}],
+["HT125b",{
     "image": "images/HT125b-Inscription.jpg",
     "name": "HT125b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄑\n𐝫𐘙𐘷𐛭𐄑\n𐛵𐄍𐝆\n𐙘𐄐\n𐘝𐄑𐄉",
@@ -12387,8 +12387,8 @@ var inscriptions = [
         "𐘝",
         "𐄑𐄉"
     ]
-},
-{
+}],
+["HT126a",{
     "image": "images/HT126a-Inscription.jpg",
     "name": "HT126a",
     "parsedInscription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇\n𐘉𐝫\n𐝫𐝆\n𐘤𐘆𐘱𐄇𐝫\n𐝫𐘉𐘪𐄇\n𐘢𐝫\n𐝫𐄕𐄈𐝫\n𐝫𐄈𐝫\n𐝫",
@@ -12478,8 +12478,8 @@ var inscriptions = [
         "𐝫𐄈𐝫",
         "𐝫"
     ]
-},
-{
+}],
+["HT126b",{
     "image": "images/HT126b-Inscription.jpg",
     "name": "HT126b",
     "parsedInscription": "𐝫𐙙𐄉\n𐝫𐄌\n𐙆𐄊\n𐄁𐘐𐝫\n𐝫\n𐝫𐙆𐝫\n𐝫𐘹𐄌\n𐝫",
@@ -12545,8 +12545,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT127a",{
     "image": "images/HT127a-Inscription.jpg",
     "name": "HT127a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
@@ -12582,8 +12582,8 @@ var inscriptions = [
         "𐝫𐜝𐘀𐘨𐙂",
         "𐄇"
     ]
-},
-{
+}],
+["HT127b",{
     "image": "images/HT127b-Inscription.jpg",
     "name": "HT127b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘗𐄐𐄉𐝫\n𐙂𐘁𐙛𐄙𐄔𐄌\n𐙂𐄖𐄈\n𐛫𐄑𐄊\n𐛖𐄐𐄋\n𐙕𐄐𐄇\n𐛖𐄐𐄊\n𐙂𐘁𐄚𐄘𐄈",
@@ -12596,7 +12596,7 @@ var inscriptions = [
         "NE",
         "13",
         "\n",
-        "total",
+        "KU-RO(total)",
         "𐙛",
         "156",
         "\n",
@@ -12615,7 +12615,7 @@ var inscriptions = [
         "𐛖",
         "14",
         "\n",
-        "total",
+        "KU-RO(total)",
         "291"
     ],
     "transliteratedWords": [
@@ -12676,8 +12676,8 @@ var inscriptions = [
         "𐙂𐘁",
         "𐄚𐄘𐄈"
     ]
-},
-{
+}],
+["HT128a",{
     "image": "images/HT128a-Inscription.jpg",
     "name": "HT128a",
     "parsedInscription": "𐙲𐄁\n𐘂𐘴\n𐘹𐘘𐘯𐘈𐘋𐙉𐝫𐄐\n𐘮𐘹𐙁𐘙𐛲𐄐𐄈𐝫\n𐝫𐘻𐘳𐛭𐝆𐝫\n𐛲𐄌\n𐘆𐝫\n𐛲𐄊\n𐙁𐘭𐝫\n𐝫",
@@ -12773,8 +12773,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT128b",{
     "image": "images/HT128b-Inscription.jpg",
     "name": "HT128b",
     "parsedInscription": "𐛲𐄌\n𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫",
@@ -12828,8 +12828,8 @@ var inscriptions = [
         "𐄌",
         "𐝫"
     ]
-},
-{
+}],
+["HT129",{
     "image": "images/HT129-Inscription.jpg",
     "name": "HT129",
     "parsedInscription": "𐘸𐘙𐘷𐙉𐄒𐄉𐝆𐝁\n𐙘𐄐\n𐘝𐄑𐄈\n𐘹𐘐𐘭𐘅𐙉𐄓𐝆\n𐜉𐄇𐝫\n𐝫𐜓𐄌\n𐝫𐙖𐝫\n𐝫",
@@ -12916,8 +12916,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT130",{
     "image": "images/HT130-Inscription.jpg",
     "name": "HT130",
     "parsedInscription": "𐝫\n𐝫𐘤𐄉\n𐘞𐘽𐙗𐝫\n𐝫\n𐝫𐘽𐝫\n𐝫𐙂𐘁𐝫\n—\n𐘤𐙗𐄎\n𐘝𐄌\n𐙍𐄉",
@@ -12934,7 +12934,7 @@ var inscriptions = [
         "\n",
         "RA2",
         "\n",
-        "total",
+        "KU-RO(total)",
         "\n",
         "—",
         "\n",
@@ -12995,8 +12995,8 @@ var inscriptions = [
         "𐙍",
         "𐄉"
     ]
-},
-{
+}],
+["HT131a",{
     "image": "images/HT131a-Inscription.jpg",
     "name": "HT131a",
     "parsedInscription": "𐝫\n𐝫𐘝𐄕𐄈\n𐙂𐝫\n𐝫𐄛𐄔𐄉\n𐘚𐘌𐙈𐙉𐄔𐄎𐝫\n𐝫𐙖𐄐𐄈𐝆\n𐙘𐄐𐄈𐝆𐝃",
@@ -13068,8 +13068,8 @@ var inscriptions = [
         "𐄐𐄈",
         "𐝆𐝃"
     ]
-},
-{
+}],
+["HT131b",{
     "image": "images/HT131b-Inscription.jpg",
     "name": "HT131b",
     "parsedInscription": "𐝫\n𐝫𐘝𐄒𐝫\n𐝫𐙋𐄈\n𐛼𐝫\n—\n𐘊𐘄𐙂𐘁𐝫𐄜𐄔𐄈𐝆𐝫",
@@ -13087,7 +13087,7 @@ var inscriptions = [
         "\n",
         "—",
         "\n",
-        "grand total",
+        "PO-TO-KU-RO(grand total)",
         "451",
         "¹⁄₂"
     ],
@@ -13123,8 +13123,8 @@ var inscriptions = [
         "𐝫𐄜𐄔𐄈",
         "𐝆𐝫"
     ]
-},
-{
+}],
+["HT132",{
     "image": "images/HT132-Inscription.jpg",
     "name": "HT132",
     "parsedInscription": "𐘇𐘈𐄁𐙫𐄋\n𐘌𐘙𐘄𐄁𐘓𐄑𐄍\n𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫",
@@ -13187,15 +13187,15 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT133",{
     "image": "images/HT133-Inscription.jpg",
     "name": "HT133",
     "parsedInscription": "𐘇𐘬𐄁𐘃𐛬𐄔𐄋",
     "tracingImage": "images/HT133-Tracing.jpg",
     "transcription": "𐘇𐘬𐄁𐘃𐛬\n𐄔𐄋",
     "translatedWords": [
-        "assessment",
+        "A-DU(assessment)",
         "𐄁",
         "TE",
         "𐛬",
@@ -13215,8 +13215,8 @@ var inscriptions = [
         "𐛬",
         "𐄔𐄋"
     ]
-},
-{
+}],
+["HT135a",{
     "image": "images/HT135a-Inscription.jpg",
     "name": "HT135a",
     "parsedInscription": "𐝫\n𐝫𐘗𐘻𐘅𐄐𐝫\n𐝫𐘻𐘹𐄁\n𐘻𐘾𐝫\n𐝫𐄇\n𐘅𐘐𐘗𐝫\n𐝫𐘻𐄈",
@@ -13276,8 +13276,8 @@ var inscriptions = [
         "𐝫𐘻",
         "𐄈"
     ]
-},
-{
+}],
+["HT135b",{
     "image": "images/HT135b-Inscription.jpg",
     "name": "HT135b",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈",
@@ -13307,8 +13307,8 @@ var inscriptions = [
         "\n",
         "𐄈"
     ]
-},
-{
+}],
+["HT136a",{
     "image": "images/HT136a-Inscription.jpg",
     "name": "HT136a",
     "parsedInscription": "𐝫\n𐝫",
@@ -13326,8 +13326,8 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT136b",{
     "image": "images/HT136b-Inscription.jpg",
     "name": "HT136b",
     "parsedInscription": "𐝫\n𐝫𐄑𐄊𐝫\n𐝫",
@@ -13354,8 +13354,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT137",{
     "image": "images/HT137-Inscription.jpg",
     "name": "HT137",
     "parsedInscription": "𐝫\n𐝫𐘷𐙉𐝫𐄉𐝫\n𐜗𐄌𐝫\n𐝫𐙖𐄈\n𐝫",
@@ -13400,8 +13400,8 @@ var inscriptions = [
         "𐄈",
         "𐝫"
     ]
-},
-{
+}],
+["HT139",{
     "image": "images/HT139-Inscription.jpg",
     "name": "HT139",
     "parsedInscription": "𐝫𐘫𐙁𐙂𐝫\n𐝫𐙉𐝫𐄇\n𐙖𐝆\n𐝫𐘾𐘽𐝫\n𐝫",
@@ -13446,8 +13446,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT140",{
     "image": "images/HT140-Inscription.jpg",
     "name": "HT140",
     "parsedInscription": "𐘉𐘟𐘤𐄁\n𐙅𐘤𐘝𐄁𐄇𐝫\n𐘧𐘆𐄁𐜓𐄇𐝆\n𐄁\n𐘉𐘟𐘤𐝫𐄁𐝫\n𐙅𐘤𐙈𐘾𐄉\n𐘾𐝫\n𐝫𐙁𐝫\n𐝫𐘾𐝫\n𐝫𐄊\n𐜋𐄉\n𐘾𐄇\n𐜋𐄇\n𐝫𐘾𐄇\n𐜋𐄈\n𐘾𐘂𐝆𐝫\n𐝫𐜋𐄌𐝆",
@@ -13498,7 +13498,7 @@ var inscriptions = [
         "𐜋",
         "2",
         "\n",
-        "fruit,crops",
+        "KA-PA(fruit,crops)",
         "¹⁄₂",
         "\n",
         "𐜋",
@@ -13609,8 +13609,8 @@ var inscriptions = [
         "𐄌",
         "𐝆"
     ]
-},
-{
+}],
+["HT141",{
     "image": "images/HT141-Inscription.jpg",
     "name": "HT141",
     "parsedInscription": "𐝫\n𐝫𐄇\n𐘇𐘭𐝫\n𐝫𐘘𐘆𐝫\n𐝫",
@@ -13649,8 +13649,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT142",{
     "image": "images/HT142-Inscription.jpg",
     "name": "HT142",
     "parsedInscription": "𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
@@ -13680,8 +13680,8 @@ var inscriptions = [
         "\n",
         "\n"
     ]
-},
-{
+}],
+["HT144",{
     "image": "images/HT144-Inscription.jpg",
     "name": "HT144",
     "parsedInscription": "𐝫𐄁𐘵𐝫\n𐝫\n𐝫",
@@ -13708,8 +13708,8 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["HT146",{
     "image": "images/HT146-Inscription.jpg",
     "name": "HT146",
     "parsedInscription": "𐝫\n𐝫𐘿𐝫𐝫𐄒\n𐘭𐙙𐄒\n𐙁𐄒\n𐘭𐘾𐘳𐄒",
@@ -13760,8 +13760,8 @@ var inscriptions = [
         "𐘭𐘾𐘳",
         "𐄒"
     ]
-},
-{
+}],
+["HT147",{
     "image": "images/HT147-Inscription.jpg",
     "name": "HT147",
     "parsedInscription": "𐝫\n𐝫𐘴𐝅\n𐝫𐝆\n𐝫𐘝𐝫\n𐝫",
@@ -13800,8 +13800,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["HT154",{
     "image": "images/HT154-Inscription.jpg",
     "name": "HT154",
     "parsedInscription": "𐛀𐄁\n𐘠𐝫\n𐝫𐄙\n𐝫𐄍𐝫\n𐝫𐄓𐝫\n𐘸𐝫\n𐝫",
@@ -13855,8 +13855,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KE1",{
     "image": "images/KE1-Inscription.jpg",
     "name": "KE1",
     "parsedInscription": "𐘾𐘞𐝫\n𐝫\n𐝫",
@@ -13883,8 +13883,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH1",{
     "image": "images/KH1-Inscription.jpg",
     "name": "KH1",
     "parsedInscription": "𐝫𐘧𐄁𐛵𐄖𐝫\n𐄉𐝆\n𐘝𐝫\n𐝫",
@@ -13929,8 +13929,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH2",{
     "image": "images/KH2-Inscription.jpg",
     "name": "KH2",
     "parsedInscription": "𐝫\n𐝫𐄑\n𐘹𐝫\n𐙗𐝫𐝃\n𐙚𐜚𐝫\n𐝫",
@@ -13978,8 +13978,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH3",{
     "image": "images/KH3-Inscription.jpg",
     "name": "KH3",
     "parsedInscription": "𐝫\n𐝫𐘯𐄇\n—",
@@ -14009,8 +14009,8 @@ var inscriptions = [
         "\n",
         "—"
     ]
-},
-{
+}],
+["KH4",{
     "image": "images/KH4-Inscription.jpg",
     "name": "KH4",
     "parsedInscription": "𐘇𐘬𐘙𐝫\n𐝫𐙚𐄊\n𐙗𐝁𐝫\n𐝫\n𐝫",
@@ -14055,8 +14055,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH5",{
     "image": "images/KH5-Inscription.jpg",
     "name": "KH5",
     "parsedInscription": "𐘇𐘸𐘤𐘾𐄁𐘇𐘴𐘉𐘀𐄁\n𐘣𐘞𐘞𐘗𐜚𐄈\n𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁\n𐙂𐘂𐙀𐙗𐝫𐄉𐝫𐝀\n𐘝𐄈𐝆𐝁",
@@ -14143,8 +14143,8 @@ var inscriptions = [
         "𐄈",
         "𐝆𐝁"
     ]
-},
-{
+}],
+["KH6",{
     "image": "images/KH6-Inscription.jpg",
     "name": "KH6",
     "parsedInscription": "𐝫𐜙𐝆\n𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆\n𐚇𐝫\n𐝫𐙗𐝫𐝆\n𐘭𐘳𐘧𐜙𐝫\n𐝫𐘑𐄇\n𐜙𐝆\n𐘕𐄇\n𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇\n𐜙𐝆\n𐘢𐘞𐝫\n𐝫𐜙𐝆\n𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎\n𐙗𐄈𐝆𐝁",
@@ -14315,8 +14315,8 @@ var inscriptions = [
         "𐄈",
         "𐝆𐝁"
     ]
-},
-{
+}],
+["KH7a",{
     "image": "images/KH7a-Inscription.jpg",
     "name": "KH7a",
     "parsedInscription": "𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊\n𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇\n𐘡𐘅𐘤𐄁𐛪𐄐\n𐜙𐝆\n𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐛪𐄊\n𐜙𐝁\n𐘈𐙙𐄁\n𐙂𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎\n𐜙𐄇𐝆𐝃𐝉𐝫\n𐝫𐝁𐝌\n𐝫",
@@ -14475,8 +14475,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH7b",{
     "image": "images/KH7b-Inscription.jpg",
     "name": "KH7b",
     "parsedInscription": "𐝫\n—\n𐘉𐘳𐘚𐘈𐜙𐝆𐝫\n𐝫𐘂𐘅𐘹𐜙𐝆\n𐜝𐄇\n𐘤𐄐𐄊\n𐜛𐄈",
@@ -14548,8 +14548,8 @@ var inscriptions = [
         "𐜛",
         "𐄈"
     ]
-},
-{
+}],
+["KH8",{
     "image": "images/KH8-Inscription.jpg",
     "name": "KH8",
     "parsedInscription": "𐝫\n𐝫𐘙𐝫\n𐝫𐘳𐄈\n𐜙𐝆\n𐘝𐝆\n𐝫𐙉𐝆\n𐙘𐝃\n𐙗𐝃\n𐙇𐝫\n𐝫𐘝𐝃\n𐙢𐄇\n𐚻𐄇",
@@ -14657,8 +14657,8 @@ var inscriptions = [
         "𐚻",
         "𐄇"
     ]
-},
-{
+}],
+["KH9",{
     "image": "images/KH9-Inscription.jpg",
     "name": "KH9",
     "parsedInscription": "𐘇𐘤𐘲𐘊𐘇𐄁𐛨𐝫\n𐝫𐝇\n𐘝𐝃𐝁\n𐘻𐝫\n𐝫𐘚𐘤𐄁𐜙𐝆𐝫\n𐝫𐄈\n𐙗𐝃\n𐙍𐝫\n𐝫𐙗𐝃𐝉𐝫\n𐝫𐝎\n𐛌𐙘𐄇𐝫",
@@ -14760,8 +14760,8 @@ var inscriptions = [
         "𐛌𐙘",
         "𐄇𐝫"
     ]
-},
-{
+}],
+["KH10",{
     "image": "images/KH10-Inscription.jpg",
     "name": "KH10",
     "parsedInscription": "𐝫\n𐝫𐄈\n𐝫𐝆\n𐙉𐄐\n𐘚𐘂𐘞𐘱𐄁𐘌𐙈\n𐘇𐘸𐘢𐘡𐘃𐙉𐄘",
@@ -14824,15 +14824,15 @@ var inscriptions = [
         "𐙉",
         "𐄘"
     ]
-},
-{
+}],
+["KH11",{
     "image": "images/KH11-Inscription.jpg",
     "name": "KH11",
     "parsedInscription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉\n𐜚𐝇𐝉\n𐙍𐝀\n𐙚𐄊\n𐙗𐝁\n𐚈𐙗𐝇𐝉\n𐘇𐘄𐚉𐘄𐘚𐜚𐄉\n𐘝𐄇\n𐙍𐄉\n𐘇𐘳𐚊𐙕𐄇\n𐙚𐄇\n𐘤𐙗𐝇𐝉",
     "tracingImage": "images/KH11-Tracing.jpg",
     "transcription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉𐜚𐝇𐝉𐙍𐝀\n𐙚𐄊𐙗𐝁𐚈𐙗𐝇\n𐝉𐘇𐘄𐚉𐘄𐘚𐜚\n𐄉𐘝𐄇𐙍𐄉𐘇𐘳𐚊\n𐙕𐄇𐙚𐄇𐘤𐙗𐝇𐝉",
     "translatedWords": [
-        "assessment",
+        "A-DU(assessment)",
         "𐄁",
         "ZA",
         "cyperus",
@@ -14966,8 +14966,8 @@ var inscriptions = [
         "𐘤𐙗",
         "𐝇𐝉"
     ]
-},
-{
+}],
+["KH12",{
     "image": "images/KH12-Inscription.jpg",
     "name": "KH12",
     "parsedInscription": "𐝫𐙗𐝫𐄈\n𐙜𐝆\n𐛚𐝆\n𐝫𐝁\n𐙻𐝫𐝫𐝁\n𐛀\n𐝫𐝇\n𐜫𐝂\n𐜩𐝍𐝫\n𐝫𐜩𐝍𐝫\n𐝫",
@@ -15063,8 +15063,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH13",{
     "image": "images/KH13-Inscription.jpg",
     "name": "KH13",
     "parsedInscription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉\n𐙘𐝫𐙗𐝁𐝫\n𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫",
@@ -15133,8 +15133,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH14",{
     "image": "images/KH14-Inscription.jpg",
     "name": "KH14",
     "parsedInscription": "𐝫𐘴𐄁\n𐘇𐙁𐘱𐄁𐙗𐄌𐝫\n𐝫𐙗𐝃\n𐙼𐄈\n𐙗𐝇𐝫\n𐝫𐘝𐝃\n𐛨𐄈𐝫\n𐙗𐝫\n𐝫",
@@ -15144,7 +15144,7 @@ var inscriptions = [
         "RA",
         "𐄁",
         "\n",
-        "wagon[?]",
+        "A-MA-JA(wagon[?])",
         "𐄁",
         "cyperus",
         "6",
@@ -15224,8 +15224,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH15",{
     "image": "images/KH15-Inscription.jpg",
     "name": "KH15",
     "parsedInscription": "𐝫𐙗𐝫𐝆\n𐘝𐝆\n𐝫𐘝𐝃",
@@ -15261,8 +15261,8 @@ var inscriptions = [
         "𐝫𐘝",
         "𐝃"
     ]
-},
-{
+}],
+["KH16",{
     "image": "images/KH16-Inscription.jpg",
     "name": "KH16",
     "parsedInscription": "𐝫𐄑𐄈\n𐙗𐝇𐝉𐝫\n𐝫𐘉𐘳𐘚𐘤𐜙𐝫\n𐝫𐝆\n𐘳𐝫\n𐝫",
@@ -15313,8 +15313,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH17",{
     "image": "images/KH17-Inscription.jpg",
     "name": "KH17",
     "parsedInscription": "𐝫\n𐝫𐝫\n𐝫𐄊𐝆𐝁\n𐘝𐝫\n𐝫𐘝𐄇\n𐘇𐝫\n𐝫",
@@ -15371,8 +15371,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH18",{
     "image": "images/KH18-Inscription.jpg",
     "name": "KH18",
     "parsedInscription": "𐝫\n𐝫𐜨\n𐝫𐄋\n𐘚𐙂𐘢𐝫\n𐝫𐙏𐄇\n𐙂𐄑𐄈\n𐘤𐝫\n𐝫𐚵𐙏𐄇\n𐚶𐝫",
@@ -15447,8 +15447,8 @@ var inscriptions = [
         "\n",
         "𐚶𐝫"
     ]
-},
-{
+}],
+["KH19",{
     "image": "images/KH19-Inscription.jpg",
     "name": "KH19",
     "parsedInscription": "𐝫𐙚𐛨𐄐𐄉𐝫\n𐝫𐄈\n𐜐𐝁𐝫",
@@ -15481,8 +15481,8 @@ var inscriptions = [
         "𐜐",
         "𐝁𐝫"
     ]
-},
-{
+}],
+["KH20",{
     "image": "images/KH20-Inscription.jpg",
     "name": "KH20",
     "parsedInscription": "𐝫\n𐝫\n𐘇𐘤𐘸𐘴𐄁𐜚𐝫\n𐝫𐝁\n𐝫𐘬𐘙𐘍𐄁𐜚𐝆\n𐘝𐝃",
@@ -15545,8 +15545,8 @@ var inscriptions = [
         "𐘝",
         "𐝃"
     ]
-},
-{
+}],
+["KH21",{
     "image": "images/KH21-Inscription.jpg",
     "name": "KH21",
     "parsedInscription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂\n𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
@@ -15591,8 +15591,8 @@ var inscriptions = [
         "\n",
         "𐙚𐘿𐘬𐝫"
     ]
-},
-{
+}],
+["KH22",{
     "image": "images/KH22-Inscription.jpg",
     "name": "KH22",
     "parsedInscription": "𐝫𐘍𐄁𐘲𐄍\n𐜚𐝫\n𐝫𐘤𐄊\n𐙗𐝫\n𐝫",
@@ -15643,15 +15643,15 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH23",{
     "image": "images/KH23-Inscription.jpg",
     "name": "KH23",
     "parsedInscription": "𐘇𐘬𐝫\n𐝫𐙗𐝫\n𐝫",
     "tracingImage": "images/KH23-Tracing.jpg",
     "transcription": "𐘇𐘬𐝫\n𐝫𐙗𐝫\n𐝫",
     "translatedWords": [
-        "assessment",
+        "A-DU(assessment)",
         "\n",
         "cyperus",
         "\n",
@@ -15671,8 +15671,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH24",{
     "image": "images/KH24-Inscription.jpg",
     "name": "KH24",
     "parsedInscription": "𐝫𐘲𐄐𐄈𐝫\n𐝫𐝉\n𐝫",
@@ -15702,8 +15702,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH25",{
     "image": "images/KH25-Inscription.jpg",
     "name": "KH25",
     "parsedInscription": "𐝫𐙇𐄙𐄓𐝫\n𐝫𐙇𐄐𐝫\n𐝫",
@@ -15736,8 +15736,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH26",{
     "image": "images/KH26-Inscription.jpg",
     "name": "KH26",
     "parsedInscription": "𐝫\n𐝫𐙇𐄕𐝫\n𐝫𐘝𐄈𐝃𐝋\n𐝫\n𐝫\n𐝫",
@@ -15791,8 +15791,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH27",{
     "image": "images/KH27-Inscription.jpg",
     "name": "KH27",
     "parsedInscription": "𐝫\n𐝫𐘝𐝫\n𐝫𐛭𐄊𐝫",
@@ -15822,8 +15822,8 @@ var inscriptions = [
         "𐝫𐛭",
         "𐄊𐝫"
     ]
-},
-{
+}],
+["KH28",{
     "image": "images/KH28-Inscription.jpg",
     "name": "KH28",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘈𐄁𐛵𐝫",
@@ -15856,8 +15856,8 @@ var inscriptions = [
         "𐄁",
         "𐛵𐝫"
     ]
-},
-{
+}],
+["KH29",{
     "image": "images/KH29-Inscription.jpg",
     "name": "KH29",
     "parsedInscription": "𐝫𐘴𐄁𐘷𐝫\n𐝫𐄇\n𐙂𐘂𐝫\n𐝫𐄈\n𐙗𐝆𐝫\n𐝫\n𐝫",
@@ -15917,8 +15917,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH30",{
     "image": "images/KH30-Inscription.jpg",
     "name": "KH30",
     "parsedInscription": "𐝫\n𐝫𐝉𐝫\n𐝫𐘝𐄏",
@@ -15948,8 +15948,8 @@ var inscriptions = [
         "𐝫𐘝",
         "𐄏"
     ]
-},
-{
+}],
+["KH31",{
     "image": "images/KH31-Inscription.jpg",
     "name": "KH31",
     "parsedInscription": "𐝫\n𐝫𐜨\n—\n𐝫𐝆\n𐜪𐝫\n𐝫𐄇\n𐝫",
@@ -16000,8 +16000,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH32",{
     "image": "images/KH32-Inscription.jpg",
     "name": "KH32",
     "parsedInscription": "𐘚𐙷𐝫\n𐝫𐄋𐝫\n𐝫",
@@ -16028,8 +16028,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH33",{
     "image": "images/KH33-Inscription.jpg",
     "name": "KH33",
     "parsedInscription": "𐝫\n𐝫𐜙𐝫\n𐝫𐄇\n𐘇𐝫\n𐝫",
@@ -16068,8 +16068,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH34",{
     "image": "images/KH34-Inscription.jpg",
     "name": "KH34",
     "parsedInscription": "𐝫𐜚𐄈\n𐘝𐝫\n𐝫\n𐝫",
@@ -16102,8 +16102,8 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["KH35",{
     "image": "images/KH35-Inscription.jpg",
     "name": "KH35",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄇\n𐙗𐝫\n𐝫",
@@ -16139,8 +16139,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH36",{
     "image": "images/KH36-Inscription.jpg",
     "name": "KH36",
     "parsedInscription": "𐝫𐘾𐄁𐛚𐄊𐝫\n𐝫𐘅𐝫\n𐝫",
@@ -16176,8 +16176,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH37",{
     "image": "images/KH37-Inscription.jpg",
     "name": "KH37",
     "parsedInscription": "𐜜𐄈\n𐘣𐝫\n𐜜\n𐝫",
@@ -16213,8 +16213,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH38",{
     "image": "images/KH38-Inscription.jpg",
     "name": "KH38",
     "parsedInscription": "𐝫\n𐝫\n𐜙𐝆𐝫\n𐝫\n𐝫",
@@ -16250,8 +16250,8 @@ var inscriptions = [
         "𐝫",
         "\n"
     ]
-},
-{
+}],
+["KH39",{
     "image": "images/KH39-Inscription.jpg",
     "name": "KH39",
     "parsedInscription": "𐘇𐘳𐝫\n𐝫𐜐𐝫\n𐝫",
@@ -16278,8 +16278,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH40",{
     "image": "images/KH40-Inscription.jpg",
     "name": "KH40",
     "parsedInscription": "𐝫\n𐝫𐘤𐘅𐝫\n𐝫",
@@ -16306,8 +16306,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH41",{
     "image": "images/KH41-Inscription.jpg",
     "name": "KH41",
     "parsedInscription": "𐝫𐄉\n𐝫𐘾𐘳𐘙𐝫\n𐝫",
@@ -16334,8 +16334,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH42",{
     "image": "images/KH42-Inscription.jpg",
     "name": "KH42",
     "parsedInscription": "𐝫\n𐝫𐜟𐝫\n𐝫",
@@ -16362,8 +16362,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH43",{
     "image": "images/KH43-Inscription.jpg",
     "name": "KH43",
     "parsedInscription": "𐝫𐛢𐘙𐄈\n𐛇𐝫\n𐝫",
@@ -16393,8 +16393,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH44",{
     "image": "images/KH44-Inscription.jpg",
     "name": "KH44",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙻𐝫\n𐝫",
@@ -16427,8 +16427,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH45",{
     "image": "images/KH45-Inscription.jpg",
     "name": "KH45",
     "parsedInscription": "𐘇𐝫\n𐝫\n𐝫",
@@ -16455,8 +16455,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH46",{
     "image": "images/KH46-Inscription.jpg",
     "name": "KH46",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝋\n𐙍𐝫\n𐝫",
@@ -16495,8 +16495,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH47",{
     "image": "images/KH47-Inscription.jpg",
     "name": "KH47",
     "parsedInscription": "𐝫\n𐝫𐘌𐘗𐝫\n𐝫𐄌\n𐘤𐝫\n𐝫𐘴𐄁𐙚𐝫",
@@ -16541,8 +16541,8 @@ var inscriptions = [
         "𐄁",
         "𐙚𐝫"
     ]
-},
-{
+}],
+["KH49",{
     "image": "images/KH49-Inscription.jpg",
     "name": "KH49",
     "parsedInscription": "𐝫\n𐝫𐘘𐝫\n𐝫𐙂𐝫\n𐝫",
@@ -16575,8 +16575,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH50",{
     "image": "images/KH50-Inscription.jpg",
     "name": "KH50",
     "parsedInscription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈\n𐘿𐝫𐄁𐝫𐄇\n—\n—",
@@ -16633,8 +16633,8 @@ var inscriptions = [
         "—",
         "—"
     ]
-},
-{
+}],
+["KH51",{
     "image": "images/KH51-Inscription.jpg",
     "name": "KH51",
     "parsedInscription": "𐝫𐘤𐘚𐘤𐄉\n𐝫𐄊\n𐘹𐝫\n𐝫",
@@ -16670,8 +16670,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH52",{
     "image": "images/KH52-Inscription.jpg",
     "name": "KH52",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘳𐘉𐝫\n𐝫",
@@ -16704,8 +16704,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH53",{
     "image": "images/KH53-Inscription.jpg",
     "name": "KH53",
     "parsedInscription": "𐝫𐘇𐘋𐙌𐄁\n𐘗𐝫\n𐝫",
@@ -16735,8 +16735,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH54",{
     "image": "images/KH54-Inscription.jpg",
     "name": "KH54",
     "parsedInscription": "𐝫𐜚𐄇\n𐙉𐝫𐄇𐝫\n𐝫\n𐝫",
@@ -16775,8 +16775,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH55",{
     "image": "images/KH55-Inscription.jpg",
     "name": "KH55",
     "parsedInscription": "𐝫\n𐝫\n𐜐𐝁𐝫\n𐄉𐝫\n𐘝𐝫\n𐝫",
@@ -16824,8 +16824,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH56",{
     "image": "images/KH56-Inscription.jpg",
     "name": "KH56",
     "parsedInscription": "𐝫𐝕𐝉𐝫\n𐝫\n𐝫",
@@ -16852,8 +16852,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH57",{
     "image": "images/KH57-Inscription.jpg",
     "name": "KH57",
     "parsedInscription": "𐝫\n𐝫𐘹𐝫\n𐝫𐘎𐄇𐝫\n𐝫𐙗𐝫𐝃𐝫\n𐝫",
@@ -16898,8 +16898,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH58",{
     "image": "images/KH58-Inscription.jpg",
     "name": "KH58",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙗𐝫𐄊\n𐘝𐝫\n𐝫𐜚𐄇𐝃\n𐘇𐝫\n𐝫𐜚𐄊𐝫\n𐝫𐙗𐝫𐝆\n𐘇𐙕𐝫",
@@ -16977,8 +16977,8 @@ var inscriptions = [
         "\n",
         "𐘇𐙕𐝫"
     ]
-},
-{
+}],
+["KH59",{
     "image": "images/KH59-Inscription.jpg",
     "name": "KH59",
     "parsedInscription": "𐝫\n𐝫𐄇\n𐝫𐘚𐄋\n𐝫𐘆𐘅𐄋\n𐝫",
@@ -17023,8 +17023,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH60",{
     "image": "images/KH60-Inscription.jpg",
     "name": "KH60",
     "parsedInscription": "𐝫𐘴𐘸𐘳𐘅𐘤𐝫\n𐝫𐙏𐝍\n𐘷𐙗𐝫\n𐝫𐝂\n𐛚𐝂𐝫\n𐝫\n𐝫",
@@ -17081,8 +17081,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH61",{
     "image": "images/KH61-Inscription.jpg",
     "name": "KH61",
     "parsedInscription": "𐝫\n𐝫𐄑𐝫\n𐝫𐄇\n𐙁𐝫\n𐝫𐝁\n𐜐𐝉𐝫\n𐝫𐙗𐝫𐄈\n𐙉𐄇𐝍",
@@ -17151,8 +17151,8 @@ var inscriptions = [
         "𐄇",
         "𐝍"
     ]
-},
-{
+}],
+["KH62",{
     "image": "images/KH62-Inscription.jpg",
     "name": "KH62",
     "parsedInscription": "𐝫\n𐝫𐙁𐝫",
@@ -17173,8 +17173,8 @@ var inscriptions = [
         "\n",
         "𐝫𐙁𐝫"
     ]
-},
-{
+}],
+["KH63",{
     "image": "images/KH63-Inscription.jpg",
     "name": "KH63",
     "parsedInscription": "𐝫\n𐝫𐘲𐄐𐝫\n𐝫𐜩𐝉𐝫\n𐝫",
@@ -17213,8 +17213,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH64",{
     "image": "images/KH64-Inscription.jpg",
     "name": "KH64",
     "parsedInscription": "𐝫\n𐝫𐘳𐝫\n𐝫\n𐝫",
@@ -17247,8 +17247,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH65",{
     "image": "images/KH65-Inscription.jpg",
     "name": "KH65",
     "parsedInscription": "𐝫\n𐝫𐘝𐝫\n𐝫",
@@ -17275,8 +17275,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH66",{
     "image": "images/KH66-Inscription.jpg",
     "name": "KH66",
     "parsedInscription": "𐝫𐄒𐝫\n𐝫",
@@ -17297,8 +17297,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH67",{
     "image": "images/KH67-Inscription.jpg",
     "name": "KH67",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄇𐝫\n𐝫",
@@ -17331,8 +17331,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH69",{
     "image": "images/KH69-Inscription.jpg",
     "name": "KH69",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
@@ -17359,8 +17359,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH70",{
     "image": "images/KH70-Inscription.jpg",
     "name": "KH70",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
@@ -17387,8 +17387,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH72",{
     "image": "images/KH72-Inscription.jpg",
     "name": "KH72",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
@@ -17415,8 +17415,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH73",{
     "image": "images/KH73-Inscription.jpg",
     "name": "KH73",
     "parsedInscription": "𐝫\n𐝫𐝉\n𐘇𐝫\n𐝫𐄇\n𐘝𐄇\n𐜝𐄇𐝫\n𐝫𐝇\n𐘇𐝫\n𐝫",
@@ -17485,8 +17485,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH74",{
     "image": "images/KH74-Inscription.jpg",
     "name": "KH74",
     "parsedInscription": "𐝫𐘤𐄁𐘱𐘀𐘲𐝫\n𐝫𐘤𐝥𐘻\n𐝫",
@@ -17519,8 +17519,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH75",{
     "image": "images/KH75-Inscription.jpg",
     "name": "KH75",
     "parsedInscription": "𐝫\n𐝫𐝆𐝫\n𐝫𐙗𐝫𐝇𐝉\n𐘝𐝁\n𐝫",
@@ -17565,8 +17565,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH76",{
     "image": "images/KH76-Inscription.jpg",
     "name": "KH76",
     "parsedInscription": "𐝫\n𐝫𐘤𐄊𐝫\n𐝫𐙗𐝫𐝃𐝌\n𐝫",
@@ -17605,8 +17605,8 @@ var inscriptions = [
         "𐝃𐝌",
         "𐝫"
     ]
-},
-{
+}],
+["KH77",{
     "image": "images/KH77-Inscription.jpg",
     "name": "KH77",
     "parsedInscription": "𐝫𐙗𐝫𐝍\n𐝫",
@@ -17630,8 +17630,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH78",{
     "image": "images/KH78-Inscription.jpg",
     "name": "KH78",
     "parsedInscription": "𐝫\n𐝫𐄒𐝫\n𐝫",
@@ -17658,8 +17658,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH79",{
     "image": "images/KH79-Inscription.jpg",
     "name": "KH79",
     "parsedInscription": "𐝫\n𐝫𐘂𐘀𐝫\n𐝫",
@@ -17686,8 +17686,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH80",{
     "image": "images/KH80-Inscription.jpg",
     "name": "KH80",
     "parsedInscription": "𐝫𐝂\n𐙖𐝫\n𐝫",
@@ -17714,8 +17714,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH81",{
     "image": "images/KH81-Inscription.jpg",
     "name": "KH81",
     "parsedInscription": "𐝫\n𐝫\n𐄋𐝫\n𐛛𐄢𐝫\n𐝫𐄉\n𐝫",
@@ -17763,8 +17763,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH82",{
     "image": "images/KH82-Inscription.jpg",
     "name": "KH82",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐜏𐝉𐝫\n𐝫𐙧𐄇𐝫\n𐝫𐙼𐝫\n𐝫",
@@ -17815,8 +17815,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH83",{
     "image": "images/KH83-Inscription.jpg",
     "name": "KH83",
     "parsedInscription": "𐝫𐄁\n𐘇𐘆𐘗𐝫\n𐄐𐄋\n𐜩𐝫\n𐝫",
@@ -17855,8 +17855,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH84",{
     "image": "images/KH84-Inscription.jpg",
     "name": "KH84",
     "parsedInscription": "𐝫\n𐝫𐙗𐝆𐝫\n𐝫𐙕𐄇\n𐙚𐝫\n𐜩𐝫\n𐝫",
@@ -17907,8 +17907,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH85",{
     "image": "images/KH85-Inscription.jpg",
     "name": "KH85",
     "parsedInscription": "𐝫\n𐝫𐜐𐝆\n𐙜𐝫\n𐝫𐜩𐝇\n𐙏𐝫\n𐝫𐙘𐝫\n𐝫𐙗𐝫𐝂𐝫\n𐝫",
@@ -17974,8 +17974,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH86",{
     "image": "images/KH86-Inscription.jpg",
     "name": "KH86",
     "parsedInscription": "𐝫𐘙𐘍𐙗𐝫\n𐝫𐙗𐝫𐝀𐝁𐝁\n𐘢𐘯𐝫\n𐝫𐄉𐝫\n𐝫𐙗𐝫𐝕𐝫\n𐝫",
@@ -18029,8 +18029,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KH87",{
     "image": "images/KH87-Inscription.jpg",
     "name": "KH87",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝉\n𐙚𐝫\n𐝫𐝆\n𐘖𐄇",
@@ -18078,8 +18078,8 @@ var inscriptions = [
         "𐘖",
         "𐄇"
     ]
-},
-{
+}],
+["KN1a",{
     "image": "images/KN1a-Inscription.jpg",
     "name": "KN1a",
     "parsedInscription": "𐘱𐙂𐘠𐘡𐄚𐄓",
@@ -18100,8 +18100,8 @@ var inscriptions = [
         "𐘡",
         "𐄚𐄓"
     ]
-},
-{
+}],
+["KN1b",{
     "image": "images/KN1b-Inscription.jpg",
     "name": "KN1b",
     "parsedInscription": "𐘱𐘬𐘴𐘠𐘡𐄙𐄋",
@@ -18122,8 +18122,8 @@ var inscriptions = [
         "𐘡",
         "𐄙𐄋"
     ]
-},
-{
+}],
+["KN2",{
     "image": "images/KN2-Inscription.jpg",
     "name": "KN2",
     "parsedInscription": "𐝫𐘘𐘅𐄈\n𐙈𐄉\n𐛁𐄋𐝫\n𐝫",
@@ -18165,8 +18165,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KN22a",{
     "image": "images/KN22a-Inscription.jpg",
     "name": "KN22a",
     "parsedInscription": "𐝫𐘲𐘶𐘳𐝫𐝫𐄑𐝫\n𐝫𐘾𐘧𐝫",
@@ -18190,8 +18190,8 @@ var inscriptions = [
         "\n",
         "𐝫𐘾𐘧𐝫"
     ]
-},
-{
+}],
+["KN22b",{
     "image": "images/KN22b-Inscription.jpg",
     "name": "KN22b",
     "parsedInscription": "𐝫𐘊𐘆𐘰𐄙𐄐",
@@ -18209,8 +18209,8 @@ var inscriptions = [
         "𐝫𐘊𐘆𐘰",
         "𐄙𐄐"
     ]
-},
-{
+}],
+["KN22c",{
     "image": "images/KN22c-Inscription.jpg",
     "name": "KN22c",
     "parsedInscription": "𐝫𐙁𐘲𐘻𐄁𐝫𐄁𐝫𐘅𐝫\n𐝫",
@@ -18243,8 +18243,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KN28a",{
     "image": "images/KN28a-Inscription.jpg",
     "name": "KN28a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘓𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
@@ -18298,8 +18298,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KN28b",{
     "image": "images/KN28b-Inscription.jpg",
     "name": "KN28b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘃𐝊𐝫\n𐝫𐄉\n𐛓𐝊𐝫\n𐝫",
@@ -18350,8 +18350,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KN32a",{
     "image": "images/KN32a-Inscription.jpg",
     "name": "KN32a",
     "parsedInscription": "𐝫\n𐝫𐘇𐘂𐝫\n𐘇𐘾𐘳𐝫\n𐝫",
@@ -18384,8 +18384,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["KN32b",{
     "image": "images/KN32b-Inscription.jpg",
     "name": "KN32b",
     "parsedInscription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘞𐘫\n𐘂𐝫\n𐝫𐘱𐘲\n𐝫",
@@ -18430,8 +18430,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["MA1a",{
     "image": "images/MA1a-Inscription.jpg",
     "name": "MA1a",
     "parsedInscription": "𐄂𐘚𐘬𐘣𐘨\n𐘿𐘦𐘻𐘯𐄁",
@@ -18458,8 +18458,8 @@ var inscriptions = [
         "𐘿𐘦𐘻𐘯",
         "𐄁"
     ]
-},
-{
+}],
+["MA1b",{
     "image": "images/MA1b-Inscription.jpg",
     "name": "MA1b",
     "parsedInscription": "𐘇𐙁𐄁𐘨\n𐘿𐘦𐘻𐘯",
@@ -18486,8 +18486,8 @@ var inscriptions = [
         "\n",
         "𐘿𐘦𐘻𐘯"
     ]
-},
-{
+}],
+["MA1c",{
     "image": "images/MA1c-Inscription.jpg",
     "name": "MA1c",
     "parsedInscription": "𐘠",
@@ -18502,8 +18502,8 @@ var inscriptions = [
     "words": [
         "𐘠"
     ]
-},
-{
+}],
+["MA2a",{
     "image": "images/MA2a-Inscription.jpg",
     "name": "MA2a",
     "parsedInscription": "𐝫𐘬𐘴𐄋",
@@ -18521,8 +18521,8 @@ var inscriptions = [
         "𐝫𐘬𐘴",
         "𐄋"
     ]
-},
-{
+}],
+["MA2b",{
     "image": "images/MA2b-Inscription.jpg",
     "name": "MA2b",
     "parsedInscription": "𐝫𐘙𐘠𐄊\n𐝫𐘠𐄇\n𐘱𐙂𐄈\n𐘠𐝫",
@@ -18564,8 +18564,8 @@ var inscriptions = [
         "\n",
         "𐘠𐝫"
     ]
-},
-{
+}],
+["MA2c",{
     "image": "images/MA2c-Inscription.jpg",
     "name": "MA2c",
     "parsedInscription": "𐝫𐘉𐘅𐘅𐄉\n𐝫𐘱𐙁𐘉𐘠𐄌",
@@ -18592,8 +18592,8 @@ var inscriptions = [
         "𐝫𐘱𐙁𐘉𐘠",
         "𐄌"
     ]
-},
-{
+}],
+["MA4a",{
     "image": "images/MA4a-Inscription.jpg",
     "name": "MA4a",
     "parsedInscription": "𐘳𐜅𐄐𐄋\n𐜆𐄙𐄑\n𐜄𐄔𐄉\n𐜃𐄒",
@@ -18638,8 +18638,8 @@ var inscriptions = [
         "𐜃",
         "𐄒"
     ]
-},
-{
+}],
+["MA4b",{
     "image": "images/MA4b-Inscription.jpg",
     "name": "MA4b",
     "parsedInscription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉\n𐄙𐄕",
@@ -18666,8 +18666,8 @@ var inscriptions = [
         "\n",
         "𐄙𐄕"
     ]
-},
-{
+}],
+["MA6a",{
     "image": "images/MA6a-Inscription.jpg",
     "name": "MA6a",
     "parsedInscription": "𐝫𐙒𐝫𐄡𐄓𐄇\n𐜅𐄒𐄋",
@@ -18694,8 +18694,8 @@ var inscriptions = [
         "𐜅",
         "𐄒𐄋"
     ]
-},
-{
+}],
+["MA6b",{
     "image": "images/MA6b-Inscription.jpg",
     "name": "MA6b",
     "parsedInscription": "𐝫𐙒𐄞𐄑𐝫",
@@ -18713,8 +18713,8 @@ var inscriptions = [
         "𐝫𐙒",
         "𐄞𐄑𐝫"
     ]
-},
-{
+}],
+["MA6c",{
     "image": "images/MA6c-Inscription.jpg",
     "name": "MA6c",
     "parsedInscription": "𐝫𐜅𐄊𐝫\n𐙒𐝫𐄗𐄍𐝫\n𐝫𐙒𐝫𐄚𐄒𐄉𐝫",
@@ -18750,8 +18750,8 @@ var inscriptions = [
         "𐝫𐙒𐝫",
         "𐄚𐄒𐄉𐝫"
     ]
-},
-{
+}],
+["MA6d",{
     "image": "images/MA6d-Inscription.jpg",
     "name": "MA6d",
     "parsedInscription": "𐝫𐙒𐄚𐝫",
@@ -18769,8 +18769,8 @@ var inscriptions = [
         "𐝫𐙒",
         "𐄚𐝫"
     ]
-},
-{
+}],
+["PA1",{
     "image": "images/PA1-Inscription.jpg",
     "name": "PA1",
     "parsedInscription": "𐘇𐙂𐘶𐘂𐙈𐄒𐄋",
@@ -18788,8 +18788,8 @@ var inscriptions = [
         "𐘇𐙂𐘶𐘂𐙈",
         "𐄒𐄋"
     ]
-},
-{
+}],
+["PH1a",{
     "image": "images/PH1a-Inscription.jpg",
     "name": "PH1a",
     "parsedInscription": "𐝫𐘆𐘴𐘆𐘅𐙨𐝫𐄁𐝫𐝉\n𐝫𐘱𐄁𐙨𐄇\n𐙗𐝅\n𐝫",
@@ -18843,8 +18843,8 @@ var inscriptions = [
         "𐝅",
         "𐝫"
     ]
-},
-{
+}],
+["PH1b",{
     "image": "images/PH1b-Inscription.jpg",
     "name": "PH1b",
     "parsedInscription": "𐝫𐄁𐝫𐘅𐄇\n𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
@@ -18883,8 +18883,8 @@ var inscriptions = [
         "𐄈",
         "𐝄𐝇"
     ]
-},
-{
+}],
+["PH2",{
     "image": "images/PH2-Inscription.jpg",
     "name": "PH2",
     "parsedInscription": "𐘇𐘈𐘹𐘐𐄇\n𐘴𐘵𐘆𐘸𐄕\n𐘢𐘘𐘡𐘶𐄕\n𐘈𐘞𐘰𐄕\n𐝫",
@@ -18935,8 +18935,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["PH3a",{
     "image": "images/PH3a-Inscription.jpg",
     "name": "PH3a",
     "parsedInscription": "𐝫𐛠𐄇\n𐘳𐝫\n𐝫𐛡𐄇\n𐛣𐝓\n𐝫𐛢𐝓\n𐘂𐘴𐝓\n𐝫𐘂𐝫\n𐝫𐄇\n𐝫",
@@ -19014,8 +19014,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["PH3b",{
     "image": "images/PH3b-Inscription.jpg",
     "name": "PH3b",
     "parsedInscription": "𐝫𐛘𐝕𐝫\n𐝫𐘤𐝃𐝫\n𐝫\n𐝫𐘤𐄇𐝃𐝫\n𐝫",
@@ -19066,8 +19066,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["PH6",{
     "image": "images/PH6-Inscription.jpg",
     "name": "PH6",
     "parsedInscription": "𐘚𐘅𐘮𐄁\n𐘇𐘭\n𐘚𐙀𐘭𐘝𐘳\n𐘇𐘭\n𐘚𐘀𐘰𐘚𐘞𐘭",
@@ -19109,8 +19109,8 @@ var inscriptions = [
         "\n",
         "𐘚𐘀𐘰𐘚𐘞𐘭"
     ]
-},
-{
+}],
+["PH7a",{
     "image": "images/PH7a-Inscription.jpg",
     "name": "PH7a",
     "parsedInscription": "𐝫\n𐝫𐘆𐘂𐘱𐝫\n𐝫𐘉𐘆𐘭𐘸𐝫\n𐝫𐘱𐘘𐙁𐘗𐝫\n𐝫𐘱𐘤𐘀𐘴𐝫",
@@ -19149,8 +19149,8 @@ var inscriptions = [
         "\n",
         "𐝫𐘱𐘤𐘀𐘴𐝫"
     ]
-},
-{
+}],
+["PH7b",{
     "image": "images/PH7b-Inscription.jpg",
     "name": "PH7b",
     "parsedInscription": "𐝫\n𐝫𐘳𐄇𐝈𐝫\n𐝫𐘀𐘴𐝈𐝫\n𐝫𐙏𐝈𐝃\n𐝫",
@@ -19201,8 +19201,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["PH8a",{
     "image": "images/PH8a-Inscription.jpg",
     "name": "PH8a",
     "parsedInscription": "𐝫\n𐝫𐜵𐄍\n—\n𐝫𐙇𐄐𐄇\n𐙘𐄈\n—\n𐝫𐄐𐄌\n𐜶𐄇\n—\n𐝫",
@@ -19283,8 +19283,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["PH8b",{
     "image": "images/PH8b-Inscription.jpg",
     "name": "PH8b",
     "parsedInscription": "𐝫\n𐝫𐙨𐄇\n𐜢𐝫\n𐝫",
@@ -19320,8 +19320,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["PH9a",{
     "image": "images/PH9a-Inscription.jpg",
     "name": "PH9a",
     "parsedInscription": "𐙩𐘿𐚍𐝏",
@@ -19339,8 +19339,8 @@ var inscriptions = [
         "𐙩𐘿𐚍",
         "𐝏"
     ]
-},
-{
+}],
+["PH9b",{
     "image": "images/PH9b-Inscription.jpg",
     "name": "PH9b",
     "parsedInscription": "𐝫𐚬𐙍𐄇𐝆𐝆",
@@ -19361,8 +19361,8 @@ var inscriptions = [
         "𐄇",
         "𐝆𐝆"
     ]
-},
-{
+}],
+["PH10",{
     "image": "images/PH10-Inscription.jpg",
     "name": "PH10",
     "parsedInscription": "𐚏𐘡𐚎𐙒𐝈𐝈",
@@ -19383,8 +19383,8 @@ var inscriptions = [
         "𐙒",
         "𐝈𐝈"
     ]
-},
-{
+}],
+["PH11",{
     "image": "images/PH11-Inscription.jpg",
     "name": "PH11",
     "parsedInscription": "—\n|||||||||||||\n—",
@@ -19411,8 +19411,8 @@ var inscriptions = [
         "\n",
         "—"
     ]
-},
-{
+}],
+["PH12a",{
     "image": "images/PH12a-Inscription.jpg",
     "name": "PH12a",
     "parsedInscription": "𐙇𐙿𐙒𐄐𐝫𐝈𐝈",
@@ -19433,8 +19433,8 @@ var inscriptions = [
         "𐄐𐝫",
         "𐝈𐝈"
     ]
-},
-{
+}],
+["PH12b",{
     "image": "images/PH12b-Inscription.jpg",
     "name": "PH12b",
     "parsedInscription": "𐝃𐝫\n𐝫𐝃𐝃𐝫",
@@ -19455,8 +19455,8 @@ var inscriptions = [
         "\n",
         "𐝫𐝃𐝃𐝫"
     ]
-},
-{
+}],
+["PH12c",{
     "image": "images/PH12c-Inscription.jpg",
     "name": "PH12c",
     "parsedInscription": "𐘃",
@@ -19471,8 +19471,8 @@ var inscriptions = [
     "words": [
         "𐘃"
     ]
-},
-{
+}],
+["PH13a",{
     "image": "images/PH13a-Inscription.jpg",
     "name": "PH13a",
     "parsedInscription": "𐝫𐙒𐙴𐝫𐝃𐝃",
@@ -19490,8 +19490,8 @@ var inscriptions = [
         "𐝫𐙒𐙴",
         "𐝫𐝃𐝃"
     ]
-},
-{
+}],
+["PH13b",{
     "image": "images/PH13b-Inscription.jpg",
     "name": "PH13b",
     "parsedInscription": "𐝫𐚐",
@@ -19506,8 +19506,8 @@ var inscriptions = [
     "words": [
         "𐝫𐚐"
     ]
-},
-{
+}],
+["PH13c",{
     "image": "images/PH13c-Inscription.jpg",
     "name": "PH13c",
     "parsedInscription": "𐝫𐘃𐙀𐝃𐝃𐝫",
@@ -19525,8 +19525,8 @@ var inscriptions = [
         "𐝫𐘃𐙀",
         "𐝃𐝃𐝫"
     ]
-},
-{
+}],
+["PH14a",{
     "image": "images/PH14a-Inscription.jpg",
     "name": "PH14a",
     "parsedInscription": "𐝫𐘱𐙘𐘝",
@@ -19544,8 +19544,8 @@ var inscriptions = [
         "𐝫𐘱𐙘",
         "𐘝"
     ]
-},
-{
+}],
+["PH14b",{
     "image": "images/PH14b-Inscription.jpg",
     "name": "PH14b",
     "parsedInscription": "𐘇𐘻𐝫",
@@ -19560,8 +19560,8 @@ var inscriptions = [
     "words": [
         "𐘇𐘻𐝫"
     ]
-},
-{
+}],
+["PH15a",{
     "image": "images/PH15a-Inscription.jpg",
     "name": "PH15a",
     "parsedInscription": "𐝫𐙁𐘃𐘙𐙿𐄐𐄇𐝫",
@@ -19582,8 +19582,8 @@ var inscriptions = [
         "𐙿",
         "𐄐𐄇𐝫"
     ]
-},
-{
+}],
+["PH15b",{
     "image": "images/PH15b-Inscription.jpg",
     "name": "PH15b",
     "parsedInscription": "𐝫𐚑𐙒𐝫",
@@ -19601,8 +19601,8 @@ var inscriptions = [
         "𐝫𐚑",
         "𐙒𐝫"
     ]
-},
-{
+}],
+["PH18a",{
     "image": "images/PH18a-Inscription.jpg",
     "name": "PH18a",
     "parsedInscription": "𐝫𐘣𐘱𐝫\n𐝫",
@@ -19623,8 +19623,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["PH18b",{
     "image": "images/PH18b-Inscription.jpg",
     "name": "PH18b",
     "parsedInscription": "𐝫\n𐝫",
@@ -19645,8 +19645,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["PH26",{
     "image": "images/PH26-Inscription.jpg",
     "name": "PH26",
     "parsedInscription": "𐝫𐙦𐝃𐝏𐝏𐝏𐝫",
@@ -19664,8 +19664,8 @@ var inscriptions = [
         "𐝫𐙦",
         "𐝃𐝏𐝏𐝏𐝫"
     ]
-},
-{
+}],
+["PH27",{
     "image": "images/PH27-Inscription.jpg",
     "name": "PH27",
     "parsedInscription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘇𐝫\n𐝫",
@@ -19698,8 +19698,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["PH28a",{
     "image": "images/PH28a-Inscription.jpg",
     "name": "PH28a",
     "parsedInscription": "𐝫\n𐝫𐘇𐘰𐝫𐄁\n𐘱𐘸𐘰𐝫𐄁\n𐘇𐘭𐘱𐝫",
@@ -19738,8 +19738,8 @@ var inscriptions = [
         "\n",
         "𐘇𐘭𐘱𐝫"
     ]
-},
-{
+}],
+["PH28b",{
     "image": "images/PH28b-Inscription.jpg",
     "name": "PH28b",
     "parsedInscription": "𐝫\n𐝫𐄙𐄈𐝫\n𐝫𐄈\n𐙘𐄌\n𐝫𐄌\n𐝮",
@@ -19787,8 +19787,8 @@ var inscriptions = [
         "𐝫𐄌",
         "𐝮"
     ]
-},
-{
+}],
+["ZA4a",{
     "image": "images/ZA4a-Inscription.jpg",
     "name": "ZA4a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘡𐝫\n𐝫𐘢𐝫𐄁𐝫𐘈𐝫𐝫𐄋\n𐘱𐘄𐘱𐝫𐝫𐄉𐝫\n𐘇𐘠𐘘𐄊\n𐘱𐘂𐄇𐝫\n𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊\n𐘛𐘯𐙁𐘙𐄐𐄉\n𐘤𐘢𐘸𐄋\n𐘡𐙃𐄔\n𐘾𐘆𐄉",
@@ -19809,7 +19809,7 @@ var inscriptions = [
         "JA-TO-JA",
         "3",
         "\n",
-        "unbounded",
+        "A-TI-RU(unbounded)",
         "4",
         "\n",
         "JA-PA",
@@ -19825,7 +19825,7 @@ var inscriptions = [
         "𐘛-NU-MA-RE",
         "13",
         "\n",
-        "sword?",
+        "SI-PI-KI(sword?)",
         "5",
         "\n",
         "E𐙃",
@@ -19914,8 +19914,8 @@ var inscriptions = [
         "𐘾𐘆",
         "𐄉"
     ]
-},
-{
+}],
+["ZA4b",{
     "image": "images/ZA4b-Inscription.jpg",
     "name": "ZA4b",
     "parsedInscription": "𐝫\n𐝫𐙍𐄙𐄊𐝫",
@@ -19939,8 +19939,8 @@ var inscriptions = [
         "𐝫𐙍",
         "𐄙𐄊𐝫"
     ]
-},
-{
+}],
+["ZA5a",{
     "image": "images/ZA5a-Inscription.jpg",
     "name": "ZA5a",
     "parsedInscription": "𐘐𐙈𐄁𐙍𐘲\n𐘸𐘝𐙁𐄍\n𐘵𐘳𐘝𐘍𐘈𐄌\n𐘞𐘻𐘀𐘡𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
@@ -20009,8 +20009,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA5b",{
     "image": "images/ZA5b-Inscription.jpg",
     "name": "ZA5b",
     "parsedInscription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆\n𐙁𐘾𐘚𐘳𐄉",
@@ -20020,7 +20020,7 @@ var inscriptions = [
         "𐘛-NU-MA-RE",
         "20",
         "\n",
-        "sword?",
+        "SI-PI-KI(sword?)",
         "1",
         "¹⁄₂",
         "\n",
@@ -20049,8 +20049,8 @@ var inscriptions = [
         "𐙁𐘾𐘚𐘳",
         "𐄉"
     ]
-},
-{
+}],
+["ZA6a",{
     "image": "images/ZA6a-Inscription.jpg",
     "name": "ZA6a",
     "parsedInscription": "𐙙𐘮𐘅𐙑𐄐𐄏\n𐘟𐘶𐘃𐘻𐝫\n𐝫𐄙𐄗\n𐘚𐘈𐝫\n𐝫𐙋𐄐𐄋\n𐝫𐙋𐄐\n𐘚𐝫\n𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫\n𐝫𐙋𐝫\n𐝫𐄑𐄋\n𐙘𐝫\n𐝫𐄑\n𐘚𐘈𐝫𐄁",
@@ -20167,8 +20167,8 @@ var inscriptions = [
         "𐝫𐄑",
         "𐘚𐘈𐝫"
     ]
-},
-{
+}],
+["ZA6b",{
     "image": "images/ZA6b-Inscription.jpg",
     "name": "ZA6b",
     "parsedInscription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓\n𐜁𐄐\n𐙢𐘷𐛭𐄓𐝫\n𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫",
@@ -20246,8 +20246,8 @@ var inscriptions = [
         "\n",
         "𐝫𐘚𐙁𐝫"
     ]
-},
-{
+}],
+["ZA7a",{
     "image": "images/ZA7a-Inscription.jpg",
     "name": "ZA7a",
     "parsedInscription": "𐘉𐘶𐄋\n𐘇𐘴𐘹𐄊\n𐘇𐘙𐘹𐘻𐝫\n𐝫",
@@ -20286,8 +20286,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA7b",{
     "image": "images/ZA7b-Inscription.jpg",
     "name": "ZA7b",
     "parsedInscription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫\n𐝫",
@@ -20314,18 +20314,18 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA8",{
     "image": "images/ZA8-Inscription.jpg",
     "name": "ZA8",
     "parsedInscription": "𐘸𐘴𐄁\n𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝂𐝂\n𐘇𐘭𐘝𐘳𐄇𐝫𐝁𐝁\n𐘳𐘚𐘯𐙁𐘂𐝆\n𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝁𐝁",
     "tracingImage": "images/ZA8-Tracing.jpg",
     "transcription": "𐘸𐘴𐄁𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝓𐘇𐘭\n𐘝𐘳𐄇𐝫𐝁𐝁𐘳𐘚𐘯𐙁\n𐘂𐝆𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝒",
     "translatedWords": [
-        "balance",
+        "KI-RA(balance)",
         "𐄁",
         "\n",
-        "?",
+        "A-TA-RE(?)",
         "𐄁",
         "figs",
         "¹⁄₂",
@@ -20348,7 +20348,7 @@ var inscriptions = [
         "2",
         "¹⁄₂",
         "\n",
-        "balance",
+        "KA-I-RO(balance)",
         "4",
         "𐝁𐝁"
     ],
@@ -20414,8 +20414,8 @@ var inscriptions = [
         "𐄊",
         "𐝁𐝁"
     ]
-},
-{
+}],
+["ZA9",{
     "image": "images/ZA9-Inscription.jpg",
     "name": "ZA9",
     "parsedInscription": "𐝫𐘯𐘠𐄁\n𐘍𐝫\n𐝫𐘴𐚽𐄋\n𐝫\n𐝫𐘁𐘤𐘴𐝫𐚽𐄊\n𐘇𐘳𐘅𐝫𐄁𐝫𐚽𐄈\n𐝫𐄁𐝫𐙁𐘶𐘓𐄈\n𐘣𐘴𐘙𐘻𐘃𐘓𐄇",
@@ -20514,8 +20514,8 @@ var inscriptions = [
         "𐘓",
         "𐄇"
     ]
-},
-{
+}],
+["ZA10a",{
     "image": "images/ZA10a-Inscription.jpg",
     "name": "ZA10a",
     "parsedInscription": "𐘳𐘅𐘃𐄈\n𐘂𐝫𐄇\n𐘇𐙂𐘻𐘅𐄇\n𐘇𐘳𐘅𐘃𐄇\n𐘇𐘻𐘀𐘉𐄇\n𐘇𐘬𐙂𐘻𐘅𐄇\n𐘀𐘚𐘢𐘳𐄇\n𐘬𐘙𐘍𐘈𐄈",
@@ -20596,8 +20596,8 @@ var inscriptions = [
         "𐘬𐘙𐘍𐘈",
         "𐄈"
     ]
-},
-{
+}],
+["ZA10b",{
     "image": "images/ZA10b-Inscription.jpg",
     "name": "ZA10b",
     "parsedInscription": "𐘮𐚖𐄈\n𐘬𐘙𐘍𐘈𐙎𐄋\n𐘉𐘪𐄌\n𐙁𐘍𐄋\n𐙁𐘸𐘦𐘃𐄋\n𐘞𐙁𐄋\n𐘇𐘦𐄊\n𐘇𐘻𐘳𐄉\n𐘽𐘁𐘙𐄈\n𐘂𐘱𐘙𐄇\n𐘾𐙂𐘗𐘃𐝆\n𐘳𐄈\n𐘬𐄇𐝫",
@@ -20726,8 +20726,8 @@ var inscriptions = [
         "𐘬",
         "𐄇𐝫"
     ]
-},
-{
+}],
+["ZA11a",{
     "image": "images/ZA11a-Inscription.jpg",
     "name": "ZA11a",
     "parsedInscription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁\n𐛭𐝫\n𐝫𐘴𐙁𐘤𐙍𐝆𐝫\n𐝫𐘡𐙂𐘘𐄈𐝃\n𐘶𐝈𐝉\n𐙍𐝆\n𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫\n𐘢𐙠𐘇𐝫\n𐝫𐙋𐄈\n𐝫",
@@ -20844,8 +20844,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA11b",{
     "image": "images/ZA11b-Inscription.jpg",
     "name": "ZA11b",
     "parsedInscription": "𐘡𐘄𐘭𐛀𐄁\n𐘞𐙕𐘭𐄁𐛭𐄇𐝫\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈\n𐙂𐘂𐄁𐛭𐄉\n𐝫",
@@ -20926,8 +20926,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA12a",{
     "image": "images/ZA12a-Inscription.jpg",
     "name": "ZA12a",
     "parsedInscription": "𐝫\n𐘂𐝫𐄕𐄊𐝫\n𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌",
@@ -20975,8 +20975,8 @@ var inscriptions = [
         "\n",
         "𐄌"
     ]
-},
-{
+}],
+["ZA13",{
     "image": "images/ZA13-Inscription.jpg",
     "name": "ZA13",
     "parsedInscription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫",
@@ -21003,8 +21003,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA14",{
     "image": "images/ZA14-Inscription.jpg",
     "name": "ZA14",
     "parsedInscription": "𐘋𐘸𐘆𐄇\n𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉\n𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇\n𐘹𐘻𐘠𐘍𐘈𐄓𐄋𐝫\n𐘂𐘯𐘿𐄈\n𐘱𐘣𐝫\n𐝫\n𐝫",
@@ -21017,7 +21017,7 @@ var inscriptions = [
         "𐘐𐙈",
         "1",
         "\n",
-        "crimson",
+        "PU-NI-KA𐚗(crimson)",
         "3",
         "\n",
         "QA-TI-JU",
@@ -21094,8 +21094,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA15a",{
     "image": "images/ZA15a-Inscription.jpg",
     "name": "ZA15a",
     "parsedInscription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐\n𐘋𐙍\n𐘻𐘍𐘈𐄉\n𐘛𐘯𐙁𐘙𐄌\n𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋\n𐘞𐘻𐘀𐘡𐄊\n𐚗𐘥𐙁𐘈𐄋",
@@ -21108,7 +21108,7 @@ var inscriptions = [
         "QE-SI𐙀-E",
         "57",
         "\n",
-        "Itanos",
+        "I-TI-NI-SA(Itanos)",
         "10",
         "\n",
         "ME𐙍",
@@ -21119,7 +21119,7 @@ var inscriptions = [
         "𐘛-NU-MA-RE",
         "6",
         "\n",
-        "sword?",
+        "SI-PI-KI(sword?)",
         "2",
         "¹⁄₂",
         "\n",
@@ -21194,8 +21194,8 @@ var inscriptions = [
         "𐚗𐘥𐙁𐘈",
         "𐄋"
     ]
-},
-{
+}],
+["ZA15b",{
     "image": "images/ZA15b-Inscription.jpg",
     "name": "ZA15b",
     "parsedInscription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍",
@@ -21209,7 +21209,7 @@ var inscriptions = [
         "\n",
         "—",
         "\n",
-        "total",
+        "KU-RO(total)",
         "𐄁",
         "wine",
         "76",
@@ -21249,8 +21249,8 @@ var inscriptions = [
         "𐛿",
         "𐄐𐄍"
     ]
-},
-{
+}],
+["ZA16",{
     "image": "images/ZA16-Inscription.jpg",
     "name": "ZA16",
     "parsedInscription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫\n𐝫𐘲𐄊𐝫\n𐝫",
@@ -21301,8 +21301,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA17",{
     "image": "images/ZA17-Inscription.jpg",
     "name": "ZA17",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
@@ -21329,8 +21329,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA18a",{
     "image": "images/ZA18a-Inscription.jpg",
     "name": "ZA18a",
     "parsedInscription": "𐘀𐘙𐙂𐝫𐝫𐄁\n𐙂𐙭𐄁𐛭𐄈𐝂𐝂\n𐙉𐝫𐄈𐝂𐝂\n𐜓𐝁𐝁\n𐙋𐝃\n𐝫",
@@ -21402,8 +21402,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA19",{
     "image": "images/ZA19-Inscription.jpg",
     "name": "ZA19",
     "parsedInscription": "𐝫\n𐝫𐘴𐘃𐝫\n𐝫",
@@ -21430,8 +21430,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA20",{
     "image": "images/ZA20-Inscription.jpg",
     "name": "ZA20",
     "parsedInscription": "𐝫\n𐝫𐘬𐘙𐘍𐘈𐝫𐝫𐘻𐝫\n𐝫𐄁𐄊\n𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌\n𐘃𐙌𐄐𐄈\n𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫",
@@ -21449,7 +21449,7 @@ var inscriptions = [
         "SI-TE-TU",
         "1",
         "\n",
-        "wheat",
+        "SI-TU(wheat)",
         "6",
         "\n",
         "TE𐙌",
@@ -21458,7 +21458,7 @@ var inscriptions = [
         "RU-MA-TA-SE",
         "3",
         "\n",
-        "total",
+        "KU-RA(total)",
         "130",
         "\n",
         "𐝫"
@@ -21515,8 +21515,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA21a",{
     "image": "images/ZA21a-Inscription.jpg",
     "name": "ZA21a",
     "parsedInscription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁𐝫\n𐝫𐘃𐄈\n𐘳𐘥𐝫\n𐝫\n𐝫𐘂𐝫𐄋\n𐘳𐙁𐘢𐝫\n𐝫𐄉\n𐘇𐝫\n𐝫𐙈𐘻𐝫𐝫𐄈",
@@ -21603,8 +21603,8 @@ var inscriptions = [
         "𐝫𐙈𐘻𐝫",
         "𐝫𐄈"
     ]
-},
-{
+}],
+["ZA21b",{
     "image": "images/ZA21b-Inscription.jpg",
     "name": "ZA21b",
     "parsedInscription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈\n𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋",
@@ -21649,8 +21649,8 @@ var inscriptions = [
         "\n",
         "𐘋"
     ]
-},
-{
+}],
+["ZA22",{
     "image": "images/ZA22-Inscription.jpg",
     "name": "ZA22",
     "parsedInscription": "𐝫\n𐝫𐘓𐝫\n𐘔𐄇𐝫\n𐝫𐄇\n𐘴𐝫𐄁𐝫𐘓𐄇𐝫\n𐝫𐄌\n𐘬𐘶𐝫\n𐘓𐄙𐝫",
@@ -21734,8 +21734,8 @@ var inscriptions = [
         "𐘓",
         "𐄙𐝫"
     ]
-},
-{
+}],
+["ZA23",{
     "image": "images/ZA23-Inscription.jpg",
     "name": "ZA23",
     "parsedInscription": "𐝫\n—\n𐝫𐘃𐘃𐝫\n𐝫𐘻𐘙𐝫",
@@ -21768,8 +21768,8 @@ var inscriptions = [
         "\n",
         "𐝫𐘻𐘙𐝫"
     ]
-},
-{
+}],
+["ZA24a",{
     "image": "images/ZA24a-Inscription.jpg",
     "name": "ZA24a",
     "parsedInscription": "𐘚𐘀𐙉𐝫\n𐝫\n𐝫",
@@ -21799,8 +21799,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA25",{
     "image": "images/ZA25-Inscription.jpg",
     "name": "ZA25",
     "parsedInscription": "𐝫\n𐝫",
@@ -21821,8 +21821,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA26a",{
     "image": "images/ZA26a-Inscription.jpg",
     "name": "ZA26a",
     "parsedInscription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘓𐄐𐄉\n𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
@@ -21870,8 +21870,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA29",{
     "image": "images/ZA29-Inscription.jpg",
     "name": "ZA29",
     "parsedInscription": "𐝫\n𐝫𐙁𐄙𐝫\n𐝫𐘃𐝫\n𐝫",
@@ -21907,8 +21907,8 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-{
+}],
+["ZA30",{
     "image": "images/ZA30-Inscription.jpg",
     "name": "ZA30",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄍𐝫\n𐝫",
@@ -21941,13 +21941,15 @@ var inscriptions = [
         "\n",
         "𐝫"
     ]
-},
-];
+}],
+]);
 var lexicon = new Map([
 ["𐘇𐙁𐘱", "Greek ἄρμα?"],
 ["𐘇𐘭𐘂", "Greek ἄλεἰφαρ"],
+["𐘇𐘘𐘴", "Greek ἀρούρα"],
 ["𐘇𐘳𐘙", "Cf. Linear B, ataro PY An ἀτᾰλος = tender; delicate (of crops?) - or - ἀθᾰλος = without a branch, twig; without an olive branch – or - ἁδρος = full-grown – or – ἁθρος = groats, meal, green fodder, forage, provender Cf. kupari = galingale  - or - OM = blue, Hittite, antara."],
 ["𐘇𐘠𐘘", "cf. Greek ἀτέλος"],
+["𐘆𐘦𐘘", "Cf. Linear B didero. See also kunisu (Semitic) for emmer wheat."],
 ["𐘚𐘱𐘃", "Greek ἰατερ."],
 ["𐘚𐘘𐘱", "Greek ἰέρυια, Cf. Linear B iyereya"],
 ["𐘾𐘸", "Greek χαλκός"],
@@ -21964,4 +21966,6 @@ var lexicon = new Map([
 ["𐘤𐘢𐘸", "ZA 4 LM I b ZA 5 LM I b ** (ZA 5 is definitely a military tablet) ZA 15 LM I b Cf.Linear B qisipe(e) ci/fee = swords -or- = band, bracelet, necklace <- sfiggi/ <- sfiggi/on (If itis the latter, there is no correlation at all)."],
 ["𐘤𐘹", "HT Wa 1019 LM 1 b + sita2 KH 9 LM 1 b ZA 20 si/tu si/tun = wheat. Cf. Linear B sitosi/ton + site si/te (dat. sing.) ZA 26 LM I b. Pareidolia B:"],
 ["𐘀𐘮𐝫", "** KN Za 10 PGS = place name. Cf. LB Dawo Da/#oj / Da/#on. Pareidolia B:"],
+["𐝫𐘸𐘙𐘳𐘅", "(kiretai) ** HT 85 HT 114 HT 121 HT 125 HT 129 all = LM 1 b kri/qai = barley +kiretana ** HT 2 HT 8 HT 108 HT 120, all = LM 1 b kriqani/aj = like barley, barley(attributive) + kiretaiwinu kri/qai = barley + winu #i/nu = wine Cf. Linear B wono #oi/noj,hence kiretaiwinu = kri/qai#i/nu = barley wine, i.e. beer Cf. Linear B kirita + wono = kriqa/ +#oi/noj = barley wine, i.e. beer. Unattested, but most likely correct. Pareidolia B:"],
+["𐘇𐘾𐘘", "cf. Greek ἀγρος"],
 ]);

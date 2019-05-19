@@ -33,14 +33,31 @@ function checkKey(e) {
   e = e || window.event;
   console.log(e.keyCode)
   switch(e.keyCode) {
-    case 191:
-      // /
+    case 191: // '/' - focus search bar
       if (search == document.activeElement) {
         return true;
       }
       search.focus();
       return false;
+    case 83: // 's' - sort inscriptions by closest edit distance to 
+             // inscription currently hovered over
+      var current = getInscriptionHoveredOver();
+      sortNearest(inscriptions.get(current.id).parsedInscription);
+      break;
   }
+}
+
+function getInscriptionHoveredOver() {
+  var n = document.querySelector(":hover");
+  var nn;
+  while (n) {
+    nn = n;
+    if (nn.className == "item-container") {
+      return nn;
+    }
+    n = nn.querySelector(":hover");
+  }
+  return nn;
 }
 
 function highlightMatchesInElement(element, searchTerm) {
@@ -169,22 +186,36 @@ function updateTip(word) {
   if (!wordsInCorpus.has(word)) {
     return;
   }
+  var tip = document.getElementById("tip");
+  tip.innerHTML = "";
+
+  var wordCommentElement = document.createElement("div");
+  wordCommentElement.className = "lexicon";
+  wordCommentElement.textContent = lexicon.get(word);
+
   var wordCount = wordsInCorpus.get(word) - 1;
-  var tipText = "";
   if (lexicon.has(word)) {
-    tipText += lexicon.get(word) + "<br>";
+    var wordCommentElement = document.createElement("div");
+    wordCommentElement.className = "lexicon";
+    wordCommentElement.textContent = lexicon.get(word);
+    tip.appendChild(wordCommentElement);
   }
+
+  var tipText = "";
   switch(wordCount) {
     case 0:
-      tipText += "There is no other instance of this word."
+      tipText = "There is no other instance of this word."
       break;
     case 1:
-      tipText += wordCount + " other instance of this word. Click word to view it."
+      tipText = wordCount + " other instance of this word. Click word to view it."
       break;
     default:
-      tipText += wordCount + " other instances of this word. Click word to view them."
+      tipText = wordCount + " other instances of this word. Click word to view them."
   }
-  document.getElementById("tip").innerHTML = tipText;
+  var wordCommentElement = document.createElement("span");
+  wordCommentElement.className = "tip-text";
+  wordCommentElement.textContent = tipText;
+  tip.appendChild(wordCommentElement);
 }
 
 function highlightWords(evt, name, index) {
@@ -231,8 +262,7 @@ function updateSearchTerms(evt, name, index) {
 function applySearchTerms() {
   var searchTerms = document.getElementById("search-terms");
   clearHighlights();
-  for (var i = 0; i < inscriptions.length; i++) {
-    var inscription = inscriptions[i];
+  for (var inscription of inscriptions.values()) {
     var shouldDisplay = true;
     for (var j = 0; j < searchTerms.children.length; j++) {
       var element = searchTerms.children[j];
@@ -273,8 +303,48 @@ function searchForWord(evt, name, index) {
 }
 
 function loadExplorer() {
-  for (var i = 0; i < inscriptions.length; i++) {
-    loadInscription(inscriptions[i]);
+  for (var inscription of inscriptions.values()) {
+    loadInscription(inscription);
   }
 }
 
+function sortNearest(string) {
+  var p = document.getElementById('container');
+  Array.prototype.slice.call(p.children)
+    .map(function (x) { return p.removeChild(x); })
+    .sort(function(a, b) {
+          var s = inscriptions.get(a.id).parsedInscription.replace(/𐝫|\n/g, "");
+          var t = inscriptions.get(b.id).parsedInscription;
+          var x = s.levenstein(string);
+          var y = t.levenstein(string);
+          if (x < y) {
+            return -1;
+          }
+          if (x > y) {
+            return 1;
+          }
+          return 0;
+    })
+    .forEach(function (x) { p.appendChild(x); });
+} 
+
+String.prototype.levenstein = function(string) {
+	var a = this, b = string + "", m = [], i, j, min = Math.min;
+
+	if (!(a && b)) return (b || a).length;
+
+	for (i = 0; i <= b.length; m[i] = [i++]);
+	for (j = 0; j <= a.length; m[0][j] = j++);
+
+	for (i = 1; i <= b.length; i++) {
+		for (j = 1; j <= a.length; j++) {
+			m[i][j] = b.charAt(i - 1) == a.charAt(j - 1)
+				? m[i - 1][j - 1]
+				: m[i][j] = min(
+					m[i - 1][j - 1] + 1, 
+					min(m[i][j - 1] + 1, m[i - 1 ][j] + 1))
+		}
+	}
+
+	return m[b.length][a.length];
+}
