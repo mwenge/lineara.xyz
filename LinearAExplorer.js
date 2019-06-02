@@ -31,7 +31,19 @@ console.log("If you have any feedback or issues contact me @mwenge on Twitter")
 document.onkeydown = checkKey;
 function checkKey(e) {
   e = e || window.event;
+  var menu_was_showing = help_menu.style.display != "none";
+  help_menu.style.display = "none";
   switch(e.keyCode) {
+    case 191: // show help
+      if (e.shiftKey) {
+        if (help_menu.style.display == "block") {
+          help_menu.style.display = "none";
+        } else if (!menu_was_showing) {
+          help_menu.style.display = "block";
+        }
+        break;
+      }
+      // fall through
     case 191: // '/' - focus search bar
       if (search == document.activeElement) {
         return true;
@@ -43,7 +55,31 @@ function checkKey(e) {
       var current = getInscriptionHoveredOver();
       sortNearest(current);
       break;
+    case 89: // 'y' - show commentary for inscription currently hovered over
+      var current = getInscriptionHoveredOver();
+      showCommentaryForInscription(current.id);
+      break;
   }
+}
+
+function showCommentaryForInscription(inscription) {
+  inscription = inscription.replace(/[ab]/g, "");
+  var commentBox = document.getElementById("comment_box");
+  if (commentBox.style.display == "block") {
+    commentBox.style.display = "none";
+    return;
+  }
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+			if (xhttp.status == 404) {
+        commentBox.style.display = "none";
+			} else {
+        commentBox.innerHTML = xhttp.responseText;
+        commentBox.style.display = "block";
+      }
+  };
+  xhttp.open("GET", "commentary/" + inscription + ".html", true);
+  xhttp.send();
 }
 
 function getInscriptionHoveredOver() {

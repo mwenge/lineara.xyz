@@ -22,11 +22,29 @@
 </script>
 <div id="container">
 </div>
-<div class="label image-label"><a href="https://bit.ly/2H6Ohwe" target="_blank">Images © Ecole Francais d'Athenes</a></div>
+<div class="label image-label">
+  <a href="https://bit.ly/2H6Ohwe" target="_blank">Images © Ecole Francais d'Athenes</a><br>
+  <a href="http://users.teilar.gr/~g1951d/" target="_blank">Transcriptions © George Douros</a>
+</div>
 <div class="tip" id="tip"></div>
+<div class="comment-box" id="comment_box" onclick="(function(){ comment_box.style.display='none';})();"></div>
 <div class="top-right-console">
   <div class="sort-status" id="sort-status" onclick="resetSort(event)"></div>
   <div class="search-terms" id="search-terms"></div>
+</div>
+<div class="help-menu" id="help_menu" onclick="(function(){ help_menu.style.display='none';})();">
+  <h2>Welcome to the Linear A Explorer.</h2><br>
+  Linear A was the primary script used in palace and religious writings by the Minoan civilization in Crete from 1800 to 1450 BC.<br><br>
+  To this day it remains undeciphered though a lot of progress has been made in understanding the nature and purpose of the Linear A documents
+  themselves.<br><br>
+  The Linear A Explorer is intended as a resource for making the published Linear A inscriptions as accessible as possible to those interested
+  in understanding more about them.<br><br>
+  You can search and filter the documents here simply by hovering over the texts and experimenting with clicking on words.<br><br>
+  To explore individual inscriptions further, hover the mouse over an inscription and press:<br>
+  &nbsp;'<b>s</b>' - to cluster it with similar inscriptions<br>
+  &nbsp;'<b>y</b>' - to show John Younger's commentary for the inscription.<br>
+  <br>
+  Type any key to hide this help panel and get started.<br>
 </div>
 <script>
 loadExplorer();
