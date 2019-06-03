@@ -63,7 +63,7 @@ function checkKey(e) {
 }
 
 function showCommentaryForInscription(inscription) {
-  inscription = inscription.replace(/[ab]/g, "");
+  inscription = inscription.replace(/[a-z]/g, "");
   var commentBox = document.getElementById("comment_box");
   if (commentBox.style.display == "block") {
     commentBox.style.display = "none";

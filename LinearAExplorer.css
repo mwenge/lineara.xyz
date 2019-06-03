@@ -68,20 +68,22 @@ img {
 .comment-box {
   position: fixed;
   padding: 6px;
-  right: 0;
-  bottom:0;
-  font-size: 25px;
+  right: 10px;
+  bottom: 10px;
   color: black;
   background-color: white;
   height: 50%;
-  width: 60%;
+  width: 40%;
   border: 1px solid black;
-  overflow-y: scroll;
+  overflow-y: auto;
   font-family: 'Courier', serif;
   font-size: 10px;
   display: none;
 }
 
+dt, dd, font {
+  font-size: 12px;
+}
 .tip {
   position: fixed;
   left: 0;
