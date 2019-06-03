@@ -21824,6 +21824,28 @@ var inscriptions = new Map([
         "𐝫"
     ]
 }],
+["ZA24b",{
+    "image": "images/ZA24b-Inscription.jpg",
+    "name": "ZA24b",
+    "parsedInscription": "𐝫𐘳𐝫\n𐝫",
+    "tracingImage": "images/ZA24b-Tracing.jpg",
+    "transcription": "𐝫𐘳𐝫\n𐝫",
+    "translatedWords": [
+        "TA",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "TA",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫𐘳𐝫",
+        "\n",
+        "𐝫"
+    ]
+}],
 ["ZA25",{
     "image": "images/ZA25-Inscription.jpg",
     "name": "ZA25",
@@ -21891,6 +21913,99 @@ var inscriptions = new Map([
         "𐘱𐘸𐝫",
         "\n",
         "𐝫𐘸𐝫",
+        "\n",
+        "𐝫"
+    ]
+}],
+["ZA26b",{
+    "image": "images/ZA26b-Inscription.jpg",
+    "name": "ZA26b",
+    "parsedInscription": "𐝫𐘓𐄍\n𐝫",
+    "tracingImage": "images/ZA26b-Tracing.jpg",
+    "transcription": "𐝫𐘐𐄍\n𐝫",
+    "translatedWords": [
+        "she-goat",
+        "7",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "she-goat",
+        "7",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫𐘓",
+        "𐄍",
+        "\n",
+        "𐝫"
+    ]
+}],
+["ZA27",{
+    "image": "images/ZA27-Inscription.jpg",
+    "name": "ZA27",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐘆𐘸𐄈\n𐘵𐘻𐝫",
+    "tracingImage": "images/ZA27-Tracing.jpg",
+    "transcription": "𐝫\n𐝫\n𐝫𐘆𐘸𐄈𐘵𐘻𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "DI-KI",
+        "2",
+        "\n",
+        "O-MI"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "DI-KI",
+        "2",
+        "\n",
+        "O-MI"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫",
+        "\n",
+        "𐝫𐘆𐘸",
+        "𐄈",
+        "\n",
+        "𐘵𐘻𐝫"
+    ]
+}],
+["ZA28",{
+    "image": "images/ZA28-Inscription.jpg",
+    "name": "ZA28",
+    "parsedInscription": "𐝫\n𐝫𐛭𐄇𐝫\n𐝫",
+    "tracingImage": "images/ZA28-Tracing.jpg",
+    "transcription": "𐝫\n𐝫𐛭𐄇𐝫\n𐝫",
+    "translatedWords": [
+        "𐝫",
+        "\n",
+        "𐛭",
+        "1",
+        "\n",
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫",
+        "\n",
+        "𐛭",
+        "1",
+        "\n",
+        "𐝫"
+    ],
+    "words": [
+        "𐝫",
+        "\n",
+        "𐝫𐛭",
+        "𐄇𐝫",
         "\n",
         "𐝫"
     ]
