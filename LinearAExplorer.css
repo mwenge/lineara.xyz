@@ -10,9 +10,9 @@
 .search {
   font-family: 'Courier', serif;
   width: 200px;
-  min-height: 5vh;
+  min-height: 4vh;
   display: inline-block;
-  font-size: 5vh;
+  font-size: 4vh;
   opacity: 0.8;
   border: gray 3px solid;
   padding: 5px;
@@ -36,7 +36,7 @@ img {
   font-family: 'Courier', serif;
   background-color: purple;
   opacity: 0.8;
-  font-size: 5vh;
+  font-size: 4vh;
   color: white;
   border: white 3px solid;
   display: inline-block;
@@ -48,7 +48,7 @@ img {
   top: 0px;
   left: 0px;
   z-index: 100;
-  min-height: 5vh;
+  min-height: 4vh;
 }
 .label {
   position: absolute;

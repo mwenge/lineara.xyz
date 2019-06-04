@@ -146,6 +146,7 @@ function loadInscription(inscription) {
   var item = document.createElement("div");
   item.className = 'item-container';
   item.id = inscription.name;
+  item.setAttribute("onclick", "showCommentaryForInscription('" + inscription.name + "')");
 
   var inscriptionImage = document.createElement("div");
   inscriptionImage.className = 'item';
@@ -296,6 +297,7 @@ function updateSearchTerms(evt, name, index) {
   item.setAttribute("onclick", "removeFilter(event)");
   container.appendChild(item);
   applySearchTerms();
+  evt.stopPropagation();
 }
 
 function applySearchTerms() {
