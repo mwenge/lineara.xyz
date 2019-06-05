@@ -27,7 +27,7 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
-console.log("If you have any feedback or issues contact me @mwenge on Twitter")
+console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
 document.onkeydown = checkKey;
 function checkKey(e) {
   e = e || window.event;
@@ -141,6 +141,99 @@ function updateSearch(event) {
   } 
 }
 
+function makeMoveLens(lens, img, result, cx, cy) {
+  return function(e) {
+    result.style.display = "flex";
+    lens.style.display = "block";
+    result.style.width = result.parentElement.offsetWidth + "px";
+    result.style.height = (result.parentElement.offsetHeight / 2) + "px";
+    result.style.top = "-" + (result.parentElement.offsetHeight / 2) + "px";
+    lens.style.width = (result.parentElement.offsetWidth / 2) + "px";
+    lens.style.height = (result.parentElement.offsetHeight / 5) + "px";
+
+    /* Calculate the ratio between itemZoom DIV and lens: */
+    cx = result.offsetWidth / lens.offsetWidth;
+    cy = result.offsetHeight / lens.offsetHeight;
+    result.style.backgroundSize = (img.width * cx) + "px " + (img.height * cy) + "px";
+
+    var pos, x, y;
+    /* Prevent any other actions that may occur when moving over the image */
+    e.preventDefault();
+    /* Get the cursor's x and y positions: */
+    pos = getCursorPos(e);
+    /* Calculate the position of the lens: */
+    x = pos.x - (lens.offsetWidth / 2);
+    y = pos.y - (lens.offsetHeight / 2);
+    /* Prevent the lens from being positioned outside the image: */
+    if (x > img.width - lens.offsetWidth) {x = img.width - lens.offsetWidth;}
+    if (x < 0) {x = 0;}
+    if (y > img.height - lens.offsetHeight) {y = img.height - lens.offsetHeight;}
+    if (y < 0) {y = 0;}
+    /* Set the position of the lens: */
+    lens.style.left = x + "px";
+    lens.style.top = y + "px";
+    /* Display what the lens "sees": */
+    result.style.backgroundPosition = "-" + (x * cx) + "px -" + (y * cy) + "px";
+
+    function getCursorPos(e) {
+      var a, x = 0, y = 0;
+      e = e || window.event;
+      /* Get the x and y positions of the image: */
+      a = img.getBoundingClientRect();
+      /* Calculate the cursor's x and y coordinates, relative to the image: */
+      x = e.pageX - a.left;
+      y = e.pageY - a.top;
+      /* Consider any page scrolling: */
+      x = x - window.pageXOffset;
+      y = y - window.pageYOffset;
+      return {x : x, y : y};
+    }
+  };
+}
+
+function makeHideZoom(lens, result) {
+  return function(e) {
+    result.style.display = "none";
+    lens.style.display = "none";
+  };
+}
+
+function addImageToItem(item, imageToAdd, name) {
+  var itemShell = document.createElement("div");
+  itemShell.className = 'item-shell';
+  item.appendChild(itemShell);
+
+  var itemZoom = document.createElement("div");
+  itemZoom.className = 'item-zoom';
+  itemShell.appendChild(itemZoom);
+
+  var label = document.createElement("div");
+  label.className = 'label';
+  label.textContent = name;
+  itemZoom.appendChild(label);
+
+  var inscriptionImage = document.createElement("div");
+  inscriptionImage.className = 'item';
+  var imageWrapper = document.createElement("div");
+  imageWrapper.setAttribute("class", "img-wrapper");
+  inscriptionImage.appendChild(imageWrapper);
+
+  var lens = document.createElement("div");
+  lens.setAttribute("class", "img-zoom-lens");
+  imageWrapper.appendChild(lens);
+
+  var img = document.createElement("img");
+  img.src = imageToAdd;
+  img.height = "200";
+  imageWrapper.appendChild(img);
+  itemShell.appendChild(inscriptionImage);
+
+  itemZoom.style.backgroundImage = "url('" + img.src + "')";
+  lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
+  img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
+  itemShell.addEventListener("mouseout", makeHideZoom(lens, itemZoom));
+}
+
 var wordsInCorpus = new Map();
 function loadInscription(inscription) {
   var item = document.createElement("div");
@@ -148,21 +241,8 @@ function loadInscription(inscription) {
   item.id = inscription.name;
   item.setAttribute("onclick", "showCommentaryForInscription('" + inscription.name + "')");
 
-  var inscriptionImage = document.createElement("div");
-  inscriptionImage.className = 'item';
-  var img = document.createElement("img");
-  img.src = inscription.image;
-  img.height = "200";
-  inscriptionImage.appendChild(img);
-  item.appendChild(inscriptionImage);
-
-  inscriptionImage = document.createElement("div");
-  inscriptionImage.className = 'item';
-  var img = document.createElement("img");
-  img.src = inscription.tracingImage;
-  img.height = "200";
-  inscriptionImage.appendChild(img);
-  item.appendChild(inscriptionImage);
+  addImageToItem(item, inscription.image, inscription.name)
+  addImageToItem(item, inscription.tracingImage, inscription.name)
 
   var transcript = document.createElement("div");
   transcript.className = 'item';

@@ -23,6 +23,29 @@ img {
   height: 100%;
   object-fit: contain;
 }
+.item-shell {
+  position: relative;
+  display: flex;
+}
+.item-zoom {
+  border: 1px solid grey;
+  display: none;
+  position: absolute;
+  height: 80px;
+  top: -80px;
+}
+.img-wrapper {
+  position: relative;
+}
+.img-zoom-lens {
+  display: none;
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  /*set the size of the lens:*/
+  width: 40px;
+  height: 40px;
+  z-index: 100;
+}
 .item {
   float: left;
   font-family: 'Aegean', serif;
