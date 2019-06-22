@@ -63,12 +63,22 @@ function checkKey(e) {
 }
 
 function showCommentaryForInscription(inscription) {
+  var inscriptionElement = document.getElementById(inscription);
   inscription = inscription.replace(/[a-z]/g, "");
-  var commentBox = document.getElementById("comment_box");
-  if (commentBox.style.display == "block") {
+
+  var commentBox = document.getElementById("comment-box-" + inscription);
+  if (commentBox && commentBox.style.display == "block") {
     commentBox.style.display = "none";
     return;
   }
+
+  var commentBox = document.createElement("div")
+  commentBox.className = 'comment-box';
+  commentBox.id = 'comment-box-' + inscription;
+  commentBox.style.top = inscriptionElement.offsetHeight + "px";
+  commentBox.setAttribute("onclick", "(function(){ comment_box.style.display='none';})();");
+  inscriptionElement.appendChild(commentBox);
+
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function() {
 			if (xhttp.status == 404) {
@@ -145,9 +155,9 @@ function makeMoveLens(lens, img, result, cx, cy) {
   return function(e) {
     result.style.display = "flex";
     lens.style.display = "block";
-    result.style.width = result.parentElement.offsetWidth + "px";
-    result.style.height = (result.parentElement.offsetHeight / 2) + "px";
-    result.style.top = "-" + (result.parentElement.offsetHeight / 2) + "px";
+    result.style.width = (result.parentElement.offsetWidth * 2) + "px";
+    result.style.height = result.parentElement.offsetHeight + "px";
+    result.style.top = "-" + result.parentElement.offsetHeight + "px";
     lens.style.width = (result.parentElement.offsetWidth / 2) + "px";
     lens.style.height = (result.parentElement.offsetHeight / 5) + "px";
 
