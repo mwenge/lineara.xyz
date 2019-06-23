@@ -67,8 +67,12 @@ function showCommentaryForInscription(inscription) {
   inscription = inscription.replace(/[a-z]/g, "");
 
   var commentBox = document.getElementById("comment-box-" + inscription);
-  if (commentBox && commentBox.style.display == "block") {
-    commentBox.style.display = "none";
+  if (commentBox) {
+    if (commentBox.style.display == "block") {
+      commentBox.style.display = "none";
+      return;
+    }
+    commentBox.style.display = "block";
     return;
   }
 
@@ -76,7 +80,7 @@ function showCommentaryForInscription(inscription) {
   commentBox.className = 'comment-box';
   commentBox.id = 'comment-box-' + inscription;
   commentBox.style.top = inscriptionElement.offsetHeight + "px";
-  commentBox.setAttribute("onclick", "(function(){ comment_box.style.display='none';})();");
+  commentBox.addEventListener("click", makeHideElements([commentBox]));
   inscriptionElement.appendChild(commentBox);
 
   var xhttp = new XMLHttpRequest();
@@ -157,9 +161,15 @@ function makeMoveLens(lens, img, result, cx, cy) {
     lens.style.display = "block";
     result.style.width = (result.parentElement.offsetWidth * 2) + "px";
     result.style.height = result.parentElement.offsetHeight + "px";
-    result.style.top = "-" + result.parentElement.offsetHeight + "px";
     lens.style.width = (result.parentElement.offsetWidth / 2) + "px";
     lens.style.height = (result.parentElement.offsetHeight / 5) + "px";
+
+    var availableHeight = result.parentElement.getBoundingClientRect().top;
+    if (availableHeight < (result.parentElement.offsetHeight / 2)) {
+      result.style.top = result.parentElement.offsetHeight + "px";
+    } else {
+      result.style.top = "-" + result.parentElement.offsetHeight + "px";
+    }
 
     /* Calculate the ratio between itemZoom DIV and lens: */
     cx = result.offsetWidth / lens.offsetWidth;
@@ -201,10 +211,12 @@ function makeMoveLens(lens, img, result, cx, cy) {
   };
 }
 
-function makeHideZoom(lens, result) {
+function makeHideElements(elements) {
   return function(e) {
-    result.style.display = "none";
-    lens.style.display = "none";
+    for (var index in elements) {
+      elements[index].style.display = "none";
+    }
+    e.stopPropagation();
   };
 }
 
@@ -241,7 +253,7 @@ function addImageToItem(item, imageToAdd, name) {
   itemZoom.style.backgroundImage = "url('" + img.src + "')";
   lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
   img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
-  itemShell.addEventListener("mouseout", makeHideZoom(lens, itemZoom));
+  itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
 }
 
 var wordsInCorpus = new Map();
@@ -306,12 +318,20 @@ function loadInscription(inscription) {
   container.appendChild(item);
 }
 
-function addWordTip(word) {
+function addWordTip(word, inscription) {
   word = word.replace(/𐝫/g, "");
   if (!wordsInCorpus.has(word)) {
     return;
   }
-  var tip = document.getElementById("tip");
+  var tip = document.getElementById(inscription + "-tip");
+  if (!tip) {
+    var tip = document.createElement("div")
+    tip.className = 'word-tip';
+    tip.id = inscription + "-tip";
+    var inscriptionElement = document.getElementById(inscription);
+    inscriptionElement.appendChild(tip);
+  }
+  tip.style.display = "block";
   tip.innerHTML = "";
 
   var wordCommentElement = document.createElement("div");
@@ -332,15 +352,22 @@ function addWordTip(word) {
       tipText = "There is no other instance of this word."
       break;
     case 1:
-      tipText = wordCount + " other instance of this word. Click word to view it."
+      tipText = wordCount + " other instance of this word. Click to add to filter."
       break;
     default:
-      tipText = wordCount + " other instances of this word. Click word to view them."
+      tipText = wordCount + " other instances of this word. Click to add to filter."
   }
   var wordCommentElement = document.createElement("span");
   wordCommentElement.className = "tip-text";
   wordCommentElement.textContent = tipText;
   tip.appendChild(wordCommentElement);
+
+  var availableHeight = inscriptionElement.getBoundingClientRect().top;
+  if (availableHeight < tip.offsetHeight) {
+    tip.style.top = inscriptionElement.offsetHeight + "px";
+  } else {
+    tip.style.top = "-" + tip.offsetHeight + "px";
+  }
 }
 
 function updateTipText(string) {
@@ -353,13 +380,16 @@ function highlightWords(evt, name, index) {
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
-    addWordTip(element.textContent);
+    addWordTip(element.textContent, name);
     element.style.backgroundColor = "yellow";
   }
 }
 
 function clearHighlight(evt, name, index) {
-  document.getElementById("tip").textContent = "";
+  var tip = document.getElementById(name + "-tip");
+  if (tip) {
+    tip.style.display = "none";
+  }
   var items = ["transcription", "translation"];
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
@@ -394,14 +424,17 @@ function applySearchTerms() {
   var searchTerms = document.getElementById("search-terms");
   clearHighlights();
   for (var inscription of inscriptions.values()) {
-    var shouldDisplay = true;
+    if (!searchTerms.children.length) {
+      inscription.element.style.display = "flex";
+      continue;
+    }
+    var shouldDisplay = false;
     for (var j = 0; j < searchTerms.children.length; j++) {
       var element = searchTerms.children[j];
-      var searchTerm = element.textContent;
-    var searchTerm = element.textContent.replace(/𐝫/g, "");
-      if (!inscription.words.includes(searchTerm) &&
-          !inscription.words.map(x => x.replace(/𐝫/g, "")).includes(searchTerm)) {
-        shouldDisplay = false;
+      var searchTerm = element.textContent.replace(/𐝫/g, "");
+      if (inscription.words.includes(searchTerm) ||
+          inscription.words.map(x => x.replace(/𐝫/g, "")).includes(searchTerm)) {
+        shouldDisplay = true;
         break;
       }
     }

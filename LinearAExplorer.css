@@ -18,7 +18,7 @@
   padding: 5px;
 }
 input:focus::placeholder { color:transparent; }
-img {
+.img-wrapper > img {
   width: 100%;
   height: 100%;
   object-fit: contain;
@@ -33,6 +33,7 @@ img {
   position: absolute;
   height: 80px;
   top: -80px;
+  z-index: 50;
 }
 .img-wrapper {
   position: relative;
@@ -87,7 +88,12 @@ img {
   font-size: 10px;
   background-color: gray;
 }
-
+#credits {
+  font-family: 'Courier', serif;
+}
+#credits:hover {
+  font-size: 30px;
+}
 .comment-box {
   position: absolute;
   padding: 6px;
@@ -105,6 +111,14 @@ img {
 
 dt, dd, font {
   font-size: 12px;
+}
+.word-tip {
+  position: absolute;
+  font-size: 14px;
+  font-family: 'Courier', serif;
+  color: black;
+  background-color: white;
+  border: 1px solid black;
 }
 .tip {
   position: fixed;
