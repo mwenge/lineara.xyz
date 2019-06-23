@@ -324,11 +324,11 @@ function addWordTip(word, inscription) {
     return;
   }
   var tip = document.getElementById(inscription + "-tip");
+  var inscriptionElement = document.getElementById(inscription);
   if (!tip) {
     var tip = document.createElement("div")
     tip.className = 'word-tip';
     tip.id = inscription + "-tip";
-    var inscriptionElement = document.getElementById(inscription);
     inscriptionElement.appendChild(tip);
   }
   tip.style.display = "block";
