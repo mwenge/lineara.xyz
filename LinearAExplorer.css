@@ -92,7 +92,8 @@ input:focus::placeholder { color:transparent; }
   font-family: 'Courier', serif;
 }
 #credits:hover {
-  font-size: 30px;
+  font-size: 20px;
+  opacity: 1;
 }
 .comment-box {
   position: absolute;
@@ -119,6 +120,8 @@ dt, dd, font {
   color: black;
   background-color: white;
   border: 1px solid black;
+  padding: 2px;
+  z-index: 100;
 }
 .tip {
   position: fixed;
