@@ -49,10 +49,10 @@ input:focus::placeholder { color:transparent; }
 }
 .item {
   float: left;
-  font-family: 'Noto Sans Linear A', sans-serif;
+  font-family: 'Aegean', 'Courier', 'Noto Sans Linear A', 'Noto Sans Linear B', sans-serif;
   padding: 10px;
   border: 1px solid grey;
-  max-width: 150px;
+  max-width: 200px;
   position: relative;
   background-color: inherit;
 }

@@ -2,5 +2,18 @@
   font-family: 'Aegean';
   font-style: normal;
   font-weight: 400;
-  src: local('Aegean Regular'), local('Aegean-Regular'), url(Aegean.ttf) format('truetype');
+  src: local('Aegean Regular'), local('Aegean-Regular') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Linear A';
+  font-style: normal;
+  font-weight: 400;
+  src: url(NotoSansLinearA-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Linear B';
+  font-style: normal;
+  font-weight: 400;
+  src: url(NotoSansLinearB-Regular.ttf) format('truetype');
+  unicode-range: U+10100-10133;
 }
