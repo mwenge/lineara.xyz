@@ -49,7 +49,7 @@ input:focus::placeholder { color:transparent; }
 }
 .item {
   float: left;
-  font-family: 'Aegean', serif;
+  font-family: 'Noto Sans Linear A', sans-serif;
   padding: 10px;
   border: 1px solid grey;
   max-width: 150px;
