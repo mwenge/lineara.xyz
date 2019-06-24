@@ -64,7 +64,6 @@ function checkKey(e) {
 
 function showCommentaryForInscription(inscription) {
   var inscriptionElement = document.getElementById(inscription);
-  inscription = inscription.replace(/[a-z]/g, "");
 
   var commentBox = document.getElementById("comment-box-" + inscription);
   if (commentBox) {
@@ -92,6 +91,7 @@ function showCommentaryForInscription(inscription) {
         commentBox.style.display = "block";
       }
   };
+  inscription = inscription.replace(/[a-z]/g, "");
   xhttp.open("GET", "commentary/" + inscription + ".html", true);
   xhttp.send();
 }
