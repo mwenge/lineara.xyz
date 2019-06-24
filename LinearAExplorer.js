@@ -267,7 +267,7 @@ function loadInscription(inscription) {
   addImageToItem(item, inscription.tracingImage, inscription.name)
 
   var transcript = document.createElement("div");
-  transcript.className = 'item';
+  transcript.className = 'item text-item';
   transcript.setAttribute("inscription", inscription.name);
   for (var i = 0; i < inscription.words.length; i++) {
     var word = inscription.words[i];
@@ -292,7 +292,7 @@ function loadInscription(inscription) {
   item.appendChild(transcript);
 
   transcript = document.createElement("div");
-  transcript.className = 'item';
+  transcript.className = 'item text-item transliteration-item';
   transcript.setAttribute("inscription", inscription.name);
   for (var i = 0; i < inscription.translatedWords.length; i++) {
     var word = inscription.translatedWords[i];

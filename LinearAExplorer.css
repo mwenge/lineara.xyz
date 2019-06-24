@@ -49,12 +49,21 @@ input:focus::placeholder { color:transparent; }
 }
 .item {
   float: left;
-  font-family: 'Aegean', 'Courier', 'Noto Sans Linear A', 'Noto Sans Linear B', sans-serif;
+  font-family: 'Courier', 'Aegean', 'Noto Sans Linear A', 'Noto Sans Linear B', sans-serif;
   padding: 10px;
   border: 1px solid grey;
-  max-width: 200px;
+  max-width: 150px;
   position: relative;
   background-color: inherit;
+  line-height: 18px;
+}
+.text-item {
+  max-width: 250px;
+}
+.transliteration-item {
+  font-size: 16px;
+  font-weight: 100;
+  color: gray;
 }
 .masthead {
   font-family: 'Courier', serif;
