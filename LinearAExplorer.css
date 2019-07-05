@@ -49,7 +49,7 @@ input:focus::placeholder { color:transparent; }
 }
 .item {
   float: left;
-  font-family: 'Courier', 'Aegean', 'Noto Sans Linear A and B', sans-serif;
+  font-family: 'Aegean', 'Noto Sans Linear A and B', 'Courier', sans-serif;
   padding: 10px;
   border: 1px solid grey;
   max-width: 150px;
@@ -91,6 +91,13 @@ input:focus::placeholder { color:transparent; }
   padding: 2px;
   color: white;
   opacity: 0.5;
+}
+.scribe-label {
+  font-size: 10px;
+  right: auto;
+  left: 0;
+  background-color: gray;
+  z-index: 200;
 }
 .image-label {
   position: fixed;

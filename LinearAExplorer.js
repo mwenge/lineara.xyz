@@ -285,7 +285,7 @@ function loadInscription(inscription) {
       span.id = inscription.name + "-transcription-" + i;
       span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
-      span.setAttribute("onclick", "updateSearchTerms(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onclick", "updateSearchTerms(event, '" + searchTerm + "')");
     }
     transcript.appendChild(span);
   }
@@ -303,18 +303,26 @@ function loadInscription(inscription) {
       span.id = inscription.name + "-translation-" + i;
       span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
-      span.setAttribute("onclick", "updateSearchTerms(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onclick", "updateSearchTerms(event, '" + searchTerm + "')");
     }
     transcript.appendChild(span);
   }
   item.appendChild(transcript);
 
+  if (inscription.scribe) {
+    var label = document.createElement("div");
+    label.className = 'label scribe-label';
+    label.textContent = inscription.scribe;
+    item.appendChild(label);
+    label.setAttribute("onclick", "updateSearchTerms(event, '" + inscription.scribe + "')");
+  }
+
   var label = document.createElement("div");
   label.className = 'label';
   label.textContent = inscription.name;
   item.appendChild(label);
-  inscription.element = item;
 
+  inscription.element = item;
   container.appendChild(item);
 }
 
@@ -401,9 +409,8 @@ function clearHighlight(evt, name, index) {
   }
 }
 
-function updateSearchTerms(evt, name, index) {
-  var element = document.getElementById(name + "-transcription-" + index);
-  var searchTerm = element.textContent.replace(/𐝫/g, "");
+function updateSearchTerms(evt, searchTerm) {
+  var searchTerm = searchTerm.replace(/𐝫/g, "");
   var container = document.getElementById("search-terms");
   var existingElement = document.getElementById(searchTerm);
   if (existingElement) {
@@ -433,7 +440,8 @@ function applySearchTerms() {
       var element = searchTerms.children[j];
       var searchTerm = element.textContent.replace(/𐝫/g, "");
       if (inscription.words.includes(searchTerm) ||
-          inscription.words.map(x => x.replace(/𐝫/g, "")).includes(searchTerm)) {
+          inscription.words.map(x => x.replace(/𐝫/g, "")).includes(searchTerm) ||
+          inscription.scribe == searchTerm) {
         shouldDisplay = true;
         break;
       }
