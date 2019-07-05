@@ -285,7 +285,7 @@ function loadInscription(inscription) {
       span.id = inscription.name + "-transcription-" + i;
       span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
-      span.setAttribute("onclick", "updateSearchTerms(event, '" + searchTerm + "')");
+      span.setAttribute("onclick", "updateSearchTerms(event, '" + span.textContent + "')");
     }
     transcript.appendChild(span);
   }
@@ -303,7 +303,7 @@ function loadInscription(inscription) {
       span.id = inscription.name + "-translation-" + i;
       span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
-      span.setAttribute("onclick", "updateSearchTerms(event, '" + searchTerm + "')");
+      span.setAttribute("onclick", "updateSearchTerms(event, '" + inscription.words[i] + "')");
     }
     transcript.appendChild(span);
   }
