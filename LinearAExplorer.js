@@ -276,7 +276,7 @@ function loadInscription(inscription) {
     if (elementName == "span") {
       span.textContent = word;
 
-      var searchTerm = word.replace(/𐝫/g, "");
+      var searchTerm = stripErased(word);
       if (wordsInCorpus.has(searchTerm)) {
         wordsInCorpus.set(searchTerm, wordsInCorpus.get(searchTerm) + 1);
       } else {
@@ -327,7 +327,7 @@ function loadInscription(inscription) {
 }
 
 function addWordTip(word, inscription) {
-  word = word.replace(/𐝫/g, "");
+  word = stripErased(word);
   if (!wordsInCorpus.has(word)) {
     return;
   }
@@ -410,7 +410,7 @@ function clearHighlight(evt, name, index) {
 }
 
 function updateSearchTerms(evt, searchTerm) {
-  var searchTerm = searchTerm.replace(/𐝫/g, "");
+  var searchTerm = stripErased(searchTerm);
   var container = document.getElementById("search-terms");
   var existingElement = document.getElementById(searchTerm);
   if (existingElement) {
@@ -438,9 +438,9 @@ function applySearchTerms() {
     var shouldDisplay = false;
     for (var j = 0; j < searchTerms.children.length; j++) {
       var element = searchTerms.children[j];
-      var searchTerm = element.textContent.replace(/𐝫/g, "");
+      var searchTerm = stripErased(element.textContent);
       if (inscription.words.includes(searchTerm) ||
-          inscription.words.map(x => x.replace(/𐝫/g, "")).includes(searchTerm) ||
+          inscription.words.map(x => stripErased(x)).includes(searchTerm) ||
           inscription.scribe == searchTerm) {
         shouldDisplay = true;
         break;
@@ -494,7 +494,7 @@ function updateSortStatus(inscription) {
 
 function searchForWord(evt, name, index) {
   var element = document.getElementById(name + "-transcription-" + index);
-  var searchTerm = element.textContent.replace(/𐝫/g, "");
+  var searchTerm = stripErased(element.textContent);
   var searchBox = document.getElementById("search");
   searchBox.value = searchTerm;
   searchBox.dispatchEvent(new InputEvent("input"));
@@ -506,25 +506,74 @@ function loadExplorer() {
   }
 }
 
+function levensteinDistance(a, b, inscriptions, target) {
+  var s = inscriptions.get(a.id).parsedInscription.replace(/𐝫|\n/g, "");
+  var t = inscriptions.get(b.id).parsedInscription;
+  var x = s.levenstein(target);
+  var y = t.levenstein(target);
+  if (x < y) {
+    return -1;
+  }
+  if (x > y) {
+    return 1;
+  }
+  return 0;
+}
+
+function intersect(a, b) {
+    var t;
+    if (b.length > a.length) t = b, b = a, a = t;
+    return a.filter(function (e) {
+        return b.indexOf(e) > -1;
+    }).length;
+}
+
+function useWord(word) {
+  if (!word) {
+    return false;
+  }
+  if (word == '\u{1076b}')
+    return false; 
+  if (word >= '\u{10100}' && word <= '\u{1013f}') {
+    return false;
+  }
+  if (word >= '\u{10740}' && word <= '\u{10755}') {
+    return false;
+  }
+  if (word == '\n') {
+    return false;
+  }
+  return true;
+}
+
+function stripErased(word) {
+  return word.replace(/\u{1076b}/gu, "");
+}
+
+function similarity(a, b, inscriptions, target) {
+  var s = inscriptions.get(a.id).words.map(stripErased).filter(useWord);
+  var t = inscriptions.get(b.id).words.map(stripErased).filter(useWord);
+  var x = intersect(s, target);
+  var y = intersect(t, target);
+  if (x > 2 || y > 2) {
+    console.log(x, y, s, t, target);
+  }
+  if (x > y) {
+    return -1;
+  }
+  if (x < y) {
+    return 1;
+  }
+  return 0;
+}
+
 function sortNearest(current) {
-  var string = inscriptions.get(current.id).parsedInscription;
+  var target = inscriptions.get(current.id).words.map(stripErased).filter(useWord);
   updateTipText("Sorting..");
   var p = document.getElementById('container');
   Array.prototype.slice.call(p.children)
     .map(function (x) { return p.removeChild(x); })
-    .sort(function(a, b) {
-          var s = inscriptions.get(a.id).parsedInscription.replace(/𐝫|\n/g, "");
-          var t = inscriptions.get(b.id).parsedInscription;
-          var x = s.levenstein(string);
-          var y = t.levenstein(string);
-          if (x < y) {
-            return -1;
-          }
-          if (x > y) {
-            return 1;
-          }
-          return 0;
-    })
+    .sort(function(a, b) { return similarity(a, b, inscriptions, target); })
     .forEach(function (x) { p.appendChild(x); });
   updateTipText("");
   updateSortStatus(current.id);

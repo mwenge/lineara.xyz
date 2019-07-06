@@ -25130,3 +25130,4099 @@ var lexicon = new Map([
 ["𐝫𐘸𐘙𐘳𐘅", "(kiretai) ** HT 85 HT 114 HT 121 HT 125 HT 129 all = LM 1 b kri/qai = barley +kiretana ** HT 2 HT 8 HT 108 HT 120, all = LM 1 b kriqani/aj = like barley, barley(attributive) + kiretaiwinu kri/qai = barley + winu #i/nu = wine Cf. Linear B wono #oi/noj,hence kiretaiwinu = kri/qai#i/nu = barley wine, i.e. beer Cf. Linear B kirita + wono = kriqa/ +#oi/noj = barley wine, i.e. beer. Unattested, but most likely correct. Pareidolia B:"],
 ["𐘇𐘾𐘘", "cf. Greek ἀγρος"],
 ]);
+var sequences = new Map([
+["ARKH3b", [
+{
+    "inscriptions": [
+        "HT101",
+        "HT114a",
+        "HT116a",
+        "HT121",
+        "HT125a",
+        "HT131a",
+        "HT139"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖"
+    ]
+},
+ ],
+],
+["HT101", [
+{
+    "inscriptions": [
+        "ARKH3b",
+        "HT114a",
+        "HT116a",
+        "HT121",
+        "HT125a",
+        "HT131a",
+        "HT139"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT18",
+        "HT28b",
+        "HT90",
+        "HT102",
+        "HT114a",
+        "HT121",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT21",
+        "ZA18a"
+    ],
+    "sequence": [
+        "𐙋",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28a"
+    ],
+    "sequence": [
+        "𐛱",
+        "𐜋"
+    ]
+},
+{
+    "inscriptions": [
+        "HT58",
+        "HT125a",
+        "TY3a"
+    ],
+    "sequence": [
+        "𐜋",
+        "𐜗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a",
+        "HT121",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐙖"
+    ]
+},
+ ],
+],
+["HT114a", [
+{
+    "inscriptions": [
+        "ARKH3b",
+        "HT101",
+        "HT116a",
+        "HT121",
+        "HT125a",
+        "HT131a",
+        "HT139"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT18",
+        "HT28b",
+        "HT90",
+        "HT101",
+        "HT102",
+        "HT121",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28a",
+        "HT28b",
+        "HT44a",
+        "HT44b",
+        "HT99a",
+        "HT121",
+        "HT130",
+        "KH11"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT101",
+        "HT121",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐙖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121",
+        "KNZb35"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121"
+    ],
+    "sequence": [
+        "𐙍",
+        "𐘖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍",
+        "𐘖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐙖",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖",
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐘝",
+        "𐙍",
+        "𐘖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐙖",
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖",
+        "𐘝",
+        "𐙍",
+        "𐘖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT121"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐙖",
+        "𐘝",
+        "𐙍",
+        "𐘖"
+    ]
+},
+ ],
+],
+["HT116a", [
+{
+    "inscriptions": [
+        "ARKH3b",
+        "HT101",
+        "HT114a",
+        "HT121",
+        "HT125a",
+        "HT131a",
+        "HT139"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28a",
+        "HT92",
+        "HT116b"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28b"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐜉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT42+59"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐜗"
+    ]
+},
+{
+    "inscriptions": [
+        "TY3b"
+    ],
+    "sequence": [
+        "𐜓",
+        "𐜗"
+    ]
+},
+ ],
+],
+["HT121", [
+{
+    "inscriptions": [
+        "ARKH3b",
+        "HT101",
+        "HT114a",
+        "HT116a",
+        "HT125a",
+        "HT131a",
+        "HT139"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT18",
+        "HT28b",
+        "HT90",
+        "HT101",
+        "HT102",
+        "HT114a",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28a",
+        "HT28b",
+        "HT44a",
+        "HT44b",
+        "HT99a",
+        "HT114a",
+        "HT130",
+        "KH11"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT101",
+        "HT114a",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐙖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a",
+        "KNZb35"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a"
+    ],
+    "sequence": [
+        "𐙍",
+        "𐘖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍",
+        "𐘖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐙖",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖",
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐘝",
+        "𐙍",
+        "𐘖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐙖",
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖",
+        "𐘝",
+        "𐙍",
+        "𐘖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT114a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐙖",
+        "𐘝",
+        "𐙍",
+        "𐘖"
+    ]
+},
+ ],
+],
+["HT125a", [
+{
+    "inscriptions": [
+        "ARKH3b",
+        "HT101",
+        "HT114a",
+        "HT116a",
+        "HT121",
+        "HT131a",
+        "HT139"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT18",
+        "HT28b",
+        "HT90",
+        "HT101",
+        "HT102",
+        "HT114a",
+        "HT121"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT50a"
+    ],
+    "sequence": [
+        "𐜗",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT58",
+        "HT101",
+        "TY3a"
+    ],
+    "sequence": [
+        "𐜋",
+        "𐜗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT101",
+        "HT114a",
+        "HT121"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐙖"
+    ]
+},
+ ],
+],
+["HT131a", [
+{
+    "inscriptions": [
+        "ARKH3b",
+        "HT101",
+        "HT114a",
+        "HT116a",
+        "HT121",
+        "HT125a",
+        "HT139"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT44a"
+    ],
+    "sequence": [
+        "𐘚𐘌𐙈",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT50a",
+        "HT125b",
+        "KH8"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT139"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT139"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖",
+        "𐝆"
+    ]
+},
+ ],
+],
+["HT139", [
+{
+    "inscriptions": [
+        "ARKH3b",
+        "HT101",
+        "HT114a",
+        "HT116a",
+        "HT121",
+        "HT125a",
+        "HT131a"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT131a"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT131a"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖",
+        "𐝆"
+    ]
+},
+ ],
+],
+["CRZg3", [
+{
+    "inscriptions": [
+        "TELZb1"
+    ],
+    "sequence": [
+        "≈",
+        "𐘝"
+    ]
+},
+ ],
+],
+["TELZb1", [
+{
+    "inscriptions": [
+        "CRZg3"
+    ],
+    "sequence": [
+        "≈",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT6a", [
+{
+    "inscriptions": [
+        "HT110b",
+        "KH8",
+        "KH15",
+        "ZA1a",
+        "ZA8"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝆"
+    ]
+},
+ ],
+],
+["HT110b", [
+{
+    "inscriptions": [
+        "HT6a",
+        "KH8",
+        "KH15",
+        "ZA1a",
+        "ZA8"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "HT147",
+        "KH1",
+        "KH8",
+        "KH15",
+        "KH20"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "KH8",
+        "KH15"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝",
+        "𐝆"
+    ]
+},
+ ],
+],
+["KH8", [
+{
+    "inscriptions": [
+        "HT6a",
+        "HT110b",
+        "KH15",
+        "ZA1a",
+        "ZA8"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "HT110b",
+        "HT147",
+        "KH1",
+        "KH15",
+        "KH20"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT50a",
+        "HT125b",
+        "HT131a"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT89",
+        "KH14",
+        "KH15",
+        "KH20"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT100",
+        "KH2",
+        "KH9",
+        "KH14",
+        "KH57"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT109"
+    ],
+    "sequence": [
+        "𐘙",
+        "𐘳"
+    ]
+},
+{
+    "inscriptions": [
+        "HT110b",
+        "KH15"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT115b",
+        "HT129"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "KH6",
+        "KH7a",
+        "KH7b",
+        "KH9",
+        "KH16"
+    ],
+    "sequence": [
+        "𐜙",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "KH10"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "KH26"
+    ],
+    "sequence": [
+        "𐙇",
+        "𐘝"
+    ]
+},
+ ],
+],
+["KH15", [
+{
+    "inscriptions": [
+        "HT6a",
+        "HT110b",
+        "KH8",
+        "ZA1a",
+        "ZA8"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "KH6",
+        "KH29",
+        "KH58",
+        "KH84"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "HT110b",
+        "HT147",
+        "KH1",
+        "KH8",
+        "KH20"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝆",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT89",
+        "KH8",
+        "KH14",
+        "KH20"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT110b",
+        "KH8"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "KH20"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝",
+        "𐝃"
+    ]
+},
+ ],
+],
+["ZA1a", [
+{
+    "inscriptions": [
+        "HT6a",
+        "HT110b",
+        "KH8",
+        "KH15",
+        "ZA8"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝆"
+    ]
+},
+ ],
+],
+["ZA8", [
+{
+    "inscriptions": [
+        "HT6a",
+        "HT110b",
+        "KH8",
+        "KH15",
+        "ZA1a"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝆"
+    ]
+},
+ ],
+],
+["HT8a", [
+{
+    "inscriptions": [
+        "HT140"
+    ],
+    "sequence": [
+        "𐘧𐘆",
+        "𐜓"
+    ]
+},
+{
+    "inscriptions": [
+        "HT98a"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘃𐙕"
+    ]
+},
+ ],
+],
+["HT140", [
+{
+    "inscriptions": [
+        "HT8a"
+    ],
+    "sequence": [
+        "𐘧𐘆",
+        "𐜓"
+    ]
+},
+{
+    "inscriptions": [
+        "HT8b"
+    ],
+    "sequence": [
+        "𐘾𐘂",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28a"
+    ],
+    "sequence": [
+        "𐜓",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT100"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐜋"
+    ]
+},
+{
+    "inscriptions": [
+        "TY3a"
+    ],
+    "sequence": [
+        "𐜋",
+        "𐝆"
+    ]
+},
+ ],
+],
+["HT98a", [
+{
+    "inscriptions": [
+        "HT8a"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘃𐙕"
+    ]
+},
+ ],
+],
+["HT8b", [
+{
+    "inscriptions": [
+        "HT140"
+    ],
+    "sequence": [
+        "𐘾𐘂",
+        "𐝆"
+    ]
+},
+ ],
+],
+["HT9a", [
+{
+    "inscriptions": [
+        "HT17",
+        "HT19",
+        "HT62+73"
+    ],
+    "sequence": [
+        "𐘃",
+        "𐙍"
+    ]
+},
+ ],
+],
+["HT17", [
+{
+    "inscriptions": [
+        "HT9a",
+        "HT19",
+        "HT62+73"
+    ],
+    "sequence": [
+        "𐘃",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT19"
+    ],
+    "sequence": [
+        "𐙍",
+        "𐘞𐘁"
+    ]
+},
+{
+    "inscriptions": [
+        "HT19"
+    ],
+    "sequence": [
+        "𐘃",
+        "𐙍",
+        "𐘞𐘁"
+    ]
+},
+ ],
+],
+["HT19", [
+{
+    "inscriptions": [
+        "HT9a",
+        "HT17",
+        "HT62+73"
+    ],
+    "sequence": [
+        "𐘃",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT17"
+    ],
+    "sequence": [
+        "𐙍",
+        "𐘞𐘁"
+    ]
+},
+{
+    "inscriptions": [
+        "HT17"
+    ],
+    "sequence": [
+        "𐘃",
+        "𐙍",
+        "𐘞𐘁"
+    ]
+},
+ ],
+],
+["HT62+73", [
+{
+    "inscriptions": [
+        "HT9a",
+        "HT17",
+        "HT19"
+    ],
+    "sequence": [
+        "𐘃",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "SAMWa1"
+    ],
+    "sequence": [
+        "𐘞𐘴",
+        "𐘃"
+    ]
+},
+ ],
+],
+["HT12", [
+{
+    "inscriptions": [
+        "HT14"
+    ],
+    "sequence": [
+        "𐜉",
+        "𐙘"
+    ]
+},
+{
+    "inscriptions": [
+        "KH11"
+    ],
+    "sequence": [
+        "𐜚",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT14", [
+{
+    "inscriptions": [
+        "HT12"
+    ],
+    "sequence": [
+        "𐜉",
+        "𐙘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT21",
+        "HT40"
+    ],
+    "sequence": [
+        "𐘃",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT137"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐜗"
+    ]
+},
+ ],
+],
+["KH11", [
+{
+    "inscriptions": [
+        "HT12"
+    ],
+    "sequence": [
+        "𐜚",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT23a",
+        "HT23b",
+        "KH4"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝁"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28a",
+        "HT28b",
+        "HT44a",
+        "HT44b",
+        "HT99a",
+        "HT114a",
+        "HT121",
+        "HT130"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT91"
+    ],
+    "sequence": [
+        "𐙍",
+        "𐝀"
+    ]
+},
+{
+    "inscriptions": [
+        "KH4",
+        "KH6"
+    ],
+    "sequence": [
+        "𐙚",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "KH4"
+    ],
+    "sequence": [
+        "𐙚",
+        "𐙗",
+        "𐝁"
+    ]
+},
+{
+    "inscriptions": [
+        "KH14"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝇"
+    ]
+},
+{
+    "inscriptions": [
+        "KH22"
+    ],
+    "sequence": [
+        "𐘲",
+        "𐜚"
+    ]
+},
+{
+    "inscriptions": [
+        "KH84"
+    ],
+    "sequence": [
+        "𐙕",
+        "𐙚"
+    ]
+},
+ ],
+],
+["HT13", [
+{
+    "inscriptions": [
+        "HT46a"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐝆"
+    ]
+},
+ ],
+],
+["HT46a", [
+{
+    "inscriptions": [
+        "HT13"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐝆"
+    ]
+},
+ ],
+],
+["HT21", [
+{
+    "inscriptions": [
+        "HT14",
+        "HT40"
+    ],
+    "sequence": [
+        "𐘃",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT101",
+        "ZA18a"
+    ],
+    "sequence": [
+        "𐙋",
+        "𐝃"
+    ]
+},
+ ],
+],
+["HT40", [
+{
+    "inscriptions": [
+        "HT14",
+        "HT21"
+    ],
+    "sequence": [
+        "𐘃",
+        "𐙉"
+    ]
+},
+ ],
+],
+["HT137", [
+{
+    "inscriptions": [
+        "HT14"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐜗"
+    ]
+},
+ ],
+],
+["HT16", [
+{
+    "inscriptions": [
+        "HT20"
+    ],
+    "sequence": [
+        "𐝄",
+        "𐘮"
+    ]
+},
+ ],
+],
+["HT20", [
+{
+    "inscriptions": [
+        "HT16"
+    ],
+    "sequence": [
+        "𐝄",
+        "𐘮"
+    ]
+},
+ ],
+],
+["HT18", [
+{
+    "inscriptions": [
+        "HT28b",
+        "HT90",
+        "HT101",
+        "HT102",
+        "HT114a",
+        "HT121",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT90"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT90"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT28b", [
+{
+    "inscriptions": [
+        "HT18",
+        "HT90",
+        "HT101",
+        "HT102",
+        "HT114a",
+        "HT121",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28a"
+    ],
+    "sequence": [
+        "𐜉",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28a",
+        "HT44a",
+        "HT44b",
+        "HT99a",
+        "HT114a",
+        "HT121",
+        "HT130",
+        "KH11"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28a"
+    ],
+    "sequence": [
+        "𐜉",
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT116a"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐜉"
+    ]
+},
+ ],
+],
+["HT90", [
+{
+    "inscriptions": [
+        "HT18",
+        "HT28b",
+        "HT101",
+        "HT102",
+        "HT114a",
+        "HT121",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT18"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT18"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT102", [
+{
+    "inscriptions": [
+        "HT18",
+        "HT28b",
+        "HT90",
+        "HT101",
+        "HT114a",
+        "HT121",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙉"
+    ]
+},
+ ],
+],
+["ZA18a", [
+{
+    "inscriptions": [
+        "HT21",
+        "HT101"
+    ],
+    "sequence": [
+        "𐙋",
+        "𐝃"
+    ]
+},
+ ],
+],
+["HT23a", [
+{
+    "inscriptions": [
+        "HT23b",
+        "KH4",
+        "KH11"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝁"
+    ]
+},
+{
+    "inscriptions": [
+        "HT35"
+    ],
+    "sequence": [
+        "𐝁",
+        "𐙜"
+    ]
+},
+{
+    "inscriptions": [
+        "HT81"
+    ],
+    "sequence": [
+        "𐛚",
+        "𐝅"
+    ]
+},
+ ],
+],
+["HT23b", [
+{
+    "inscriptions": [
+        "HT23a",
+        "KH4",
+        "KH11"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝁"
+    ]
+},
+ ],
+],
+["KH4", [
+{
+    "inscriptions": [
+        "HT23a",
+        "HT23b",
+        "KH11"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝁"
+    ]
+},
+{
+    "inscriptions": [
+        "KH6",
+        "KH11"
+    ],
+    "sequence": [
+        "𐙚",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "KH11"
+    ],
+    "sequence": [
+        "𐙚",
+        "𐙗",
+        "𐝁"
+    ]
+},
+ ],
+],
+["HT35", [
+{
+    "inscriptions": [
+        "HT23a"
+    ],
+    "sequence": [
+        "𐝁",
+        "𐙜"
+    ]
+},
+{
+    "inscriptions": [
+        "HT32"
+    ],
+    "sequence": [
+        "𐚻",
+        "𐝇"
+    ]
+},
+{
+    "inscriptions": [
+        "KH61"
+    ],
+    "sequence": [
+        "𐝁",
+        "𐜐"
+    ]
+},
+{
+    "inscriptions": [
+        "HT60"
+    ],
+    "sequence": [
+        "𐝇",
+        "𐙍"
+    ]
+},
+ ],
+],
+["HT81", [
+{
+    "inscriptions": [
+        "HT23a"
+    ],
+    "sequence": [
+        "𐛚",
+        "𐝅"
+    ]
+},
+ ],
+],
+["HT25b", [
+{
+    "inscriptions": [
+        "HT27a"
+    ],
+    "sequence": [
+        "𐙇",
+        "𐙂𐘁"
+    ]
+},
+ ],
+],
+["HT27a", [
+{
+    "inscriptions": [
+        "HT25b"
+    ],
+    "sequence": [
+        "𐙇",
+        "𐙂𐘁"
+    ]
+},
+{
+    "inscriptions": [
+        "HT94a"
+    ],
+    "sequence": [
+        "𐙇",
+        "𐙅"
+    ]
+},
+{
+    "inscriptions": [
+        "HT89"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "KH75"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝁"
+    ]
+},
+ ],
+],
+["HT94a", [
+{
+    "inscriptions": [
+        "HT27a"
+    ],
+    "sequence": [
+        "𐙇",
+        "𐙅"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "HT99a",
+        "HT100",
+        "HT130"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "HT110b",
+        "HT147",
+        "KH1",
+        "KH8",
+        "KH15",
+        "KH20"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝂"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "HT99a",
+        "KH58"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝",
+        "𐝂"
+    ]
+},
+{
+    "inscriptions": [
+        "HT105"
+    ],
+    "sequence": [
+        "𐘾𐘂",
+        "𐙇"
+    ]
+},
+{
+    "inscriptions": [
+        "HT109"
+    ],
+    "sequence": [
+        "𐘳",
+        "𐙂𐘁"
+    ]
+},
+{
+    "inscriptions": [
+        "HT100"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐘞𐘽"
+    ]
+},
+{
+    "inscriptions": [
+        "HT100"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝂𐝂"
+    ]
+},
+{
+    "inscriptions": [
+        "HT100"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐘞𐘽",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT99a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙗",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT89", [
+{
+    "inscriptions": [
+        "HT27a"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "KH8",
+        "KH14",
+        "KH15",
+        "KH20"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "KH9"
+    ],
+    "sequence": [
+        "𐝃",
+        "𐙍"
+    ]
+},
+ ],
+],
+["KH75", [
+{
+    "inscriptions": [
+        "HT27a"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝁"
+    ]
+},
+{
+    "inscriptions": [
+        "KH9"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "KH16"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝇𐝉"
+    ]
+},
+ ],
+],
+["HT28a", [
+{
+    "inscriptions": [
+        "HT101"
+    ],
+    "sequence": [
+        "𐛱",
+        "𐜋"
+    ]
+},
+{
+    "inscriptions": [
+        "HT140"
+    ],
+    "sequence": [
+        "𐜓",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "TY3a"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐜗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28b"
+    ],
+    "sequence": [
+        "𐜉",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28b",
+        "HT44a",
+        "HT44b",
+        "HT99a",
+        "HT114a",
+        "HT121",
+        "HT130",
+        "KH11"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT92",
+        "HT116a",
+        "HT116b"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT28b"
+    ],
+    "sequence": [
+        "𐜉",
+        "𐘝",
+        "𐙍"
+    ]
+},
+ ],
+],
+["TY3a", [
+{
+    "inscriptions": [
+        "HT28a"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐜗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT50a"
+    ],
+    "sequence": [
+        "𐜓",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT50a"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙋"
+    ]
+},
+{
+    "inscriptions": [
+        "HT58",
+        "HT101",
+        "HT125a"
+    ],
+    "sequence": [
+        "𐜋",
+        "𐜗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86a"
+    ],
+    "sequence": [
+        "—",
+        "𐘇𐘬"
+    ]
+},
+{
+    "inscriptions": [
+        "HT140"
+    ],
+    "sequence": [
+        "𐜋",
+        "𐝆"
+    ]
+},
+ ],
+],
+["HT44a", [
+{
+    "inscriptions": [
+        "HT28a",
+        "HT28b",
+        "HT44b",
+        "HT99a",
+        "HT114a",
+        "HT121",
+        "HT130",
+        "KH11"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT131a"
+    ],
+    "sequence": [
+        "𐘚𐘌𐙈",
+        "𐙉"
+    ]
+},
+ ],
+],
+["HT44b", [
+{
+    "inscriptions": [
+        "HT28a",
+        "HT28b",
+        "HT44a",
+        "HT99a",
+        "HT114a",
+        "HT121",
+        "HT130",
+        "KH11"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍"
+    ]
+},
+ ],
+],
+["HT99a", [
+{
+    "inscriptions": [
+        "HT28a",
+        "HT28b",
+        "HT44a",
+        "HT44b",
+        "HT114a",
+        "HT121",
+        "HT130",
+        "KH11"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "HT100",
+        "HT130"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "KH58"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT94a"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙗",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT130", [
+{
+    "inscriptions": [
+        "HT28a",
+        "HT28b",
+        "HT44a",
+        "HT44b",
+        "HT99a",
+        "HT114a",
+        "HT121",
+        "KH11"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30"
+    ],
+    "sequence": [
+        "𐘤",
+        "𐘞𐘽"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "HT99a",
+        "HT100"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30"
+    ],
+    "sequence": [
+        "𐘤",
+        "𐘞𐘽",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT117a"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "—"
+    ]
+},
+ ],
+],
+["HT92", [
+{
+    "inscriptions": [
+        "HT28a",
+        "HT116a",
+        "HT116b"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙘"
+    ]
+},
+ ],
+],
+["HT116b", [
+{
+    "inscriptions": [
+        "HT28a",
+        "HT92",
+        "HT116a"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙘"
+    ]
+},
+ ],
+],
+["HT30", [
+{
+    "inscriptions": [
+        "HT130"
+    ],
+    "sequence": [
+        "𐘤",
+        "𐘞𐘽"
+    ]
+},
+{
+    "inscriptions": [
+        "HT94a",
+        "HT99a",
+        "HT100",
+        "HT130"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "KH6",
+        "KH15",
+        "KH29",
+        "KH58",
+        "KH84"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT94a",
+        "HT110b",
+        "HT147",
+        "KH1",
+        "KH8",
+        "KH15",
+        "KH20"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT94a"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝂"
+    ]
+},
+{
+    "inscriptions": [
+        "HT100",
+        "ZA11a"
+    ],
+    "sequence": [
+        "𐙍",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "KH87"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT94a",
+        "HT99a",
+        "KH58"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT130"
+    ],
+    "sequence": [
+        "𐘤",
+        "𐘞𐘽",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "KH15"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝆",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT94a"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝",
+        "𐝂"
+    ]
+},
+ ],
+],
+["HT100", [
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "HT99a",
+        "HT130"
+    ],
+    "sequence": [
+        "𐘞𐘽",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "ZA11a"
+    ],
+    "sequence": [
+        "𐙍",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT94a"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐘞𐘽"
+    ]
+},
+{
+    "inscriptions": [
+        "HT94a"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝂𐝂"
+    ]
+},
+{
+    "inscriptions": [
+        "HT94a"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐘞𐘽",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "KH2",
+        "KH8",
+        "KH9",
+        "KH14",
+        "KH57"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT140"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐜋"
+    ]
+},
+{
+    "inscriptions": [
+        "TY3b"
+    ],
+    "sequence": [
+        "𐜗",
+        "𐜍"
+    ]
+},
+ ],
+],
+["KH6", [
+{
+    "inscriptions": [
+        "HT30",
+        "KH15",
+        "KH29",
+        "KH58",
+        "KH84"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "KH4",
+        "KH11"
+    ],
+    "sequence": [
+        "𐙚",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "KH7a",
+        "KH7b",
+        "KH8",
+        "KH9",
+        "KH16"
+    ],
+    "sequence": [
+        "𐜙",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "KH7a"
+    ],
+    "sequence": [
+        "𐙺",
+        "𐜙"
+    ]
+},
+ ],
+],
+["KH29", [
+{
+    "inscriptions": [
+        "HT30",
+        "KH6",
+        "KH15",
+        "KH58",
+        "KH84"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝆"
+    ]
+},
+ ],
+],
+["KH58", [
+{
+    "inscriptions": [
+        "HT30",
+        "KH6",
+        "KH15",
+        "KH29",
+        "KH84"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "HT99a"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐘝"
+    ]
+},
+ ],
+],
+["KH84", [
+{
+    "inscriptions": [
+        "HT30",
+        "KH6",
+        "KH15",
+        "KH29",
+        "KH58"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "KH11"
+    ],
+    "sequence": [
+        "𐙕",
+        "𐙚"
+    ]
+},
+ ],
+],
+["HT147", [
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "HT110b",
+        "KH1",
+        "KH8",
+        "KH15",
+        "KH20"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝"
+    ]
+},
+ ],
+],
+["KH1", [
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "HT110b",
+        "HT147",
+        "KH8",
+        "KH15",
+        "KH20"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT125b"
+    ],
+    "sequence": [
+        "𐛵",
+        "𐝆"
+    ]
+},
+ ],
+],
+["KH20", [
+{
+    "inscriptions": [
+        "HT30",
+        "HT94a",
+        "HT110b",
+        "HT147",
+        "KH1",
+        "KH8",
+        "KH15"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT89",
+        "KH8",
+        "KH14",
+        "KH15"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "KH15"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘝",
+        "𐝃"
+    ]
+},
+ ],
+],
+["ZA11a", [
+{
+    "inscriptions": [
+        "HT30",
+        "HT100"
+    ],
+    "sequence": [
+        "𐙍",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "ZA11b"
+    ],
+    "sequence": [
+        "𐙂𐘂",
+        "𐛭"
+    ]
+},
+ ],
+],
+["KH87", [
+{
+    "inscriptions": [
+        "HT30"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘖"
+    ]
+},
+ ],
+],
+["HT32", [
+{
+    "inscriptions": [
+        "KH12"
+    ],
+    "sequence": [
+        "𐙜",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT35"
+    ],
+    "sequence": [
+        "𐚻",
+        "𐝇"
+    ]
+},
+ ],
+],
+["KH12", [
+{
+    "inscriptions": [
+        "HT32"
+    ],
+    "sequence": [
+        "𐙜",
+        "𐝆"
+    ]
+},
+ ],
+],
+["HT33", [
+{
+    "inscriptions": [
+        "HT60"
+    ],
+    "sequence": [
+        "𐝃",
+        "𐚹"
+    ]
+},
+ ],
+],
+["HT60", [
+{
+    "inscriptions": [
+        "HT33"
+    ],
+    "sequence": [
+        "𐝃",
+        "𐚹"
+    ]
+},
+{
+    "inscriptions": [
+        "HT35"
+    ],
+    "sequence": [
+        "𐝇",
+        "𐙍"
+    ]
+},
+ ],
+],
+["KH61", [
+{
+    "inscriptions": [
+        "HT35"
+    ],
+    "sequence": [
+        "𐝁",
+        "𐜐"
+    ]
+},
+ ],
+],
+["HT42+59", [
+{
+    "inscriptions": [
+        "HT116a"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐜗"
+    ]
+},
+{
+    "inscriptions": [
+        "HT96b"
+    ],
+    "sequence": [
+        "𐝆𐝃",
+        "𐜋"
+    ]
+},
+ ],
+],
+["HT96b", [
+{
+    "inscriptions": [
+        "HT42+59"
+    ],
+    "sequence": [
+        "𐝆𐝃",
+        "𐜋"
+    ]
+},
+ ],
+],
+["HT45a", [
+{
+    "inscriptions": [
+        "HT45b"
+    ],
+    "sequence": [
+        "𐝉",
+        "𐘂"
+    ]
+},
+{
+    "inscriptions": [
+        "HT45b"
+    ],
+    "sequence": [
+        "𐙪",
+        "𐙙"
+    ]
+},
+ ],
+],
+["HT45b", [
+{
+    "inscriptions": [
+        "HT45a"
+    ],
+    "sequence": [
+        "𐝉",
+        "𐘂"
+    ]
+},
+{
+    "inscriptions": [
+        "HT45a"
+    ],
+    "sequence": [
+        "𐙪",
+        "𐙙"
+    ]
+},
+ ],
+],
+["HT49b", [
+{
+    "inscriptions": [
+        "MI2"
+    ],
+    "sequence": [
+        "—",
+        "𐘾"
+    ]
+},
+ ],
+],
+["MI2", [
+{
+    "inscriptions": [
+        "HT49b"
+    ],
+    "sequence": [
+        "—",
+        "𐘾"
+    ]
+},
+ ],
+],
+["HT50a", [
+{
+    "inscriptions": [
+        "HT62"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "TY3a"
+    ],
+    "sequence": [
+        "𐜓",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT125a"
+    ],
+    "sequence": [
+        "𐜗",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT125b",
+        "HT131a",
+        "KH8"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙘"
+    ]
+},
+{
+    "inscriptions": [
+        "TY3a"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙋"
+    ]
+},
+ ],
+],
+["HT62", [
+{
+    "inscriptions": [
+        "HT50a"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐝃"
+    ]
+},
+ ],
+],
+["HT125b", [
+{
+    "inscriptions": [
+        "HT50a",
+        "HT131a",
+        "KH8"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙘"
+    ]
+},
+{
+    "inscriptions": [
+        "KH1"
+    ],
+    "sequence": [
+        "𐛵",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT129"
+    ],
+    "sequence": [
+        "𐙘",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT51a", [
+{
+    "inscriptions": [
+        "HT67",
+        "HT70"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐘃"
+    ]
+},
+ ],
+],
+["HT67", [
+{
+    "inscriptions": [
+        "HT51a",
+        "HT70"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐘃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT110a"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT70", [
+{
+    "inscriptions": [
+        "HT51a",
+        "HT67"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐘃"
+    ]
+},
+ ],
+],
+["HT58", [
+{
+    "inscriptions": [
+        "HT101",
+        "HT125a",
+        "TY3a"
+    ],
+    "sequence": [
+        "𐜋",
+        "𐜗"
+    ]
+},
+ ],
+],
+["SAMWa1", [
+{
+    "inscriptions": [
+        "HT62+73"
+    ],
+    "sequence": [
+        "𐘞𐘴",
+        "𐘃"
+    ]
+},
+ ],
+],
+["HT110a", [
+{
+    "inscriptions": [
+        "HT67"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT85a", [
+{
+    "inscriptions": [
+        "HT122b"
+    ],
+    "sequence": [
+        "𐘀𐘙",
+        "𐙂𐘁"
+    ]
+},
+ ],
+],
+["HT122b", [
+{
+    "inscriptions": [
+        "HT85a"
+    ],
+    "sequence": [
+        "𐘀𐘙",
+        "𐙂𐘁"
+    ]
+},
+ ],
+],
+["HT86a", [
+{
+    "inscriptions": [
+        "HT86b"
+    ],
+    "sequence": [
+        "𐘇𐘾𐘘",
+        "𐙂𐘝𐘲"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86b"
+    ],
+    "sequence": [
+        "𐙂𐘝𐘲",
+        "𐛷"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86b"
+    ],
+    "sequence": [
+        "𐛷",
+        "𐘞𐘘"
+    ]
+},
+{
+    "inscriptions": [
+        "TY3a"
+    ],
+    "sequence": [
+        "—",
+        "𐘇𐘬"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86b"
+    ],
+    "sequence": [
+        "𐘇𐘾𐘘",
+        "𐙂𐘝𐘲",
+        "𐛷"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86b"
+    ],
+    "sequence": [
+        "𐙂𐘝𐘲",
+        "𐛷",
+        "𐘞𐘘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86b"
+    ],
+    "sequence": [
+        "𐘇𐘾𐘘",
+        "𐙂𐘝𐘲",
+        "𐛷",
+        "𐘞𐘘"
+    ]
+},
+ ],
+],
+["HT86b", [
+{
+    "inscriptions": [
+        "HT86a"
+    ],
+    "sequence": [
+        "𐘇𐘾𐘘",
+        "𐙂𐘝𐘲"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86a"
+    ],
+    "sequence": [
+        "𐙂𐘝𐘲",
+        "𐛷"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86a"
+    ],
+    "sequence": [
+        "𐛷",
+        "𐘞𐘘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86a"
+    ],
+    "sequence": [
+        "𐘇𐘾𐘘",
+        "𐙂𐘝𐘲",
+        "𐛷"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86a"
+    ],
+    "sequence": [
+        "𐙂𐘝𐘲",
+        "𐛷",
+        "𐘞𐘘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT86a"
+    ],
+    "sequence": [
+        "𐘇𐘾𐘘",
+        "𐙂𐘝𐘲",
+        "𐛷",
+        "𐘞𐘘"
+    ]
+},
+ ],
+],
+["KH14", [
+{
+    "inscriptions": [
+        "HT89",
+        "KH8",
+        "KH15",
+        "KH20"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT100",
+        "KH2",
+        "KH8",
+        "KH9",
+        "KH57"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "KH9",
+        "KH91"
+    ],
+    "sequence": [
+        "𐝇",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "KH11"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝇"
+    ]
+},
+{
+    "inscriptions": [
+        "KH86"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐙗"
+    ]
+},
+ ],
+],
+["KH9", [
+{
+    "inscriptions": [
+        "HT89"
+    ],
+    "sequence": [
+        "𐝃",
+        "𐙍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT100",
+        "KH2",
+        "KH8",
+        "KH14",
+        "KH57"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "KH6",
+        "KH7a",
+        "KH7b",
+        "KH8",
+        "KH16"
+    ],
+    "sequence": [
+        "𐜙",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "KH14",
+        "KH91"
+    ],
+    "sequence": [
+        "𐝇",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "KH75"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙗"
+    ]
+},
+ ],
+],
+["HT91", [
+{
+    "inscriptions": [
+        "KH5"
+    ],
+    "sequence": [
+        "𐝀",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "KH11"
+    ],
+    "sequence": [
+        "𐙍",
+        "𐝀"
+    ]
+},
+ ],
+],
+["KH5", [
+{
+    "inscriptions": [
+        "HT91"
+    ],
+    "sequence": [
+        "𐝀",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT105", [
+{
+    "inscriptions": [
+        "HT94a"
+    ],
+    "sequence": [
+        "𐘾𐘂",
+        "𐙇"
+    ]
+},
+ ],
+],
+["HT109", [
+{
+    "inscriptions": [
+        "HT94a"
+    ],
+    "sequence": [
+        "𐘳",
+        "𐙂𐘁"
+    ]
+},
+{
+    "inscriptions": [
+        "KH8"
+    ],
+    "sequence": [
+        "𐘙",
+        "𐘳"
+    ]
+},
+ ],
+],
+["HT95a", [
+{
+    "inscriptions": [
+        "HT95b"
+    ],
+    "sequence": [
+        "𐘀𐘋",
+        "𐘻𐘯𐘃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT95b"
+    ],
+    "sequence": [
+        "𐙂𐘝𐘲",
+        "𐘆𐘦𐘘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT95b"
+    ],
+    "sequence": [
+        "𐘆𐘦𐘘",
+        "𐘿𐘽𐘉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT95b"
+    ],
+    "sequence": [
+        "𐙂𐘝𐘲",
+        "𐘆𐘦𐘘",
+        "𐘿𐘽𐘉"
+    ]
+},
+ ],
+],
+["HT95b", [
+{
+    "inscriptions": [
+        "HT95a"
+    ],
+    "sequence": [
+        "𐘀𐘋",
+        "𐘻𐘯𐘃"
+    ]
+},
+{
+    "inscriptions": [
+        "HT95a"
+    ],
+    "sequence": [
+        "𐙂𐘝𐘲",
+        "𐘆𐘦𐘘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT95a"
+    ],
+    "sequence": [
+        "𐘆𐘦𐘘",
+        "𐘿𐘽𐘉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT95a"
+    ],
+    "sequence": [
+        "𐙂𐘝𐘲",
+        "𐘆𐘦𐘘",
+        "𐘿𐘽𐘉"
+    ]
+},
+ ],
+],
+["KH2", [
+{
+    "inscriptions": [
+        "HT100",
+        "KH8",
+        "KH9",
+        "KH14",
+        "KH57"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝃"
+    ]
+},
+ ],
+],
+["KH57", [
+{
+    "inscriptions": [
+        "HT100",
+        "KH2",
+        "KH8",
+        "KH9",
+        "KH14"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝃"
+    ]
+},
+ ],
+],
+["TY3b", [
+{
+    "inscriptions": [
+        "HT100"
+    ],
+    "sequence": [
+        "𐜗",
+        "𐜍"
+    ]
+},
+{
+    "inscriptions": [
+        "HT116a"
+    ],
+    "sequence": [
+        "𐜓",
+        "𐜗"
+    ]
+},
+ ],
+],
+["KNZb35", [
+{
+    "inscriptions": [
+        "HT114a",
+        "HT121"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT115b", [
+{
+    "inscriptions": [
+        "HT129",
+        "KH8"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐝆"
+    ]
+},
+ ],
+],
+["HT129", [
+{
+    "inscriptions": [
+        "HT115b",
+        "KH8"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT125b"
+    ],
+    "sequence": [
+        "𐙘",
+        "𐘝"
+    ]
+},
+ ],
+],
+["HT117a", [
+{
+    "inscriptions": [
+        "HT130"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "—"
+    ]
+},
+ ],
+],
+["HT123a", [
+{
+    "inscriptions": [
+        "KH85"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙜"
+    ]
+},
+ ],
+],
+["KH85", [
+{
+    "inscriptions": [
+        "HT123a"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙜"
+    ]
+},
+{
+    "inscriptions": [
+        "KH91"
+    ],
+    "sequence": [
+        "𐜩",
+        "𐝇"
+    ]
+},
+ ],
+],
+["IOZa2", [
+{
+    "inscriptions": [
+        "KOZa1"
+    ],
+    "sequence": [
+        "𐘉𐘅𐘾𐘅𐘤",
+        "𐘚𐘢𐘅𐙁"
+    ]
+},
+{
+    "inscriptions": [
+        "KOZa1"
+    ],
+    "sequence": [
+        "𐘚𐘢𐘅𐙁",
+        "𐘤𐘘𐘃"
+    ]
+},
+{
+    "inscriptions": [
+        "KOZa1"
+    ],
+    "sequence": [
+        "𐘉𐘅𐘾𐘅𐘤",
+        "𐘚𐘢𐘅𐙁",
+        "𐘤𐘘𐘃"
+    ]
+},
+ ],
+],
+["KOZa1", [
+{
+    "inscriptions": [
+        "IOZa2"
+    ],
+    "sequence": [
+        "𐘉𐘅𐘾𐘅𐘤",
+        "𐘚𐘢𐘅𐙁"
+    ]
+},
+{
+    "inscriptions": [
+        "IOZa2"
+    ],
+    "sequence": [
+        "𐘚𐘢𐘅𐙁",
+        "𐘤𐘘𐘃"
+    ]
+},
+{
+    "inscriptions": [
+        "IOZa2"
+    ],
+    "sequence": [
+        "𐘉𐘅𐘾𐘅𐘤",
+        "𐘚𐘢𐘅𐙁",
+        "𐘤𐘘𐘃"
+    ]
+},
+ ],
+],
+["KH7a", [
+{
+    "inscriptions": [
+        "KH6",
+        "KH7b",
+        "KH8",
+        "KH9",
+        "KH16"
+    ],
+    "sequence": [
+        "𐜙",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "KH6"
+    ],
+    "sequence": [
+        "𐙺",
+        "𐜙"
+    ]
+},
+ ],
+],
+["KH7b", [
+{
+    "inscriptions": [
+        "KH6",
+        "KH7a",
+        "KH8",
+        "KH9",
+        "KH16"
+    ],
+    "sequence": [
+        "𐜙",
+        "𐝆"
+    ]
+},
+ ],
+],
+["KH16", [
+{
+    "inscriptions": [
+        "KH6",
+        "KH7a",
+        "KH7b",
+        "KH8",
+        "KH9"
+    ],
+    "sequence": [
+        "𐜙",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "KH75"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝇𐝉"
+    ]
+},
+{
+    "inscriptions": [
+        "ZA10b"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘳"
+    ]
+},
+ ],
+],
+["KH10", [
+{
+    "inscriptions": [
+        "KH8"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙉"
+    ]
+},
+ ],
+],
+["KH26", [
+{
+    "inscriptions": [
+        "KH8"
+    ],
+    "sequence": [
+        "𐙇",
+        "𐘝"
+    ]
+},
+ ],
+],
+["KH91", [
+{
+    "inscriptions": [
+        "KH9",
+        "KH14"
+    ],
+    "sequence": [
+        "𐝇",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "KH85"
+    ],
+    "sequence": [
+        "𐜩",
+        "𐝇"
+    ]
+},
+ ],
+],
+["KH22", [
+{
+    "inscriptions": [
+        "KH11"
+    ],
+    "sequence": [
+        "𐘲",
+        "𐜚"
+    ]
+},
+{
+    "inscriptions": [
+        "KH76"
+    ],
+    "sequence": [
+        "𐘤",
+        "𐙗"
+    ]
+},
+ ],
+],
+["KH86", [
+{
+    "inscriptions": [
+        "KH14"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐙗"
+    ]
+},
+ ],
+],
+["ZA10b", [
+{
+    "inscriptions": [
+        "KH16"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐘳"
+    ]
+},
+ ],
+],
+["KH19", [
+{
+    "inscriptions": [
+        "KH55"
+    ],
+    "sequence": [
+        "𐜐",
+        "𐝁"
+    ]
+},
+ ],
+],
+["KH55", [
+{
+    "inscriptions": [
+        "KH19"
+    ],
+    "sequence": [
+        "𐜐",
+        "𐝁"
+    ]
+},
+ ],
+],
+["KH76", [
+{
+    "inscriptions": [
+        "KH22"
+    ],
+    "sequence": [
+        "𐘤",
+        "𐙗"
+    ]
+},
+ ],
+],
+["MA10a", [
+{
+    "inscriptions": [
+        "MA10c"
+    ],
+    "sequence": [
+        "𐜰",
+        "𐜱"
+    ]
+},
+ ],
+],
+["MA10c", [
+{
+    "inscriptions": [
+        "MA10a"
+    ],
+    "sequence": [
+        "𐜰",
+        "𐜱"
+    ]
+},
+ ],
+],
+["PH(?)31a", [
+{
+    "inscriptions": [
+        "PH(?)31b"
+    ],
+    "sequence": [
+        "𐘑",
+        "𐘐"
+    ]
+},
+ ],
+],
+["PH(?)31b", [
+{
+    "inscriptions": [
+        "PH(?)31a"
+    ],
+    "sequence": [
+        "𐘑",
+        "𐘐"
+    ]
+},
+ ],
+],
+["ZA4a", [
+{
+    "inscriptions": [
+        "ZA5b",
+        "ZA15a"
+    ],
+    "sequence": [
+        "𐘛𐘯𐙁𐘙",
+        "𐘤𐘢𐘸"
+    ]
+},
+ ],
+],
+["ZA5b", [
+{
+    "inscriptions": [
+        "ZA4a",
+        "ZA15a"
+    ],
+    "sequence": [
+        "𐘛𐘯𐙁𐘙",
+        "𐘤𐘢𐘸"
+    ]
+},
+{
+    "inscriptions": [
+        "ZA15a"
+    ],
+    "sequence": [
+        "𐘤𐘢𐘸",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "ZA15a"
+    ],
+    "sequence": [
+        "𐘛𐘯𐙁𐘙",
+        "𐘤𐘢𐘸",
+        "𐝆"
+    ]
+},
+ ],
+],
+["ZA15a", [
+{
+    "inscriptions": [
+        "ZA4a",
+        "ZA5b"
+    ],
+    "sequence": [
+        "𐘛𐘯𐙁𐘙",
+        "𐘤𐘢𐘸"
+    ]
+},
+{
+    "inscriptions": [
+        "ZA5b"
+    ],
+    "sequence": [
+        "𐘤𐘢𐘸",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "ZA5b"
+    ],
+    "sequence": [
+        "𐘛𐘯𐙁𐘙",
+        "𐘤𐘢𐘸",
+        "𐝆"
+    ]
+},
+ ],
+],
+["ZA11b", [
+{
+    "inscriptions": [
+        "ZA11a"
+    ],
+    "sequence": [
+        "𐙂𐘂",
+        "𐛭"
+    ]
+},
+ ],
+],
+["ZA12a", [
+{
+    "inscriptions": [
+        "ZA12b"
+    ],
+    "sequence": [
+        "𐘂",
+        "𐘠"
+    ]
+},
+{
+    "inscriptions": [
+        "ZA12b"
+    ],
+    "sequence": [
+        "𐘠",
+        "𐘘"
+    ]
+},
+ ],
+],
+["ZA12b", [
+{
+    "inscriptions": [
+        "ZA12a"
+    ],
+    "sequence": [
+        "𐘂",
+        "𐘠"
+    ]
+},
+{
+    "inscriptions": [
+        "ZA12a"
+    ],
+    "sequence": [
+        "𐘠",
+        "𐘘"
+    ]
+},
+ ],
+],
+]);
