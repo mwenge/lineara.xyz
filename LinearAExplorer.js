@@ -109,7 +109,19 @@ function getInscriptionHoveredOver() {
   return nn;
 }
 
-function highlightMatchesInElement(element, searchTerm) {
+var cycleColor = (function () {
+  var frequency = .3;
+  var i = 0;
+  return function () {
+    i++;
+    red   = Math.sin(frequency*i + 0) * 55 + 200;
+    green = Math.sin(frequency*i + 2) * 55 + 200;
+    blue  = Math.sin(frequency*i + 4) * 55 + 200;
+    return "rgb(" + red + ", " + green + ", " + blue + ")";
+  }
+})();
+
+function highlightMatchesInElement(element, searchTerm, highlightColor) {
   for (var j = 0; j < element.children.length; j++) {
     var span = element.children[j];
     if (searchTerm != "" && span.textContent.includes(searchTerm)) {
@@ -118,9 +130,9 @@ function highlightMatchesInElement(element, searchTerm) {
         continue;
       }
       var translation = document.getElementById(inscription + "-translation-" + j);
-      translation.style.backgroundColor = "yellow";
+      translation.style.backgroundColor = highlightColor;
       var transcription = document.getElementById(inscription + "-transcription-" + j);
-      transcription.style.backgroundColor = "yellow";
+      transcription.style.backgroundColor = highlightColor;
       highlightedSearchElements.push(translation);
       highlightedSearchElements.push(transcription);
     }
@@ -138,6 +150,7 @@ var highlightedSearchElements = [];
 function updateSearch(event) {
   clearHighlights();
   document.getElementById("search-terms").innerHTML = "";
+
   var searchTerm = event.target.value;
   var allContainers = document.getElementsByClassName('item-container');
   for (var i = 0; i < allContainers.length; i++) {
@@ -146,7 +159,7 @@ function updateSearch(event) {
       var element = container.children[j];
       if (searchTerm == "" || element.textContent.includes(searchTerm)) {
         element.parentElement.style.display = "flex";
-        highlightMatchesInElement(element, searchTerm);
+        highlightMatchesInElement(element, searchTerm, "yellow");
         break;
       } else {
         element.parentElement.style.display = "none";
@@ -389,6 +402,9 @@ function highlightWords(evt, name, index) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
     addWordTip(element.textContent, name);
+    if (element.style.backgroundColor) {
+      continue;
+    }
     element.style.backgroundColor = "yellow";
   }
 }
@@ -422,6 +438,9 @@ function updateSearchTerms(evt, searchTerm) {
   item.id = searchTerm;
   item.setAttribute("term", searchTerm);
   item.setAttribute("onclick", "removeFilter(event)");
+
+  item.setAttribute("highlightColor", cycleColor());
+
   container.appendChild(item);
   applySearchTerms();
   evt.stopPropagation();
@@ -451,11 +470,15 @@ function applySearchTerms() {
       continue;
     }
     inscription.element.style.display = "flex";
+    console.log(searchTerms.children.length);
     for (index in searchTerms.children) {
-      var term = searchTerms.children[index].textContent;
+      var searchElement = searchTerms.children.item(index);
+      console.log("term", searchElement);
+      var term = searchElement.textContent;
       for (var j = 0; j < inscription.element.children.length; j++) {
         var element = inscription.element.children[j];
-        highlightMatchesInElement(element, term);
+        var highlightColor = searchElement.getAttribute("highlightColor");
+        highlightMatchesInElement(element, term, highlightColor);
       }
     }
   }

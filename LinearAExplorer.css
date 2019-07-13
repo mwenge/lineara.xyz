@@ -100,6 +100,9 @@ input:focus::placeholder { color:transparent; }
   background-color: gray;
   z-index: 200;
 }
+.search-term, .scribe-label:hover, .item > span {
+  cursor: pointer;
+}
 .image-label {
   position: fixed;
   font-size: 10px;
