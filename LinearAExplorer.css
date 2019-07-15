@@ -66,6 +66,24 @@ input:focus::placeholder { color:transparent; }
   font-weight: 100;
   color: gray;
 }
+.other-explorer-container {
+  position: fixed;
+  display: inline-flex;
+  top: 0px;
+  right: 0px;
+  z-index: 100;
+  min-height: 2vh;
+}
+.other-explorer {
+  font-family: 'Courier', serif;
+  background-color: maroon;
+  opacity: 0.8;
+  font-size: 2vh;
+  color: white;
+  border: white 3px solid;
+  display: inline-block;
+  padding: 1px;
+}
 .masthead {
   font-family: 'Courier', serif;
   background-color: purple;
