@@ -70,6 +70,12 @@ input:focus::placeholder { color:transparent; }
   font-weight: 100;
   color: gray;
 }
+.linearb-explorer {
+  background-color: maroon;
+}
+.cretan-explorer {
+  background-color: blue;
+}
 .other-explorer-container {
   position: fixed;
   display: inline-flex;
@@ -80,7 +86,6 @@ input:focus::placeholder { color:transparent; }
 }
 .other-explorer {
   font-family: 'Courier', serif;
-  background-color: maroon;
   opacity: 0.8;
   font-size: 2vh;
   color: white;
