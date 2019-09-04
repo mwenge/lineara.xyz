@@ -23,7 +23,7 @@
   </a>
 </div>
 <script>
-    document.getElementById('search').oninput = updateSearch;
+    document.getElementById('search').onsearch = updateSearch;
     window.onload = function() {
       document.getElementById('search').dispatchEvent(new InputEvent("input"));
     };
