@@ -76,6 +76,9 @@ input:focus::placeholder { color:transparent; }
 .cretan-explorer {
   background-color: blue;
 }
+.cypro-minoan-explorer {
+  background-color: olive;
+}
 .other-explorer-container {
   position: fixed;
   display: inline-flex;
