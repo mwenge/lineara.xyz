@@ -117,7 +117,7 @@ var cycleColor = (function () {
     red   = Math.sin(frequency*i + 0) * 55 + 200;
     green = Math.sin(frequency*i + 2) * 55 + 200;
     blue  = Math.sin(frequency*i + 4) * 55 + 200;
-    return "rgb(" + red + ", " + green + ", " + blue + ")";
+    return "rgba(" + red + ", " + green + ", " + blue + ", 0.5)";
   }
 })();
 
