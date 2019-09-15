@@ -14,7 +14,6 @@ body {
 .search {
   font-family: 'Courier', serif;
   width: 200px;
-  min-height: 4vh;
   display: inline-block;
   font-size: 4vh;
   opacity: 0.8;
@@ -71,30 +70,13 @@ input:focus::placeholder { color:transparent; }
   color: gray;
   max-width: 350px;
 }
-.linearb-explorer {
-  background-color: maroon;
-}
-.cretan-explorer {
-  background-color: blue;
-}
-.cypro-minoan-explorer {
-  background-color: olive;
-}
-.other-explorer-container {
-  position: fixed;
-  display: inline-flex;
-  top: 0px;
-  right: 0px;
-  z-index: 100;
-  min-height: 2vh;
-}
 .other-explorer {
   font-family: 'Courier', serif;
   opacity: 0.8;
   font-size: 2vh;
   color: white;
   border: white 3px solid;
-  display: inline-block;
+  float: left;
   padding: 1px;
 }
 .masthead {
@@ -113,7 +95,19 @@ input:focus::placeholder { color:transparent; }
   top: 0px;
   left: 0px;
   z-index: 100;
-  min-height: 4vh;
+}
+.linearb-explorer {
+  background-color: maroon;
+}
+.cretan-explorer {
+  background-color: blue;
+}
+.cypro-minoan-explorer {
+  background-color: olive;
+}
+.other-explorer-container {
+  float: left;
+
 }
 .label {
   position: absolute;
@@ -129,21 +123,21 @@ input:focus::placeholder { color:transparent; }
   right: auto;
   left: 0;
   background-color: gray;
-  z-index: 200;
+  z-index: 100;
 }
 .search-term, .scribe-label:hover, .item > span {
   cursor: pointer;
 }
 .image-label {
   position: fixed;
-  font-size: 10px;
+  font-size: 1vh;
   background-color: gray;
 }
 #credits {
   font-family: 'Courier', serif;
 }
 #credits:hover {
-  font-size: 20px;
+  font-size: 2vh;
   opacity: 1;
 }
 .comment-box {
@@ -218,6 +212,7 @@ dt, dd, font {
 }
 
 .help-menu {
+  display: none;
   font-size: 15px;
   background-color: white;
   padding: 10px;
@@ -231,4 +226,5 @@ dt, dd, font {
   height: 450px;
   font-family: 'Courier', serif;
   border: 1px solid black;
+  z-index: 400;
 }
