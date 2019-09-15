@@ -59,6 +59,20 @@ function checkKey(e) {
       var current = getInscriptionHoveredOver();
       showCommentaryForInscription(current.id);
       break;
+    case 49: // '1 to 9' - save state to 1 to 9
+    case 50: 
+    case 51:
+    case 53:
+    case 54:
+    case 55:
+    case 56:
+    case 57:
+      if (e.shiftKey) {
+        loadSearchTerms(e.keyCode);
+      } else {
+        saveSearchTerms(e.keyCode);
+      }
+      break;
   }
 }
 
@@ -454,6 +468,17 @@ function updateSearchTerms(evt, searchTerm) {
   container.appendChild(item);
   applySearchTerms();
   evt.stopPropagation();
+}
+
+function saveSearchTerms(key) {
+  var container = document.getElementById("search-terms");
+  localStorage.setItem(key, container.innerHTML);
+}
+
+function loadSearchTerms(key) {
+  var container = document.getElementById("search-terms");
+  container.innerHTML = localStorage.getItem(key);
+  applySearchTerms();
 }
 
 function applySearchTerms() {
