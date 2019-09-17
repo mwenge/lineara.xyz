@@ -345,7 +345,6 @@ function loadInscription(inscription) {
 function addWordTip(word, inscription) {
   word = stripErased(word);
   var wordCount = 0;
-  console.log(word);
   if (wordsInCorpus.has(word)) {
     wordCount = wordsInCorpus.get(word) - 1;
   }
@@ -434,14 +433,14 @@ function clearHighlight(evt, name, index) {
 function updateSearchTerms(evt, searchTerm) {
   var searchTerm = stripErased(searchTerm);
   var container = document.getElementById("search-terms");
-  var existingElement = document.getElementById(searchTerm);
+  var existingElement = document.getElementById("search-for-" +  searchTerm);
   if (existingElement) {
     return;
   }
   var item = document.createElement("div");
   item.className = 'search-term';
   item.textContent = searchTerm;
-  item.id = searchTerm;
+  item.id = "search-for-" + searchTerm;
   item.setAttribute("term", searchTerm);
   item.setAttribute("onclick", "removeFilter(event)");
 
@@ -631,9 +630,6 @@ function similarity(a, b, inscriptions, target) {
   var t = inscriptions.get(b.id).words.map(stripErased).filter(useWord);
   var x = intersect(s, target);
   var y = intersect(t, target);
-  if (x > 2 || y > 2) {
-    console.log(x, y, s, t, target);
-  }
   if (x > y) {
     return -1;
   }
