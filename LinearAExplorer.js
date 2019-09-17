@@ -162,29 +162,11 @@ function clearHighlights() {
 
 var highlightedSearchElements = [];
 function updateSearch(event) {
-  clearHighlights();
-  document.getElementById("search-terms").innerHTML = "";
   var searchTerm = event.target.value;
-  for (var inscription of inscriptions.values()) {
-    if (searchTerm == "") {
-			if (inscription.element) {
-        inscription.element.style.display = "flex";
-			}
-			continue;
-		}
-    var containsTerm = inscription.translatedWords.filter(word => word.includes(searchTerm)).length > 0;
-    if (containsTerm || inscription.transcription.includes(searchTerm) || inscription.name.includes(searchTerm)) {
-      loadInscription(inscription);
-      inscription.element.style.display = "flex";
-      for (var j = 0; j < inscription.element.children.length; j++) {
-        var element = inscription.element.children[j];
-        var highlightColor = "yellow";
-        highlightMatchesInElement(element, searchTerm, highlightColor);
-      }
-    } else if (inscription.element) {
-      inscription.element.style.display = "none";
-    }
-  } 
+  if (!searchTerm.length) {
+    return;
+  }
+  updateSearchTerms(event, searchTerm);
 }
 
 function makeMoveLens(lens, img, result, cx, cy) {
@@ -496,7 +478,11 @@ function applySearchTerms() {
     for (var j = 0; j < numberOfSearchTerms; j++) {
       var element = searchTerms.children[j];
       var searchTerm = stripErased(element.textContent);
-      if (inscription.words.includes(searchTerm) ||
+      var containsTerm = inscription.translatedWords.filter(word => word.includes(searchTerm)).length > 0;
+      if (containsTerm ||
+          inscription.transcription.includes(searchTerm) ||
+          inscription.name.includes(searchTerm) ||
+          inscription.words.includes(searchTerm) ||
           inscription.words.map(x => stripErased(x)).includes(searchTerm) ||
           inscription.scribe == searchTerm) {
         shouldDisplay = true;
