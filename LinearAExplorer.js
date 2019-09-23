@@ -30,6 +30,9 @@
 console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
 document.onkeydown = checkKey;
 function checkKey(e) {
+  if (search == document.activeElement) {
+    return true;
+  }
   e = e || window.event;
   var menu_was_showing = help_menu.style.display != "none";
   help_menu.style.display = "none";
@@ -55,6 +58,9 @@ function checkKey(e) {
       var current = getInscriptionHoveredOver();
       sortNearest(current);
       break;
+    case 87: // 'w' - highlight words according to frequency
+      updateDisplayOfWordFrequency(document, true);
+      break;
     case 89: // 'y' - show commentary for inscription currently hovered over
       var current = getInscriptionHoveredOver();
       showCommentaryForInscription(current.id);
@@ -67,9 +73,6 @@ function checkKey(e) {
     case 55:
     case 56:
     case 57:
-      if (search == document.activeElement) {
-        return true;
-      }
       if (e.shiftKey) {
         loadSearchTerms(e.keyCode);
       } else {
@@ -286,6 +289,26 @@ function addImageToItem(item, imageToAdd, name) {
   itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
 }
 
+var updateDisplayOfWordFrequency = (function(root, update) {
+  var displayed = true;
+  return function(root, update) {
+    if (update) {
+      displayed = !displayed;
+    }
+    Array.prototype.map.call(root.getElementsByTagName("span"), x => displayed ? x.classList.add("word-frequency-none") : x.classList.remove("word-frequency-none"));
+  }
+})();
+
+function getClassNameForWord(word) {
+  word = stripErased(word);
+  var stem = "word-frequency-";
+  if (wordsInCorpus.has(word)) {
+    var wordCount = Math.min(10, wordsInCorpus.get(word));
+    return stem + wordCount; 
+  }
+  return stem + "1"; 
+}
+
 function loadInscription(inscription) {
   if (inscription.element) {
     return null;
@@ -308,6 +331,8 @@ function loadInscription(inscription) {
     var span = document.createElement(elementName);
     if (elementName == "span") {
       span.textContent = word;
+      span.className = getClassNameForWord(word);
+      span.classList.add("word-frequency-none");
 
       var searchTerm = stripErased(word);
       span.id = inscription.name + "-transcription-" + i;
@@ -328,6 +353,8 @@ function loadInscription(inscription) {
     var span = document.createElement(elementName);
     if (elementName == "span") {
       span.textContent = word + " ";
+      span.className = getClassNameForWord(inscription.words[i]);
+      span.classList.add("word-frequency-none");
       span.id = inscription.name + "-translation-" + i;
       span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
@@ -353,7 +380,8 @@ function loadInscription(inscription) {
   inscription.element = item;
   container.appendChild(item);
   inscriptionsToLoad.delete(inscription.name);
-  
+  updateDisplayOfWordFrequency(item, false);
+
   return item;
 }
 
