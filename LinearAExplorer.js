@@ -289,15 +289,12 @@ function addImageToItem(item, imageToAdd, name) {
   itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
 }
 
-var updateDisplayOfWordFrequency = (function(root, update) {
-  var displayed = true;
-  return function(root, update) {
+with ({displayed : true}) var updateDisplayOfWordFrequency = function(root, update) {
     if (update) {
       displayed = !displayed;
     }
     Array.prototype.map.call(root.getElementsByTagName("span"), x => displayed ? x.classList.add("word-frequency-none") : x.classList.remove("word-frequency-none"));
-  }
-})();
+}
 
 function getClassNameForWord(word) {
   word = stripErased(word);
