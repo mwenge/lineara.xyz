@@ -56,14 +56,24 @@ function checkKey(e) {
     case 83: // 's' - sort inscriptions by closest edit distance to 
              // inscription currently hovered over
       var current = getInscriptionHoveredOver();
-      sortNearest(current);
+      if (current) {
+        sortNearest(current);
+      }
       break;
     case 87: // 'w' - highlight words according to frequency
       updateDisplayOfWordFrequency(document, true);
       break;
     case 89: // 'y' - show commentary for inscription currently hovered over
       var current = getInscriptionHoveredOver();
-      showCommentaryForInscription(current.id);
+      if (current) {
+        showCommentaryForInscription(current.id);
+      }
+      break;
+    case 90: // 'z' - zoom
+      var current = getInscriptionHoveredOver();
+      if (current) {
+        zoomItem(current);
+      }
       break;
     case 49: // '1 to 9' - save state to 1 to 9
     case 50: 
@@ -126,7 +136,7 @@ function getInscriptionHoveredOver() {
     }
     n = nn.querySelector(":hover");
   }
-  return nn;
+  return null;
 }
 
 var cycleColor = (function () {
@@ -287,6 +297,11 @@ function addImageToItem(item, imageToAdd, name) {
   lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
   img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
   itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
+}
+
+function zoomItem(item) {
+    Array.prototype.map.call(item.getElementsByClassName("item-shell"), x => x.classList.toggle("zoomed-item"));
+    Array.prototype.map.call(item.getElementsByClassName("item"), x => x.classList.toggle("zoomed-item"));
 }
 
 with ({displayed : true}) var updateDisplayOfWordFrequency = function(root, update) {
