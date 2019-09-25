@@ -166,7 +166,7 @@ function highlightMatchesInElement(element, searchTerm, highlightColor) {
   searchTerm = searchTerm.replace(/\"/g, "");
   for (var j = 0; j < element.children.length; j++) {
     var span = element.children[j];
-    if (hasMatchForHighlight(fullWordMatch, searchTerm, span.textContent.trim())) {
+    if (hasMatchForHighlight(fullWordMatch, searchTerm, stripErased(span.textContent.trim()))) {
       var inscription = element.getAttribute("inscription");
       if (!inscription) {
         continue;
