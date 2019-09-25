@@ -70,6 +70,8 @@ function checkKey(e) {
       }
       break;
     case 90: // 'z' - zoom
+      Array.prototype.map.call(document.getElementsByClassName("item-shell"), x => x.classList.remove("zoomed-item"));
+      Array.prototype.map.call(document.getElementsByClassName("item"), x => x.classList.remove("zoomed-item"));
       var current = getInscriptionHoveredOver();
       if (current) {
         zoomItem(current);
@@ -398,7 +400,7 @@ function loadInscription(inscription) {
 }
 
 function addWordTip(word, inscription) {
-  word = stripErased(word);
+  word = stripErased(word.trim());
   var wordCount = 0;
   if (wordsInCorpus.has(word)) {
     wordCount = wordsInCorpus.get(word) - 1;
