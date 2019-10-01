@@ -63,6 +63,12 @@ function checkKey(e) {
     case 87: // 'w' - highlight words according to frequency
       updateDisplayOfWordFrequency(document, true);
       break;
+    case 73: // 'i' - copy image of inscription to clipboard
+      var current = getInscriptionHoveredOver();
+      if (current) {
+        captureImage(current);
+      }
+      break;
     case 89: // 'y' - show commentary for inscription currently hovered over
       var current = getInscriptionHoveredOver();
       if (current) {
@@ -296,6 +302,19 @@ function addImageToItem(item, imageToAdd, name) {
   img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
   itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
 }
+
+
+var captureImage = function(root) {
+  html2canvas(root, {
+    backgroundColor: null
+  })
+    .then(function(canvas) {
+      canvas.toBlob(function(blob) { 
+            const item = new ClipboardItem({ "image/png": blob });
+            navigator.clipboard.write([item]); 
+      });
+    })
+};
 
 with ({zoomedElement : null}) var zoomItem = function(item) {
   var itemToZoom = item;
