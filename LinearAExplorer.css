@@ -57,6 +57,30 @@ input:focus::placeholder { color:transparent; }
   height: 40px;
   z-index: 100;
 }
+.result {
+  font-size: 20px;
+  background-color: slategray;
+  color: white;
+  display: none;
+  padding: 10px;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 360px;
+  height: 30px;
+  text-align: center;
+  animation: blinker 3s linear 1;
+  border-radius: 40px;
+  z-index: 2000;
+}
+@keyframes blinker {
+  100% {
+    opacity: 0.1;
+  }
+}
 .item {
   float: left;
   font-family: 'Aegean', 'Noto Sans Linear A and B', 'Courier', sans-serif;

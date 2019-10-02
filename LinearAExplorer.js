@@ -27,6 +27,10 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
+
+var result = document.getElementById("result");
+result.addEventListener("animationend", function() { result.style.display = "none";});
+
 console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
 document.onkeydown = checkKey;
 function checkKey(e) {
@@ -58,6 +62,8 @@ function checkKey(e) {
       var current = getInscriptionHoveredOver();
       if (current) {
         sortNearest(current);
+        result.style.display = "inline-block";
+        result.textContent = "Sorted by edit distance.";
       }
       break;
     case 87: // 'w' - highlight words according to frequency
@@ -68,6 +74,8 @@ function checkKey(e) {
       if (current) {
         captureImage(current);
       }
+      result.style.display = "inline-block";
+      result.textContent = "Image copied to clipboard";
       break;
     case 89: // 'y' - show commentary for inscription currently hovered over
       var current = getInscriptionHoveredOver();
@@ -87,10 +95,13 @@ function checkKey(e) {
     case 55:
     case 56:
     case 57:
+      result.style.display = "inline-block";
       if (e.shiftKey) {
         loadSearchTerms(e.keyCode);
+        result.textContent = "Loaded search terms";
       } else {
         saveSearchTerms(e.keyCode);
+        result.textContent = "Saved search terms";
       }
       break;
   }
@@ -680,6 +691,7 @@ function loadExplorer() {
     var visibleInscription = loadInscription(inscriptions.get(key));
     observer.observe(visibleInscription);
   }
+  result.style.display = "inline-block";
 }
 
 function levensteinDistance(a, b, inscriptions, target) {
