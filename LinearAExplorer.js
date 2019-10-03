@@ -61,8 +61,9 @@ function checkKey(e) {
              // inscription currently hovered over
       var current = getInscriptionHoveredOver();
       if (current) {
-        sortNearest(current);
         result.style.display = "inline-block";
+        result.textContent = "Sorting by edit distance.";
+        sortNearest(current);
         result.textContent = "Sorted by edit distance.";
       }
       break;
@@ -71,10 +72,11 @@ function checkKey(e) {
       break;
     case 73: // 'i' - copy image of inscription to clipboard
       var current = getInscriptionHoveredOver();
+      result.style.display = "inline-block";
+      result.textContent = "Copying Image to clipboard";
       if (current) {
         captureImage(current);
       }
-      result.style.display = "inline-block";
       result.textContent = "Image copied to clipboard";
       break;
     case 89: // 'y' - show commentary for inscription currently hovered over
@@ -90,11 +92,13 @@ function checkKey(e) {
     case 49: // '1 to 9' - save state to 1 to 9
     case 50: 
     case 51:
+    case 52:
     case 53:
     case 54:
     case 55:
     case 56:
     case 57:
+      result.style.display = "none";
       result.style.display = "inline-block";
       if (e.shiftKey) {
         loadSearchTerms(e.keyCode);

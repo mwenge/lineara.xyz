@@ -58,12 +58,13 @@ input:focus::placeholder { color:transparent; }
   z-index: 100;
 }
 .result {
+  opacity: 1;
   font-size: 20px;
   background-color: slategray;
   color: white;
   display: none;
   padding: 10px;
-  position: absolute;
+  position: fixed;
   top:0;
   bottom: 0;
   left: 0;
@@ -72,11 +73,14 @@ input:focus::placeholder { color:transparent; }
   width: 360px;
   height: 30px;
   text-align: center;
-  animation: blinker 3s linear 1;
+  animation: blinker 1s linear 1;
   border-radius: 40px;
   z-index: 2000;
 }
 @keyframes blinker {
+  80% {
+    opacity: 0.5;
+  }
   100% {
     opacity: 0.1;
   }
@@ -295,7 +299,6 @@ dt, dd, font {
 }
 .word-frequency-none {
   background-color: unset;
-  line-height: 18px;
 }
 .help-menu {
   display: none;
