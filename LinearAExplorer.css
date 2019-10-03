@@ -302,8 +302,7 @@ dt, dd, font {
 }
 .help-menu {
   display: none;
-  font-size: 15px;
-  background-color: white;
+  font-size: 25px;
   padding: 10px;
   position: fixed;
   top:0;
@@ -314,6 +313,9 @@ dt, dd, font {
   width: 80%;
   height: 60%;
   font-family: 'Courier', serif;
-  border: 1px solid black;
   z-index: 400;
+}
+.help-menu > span {
+  background-color: yellow;
+  text-transform: uppercase;
 }
