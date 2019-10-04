@@ -551,14 +551,18 @@ function updateSearchTerms(evt, searchTerm) {
 }
 
 function saveSearchTerms(key) {
+  var number = key - 48;
   var container = document.getElementById("search-terms");
   localStorage.setItem(key, container.innerHTML);
+  changeIcon(number + '.png');
 }
 
 function loadSearchTerms(key) {
+  var number = key - 48;
   var container = document.getElementById("search-terms");
   container.innerHTML = localStorage.getItem(key);
   applySearchTerms();
+  changeIcon(number + '.png');
 }
 
 function hasMatch(fullWordMatch, searchTerm, inscription) {
