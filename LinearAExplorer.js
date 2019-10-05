@@ -554,7 +554,7 @@ function saveSearchTerms(key) {
   var number = key - 48;
   var container = document.getElementById("search-terms");
   localStorage.setItem(key, container.innerHTML);
-  changeIcon(number + '.png');
+  changeIcon("icons/" + number + '.png');
 }
 
 function loadSearchTerms(key) {
@@ -562,7 +562,7 @@ function loadSearchTerms(key) {
   var container = document.getElementById("search-terms");
   container.innerHTML = localStorage.getItem(key);
   applySearchTerms();
-  changeIcon(number + '.png');
+  changeIcon("icons/" + number + '.png');
 }
 
 function hasMatch(fullWordMatch, searchTerm, inscription) {
