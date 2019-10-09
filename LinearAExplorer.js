@@ -108,6 +108,11 @@ function checkKey(e) {
         result.textContent = "Saved search terms";
       }
       break;
+    case 67: // 'c' - clear search terms
+      var container = document.getElementById("search-terms");
+      container.innerHTML = "";
+      applySearchTerms();
+      break;
   }
 }
 
