@@ -12,7 +12,7 @@ body {
   top: 50px;
   left: 100px;
   background-color: white;
-  z-index: 1000;
+  z-index: 100;
 }
 .item-container:hover {
   background-color: #f5f5f0;
@@ -55,7 +55,6 @@ input:focus::placeholder { color:transparent; }
   /*set the size of the lens:*/
   width: 40px;
   height: 40px;
-  z-index: 100;
 }
 .result {
   opacity: 1;
