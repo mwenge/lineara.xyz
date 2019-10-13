@@ -29,7 +29,7 @@
 */
 
 var result = document.getElementById("result");
-result.addEventListener("animationend", function() { result.style.display = "none";});
+result.addEventListener("animationend", function() { result.style.display = "none"; result.style.animationDelay = "0s";});
 
 console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
 document.onkeydown = checkKey;
@@ -704,7 +704,6 @@ function loadExplorer() {
     var visibleInscription = loadInscription(inscriptions.get(key));
     observer.observe(visibleInscription);
   }
-  result.style.display = "inline-block";
 }
 
 function levensteinDistance(a, b, inscriptions, target) {

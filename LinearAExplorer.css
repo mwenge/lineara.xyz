@@ -72,9 +72,10 @@ input:focus::placeholder { color:transparent; }
   width: 360px;
   height: 30px;
   text-align: center;
-  animation: blinker 1s linear 1;
+  animation: blinker 2s linear 1;
   border-radius: 40px;
   z-index: 2000;
+  animation-delay: 3s;
 }
 @keyframes blinker {
   80% {
