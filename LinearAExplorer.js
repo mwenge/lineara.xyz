@@ -72,8 +72,8 @@ function checkKey(e) {
       break;
     case 73: // 'i' - copy image of inscription to clipboard
       var current = getInscriptionHoveredOver();
+      result.style.animationDelay = "90s";
       result.style.display = "inline-block";
-      result.style.animationDuration = "90s";
       result.textContent = "Copying Image to clipboard";
       if (current) {
         captureImage(current);
@@ -341,7 +341,7 @@ var captureImage = function(root) {
       canvas.toBlob(function(blob) { 
             const item = new ClipboardItem({ "image/png": blob });
             navigator.clipboard.write([item]); 
-            result.style.animationDuration = "3s";
+            result.style.animationDelay = "0s";
             result.textContent = "Image copied to clipboard";
       });
     })
