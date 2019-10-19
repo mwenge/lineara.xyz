@@ -73,6 +73,7 @@ function checkKey(e) {
     case 73: // 'i' - copy image of inscription to clipboard
       var current = getInscriptionHoveredOver();
       result.style.display = "inline-block";
+      result.style.animationDuration = "90s";
       result.textContent = "Copying Image to clipboard";
       if (current) {
         captureImage(current);
@@ -276,6 +277,15 @@ function makeMoveLens(lens, img, result, cx, cy) {
   };
 }
 
+function makeGiveUpOnImages(elements) {
+  return function(e) {
+    for (var index in elements) {
+      elements[index].remove();
+    }
+    e.stopPropagation();
+  };
+}
+
 function makeHideElements(elements) {
   return function(e) {
     for (var index in elements) {
@@ -312,7 +322,7 @@ function addImageToItem(item, imageToAdd, name) {
   var img = document.createElement("img");
   img.src = imageToAdd;
   img.height = "200";
-  img.addEventListener("error", makeHideElements([inscriptionImage]));
+  img.addEventListener("error", makeGiveUpOnImages([inscriptionImage, itemZoom]));
   imageWrapper.appendChild(img);
   itemShell.appendChild(inscriptionImage);
 
@@ -331,6 +341,7 @@ var captureImage = function(root) {
       canvas.toBlob(function(blob) { 
             const item = new ClipboardItem({ "image/png": blob });
             navigator.clipboard.write([item]); 
+            result.style.animationDuration = "3s";
             result.textContent = "Image copied to clipboard";
       });
     })
