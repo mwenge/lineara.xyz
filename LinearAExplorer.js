@@ -77,7 +77,6 @@ function checkKey(e) {
       if (current) {
         captureImage(current);
       }
-      result.textContent = "Image copied to clipboard";
       break;
     case 89: // 'y' - show commentary for inscription currently hovered over
       var current = getInscriptionHoveredOver();
@@ -332,6 +331,7 @@ var captureImage = function(root) {
       canvas.toBlob(function(blob) { 
             const item = new ClipboardItem({ "image/png": blob });
             navigator.clipboard.write([item]); 
+            result.textContent = "Image copied to clipboard";
       });
     })
 };
