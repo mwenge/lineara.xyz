@@ -434,6 +434,8 @@ function loadInscription(inscription) {
     }
     transcript.appendChild(span);
   }
+  transcript.appendChild(document.createElement("br"));
+  transcript.appendChild(document.createElement("br"));
   item.appendChild(transcript);
 
   if (inscription.scribe) {
