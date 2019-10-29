@@ -391,8 +391,13 @@ function loadInscription(inscription) {
   item.id = inscription.name;
   item.setAttribute("onclick", "showCommentaryForInscription('" + inscription.name + "')");
 
-  addImageToItem(item, inscription.image, inscription.name)
-  addImageToItem(item, inscription.tracingImage, inscription.name)
+  inscription.images.forEach( image => {
+    addImageToItem(item, image, inscription.name)
+  });
+  inscription.tracingImages.forEach( image => {
+    addImageToItem(item, image, inscription.name)
+  });
+
 
   var transcript = document.createElement("div");
   transcript.className = 'item text-item';
