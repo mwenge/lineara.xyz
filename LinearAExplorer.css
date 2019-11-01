@@ -100,7 +100,7 @@ input:focus::placeholder { color:transparent; }
   max-width: 250px;
   transition: max-width 0.2s;
 }
-.transliteration-item {
+.transliteration-item, .translation-item {
   font-size: 16px;
   font-weight: 100;
   color: gray;
