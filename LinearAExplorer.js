@@ -200,9 +200,12 @@ function highlightMatchesInElement(element, searchTerm, highlightColor) {
       }
       var translation = document.getElementById(inscription + "-translation-" + j);
       translation.style.backgroundColor = highlightColor;
-      var transcription = document.getElementById(inscription + "-transliteration-" + j);
+      var transliteration = document.getElementById(inscription + "-transliteration-" + j);
+      transliteration.style.backgroundColor = highlightColor;
+      var transcription = document.getElementById(inscription + "-transcription-" + j);
       transcription.style.backgroundColor = highlightColor;
       highlightedSearchElements.push(translation);
+      highlightedSearchElements.push(transliteration);
       highlightedSearchElements.push(transcription);
     }
   }
@@ -539,11 +542,11 @@ function updateTipText(string) {
 }
 
 function highlightWords(evt, name, index) {
-  var items = ["transliteration", "translation"];
+  var items = ["transcription", "translation", "transliteration"];
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
-    if (item == "transliteration") {
+    if (item == "transcription") {
       addWordTip(element.textContent, name);
     }
     if (element.style.backgroundColor) {
@@ -558,7 +561,7 @@ function clearHighlight(evt, name, index) {
   if (tip) {
     tip.style.display = "none";
   }
-  var items = ["transliteration", "translation"];
+  var items = ["transcription", "transliteration", "translation"];
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
@@ -702,7 +705,7 @@ function updateSortStatus(inscription) {
 }
 
 function searchForWord(evt, name, index) {
-  var element = document.getElementById(name + "-transliteration-" + index);
+  var element = document.getElementById(name + "-transcription-" + index);
   var searchTerm = stripErased(element.textContent);
   var searchBox = document.getElementById("search");
   searchBox.value = searchTerm;
