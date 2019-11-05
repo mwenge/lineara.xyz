@@ -341,7 +341,7 @@ function addImageToItem(item, imageToAdd, name) {
 
 var captureImage = function(root) {
   html2canvas(root, {
-    backgroundColor: null
+    backgroundColor: white
   })
     .then(function(canvas) {
       canvas.toBlob(function(blob) { 
