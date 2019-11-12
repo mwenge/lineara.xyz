@@ -35,29 +35,30 @@ console.log("If you have any feedback or issues contact me @mwenge on Twitter or
 document.onkeydown = checkKey;
 function checkKey(e) {
   if (search == document.activeElement) {
-    return true;
+    return;
   }
-  e = e || window.event;
+  if (e.defaultPrevented) {
+    return; // Do nothing if the event was already processed
+  }
+  if (e.ctrlKey) {
+    return;
+  }
   var menu_was_showing = help_menu.style.display != "none";
   help_menu.style.display = "none";
-  switch(e.keyCode) {
-    case 191: // show help
-      if (e.shiftKey) {
-        if (help_menu.style.display == "block") {
-          help_menu.style.display = "none";
-        } else if (!menu_was_showing) {
-          help_menu.style.display = "block";
-        }
-        break;
+  switch(e.key) {
+    case "?": // show help
+      if (help_menu.style.display == "block") {
+        help_menu.style.display = "none";
+      } else if (!menu_was_showing) {
+        help_menu.style.display = "block";
       }
-      // fall through
-    case 191: // '/' - focus search bar
+      break;
+    case "/": // '/' - focus search bar
       if (search == document.activeElement) {
-        return true;
+        return;
       }
       search.focus();
-      return false;
-    case 83: // 's' - sort inscriptions by closest edit distance to 
+    case "s": // 's' - sort inscriptions by closest edit distance to 
              // inscription currently hovered over
       var current = getInscriptionHoveredOver();
       if (current) {
@@ -67,13 +68,13 @@ function checkKey(e) {
         result.textContent = "Sorted by edit distance.";
       }
       break;
-    case 84: // 't' - toggle translation
+    case "t": // 't' - toggle translation
       toggleTranslation();
       break;
-    case 87: // 'w' - highlight words according to frequency
+    case "w": // 'w' - highlight words according to frequency
       updateDisplayOfWordFrequency(document, true);
       break;
-    case 73: // 'i' - copy image of inscription to clipboard
+    case "i": // 'i' - copy image of inscription to clipboard
       var current = getInscriptionHoveredOver();
       result.style.animationDelay = "90s";
       result.style.display = "inline-block";
@@ -82,41 +83,54 @@ function checkKey(e) {
         captureImage(current);
       }
       break;
-    case 89: // 'y' - show commentary for inscription currently hovered over
+    case "y": // 'y' - show commentary for inscription currently hovered over
       var current = getInscriptionHoveredOver();
       if (current) {
         showCommentaryForInscription(current.id);
       }
       break;
-    case 90: // 'z' - zoom
+    case "z": // 'z' - zoom
       var current = getInscriptionHoveredOver();
       zoomItem(current);
       break;
-    case 49: // '1 to 9' - save state to 1 to 9
-    case 50: 
-    case 51:
-    case 52:
-    case 53:
-    case 54:
-    case 55:
-    case 56:
-    case 57:
+    case "1": // '1 to 9' - save state to 1 to 9
+    case "2": 
+    case "3":
+    case "4":
+    case "5":
+    case "6":
+    case "7":
+    case "8":
+    case "9":
       result.style.display = "none";
       result.style.display = "inline-block";
-      if (e.shiftKey) {
-        loadSearchTerms(e.keyCode);
-        result.textContent = "Loaded search terms";
-      } else {
-        saveSearchTerms(e.keyCode);
-        result.textContent = "Saved search terms";
-      }
+      saveSearchTerms(e.keyCode);
+      result.textContent = "Saved search terms";
       break;
-    case 67: // 'c' - clear search terms
+    case "!": // '1 to 9' - save state to 1 to 9
+    case "\"": 
+    case "£":
+    case "$":
+    case "%":
+    case "^":
+    case "&":
+    case "*":
+    case "(":
+      result.style.display = "none";
+      result.style.display = "inline-block";
+      loadSearchTerms(e.keyCode);
+      result.textContent = "Loaded search terms";
+      break;
+    case "c": // 'c' - clear search terms
       var container = document.getElementById("search-terms");
       container.innerHTML = "";
       applySearchTerms();
       break;
+    default:
+      return;
   }
+  // Cancel the default action to avoid it being handled twice
+  e.preventDefault();
 }
 
 function showCommentaryForInscription(inscription) {
