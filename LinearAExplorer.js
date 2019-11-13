@@ -153,18 +153,22 @@ function showCommentaryForInscription(inscription) {
   commentBox.addEventListener("click", makeHideElements([commentBox]));
   inscriptionElement.appendChild(commentBox);
 
-  var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function() {
-			if (xhttp.status == 404) {
-        commentBox.style.display = "none";
-			} else {
-        commentBox.innerHTML = xhttp.responseText;
-        commentBox.style.display = "block";
-      }
-  };
   inscription = inscription.replace(/[a-z]$/g, "");
-  xhttp.open("GET", "commentary/" + inscription + ".html", true);
-  xhttp.send();
+  var commentaries = ["mycommentary/" + inscription + "/" + inscription + ".html", "commentary/" + inscription + ".html"]
+  commentBox.innerHTML = "";
+  commentaries.forEach( commentary => {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onloadend = function() {
+        if (xhttp.status == 404) {
+          commentBox.style.display = "none";
+        } else {
+          commentBox.innerHTML += xhttp.responseText;
+          commentBox.style.display = "block";
+        }
+    };
+    xhttp.open("GET", commentary, true);
+    xhttp.send();
+  });
 }
 
 function getInscriptionHoveredOver() {
