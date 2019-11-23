@@ -41382,7 +41382,7 @@ var inscriptions = new Map([
         "𐘐𐙈",
         "1",
         "\n",
-        "PU-NI-KA𐚗",
+        "PU-NI-KA-SA",
         "3",
         "\n",
         "QA-TI-JU",
@@ -41410,7 +41410,7 @@ var inscriptions = new Map([
         "𐘐𐙈",
         "1",
         "\n",
-        "PU-NI-KA𐚗",
+        "PU-NI-KA-SA",
         "3",
         "\n",
         "QA-TI-JU",
@@ -41499,7 +41499,7 @@ var inscriptions = new Map([
         "SA-MI-DA-E",
         "4",
         "\n",
-        "𐚗-KE-MA-SE",
+        "SA-KE-MA-SE",
         "5"
     ],
     "transliteratedWords": [
@@ -41530,7 +41530,7 @@ var inscriptions = new Map([
         "SA-MI-DA-E",
         "4",
         "\n",
-        "𐚗-KE-MA-SE",
+        "SA-KE-MA-SE",
         "5"
     ],
     "words": [
