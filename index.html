@@ -22,7 +22,12 @@
   <div class="masthead">LINEAR A</div><input type="search" class="search" id="search" placeholder="search"></input>
 </div>
 <script>
-    document.getElementById('search').onsearch = updateSearch;
+    search.addEventListener("keyup", function(event) {
+        if (event.keyCode === 13) {
+          event.preventDefault();
+          updateSearch(event);
+        }
+    }); 
     window.onload = function() {
       document.getElementById('search').dispatchEvent(new InputEvent("input"));
       document.getElementById('result').style.display = "inline-block";
