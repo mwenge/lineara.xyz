@@ -452,12 +452,25 @@ function loadInscription(inscription) {
   translation.style.display = "none";
   item.appendChild(translation);
 
+  var tagContainer = document.createElement("div");
+  tagContainer.className = 'tag-container';
+  item.appendChild(tagContainer);
+
   if (inscription.scribe) {
     var label = document.createElement("div");
-    label.className = 'label scribe-label';
+    label.className = 'tag';
     label.textContent = inscription.scribe;
-    item.appendChild(label);
+    tagContainer.appendChild(label);
     label.setAttribute("onclick", "updateSearchTerms(event, '\"" + inscription.scribe + "\"')");
+  }
+  if (tags.has(inscription.name)) {
+    tags.get(inscription.name).forEach( tag => {
+      var label = document.createElement("div");
+      label.className = 'tag';
+      label.textContent = tag;
+      tagContainer.appendChild(label);
+      label.setAttribute("onclick", "updateSearchTerms(event, '\"" + tag + "\"')");
+    });
   }
 
   var label = document.createElement("div");
@@ -634,6 +647,7 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
         inscription.name.includes(searchTerm) ||
         inscription.words.includes(searchTerm) ||
         inscription.words.map(x => stripErased(x)).includes(searchTerm) ||
+        (tags.has(inscription.name) && tags.get(inscription.name).includes(searchTerm)) ||
         inscription.scribe == searchTerm);
   }
 
@@ -642,13 +656,17 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
       inscription.name == searchTerm ||
       inscription.words.includes(searchTerm) ||
       inscription.words.map(x => stripErased(x)).includes(searchTerm) ||
+      (tags.has(inscription.name) && tags.get(inscription.name).includes(searchTerm)) ||
       inscription.scribe == searchTerm);
 }
 
 function applySearchTerms() {
   var searchTerms = document.getElementById("search-terms");
   var numberOfSearchTerms = searchTerms.children.length;	
+  var searchTermValues = Array.prototype.slice.call(searchTerms.children)
+                         .map(x => stripErased(x.textContent));
   clearHighlights();
+
   for (var inscription of inscriptions.values()) {
     if (!numberOfSearchTerms) {
       if (inscription.element) {
@@ -657,18 +675,15 @@ function applySearchTerms() {
       continue;
     }
     var shouldDisplay = false;
-    for (var j = 0; j < numberOfSearchTerms; j++) {
-      var element = searchTerms.children[j];
-      var searchTerm = stripErased(element.textContent);
-      
+    searchTermValues.forEach( searchTerm => {
       var fullWordMatch = searchTerm.includes("\"");
       searchTerm = searchTerm.replace(/\"/g, "");
 
       if (hasMatch(fullWordMatch, searchTerm, inscription)) {
         shouldDisplay = true;
-        break;
       }
-    }
+    });
+
     if (!shouldDisplay) {
       if (inscription.element) {
         inscription.element.style.display = "none";

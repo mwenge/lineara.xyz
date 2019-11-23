@@ -161,14 +161,24 @@ input:focus::placeholder { color:transparent; }
   color: white;
   opacity: 0.5;
 }
-.scribe-label {
-  font-size: 10px;
-  right: auto;
+.tag-container {
+  position: absolute;
+  bottom: 0;
   left: 0;
-  background-color: gray;
+  right: auto;
   z-index: 100;
+  display: inline-block;
 }
-.search-term, .scribe-label:hover, .item > span {
+.tag {
+  padding: 2px;
+  border: 1px solid white;
+  color: white;
+  opacity: 0.5;
+  font-size: 10px;
+  background-color: gray;
+  display: inline;
+}
+.search-term, .tag:hover, .item > span {
   cursor: pointer;
 }
 .image-label {
