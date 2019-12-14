@@ -770,7 +770,7 @@ let observer = new IntersectionObserver(function(entries, self) {
 }, config);
 
 function loadExplorer() {
-  for (var i = 0; i < 20; i++) {
+  for (var i = 0; i < 10; i++) {
     var key = inscriptionsToLoad.keys().next().value;	
     var visibleInscription = loadInscription(inscriptions.get(key));
     observer.observe(visibleInscription);
