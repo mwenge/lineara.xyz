@@ -133,11 +133,19 @@ function checkKey(e) {
   e.preventDefault();
 }
 
+function closeZoomedWindow(e) {
+  zoomItem(null);
+  e.stopPropagation();
+}
+
 function showCommentaryForInscription(inscription) {
   var inscriptionElement = document.getElementById(inscription);
 
   var commentBox = document.getElementById("comment-box-" + inscription);
   if (commentBox) {
+    document.body.offsetTop;
+    commentBox.style.top = inscriptionElement.offsetHeight + "px";
+    console.log(commentBox.style.display);
     if (commentBox.style.display == "block") {
       commentBox.style.display = "none";
       return;
@@ -385,7 +393,10 @@ with ({zoomedElement : null}) var zoomItem = function(item) {
   
   Array.prototype.map.call(itemToZoom.getElementsByClassName("item-shell"), x => x.classList.toggle("zoomed-item"));
   Array.prototype.map.call(itemToZoom.getElementsByClassName("item"), x => x.classList.toggle("zoomed-item"));
+  Array.prototype.map.call(itemToZoom.getElementsByClassName("close-window"), x => x.classList.toggle("zoomed-close-window"));
   itemToZoom.classList.toggle("zoomed-item-container");
+  console.log(itemToZoom.id);
+  showCommentaryForInscription(itemToZoom.id);
 }
 
 with ({displayed : true}) var updateDisplayOfWordFrequency = function(root, update) {
@@ -474,8 +485,14 @@ function loadInscription(inscription) {
   }
 
   var label = document.createElement("div");
-  label.className = 'label';
+  label.className = "label";
   label.textContent = inscription.name;
+  item.appendChild(label);
+
+  var label = document.createElement("div");
+  label.className = "close-window";
+  label.id = inscription.name + "-close-window";
+  label.onclick = closeZoomedWindow;
   item.appendChild(label);
 
   inscription.element = item;

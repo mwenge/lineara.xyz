@@ -9,9 +9,9 @@ body {
 }
 .zoomed-item-container {
   position: fixed;
-  left: 50%;
-  top: 25%;
-  transform: translate(-50%, -25%);
+  left: 50%; /* horizontally centre */
+  transform: translateX(-50%); /* horizontally centre */
+  top: 10%;
   background-color: white;
   z-index: 400;
   box-shadow: 0 0 0 100vmax rgba(0,0,0,.3);
@@ -88,32 +88,28 @@ input:focus::placeholder { color:transparent; }
   }
 }
 .item {
-  float: left;
-  font-family: 'Aegean', 'Noto Sans Linear A and B', 'Courier', sans-serif;
+  flex-grow: 1;
+  font-family: 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Courier', sans-serif;
   padding: 10px;
   border: 1px solid grey;
   max-width: 150px;
   position: relative;
   background-color: inherit;
   line-height: 18px;
-  transition: max-width 0.2s, line-height 0.2s, font-size 0.2s;
 }
 .text-item {
   max-width: 250px;
-  transition: max-width 0.2s;
 }
 .transliteration-item, .translation-item {
   font-size: 16px;
   font-weight: 100;
   color: gray;
   max-width: 350px;
-  transition: max-width 0.2s, line-height 0.2s, font-size 0.2s;
 }
 .zoomed-item {
-  max-width: 350px;
+  max-width: 250px;
   line-height: 28px;
   font-size: 20px;
-  transition: max-width 0.2s, line-height 0.2s, font-size 0.2s;
 }
 .other-explorer {
   font-family: 'Courier', serif;
@@ -154,6 +150,45 @@ input:focus::placeholder { color:transparent; }
   float: left;
 
 }
+
+.close-window {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  width: 23px;
+  height: 23px;
+  border: 2px solid #eef5df;
+  background-color: gray;
+  opacity: 0.5;
+  border-radius: 50%;
+  display: none;
+}
+.close-window::before, .close-window::after {
+  position: absolute;
+  top: 10px;
+  left: 5px;
+  width: 13px;
+  height: 3px;
+  content: "";
+  background-color: #eef5df;
+  display: block;
+}
+.close-window::before {
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.close-window::after {
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.close-window:hover { cursor: pointer; }
+.zoomed-close-window {
+  display: inline-block;
+}
+
+
 .label {
   position: absolute;
   bottom: 0;
@@ -182,7 +217,7 @@ input:focus::placeholder { color:transparent; }
   background-color: gray;
   display: inline;
 }
-.search-term, .tag:hover, .item > span {
+.search-term, .tag:hover, .item > span, .zoomed-close-window {
   cursor: pointer;
 }
 .image-label {
