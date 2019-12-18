@@ -145,7 +145,6 @@ function showCommentaryForInscription(inscription) {
   if (commentBox) {
     document.body.offsetTop;
     commentBox.style.top = inscriptionElement.offsetHeight + "px";
-    console.log(commentBox.style.display);
     if (commentBox.style.display == "block") {
       commentBox.style.display = "none";
       return;
@@ -164,14 +163,18 @@ function showCommentaryForInscription(inscription) {
   inscription = inscription.replace(/[a-z]$/g, "");
   var commentaries = ["mycommentary/" + inscription + "/" + inscription + ".html", "commentary/" + inscription + ".html"]
   commentBox.innerHTML = "";
+  var failures = 0;
   commentaries.forEach( commentary => {
     var xhttp = new XMLHttpRequest();
     xhttp.onloadend = function() {
         if (xhttp.status == 404) {
-          commentBox.style.display = "none";
+          failures++;
         } else {
           commentBox.innerHTML += xhttp.responseText;
           commentBox.style.display = "block";
+        }
+        if (failures >= commentaries.length) {
+          commentBox.style.display = "none";
         }
     };
     xhttp.open("GET", commentary, true);
@@ -395,7 +398,6 @@ with ({zoomedElement : null}) var zoomItem = function(item) {
   Array.prototype.map.call(itemToZoom.getElementsByClassName("item"), x => x.classList.toggle("zoomed-item"));
   Array.prototype.map.call(itemToZoom.getElementsByClassName("close-window"), x => x.classList.toggle("zoomed-close-window"));
   itemToZoom.classList.toggle("zoomed-item-container");
-  console.log(itemToZoom.id);
   showCommentaryForInscription(itemToZoom.id);
 }
 
