@@ -398,6 +398,7 @@ with ({zoomedElement : null}) var zoomItem = function(item) {
   Array.prototype.map.call(itemToZoom.getElementsByClassName("item"), x => x.classList.toggle("zoomed-item"));
   Array.prototype.map.call(itemToZoom.getElementsByClassName("close-window"), x => x.classList.toggle("zoomed-close-window"));
   itemToZoom.classList.toggle("zoomed-item-container");
+  document.body.offsetTop;
   showCommentaryForInscription(itemToZoom.id);
 }
 
