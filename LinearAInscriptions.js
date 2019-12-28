@@ -40584,7 +40584,8 @@ var inscriptions = new Map([
 }],
 ["ZA8",{
     "images": [
-        "images/ZA8-Inscription.jpg"
+        "images/ZA8-Inscription.jpg",
+        "images/ZA8a-Inscription.jpg"
     ],
     "name": "ZA8",
     "parsedInscription": "𐘸𐘴𐄁\n𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝂𐝂\n𐘇𐘭𐘝𐘳𐄇𐝫𐝁𐝁\n𐘳𐘚𐘯𐙁𐘂𐝆\n𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝁𐝁",

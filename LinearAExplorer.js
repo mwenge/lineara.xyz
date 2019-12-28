@@ -89,6 +89,9 @@ function checkKey(e) {
         showCommentaryForInscription(current.id);
       }
       break;
+    case "Escape":
+      zoomItem(current);
+      break;
     case "z": // 'z' - zoom
       var current = getInscriptionHoveredOver();
       zoomItem(current);
