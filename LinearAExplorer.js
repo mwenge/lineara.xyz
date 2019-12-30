@@ -358,7 +358,7 @@ function addImageToItem(item, imageToAdd, name) {
   imageWrapper.appendChild(lens);
 
   var img = document.createElement("img");
-  img.src = imageToAdd;
+  img.src = encodeURIComponent(imageToAdd);
   img.height = "200";
   img.addEventListener("error", makeGiveUpOnImages([inscriptionImage, itemZoom]));
   imageWrapper.appendChild(img);

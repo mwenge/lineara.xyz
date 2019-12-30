@@ -99,6 +99,7 @@ input:focus::placeholder { color:transparent; }
 }
 .text-item {
   max-width: 250px;
+  word-break: break-word;
 }
 .transliteration-item, .translation-item {
   font-size: 16px;

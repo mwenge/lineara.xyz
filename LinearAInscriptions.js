@@ -36777,7 +36777,9 @@ var inscriptions = new Map([
     ]
 }],
 ["PH(?)31a",{
-    "images": [],
+    "images": [
+        "images/PH(?)31a-Inscription.jpg"
+    ],
     "name": "PH(?)31a",
     "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇\n𐙁𐘆𐘑𐄇\n𐘓𐝫\n𐄁𐝫𐘗𐄇\n𐙂𐘰𐘯𐙄𐘤𐘙𐄇\n𐘂𐘳𐘀𐝫𐝫𐄇\n𐙂𐘁𐚾𐄇\n𐘑𐄋\n𐘐𐄉𐝫",
     "scribe": "",
@@ -36893,7 +36895,9 @@ var inscriptions = new Map([
     ]
 }],
 ["PH(?)31b",{
-    "images": [],
+    "images": [
+        "images/PH(?)31b-Inscription.jpg"
+    ],
     "name": "PH(?)31b",
     "parsedInscription": "𐝫\n𐝫𐘓𐄈\n𐘐𐄇𐝫\n𐝫𐘬𐘭𐘑𐄇\n𐘹𐝫\n𐝫𐘗𐘑𐄇\n𐘔𐄋\n𐘃𐘭𐘑𐝫\n𐝫𐝫𐄇\n𐘭𐘘𐙁𐘠𐘑\n𐙄𐘤𐘙\n𐘇𐘻𐘀𐘵𐘑𐄇𐝫",
     "scribe": "",
