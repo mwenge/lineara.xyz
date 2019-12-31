@@ -15092,29 +15092,15 @@ var inscriptions = new Map([
         "𐝫"
     ]
 }],
-["HT154",{
+["HT154.",{
     "images": [
-        "images/HT154-Inscription.jpg",
-        "images/HT154a-Inscription.jpg",
-        "images/HT154b-Inscription.jpg",
-        "images/HT154c-Inscription.jpg",
-        "images/HT154e-Inscription.jpg",
-        "images/HT154g-Inscription.jpg",
-        "images/HT154k-Inscription.jpg",
-        "images/HT154l-Inscription.jpg"
+        "images/HT154.-Inscription.jpg"
     ],
-    "name": "HT154",
+    "name": "HT154.",
     "parsedInscription": "𐛀𐄁\n𐘠𐝫\n𐝫𐄙\n𐝫𐄍𐝫\n𐝫𐄓𐝫\n𐘸𐝫\n𐝫",
     "scribe": "",
     "tracingImages": [
-        "images/HT154-Tracing.jpg",
-        "images/HT154a-Tracing.jpg",
-        "images/HT154b-Tracing.jpg",
-        "images/HT154c-Tracing.jpg",
-        "images/HT154e-Tracing.jpg",
-        "images/HT154g-Tracing.jpg",
-        "images/HT154k-Tracing.jpg",
-        "images/HT154l-Tracing.jpg"
+        "images/HT154.-Tracing.jpg"
     ],
     "transcription": "𐛀𐄁𐘠𐝫𐄙𐝫\n𐝫𐄍𐝫𐄓𐝫\n𐘸𐝫\n𐝫",
     "translatedWords": [
