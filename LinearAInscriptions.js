@@ -6,6 +6,7 @@ var inscriptions = new Map([
     "name": "HT1",
     "parsedInscription": "𐘿𐘽𐘉𐄁\n𐘸𐘁𐄙𐄘𐄍\n𐙀𐘲𐄖\n𐘆𐘆𐘍𐘥𐄔𐄈\n𐙂𐘰𐘯𐄙𐄏\n𐘇𐘴𐘅𐘙𐄙𐄋",
     "scribe": "HT Scribe 21",
+    "support": "tablet",
     "tracingImages": [
         "images/HT1-Tracing.jpg"
     ],
@@ -75,6 +76,7 @@ var inscriptions = new Map([
     "name": "HT2",
     "parsedInscription": "𐘇𐘾𐘘𐄁𐜋𐄑𐝫\n𐝫𐜊𐄐𐄍\n𐜎𐄉𐝫\n𐝫𐘸𐘙𐘳𐘅𐜋𐄔𐄊𐝫\n𐝫𐜊𐄓𐄍\n𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT2-Tracing.jpg"
     ],
@@ -150,6 +152,7 @@ var inscriptions = new Map([
     "name": "HT3",
     "parsedInscription": "𐝫\n𐝫𐙁𐝫\n𐝫𐘆𐘅𐝫𐄈\n𐘿𐘽𐘱𐝫\n𐝫𐄈\n𐘆𐄈𐝫\n𐝫𐄊\n𐘕𐘘𐄇\n𐘘𐝫\n𐝫𐘤𐘹𐘽𐘙𐄋\n𐘆𐝫\n𐝫𐙂𐘰𐘯𐄉𐝫\n𐝫𐙁𐘆𐄈𐝫\n𐘀𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT3-Tracing.jpg"
     ],
@@ -267,6 +270,7 @@ var inscriptions = new Map([
     "name": "HT4",
     "parsedInscription": "𐝫\n𐝫𐙚𐘠𐘾𐘇𐘙𐝫\n𐝫𐘬𐘭𐘃𐄈\n𐘂𐘙𐝫\n𐝫𐘳𐘢𐘤𐘆𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT4-Tracing.jpg"
     ],
@@ -318,6 +322,7 @@ var inscriptions = new Map([
     "name": "HT5",
     "parsedInscription": "𐝫\n𐝫𐙛𐝫\n𐝫𐙁𐘤𐄒𐝫\n𐝫𐘣𐘬𐄐𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/HT5-Tracing.jpg"
     ],
@@ -375,6 +380,7 @@ var inscriptions = new Map([
     "name": "HT6a",
     "parsedInscription": "𐘾𐘂𐄁\n𐘀𐘳𐘴𐄁𐘃𐄁𐘝𐄐𐄋\n𐘢𐘳𐘱𐄑𐄊\n𐛑𐝓\n𐙁𐙭𐄐\n𐘵𐘽𐘆𐘗𐄈\n𐘾𐘂𐘿𐄋𐝕\n𐘀𐘿𐘴𐄁\n𐘿𐘢𐘳𐄑𐄈𐝕\n𐘝𐄐𐄋𐝆",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT6a-Tracing.jpg"
     ],
@@ -501,6 +507,7 @@ var inscriptions = new Map([
     "name": "HT6b",
     "parsedInscription": "𐘮𐘬𐘝𐘻𐄉𐝅\n𐘴𐘠𐘈𐄇\n𐙁𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃\n𐘞𐙁𐄒𐄋\n𐘰𐘝𐘅𐄐𐄍𐝆",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT6b-Tracing.jpg"
     ],
@@ -588,6 +595,7 @@ var inscriptions = new Map([
     "name": "HT7a",
     "parsedInscription": "𐘿𐘠𐄁𐙇\n𐘚𐘘𐘱𐄉\n𐘬𐘱𐄊\n𐘳𐘅𐘠𐄇\n𐘀𐘙𐄇\n𐘃𐘹𐄇",
     "scribe": "HT Scribe 11",
+    "support": "tablet",
     "tracingImages": [
         "images/HT7a-Tracing.jpg"
     ],
@@ -660,6 +668,7 @@ var inscriptions = new Map([
     "name": "HT7b",
     "parsedInscription": "𐘐𐘹𐘗𐄇\n𐘀𐘘𐙵𐄈",
     "scribe": "HT Scribe 11",
+    "support": "tablet",
     "tracingImages": [
         "images/HT7b-Tracing.jpg"
     ],
@@ -693,6 +702,7 @@ var inscriptions = new Map([
     "name": "HT8a",
     "parsedInscription": "𐘧𐘆𐜓𐄐\n𐘰𐘾𐘴𐘠𐄇𐝆\n𐘂𐄉𐝆\n𐘃𐙕𐄈\n𐘌𐙠𐘚𐝕\n𐘤𐘸𐘴𐝃\n𐘸𐘙𐘳𐘅𐝆",
     "scribe": "HT Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/HT8a-Tracing.jpg"
     ],
@@ -780,6 +790,7 @@ var inscriptions = new Map([
     "name": "HT8b",
     "parsedInscription": "𐘲𐘜𐙓𐄇\n—\n𐄋\n𐘰𐙓𐄈\n𐘌𐙠𐘚𐄇𐝃𐝄\n𐘾𐘂𐝆\n𐘂𐘱𐘙𐄇𐝄\n𐛥𐝆\n𐝆",
     "scribe": "HT Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/HT8b-Tracing.jpg"
     ],
@@ -873,6 +884,7 @@ var inscriptions = new Map([
     "name": "HT9a",
     "parsedInscription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝆𐝃\n𐙚𐘹𐄐\n𐘆𐘅𐘉𐄊\n𐘿𐘫𐄈\n𐙰𐘆𐘴𐄈𐝆\n𐘳𐘚𐙌𐄈𐝆\n𐘇𐘘𐄊𐝃\n𐙂𐘁𐄒𐄇𐝆𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT9a-Tracing.jpg"
     ],
@@ -999,6 +1011,7 @@ var inscriptions = new Map([
     "name": "HT9b",
     "parsedInscription": "𐘰𐄁\n𐘮𐘱𐘢𐝫\n—\n𐘾𐙙𐄁\n𐘂𐘦𐄉\n𐘇𐘤𐄉\n𐙚𐘹𐄎\n𐙰𐘆𐘴𐄈\n𐘿𐘫𐄈\n𐘳𐘚𐙌𐄈\n𐘆𐘅𐘉𐄊\n𐙂𐘁𐄑𐄊",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT9b-Tracing.jpg"
     ],
@@ -1116,6 +1129,7 @@ var inscriptions = new Map([
     "name": "HT10a",
     "parsedInscription": "𐙂𐘝𐘲𐄁\n𐘞𐙁𐄊\n𐄁𐘂𐄁\n𐘀𐘙𐄐𐄌𐝆\n𐘉𐙱𐘍𐄊\n𐙕𐄌\n𐘉𐙱𐘍𐄐𐄊𐝫\n𐙙𐘘𐄈𐝆\n𐘀𐘭𐘀𐄎\n𐘋𐘍𐄉",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT10a-Tracing.jpg"
     ],
@@ -1230,6 +1244,7 @@ var inscriptions = new Map([
     "name": "HT10b",
     "parsedInscription": "𐘉𐘠𐄇\n𐘀𐘙𐄈\n𐘳𐘭𐘅𐄐𐄋\n𐙢𐘳𐄌𐝆\n𐘾𐘞𐘘𐄌\n𐘳𐘅𐘠𐄏𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT10b-Tracing.jpg"
     ],
@@ -1305,6 +1320,7 @@ var inscriptions = new Map([
     "name": "HT11a",
     "parsedInscription": "𐘇𐘘𐘴𐝫𐄁𐝫𐄉\n𐘾𐘁𐘅𐄈\n𐙮𐘭𐄇\n𐙂𐘁𐄐\n𐘇𐘲𐘱𐄇\n𐙇𐘚𐄉\n𐘷𐄐𐄋",
     "scribe": "HT Scribe 24",
+    "support": "tablet",
     "tracingImages": [
         "images/HT11a-Tracing.jpg"
     ],
@@ -1386,6 +1402,7 @@ var inscriptions = new Map([
     "name": "HT11b",
     "parsedInscription": "𐝫𐘦𐘯\n𐘘𐘽\n𐙅𐘾𐄓\n𐘾𐄒\n𐘾𐄔\n𐘘𐙀𐘅𐘾𐄒\n𐘞𐘿𐘭𐄁𐘾𐄒\n𐙂𐘁𐄙𐄗",
     "scribe": "HT Scribe 24",
+    "support": "tablet",
     "tracingImages": [
         "images/HT11b-Tracing.jpg"
     ],
@@ -1476,6 +1493,7 @@ var inscriptions = new Map([
     "name": "HT12",
     "parsedInscription": "𐘌𐘠𐘀𐘃𐄁𐜉𐄋\n𐙘𐄋\n𐘿𐘹𐘗𐄁𐚻𐄇\n𐘡𐄒\n𐛢𐄁𐙈𐄋\n𐜚𐄉\n𐘝𐄇\n𐚼𐝇\n𐘀𐘚𐄔",
     "scribe": "HT Scribe 11",
+    "support": "tablet",
     "tracingImages": [
         "images/HT12-Tracing.jpg"
     ],
@@ -1590,6 +1608,7 @@ var inscriptions = new Map([
     "name": "HT13",
     "parsedInscription": "𐘾𐘉𐘦𐘳𐙍𐄁𐘃𐄁\n𐘙𐘍𐄋𐝫𐝆𐝫\n𐘃𐘹𐄔𐄌\n𐘃𐘸𐄑𐄍𐝆\n𐙂𐙀𐘝𐄐𐄎\n𐘀𐘤𐙈𐄐𐄏\n𐘚𐘬𐘗𐘤𐄋\n𐙂𐘁𐄙𐄒𐝆",
     "scribe": "HT Scribe 8",
+    "support": "tablet",
     "tracingImages": [
         "images/HT13-Tracing.jpg"
     ],
@@ -1695,6 +1714,7 @@ var inscriptions = new Map([
     "name": "HT14",
     "parsedInscription": "𐘫𐙍𐄁𐘃𐄁𐙉𐄒\n𐜗𐄉\n𐜉𐄉\n𐙘𐄏\n𐙋𐄐𐄉\n𐘇𐘜𐘅𐘬𐙉𐄓𐄋\n𐜗𐄋\n𐜉𐄊\n𐙘𐄌\n𐙋𐄐𐄊",
     "scribe": "HT Scribe 14",
+    "support": "tablet",
     "tracingImages": [
         "images/HT14-Tracing.jpg"
     ],
@@ -1815,6 +1835,7 @@ var inscriptions = new Map([
     "name": "HT15",
     "parsedInscription": "𐘉𐘟𐘤𐙉\n𐘬𐙌𐘇𐄞𐄗𐄊\n𐛹𐄝𐄖\n𐙓𐄁𐘸𐘁𐄜\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT15-Tracing.jpg"
     ],
@@ -1878,6 +1899,7 @@ var inscriptions = new Map([
     "name": "HT16",
     "parsedInscription": "𐘾𐙂𐘂𐄁\n𐘆𐘅𐘉𐝄\n𐄁𐘮𐝁\n𐜇𐝃𐝄\n𐘞𐘊𐘼𐝇",
     "scribe": "HT Scribe 10",
+    "support": "tablet",
     "tracingImages": [
         "images/HT16-Tracing.jpg"
     ],
@@ -1944,6 +1966,7 @@ var inscriptions = new Map([
     "name": "HT17",
     "parsedInscription": "𐘴󽇫𐘠𐄁𐘃𐄁𐙍𐄒𐄍\n𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
     "scribe": "HT Scribe 18",
+    "support": "tablet",
     "tracingImages": [
         "images/HT17-Tracing.jpg"
     ],
@@ -1998,6 +2021,7 @@ var inscriptions = new Map([
     "name": "HT18",
     "parsedInscription": "𐘂𐘈𐛱𐄑\n𐜓𐄈\n𐙘𐄉\n𐘞𐘽𐙉𐄐\n𐘝𐄐",
     "scribe": "HT Scribe 20",
+    "support": "tablet",
     "tracingImages": [
         "images/HT18-Tracing.jpg"
     ],
@@ -2064,6 +2088,7 @@ var inscriptions = new Map([
     "name": "HT19",
     "parsedInscription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍𐄒\n𐘞𐘁𐄋𐝆\n𐘬𐘋𐘆𐄓𐄉𐝆",
     "scribe": "HT Scribe 18",
+    "support": "tablet",
     "tracingImages": [
         "images/HT19-Tracing.jpg"
     ],
@@ -2124,6 +2149,7 @@ var inscriptions = new Map([
     "name": "HT20",
     "parsedInscription": "𐘂𐘁𐘲𐄁\n𐙂𐙁𐘶𐝃\n𐘿𐙂𐘙𐄁𐘆𐝆\n𐘑𐝄\n𐘞𐘙𐘶𐝄\n𐘮𐝃\n𐜇𐝆",
     "scribe": "HT Scribe 10",
+    "support": "tablet",
     "tracingImages": [
         "images/HT20-Tracing.jpg"
     ],
@@ -2208,6 +2234,7 @@ var inscriptions = new Map([
     "name": "HT21",
     "parsedInscription": "𐘢𐘳𐘾𐘈𐄁𐘃𐄁𐙉𐄙𐄕𐄇\n𐜋𐄐𐄇\n𐜎𐄉𐝕\n𐙘𐄍𐝕\n𐙋𐄇𐝃",
     "scribe": "HT Scribe 22",
+    "support": "tablet",
     "tracingImages": [
         "images/HT21-Tracing.jpg"
     ],
@@ -2289,6 +2316,7 @@ var inscriptions = new Map([
     "name": "HT22",
     "parsedInscription": "𐝫\n𐛸𐄚𐄒\n—\n𐜣𐄙𐄐𐄉",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT22-Tracing.jpg"
     ],
@@ -2334,6 +2362,7 @@ var inscriptions = new Map([
     "name": "HT23a",
     "parsedInscription": "𐘾𐘅𐄁𐙗𐝁\n𐙜𐝅\n𐜍𐝅\n𐜖𐝅\n𐜏𐝅\n𐛚𐝅\n𐙍𐄐\n𐚹𐄐\n𐚺𐄐\n𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇\n𐘞𐘞𐘋𐝇\n𐛊𐄐\n𐘺𐘘𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT23a-Tracing.jpg"
     ],
@@ -2481,6 +2510,7 @@ var inscriptions = new Map([
     "name": "HT23b",
     "parsedInscription": "𐘝𐘴𐙗𐝁\n𐙖𐝫𐝁\n𐛚\n𐝫𐘕𐝫\n𐚻𐝫\n𐚹𐄇\n𐝫\n𐘡𐄍𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT23b-Tracing.jpg"
     ],
@@ -2565,6 +2595,7 @@ var inscriptions = new Map([
     "name": "HT24a",
     "parsedInscription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌\n𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆\n𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐙁𐘘𐘋\n𐘘𐘚𐘺𐛢𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT24a-Tracing.jpg"
     ],
@@ -2640,6 +2671,7 @@ var inscriptions = new Map([
     "name": "HT24b",
     "parsedInscription": "𐝫𐙈𐄇𐝆𐝃\n𐛋𐙈𐄇𐝆𐝃\n𐛒𐙈𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT24b-Tracing.jpg"
     ],
@@ -2688,6 +2720,7 @@ var inscriptions = new Map([
     "name": "HT25a",
     "parsedInscription": "𐝫\n𐝫𐄇\n𐘆𐘅𐘉𐝫\n𐝫𐘘𐘝𐄇\n𐘉𐘙𐘣𐄇\n𐘆𐘅𐘉𐄇\n𐘇𐘭𐘝𐘳𐄇\n𐘹𐘿𐘯𐝫\n𐝫𐙀𐘶𐘜𐄇\n𐘬𐘘𐘣𐝫\n𐝫𐘚𐘸𐘴𐄇\n𐘂𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT25a-Tracing.jpg"
     ],
@@ -2796,6 +2829,7 @@ var inscriptions = new Map([
     "name": "HT25b",
     "parsedInscription": "𐝫\n𐝫\n𐙂𐘁𐄐𐄌\n𐘣𐘃𐘁𐄁𐘚𐘠𐙇𐄑𐄎\n𐙇𐄑𐄊\n𐙂𐘁𐄔𐄈",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT25b-Tracing.jpg"
     ],
@@ -2868,6 +2902,7 @@ var inscriptions = new Map([
     "name": "HT26a",
     "parsedInscription": "𐜮𐄁\n𐙢𐘃𐘃𐄁\n𐘳𐘠𐄑𐄇\n𐘻𐘸𐘈𐘅𐄐𐄋\n𐘉𐘯𐘐𐄋𐝫\n𐝫",
     "scribe": "HT Scribe 3",
+    "support": "tablet",
     "tracingImages": [
         "images/HT26a-Tracing.jpg"
     ],
@@ -2934,6 +2969,7 @@ var inscriptions = new Map([
     "name": "HT26b",
     "parsedInscription": "𐄁𐜮𐄁𐙇𐄏\n𐝫𐘁𐘝𐄉\n𐘾𐘉𐙀𐘝𐄊\n𐛖𐄐𐄈\n𐘚𐙜𐄈𐝫\n𐙓𐙅𐄍𐝫\n𐝫",
     "scribe": "HT Scribe 3",
+    "support": "tablet",
     "tracingImages": [
         "images/HT26b-Tracing.jpg"
     ],
@@ -3018,6 +3054,7 @@ var inscriptions = new Map([
     "name": "HT27a",
     "parsedInscription": "𐘠𐘝𐘳𐄁𐙛𐄁\n𐙇𐄘\n𐝫𐄔\n𐙅𐄔𐄇\n𐘙𐄑\n𐝫𐘚𐘻𐘞𐘴𐄓𐄉\n𐝫𐘿𐄑𐄇\n𐘸𐘀𐝫\n𐝫𐘸𐙠𐄁𐙂𐙙𐝫\n𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝆𐝃𐝁\n𐘝𐄐𐝁\n𐙍𐄍",
     "scribe": "HT Scribe 11",
+    "support": "tablet",
     "tracingImages": [
         "images/HT27a-Tracing.jpg"
     ],
@@ -3177,6 +3214,7 @@ var inscriptions = new Map([
     "name": "HT27b",
     "parsedInscription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐄁𐙉𐄁𐘞𐄇\n𐘙𐄐𐄊\n𐙍𐄁𐘤𐄁\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊\n𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊\n𐘙𐝫𐄓",
     "scribe": "HT Scribe 11",
+    "support": "tablet",
     "tracingImages": [
         "images/HT27b-Tracing.jpg"
     ],
@@ -3324,6 +3362,7 @@ var inscriptions = new Map([
     "name": "HT28a",
     "parsedInscription": "𐘇𐘤𐘱𐘾𐄁\n𐘱𐘐𐄁𐛱𐄋\n𐜋𐄈\n𐜓𐝆\n𐜗𐄇\n𐜖𐝉\n𐘞𐘽𐜉𐄇\n𐘝𐄈\n𐙍𐄉\n𐛧𐙍𐄌\n𐘇𐘘𐘀𐘴𐙉𐄋\n𐙘𐄈\n𐜉𐄉\n𐘚𐘳𐘱𐜉𐄐",
     "scribe": "HT Scribe 13",
+    "support": "tablet",
     "tracingImages": [
         "images/HT28a-Tracing.jpg"
     ],
@@ -3480,6 +3519,7 @@ var inscriptions = new Map([
     "name": "HT28b",
     "parsedInscription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻𐘅𐘤𐄁\n𐘞𐘽𐙉𐄑\n𐜉𐄋\n𐘝𐄈\n𐙍𐄊\n𐘫𐘽𐘝𐄌\n𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉\n𐙍𐄉\n𐝫𐝃",
     "scribe": "HT Scribe 13",
+    "support": "tablet",
     "tracingImages": [
         "images/HT28b-Tracing.jpg"
     ],
@@ -3600,6 +3640,7 @@ var inscriptions = new Map([
     "name": "HT29",
     "parsedInscription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐄇\n𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇\n𐝫𐄁𐝫𐘸𐘳𐄈\n𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT29-Tracing.jpg"
     ],
@@ -3690,6 +3731,7 @@ var inscriptions = new Map([
     "name": "HT30",
     "parsedInscription": "𐘤𐄊\n𐘞𐘽𐙗𐝫\n𐝫𐄐𐄊𐝆\n𐘝𐄍𐝂\n𐙍𐄎𐝆\n𐜐𐝓\n𐚻𐝂\n𐘞𐘴𐘴𐝆\n𐘖𐄊\n𐘸𐘁𐄁𐙗𐄎\n𐘝𐝓\n𐙍𐝆\n𐘖𐄇𐝫\n𐝫𐝂\n𐜐𐝂\n𐝫",
     "scribe": "HT Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/HT30-Tracing.jpg"
     ],
@@ -3855,6 +3897,7 @@ var inscriptions = new Map([
     "name": "HT31",
     "parsedInscription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋\n𐚢𐘌𐘰𐄐\n𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐\n𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐\n𐘸𐘦𐙁𐙯𐘅\n𐚢𐄜\n𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
     "scribe": "HT Scribe 12",
+    "support": "tablet",
     "tracingImages": [
         "images/HT31-Tracing.jpg"
     ],
@@ -3975,6 +4018,7 @@ var inscriptions = new Map([
     "name": "HT32",
     "parsedInscription": "𐙛\n𐘞𐘽𐄁𐙜𐝆\n𐜍𐝆𐝇\n𐚻𐄇𐝇\n𐚹𐄇\n𐛚𐄇\n𐘲𐘙𐄁𐄙𐄎\n𐘆𐄕𐄋\n𐜍𐝫\n𐝫𐘙𐄙𐄊\n𐘆𐄔𐄉",
     "scribe": "HT Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/HT32-Tracing.jpg"
     ],
@@ -4095,6 +4139,7 @@ var inscriptions = new Map([
     "name": "HT33",
     "parsedInscription": "𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃\n𐚹𐝉𐝋𐝫\n𐝫𐄉\n𐛆𐝃𐝉\n𐛜𐝂\n𐙙𐄘\n𐜦𐄙\n𐛐𐄙",
     "scribe": "HT Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/HT33-Tracing.jpg"
     ],
@@ -4194,6 +4239,7 @@ var inscriptions = new Map([
     "name": "HT34",
     "parsedInscription": "𐘀𐘶𐘃𐄁𐘤𐛀𐄁\n𐘞𐘽𐄁𐛜𐝫\n𐝫\n𐝫𐝁\n𐘡𐄁𐙉𐄚𐝫\n𐝫𐛅𐄈𐝅𐝇\n𐚻𐝀\n𐚹𐝃\n𐛛𐄚𐄓𐄋\n𐛂𐄙\n𐘰𐄖\n𐘸𐘁𐄒𐄍\n𐛆𐝇\n𐘫𐝄",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT34-Tracing.jpg"
     ],
@@ -4347,6 +4393,7 @@ var inscriptions = new Map([
     "name": "HT35",
     "parsedInscription": "𐘠𐘠𐙂𐄁𐙲𐄁\n𐘚𐙂𐘳𐙗𐄇\n𐛚𐝁\n𐜏𐝁\n𐙜𐝁\n𐜐𐝫\n𐘡𐄋\n𐚻𐝇\n𐙍𐝂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT35-Tracing.jpg"
     ],
@@ -4449,6 +4496,7 @@ var inscriptions = new Map([
     "name": "HT36",
     "parsedInscription": "𐘧𐘆𐜠𐛱𐄑𐄓𐄊𐝆\n𐘬𐙀𐘮𐄍𐝆\n𐝫\n𐄌",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT36-Tracing.jpg"
     ],
@@ -4503,6 +4551,7 @@ var inscriptions = new Map([
     "name": "HT37",
     "parsedInscription": "𐛛𐄁\n𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐝫\n𐝫𐄌\n𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁\n𐘾𐘸𐄐𐄇\n𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT37-Tracing.jpg"
     ],
@@ -4608,6 +4657,7 @@ var inscriptions = new Map([
     "name": "HT38",
     "parsedInscription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇\n𐙄𐄇\n𐘒𐄉\n𐛞𐙈𐄉\n𐛎𐄈\n𐛏𐄇",
     "scribe": "HT Scribe 8",
+    "support": "tablet",
     "tracingImages": [
         "images/HT38-Tracing.jpg"
     ],
@@ -4689,6 +4739,7 @@ var inscriptions = new Map([
     "name": "HT39",
     "parsedInscription": "𐘳𐘚𐙌𐄐𐝫\n𐝫𐙂𐘙𐘶𐄎\n𐙂𐝫\n𐝫𐘞𐙁𐘠𐄐\n𐙂𐘙𐝫\n𐝫𐙂𐘁𐜯𐄙\n𐝫𐛤𐄈𐝫\n𐛍𐝫\n𐝫",
     "scribe": "HT Scribe 12",
+    "support": "tablet",
     "tracingImages": [
         "images/HT39-Tracing.jpg"
     ],
@@ -4776,6 +4827,7 @@ var inscriptions = new Map([
     "name": "HT40",
     "parsedInscription": "𐘯𐘬𐙷𐄁𐘃𐄁𐙉𐄚𐄍\n𐘸𐘀𐘳𐄁𐙉𐝫𐄙𐄒𐄊\n𐙂𐘁𐝫\n𐙂𐝫\n𐝫",
     "scribe": "HT Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/HT40-Tracing.jpg"
     ],
@@ -4845,6 +4897,7 @@ var inscriptions = new Map([
     "name": "HT41a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘿𐘹𐄐\n𐙙𐄁𐙘𐄐\n𐘙𐄁𐙘𐄐\n𐘻𐘀𐘝𐄁𐘂𐘱𐄈𐝂𐝂",
     "scribe": "HT Scribe 14",
+    "support": "tablet",
     "tracingImages": [
         "images/HT41a-Tracing.jpg"
     ],
@@ -4929,6 +4982,7 @@ var inscriptions = new Map([
     "name": "HT41b",
     "parsedInscription": "𐝫\n𐝫\n—",
     "scribe": "HT Scribe 14",
+    "support": "tablet",
     "tracingImages": [
         "images/HT41b-Tracing.jpg"
     ],
@@ -4960,6 +5014,7 @@ var inscriptions = new Map([
     "name": "HT42+59",
     "parsedInscription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎\n𐜋𐝫𐄍\n𐘞𐘁𐜓𐄎\n𐜋𐄈𐝫\n𐝫𐄈\n𐙂𐝫𐝫𐙖𐝫\n𐝫\n𐜗𐄈\n𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓𐝫𐝆𐝃\n𐜋𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎𐜋𐝫\n𐝫𐄍𐘞𐘁𐜓𐄎𐜋𐄈𐝫\n𐝫𐄈𐙂𐝫𐙖𐝫\n𐝫\n𐜗𐄈𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓\n𐝫𐝕𐜋𐝫",
     "translatedWords": [
@@ -5081,6 +5136,7 @@ var inscriptions = new Map([
     "name": "HT43",
     "parsedInscription": "𐙁𐘤𐘬𐄁𐘂𐚂𐘚𐄁𐘚𐄁𐛭𐄋𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT43-Tracing.jpg"
     ],
@@ -5123,6 +5179,7 @@ var inscriptions = new Map([
     "name": "HT44a",
     "parsedInscription": "𐘚𐘌𐙈𐄁𐙉𐝫\n𐜒𐄉\n𐜋𐄋𐝫\n𐜑𐄋\n𐙋𐄇𐝫\n𐝫𐘝𐄇\n𐙍𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT44a-Tracing.jpg"
     ],
@@ -5207,6 +5264,7 @@ var inscriptions = new Map([
     "name": "HT44b",
     "parsedInscription": "𐝫𐘱𐄁𐘃𐛵𐝫\n𐝫𐄋\n𐘝𐝫\n𐝫𐙍𐄖𐄋\n𐝫𐄐𐄎\n𐝫𐄐\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT44b-Tracing.jpg"
     ],
@@ -5273,6 +5331,7 @@ var inscriptions = new Map([
     "name": "HT45a",
     "parsedInscription": "𐝫\n𐝫𐝉\n𐘂𐝫\n𐝫𐙅𐄁𐙙𐄈𐝫\n𐝫𐙪𐄁𐙙𐄈",
     "scribe": "HT Scribe 14",
+    "support": "tablet",
     "tracingImages": [
         "images/HT45a-Tracing.jpg"
     ],
@@ -5336,6 +5395,7 @@ var inscriptions = new Map([
     "name": "HT45b",
     "parsedInscription": "𐝫\n—\n𐝫𐄎𐝂𐝂\n𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍\n𐚺𐝉\n𐘂𐝫𐄁𐝫𐘇𐄑𐝁\n𐄁𐙂𐝃\n𐙂𐝃",
     "scribe": "HT Scribe 14",
+    "support": "tablet",
     "tracingImages": [
         "images/HT45b-Tracing.jpg"
     ],
@@ -5459,6 +5519,7 @@ var inscriptions = new Map([
     "name": "HT46a",
     "parsedInscription": "𐝫\n𐝫𐘕𐘘𐄇𐝫\n𐝫𐙂𐘁𐄓𐄉𐝆",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT46a-Tracing.jpg"
     ],
@@ -5501,6 +5562,7 @@ var inscriptions = new Map([
     "name": "HT46b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄐𐄌𐝆\n𐝫𐄈𐄊",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT46b-Tracing.jpg"
     ],
@@ -5540,6 +5602,7 @@ var inscriptions = new Map([
     "name": "HT47a",
     "parsedInscription": "𐘾𐝫𐝫𐛗𐄁\n𐙂𐘰𐘅𐘹𐄑𐝫\n𐝫𐘬𐄑𐝫\n𐘉𐝫\n𐝫𐘢𐄐\n𐘸𐘀𐘁𐝫𐝫\n𐝫𐄋\n𐝫𐘻𐘯𐘻",
     "scribe": "HT Scribe 14",
+    "support": "tablet",
     "tracingImages": [
         "images/HT47a-Tracing.jpg"
     ],
@@ -5618,6 +5681,7 @@ var inscriptions = new Map([
     "name": "HT47b",
     "parsedInscription": "𐝫𐘴𐘅𐘙𐝫\n𐝫",
     "scribe": "HT Scribe 14",
+    "support": "tablet",
     "tracingImages": [
         "images/HT47b-Tracing.jpg"
     ],
@@ -5645,6 +5709,7 @@ var inscriptions = new Map([
     "name": "HT49a",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫\n𐝫𐘭𐄇\n𐘲𐘸𐝫\n𐝫𐄇\n𐘠𐘬𐘝𐄇𐝫\n𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇\n𐚞𐄇\n𐙢𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘲𐘜𐄇\n𐘸𐄇\n—\n𐝫𐄋\n𐘹𐄊\n𐘸𐄇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT49a-Tracing.jpg"
     ],
@@ -5831,6 +5896,7 @@ var inscriptions = new Map([
     "name": "HT49b",
     "parsedInscription": "𐝫\n𐝫𐙂𐝫\n𐝫𐘚𐘸𐝫𐝫𐘳\n—\n𐝫\n𐝫𐘾𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT49b-Tracing.jpg"
     ],
@@ -5885,6 +5951,7 @@ var inscriptions = new Map([
     "name": "HT50a",
     "parsedInscription": "𐝫\n—\n𐝫𐙉𐝫\n𐝫𐝃\n𐜓𐝃\n𐜗\n𐝆\n𐜎𐝆\n𐙘𐄇𐝆𐝫\n𐝫𐙋𐄉\n𐛺𐝃𐝄",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT50a-Tracing.jpg"
     ],
@@ -5984,6 +6051,7 @@ var inscriptions = new Map([
     "name": "HT50b",
     "parsedInscription": "𐝫\n𐝫\n𐜓\n𐝫\n𐝫𐜉𐄇𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT50b-Tracing.jpg"
     ],
@@ -6032,6 +6100,7 @@ var inscriptions = new Map([
     "name": "HT51a",
     "parsedInscription": "𐝫𐄋\n𐘝𐄁𐘃𐄁\n𐙁𐝫\n𐝫𐘈𐄕𐄊\n𐘠𐘝𐝫\n𐝫𐘙𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT51a-Tracing.jpg"
     ],
@@ -6101,6 +6170,7 @@ var inscriptions = new Map([
     "name": "HT51b",
     "parsedInscription": "𐝫𐙂𐘋𐘳𐄐𐄈𐝫\n𐝫𐙀𐘬𐝆𐝄\n𐘤𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT51b-Tracing.jpg"
     ],
@@ -6152,6 +6222,7 @@ var inscriptions = new Map([
     "name": "HT52a",
     "parsedInscription": "𐘞𐙁𐄁𐘃𐄁𐝫\n𐝫𐄊\n𐘆𐘾𐘸𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 23",
+    "support": "tablet",
     "tracingImages": [
         "images/HT52a-Tracing.jpg"
     ],
@@ -6206,6 +6277,7 @@ var inscriptions = new Map([
     "name": "HT52b",
     "parsedInscription": "𐝫𐘗𐄁𐙉𐄚𐄇𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 23",
+    "support": "tablet",
     "tracingImages": [
         "images/HT52b-Tracing.jpg"
     ],
@@ -6248,6 +6320,7 @@ var inscriptions = new Map([
     "name": "HT53a",
     "parsedInscription": "𐝫\n𐝫𐘞𐘗𐝫\n𐝫\n𐝫𐄓\n𐝫𐙖𐝫\n𐝫𐄙\n𐘴𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT53a-Tracing.jpg"
     ],
@@ -6308,6 +6381,7 @@ var inscriptions = new Map([
     "name": "HT53b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄐𐄎𐝫\n𐝫\n𐝫𐙂𐘙𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT53b-Tracing.jpg"
     ],
@@ -6353,6 +6427,7 @@ var inscriptions = new Map([
     "name": "HT54a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘻𐘅𐘿𐝫\n𐝫𐘸𐘻𐘽𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT54a-Tracing.jpg"
     ],
@@ -6395,6 +6470,7 @@ var inscriptions = new Map([
     "name": "HT54b",
     "parsedInscription": "𐝫\n𐝫𐄊\n𐘸𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT54b-Tracing.jpg"
     ],
@@ -6437,6 +6513,7 @@ var inscriptions = new Map([
     "name": "HT55a",
     "parsedInscription": "𐝫𐘸𐘁𐄁\n𐙁𐘙𐄇𐝫\n𐝫𐙕𐄇\n𐘤𐘘𐄇\n𐘗𐝫\n𐝫𐘹𐄇𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT55a-Tracing.jpg"
     ],
@@ -6515,6 +6592,7 @@ var inscriptions = new Map([
     "name": "HT55b",
     "parsedInscription": "𐝫𐘃𐄇\n𐘿𐝫\n𐝫𐘭𐘱𐄇\n𐘚𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT55b-Tracing.jpg"
     ],
@@ -6569,6 +6647,7 @@ var inscriptions = new Map([
     "name": "HT56a",
     "parsedInscription": "𐙓𐄁\n𐘞𐝫\n𐝫𐄐𐄇𐝆\n𐘉𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT56a-Tracing.jpg"
     ],
@@ -6620,6 +6699,7 @@ var inscriptions = new Map([
     "name": "HT56b",
     "parsedInscription": "𐜓𐄑𐝫\n—\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT56b-Tracing.jpg"
     ],
@@ -6659,6 +6739,7 @@ var inscriptions = new Map([
     "name": "HT57a",
     "parsedInscription": "𐘀𐘿𐘴𐝫\n𐝫𐄇\n𐘇𐝫\n𐝫𐝄𐝫\n𐝫",
     "scribe": "HT Scribe 14",
+    "support": "tablet",
     "tracingImages": [
         "images/HT57a-Tracing.jpg"
     ],
@@ -6704,6 +6785,7 @@ var inscriptions = new Map([
     "name": "HT57b",
     "parsedInscription": "𐝫𐙙𐄎\n𐝫\n𐝫",
     "scribe": "HT Scribe 14",
+    "support": "tablet",
     "tracingImages": [
         "images/HT57b-Tracing.jpg"
     ],
@@ -6740,6 +6822,7 @@ var inscriptions = new Map([
     "name": "HT58",
     "parsedInscription": "𐘿𐘠𐘴𐘬𐄁𐙇𐝫\n𐜋𐄐𐄏\n𐜗𐝫\n𐝫𐜎𐄉\n𐙋𐄓𐄇\n𐝫𐘉𐘸𐝫\n𐝫",
     "scribe": "HT Scribe 8",
+    "support": "tablet",
     "tracingImages": [
         "images/HT58-Tracing.jpg"
     ],
@@ -6812,6 +6895,7 @@ var inscriptions = new Map([
     "name": "HT60",
     "parsedInscription": "𐝫\n𐝫𐜏𐝇\n𐛙\n𐝫𐝇\n𐙍𐝇\n𐝃𐄋\n𐚹𐝫\n𐝫𐚻𐝉𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT60-Tracing.jpg"
     ],
@@ -6887,6 +6971,7 @@ var inscriptions = new Map([
     "name": "HT61",
     "parsedInscription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT61-Tracing.jpg"
     ],
@@ -6923,6 +7008,7 @@ var inscriptions = new Map([
     "name": "HT62",
     "parsedInscription": "𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃\n𐘾𐙂𐄊𐝫\n𐝫𐄐𐄎\n𐘛𐘠𐝫𐄁𐄌\n𐘆𐝫\n𐝫𐄊𐝃\n𐘾𐝫\n𐝫𐙇𐝫𐝫𐄊\n𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT62-Tracing.jpg"
     ],
@@ -7038,6 +7124,7 @@ var inscriptions = new Map([
     "name": "HT62+73",
     "parsedInscription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫",
     "translatedWords": [
@@ -7069,6 +7156,7 @@ var inscriptions = new Map([
     "name": "HT63",
     "parsedInscription": "𐙙𐄁𐘃𐄇\n𐘾𐘠𐄇\n𐘲𐘜𐝫\n𐝫𐙀𐄈\n𐝫\n𐝫",
     "scribe": "HT Scribe 23",
+    "support": "tablet",
     "tracingImages": [
         "images/HT63-Tracing.jpg"
     ],
@@ -7132,6 +7220,7 @@ var inscriptions = new Map([
     "name": "HT64",
     "parsedInscription": "𐝫\n𐝫𐙂𐙀𐘅𐝫\n𐝫𐘅𐄈\n𐘘𐙁𐝫\n𐝫𐄉\n𐘑𐄌\n𐝫\n𐝫",
     "scribe": "HT Scribe 21",
+    "support": "tablet",
     "tracingImages": [
         "images/HT64-Tracing.jpg"
     ],
@@ -7198,6 +7287,7 @@ var inscriptions = new Map([
     "name": "HT65",
     "parsedInscription": "𐝫\n𐜤𐝇𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT65-Tracing.jpg"
     ],
@@ -7225,6 +7315,7 @@ var inscriptions = new Map([
     "name": "HT66",
     "parsedInscription": "𐙀𐄁𐙇𐄁𐝫\n𐝫𐘆𐄈\n𐘳𐝫\n𐝫𐘳𐘻𐝫\n𐝫𐘙𐄇\n𐝫",
     "scribe": "HT Scribe 21",
+    "support": "tablet",
     "tracingImages": [
         "images/HT66-Tracing.jpg"
     ],
@@ -7291,6 +7382,7 @@ var inscriptions = new Map([
     "name": "HT67",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄜𐄑𐝫\n𐝫𐘝𐄁𐘃𐄜𐝫",
     "scribe": "HT Scribe 23",
+    "support": "tablet",
     "tracingImages": [
         "images/HT67-Tracing.jpg"
     ],
@@ -7339,6 +7431,7 @@ var inscriptions = new Map([
     "name": "HT68",
     "parsedInscription": "𐝫𐄁𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT68-Tracing.jpg"
     ],
@@ -7381,6 +7474,7 @@ var inscriptions = new Map([
     "name": "HT69",
     "parsedInscription": "𐝫\n𐝫𐄋\n𐘆𐄎𐝫\n𐝫𐙁𐘆𐄊𐝫\n𐝫𐘆𐄐𐄈𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT69-Tracing.jpg"
     ],
@@ -7441,6 +7535,7 @@ var inscriptions = new Map([
     "name": "HT70",
     "parsedInscription": "𐝫𐘝𐄁𐘃𐄒𐝫\n𐝫𐘌𐙈𐘞𐄈𐝃𐝫\n𐝫𐘚𐄉𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT70-Tracing.jpg"
     ],
@@ -7501,6 +7596,7 @@ var inscriptions = new Map([
     "name": "HT72",
     "parsedInscription": "𐘤𐙇𐝫𐄁𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT72-Tracing.jpg"
     ],
@@ -7532,6 +7628,7 @@ var inscriptions = new Map([
     "name": "HT73",
     "parsedInscription": "𐝫𐙂𐝫\n𐝫𐄁𐝫𐄇𐝫\n𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐙂𐝫\n𐝫𐄇𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "translatedWords": [
@@ -7591,6 +7688,7 @@ var inscriptions = new Map([
     "name": "HT73+62",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫",
     "translatedWords": [
@@ -7610,6 +7708,7 @@ var inscriptions = new Map([
     "name": "HT74",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄑𐝫\n𐝫",
     "scribe": "HT Scribe 24",
+    "support": "tablet",
     "tracingImages": [
         "images/HT74-Tracing.jpg"
     ],
@@ -7649,6 +7748,7 @@ var inscriptions = new Map([
     "name": "HT75",
     "parsedInscription": "𐘾𐘘𐝫\n—\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT75-Tracing.jpg"
     ],
@@ -7682,6 +7782,7 @@ var inscriptions = new Map([
     "name": "HT78",
     "parsedInscription": "𐝫\n—\n𐝫𐘕𐙢𐝫\n—\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT78-Tracing.jpg"
     ],
@@ -7725,6 +7826,7 @@ var inscriptions = new Map([
     "name": "HT79+83",
     "parsedInscription": "𐝫𐘚𐄁𐙙𐝫\n𐝫𐘾𐄁\n𐘀𐘰𐝫\n𐝫𐘹𐘂𐘭𐄇𐝫\n𐝫𐘹𐝫𐄁𐝫𐄉\n𐝫𐙂𐘝𐝫\n𐝫𐙀𐄉\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘚𐄁𐙙𐝫𐘾𐄁𐘀𐘰\n𐝫𐘹𐘂𐘭𐄇𐝫𐘹𐝫𐄁𐝫𐄉\n𐝫𐙂𐘝𐝫𐙀𐄉\n𐝫",
     "translatedWords": [
@@ -7807,6 +7909,7 @@ var inscriptions = new Map([
     "name": "HT80",
     "parsedInscription": "𐝫\n𐝫𐘶𐘴𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 13",
+    "support": "tablet",
     "tracingImages": [
         "images/HT80-Tracing.jpg"
     ],
@@ -7846,6 +7949,7 @@ var inscriptions = new Map([
     "name": "HT81",
     "parsedInscription": "𐘇𐘈𐄁𐛚𐄁𐝅𐝫\n𐝫𐘭𐘲𐙁𐝋\n𐘸𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT81-Tracing.jpg"
     ],
@@ -7900,6 +8004,7 @@ var inscriptions = new Map([
     "name": "HT82",
     "parsedInscription": "𐝫\n𐝫𐛮𐝇𐝫\n𐜜𐝃𐝫\n𐝫",
     "scribe": "HT Scribe 3",
+    "support": "tablet",
     "tracingImages": [
         "images/HT82-Tracing.jpg"
     ],
@@ -7945,6 +8050,7 @@ var inscriptions = new Map([
     "name": "HT84",
     "parsedInscription": "𐘐𐘱𐘬𐝫\n𐝫𐘯𐘠𐄁𐙇𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT84-Tracing.jpg"
     ],
@@ -7987,6 +8093,7 @@ var inscriptions = new Map([
     "name": "HT85a",
     "parsedInscription": "𐘇𐘬𐄁𐜠𐄁𐙇𐄁\n𐘀𐘭𐘀𐄐𐄈\n𐘰𐘝𐄐𐄈\n𐘉𐙱𐘍𐄌\n𐘀𐘤𐙈𐄑𐄊\n𐙂𐙀𐘝𐄋\n𐘃𐘥𐄉\n𐘀𐘙𐄊\n𐙂𐘁𐝫𐝫𐄕𐄌",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT85a-Tracing.jpg"
     ],
@@ -8095,6 +8202,7 @@ var inscriptions = new Map([
     "name": "HT85b",
     "parsedInscription": "𐘸𐘸𐘴𐘱𐄁\n𐘸𐘙𐘷𐄇\n𐘿𐘾𐄇\n𐘂𐄇\n𐘃𐘹𐝫𐄇\n𐘾𐄇\n𐘆𐄇\n𐘋𐘍𐄇\n𐘙𐘆𐘈𐄇\n𐘮𐘬𐘝𐘻𐄇\n𐙁𐘆𐄇\n𐘌𐙠𐘚𐄇",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT85b-Tracing.jpg"
     ],
@@ -8218,6 +8326,7 @@ var inscriptions = new Map([
     "name": "HT86a",
     "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦𐘘𐄑\n𐘌𐘽𐘮𐄐\n—\n𐘇𐘬𐄁\n𐘀𐘋𐛳𐄑\n𐘻𐘯𐘃𐄑",
     "scribe": "HT Scribe 6",
+    "support": "tablet",
     "tracingImages": [
         "images/HT86a-Tracing.jpg"
     ],
@@ -8317,6 +8426,7 @@ var inscriptions = new Map([
     "name": "HT86b",
     "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦",
     "scribe": "HT Scribe 6",
+    "support": "tablet",
     "tracingImages": [
         "images/HT86b-Tracing.jpg"
     ],
@@ -8368,6 +8478,7 @@ var inscriptions = new Map([
     "name": "HT87",
     "parsedInscription": "𐘐𐘹𐘗𐄁𐙁𐘾𐘭𐘃𐄁\n𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇\n𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇\n𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT87-Tracing.jpg"
     ],
@@ -8458,6 +8569,7 @@ var inscriptions = new Map([
     "name": "HT88",
     "parsedInscription": "𐘇𐘬𐛧𐄑\n𐘙𐘍𐄌\n𐘝𐄁𐘸𐘸𐘅𐄍\n𐘸𐘁𐄁\n𐙂𐘰𐘰𐄇\n𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘱𐘙𐄇\n𐘞𐙁𐘁𐄇\n𐘀𐘳𐘙𐄇\n𐙂𐘁𐄌",
     "scribe": "HT Scribe 7",
+    "support": "tablet",
     "tracingImages": [
         "images/HT88-Tracing.jpg"
     ],
@@ -8581,6 +8693,7 @@ var inscriptions = new Map([
     "name": "HT89",
     "parsedInscription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈\n𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉\n𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝆𐝃\n𐘝𐄈𐝃\n𐙍𐄌𐝫",
     "scribe": "HT Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/HT89-Tracing.jpg"
     ],
@@ -8695,6 +8808,7 @@ var inscriptions = new Map([
     "name": "HT90",
     "parsedInscription": "𐘚𐙂𐘭𐘅\n𐘞𐘽𐙉𐄑\n𐘝𐄐\n𐜉𐄉\n𐘤𐘘𐙁𐘭𐘷𐙉𐄇\n𐘝𐄇\n𐜗𐄇\n𐙘𐄇",
     "scribe": "HT Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/HT90-Tracing.jpg"
     ],
@@ -8785,6 +8899,7 @@ var inscriptions = new Map([
     "name": "HT91",
     "parsedInscription": "𐘚𐘾𐄁𐙲𐄁𐙉𐝎\n𐙘𐝀\n𐄁𐜓𐝀\n𐜋𐝀\n𐜗𐝀\n𐙋𐝀\n𐘝𐝀\n𐙍𐝀\n𐘡𐄋\n𐘃𐘭𐄁𐜗𐝀\n𐘡𐄉𐝫\n𐝫",
     "scribe": "HT Scribe 15",
+    "support": "tablet",
     "tracingImages": [
         "images/HT91-Tracing.jpg"
     ],
@@ -8926,6 +9041,7 @@ var inscriptions = new Map([
     "name": "HT92",
     "parsedInscription": "𐘃𐄁\n𐘇𐘬𐄁𐙉𐄞𐄗\n𐙘𐄐𐄈",
     "scribe": "HT Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/HT92-Tracing.jpg"
     ],
@@ -8974,6 +9090,7 @@ var inscriptions = new Map([
     "name": "HT93a",
     "parsedInscription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈\n𐘆𐘭𐘅𐄁𐚴𐄓𐄉𐝆\n𐘸𐘆𐘝𐄋𐝆𐝅\n𐘇𐘈𐄁𐘚𐛭𐄑𐄌𐝆𐝃\n𐘞𐘽𐄑\n𐘌𐘌𐘘𐄁𐘚𐛭𐄋\n𐙇𐘚𐄌\n𐘦𐘶𐙂𐄇𐝆\n𐘵𐘠𐝫𐄁𐄉\n𐘀𐘭𐘀𐚦𐄈\n𐚃𐄈\n𐘰𐘝𐘅𐝫\n𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫\n𐝫𐘾𐄊",
     "scribe": "HT Scribe 5",
+    "support": "tablet",
     "tracingImages": [
         "images/HT93a-Tracing.jpg"
     ],
@@ -9172,6 +9289,7 @@ var inscriptions = new Map([
     "name": "HT93b",
     "parsedInscription": "𐝫𐄙𐄕𐄋𐝅\n𐘸𐘁𐝫",
     "scribe": "HT Scribe 5",
+    "support": "tablet",
     "tracingImages": [
         "images/HT93b-Tracing.jpg"
     ],
@@ -9202,6 +9320,7 @@ var inscriptions = new Map([
     "name": "HT94a",
     "parsedInscription": "𐘾𐘂𐙇𐄕𐄈\n𐙅𐄑\n𐛃𐄍\n𐛪𐄐𐄎\n𐘳𐄊\n𐙂𐘁𐄙𐄐\n𐘞𐘽𐙗𐄋\n𐘝𐄉𐝅\n𐝫𐄈\n𐙪𐙚𐄐𐄇\n𐙗𐝂𐝂\n𐘝𐝂𐝂\n𐝫𐄐𐄊𐝆\n𐘝𐝂",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT94a-Tracing.jpg"
     ],
@@ -9349,6 +9468,7 @@ var inscriptions = new Map([
     "name": "HT94b",
     "parsedInscription": "𐘸𐘁𐄁\n𐘹𐙁𐄇\n𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇\n𐘥𐘸𐘘𐄇\n𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁\n𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT94b-Tracing.jpg"
     ],
@@ -9463,6 +9583,7 @@ var inscriptions = new Map([
     "name": "HT95a",
     "parsedInscription": "𐘀𐘬𐙁𐘳𐄁𐙉\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐘞𐘘𐄑\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄍",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT95a-Tracing.jpg"
     ],
@@ -9544,6 +9665,7 @@ var inscriptions = new Map([
     "name": "HT95b",
     "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘘𐄐\n𐝫𐄁𐝫\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄐",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT95b-Tracing.jpg"
     ],
@@ -9628,6 +9750,7 @@ var inscriptions = new Map([
     "name": "HT96a",
     "parsedInscription": "𐘚𐘠𐘠𐙂𐘝𐄁𐘇𐘂𐘴𐘗𐄁𐘇𐙌𐘃𐄁\n𐘤𐘻𐘳𐙉𐄋\n𐘘𐘞𐄊\n𐙯𐙩𐄇\n𐘢𐘳𐘴𐄁𐄇\n𐙯𐚄𐄇\n—\n𐝫𐙂𐙁𐘁𐄁𐄁𐘃𐘝𐄑\n𐝫𐘝𐄈\n—\n𐝫",
     "scribe": "HT Scribe 8",
+    "support": "tablet",
     "tracingImages": [
         "images/HT96a-Tracing.jpg"
     ],
@@ -9760,6 +9883,7 @@ var inscriptions = new Map([
     "name": "HT96b",
     "parsedInscription": "𐘇𐘂𐘴𐘗𐄁\n𐘌𐙈𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝆𐝃\n𐜋𐄊\n𐘝𐄈𐝇\n𐝫",
     "scribe": "HT Scribe 8",
+    "support": "tablet",
     "tracingImages": [
         "images/HT96b-Tracing.jpg"
     ],
@@ -9838,6 +9962,7 @@ var inscriptions = new Map([
     "name": "HT97a",
     "parsedInscription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈\n𐙳𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋\n𐘂𐘚𐘄𐄌\n𐘆𐄊\n𐘅𐘠𐄊\n𐙁𐘆𐄋\n𐘶𐄐𐄋\n𐘸𐄉\n𐙀𐝫𐄋\n𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫\n𐝫𐘇𐄋\n𐝫",
     "scribe": "HT Scribe 7",
+    "support": "tablet",
     "tracingImages": [
         "images/HT97a-Tracing.jpg"
     ],
@@ -9991,6 +10116,7 @@ var inscriptions = new Map([
     "name": "HT97b",
     "parsedInscription": "𐘞𐘽",
     "scribe": "HT Scribe 7",
+    "support": "tablet",
     "tracingImages": [
         "images/HT97b-Tracing.jpg"
     ],
@@ -10012,6 +10138,7 @@ var inscriptions = new Map([
     "name": "HT98a",
     "parsedInscription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇\n𐘳𐘅𐘠𐝆𐝃\n𐘆𐘙𐘆𐘅𐝆\n𐘃𐙕𐝆𐝃\n𐘁𐘥𐝆\n𐘾𐘭𐙠𐘚𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT98a-Tracing.jpg"
     ],
@@ -10096,6 +10223,7 @@ var inscriptions = new Map([
     "name": "HT98b",
     "parsedInscription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝆𐝃\n𐘀𐘘𐘗𐘃𐝇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT98b-Tracing.jpg"
     ],
@@ -10141,6 +10269,7 @@ var inscriptions = new Map([
     "name": "HT99a",
     "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫\n𐙍𐄇𐝅\n𐛱\n𐝫",
     "scribe": "HT Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/HT99a-Tracing.jpg"
     ],
@@ -10210,6 +10339,7 @@ var inscriptions = new Map([
     "name": "HT99b",
     "parsedInscription": "𐛉𐘝𐄌\n𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇\n𐘘𐙁𐘳𐄇",
     "scribe": "HT Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/HT99b-Tracing.jpg"
     ],
@@ -10261,6 +10391,7 @@ var inscriptions = new Map([
     "name": "HT100",
     "parsedInscription": "𐝫𐛧𐄔𐄎\n𐜝𐝫𐝫\n𐛃𐄐𐄈\n𐘸𐄈\n𐙙𐄋\n𐛩𐄐𐄌\n𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃\n𐘝𐄈𐝂𐝂\n𐙍𐄈𐝆\n𐜋𐄈𐝅\n𐜗𐄉\n𐜍𐝆𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT100-Tracing.jpg"
     ],
@@ -10408,6 +10539,7 @@ var inscriptions = new Map([
     "name": "HT101",
     "parsedInscription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎\n𐜗𐄎\n𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇\n𐙖𐄐\n𐚸𐄉\n𐙂𐘰𐝫𐝫𐜋𐄈\n—\n𐝫𐄑\n𐙘𐄉\n𐜓𐄈𐝫\n𐝫𐄉\n𐙋𐄇𐝃\n𐛺𐄇",
     "scribe": "HT Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/HT101-Tracing.jpg"
     ],
@@ -10561,6 +10693,7 @@ var inscriptions = new Map([
     "name": "HT102",
     "parsedInscription": "𐘾𐘂\n𐘞𐘽𐙉𐄡𐄖𐄌\n𐘰𐘝𐛭𐄒𐄉𐝫\n𐝫𐙇𐛭𐄒𐄉\n𐘆𐘭𐘅𐄐\n𐙁𐙀𐄉\n𐘣𐄐\n𐘚𐘾𐄋\n𐙂𐘁𐄢𐄕",
     "scribe": "HT Scribe 5",
+    "support": "tablet",
     "tracingImages": [
         "images/HT102-Tracing.jpg"
     ],
@@ -10660,6 +10793,7 @@ var inscriptions = new Map([
     "name": "HT103",
     "parsedInscription": "𐘉𐘷𐄁𐘝𐄓\n𐘰\n𐘀𐙂𐘈𐘗𐝫𐝫𐄌𐝆\n𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇\n𐘀𐙂𐘈𐘗𐄇\n𐘸𐘴𐄋𐝆",
     "scribe": "HT Scribe 3",
+    "support": "tablet",
     "tracingImages": [
         "images/HT103-Tracing.jpg"
     ],
@@ -10747,6 +10881,7 @@ var inscriptions = new Map([
     "name": "HT104",
     "parsedInscription": "𐘳𐘂𐄁𐚷𐄁\n𐘀𐙂𐘈𐘗𐘠𐄓𐄋𐝆\n𐘚𐘬𐘠𐄑𐝆\n𐘂𐘀𐘲𐘠𐄑𐄏\n𐙂𐘁𐄘𐄋",
     "scribe": "HT Scribe 5",
+    "support": "tablet",
     "tracingImages": [
         "images/HT104-Tracing.jpg"
     ],
@@ -10819,6 +10954,7 @@ var inscriptions = new Map([
     "name": "HT105",
     "parsedInscription": "𐘾𐘂𐝫\n𐝫\n𐝫𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT105-Tracing.jpg"
     ],
@@ -10867,6 +11003,7 @@ var inscriptions = new Map([
     "name": "HT106",
     "parsedInscription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆\n𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
     "scribe": "HT Scribe 19",
+    "support": "tablet",
     "tracingImages": [
         "images/HT106-Tracing.jpg"
     ],
@@ -10948,6 +11085,7 @@ var inscriptions = new Map([
     "name": "HT107",
     "parsedInscription": "𐝫\n𐝫𐄉𐝫\n𐝫\n𐘃𐄗𐄌\n𐙸𐄍",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT107-Tracing.jpg"
     ],
@@ -10996,6 +11134,7 @@ var inscriptions = new Map([
     "name": "HT108",
     "parsedInscription": "𐘸𐘙𐘳𐘅𐙇𐄇\n𐛶𐄖\n—\n𐘆𐘅𐘁𐄈\n𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐\n𐘶𐝫\n𐝫",
     "scribe": "HT Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/HT108-Tracing.jpg"
     ],
@@ -11080,6 +11219,7 @@ var inscriptions = new Map([
     "name": "HT109",
     "parsedInscription": "𐝫\n𐝫𐘙𐄊𐝫\n𐝫\n𐝫𐘳𐄊\n𐙂𐘁𐄙𐄑𐄏\n𐘇𐘴𐘶𐄙𐄑𐄉",
     "scribe": "HT Scribe 7",
+    "support": "tablet",
     "tracingImages": [
         "images/HT109-Tracing.jpg"
     ],
@@ -11140,6 +11280,7 @@ var inscriptions = new Map([
     "name": "HT110a",
     "parsedInscription": "𐘤𐘬𐘟𐙂𐘻𐜚𐄑\n𐙂𐘂𐄇\n𐙂𐘁𐄙𐝫\n𐝫𐘝𐄐𐄋𐝫\n𐝫𐄕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT110a-Tracing.jpg"
     ],
@@ -11200,6 +11341,7 @@ var inscriptions = new Map([
     "name": "HT110b",
     "parsedInscription": "𐙉𐝫\n𐝫𐘁𐄑\n𐜧𐄉𐝫\n𐝫𐄇\n𐙁𐄋𐝆\n𐝫𐄈\n𐘝𐄇𐝆𐝫\n𐝫𐄇\n𐙁𐄈\n𐙕𐝆𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT110b-Tracing.jpg"
     ],
@@ -11299,6 +11441,7 @@ var inscriptions = new Map([
     "name": "HT111a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘿𐘾𐄎\n𐘌𐘞𐝫\n𐝫𐘌𐘘𐄎\n𐘆𐄐𐄊𐝫\n𐝫𐘝𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT111a-Tracing.jpg"
     ],
@@ -11368,6 +11511,7 @@ var inscriptions = new Map([
     "name": "HT111b",
     "parsedInscription": "𐝫\n𐝫𐄐𐄎\n𐘞𐘆𐄊𐝫\n𐝫𐄉\n𐘿𐝫\n𐘅𐝫𐝫𐘝𐄇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT111b-Tracing.jpg"
     ],
@@ -11434,6 +11578,7 @@ var inscriptions = new Map([
     "name": "HT112a",
     "parsedInscription": "𐘐𐝫\n𐝫𐘹𐘂𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT112a-Tracing.jpg"
     ],
@@ -11470,6 +11615,7 @@ var inscriptions = new Map([
     "name": "HT112b",
     "parsedInscription": "𐝫𐙗𐄌𐝫\n𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT112b-Tracing.jpg"
     ],
@@ -11506,6 +11652,7 @@ var inscriptions = new Map([
     "name": "HT113",
     "parsedInscription": "𐘴𐘭𐘦𐝫\n𐝫𐘣𐘞𐄁𐝫𐝫𐄐𐄐𐄐\n𐘵𐄈𐝆\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT113-Tracing.jpg"
     ],
@@ -11557,6 +11704,7 @@ var inscriptions = new Map([
     "name": "HT113ter",
     "parsedInscription": "𐝫𐘻𐝫\n𐝫𐄊𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT113ter-Tracing.jpg"
     ],
@@ -11590,6 +11738,7 @@ var inscriptions = new Map([
     "name": "HT114a",
     "parsedInscription": "𐘸𐘭𐘷\n𐘞𐘽𐙉𐄐\n𐙖𐄍\n𐘝𐄇\n𐙍𐄇\n𐘖𐄉",
     "scribe": "HT Scribe 4",
+    "support": "tablet",
     "tracingImages": [
         "images/HT114a-Tracing.jpg"
     ],
@@ -11659,6 +11808,7 @@ var inscriptions = new Map([
     "name": "HT114b",
     "parsedInscription": "𐘞𐙍𐄏",
     "scribe": "HT Scribe 4",
+    "support": "tablet",
     "tracingImages": [
         "images/HT114b-Tracing.jpg"
     ],
@@ -11683,6 +11833,7 @@ var inscriptions = new Map([
     "name": "HT115a",
     "parsedInscription": "𐘨𐘯𐘴𐘱𐄁𐘚𐄁𐛯\n𐘭𐘳𐙁𐘯𐘣𐄈\n𐙕𐘉𐘴\n𐘅𐘐𐘗𐘻𐘅𐄇\n𐘈𐙂𐘹𐝆\n𐘂𐘴𐘗𐄇\n𐘇𐘈𐘱𐝂𐝂𐝂𐝂\n𐘾𐘊𐘘𐄇\n𐘭𐘲𐙁𐝫\n𐘲𐄈𐝂𐝫\n𐝫",
     "scribe": "HT Scribe 8",
+    "support": "tablet",
     "tracingImages": [
         "images/HT115a-Tracing.jpg"
     ],
@@ -11800,6 +11951,7 @@ var inscriptions = new Map([
     "name": "HT115b",
     "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
     "scribe": "HT Scribe 8",
+    "support": "tablet",
     "tracingImages": [
         "images/HT115b-Tracing.jpg"
     ],
@@ -11911,6 +12063,7 @@ var inscriptions = new Map([
     "name": "HT116a",
     "parsedInscription": "𐘉𐘳𐘁𐄁𐘃𐄁\n𐙂𐘂𐘱𐙉𐄐𐄌\n𐘫𐘽𐄁𐙉𐄓\n𐜉𐄋\n𐛉𐙉𐄐𐄌\n𐜓𐄇\n𐜗𐄌\n𐙋𐄉\n𐘢𐘟𐘃𐙉𐄋\n𐙖𐝫𐄋\n𐜗𐄇\n𐛺𐄈\n𐘤𐘸𐘗𐙉𐄐𐄈\n𐙘𐄐𐄈\n𐘌𐘯𐙁𐙉𐄑\n𐙘𐄉",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT116a-Tracing.jpg"
     ],
@@ -12097,6 +12250,7 @@ var inscriptions = new Map([
     "name": "HT116b",
     "parsedInscription": "𐙂𐘁𐙉𐄙𐝫\n𐙘𐄐𐄋\n𐙖𐄐𐄍",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT116b-Tracing.jpg"
     ],
@@ -12142,6 +12296,7 @@ var inscriptions = new Map([
     "name": "HT117a",
     "parsedInscription": "𐙁𐘾𐘭𐘃𐄁𐘸𐘁𐄁𐘉𐘻𐘅𐘤𐄁\n𐘉𐘲𐄇\n𐘻𐘹𐄇\n𐙂𐘴𐘕𐄇\n𐙁𐘘𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘶𐙁𐄇\n𐘉𐘆𐘻𐄇\n𐘻𐘘𐘳𐘴𐘙𐄇\n𐘃𐘱𐘙𐄇\n𐘅𐘀𐘙𐄇\n𐙂𐘁𐄐\n—\n𐘞𐘳𐄁\n𐙂𐙂𐘀𐘴𐄇\n𐘺𐘞𐘚𐘠𐄇\n𐘀𐘻𐘯𐄇\n𐘀𐘗𐙂𐘠𐄇\n𐘸𐘀𐘁𐄇",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT117a-Tracing.jpg"
     ],
@@ -12337,6 +12492,7 @@ var inscriptions = new Map([
     "name": "HT117b",
     "parsedInscription": "𐘐𐘹𐘗𐄁\n𐙂𐘙𐘶𐄇\n𐘆𐘸𐘈𐄇",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT117b-Tracing.jpg"
     ],
@@ -12379,6 +12535,7 @@ var inscriptions = new Map([
     "name": "HT118",
     "parsedInscription": "𐙄𐄁𐛀𐄁\n𐙁𐘆𐄐𐄋\n𐘸𐄐\n𐘌𐘌𐘘𐄌\n𐘸𐄊\n𐘇𐘭𐘲𐄊\n𐘸𐄇\n𐘭𐘘𐙁𐄐\n𐙂𐘁𐄒\n𐘸𐄐𐄋𐝫",
     "scribe": "HT Scribe 3",
+    "support": "tablet",
     "tracingImages": [
         "images/HT118-Tracing.jpg"
     ],
@@ -12490,6 +12647,7 @@ var inscriptions = new Map([
     "name": "HT119",
     "parsedInscription": "𐙳𐄒𐄊\n𐙇𐄕𐄍\n𐘭𐘻𐘤𐄐𐄉\n𐘺𐘱𐄐\n𐙂𐘰𐘅𐘹𐄍\n𐘠𐄍\n𐘱𐚅𐄐\n𐙚𐘹𐄈\n𐙳𐘶𐄎\n𐙂𐘁𐄙𐄕",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT119-Tracing.jpg"
     ],
@@ -12595,6 +12753,7 @@ var inscriptions = new Map([
     "name": "HT120",
     "parsedInscription": "𐘀𐘿𐘴𐄁\n𐘀𐘋𐛷𐄖𐄊\n𐛭𐄕𐄈𐝆𐝀\n𐘀𐘉𐘪𐄁𐘚𐛭𐄑\n𐘸𐘙𐘳𐘅𐛳𐄕\n𐛭𐄓𐄎\n𐘂𐘚𐘄𐄉𐝂",
     "scribe": "HT Scribe 6",
+    "support": "tablet",
     "tracingImages": [
         "images/HT120-Tracing.jpg"
     ],
@@ -12691,6 +12850,7 @@ var inscriptions = new Map([
     "name": "HT121",
     "parsedInscription": "𐘸𐘭𐘷𐜘𐄐\n𐘞𐘽𐙉𐄋\n𐙖𐄊\n𐘝𐄈\n𐙍𐄉\n𐘖𐄉",
     "scribe": "HT Scribe 4",
+    "support": "tablet",
     "tracingImages": [
         "images/HT121-Tracing.jpg"
     ],
@@ -12766,6 +12926,7 @@ var inscriptions = new Map([
     "name": "HT122a",
     "parsedInscription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈𐝫\n𐝫𐄈\n𐘀𐘤𐙈𐄈\n𐘂𐝫𐄁𐝫\n𐝫𐘆𐄇\n𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉\n𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇\n𐙰𐘆𐘴𐄇\n𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘳𐘗𐄇\n𐙚𐘹𐄇\n𐝫𐘬𐄇\n𐙂𐘰𐘯𐄇\n𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇\n𐙂𐘀𐄇",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT122a-Tracing.jpg"
     ],
@@ -12955,6 +13116,7 @@ var inscriptions = new Map([
     "name": "HT122b",
     "parsedInscription": "𐘧𐘆𐄁𐚆𐄁𐙇𐝫\n𐝫𐙚𐘸𐘷𐄍𐝫\n𐝫𐘇𐘴𐘶𐘉𐘦𐘍𐄈\n𐘌𐘌𐘘𐄈\n𐘆𐄈\n𐘀𐘙𐄈\n𐙂𐘁𐄕𐄋\n𐘊𐘄𐙂𐘁𐄘𐄍",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT122b-Tracing.jpg"
     ],
@@ -13051,6 +13213,7 @@ var inscriptions = new Map([
     "name": "HT123a",
     "parsedInscription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃\n𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆\n𐙜𐄎𐝆𐝃\n𐘸𐘁𐝎\n𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫\n𐝫𐘸𐘁𐝆𐝃\n𐘀𐘹𐙋𐄐𐄋\n𐙜𐄊𐝃\n𐘸𐘁𐝆𐝃\n𐙂𐘁𐙋𐄘𐄉𐝆\n𐙜𐄁\n𐙂𐘁𐝫𐄑𐄋𐝅\n𐘸𐘁𐄌𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT123a-Tracing.jpg"
     ],
@@ -13252,6 +13415,7 @@ var inscriptions = new Map([
     "name": "HT123b",
     "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝆𐝃\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT123b-Tracing.jpg"
     ],
@@ -13378,6 +13542,7 @@ var inscriptions = new Map([
     "name": "HT125a",
     "parsedInscription": "𐝫\n𐝫𐘽𐝫\n𐝫𐜓𐄇𐝂\n𐜋𐝫\n𐝫𐜗𐄇𐝆𐝫\n𐝫𐘞𐘽𐙉𐄈\n𐙖𐝫𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT125a-Tracing.jpg"
     ],
@@ -13456,6 +13621,7 @@ var inscriptions = new Map([
     "name": "HT125b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄑\n𐝫𐘙𐘷𐛭𐄑\n𐛵𐄍𐝆\n𐙘𐄐\n𐘝𐄑𐄉",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT125b-Tracing.jpg"
     ],
@@ -13528,6 +13694,7 @@ var inscriptions = new Map([
     "name": "HT126a",
     "parsedInscription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇\n𐘉𐝫\n𐝫𐝆\n𐘤𐘆𐘱𐄇𐝫\n𐝫𐘉𐘪𐄇\n𐘢𐝫\n𐝫𐄕𐄈𐝫\n𐝫𐄈𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT126a-Tracing.jpg"
     ],
@@ -13624,6 +13791,7 @@ var inscriptions = new Map([
     "name": "HT126b",
     "parsedInscription": "𐝫𐙙𐄉\n𐝫𐄌\n𐙆𐄊\n𐄁𐘐𐝫\n𐝫\n𐝫𐙆𐝫\n𐝫𐘹𐄌\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT126b-Tracing.jpg"
     ],
@@ -13696,6 +13864,7 @@ var inscriptions = new Map([
     "name": "HT127a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT127a-Tracing.jpg"
     ],
@@ -13738,6 +13907,7 @@ var inscriptions = new Map([
     "name": "HT127b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘗𐄐𐄉𐝫\n𐙂𐘁𐙛𐄙𐄔𐄌\n𐙂𐄖𐄈\n𐛫𐄑𐄊\n𐛖𐄐𐄋\n𐙕𐄐𐄇\n𐛖𐄐𐄊\n𐙂𐘁𐄚𐄘𐄈",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT127b-Tracing.jpg"
     ],
@@ -13837,6 +14007,7 @@ var inscriptions = new Map([
     "name": "HT128a",
     "parsedInscription": "𐙲𐄁\n𐘂𐘴\n𐘹𐘘𐘯𐘈𐘋𐙉𐝫𐄐\n𐘮𐘹𐙁𐘙𐛲𐄐𐄈𐝫\n𐝫𐘻𐘳𐛭𐝆𐝫\n𐛲𐄌\n𐘆𐝫\n𐛲𐄊\n𐙁𐘭𐝫\n𐝫",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT128a-Tracing.jpg"
     ],
@@ -13939,6 +14110,7 @@ var inscriptions = new Map([
     "name": "HT128b",
     "parsedInscription": "𐛲𐄌\n𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT128b-Tracing.jpg"
     ],
@@ -13999,6 +14171,7 @@ var inscriptions = new Map([
     "name": "HT129",
     "parsedInscription": "𐘸𐘙𐘷𐙉𐄒𐄉𐝆𐝁\n𐙘𐄐\n𐘝𐄑𐄈\n𐘹𐘐𐘭𐘅𐙉𐄓𐝆\n𐜉𐄇𐝫\n𐝫𐜓𐄌\n𐝫𐙖𐝫\n𐝫",
     "scribe": "HT Scribe 15",
+    "support": "tablet",
     "tracingImages": [
         "images/HT129-Tracing.jpg"
     ],
@@ -14092,6 +14265,7 @@ var inscriptions = new Map([
     "name": "HT130",
     "parsedInscription": "𐝫\n𐝫𐘤𐄉\n𐘞𐘽𐙗𐝫\n𐝫\n𐝫𐘽𐝫\n𐝫𐙂𐘁𐝫\n—\n𐘤𐙗𐄎\n𐘝𐄌\n𐙍𐄉",
     "scribe": "HT Scribe 19",
+    "support": "tablet",
     "tracingImages": [
         "images/HT130-Tracing.jpg"
     ],
@@ -14176,6 +14350,7 @@ var inscriptions = new Map([
     "name": "HT131a",
     "parsedInscription": "𐝫\n𐝫𐘝𐄕𐄈\n𐙂𐝫\n𐝫𐄛𐄔𐄉\n𐘚𐘌𐙈𐙉𐄔𐄎𐝫\n𐝫𐙖𐄐𐄈𐝆\n𐙘𐄐𐄈𐝆𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT131a-Tracing.jpg"
     ],
@@ -14254,6 +14429,7 @@ var inscriptions = new Map([
     "name": "HT131b",
     "parsedInscription": "𐝫\n𐝫𐘝𐄒𐝫\n𐝫𐙋𐄈\n𐛼𐝫\n—\n𐘊𐘄𐙂𐘁𐝫𐄜𐄔𐄈𐝆𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT131b-Tracing.jpg"
     ],
@@ -14314,6 +14490,7 @@ var inscriptions = new Map([
     "name": "HT132",
     "parsedInscription": "𐘇𐘈𐄁𐙫𐄋\n𐘌𐘙𐘄𐄁𐘓𐄑𐄍\n𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT132-Tracing.jpg"
     ],
@@ -14383,6 +14560,7 @@ var inscriptions = new Map([
     "name": "HT133",
     "parsedInscription": "𐘇𐘬𐄁𐘃𐛬𐄔𐄋",
     "scribe": "HT Scribe 22",
+    "support": "tablet",
     "tracingImages": [
         "images/HT133-Tracing.jpg"
     ],
@@ -14416,6 +14594,7 @@ var inscriptions = new Map([
     "name": "HT135a",
     "parsedInscription": "𐝫\n𐝫𐘗𐘻𐘅𐄐𐝫\n𐝫𐘻𐘹𐄁\n𐘻𐘾𐝫\n𐝫𐄇\n𐘅𐘐𐘗𐝫\n𐝫𐘻𐄈",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT135a-Tracing.jpg"
     ],
@@ -14482,6 +14661,7 @@ var inscriptions = new Map([
     "name": "HT135b",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈",
     "scribe": "HT Scribe 9",
+    "support": "tablet",
     "tracingImages": [
         "images/HT135b-Tracing.jpg"
     ],
@@ -14519,6 +14699,7 @@ var inscriptions = new Map([
     "name": "HT136",
     "parsedInscription": "𐝫𐘓𐄒𐝫\n𐝫𐄑𐄉𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT136a-Tracing.jpg",
         "images/HT136b-Tracing.jpg"
@@ -14556,6 +14737,7 @@ var inscriptions = new Map([
     "name": "HT136a",
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT136a-Tracing.jpg"
     ],
@@ -14580,6 +14762,7 @@ var inscriptions = new Map([
     "name": "HT136b",
     "parsedInscription": "𐝫\n𐝫𐄑𐄊𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT136b-Tracing.jpg"
     ],
@@ -14613,6 +14796,7 @@ var inscriptions = new Map([
     "name": "HT137",
     "parsedInscription": "𐝫\n𐝫𐘷𐙉𐝫𐄉𐝫\n𐜗𐄌𐝫\n𐝫𐙖𐄈\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT137-Tracing.jpg"
     ],
@@ -14664,6 +14848,7 @@ var inscriptions = new Map([
     "name": "HT139",
     "parsedInscription": "𐝫𐘫𐙁𐙂𐝫\n𐝫𐙉𐝫𐄇\n𐙖𐝆\n𐝫𐘾𐘽𐝫\n𐝫",
     "scribe": "HT Scribe 5",
+    "support": "tablet",
     "tracingImages": [
         "images/HT139-Tracing.jpg"
     ],
@@ -14715,6 +14900,7 @@ var inscriptions = new Map([
     "name": "HT140",
     "parsedInscription": "𐘉𐘟𐘤𐄁\n𐙅𐘤𐘝𐄁𐄇𐝫\n𐘧𐘆𐄁𐜓𐄇𐝆\n𐄁\n𐘉𐘟𐘤𐝫𐄁𐝫\n𐙅𐘤𐙈𐘾𐄉\n𐘾𐝫\n𐝫𐙁𐝫\n𐝫𐘾𐝫\n𐝫𐄊\n𐜋𐄉\n𐘾𐄇\n𐜋𐄇\n𐝫𐘾𐄇\n𐜋𐄈\n𐘾𐘂𐝆𐝫\n𐝫𐜋𐄌𐝆",
     "scribe": "HT Scribe 8",
+    "support": "tablet",
     "tracingImages": [
         "images/HT140-Tracing.jpg"
     ],
@@ -14883,6 +15069,7 @@ var inscriptions = new Map([
     "name": "HT141",
     "parsedInscription": "𐝫\n𐝫𐄇\n𐘇𐘭𐝫\n𐝫𐘘𐘆𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT141-Tracing.jpg"
     ],
@@ -14928,6 +15115,7 @@ var inscriptions = new Map([
     "name": "HT142",
     "parsedInscription": "𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT142-Tracing.jpg"
     ],
@@ -14964,6 +15152,7 @@ var inscriptions = new Map([
     "name": "HT144",
     "parsedInscription": "𐝫𐄁𐘵𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 5",
+    "support": "tablet",
     "tracingImages": [
         "images/HT144-Tracing.jpg"
     ],
@@ -14997,6 +15186,7 @@ var inscriptions = new Map([
     "name": "HT146",
     "parsedInscription": "𐝫\n𐝫𐘿𐝫𐝫𐄒\n𐘭𐙙𐄒\n𐙁𐄒\n𐘭𐘾𐘳𐄒",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT146-Tracing.jpg"
     ],
@@ -15054,6 +15244,7 @@ var inscriptions = new Map([
     "name": "HT147",
     "parsedInscription": "𐝫\n𐝫𐘴𐝅\n𐝫𐝆\n𐝫𐘝𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT147-Tracing.jpg"
     ],
@@ -15099,6 +15290,7 @@ var inscriptions = new Map([
     "name": "HT154.",
     "parsedInscription": "𐛀𐄁\n𐘠𐝫\n𐝫𐄙\n𐝫𐄍𐝫\n𐝫𐄓𐝫\n𐘸𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154.-Tracing.jpg"
     ],
@@ -15159,6 +15351,7 @@ var inscriptions = new Map([
     "name": "HT154a",
     "parsedInscription": "𐝫𐘹𐘋𐘂𐘱𐝫\n𐝫𐙋𐝫\n𐝫𐙉𐝫\n𐝫\n𐝫𐙂𐄌𐝫\n𐝫𐘳𐄌",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154a-Tracing.jpg"
     ],
@@ -15213,6 +15406,7 @@ var inscriptions = new Map([
     "name": "HT154b",
     "parsedInscription": "𐝫𐄁𐙉",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154b-Tracing.jpg"
     ],
@@ -15237,6 +15431,7 @@ var inscriptions = new Map([
     "name": "HT154c",
     "parsedInscription": "𐝫\n𐝫𐘅𐝫\n𐝫𐄈𐝆𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154c-Tracing.jpg"
     ],
@@ -15273,6 +15468,7 @@ var inscriptions = new Map([
     "name": "HT154e",
     "parsedInscription": "𐝫\n𐝫𐘝𐄐𐄊𐝫\n𐝫𐄉𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154e-Tracing.jpg"
     ],
@@ -15312,6 +15508,7 @@ var inscriptions = new Map([
     "name": "HT154g",
     "parsedInscription": "𐝫\n𐝫𐄌𐝆𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154g-Tracing.jpg"
     ],
@@ -15342,6 +15539,7 @@ var inscriptions = new Map([
     "name": "HT154ja",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘯𐘃𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154ja-Tracing.jpg"
     ],
@@ -15378,6 +15576,7 @@ var inscriptions = new Map([
     "name": "HT154jb",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154jb-Tracing.jpg"
     ],
@@ -15411,6 +15610,7 @@ var inscriptions = new Map([
     "name": "HT154k",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄈\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154k-Tracing.jpg"
     ],
@@ -15447,6 +15647,7 @@ var inscriptions = new Map([
     "name": "HT154l",
     "parsedInscription": "𐝫\n𐝫𐄈𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154l-Tracing.jpg"
     ],
@@ -15474,6 +15675,7 @@ var inscriptions = new Map([
     "name": "HT154m",
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154m-Tracing.jpg"
     ],
@@ -15498,6 +15700,7 @@ var inscriptions = new Map([
     "name": "HT154n",
     "parsedInscription": "𐝫\n𐝫𐘤𐝫\n𐝫𐄌\n𐘤𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/HT154n-Tracing.jpg"
     ],
@@ -15544,6 +15747,7 @@ var inscriptions = new Map([
     "name": "HTW231a",
     "parsedInscription": "𐙋",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙋",
     "translatedWords": [
@@ -15561,6 +15765,7 @@ var inscriptions = new Map([
     "name": "HTW231b",
     "parsedInscription": "𐙓",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙓",
     "translatedWords": [
@@ -15578,6 +15783,7 @@ var inscriptions = new Map([
     "name": "HTW231c",
     "parsedInscription": "𐝫𐄁𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐄁𐝫",
     "translatedWords": [
@@ -15598,6 +15804,7 @@ var inscriptions = new Map([
     "name": "HTW231d-f",
     "parsedInscription": "",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [],
@@ -15611,6 +15818,7 @@ var inscriptions = new Map([
     "name": "WA1001",
     "parsedInscription": "𐘀𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1001-Tracing.jpg"
     ],
@@ -15632,6 +15840,7 @@ var inscriptions = new Map([
     "name": "WA1002",
     "parsedInscription": "𐘀𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1002-Tracing.jpg"
     ],
@@ -15653,6 +15862,7 @@ var inscriptions = new Map([
     "name": "WA1003",
     "parsedInscription": "𐘀𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1003-Tracing.jpg"
     ],
@@ -15674,6 +15884,7 @@ var inscriptions = new Map([
     "name": "WA1004",
     "parsedInscription": "𐘀𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1004-Tracing.jpg"
     ],
@@ -15695,6 +15906,7 @@ var inscriptions = new Map([
     "name": "WA1005",
     "parsedInscription": "𐘀𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1005-Tracing.jpg"
     ],
@@ -15716,6 +15928,7 @@ var inscriptions = new Map([
     "name": "WA1006",
     "parsedInscription": "𐘚𐘽",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1006-Tracing.jpg"
     ],
@@ -15737,6 +15950,7 @@ var inscriptions = new Map([
     "name": "WA1007",
     "parsedInscription": "𐘚𐘽",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1007-Tracing.jpg"
     ],
@@ -15758,6 +15972,7 @@ var inscriptions = new Map([
     "name": "WA1008",
     "parsedInscription": "𐘚𐘽",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1008-Tracing.jpg"
     ],
@@ -15779,6 +15994,7 @@ var inscriptions = new Map([
     "name": "WA1009",
     "parsedInscription": "𐘚𐘽",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1009-Tracing.jpg"
     ],
@@ -15800,6 +16016,7 @@ var inscriptions = new Map([
     "name": "WA1010",
     "parsedInscription": "𐘚𐘽",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1010-Tracing.jpg"
     ],
@@ -15821,6 +16038,7 @@ var inscriptions = new Map([
     "name": "WA1011",
     "parsedInscription": "𐘚𐘽",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1011-Tracing.jpg"
     ],
@@ -15842,6 +16060,7 @@ var inscriptions = new Map([
     "name": "WA1012",
     "parsedInscription": "𐘚𐘽",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1012-Tracing.jpg"
     ],
@@ -15863,6 +16082,7 @@ var inscriptions = new Map([
     "name": "WA1013",
     "parsedInscription": "𐘚𐘽",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1013-Tracing.jpg"
     ],
@@ -15882,6 +16102,7 @@ var inscriptions = new Map([
     "name": "WA1014",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘤𐘾",
     "translatedWords": [
@@ -15899,6 +16120,7 @@ var inscriptions = new Map([
     "name": "WA1015",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -15916,6 +16138,7 @@ var inscriptions = new Map([
     "name": "WA1016",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -15933,6 +16156,7 @@ var inscriptions = new Map([
     "name": "WA1017",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -15950,6 +16174,7 @@ var inscriptions = new Map([
     "name": "WA1018",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -15970,6 +16195,7 @@ var inscriptions = new Map([
     "name": "WA1019",
     "parsedInscription": "𐘂𐘳𐘗\n𐘤𐘹",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1019-Tracing.jpg",
         "images/WA1019a-Tracing.jpg"
@@ -15999,6 +16225,7 @@ var inscriptions = new Map([
     "name": "WA1020",
     "parsedInscription": "𐜝𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1020-Tracing.jpg",
         "images/WA1020a-Tracing.jpg"
@@ -16035,6 +16262,7 @@ var inscriptions = new Map([
     "name": "WA1021",
     "parsedInscription": "𐙓𐘬𐄁\n𐝆𐝃\n𐛉𐛔",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1021-Tracing.jpg",
         "images/WA1021a-Tracing.jpg",
@@ -16071,6 +16299,7 @@ var inscriptions = new Map([
     "name": "WA1021bis",
     "parsedInscription": "𐜝𐜙𐄉",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐜝𐝧𐄉",
     "translatedWords": [
@@ -16093,6 +16322,7 @@ var inscriptions = new Map([
     "name": "WA1022",
     "parsedInscription": "𐛁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1022-Tracing.jpg"
     ],
@@ -16114,6 +16344,7 @@ var inscriptions = new Map([
     "name": "WA1023",
     "parsedInscription": "𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1023-Tracing.jpg"
     ],
@@ -16135,6 +16366,7 @@ var inscriptions = new Map([
     "name": "WA1024",
     "parsedInscription": "𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1024-Tracing.jpg"
     ],
@@ -16157,6 +16389,7 @@ var inscriptions = new Map([
     "name": "WA1025",
     "parsedInscription": "𐝆𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1025-Tracing.jpg",
         "images/WA1025a-Tracing.jpg"
@@ -16180,6 +16413,7 @@ var inscriptions = new Map([
     "name": "WA1026",
     "parsedInscription": "𐝃𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1026-Tracing.jpg",
         "images/WA1026a-Tracing.jpg"
@@ -16203,6 +16437,7 @@ var inscriptions = new Map([
     "name": "WA1027",
     "parsedInscription": "𐘾𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1027-Tracing.jpg",
         "images/WA1027a-Tracing.jpg"
@@ -16226,6 +16461,7 @@ var inscriptions = new Map([
     "name": "WA1028",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1028-Tracing.jpg",
         "images/WA1028a-Tracing.jpg"
@@ -16249,6 +16485,7 @@ var inscriptions = new Map([
     "name": "WA1029",
     "parsedInscription": "𐙕𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1029-Tracing.jpg",
         "images/WA1029a-Tracing.jpg"
@@ -16272,6 +16509,7 @@ var inscriptions = new Map([
     "name": "WA1030",
     "parsedInscription": "𐙕𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1030-Tracing.jpg",
         "images/WA1030a-Tracing.jpg"
@@ -16294,6 +16532,7 @@ var inscriptions = new Map([
     "name": "WA1031",
     "parsedInscription": "𐘀",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1031-Tracing.jpg"
     ],
@@ -16313,6 +16552,7 @@ var inscriptions = new Map([
     "name": "WA1032-1033",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘁",
     "translatedWords": [
@@ -16332,6 +16572,7 @@ var inscriptions = new Map([
     "name": "WA1034",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1034-Tracing.jpg"
     ],
@@ -16351,6 +16592,7 @@ var inscriptions = new Map([
     "name": "WA1035-1040",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16370,6 +16612,7 @@ var inscriptions = new Map([
     "name": "WA1041",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1041-Tracing.jpg"
     ],
@@ -16389,6 +16632,7 @@ var inscriptions = new Map([
     "name": "WA1042-1043",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16408,6 +16652,7 @@ var inscriptions = new Map([
     "name": "WA1044",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1044-Tracing.jpg"
     ],
@@ -16429,6 +16674,7 @@ var inscriptions = new Map([
     "name": "WA1045",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1045-Tracing.jpg"
     ],
@@ -16450,6 +16696,7 @@ var inscriptions = new Map([
     "name": "WA1046",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1046-Tracing.jpg"
     ],
@@ -16471,6 +16718,7 @@ var inscriptions = new Map([
     "name": "WA1047",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1047-Tracing.jpg"
     ],
@@ -16492,6 +16740,7 @@ var inscriptions = new Map([
     "name": "WA1048",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1048-Tracing.jpg"
     ],
@@ -16513,6 +16762,7 @@ var inscriptions = new Map([
     "name": "WA1049",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1049-Tracing.jpg"
     ],
@@ -16532,6 +16782,7 @@ var inscriptions = new Map([
     "name": "WA1050-1053",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16551,6 +16802,7 @@ var inscriptions = new Map([
     "name": "WA1054",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1054-Tracing.jpg"
     ],
@@ -16570,6 +16822,7 @@ var inscriptions = new Map([
     "name": "WA1055-1058",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16589,6 +16842,7 @@ var inscriptions = new Map([
     "name": "WA1059",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1059-Tracing.jpg"
     ],
@@ -16610,6 +16864,7 @@ var inscriptions = new Map([
     "name": "WA1060",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1060-Tracing.jpg"
     ],
@@ -16631,6 +16886,7 @@ var inscriptions = new Map([
     "name": "WA1061",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1061-Tracing.jpg"
     ],
@@ -16652,6 +16908,7 @@ var inscriptions = new Map([
     "name": "WA1062",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1062-Tracing.jpg"
     ],
@@ -16671,6 +16928,7 @@ var inscriptions = new Map([
     "name": "WA1063-1069",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16688,6 +16946,7 @@ var inscriptions = new Map([
     "name": "WA1070-1072",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16707,6 +16966,7 @@ var inscriptions = new Map([
     "name": "WA1073",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1073-Tracing.jpg"
     ],
@@ -16726,6 +16986,7 @@ var inscriptions = new Map([
     "name": "WA1074-1078",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16743,6 +17004,7 @@ var inscriptions = new Map([
     "name": "WA1079-1085",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16762,6 +17024,7 @@ var inscriptions = new Map([
     "name": "WA1086",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1086-Tracing.jpg"
     ],
@@ -16781,6 +17044,7 @@ var inscriptions = new Map([
     "name": "WA1087-1088",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16798,6 +17062,7 @@ var inscriptions = new Map([
     "name": "WA1089-1093",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16817,6 +17082,7 @@ var inscriptions = new Map([
     "name": "WA1094",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1094-Tracing.jpg"
     ],
@@ -16836,6 +17102,7 @@ var inscriptions = new Map([
     "name": "WA1095-1103",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16853,6 +17120,7 @@ var inscriptions = new Map([
     "name": "WA1104-1106",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16872,6 +17140,7 @@ var inscriptions = new Map([
     "name": "WA1107",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1107-Tracing.jpg"
     ],
@@ -16893,6 +17162,7 @@ var inscriptions = new Map([
     "name": "WA1108",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1108-Tracing.jpg"
     ],
@@ -16914,6 +17184,7 @@ var inscriptions = new Map([
     "name": "WA1109",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1109-Tracing.jpg"
     ],
@@ -16935,6 +17206,7 @@ var inscriptions = new Map([
     "name": "WA1110",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1110-Tracing.jpg"
     ],
@@ -16954,6 +17226,7 @@ var inscriptions = new Map([
     "name": "WA1111-1112",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -16973,6 +17246,7 @@ var inscriptions = new Map([
     "name": "WA1113",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1113-Tracing.jpg"
     ],
@@ -16994,6 +17268,7 @@ var inscriptions = new Map([
     "name": "WA1114",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1114-Tracing.jpg"
     ],
@@ -17015,6 +17290,7 @@ var inscriptions = new Map([
     "name": "WA1115",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1115-Tracing.jpg"
     ],
@@ -17036,6 +17312,7 @@ var inscriptions = new Map([
     "name": "WA1116",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1116-Tracing.jpg"
     ],
@@ -17057,6 +17334,7 @@ var inscriptions = new Map([
     "name": "WA1117",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1117-Tracing.jpg"
     ],
@@ -17078,6 +17356,7 @@ var inscriptions = new Map([
     "name": "WA1118",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1118-Tracing.jpg"
     ],
@@ -17099,6 +17378,7 @@ var inscriptions = new Map([
     "name": "WA1119",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1119-Tracing.jpg"
     ],
@@ -17120,6 +17400,7 @@ var inscriptions = new Map([
     "name": "WA1120",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1120-Tracing.jpg"
     ],
@@ -17141,6 +17422,7 @@ var inscriptions = new Map([
     "name": "WA1121",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1121-Tracing.jpg"
     ],
@@ -17162,6 +17444,7 @@ var inscriptions = new Map([
     "name": "WA1122",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1122-Tracing.jpg"
     ],
@@ -17183,6 +17466,7 @@ var inscriptions = new Map([
     "name": "WA1123",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1123-Tracing.jpg"
     ],
@@ -17204,6 +17488,7 @@ var inscriptions = new Map([
     "name": "WA1124",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1124-Tracing.jpg"
     ],
@@ -17225,6 +17510,7 @@ var inscriptions = new Map([
     "name": "WA1125",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1125-Tracing.jpg"
     ],
@@ -17244,6 +17530,7 @@ var inscriptions = new Map([
     "name": "WA1126-1129",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17263,6 +17550,7 @@ var inscriptions = new Map([
     "name": "WA1130",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1130-Tracing.jpg"
     ],
@@ -17284,6 +17572,7 @@ var inscriptions = new Map([
     "name": "WA1131",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1131-Tracing.jpg"
     ],
@@ -17303,6 +17592,7 @@ var inscriptions = new Map([
     "name": "WA1132-1133",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17322,6 +17612,7 @@ var inscriptions = new Map([
     "name": "WA1134",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1134-Tracing.jpg"
     ],
@@ -17341,6 +17632,7 @@ var inscriptions = new Map([
     "name": "WA1135-1137",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17360,6 +17652,7 @@ var inscriptions = new Map([
     "name": "WA1138",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1138-Tracing.jpg"
     ],
@@ -17381,6 +17674,7 @@ var inscriptions = new Map([
     "name": "WA1139",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1139-Tracing.jpg"
     ],
@@ -17402,6 +17696,7 @@ var inscriptions = new Map([
     "name": "WA1140",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1140-Tracing.jpg"
     ],
@@ -17423,6 +17718,7 @@ var inscriptions = new Map([
     "name": "WA1141",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1141-Tracing.jpg"
     ],
@@ -17444,6 +17740,7 @@ var inscriptions = new Map([
     "name": "WA1142",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1142-Tracing.jpg"
     ],
@@ -17465,6 +17762,7 @@ var inscriptions = new Map([
     "name": "WA1143",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1143-Tracing.jpg"
     ],
@@ -17486,6 +17784,7 @@ var inscriptions = new Map([
     "name": "WA1144",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1144-Tracing.jpg"
     ],
@@ -17507,6 +17806,7 @@ var inscriptions = new Map([
     "name": "WA1145",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1145-Tracing.jpg"
     ],
@@ -17526,6 +17826,7 @@ var inscriptions = new Map([
     "name": "WA1146",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17543,6 +17844,7 @@ var inscriptions = new Map([
     "name": "WA1147",
     "parsedInscription": "𐘇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘇 𐘇¹¹⁴⁸",
     "translatedWords": [
@@ -17560,6 +17862,7 @@ var inscriptions = new Map([
     "name": "WA1148",
     "parsedInscription": "𐘇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17577,6 +17880,7 @@ var inscriptions = new Map([
     "name": "WA1149",
     "parsedInscription": "𐘇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17594,6 +17898,7 @@ var inscriptions = new Map([
     "name": "WA1150",
     "parsedInscription": "𐘚",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘚",
     "translatedWords": [
@@ -17611,6 +17916,7 @@ var inscriptions = new Map([
     "name": "WA1151-1153",
     "parsedInscription": "𐘚",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17628,6 +17934,7 @@ var inscriptions = new Map([
     "name": "WA1154",
     "parsedInscription": "𐘚",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17645,6 +17952,7 @@ var inscriptions = new Map([
     "name": "WA1155",
     "parsedInscription": "𐘚",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17662,6 +17970,7 @@ var inscriptions = new Map([
     "name": "WA1156-1169",
     "parsedInscription": "𐘚",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17679,6 +17988,7 @@ var inscriptions = new Map([
     "name": "WA1170",
     "parsedInscription": "𐘚",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17696,6 +18006,7 @@ var inscriptions = new Map([
     "name": "WA1171-1172",
     "parsedInscription": "𐘚",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17715,6 +18026,7 @@ var inscriptions = new Map([
     "name": "WA1173",
     "parsedInscription": "𐘚",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1173-Tracing.jpg"
     ],
@@ -17736,6 +18048,7 @@ var inscriptions = new Map([
     "name": "WA1174",
     "parsedInscription": "𐘚",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1174-Tracing.jpg"
     ],
@@ -17757,6 +18070,7 @@ var inscriptions = new Map([
     "name": "WA1175",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1175-Tracing.jpg"
     ],
@@ -17778,6 +18092,7 @@ var inscriptions = new Map([
     "name": "WA1176",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1176-Tracing.jpg"
     ],
@@ -17797,6 +18112,7 @@ var inscriptions = new Map([
     "name": "WA1177-1180",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17814,6 +18130,7 @@ var inscriptions = new Map([
     "name": "WA1181-1191",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17833,6 +18150,7 @@ var inscriptions = new Map([
     "name": "WA1192",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1192-Tracing.jpg"
     ],
@@ -17852,6 +18170,7 @@ var inscriptions = new Map([
     "name": "WA1193-1198",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17871,6 +18190,7 @@ var inscriptions = new Map([
     "name": "WA1199",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1199-Tracing.jpg"
     ],
@@ -17890,6 +18210,7 @@ var inscriptions = new Map([
     "name": "WA1200-1215",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17909,6 +18230,7 @@ var inscriptions = new Map([
     "name": "WA1216",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1216-Tracing.jpg"
     ],
@@ -17928,6 +18250,7 @@ var inscriptions = new Map([
     "name": "WA1217-1218",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17947,6 +18270,7 @@ var inscriptions = new Map([
     "name": "WA1219",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1219-Tracing.jpg"
     ],
@@ -17966,6 +18290,7 @@ var inscriptions = new Map([
     "name": "WA1220-1223",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -17985,6 +18310,7 @@ var inscriptions = new Map([
     "name": "WA1224",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1224-Tracing.jpg"
     ],
@@ -18006,6 +18332,7 @@ var inscriptions = new Map([
     "name": "WA1225",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1225-Tracing.jpg"
     ],
@@ -18025,6 +18352,7 @@ var inscriptions = new Map([
     "name": "WA1226-1231",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18042,6 +18370,7 @@ var inscriptions = new Map([
     "name": "WA1232-1235",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18059,6 +18388,7 @@ var inscriptions = new Map([
     "name": "WA1236-1237",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18078,6 +18408,7 @@ var inscriptions = new Map([
     "name": "WA1238",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1238-Tracing.jpg"
     ],
@@ -18097,6 +18428,7 @@ var inscriptions = new Map([
     "name": "WA1239-1240",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18114,6 +18446,7 @@ var inscriptions = new Map([
     "name": "WA1241-1250",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18133,6 +18466,7 @@ var inscriptions = new Map([
     "name": "WA1251",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1251-Tracing.jpg"
     ],
@@ -18152,6 +18486,7 @@ var inscriptions = new Map([
     "name": "WA1252-1253",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18169,6 +18504,7 @@ var inscriptions = new Map([
     "name": "WA1254-1255",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18186,6 +18522,7 @@ var inscriptions = new Map([
     "name": "WA1256-1257",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18205,6 +18542,7 @@ var inscriptions = new Map([
     "name": "WA1258",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1258-Tracing.jpg"
     ],
@@ -18226,6 +18564,7 @@ var inscriptions = new Map([
     "name": "WA1259",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1259-Tracing.jpg"
     ],
@@ -18247,6 +18586,7 @@ var inscriptions = new Map([
     "name": "WA1260",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1260-Tracing.jpg"
     ],
@@ -18268,6 +18608,7 @@ var inscriptions = new Map([
     "name": "WA1261",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1261-Tracing.jpg"
     ],
@@ -18287,6 +18628,7 @@ var inscriptions = new Map([
     "name": "WA1262-1264",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18304,6 +18646,7 @@ var inscriptions = new Map([
     "name": "WA1265-1266",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18323,6 +18666,7 @@ var inscriptions = new Map([
     "name": "WA1267",
     "parsedInscription": "𐘳",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1267-Tracing.jpg"
     ],
@@ -18344,6 +18688,7 @@ var inscriptions = new Map([
     "name": "WA1268",
     "parsedInscription": "𐘳",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1268-Tracing.jpg"
     ],
@@ -18365,6 +18710,7 @@ var inscriptions = new Map([
     "name": "WA1269",
     "parsedInscription": "𐘳",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1269-Tracing.jpg"
     ],
@@ -18386,6 +18732,7 @@ var inscriptions = new Map([
     "name": "WA1270",
     "parsedInscription": "𐘳",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1270-Tracing.jpg"
     ],
@@ -18405,6 +18752,7 @@ var inscriptions = new Map([
     "name": "WA1271-1277",
     "parsedInscription": "𐘳",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18424,6 +18772,7 @@ var inscriptions = new Map([
     "name": "WA1278",
     "parsedInscription": "𐘳",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1278-Tracing.jpg"
     ],
@@ -18445,6 +18794,7 @@ var inscriptions = new Map([
     "name": "WA1279",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1279-Tracing.jpg"
     ],
@@ -18466,6 +18816,7 @@ var inscriptions = new Map([
     "name": "WA1280",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1280-Tracing.jpg"
     ],
@@ -18487,6 +18838,7 @@ var inscriptions = new Map([
     "name": "WA1281",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1281-Tracing.jpg"
     ],
@@ -18508,6 +18860,7 @@ var inscriptions = new Map([
     "name": "WA1282",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1282-Tracing.jpg"
     ],
@@ -18529,6 +18882,7 @@ var inscriptions = new Map([
     "name": "WA1283",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1283-Tracing.jpg"
     ],
@@ -18548,6 +18902,7 @@ var inscriptions = new Map([
     "name": "WA1284-1285",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18567,6 +18922,7 @@ var inscriptions = new Map([
     "name": "WA1286",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1286-Tracing.jpg"
     ],
@@ -18586,6 +18942,7 @@ var inscriptions = new Map([
     "name": "WA1287-1292",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18605,6 +18962,7 @@ var inscriptions = new Map([
     "name": "WA1293",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1293-Tracing.jpg"
     ],
@@ -18626,6 +18984,7 @@ var inscriptions = new Map([
     "name": "WA1294",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1294-Tracing.jpg"
     ],
@@ -18647,6 +19006,7 @@ var inscriptions = new Map([
     "name": "WA1295",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1295-Tracing.jpg"
     ],
@@ -18668,6 +19028,7 @@ var inscriptions = new Map([
     "name": "WA1296",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1296-Tracing.jpg"
     ],
@@ -18687,6 +19048,7 @@ var inscriptions = new Map([
     "name": "WA1297-1298",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18706,6 +19068,7 @@ var inscriptions = new Map([
     "name": "WA1299",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1299-Tracing.jpg"
     ],
@@ -18727,6 +19090,7 @@ var inscriptions = new Map([
     "name": "WA1300",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1300-Tracing.jpg"
     ],
@@ -18748,6 +19112,7 @@ var inscriptions = new Map([
     "name": "WA1301",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1301-Tracing.jpg"
     ],
@@ -18767,6 +19132,7 @@ var inscriptions = new Map([
     "name": "WA1302-1303",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18786,6 +19152,7 @@ var inscriptions = new Map([
     "name": "WA1304",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1304-Tracing.jpg"
     ],
@@ -18807,6 +19174,7 @@ var inscriptions = new Map([
     "name": "WA1305",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1305-Tracing.jpg"
     ],
@@ -18828,6 +19196,7 @@ var inscriptions = new Map([
     "name": "WA1306",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1306-Tracing.jpg"
     ],
@@ -18849,6 +19218,7 @@ var inscriptions = new Map([
     "name": "WA1307",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1307-Tracing.jpg"
     ],
@@ -18870,6 +19240,7 @@ var inscriptions = new Map([
     "name": "WA1308",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1308-Tracing.jpg"
     ],
@@ -18891,6 +19262,7 @@ var inscriptions = new Map([
     "name": "WA1309",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1309-Tracing.jpg"
     ],
@@ -18912,6 +19284,7 @@ var inscriptions = new Map([
     "name": "WA1310",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1310-Tracing.jpg"
     ],
@@ -18933,6 +19306,7 @@ var inscriptions = new Map([
     "name": "WA1311",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1311-Tracing.jpg"
     ],
@@ -18952,6 +19326,7 @@ var inscriptions = new Map([
     "name": "WA1312-1313",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -18971,6 +19346,7 @@ var inscriptions = new Map([
     "name": "WA1314",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1314-Tracing.jpg"
     ],
@@ -18992,6 +19368,7 @@ var inscriptions = new Map([
     "name": "WA1315",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1315-Tracing.jpg"
     ],
@@ -19013,6 +19390,7 @@ var inscriptions = new Map([
     "name": "WA1316",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1316-Tracing.jpg"
     ],
@@ -19034,6 +19412,7 @@ var inscriptions = new Map([
     "name": "WA1317",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1317-Tracing.jpg"
     ],
@@ -19055,6 +19434,7 @@ var inscriptions = new Map([
     "name": "WA1318",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1318-Tracing.jpg"
     ],
@@ -19076,6 +19456,7 @@ var inscriptions = new Map([
     "name": "WA1319",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1319-Tracing.jpg"
     ],
@@ -19097,6 +19478,7 @@ var inscriptions = new Map([
     "name": "WA1320",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1320-Tracing.jpg"
     ],
@@ -19118,6 +19500,7 @@ var inscriptions = new Map([
     "name": "WA1321",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1321-Tracing.jpg"
     ],
@@ -19139,6 +19522,7 @@ var inscriptions = new Map([
     "name": "WA1322",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1322-Tracing.jpg"
     ],
@@ -19160,6 +19544,7 @@ var inscriptions = new Map([
     "name": "WA1323",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1323-Tracing.jpg"
     ],
@@ -19179,6 +19564,7 @@ var inscriptions = new Map([
     "name": "WA1324-1336",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19196,6 +19582,7 @@ var inscriptions = new Map([
     "name": "WA1337-1351",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19213,6 +19600,7 @@ var inscriptions = new Map([
     "name": "WA1352-1366",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19230,6 +19618,7 @@ var inscriptions = new Map([
     "name": "WA1367-1371",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19247,6 +19636,7 @@ var inscriptions = new Map([
     "name": "WA1372-1379",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19266,6 +19656,7 @@ var inscriptions = new Map([
     "name": "WA1380",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1380-Tracing.jpg"
     ],
@@ -19287,6 +19678,7 @@ var inscriptions = new Map([
     "name": "WA1381",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1381-Tracing.jpg"
     ],
@@ -19306,6 +19698,7 @@ var inscriptions = new Map([
     "name": "WA1382-1396",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19323,6 +19716,7 @@ var inscriptions = new Map([
     "name": "WA1397-1399",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19340,6 +19734,7 @@ var inscriptions = new Map([
     "name": "WA1400-1405",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19359,6 +19754,7 @@ var inscriptions = new Map([
     "name": "WA1406",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1406-Tracing.jpg"
     ],
@@ -19380,6 +19776,7 @@ var inscriptions = new Map([
     "name": "WA1407",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1407-Tracing.jpg"
     ],
@@ -19401,6 +19798,7 @@ var inscriptions = new Map([
     "name": "WA1408",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1408-Tracing.jpg"
     ],
@@ -19420,6 +19818,7 @@ var inscriptions = new Map([
     "name": "WA1409-1411",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19437,6 +19836,7 @@ var inscriptions = new Map([
     "name": "WA1412-1417",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19454,6 +19854,7 @@ var inscriptions = new Map([
     "name": "WA1418-1420",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19473,6 +19874,7 @@ var inscriptions = new Map([
     "name": "WA1421",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1421-Tracing.jpg"
     ],
@@ -19494,6 +19896,7 @@ var inscriptions = new Map([
     "name": "WA1422",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1422-Tracing.jpg"
     ],
@@ -19513,6 +19916,7 @@ var inscriptions = new Map([
     "name": "WA1423-1426",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19530,6 +19934,7 @@ var inscriptions = new Map([
     "name": "WA1427-1441",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19547,6 +19952,7 @@ var inscriptions = new Map([
     "name": "WA1442-1445",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19564,6 +19970,7 @@ var inscriptions = new Map([
     "name": "WA1446-1449",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19583,6 +19990,7 @@ var inscriptions = new Map([
     "name": "WA1450",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1450-Tracing.jpg"
     ],
@@ -19604,6 +20012,7 @@ var inscriptions = new Map([
     "name": "WA1451",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1451-Tracing.jpg"
     ],
@@ -19623,6 +20032,7 @@ var inscriptions = new Map([
     "name": "WA1452-1455",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19642,6 +20052,7 @@ var inscriptions = new Map([
     "name": "WA1456",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1456-Tracing.jpg"
     ],
@@ -19661,6 +20072,7 @@ var inscriptions = new Map([
     "name": "WA1457-1458",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19678,6 +20090,7 @@ var inscriptions = new Map([
     "name": "WA1459-1461",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19697,6 +20110,7 @@ var inscriptions = new Map([
     "name": "WA1462",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1462-Tracing.jpg"
     ],
@@ -19718,6 +20132,7 @@ var inscriptions = new Map([
     "name": "WA1463",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1463-Tracing.jpg"
     ],
@@ -19739,6 +20154,7 @@ var inscriptions = new Map([
     "name": "WA1464",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1464-Tracing.jpg"
     ],
@@ -19760,6 +20176,7 @@ var inscriptions = new Map([
     "name": "WA1465",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1465-Tracing.jpg"
     ],
@@ -19781,6 +20198,7 @@ var inscriptions = new Map([
     "name": "WA1466",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1466-Tracing.jpg"
     ],
@@ -19800,6 +20218,7 @@ var inscriptions = new Map([
     "name": "WA1467-1469",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19819,6 +20238,7 @@ var inscriptions = new Map([
     "name": "WA1470",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1470-Tracing.jpg"
     ],
@@ -19840,6 +20260,7 @@ var inscriptions = new Map([
     "name": "WA1471",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1471-Tracing.jpg"
     ],
@@ -19861,6 +20282,7 @@ var inscriptions = new Map([
     "name": "WA1472",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1472-Tracing.jpg"
     ],
@@ -19880,6 +20302,7 @@ var inscriptions = new Map([
     "name": "WA1473-1480",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19897,6 +20320,7 @@ var inscriptions = new Map([
     "name": "WA1481-1482",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19914,6 +20338,7 @@ var inscriptions = new Map([
     "name": "WA1483-1489",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19933,6 +20358,7 @@ var inscriptions = new Map([
     "name": "WA1490",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1490-Tracing.jpg"
     ],
@@ -19952,6 +20378,7 @@ var inscriptions = new Map([
     "name": "WA1491-1510",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -19971,6 +20398,7 @@ var inscriptions = new Map([
     "name": "WA1511",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1511-Tracing.jpg"
     ],
@@ -19992,6 +20420,7 @@ var inscriptions = new Map([
     "name": "WA1512",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1512-Tracing.jpg"
     ],
@@ -20011,6 +20440,7 @@ var inscriptions = new Map([
     "name": "WA1513-1517",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20030,6 +20460,7 @@ var inscriptions = new Map([
     "name": "WA1518",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1518-Tracing.jpg"
     ],
@@ -20049,6 +20480,7 @@ var inscriptions = new Map([
     "name": "WA1519-1527",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20068,6 +20500,7 @@ var inscriptions = new Map([
     "name": "WA1528",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1528-Tracing.jpg"
     ],
@@ -20089,6 +20522,7 @@ var inscriptions = new Map([
     "name": "WA1529",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1529-Tracing.jpg"
     ],
@@ -20110,6 +20544,7 @@ var inscriptions = new Map([
     "name": "WA1530",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1530-Tracing.jpg"
     ],
@@ -20131,6 +20566,7 @@ var inscriptions = new Map([
     "name": "WA1531",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1531-Tracing.jpg"
     ],
@@ -20152,6 +20588,7 @@ var inscriptions = new Map([
     "name": "WA1532",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1532-Tracing.jpg"
     ],
@@ -20171,6 +20608,7 @@ var inscriptions = new Map([
     "name": "WA1533-1537",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20188,6 +20626,7 @@ var inscriptions = new Map([
     "name": "WA1538-1539",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20207,6 +20646,7 @@ var inscriptions = new Map([
     "name": "WA1540",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1540-Tracing.jpg"
     ],
@@ -20228,6 +20668,7 @@ var inscriptions = new Map([
     "name": "WA1541",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1541-Tracing.jpg"
     ],
@@ -20249,6 +20690,7 @@ var inscriptions = new Map([
     "name": "WA1542",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1542-Tracing.jpg"
     ],
@@ -20268,6 +20710,7 @@ var inscriptions = new Map([
     "name": "WA1543-1545",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20287,6 +20730,7 @@ var inscriptions = new Map([
     "name": "WA1546",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1546-Tracing.jpg"
     ],
@@ -20308,6 +20752,7 @@ var inscriptions = new Map([
     "name": "WA1547",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1547-Tracing.jpg"
     ],
@@ -20327,6 +20772,7 @@ var inscriptions = new Map([
     "name": "WA1548-1555",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20346,6 +20792,7 @@ var inscriptions = new Map([
     "name": "WA1556",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1556-Tracing.jpg"
     ],
@@ -20367,6 +20814,7 @@ var inscriptions = new Map([
     "name": "WA1557",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1557-Tracing.jpg"
     ],
@@ -20388,6 +20836,7 @@ var inscriptions = new Map([
     "name": "WA1558",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1558-Tracing.jpg"
     ],
@@ -20409,6 +20858,7 @@ var inscriptions = new Map([
     "name": "WA1559",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1559-Tracing.jpg"
     ],
@@ -20430,6 +20880,7 @@ var inscriptions = new Map([
     "name": "WA1560",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1560-Tracing.jpg"
     ],
@@ -20451,6 +20902,7 @@ var inscriptions = new Map([
     "name": "WA1561",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1561-Tracing.jpg"
     ],
@@ -20470,6 +20922,7 @@ var inscriptions = new Map([
     "name": "WA1562-1565",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20489,6 +20942,7 @@ var inscriptions = new Map([
     "name": "WA1566",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1566-Tracing.jpg"
     ],
@@ -20508,6 +20962,7 @@ var inscriptions = new Map([
     "name": "WA1567-1575",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20525,6 +20980,7 @@ var inscriptions = new Map([
     "name": "WA1576-1578",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20542,6 +20998,7 @@ var inscriptions = new Map([
     "name": "WA1579-1580",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20561,6 +21018,7 @@ var inscriptions = new Map([
     "name": "WA1581",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1581-Tracing.jpg"
     ],
@@ -20582,6 +21040,7 @@ var inscriptions = new Map([
     "name": "WA1582",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1582-Tracing.jpg"
     ],
@@ -20601,6 +21060,7 @@ var inscriptions = new Map([
     "name": "WA1583-1585",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20618,6 +21078,7 @@ var inscriptions = new Map([
     "name": "WA1586-1590",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20637,6 +21098,7 @@ var inscriptions = new Map([
     "name": "WA1591",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1591-Tracing.jpg"
     ],
@@ -20658,6 +21120,7 @@ var inscriptions = new Map([
     "name": "WA1592",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1592-Tracing.jpg"
     ],
@@ -20679,6 +21142,7 @@ var inscriptions = new Map([
     "name": "WA1593",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1593-Tracing.jpg"
     ],
@@ -20698,6 +21162,7 @@ var inscriptions = new Map([
     "name": "WA1594-1595",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20715,6 +21180,7 @@ var inscriptions = new Map([
     "name": "WA1596-1599",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20734,6 +21200,7 @@ var inscriptions = new Map([
     "name": "WA1600",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1600-Tracing.jpg"
     ],
@@ -20753,6 +21220,7 @@ var inscriptions = new Map([
     "name": "WA1601-1604",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -20772,6 +21240,7 @@ var inscriptions = new Map([
     "name": "WA1605",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1605-Tracing.jpg"
     ],
@@ -20793,6 +21262,7 @@ var inscriptions = new Map([
     "name": "WA1606",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1606-Tracing.jpg"
     ],
@@ -20814,6 +21284,7 @@ var inscriptions = new Map([
     "name": "WA1607",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1607-Tracing.jpg"
     ],
@@ -20835,6 +21306,7 @@ var inscriptions = new Map([
     "name": "WA1608",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1608-Tracing.jpg"
     ],
@@ -20856,6 +21328,7 @@ var inscriptions = new Map([
     "name": "WA1609",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1609-Tracing.jpg"
     ],
@@ -20877,6 +21350,7 @@ var inscriptions = new Map([
     "name": "WA1610",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1610-Tracing.jpg"
     ],
@@ -20898,6 +21372,7 @@ var inscriptions = new Map([
     "name": "WA1611",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1611-Tracing.jpg"
     ],
@@ -20919,6 +21394,7 @@ var inscriptions = new Map([
     "name": "WA1612",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1612-Tracing.jpg"
     ],
@@ -20940,6 +21416,7 @@ var inscriptions = new Map([
     "name": "WA1613",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1613-Tracing.jpg"
     ],
@@ -20961,6 +21438,7 @@ var inscriptions = new Map([
     "name": "WA1614",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1614-Tracing.jpg"
     ],
@@ -20982,6 +21460,7 @@ var inscriptions = new Map([
     "name": "WA1615",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1615-Tracing.jpg"
     ],
@@ -21003,6 +21482,7 @@ var inscriptions = new Map([
     "name": "WA1616",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1616-Tracing.jpg"
     ],
@@ -21024,6 +21504,7 @@ var inscriptions = new Map([
     "name": "WA1618",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1618-Tracing.jpg"
     ],
@@ -21043,6 +21524,7 @@ var inscriptions = new Map([
     "name": "WA1619-1620",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21062,6 +21544,7 @@ var inscriptions = new Map([
     "name": "WA1621",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1621-Tracing.jpg"
     ],
@@ -21083,6 +21566,7 @@ var inscriptions = new Map([
     "name": "WA1622",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1622-Tracing.jpg"
     ],
@@ -21104,6 +21588,7 @@ var inscriptions = new Map([
     "name": "WA1623",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1623-Tracing.jpg"
     ],
@@ -21123,6 +21608,7 @@ var inscriptions = new Map([
     "name": "WA1624-1629",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21142,6 +21628,7 @@ var inscriptions = new Map([
     "name": "WA1630",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1630-Tracing.jpg"
     ],
@@ -21163,6 +21650,7 @@ var inscriptions = new Map([
     "name": "WA1631",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1631-Tracing.jpg"
     ],
@@ -21182,6 +21670,7 @@ var inscriptions = new Map([
     "name": "WA1632-1633",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21199,6 +21688,7 @@ var inscriptions = new Map([
     "name": "WA1634-1637",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21218,6 +21708,7 @@ var inscriptions = new Map([
     "name": "WA1638",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1638-Tracing.jpg"
     ],
@@ -21239,6 +21730,7 @@ var inscriptions = new Map([
     "name": "WA1639",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1639-Tracing.jpg"
     ],
@@ -21260,6 +21752,7 @@ var inscriptions = new Map([
     "name": "WA1640",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1640-Tracing.jpg"
     ],
@@ -21279,6 +21772,7 @@ var inscriptions = new Map([
     "name": "WA1641-1642",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21296,6 +21790,7 @@ var inscriptions = new Map([
     "name": "WA1643-1649",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21313,6 +21808,7 @@ var inscriptions = new Map([
     "name": "WA1650-1651",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21332,6 +21828,7 @@ var inscriptions = new Map([
     "name": "WA1652",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1652-Tracing.jpg"
     ],
@@ -21353,6 +21850,7 @@ var inscriptions = new Map([
     "name": "WA1653",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1653-Tracing.jpg"
     ],
@@ -21374,6 +21872,7 @@ var inscriptions = new Map([
     "name": "WA1654",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1654-Tracing.jpg"
     ],
@@ -21393,6 +21892,7 @@ var inscriptions = new Map([
     "name": "WA1655-1657",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21412,6 +21912,7 @@ var inscriptions = new Map([
     "name": "WA1658",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1658-Tracing.jpg"
     ],
@@ -21431,6 +21932,7 @@ var inscriptions = new Map([
     "name": "WA1659-1660",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21448,6 +21950,7 @@ var inscriptions = new Map([
     "name": "WA1661-1662",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21467,6 +21970,7 @@ var inscriptions = new Map([
     "name": "WA1664",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1664-Tracing.jpg"
     ],
@@ -21488,6 +21992,7 @@ var inscriptions = new Map([
     "name": "WA1665",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1665-Tracing.jpg"
     ],
@@ -21507,6 +22012,7 @@ var inscriptions = new Map([
     "name": "WA1666-1667",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21526,6 +22032,7 @@ var inscriptions = new Map([
     "name": "WA1668",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1668-Tracing.jpg"
     ],
@@ -21545,6 +22052,7 @@ var inscriptions = new Map([
     "name": "WA1669-1670",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21564,6 +22072,7 @@ var inscriptions = new Map([
     "name": "WA1671",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1671-Tracing.jpg"
     ],
@@ -21583,6 +22092,7 @@ var inscriptions = new Map([
     "name": "WA1672-1676",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21602,6 +22112,7 @@ var inscriptions = new Map([
     "name": "WA1677",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1677-Tracing.jpg"
     ],
@@ -21623,6 +22134,7 @@ var inscriptions = new Map([
     "name": "WA1678",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1678-Tracing.jpg"
     ],
@@ -21644,6 +22156,7 @@ var inscriptions = new Map([
     "name": "WA1679",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1679-Tracing.jpg"
     ],
@@ -21663,6 +22176,7 @@ var inscriptions = new Map([
     "name": "WA1680-1686",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21680,6 +22194,7 @@ var inscriptions = new Map([
     "name": "WA1687-1690",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21697,6 +22212,7 @@ var inscriptions = new Map([
     "name": "WA1691-1694",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21714,6 +22230,7 @@ var inscriptions = new Map([
     "name": "WA1695-1696",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21733,6 +22250,7 @@ var inscriptions = new Map([
     "name": "WA1697",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1697-Tracing.jpg"
     ],
@@ -21754,6 +22272,7 @@ var inscriptions = new Map([
     "name": "WA1698",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1698-Tracing.jpg"
     ],
@@ -21773,6 +22292,7 @@ var inscriptions = new Map([
     "name": "WA1699-1707",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21792,6 +22312,7 @@ var inscriptions = new Map([
     "name": "WA1708",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1708-Tracing.jpg"
     ],
@@ -21813,6 +22334,7 @@ var inscriptions = new Map([
     "name": "WA1709",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1709-Tracing.jpg"
     ],
@@ -21834,6 +22356,7 @@ var inscriptions = new Map([
     "name": "WA1710",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1710-Tracing.jpg"
     ],
@@ -21855,6 +22378,7 @@ var inscriptions = new Map([
     "name": "WA1711",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1711-Tracing.jpg"
     ],
@@ -21876,6 +22400,7 @@ var inscriptions = new Map([
     "name": "WA1712",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1712-Tracing.jpg"
     ],
@@ -21895,6 +22420,7 @@ var inscriptions = new Map([
     "name": "WA1713-1718",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21912,6 +22438,7 @@ var inscriptions = new Map([
     "name": "WA1719-1720",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21929,6 +22456,7 @@ var inscriptions = new Map([
     "name": "WA1721-1722",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -21948,6 +22476,7 @@ var inscriptions = new Map([
     "name": "WA1723",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1723-Tracing.jpg"
     ],
@@ -21969,6 +22498,7 @@ var inscriptions = new Map([
     "name": "WA1724",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1724-Tracing.jpg"
     ],
@@ -21988,6 +22518,7 @@ var inscriptions = new Map([
     "name": "WA1725-1739",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22007,6 +22538,7 @@ var inscriptions = new Map([
     "name": "WA1740",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1740-Tracing.jpg"
     ],
@@ -22028,6 +22560,7 @@ var inscriptions = new Map([
     "name": "WA1741",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1741-Tracing.jpg"
     ],
@@ -22049,6 +22582,7 @@ var inscriptions = new Map([
     "name": "WA1742",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1742-Tracing.jpg"
     ],
@@ -22070,6 +22604,7 @@ var inscriptions = new Map([
     "name": "WA1743",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1743-Tracing.jpg"
     ],
@@ -22091,6 +22626,7 @@ var inscriptions = new Map([
     "name": "WA1744",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1744-Tracing.jpg"
     ],
@@ -22110,6 +22646,7 @@ var inscriptions = new Map([
     "name": "WA1745-1748",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22129,6 +22666,7 @@ var inscriptions = new Map([
     "name": "WA1749",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1749-Tracing.jpg"
     ],
@@ -22150,6 +22688,7 @@ var inscriptions = new Map([
     "name": "WA1750",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1750-Tracing.jpg"
     ],
@@ -22171,6 +22710,7 @@ var inscriptions = new Map([
     "name": "WA1751",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1751-Tracing.jpg"
     ],
@@ -22190,6 +22730,7 @@ var inscriptions = new Map([
     "name": "WA1752-1754",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22209,6 +22750,7 @@ var inscriptions = new Map([
     "name": "WA1755",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1755-Tracing.jpg"
     ],
@@ -22230,6 +22772,7 @@ var inscriptions = new Map([
     "name": "WA1756",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1756-Tracing.jpg"
     ],
@@ -22251,6 +22794,7 @@ var inscriptions = new Map([
     "name": "WA1757",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1757-Tracing.jpg"
     ],
@@ -22272,6 +22816,7 @@ var inscriptions = new Map([
     "name": "WA1758",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1758-Tracing.jpg"
     ],
@@ -22293,6 +22838,7 @@ var inscriptions = new Map([
     "name": "WA1759",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1759-Tracing.jpg"
     ],
@@ -22312,6 +22858,7 @@ var inscriptions = new Map([
     "name": "WA1760-1761",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22331,6 +22878,7 @@ var inscriptions = new Map([
     "name": "WA1762",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1762-Tracing.jpg"
     ],
@@ -22350,6 +22898,7 @@ var inscriptions = new Map([
     "name": "WA1763-1769",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22367,6 +22916,7 @@ var inscriptions = new Map([
     "name": "WA1770-1773",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22384,6 +22934,7 @@ var inscriptions = new Map([
     "name": "WA1774-1776",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22401,6 +22952,7 @@ var inscriptions = new Map([
     "name": "WA1777-1778",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22420,6 +22972,7 @@ var inscriptions = new Map([
     "name": "WA1779",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1779-Tracing.jpg"
     ],
@@ -22439,6 +22992,7 @@ var inscriptions = new Map([
     "name": "WA1780-1781",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22456,6 +23010,7 @@ var inscriptions = new Map([
     "name": "WA1782-1784",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22473,6 +23028,7 @@ var inscriptions = new Map([
     "name": "WA1785-1789",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22492,6 +23048,7 @@ var inscriptions = new Map([
     "name": "WA1790",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1790-Tracing.jpg"
     ],
@@ -22513,6 +23070,7 @@ var inscriptions = new Map([
     "name": "WA1791",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1791-Tracing.jpg"
     ],
@@ -22534,6 +23092,7 @@ var inscriptions = new Map([
     "name": "WA1792",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1792-Tracing.jpg"
     ],
@@ -22555,6 +23114,7 @@ var inscriptions = new Map([
     "name": "WA1793",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1793-Tracing.jpg"
     ],
@@ -22576,6 +23136,7 @@ var inscriptions = new Map([
     "name": "WA1794",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1794-Tracing.jpg"
     ],
@@ -22595,6 +23156,7 @@ var inscriptions = new Map([
     "name": "WA1795-1796",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22612,6 +23174,7 @@ var inscriptions = new Map([
     "name": "WA1797-1798",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22631,6 +23194,7 @@ var inscriptions = new Map([
     "name": "WA1799",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1799-Tracing.jpg"
     ],
@@ -22652,6 +23216,7 @@ var inscriptions = new Map([
     "name": "WA1800",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1800-Tracing.jpg"
     ],
@@ -22673,6 +23238,7 @@ var inscriptions = new Map([
     "name": "WA1801",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1801-Tracing.jpg"
     ],
@@ -22692,6 +23258,7 @@ var inscriptions = new Map([
     "name": "WA1802-1804",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22709,6 +23276,7 @@ var inscriptions = new Map([
     "name": "WA1805-1809",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22728,6 +23296,7 @@ var inscriptions = new Map([
     "name": "WA1810",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1810-Tracing.jpg"
     ],
@@ -22747,6 +23316,7 @@ var inscriptions = new Map([
     "name": "WA1811-1812",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22766,6 +23336,7 @@ var inscriptions = new Map([
     "name": "WA1813",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1813-Tracing.jpg"
     ],
@@ -22787,6 +23358,7 @@ var inscriptions = new Map([
     "name": "WA1814",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1814-Tracing.jpg"
     ],
@@ -22808,6 +23380,7 @@ var inscriptions = new Map([
     "name": "WA1815",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1815-Tracing.jpg"
     ],
@@ -22829,6 +23402,7 @@ var inscriptions = new Map([
     "name": "WA1816",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1816-Tracing.jpg"
     ],
@@ -22848,6 +23422,7 @@ var inscriptions = new Map([
     "name": "WA1817-1818",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22865,6 +23440,7 @@ var inscriptions = new Map([
     "name": "WA1819-1820",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22882,6 +23458,7 @@ var inscriptions = new Map([
     "name": "WA1821-1822",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22901,6 +23478,7 @@ var inscriptions = new Map([
     "name": "WA1823",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1823-Tracing.jpg"
     ],
@@ -22920,6 +23498,7 @@ var inscriptions = new Map([
     "name": "WA1824-1825",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22939,6 +23518,7 @@ var inscriptions = new Map([
     "name": "WA1826",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1826-Tracing.jpg"
     ],
@@ -22958,6 +23538,7 @@ var inscriptions = new Map([
     "name": "WA1827-1829",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -22977,6 +23558,7 @@ var inscriptions = new Map([
     "name": "WA1830",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1830-Tracing.jpg"
     ],
@@ -22996,6 +23578,7 @@ var inscriptions = new Map([
     "name": "WA1831-1832",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -23015,6 +23598,7 @@ var inscriptions = new Map([
     "name": "WA1833",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1833-Tracing.jpg"
     ],
@@ -23036,6 +23620,7 @@ var inscriptions = new Map([
     "name": "WA1834",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1834-Tracing.jpg"
     ],
@@ -23057,6 +23642,7 @@ var inscriptions = new Map([
     "name": "WA1835",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1835-Tracing.jpg"
     ],
@@ -23078,6 +23664,7 @@ var inscriptions = new Map([
     "name": "WA1836",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1836-Tracing.jpg"
     ],
@@ -23097,6 +23684,7 @@ var inscriptions = new Map([
     "name": "WA1837-1839",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -23116,6 +23704,7 @@ var inscriptions = new Map([
     "name": "WA1840",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1840-Tracing.jpg"
     ],
@@ -23135,6 +23724,7 @@ var inscriptions = new Map([
     "name": "WA1841-1842",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -23154,6 +23744,7 @@ var inscriptions = new Map([
     "name": "WA1843",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1843-Tracing.jpg"
     ],
@@ -23175,6 +23766,7 @@ var inscriptions = new Map([
     "name": "WA1844",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1844-Tracing.jpg"
     ],
@@ -23194,6 +23786,7 @@ var inscriptions = new Map([
     "name": "WA1845+1733",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -23213,6 +23806,7 @@ var inscriptions = new Map([
     "name": "WA1846",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1846-Tracing.jpg"
     ],
@@ -23234,6 +23828,7 @@ var inscriptions = new Map([
     "name": "WA1847",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1847-Tracing.jpg"
     ],
@@ -23255,6 +23850,7 @@ var inscriptions = new Map([
     "name": "WA1848",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1848-Tracing.jpg"
     ],
@@ -23276,6 +23872,7 @@ var inscriptions = new Map([
     "name": "WA1849",
     "parsedInscription": "𐚙",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1849-Tracing.jpg"
     ],
@@ -23297,6 +23894,7 @@ var inscriptions = new Map([
     "name": "WA1850",
     "parsedInscription": "𐚚",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1850-Tracing.jpg"
     ],
@@ -23318,6 +23916,7 @@ var inscriptions = new Map([
     "name": "WA1851",
     "parsedInscription": "𐚛",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1851-Tracing.jpg"
     ],
@@ -23339,6 +23938,7 @@ var inscriptions = new Map([
     "name": "WA1852",
     "parsedInscription": "𐚜",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1852-Tracing.jpg"
     ],
@@ -23360,6 +23960,7 @@ var inscriptions = new Map([
     "name": "WA1853",
     "parsedInscription": "𐚝",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1853-Tracing.jpg"
     ],
@@ -23381,6 +23982,7 @@ var inscriptions = new Map([
     "name": "WA1854",
     "parsedInscription": "𐚞",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1854-Tracing.jpg"
     ],
@@ -23402,6 +24004,7 @@ var inscriptions = new Map([
     "name": "WA1855",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1855-Tracing.jpg"
     ],
@@ -23421,6 +24024,7 @@ var inscriptions = new Map([
     "name": "WA1856-1858",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -23440,6 +24044,7 @@ var inscriptions = new Map([
     "name": "WA1859",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1859-Tracing.jpg"
     ],
@@ -23461,6 +24066,7 @@ var inscriptions = new Map([
     "name": "WA1860",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1860-Tracing.jpg"
     ],
@@ -23482,6 +24088,7 @@ var inscriptions = new Map([
     "name": "WA1861",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WA1861-Tracing.jpg"
     ],
@@ -23501,6 +24108,7 @@ var inscriptions = new Map([
     "name": "WB229",
     "parsedInscription": "𐙓𐜙",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙓𐜙",
     "translatedWords": [
@@ -23523,6 +24131,7 @@ var inscriptions = new Map([
     "name": "WB2001",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WB2001-Tracing.jpg"
     ],
@@ -23544,6 +24153,7 @@ var inscriptions = new Map([
     "name": "WB2002",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WB2002-Tracing.jpg"
     ],
@@ -23565,6 +24175,7 @@ var inscriptions = new Map([
     "name": "WC3001",
     "parsedInscription": "𐘂𐘈𐘱𐝆",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3001-Tracing.jpg"
     ],
@@ -23589,6 +24200,7 @@ var inscriptions = new Map([
     "name": "WC3002",
     "parsedInscription": "𐘂𐘈𐘱",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3002-Tracing.jpg"
     ],
@@ -23610,6 +24222,7 @@ var inscriptions = new Map([
     "name": "WC3003",
     "parsedInscription": "𐘾𐘙𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3003-Tracing.jpg"
     ],
@@ -23632,6 +24245,7 @@ var inscriptions = new Map([
     "name": "WC3004",
     "parsedInscription": "𐘳𐘝𐘾𐘈",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3004a-Tracing.jpg",
         "images/WC3004b-Tracing.jpg"
@@ -23658,6 +24272,7 @@ var inscriptions = new Map([
     "name": "WC3005",
     "parsedInscription": "𐘳𐘝𐘾𐘈",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3005a-Tracing.jpg",
         "images/WC3005b-Tracing.jpg"
@@ -23684,6 +24299,7 @@ var inscriptions = new Map([
     "name": "WC3006",
     "parsedInscription": "𐘮𐘵𐘻𐘴𐙦𐘴",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3006a-Tracing.jpg",
         "images/WC3006b-Tracing.jpg"
@@ -23709,6 +24325,7 @@ var inscriptions = new Map([
     "name": "WC3007",
     "parsedInscription": "𐘮𐘆𐘝",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3007-Tracing.jpg"
     ],
@@ -23731,6 +24348,7 @@ var inscriptions = new Map([
     "name": "WC3008",
     "parsedInscription": "𐘮𐘆𐘝𐘘𐘱𐘳𐘆",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3008a-Tracing.jpg",
         "images/WC3008b-Tracing.jpg"
@@ -23757,6 +24375,7 @@ var inscriptions = new Map([
     "name": "WC3009",
     "parsedInscription": "𐙹𐘆𐘲𐘾𐙓",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3009a-Tracing.jpg",
         "images/WC3009b-Tracing.jpg"
@@ -23782,6 +24401,7 @@ var inscriptions = new Map([
     "name": "WC3010",
     "parsedInscription": "𐙹𐘆𐘅𐘲𐘾",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3010-Tracing.jpg"
     ],
@@ -23803,6 +24423,7 @@ var inscriptions = new Map([
     "name": "WC3011",
     "parsedInscription": "𐙀𐘆𐘴",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3011-Tracing.jpg"
     ],
@@ -23825,6 +24446,7 @@ var inscriptions = new Map([
     "name": "WC3012",
     "parsedInscription": "𐙀𐘆𐘴𐘙𐘁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3012a-Tracing.jpg",
         "images/WC3012b-Tracing.jpg"
@@ -23850,6 +24472,7 @@ var inscriptions = new Map([
     "name": "WC3013",
     "parsedInscription": "𐙓",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3013-Tracing.jpg"
     ],
@@ -23872,6 +24495,7 @@ var inscriptions = new Map([
     "name": "WC3014",
     "parsedInscription": "𐙂𐘻𐘅𐘿𐄁𐘒",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3014a-Tracing.jpg",
         "images/WC3014b-Tracing.jpg"
@@ -23901,6 +24525,7 @@ var inscriptions = new Map([
     "name": "WC3015",
     "parsedInscription": "𐘾𐙂𐘂𐙗",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3015a-Tracing.jpg",
         "images/WC3015b-Tracing.jpg"
@@ -23924,6 +24549,7 @@ var inscriptions = new Map([
     "name": "WC3016",
     "parsedInscription": "𐘾𐙂𐘂𐜝𐜙",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘾𐙂𐘂𐜝𐜙",
     "translatedWords": [
@@ -23944,6 +24570,7 @@ var inscriptions = new Map([
     "name": "WC3017",
     "parsedInscription": "𐘌𐙂𐘙𐄁𐘆𐙚𐄁𐜙𐜝",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘌𐙂𐘙𐄁𐘆𐙗𐝂𐜝𐜝",
     "translatedWords": [
@@ -23973,6 +24600,7 @@ var inscriptions = new Map([
     "name": "WC<3018>",
     "parsedInscription": "𐘾𐜙",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘾𐜙",
     "translatedWords": [
@@ -23995,6 +24623,7 @@ var inscriptions = new Map([
     "name": "WC3019",
     "parsedInscription": "𐘮𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3019-Tracing.jpg"
     ],
@@ -24019,6 +24648,7 @@ var inscriptions = new Map([
     "name": "WC3021",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/WC3021-Tracing.jpg"
     ],
@@ -24038,6 +24668,7 @@ var inscriptions = new Map([
     "name": "WC3022(?)",
     "parsedInscription": "𐙇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙇",
     "translatedWords": [
@@ -24055,6 +24686,7 @@ var inscriptions = new Map([
     "name": "WC3023",
     "parsedInscription": "",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [],
@@ -24066,6 +24698,7 @@ var inscriptions = new Map([
     "name": "WC3024",
     "parsedInscription": "𐘇𐘴𐘹𐘋\n𐘓𐘓",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘇𐘴𐘹𐘋\n𐘓",
     "translatedWords": [
@@ -24089,6 +24722,7 @@ var inscriptions = new Map([
     "name": "HTWd1617",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙂",
     "translatedWords": [
@@ -24106,6 +24740,7 @@ var inscriptions = new Map([
     "name": "HTWd1663",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙕",
     "translatedWords": [
@@ -24123,6 +24758,7 @@ var inscriptions = new Map([
     "name": "HTWe/Wc3020",
     "parsedInscription": "𐙓𐘬𐜝𐜙",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙓𐘬𐜝𐜙",
     "translatedWords": [
@@ -24145,6 +24781,7 @@ var inscriptions = new Map([
     "name": "HTZb158a",
     "parsedInscription": "𐝫𐄁𐝫𐘹𐘈𐘲𐘸",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐄁𐝫𐘹𐘈𐘲𐘸",
     "translatedWords": [
@@ -24167,6 +24804,7 @@ var inscriptions = new Map([
     "name": "HTZb158b",
     "parsedInscription": "𐘲𐘸𐘭𐘃𐘚𐘱",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘲𐘸𐘭𐘃𐘚𐘱",
     "translatedWords": [
@@ -24186,6 +24824,7 @@ var inscriptions = new Map([
     "name": "HTZb159",
     "parsedInscription": "𐘇𐘅𐘯𐘤𐘱𐘈𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘅𐘯𐘤𐘱𐘈𐝫",
     "translatedWords": [
@@ -24205,6 +24844,7 @@ var inscriptions = new Map([
     "name": "HTZb160",
     "parsedInscription": "𐘂𐘳𐘀𐘬𐘜𐘙𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘂𐘳𐘀𐘬𐘜𐘙𐝫",
     "translatedWords": [
@@ -24224,6 +24864,7 @@ var inscriptions = new Map([
     "name": "HTZb161",
     "parsedInscription": "𐝫𐘤𐘫𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘤𐘫𐝫",
     "translatedWords": [
@@ -24241,6 +24882,7 @@ var inscriptions = new Map([
     "name": "HTZb162",
     "parsedInscription": "𐘆𐄉𐘠𐘬",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘆𐄉𐘠𐘬",
     "translatedWords": [
@@ -24258,6 +24900,7 @@ var inscriptions = new Map([
     "name": "HTZb162bis",
     "parsedInscription": "𐘀",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘀",
     "translatedWords": [
@@ -24277,6 +24920,7 @@ var inscriptions = new Map([
     "name": "HTZd155",
     "parsedInscription": "𐘇𐘶𐄁𐘅𐙁𐙁𐘠𐘠𐙫",
     "scribe": "",
+    "support": "graffito",
     "tracingImages": [],
     "transcription": "𐘇𐘶𐄁𐘅𐙁𐙁𐘠𐘠𐙫",
     "translatedWords": [
@@ -24302,6 +24946,7 @@ var inscriptions = new Map([
     "name": "HTZd157,156,155",
     "parsedInscription": "𐘣𐘱𐘲𐙁𐘠𐘠𐙫𐄇\n𐙫𐄇𐝆\n𐙫𐄈𐝃\n𐙫𐄉𐝃𐝄\n𐘳𐘱𐙫𐝫𐄋𐝫𐝇𐝫\n𐘇𐘶𐄁𐘅𐙁𐘠𐘠𐙫",
     "scribe": "",
+    "support": "graffito",
     "tracingImages": [],
     "transcription": "𐝫𐘗𐄇𐘗𐄇𐝆𐙫𐄈𐝃𐙫𐄉𐝃𐝄𐘳𐘱𐝇𐝫",
     "translatedWords": [
@@ -24393,6 +25038,7 @@ var inscriptions = new Map([
     "name": "HTZd157+156",
     "parsedInscription": "𐄁𐘣𐘱𐘲𐙁𐘠𐘠𐙫𐝫𐘗𐄇𐘗𐄇𐝆𐙫𐄈𐝃𐙫𐄉𐝃𐝄𐘳𐘱𐝇𐝫",
     "scribe": "",
+    "support": "graffito",
     "tracingImages": [],
     "transcription": "|𐘣𐘱𐘲𐙁𐘠𐘠𐙫",
     "translatedWords": [
@@ -24413,6 +25059,7 @@ var inscriptions = new Map([
     "name": "HTZf163",
     "parsedInscription": "𐘀",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘀",
     "translatedWords": [
@@ -24430,6 +25077,7 @@ var inscriptions = new Map([
     "name": "HTZf164",
     "parsedInscription": "𐘀",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘀",
     "translatedWords": [
@@ -24447,6 +25095,7 @@ var inscriptions = new Map([
     "name": "HTZf165",
     "parsedInscription": "𐘚",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘚",
     "translatedWords": [
@@ -24464,6 +25113,7 @@ var inscriptions = new Map([
     "name": "HTZf166",
     "parsedInscription": "𐙯",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐙯",
     "translatedWords": [
@@ -24481,6 +25131,7 @@ var inscriptions = new Map([
     "name": "HTZf167",
     "parsedInscription": "𐙜",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐙜",
     "translatedWords": [
@@ -24498,6 +25149,7 @@ var inscriptions = new Map([
     "name": "HTZf168",
     "parsedInscription": "𐘗\n𐘀",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘗\n𐘀",
     "translatedWords": [
@@ -24521,6 +25173,7 @@ var inscriptions = new Map([
     "name": "HTZf169",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐝫",
     "translatedWords": [
@@ -24538,6 +25191,7 @@ var inscriptions = new Map([
     "name": "HTZg163",
     "parsedInscription": "𐝄",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐝄",
     "translatedWords": [
@@ -24555,6 +25209,7 @@ var inscriptions = new Map([
     "name": "IOZa<1>",
     "parsedInscription": "𐘇𐘧𐘞",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘧𐘞",
     "translatedWords": [
@@ -24574,6 +25229,7 @@ var inscriptions = new Map([
     "name": "IOZa2",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐄁𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/IOZa2-Tracing.jpg"
     ],
@@ -24643,6 +25299,7 @@ var inscriptions = new Map([
     "name": "IOZa3",
     "parsedInscription": "𐄁𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐙄𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/IOZa3-Tracing.jpg"
     ],
@@ -24673,6 +25330,7 @@ var inscriptions = new Map([
     "name": "IOZa4",
     "parsedInscription": "𐝫𐙕𐘮𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/IOZa4-Tracing.jpg"
     ],
@@ -24692,6 +25350,7 @@ var inscriptions = new Map([
     "name": "IOZa5",
     "parsedInscription": "𐝫𐘚𐘱𐘙𐘆𐘱𐄁𐘚𐘱𐘂𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘚𐘱𐘙𐘆𐘱𐄁𐘚𐘱𐘂𐝫",
     "translatedWords": [
@@ -24721,6 +25380,7 @@ var inscriptions = new Map([
     "name": "IOZa6",
     "parsedInscription": "𐘳𐘅𐘚𐙕𐘉𐘠𐘯𐄁𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/IOZa6-Tracing.jpg",
         "images/IOZa6a-Tracing.jpg",
@@ -24761,6 +25421,7 @@ var inscriptions = new Map([
     "name": "IOZa7",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘠𐙭𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/IOZa7-Tracing.jpg"
     ],
@@ -24788,6 +25449,7 @@ var inscriptions = new Map([
     "name": "IOZa8",
     "parsedInscription": "𐝫𐘇𐘅𐘠𐙕𐘮𐘱𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/IOZa8-Tracing.jpg"
     ],
@@ -24809,6 +25471,7 @@ var inscriptions = new Map([
     "name": "IOZa9",
     "parsedInscription": "𐘱𐘞𐘞𐝫𐘴𐘋\n𐄁𐘉𐘅𐘾𐝫𐘅𐘤",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/IOZa9-Tracing.jpg"
     ],
@@ -24840,6 +25503,7 @@ var inscriptions = new Map([
     "name": "IOZb10",
     "parsedInscription": "𐝫𐘇𐘞𐘞𐘴𐘋",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘇𐘞𐘞𐘴𐘋",
     "translatedWords": [
@@ -24857,6 +25521,7 @@ var inscriptions = new Map([
     "name": "IOZa11",
     "parsedInscription": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
     "translatedWords": [
@@ -24895,6 +25560,7 @@ var inscriptions = new Map([
     "name": "IOZa12",
     "parsedInscription": "𐝫𐄁𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐄁𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
     "translatedWords": [
@@ -24930,6 +25596,7 @@ var inscriptions = new Map([
     "name": "IOZa13",
     "parsedInscription": "𐝫𐄁𐝫𐙁𐘚𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐄁𐝫𐙁𐘚𐝫",
     "translatedWords": [
@@ -24950,6 +25617,7 @@ var inscriptions = new Map([
     "name": "IOZa14",
     "parsedInscription": "𐘤𐝫𐘘𐘃𐄁𐘚𐘆𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘤𐝫𐘘𐘃𐄁𐘚𐘆𐝫",
     "translatedWords": [
@@ -24973,6 +25641,7 @@ var inscriptions = new Map([
     "name": "IOZa15",
     "parsedInscription": "𐝫𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐝫𐘃",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐝫𐘃",
     "translatedWords": [
@@ -24996,6 +25665,7 @@ var inscriptions = new Map([
     "name": "IOZa16",
     "parsedInscription": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
     "translatedWords": [
@@ -25033,6 +25703,7 @@ var inscriptions = new Map([
     "name": "KAZf1",
     "parsedInscription": "𐘹𐘯𐄁",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘹𐘯𐄁",
     "translatedWords": [
@@ -25053,6 +25724,7 @@ var inscriptions = new Map([
     "name": "KAMZb1",
     "parsedInscription": "𐘯𐘁𐄁𐝫𐄁",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘯𐘁𐄁𐝫𐄁",
     "translatedWords": [
@@ -25076,6 +25748,7 @@ var inscriptions = new Map([
     "name": "KANZa1",
     "parsedInscription": "𐘇𐝫𐄁𐝫𐘚\n𐝫\n𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘇𐝫𐄁𐝫𐘚\n𐝫\n𐝫",
     "translatedWords": [
@@ -25113,6 +25786,7 @@ var inscriptions = new Map([
     "name": "KE1",
     "parsedInscription": "𐘾𐘞𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KE1-Tracing.jpg"
     ],
@@ -25144,6 +25818,7 @@ var inscriptions = new Map([
     "name": "KEWc2",
     "parsedInscription": "𐝂\n𐝁𐝁",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝂\n𐝁𐝁",
     "translatedWords": [
@@ -25169,6 +25844,7 @@ var inscriptions = new Map([
     "name": "KEZb3",
     "parsedInscription": "𐘸",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘸",
     "translatedWords": [
@@ -25188,6 +25864,7 @@ var inscriptions = new Map([
     "name": "KEZb4",
     "parsedInscription": "𐄁𐘱𐘤𐘡",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [
         "images/KEZb4-Tracing.jpg"
     ],
@@ -25212,6 +25889,7 @@ var inscriptions = new Map([
     "name": "KEZb5",
     "parsedInscription": "𐜀",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐜀",
     "translatedWords": [
@@ -25229,6 +25907,7 @@ var inscriptions = new Map([
     "name": "KEZb6",
     "parsedInscription": "𐝫𐘜𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘜𐝫",
     "translatedWords": [
@@ -25246,6 +25925,7 @@ var inscriptions = new Map([
     "name": "KEZb7",
     "parsedInscription": "𐝫𐘢𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘢𐝫",
     "translatedWords": [
@@ -25265,6 +25945,7 @@ var inscriptions = new Map([
     "name": "KH1",
     "parsedInscription": "𐝫𐘧𐄁𐛵𐄖𐝫\n𐄉𐝆\n𐘝𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH1-Tracing.jpg"
     ],
@@ -25316,6 +25997,7 @@ var inscriptions = new Map([
     "name": "KH2",
     "parsedInscription": "𐝫\n𐝫𐄑\n𐘹𐝫\n𐙗𐝫𐝃\n𐙚𐜚𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH2-Tracing.jpg"
     ],
@@ -25370,6 +26052,7 @@ var inscriptions = new Map([
     "name": "KH3",
     "parsedInscription": "𐝫\n𐝫𐘯𐄇\n—",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH3-Tracing.jpg"
     ],
@@ -25406,6 +26089,7 @@ var inscriptions = new Map([
     "name": "KH4",
     "parsedInscription": "𐘇𐘬𐘙𐝫\n𐝫𐙚𐄊\n𐙗𐝁𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/KH4-Tracing.jpg"
     ],
@@ -25457,6 +26141,7 @@ var inscriptions = new Map([
     "name": "KH5",
     "parsedInscription": "𐘇𐘸𐘤𐘾𐄁𐘇𐘴𐘉𐘀𐄁\n𐘣𐘞𐘞𐘗𐜚𐄈\n𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁\n𐙂𐘂𐙀𐙗𐝫𐄉𐝫𐝀\n𐘝𐄈𐝆𐝁",
     "scribe": "KH Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/KH5-Tracing.jpg"
     ],
@@ -25550,6 +26235,7 @@ var inscriptions = new Map([
     "name": "KH6",
     "parsedInscription": "𐝫𐜙𐝆\n𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆\n𐚇𐝫\n𐝫𐙗𐝫𐝆\n𐘭𐘳𐘧𐜙𐝫\n𐝫𐘑𐄇\n𐜙𐝆\n𐘕𐄇\n𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇\n𐜙𐝆\n𐘢𐘞𐝫\n𐝫𐜙𐝆\n𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎\n𐙗𐄈𐝆𐝁",
     "scribe": "KH Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/KH6-Tracing.jpg"
     ],
@@ -25727,6 +26413,7 @@ var inscriptions = new Map([
     "name": "KH7a",
     "parsedInscription": "𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊\n𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇\n𐘡𐘅𐘤𐄁𐛪𐄐\n𐜙𐝆\n𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐛪𐄊\n𐜙𐝁\n𐘈𐙙𐄁\n𐙂𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎\n𐜙𐄇𐝆𐝃𐝉𐝫\n𐝫𐝁𐝌\n𐝫",
     "scribe": "KH Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/KH7a-Tracing.jpg"
     ],
@@ -25892,6 +26579,7 @@ var inscriptions = new Map([
     "name": "KH7b",
     "parsedInscription": "𐝫\n—\n𐘉𐘳𐘚𐘈𐜙𐝆𐝫\n𐝫𐘂𐘅𐘹𐜙𐝆\n𐜝𐄇\n𐘤𐄐𐄊\n𐜛𐄈",
     "scribe": "KH Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/KH7b-Tracing.jpg"
     ],
@@ -25970,6 +26658,7 @@ var inscriptions = new Map([
     "name": "KH8",
     "parsedInscription": "𐝫\n𐝫𐘙𐝫\n𐝫𐘳𐄈\n𐜙𐝆\n𐘝𐝆\n𐝫𐙉𐝆\n𐙘𐝃\n𐙗𐝃\n𐙇𐝫\n𐝫𐘝𐝃\n𐙢𐄇\n𐚻𐄇",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH8-Tracing.jpg"
     ],
@@ -26084,6 +26773,7 @@ var inscriptions = new Map([
     "name": "KH9",
     "parsedInscription": "𐘇𐘤𐘲𐘊𐘇𐄁𐛨𐝫\n𐝫𐝇\n𐘝𐝃𐝁\n𐘻𐝫\n𐝫𐘚𐘤𐄁𐜙𐝆𐝫\n𐝫𐄈\n𐙗𐝃\n𐙍𐝫\n𐝫𐙗𐝃𐝉𐝫\n𐝫𐝎\n𐛌𐙘𐄇𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH9-Tracing.jpg"
     ],
@@ -26192,6 +26882,7 @@ var inscriptions = new Map([
     "name": "KH10",
     "parsedInscription": "𐝫\n𐝫𐄈\n𐝫𐝆\n𐙉𐄐\n𐘚𐘂𐘞𐘱𐄁𐘌𐙈\n𐘇𐘸𐘢𐘡𐘃𐙉𐄘",
     "scribe": "KH Scribe 5",
+    "support": "tablet",
     "tracingImages": [
         "images/KH10-Tracing.jpg"
     ],
@@ -26261,6 +26952,7 @@ var inscriptions = new Map([
     "name": "KH11",
     "parsedInscription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉\n𐜚𐝇𐝉\n𐙍𐝀\n𐙚𐄊\n𐙗𐝁\n𐚈𐙗𐝇𐝉\n𐘇𐘄𐚉𐘄𐘚𐜚𐄉\n𐘝𐄇\n𐙍𐄉\n𐘇𐘳𐚊𐙕𐄇\n𐙚𐄇\n𐘤𐙗𐝇𐝉",
     "scribe": "KH Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/KH11-Tracing.jpg"
     ],
@@ -26408,6 +27100,7 @@ var inscriptions = new Map([
     "name": "KH12",
     "parsedInscription": "𐝫𐙗𐝫𐄈\n𐙜𐝆\n𐛚𐝆\n𐝫𐝁\n𐙻𐝫𐝫𐝁\n𐛀\n𐝫𐝇\n𐜫𐝂\n𐜩𐝍𐝫\n𐝫𐜩𐝍𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH12-Tracing.jpg"
     ],
@@ -26510,6 +27203,7 @@ var inscriptions = new Map([
     "name": "KH13",
     "parsedInscription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉\n𐙘𐝫𐙗𐝁𐝫\n𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH13-Tracing.jpg"
     ],
@@ -26585,6 +27279,7 @@ var inscriptions = new Map([
     "name": "KH14",
     "parsedInscription": "𐝫𐘴𐄁\n𐘇𐙁𐘱𐄁𐙗𐄌𐝫\n𐝫𐙗𐝃\n𐙼𐄈\n𐙗𐝇𐝫\n𐝫𐘝𐝃\n𐛨𐄈𐝫\n𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH14-Tracing.jpg"
     ],
@@ -26681,6 +27376,7 @@ var inscriptions = new Map([
     "name": "KH15",
     "parsedInscription": "𐝫𐙗𐝫𐝆\n𐘝𐝆\n𐝫𐘝𐝃",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH15-Tracing.jpg"
     ],
@@ -26723,6 +27419,7 @@ var inscriptions = new Map([
     "name": "KH16",
     "parsedInscription": "𐝫𐄑𐄈\n𐙗𐝇𐝉𐝫\n𐝫𐘉𐘳𐘚𐘤𐜙𐝫\n𐝫𐝆\n𐘳𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH16-Tracing.jpg"
     ],
@@ -26780,6 +27477,7 @@ var inscriptions = new Map([
     "name": "KH17",
     "parsedInscription": "𐝫\n𐝫𐝫\n𐝫𐄊𐝆𐝁\n𐘝𐝫\n𐝫𐘝𐄇\n𐘇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH17-Tracing.jpg"
     ],
@@ -26843,6 +27541,7 @@ var inscriptions = new Map([
     "name": "KH18",
     "parsedInscription": "𐝫\n𐝫𐜨\n𐝫𐄋\n𐘚𐙂𐘢𐝫\n𐝫𐙏𐄇\n𐙂𐄑𐄈\n𐘤𐝫\n𐝫𐚵𐙏𐄇\n𐚶𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH18-Tracing.jpg"
     ],
@@ -26924,6 +27623,7 @@ var inscriptions = new Map([
     "name": "KH19",
     "parsedInscription": "𐝫𐙚𐛨𐄐𐄉𐝫\n𐝫𐄈\n𐜐𐝁𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH19-Tracing.jpg"
     ],
@@ -26963,6 +27663,7 @@ var inscriptions = new Map([
     "name": "KH20",
     "parsedInscription": "𐝫\n𐝫\n𐘇𐘤𐘸𐘴𐄁𐜚𐝫\n𐝫𐝁\n𐝫𐘬𐘙𐘍𐄁𐜚𐝆\n𐘝𐝃",
     "scribe": "KH Scribe 3",
+    "support": "tablet",
     "tracingImages": [
         "images/KH20-Tracing.jpg"
     ],
@@ -27032,6 +27733,7 @@ var inscriptions = new Map([
     "name": "KH21",
     "parsedInscription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂\n𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
     "translatedWords": [
@@ -27081,6 +27783,7 @@ var inscriptions = new Map([
     "name": "KH22",
     "parsedInscription": "𐝫𐘍𐄁𐘲𐄍\n𐜚𐝫\n𐝫𐘤𐄊\n𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘍𐄁𐘲𐄍𐜚𐝫\n𐝫𐘤𐄊𐙗𐝫\n𐝫",
     "translatedWords": [
@@ -27136,6 +27839,7 @@ var inscriptions = new Map([
     "name": "KH23",
     "parsedInscription": "𐘇𐘬𐝫\n𐝫𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/KH23-Tracing.jpg"
     ],
@@ -27169,6 +27873,7 @@ var inscriptions = new Map([
     "name": "KH24",
     "parsedInscription": "𐝫𐘲𐄐𐄈𐝫\n𐝫𐝉\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH24-Tracing.jpg"
     ],
@@ -27205,6 +27910,7 @@ var inscriptions = new Map([
     "name": "KH25",
     "parsedInscription": "𐝫𐙇𐄙𐄓𐝫\n𐝫𐙇𐄐𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH25-Tracing.jpg"
     ],
@@ -27244,6 +27950,7 @@ var inscriptions = new Map([
     "name": "KH26",
     "parsedInscription": "𐝫\n𐝫𐙇𐄕𐝫\n𐝫𐘝𐄈𐝃𐝋\n𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH26-Tracing.jpg"
     ],
@@ -27304,6 +28011,7 @@ var inscriptions = new Map([
     "name": "KH27",
     "parsedInscription": "𐝫\n𐝫𐘝𐝫\n𐝫𐛭𐄊𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH27-Tracing.jpg"
     ],
@@ -27340,6 +28048,7 @@ var inscriptions = new Map([
     "name": "KH28",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘈𐄁𐛵𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH28-Tracing.jpg"
     ],
@@ -27379,6 +28088,7 @@ var inscriptions = new Map([
     "name": "KH29",
     "parsedInscription": "𐝫𐘴𐄁𐘷𐝫\n𐝫𐄇\n𐙂𐘂𐝫\n𐝫𐄈\n𐙗𐝆𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH29-Tracing.jpg"
     ],
@@ -27445,6 +28155,7 @@ var inscriptions = new Map([
     "name": "KH30",
     "parsedInscription": "𐝫\n𐝫𐝉𐝫\n𐝫𐘝𐄏",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH30-Tracing.jpg"
     ],
@@ -27481,6 +28192,7 @@ var inscriptions = new Map([
     "name": "KH31",
     "parsedInscription": "𐝫\n𐝫𐜨\n—\n𐝫𐝆\n𐜪𐝫\n𐝫𐄇\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH31-Tracing.jpg"
     ],
@@ -27538,6 +28250,7 @@ var inscriptions = new Map([
     "name": "KH32",
     "parsedInscription": "𐘚𐙷𐝫\n𐝫𐄋𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH32-Tracing.jpg"
     ],
@@ -27571,6 +28284,7 @@ var inscriptions = new Map([
     "name": "KH33",
     "parsedInscription": "𐝫\n𐝫𐜙𐝫\n𐝫𐄇\n𐘇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH33-Tracing.jpg"
     ],
@@ -27616,6 +28330,7 @@ var inscriptions = new Map([
     "name": "KH34",
     "parsedInscription": "𐝫𐜚𐄈\n𐘝𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH34-Tracing.jpg"
     ],
@@ -27655,6 +28370,7 @@ var inscriptions = new Map([
     "name": "KH35",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄇\n𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH35-Tracing.jpg"
     ],
@@ -27697,6 +28413,7 @@ var inscriptions = new Map([
     "name": "KH36",
     "parsedInscription": "𐝫𐘾𐄁𐛚𐄊𐝫\n𐝫𐘅𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH36-Tracing.jpg"
     ],
@@ -27739,6 +28456,7 @@ var inscriptions = new Map([
     "name": "KH37",
     "parsedInscription": "𐜜𐄈\n𐘣𐝫\n𐜜\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH37-Tracing.jpg"
     ],
@@ -27781,6 +28499,7 @@ var inscriptions = new Map([
     "name": "KH38",
     "parsedInscription": "𐝫\n𐝫\n𐜙𐝆𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/KH38-Tracing.jpg"
     ],
@@ -27823,6 +28542,7 @@ var inscriptions = new Map([
     "name": "KH39",
     "parsedInscription": "𐘇𐘳𐝫\n𐝫𐜐𐝫\n𐝫",
     "scribe": "KH Scribe 3",
+    "support": "tablet",
     "tracingImages": [
         "images/KH39-Tracing.jpg"
     ],
@@ -27856,6 +28576,7 @@ var inscriptions = new Map([
     "name": "KH40",
     "parsedInscription": "𐝫\n𐝫𐘤𐘅𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH40-Tracing.jpg"
     ],
@@ -27889,6 +28610,7 @@ var inscriptions = new Map([
     "name": "KH41",
     "parsedInscription": "𐝫𐄉\n𐝫𐘾𐘳𐘙𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH41-Tracing.jpg"
     ],
@@ -27922,6 +28644,7 @@ var inscriptions = new Map([
     "name": "KH42",
     "parsedInscription": "𐝫\n𐝫𐜟𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH42-Tracing.jpg"
     ],
@@ -27955,6 +28678,7 @@ var inscriptions = new Map([
     "name": "KH43",
     "parsedInscription": "𐝫𐛢𐘙𐄈\n𐛇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH43-Tracing.jpg"
     ],
@@ -27991,6 +28715,7 @@ var inscriptions = new Map([
     "name": "KH44",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙻𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH44-Tracing.jpg"
     ],
@@ -28030,6 +28755,7 @@ var inscriptions = new Map([
     "name": "KH45",
     "parsedInscription": "𐘇𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH45-Tracing.jpg"
     ],
@@ -28063,6 +28789,7 @@ var inscriptions = new Map([
     "name": "KH46",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝋\n𐙍𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH46-Tracing.jpg"
     ],
@@ -28108,6 +28835,7 @@ var inscriptions = new Map([
     "name": "KH47",
     "parsedInscription": "𐝫\n𐝫𐘌𐘗𐝫\n𐝫𐄌\n𐘤𐝫\n𐝫𐘴𐄁𐙚𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH47-Tracing.jpg"
     ],
@@ -28159,6 +28887,7 @@ var inscriptions = new Map([
     "name": "KH49",
     "parsedInscription": "𐝫\n𐝫𐘘𐝫\n𐝫𐙂𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH49-Tracing.jpg"
     ],
@@ -28198,6 +28927,7 @@ var inscriptions = new Map([
     "name": "KH50",
     "parsedInscription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈\n𐘿𐝫𐄁𐝫𐄇\n—\n—",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH50-Tracing.jpg"
     ],
@@ -28261,6 +28991,7 @@ var inscriptions = new Map([
     "name": "KH51",
     "parsedInscription": "𐝫𐘤𐘚𐘤𐄉\n𐝫𐄊\n𐘹𐝫\n𐝫",
     "scribe": "KH Scribe 4",
+    "support": "tablet",
     "tracingImages": [
         "images/KH51-Tracing.jpg"
     ],
@@ -28303,6 +29034,7 @@ var inscriptions = new Map([
     "name": "KH52",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘳𐘉𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH52-Tracing.jpg"
     ],
@@ -28342,6 +29074,7 @@ var inscriptions = new Map([
     "name": "KH53",
     "parsedInscription": "𐝫𐘇𐘋𐙌𐄁\n𐘗𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH53-Tracing.jpg"
     ],
@@ -28378,6 +29111,7 @@ var inscriptions = new Map([
     "name": "KH54",
     "parsedInscription": "𐝫𐜚𐄇\n𐙉𐝫𐄇𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH54-Tracing.jpg"
     ],
@@ -28423,6 +29157,7 @@ var inscriptions = new Map([
     "name": "KH55",
     "parsedInscription": "𐝫\n𐝫\n𐜐𐝁𐝫\n𐄉𐝫\n𐘝𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH55-Tracing.jpg"
     ],
@@ -28477,6 +29212,7 @@ var inscriptions = new Map([
     "name": "KH56",
     "parsedInscription": "𐝫𐝕𐝉𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH56-Tracing.jpg"
     ],
@@ -28510,6 +29246,7 @@ var inscriptions = new Map([
     "name": "KH57",
     "parsedInscription": "𐝫\n𐝫𐘹𐝫\n𐝫𐘎𐄇𐝫\n𐝫𐙗𐝫𐝃𐝫\n𐝫",
     "scribe": "KH Scribe 4",
+    "support": "tablet",
     "tracingImages": [
         "images/KH57-Tracing.jpg"
     ],
@@ -28561,6 +29298,7 @@ var inscriptions = new Map([
     "name": "KH58",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙗𐝫𐄊\n𐘝𐝫\n𐝫𐜚𐄇𐝃\n𐘇𐝫\n𐝫𐜚𐄊𐝫\n𐝫𐙗𐝫𐝆\n𐘇𐙕𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH58-Tracing.jpg"
     ],
@@ -28645,6 +29383,7 @@ var inscriptions = new Map([
     "name": "KH59",
     "parsedInscription": "𐝫\n𐝫𐄇\n𐝫𐘚𐄋\n𐝫𐘆𐘅𐄋\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH59-Tracing.jpg"
     ],
@@ -28696,6 +29435,7 @@ var inscriptions = new Map([
     "name": "KH60",
     "parsedInscription": "𐝫𐘴𐘸𐘳𐘅𐘤𐝫\n𐝫𐙏𐝍\n𐘷𐙗𐝫\n𐝫𐝂\n𐛚𐝂𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH60-Tracing.jpg"
     ],
@@ -28759,6 +29499,7 @@ var inscriptions = new Map([
     "name": "KH61",
     "parsedInscription": "𐝫\n𐝫𐄑𐝫\n𐝫𐄇\n𐙁𐝫\n𐝫𐝁\n𐜐𐝉𐝫\n𐝫𐙗𐝫𐄈\n𐙉𐄇𐝍",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH61-Tracing.jpg"
     ],
@@ -28834,6 +29575,7 @@ var inscriptions = new Map([
     "name": "KH62",
     "parsedInscription": "𐝫\n𐝫𐙁𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH62-Tracing.jpg"
     ],
@@ -28861,6 +29603,7 @@ var inscriptions = new Map([
     "name": "KH63",
     "parsedInscription": "𐝫\n𐝫𐘲𐄐𐝫\n𐝫𐜩𐝉𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH63-Tracing.jpg"
     ],
@@ -28906,6 +29649,7 @@ var inscriptions = new Map([
     "name": "KH64",
     "parsedInscription": "𐝫\n𐝫𐘳𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH64-Tracing.jpg"
     ],
@@ -28945,6 +29689,7 @@ var inscriptions = new Map([
     "name": "KH65",
     "parsedInscription": "𐝫\n𐝫𐘝𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH65-Tracing.jpg"
     ],
@@ -28978,6 +29723,7 @@ var inscriptions = new Map([
     "name": "KH66",
     "parsedInscription": "𐝫𐄒𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH66-Tracing.jpg"
     ],
@@ -29005,6 +29751,7 @@ var inscriptions = new Map([
     "name": "KH67",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH67-Tracing.jpg"
     ],
@@ -29042,6 +29789,7 @@ var inscriptions = new Map([
     "name": "KH68+71",
     "parsedInscription": "𐝫\n𐝫𐜨𐝉𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐜨𐝉𐝫\n𐝫\n𐝫",
     "translatedWords": [
@@ -29082,6 +29830,7 @@ var inscriptions = new Map([
     "name": "KH69",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH69-Tracing.jpg"
     ],
@@ -29115,6 +29864,7 @@ var inscriptions = new Map([
     "name": "KH70",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH70-Tracing.jpg"
     ],
@@ -29148,6 +29898,7 @@ var inscriptions = new Map([
     "name": "KH72",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH72-Tracing.jpg"
     ],
@@ -29181,6 +29932,7 @@ var inscriptions = new Map([
     "name": "KH73",
     "parsedInscription": "𐝫\n𐝫𐝉\n𐘇𐝫\n𐝫𐄇\n𐘝𐄇\n𐜝𐄇𐝫\n𐝫𐝇\n𐘇𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH73-Tracing.jpg"
     ],
@@ -29256,6 +30008,7 @@ var inscriptions = new Map([
     "name": "KH74",
     "parsedInscription": "𐝫𐘤𐄁𐘱𐘀𐘲𐝫\n𐝫𐘤𐝥𐘻\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH74-Tracing.jpg"
     ],
@@ -29295,6 +30048,7 @@ var inscriptions = new Map([
     "name": "KH75",
     "parsedInscription": "𐝫\n𐝫𐝆𐝫\n𐝫𐙗𐝫𐝇𐝉\n𐘝𐝁\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH75-Tracing.jpg"
     ],
@@ -29346,6 +30100,7 @@ var inscriptions = new Map([
     "name": "KH76",
     "parsedInscription": "𐝫\n𐝫𐘤𐄊𐝫\n𐝫𐙗𐝫𐝃𐝌\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH76-Tracing.jpg"
     ],
@@ -29391,6 +30146,7 @@ var inscriptions = new Map([
     "name": "KH77",
     "parsedInscription": "𐝫𐙗𐝫𐝍\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH77-Tracing.jpg"
     ],
@@ -29421,6 +30177,7 @@ var inscriptions = new Map([
     "name": "KH78",
     "parsedInscription": "𐝫\n𐝫𐄒𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH78-Tracing.jpg"
     ],
@@ -29454,6 +30211,7 @@ var inscriptions = new Map([
     "name": "KH79",
     "parsedInscription": "𐝫\n𐝫𐘂𐘀𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH79-Tracing.jpg"
     ],
@@ -29487,6 +30245,7 @@ var inscriptions = new Map([
     "name": "KH79+89",
     "parsedInscription": "𐝫𐘻𐘅𐝫\n𐝫𐘂𐘳𐄁𐘇𐘴𐝫\n𐝫𐘂𐘀𐘝\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH79+89-Tracing.jpg"
     ],
@@ -29532,6 +30291,7 @@ var inscriptions = new Map([
     "name": "KH80",
     "parsedInscription": "𐝫𐝂\n𐙖𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH80-Tracing.jpg"
     ],
@@ -29565,6 +30325,7 @@ var inscriptions = new Map([
     "name": "KH81",
     "parsedInscription": "𐝫\n𐝫\n𐄋𐝫\n𐛛𐄢𐝫\n𐝫𐄉\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH81-Tracing.jpg"
     ],
@@ -29619,6 +30380,7 @@ var inscriptions = new Map([
     "name": "KH82",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐜏𐝉𐝫\n𐝫𐙧𐄇𐝫\n𐝫𐙼𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH82-Tracing.jpg"
     ],
@@ -29676,6 +30438,7 @@ var inscriptions = new Map([
     "name": "KH83",
     "parsedInscription": "𐝫𐄁\n𐘇𐘆𐘗𐝫\n𐄐𐄋\n𐜩𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH83-Tracing.jpg"
     ],
@@ -29721,6 +30484,7 @@ var inscriptions = new Map([
     "name": "KH84",
     "parsedInscription": "𐝫\n𐝫𐙗𐝆𐝫\n𐝫𐙕𐄇\n𐙚𐝫\n𐜩𐝫\n𐝫",
     "scribe": "KH Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/KH84-Tracing.jpg"
     ],
@@ -29778,6 +30542,7 @@ var inscriptions = new Map([
     "name": "KH85",
     "parsedInscription": "𐝫\n𐝫𐜐𐝆\n𐙜𐝫\n𐝫𐜩𐝇\n𐙏𐝫\n𐝫𐙘𐝫\n𐝫𐙗𐝫𐝂𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/KH85-Tracing.jpg"
     ],
@@ -29850,6 +30615,7 @@ var inscriptions = new Map([
     "name": "KH86",
     "parsedInscription": "𐝫𐘙𐘍𐙗𐝫\n𐝫𐙗𐝫𐝀𐝁𐝁\n𐘢𐘯𐝫\n𐝫𐄉𐝫\n𐝫𐙗𐝫𐝕𐝫\n𐝫",
     "scribe": "KH Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/KH86-Tracing.jpg"
     ],
@@ -29910,6 +30676,7 @@ var inscriptions = new Map([
     "name": "KH87",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝉\n𐙚𐝫\n𐝫𐝆\n𐘖𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH87-Tracing.jpg"
     ],
@@ -29962,6 +30729,7 @@ var inscriptions = new Map([
     "name": "KH88",
     "parsedInscription": "𐘌𐘯𐙁𐄁𐘐𐙈𐄁𐘝𐄐\n𐘫𐘦𐄎\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH88-Tracing.jpg"
     ],
@@ -30013,6 +30781,7 @@ var inscriptions = new Map([
     "name": "KH90",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘱𐝫\n𐝫𐙁𐘳𐘭𐘳𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KH90-Tracing.jpg"
     ],
@@ -30061,6 +30830,7 @@ var inscriptions = new Map([
     "name": "KH91",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫\n𐙉𐄇\n𐙍𐝫\n𐝫𐙨𐄇𐝆𐝉\n𐙀𐝫\n𐝫𐝀\n𐘹𐝇\n𐘝𐝫\n𐝫𐜩𐝇\n𐜪𐝫\n𐝫",
     "scribe": "KH Scribe 6",
+    "support": "tablet",
     "tracingImages": [
         "images/KH91-Tracing.jpg"
     ],
@@ -30161,6 +30931,7 @@ var inscriptions = new Map([
     "name": "KH92",
     "parsedInscription": "𐘇𐘀𐘐𐘭\n𐙂𐘝𐘃𐄐𐝫\n𐝫𐘅𐘸𐄇𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘇𐘀𐘐𐘭𐙂𐘝𐘃𐄐𐝫\n𐝫𐘅𐘸𐄇𐝫\n𐝫",
     "translatedWords": [
@@ -30211,6 +30982,7 @@ var inscriptions = new Map([
     "name": "KH93",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫",
     "translatedWords": [
@@ -30228,6 +31000,7 @@ var inscriptions = new Map([
     "name": "KH94",
     "parsedInscription": "𐝫\n𐝫𐘌𐝫𐘫\n𐝫𐄐𐄍\n𐘚𐝫𐘍𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐚻𐝫\n𐝫𐄐𐄍𐘚𐝫\n𐝫𐘍𐝫\n𐝫",
     "translatedWords": [
@@ -30269,6 +31042,7 @@ var inscriptions = new Map([
     "name": "KH95",
     "parsedInscription": "𐝫\n𐘈𐄍𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐘈𐄍𐝫",
     "translatedWords": [
@@ -30295,6 +31069,7 @@ var inscriptions = new Map([
     "name": "KH96",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝈𐝀𐝀",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫\n𐝫𐝈𐝀𐝀",
     "translatedWords": [
@@ -30324,6 +31099,7 @@ var inscriptions = new Map([
     "name": "KH97a",
     "parsedInscription": "𐝫𐘙𐘇𐘱𐝫\n𐝫𐘅𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘙𐘇𐘱𐝫\n𐝫𐘅𐝫\n𐝫",
     "translatedWords": [
@@ -30353,6 +31129,7 @@ var inscriptions = new Map([
     "name": "KH97b",
     "parsedInscription": "𐝫𐘈𐘚𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘈𐘚𐝫\n𐝫\n𐝫",
     "translatedWords": [
@@ -30382,6 +31159,7 @@ var inscriptions = new Map([
     "name": "KH99",
     "parsedInscription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫\n𐝫",
     "translatedWords": [
@@ -30411,6 +31189,7 @@ var inscriptions = new Map([
     "name": "KH100",
     "parsedInscription": "𐚌𐙚𐝫\n𐝫𐘁𐙍𐝫\n𐝫𐘥𐝃𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐚌𐙚𐝫\n𐘁𐙍𐝫\n𐘥𐝃𐝫\n𐝫",
     "translatedWords": [
@@ -30452,6 +31231,7 @@ var inscriptions = new Map([
     "name": "KH101",
     "parsedInscription": "",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [],
@@ -30463,6 +31243,7 @@ var inscriptions = new Map([
     "name": "KH102",
     "parsedInscription": "",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [],
@@ -30474,6 +31255,7 @@ var inscriptions = new Map([
     "name": "KHWa1001",
     "parsedInscription": "𐜡𐚳",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐜡𐚳 𐜡𐚳¹⁰⁰²",
     "translatedWords": [
@@ -30494,6 +31276,7 @@ var inscriptions = new Map([
     "name": "KHWa1002",
     "parsedInscription": "𐜡𐚳",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30514,6 +31297,7 @@ var inscriptions = new Map([
     "name": "KHWa1003",
     "parsedInscription": "𐙃",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐙃",
     "translatedWords": [
@@ -30531,6 +31315,7 @@ var inscriptions = new Map([
     "name": "KHWa1004",
     "parsedInscription": "𐙃",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐙃",
     "translatedWords": [
@@ -30548,6 +31333,7 @@ var inscriptions = new Map([
     "name": "KHWa1005-1008",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐘼",
     "translatedWords": [
@@ -30565,6 +31351,7 @@ var inscriptions = new Map([
     "name": "KHWa1009,1010",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30582,6 +31369,7 @@ var inscriptions = new Map([
     "name": "KHWa1011",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐙕",
     "translatedWords": [
@@ -30599,6 +31387,7 @@ var inscriptions = new Map([
     "name": "KHWa1012",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30616,6 +31405,7 @@ var inscriptions = new Map([
     "name": "KHWa1013",
     "parsedInscription": "𐙅𐘁",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐙅𐘁",
     "translatedWords": [
@@ -30633,6 +31423,7 @@ var inscriptions = new Map([
     "name": "KHWa1014,1015",
     "parsedInscription": "𐙅𐘁",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30650,6 +31441,7 @@ var inscriptions = new Map([
     "name": "KHWa1016",
     "parsedInscription": "𐙅𐘁",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30667,6 +31459,7 @@ var inscriptions = new Map([
     "name": "KHWa1017",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐙕",
     "translatedWords": [
@@ -30684,6 +31477,7 @@ var inscriptions = new Map([
     "name": "KHWa1018",
     "parsedInscription": "𐚟",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐚟",
     "translatedWords": [
@@ -30701,6 +31495,7 @@ var inscriptions = new Map([
     "name": "KHWa1019",
     "parsedInscription": "𐝃",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐝃",
     "translatedWords": [
@@ -30718,6 +31513,7 @@ var inscriptions = new Map([
     "name": "KHWa1020",
     "parsedInscription": "𐝫𐄁",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐝫𐄁",
     "translatedWords": [
@@ -30738,6 +31534,7 @@ var inscriptions = new Map([
     "name": "KHWc2001",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘵 𐘵²⁰⁰¹",
     "translatedWords": [
@@ -30755,6 +31552,7 @@ var inscriptions = new Map([
     "name": "KHWc2002",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30772,6 +31570,7 @@ var inscriptions = new Map([
     "name": "KHWc2003",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝫",
     "translatedWords": [
@@ -30789,6 +31588,7 @@ var inscriptions = new Map([
     "name": "KHWc2004",
     "parsedInscription": "𐙇𐝫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙇𐝫",
     "translatedWords": [
@@ -30806,6 +31606,7 @@ var inscriptions = new Map([
     "name": "KHWc2005",
     "parsedInscription": "𐘾𐘅𐘝𐘠",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘾𐘅𐘝𐘠",
     "translatedWords": [
@@ -30823,6 +31624,7 @@ var inscriptions = new Map([
     "name": "KHWc2006",
     "parsedInscription": "𐚱",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐚱",
     "translatedWords": [
@@ -30840,6 +31642,7 @@ var inscriptions = new Map([
     "name": "KHWc2007",
     "parsedInscription": "𐚱",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30857,6 +31660,7 @@ var inscriptions = new Map([
     "name": "KHWc2008",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐚫 𐚩²⁰¹⁰ 𐚩²⁰²⁰",
     "translatedWords": [
@@ -30874,6 +31678,7 @@ var inscriptions = new Map([
     "name": "KHWc2009",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30891,6 +31696,7 @@ var inscriptions = new Map([
     "name": "KHWc2010",
     "parsedInscription": "𐚩",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30908,6 +31714,7 @@ var inscriptions = new Map([
     "name": "KHWc2011",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30925,6 +31732,7 @@ var inscriptions = new Map([
     "name": "KHWc2012",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30942,6 +31750,7 @@ var inscriptions = new Map([
     "name": "KHWc2013",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30959,6 +31768,7 @@ var inscriptions = new Map([
     "name": "KHWc2014",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30976,6 +31786,7 @@ var inscriptions = new Map([
     "name": "KHWc2015",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -30993,6 +31804,7 @@ var inscriptions = new Map([
     "name": "KHWc2016",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31010,6 +31822,7 @@ var inscriptions = new Map([
     "name": "KHWc2017",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31027,6 +31840,7 @@ var inscriptions = new Map([
     "name": "KHWc2018",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31044,6 +31858,7 @@ var inscriptions = new Map([
     "name": "KHWc2019",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31061,6 +31876,7 @@ var inscriptions = new Map([
     "name": "KHWc2020",
     "parsedInscription": "𐚩",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31078,6 +31894,7 @@ var inscriptions = new Map([
     "name": "KHWc2021",
     "parsedInscription": "𐚩",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31095,6 +31912,7 @@ var inscriptions = new Map([
     "name": "KHWc2022",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31112,6 +31930,7 @@ var inscriptions = new Map([
     "name": "KHWc2023",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31129,6 +31948,7 @@ var inscriptions = new Map([
     "name": "KHWc2024",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31146,6 +31966,7 @@ var inscriptions = new Map([
     "name": "KHWc2025",
     "parsedInscription": "𐚩𐝫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31163,6 +31984,7 @@ var inscriptions = new Map([
     "name": "KHWc2026",
     "parsedInscription": "𐙮",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙮",
     "translatedWords": [
@@ -31180,6 +32002,7 @@ var inscriptions = new Map([
     "name": "KHWc2027",
     "parsedInscription": "𐙮",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31197,6 +32020,7 @@ var inscriptions = new Map([
     "name": "KHWc2028",
     "parsedInscription": "𐙔",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙔",
     "translatedWords": [
@@ -31214,6 +32038,7 @@ var inscriptions = new Map([
     "name": "KHWc2029,2030",
     "parsedInscription": "𐛧",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐛧 𐛧²⁰²⁹",
     "translatedWords": [
@@ -31231,6 +32056,7 @@ var inscriptions = new Map([
     "name": "KHWc2031",
     "parsedInscription": "𐛧",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31248,6 +32074,7 @@ var inscriptions = new Map([
     "name": "KHWc2032",
     "parsedInscription": "𐛧",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31265,6 +32092,7 @@ var inscriptions = new Map([
     "name": "KHWc2033",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙐 𐘵²⁰³³ 𐙐²⁰³⁹ 𐙐²⁰⁴⁰ 𐙐²⁰⁴¹",
     "translatedWords": [
@@ -31282,6 +32110,7 @@ var inscriptions = new Map([
     "name": "KHWc2034",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31299,6 +32128,7 @@ var inscriptions = new Map([
     "name": "KHWc2035",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31316,6 +32146,7 @@ var inscriptions = new Map([
     "name": "KHWc2036",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31333,6 +32164,7 @@ var inscriptions = new Map([
     "name": "KHWc2037",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31350,6 +32182,7 @@ var inscriptions = new Map([
     "name": "KHWc2038",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31367,6 +32200,7 @@ var inscriptions = new Map([
     "name": "KHWc2039",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31384,6 +32218,7 @@ var inscriptions = new Map([
     "name": "KHWc2040",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙐",
     "translatedWords": [
@@ -31401,6 +32236,7 @@ var inscriptions = new Map([
     "name": "KHWc2041",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙐",
     "translatedWords": [
@@ -31418,6 +32254,7 @@ var inscriptions = new Map([
     "name": "KHWc2042",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙐",
     "translatedWords": [
@@ -31435,6 +32272,7 @@ var inscriptions = new Map([
     "name": "KHWc2043",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31452,6 +32290,7 @@ var inscriptions = new Map([
     "name": "KHWc2044+2096",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31469,6 +32308,7 @@ var inscriptions = new Map([
     "name": "KHWc2045",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31486,6 +32326,7 @@ var inscriptions = new Map([
     "name": "KHWc2046",
     "parsedInscription": "𐜈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐜈 𐜈²⁰⁴⁷",
     "translatedWords": [
@@ -31503,6 +32344,7 @@ var inscriptions = new Map([
     "name": "KHWc2047",
     "parsedInscription": "𐜈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31520,6 +32362,7 @@ var inscriptions = new Map([
     "name": "KHWc2048",
     "parsedInscription": "𐜈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31537,6 +32380,7 @@ var inscriptions = new Map([
     "name": "KHWc2049",
     "parsedInscription": "𐜈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31554,6 +32398,7 @@ var inscriptions = new Map([
     "name": "KHWc2050",
     "parsedInscription": "𐜈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31571,6 +32416,7 @@ var inscriptions = new Map([
     "name": "KHWc2051",
     "parsedInscription": "𐜈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31588,6 +32434,7 @@ var inscriptions = new Map([
     "name": "KHWc2052",
     "parsedInscription": "𐜈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31605,6 +32452,7 @@ var inscriptions = new Map([
     "name": "KHWc2053",
     "parsedInscription": "𐜈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31622,6 +32470,7 @@ var inscriptions = new Map([
     "name": "KHWc2054",
     "parsedInscription": "𐝥𐘻",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝥𐘻 𐝥𐘻²⁰⁵⁴ 𐝥𐘻²⁰⁵⁵",
     "translatedWords": [
@@ -31639,6 +32488,7 @@ var inscriptions = new Map([
     "name": "KHWc2055",
     "parsedInscription": "𐝥𐘻",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31656,6 +32506,7 @@ var inscriptions = new Map([
     "name": "KHWc2056",
     "parsedInscription": "𐜥",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐜥",
     "translatedWords": [
@@ -31673,6 +32524,7 @@ var inscriptions = new Map([
     "name": "KHWc2057",
     "parsedInscription": "𐜥",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐛦 𐛦²⁰⁵⁹ 𐛦²⁰⁶²",
     "translatedWords": [
@@ -31690,6 +32542,7 @@ var inscriptions = new Map([
     "name": "KHWc2058",
     "parsedInscription": "𐛦",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31707,6 +32560,7 @@ var inscriptions = new Map([
     "name": "KHWc2059+2091+2092",
     "parsedInscription": "𐛦",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31724,6 +32578,7 @@ var inscriptions = new Map([
     "name": "KHWc2060",
     "parsedInscription": "𐛦",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31741,6 +32596,7 @@ var inscriptions = new Map([
     "name": "KHWc2061",
     "parsedInscription": "𐛦",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31758,6 +32614,7 @@ var inscriptions = new Map([
     "name": "KHWc2062",
     "parsedInscription": "𐛦",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31775,6 +32632,7 @@ var inscriptions = new Map([
     "name": "KHWc2063",
     "parsedInscription": "𐘒",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘒",
     "translatedWords": [
@@ -31792,6 +32650,7 @@ var inscriptions = new Map([
     "name": "KHWc2064",
     "parsedInscription": "𐛝",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐛝",
     "translatedWords": [
@@ -31809,6 +32668,7 @@ var inscriptions = new Map([
     "name": "KHWc2065",
     "parsedInscription": "𐝥𐚋",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝥𐚋",
     "translatedWords": [
@@ -31826,6 +32686,7 @@ var inscriptions = new Map([
     "name": "KHWc2066",
     "parsedInscription": "𐛀",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐛀",
     "translatedWords": [
@@ -31843,6 +32704,7 @@ var inscriptions = new Map([
     "name": "KHWc2067",
     "parsedInscription": "𐙾",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙾 𐙾²⁰⁶⁷",
     "translatedWords": [
@@ -31860,6 +32722,7 @@ var inscriptions = new Map([
     "name": "KHWc2068",
     "parsedInscription": "𐙾",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -31877,6 +32740,7 @@ var inscriptions = new Map([
     "name": "KHWc2069",
     "parsedInscription": "𐘖",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘖",
     "translatedWords": [
@@ -31894,6 +32758,7 @@ var inscriptions = new Map([
     "name": "KHWc2070",
     "parsedInscription": "𐛀",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐛀",
     "translatedWords": [
@@ -31911,6 +32776,7 @@ var inscriptions = new Map([
     "name": "KHWc2074",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝫",
     "translatedWords": [
@@ -31928,6 +32794,7 @@ var inscriptions = new Map([
     "name": "KHWc2079",
     "parsedInscription": "𐚫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐚫",
     "translatedWords": [
@@ -31945,6 +32812,7 @@ var inscriptions = new Map([
     "name": "KHWc2084",
     "parsedInscription": "𐚨",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐚨",
     "translatedWords": [
@@ -31962,6 +32830,7 @@ var inscriptions = new Map([
     "name": "KHWc2088+2089+fr",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝫",
     "translatedWords": [
@@ -31979,6 +32848,7 @@ var inscriptions = new Map([
     "name": "KHWc2095",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙐",
     "translatedWords": [
@@ -31996,6 +32866,7 @@ var inscriptions = new Map([
     "name": "KHWc2097",
     "parsedInscription": "𐛥",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐛥",
     "translatedWords": [
@@ -32013,6 +32884,7 @@ var inscriptions = new Map([
     "name": "KHWc2098",
     "parsedInscription": "𐙮",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙮",
     "translatedWords": [
@@ -32030,6 +32902,7 @@ var inscriptions = new Map([
     "name": "KHWc2099",
     "parsedInscription": "𐛝",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐛝",
     "translatedWords": [
@@ -32047,6 +32920,7 @@ var inscriptions = new Map([
     "name": "KHWc2100",
     "parsedInscription": "𐙇𐚌𐘱",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙇𐚌𐘱",
     "translatedWords": [
@@ -32064,6 +32938,7 @@ var inscriptions = new Map([
     "name": "KHWc2101",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘵",
     "translatedWords": [
@@ -32081,6 +32956,7 @@ var inscriptions = new Map([
     "name": "KHWc2102",
     "parsedInscription": "𐘏",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘏",
     "translatedWords": [
@@ -32098,6 +32974,7 @@ var inscriptions = new Map([
     "name": "KHWc2103",
     "parsedInscription": "𐚨",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐚨",
     "translatedWords": [
@@ -32115,6 +32992,7 @@ var inscriptions = new Map([
     "name": "KHWc2104",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘵",
     "translatedWords": [
@@ -32132,6 +33010,7 @@ var inscriptions = new Map([
     "name": "KHWc2105",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -32149,6 +33028,7 @@ var inscriptions = new Map([
     "name": "KHWc2106",
     "parsedInscription": "𐛧",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐛧",
     "translatedWords": [
@@ -32166,6 +33046,7 @@ var inscriptions = new Map([
     "name": "KHWc2109",
     "parsedInscription": "𐛦",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐛦",
     "translatedWords": [
@@ -32183,6 +33064,7 @@ var inscriptions = new Map([
     "name": "KHWc2110",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘵",
     "translatedWords": [
@@ -32200,6 +33082,7 @@ var inscriptions = new Map([
     "name": "KHWc2111",
     "parsedInscription": "𐙐",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙐",
     "translatedWords": [
@@ -32217,6 +33100,7 @@ var inscriptions = new Map([
     "name": "KHWc2113",
     "parsedInscription": "𐜈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐜈",
     "translatedWords": [
@@ -32234,6 +33118,7 @@ var inscriptions = new Map([
     "name": "KHWc2114",
     "parsedInscription": "𐚨𐝫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐚨𐝫",
     "translatedWords": [
@@ -32253,6 +33138,7 @@ var inscriptions = new Map([
     "name": "KHWc2115",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [
         "images/KHWc2115-Tracing.jpg"
     ],
@@ -32275,6 +33161,7 @@ var inscriptions = new Map([
     "name": "KHWc2117",
     "parsedInscription": "𐙇𐝫\n𐛥",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [
         "images/KHWc2117-Tracing.jpg",
         "images/KHWc2117a-Tracing.jpg"
@@ -32303,6 +33190,7 @@ var inscriptions = new Map([
     "name": "KHWc2118",
     "parsedInscription": "𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [
         "images/KHWc2118-Tracing.jpg"
     ],
@@ -32322,6 +33210,7 @@ var inscriptions = new Map([
     "name": "KHWc2121",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝫",
     "translatedWords": [
@@ -32339,6 +33228,7 @@ var inscriptions = new Map([
     "name": "KHWc2122",
     "parsedInscription": "𐚨",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐚨",
     "translatedWords": [
@@ -32356,6 +33246,7 @@ var inscriptions = new Map([
     "name": "KHWc2123",
     "parsedInscription": "𐝭𐘢𐘾",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝭𐘢𐘾",
     "translatedWords": [
@@ -32373,6 +33264,7 @@ var inscriptions = new Map([
     "name": "KHWc2124",
     "parsedInscription": "𐘮",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘮",
     "translatedWords": [
@@ -32390,6 +33282,7 @@ var inscriptions = new Map([
     "name": "KHZb98",
     "parsedInscription": "𐘝",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘝",
     "translatedWords": [
@@ -32409,6 +33302,7 @@ var inscriptions = new Map([
     "name": "KN1a",
     "parsedInscription": "𐘱𐙂𐘠𐘡𐄚𐄓",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KN1a-Tracing.jpg"
     ],
@@ -32436,6 +33330,7 @@ var inscriptions = new Map([
     "name": "KN1b",
     "parsedInscription": "𐘱𐘬𐘴𐘠𐘡𐄙𐄋",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KN1b-Tracing.jpg"
     ],
@@ -32463,6 +33358,7 @@ var inscriptions = new Map([
     "name": "KN2",
     "parsedInscription": "𐝫𐘘𐘅𐄈\n𐙈𐄉\n𐛁𐄋𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KN2-Tracing.jpg"
     ],
@@ -32511,6 +33407,7 @@ var inscriptions = new Map([
     "name": "KN22a",
     "parsedInscription": "𐝫𐘲𐘶𐘳𐝫𐝫𐄑𐝫\n𐝫𐘾𐘧𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KN22a-Tracing.jpg"
     ],
@@ -32541,6 +33438,7 @@ var inscriptions = new Map([
     "name": "KN22b",
     "parsedInscription": "𐝫𐘊𐘆𐘰𐄙𐄐",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KN22b-Tracing.jpg"
     ],
@@ -32565,6 +33463,7 @@ var inscriptions = new Map([
     "name": "KN22c",
     "parsedInscription": "𐝫𐙁𐘲𐘻𐄁𐝫𐄁𐝫𐘅𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KN22c-Tracing.jpg"
     ],
@@ -32604,6 +33503,7 @@ var inscriptions = new Map([
     "name": "KN28a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘓𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KN28a-Tracing.jpg"
     ],
@@ -32664,6 +33564,7 @@ var inscriptions = new Map([
     "name": "KN28b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘃𐝊𐝫\n𐝫𐄉\n𐛓𐝊𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KN28b-Tracing.jpg"
     ],
@@ -32721,6 +33622,7 @@ var inscriptions = new Map([
     "name": "KN32a",
     "parsedInscription": "𐝫\n𐝫𐘇𐘂𐝫\n𐘇𐘾𐘳𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KN32a-Tracing.jpg"
     ],
@@ -32760,6 +33662,7 @@ var inscriptions = new Map([
     "name": "KN32b",
     "parsedInscription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘞𐘫\n𐘂𐝫\n𐝫𐘱𐘲\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/KN32b-Tracing.jpg"
     ],
@@ -32809,6 +33712,7 @@ var inscriptions = new Map([
     "name": "KN54",
     "parsedInscription": "𐝫\n𐝫𐘫𐘴𐝫\n𐝫𐙏𐝇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐘫𐘴𐝫\n𐝫𐙏𐝇𐝫\n𐝫",
     "translatedWords": [
@@ -32847,6 +33751,7 @@ var inscriptions = new Map([
     "name": "KNWa40",
     "parsedInscription": "𐝫𐄁𐝈𐝫",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐝫𐄁𐝈𐝫",
     "translatedWords": [
@@ -32867,6 +33772,7 @@ var inscriptions = new Map([
     "name": "KNWa50",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐙕",
     "translatedWords": [
@@ -32884,6 +33790,7 @@ var inscriptions = new Map([
     "name": "KNWb33",
     "parsedInscription": "𐘌𐘸𐝫\n𐘯𐘈𐝫",
     "scribe": "",
+    "support": "sealing",
     "tracingImages": [],
     "transcription": "𐘌𐘸𐝫\n𐘯𐘈𐝫",
     "translatedWords": [
@@ -32907,6 +33814,7 @@ var inscriptions = new Map([
     "name": "KNWb50",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "sealing",
     "tracingImages": [],
     "transcription": "𐙕",
     "translatedWords": [
@@ -32924,6 +33832,7 @@ var inscriptions = new Map([
     "name": "KNWb51",
     "parsedInscription": "𐄁",
     "scribe": "",
+    "support": "sealing",
     "tracingImages": [],
     "transcription": "𐄁",
     "translatedWords": [
@@ -32944,6 +33853,7 @@ var inscriptions = new Map([
     "name": "KNWc3",
     "parsedInscription": "𐝫𐘾𐘚𐘾𐝫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝫𐘾𐘚𐘾𐝫",
     "translatedWords": [
@@ -32961,6 +33871,7 @@ var inscriptions = new Map([
     "name": "KNWc23",
     "parsedInscription": "𐘽",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘽",
     "translatedWords": [
@@ -32978,6 +33889,7 @@ var inscriptions = new Map([
     "name": "KNWc26",
     "parsedInscription": "𐘘𐘱𐘝𐘢",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘘𐘱𐘝𐘢",
     "translatedWords": [
@@ -32998,6 +33910,7 @@ var inscriptions = new Map([
     "name": "KNWc29",
     "parsedInscription": "𐘑",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘑",
     "translatedWords": [
@@ -33015,6 +33928,7 @@ var inscriptions = new Map([
     "name": "KNWc30",
     "parsedInscription": "𐝫𐘱𐘴",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝫𐘱𐘴",
     "translatedWords": [
@@ -33032,6 +33946,7 @@ var inscriptions = new Map([
     "name": "KNWc42",
     "parsedInscription": "𐝫𐘅𐘵",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝫𐘅𐘵",
     "translatedWords": [
@@ -33052,6 +33967,7 @@ var inscriptions = new Map([
     "name": "KNWc43",
     "parsedInscription": "𐝫𐝫𐄁𐝫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝫𐄁𐝫",
     "translatedWords": [
@@ -33072,6 +33988,7 @@ var inscriptions = new Map([
     "name": "KNWc48",
     "parsedInscription": "𐝫𐘃𐝫",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝫𐘃𐝫",
     "translatedWords": [
@@ -33093,6 +34010,7 @@ var inscriptions = new Map([
     "name": "KNZa10",
     "parsedInscription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
     "translatedWords": [
@@ -33142,6 +34060,7 @@ var inscriptions = new Map([
     "name": "KNZa17",
     "parsedInscription": "𐝫𐘱𐘿𐄁",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘱𐘿𐄁",
     "translatedWords": [
@@ -33164,6 +34083,7 @@ var inscriptions = new Map([
     "name": "KNZa18",
     "parsedInscription": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
     "translatedWords": [
@@ -33207,6 +34127,7 @@ var inscriptions = new Map([
     "name": "KNZa19",
     "parsedInscription": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
     "translatedWords": [
@@ -33241,6 +34162,7 @@ var inscriptions = new Map([
     "name": "KNZb4",
     "parsedInscription": "𐝫𐘶𐄁𐘱𐘤𐄁𐘤𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘶𐄁𐘱𐘤𐄁𐘤𐝫",
     "translatedWords": [
@@ -33272,6 +34194,7 @@ var inscriptions = new Map([
     "name": "KNZb5",
     "parsedInscription": "𐘇𐘹𐘭𐘤𐘠𐄁",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘹𐘭𐘤𐘠𐄁",
     "translatedWords": [
@@ -33294,6 +34217,7 @@ var inscriptions = new Map([
     "name": "KNZb20",
     "parsedInscription": "𐝫𐘅𐘇𐘰",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘅𐘇𐘰",
     "translatedWords": [
@@ -33311,6 +34235,7 @@ var inscriptions = new Map([
     "name": "KNZb<27>",
     "parsedInscription": "𐘆𐘅𐘉𐄁𐙍𐄐𐄍",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘆𐘅𐘉𐄁𐙍𐄐𐄍",
     "translatedWords": [
@@ -33339,6 +34264,7 @@ var inscriptions = new Map([
     "name": "KNZb34",
     "parsedInscription": "𐛻",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [
         "images/KNZb34-Tracing.jpg"
     ],
@@ -33360,6 +34286,7 @@ var inscriptions = new Map([
     "name": "KNZb35",
     "parsedInscription": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫𐝫𐙖𐄙\n𐘝𐄈",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫𐙖𐄙𐘝𐄈",
     "translatedWords": [
@@ -33392,6 +34319,7 @@ var inscriptions = new Map([
     "name": "KNZb<36>",
     "parsedInscription": "𐙍",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐙍",
     "translatedWords": [
@@ -33409,6 +34337,7 @@ var inscriptions = new Map([
     "name": "KNZb<37>",
     "parsedInscription": "𐙍",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐙍",
     "translatedWords": [
@@ -33426,6 +34355,7 @@ var inscriptions = new Map([
     "name": "KNZb<38>",
     "parsedInscription": "𐙍",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐙍",
     "translatedWords": [
@@ -33443,6 +34373,7 @@ var inscriptions = new Map([
     "name": "KNZb<39>",
     "parsedInscription": "𐘝",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘝",
     "translatedWords": [
@@ -33462,6 +34393,7 @@ var inscriptions = new Map([
     "name": "KNZb40",
     "parsedInscription": "𐘇𐘂𐘸\n𐘉𐘅𐘇",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘂𐘸\n𐘉𐘅𐘇",
     "translatedWords": [
@@ -33485,6 +34417,7 @@ var inscriptions = new Map([
     "name": "KNZb52",
     "parsedInscription": "𐙀𐘭𐘝𐙁",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐙀𐘭𐘝𐙁",
     "translatedWords": [
@@ -33502,6 +34435,7 @@ var inscriptions = new Map([
     "name": "KNZb54",
     "parsedInscription": "𐝫𐘫𐘴𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘫𐘴𐝫",
     "translatedWords": [
@@ -33519,6 +34453,7 @@ var inscriptions = new Map([
     "name": "KNZb56",
     "parsedInscription": "𐘁𐛧",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘁𐛧",
     "translatedWords": [
@@ -33538,6 +34473,7 @@ var inscriptions = new Map([
     "name": "KNZc6",
     "parsedInscription": "𐘟𐘠𐘭𐘇𐘆𐘀𐘸𐘠𐘂𐙂𐄁\n𐘝𐘱𐘯𐄁\n𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀𐄁",
     "scribe": "",
+    "support": "inked inscription",
     "tracingImages": [
         "images/KNZc6-Tracing.jpg"
     ],
@@ -33582,6 +34518,7 @@ var inscriptions = new Map([
     "name": "KNZc7",
     "parsedInscription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫𐄁𐝫",
     "scribe": "",
+    "support": "inked inscription",
     "tracingImages": [],
     "transcription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫𐄁𐝫",
     "translatedWords": [
@@ -33629,6 +34566,7 @@ var inscriptions = new Map([
     "name": "KNZd46",
     "parsedInscription": "𐝫𐘫𐝫",
     "scribe": "",
+    "support": "graffito",
     "tracingImages": [],
     "transcription": "𐝫𐘫𐝫",
     "translatedWords": [
@@ -33648,6 +34586,7 @@ var inscriptions = new Map([
     "name": "KNZe16",
     "parsedInscription": "𐘇𐘢",
     "scribe": "",
+    "support": "architecture",
     "tracingImages": [],
     "transcription": "𐘇𐘢",
     "translatedWords": [
@@ -33665,6 +34604,7 @@ var inscriptions = new Map([
     "name": "KNZe44",
     "parsedInscription": "𐘚𐝫𐘮𐘱",
     "scribe": "",
+    "support": "architecture",
     "tracingImages": [],
     "transcription": "𐘚𐝫𐘮𐘱",
     "translatedWords": [
@@ -33682,6 +34622,7 @@ var inscriptions = new Map([
     "name": "KNZe45",
     "parsedInscription": "𐘾𐘤𐘇𐘃",
     "scribe": "",
+    "support": "architecture",
     "tracingImages": [],
     "transcription": "𐘾𐘤𐘇𐘃",
     "translatedWords": [
@@ -33699,6 +34640,7 @@ var inscriptions = new Map([
     "name": "KNZe49",
     "parsedInscription": "𐘥𐘤𐘃",
     "scribe": "",
+    "support": "architecture",
     "tracingImages": [],
     "transcription": "𐘥𐘤𐘃",
     "translatedWords": [
@@ -33716,6 +34658,7 @@ var inscriptions = new Map([
     "name": "KNZe56",
     "parsedInscription": "𐘵𐘀𐝫",
     "scribe": "",
+    "support": "architecture",
     "tracingImages": [],
     "transcription": "𐘵𐘀𐝫",
     "translatedWords": [
@@ -33735,6 +34678,7 @@ var inscriptions = new Map([
     "name": "KNZf13",
     "parsedInscription": "𐘇𐘙𐘗𐘤𐘆𐙕𐘢𐘥𐘂𐘱𐘳𐘭𐘈𐘃𐘭𐘕𐘇𐘱𐙂",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [
         "images/KNZf13-Tracing.jpg"
     ],
@@ -33757,6 +34701,7 @@ var inscriptions = new Map([
     "name": "KNZf31",
     "parsedInscription": "𐝫𐘤𐝫𐘤𐘍𐘗𐙠𐄁𐘀𐘬𐘻𐘗𐄁𐘌𐘻𐘨𐘅𐘴𐄁𐘇𐘮𐘢𐄁𐘃𐘲𐘦𐘈𐘥𐘚𐄁𐘇𐘀𐘴𐄁𐘠𐘆𐘃𐘌𐘠𐄁𐘳𐘞𐘍𐄁𐘳𐘃𐘚𐘥𐘍𐘙𐄁𐝫",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [
         "images/KNZf31a-Tracing.jpg",
         "images/KNZf31b-Tracing.jpg"
@@ -33828,6 +34773,7 @@ var inscriptions = new Map([
     "name": "KNZg<21>",
     "parsedInscription": "𐛈",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐛈",
     "translatedWords": [
@@ -33845,6 +34791,7 @@ var inscriptions = new Map([
     "name": "KNZg55",
     "parsedInscription": "𐘱𐘞𐘱",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐘱𐘞𐘱",
     "translatedWords": [
@@ -33867,6 +34814,7 @@ var inscriptions = new Map([
     "name": "KOZa1",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱\n𐘹𐘘𐘞𐄁𐘬𐙦𐘙𐄁𐘚𐘀𐘇𐄁\n𐘉𐘅𐘾𐘅𐘤𐄁\n𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐘃",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/KOZa1-Tracing.jpg",
         "images/KOZa1c-Tracing.jpg"
@@ -33929,6 +34877,7 @@ var inscriptions = new Map([
     "name": "KO(?)Zf2",
     "parsedInscription": "𐘇𐘴𐘺𐙂𐙀𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘇𐘴𐘺𐙂𐘌𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍",
     "translatedWords": [
@@ -33946,6 +34895,7 @@ var inscriptions = new Map([
     "name": "KYZa2",
     "parsedInscription": "𐘀𐙁𐘃",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘀𐙁𐘃",
     "translatedWords": [
@@ -33965,6 +34915,7 @@ var inscriptions = new Map([
     "name": "KYZg1",
     "parsedInscription": "𐛴𐛴",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [
         "images/KYZg1-Tracing.jpg"
     ],
@@ -33984,6 +34935,7 @@ var inscriptions = new Map([
     "name": "LAZb1(bis)",
     "parsedInscription": "𐘱𐘠𐘹𐙂",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘱𐘠𐘹𐙂",
     "translatedWords": [
@@ -34003,6 +34955,7 @@ var inscriptions = new Map([
     "name": "MA1a",
     "parsedInscription": "𐄂𐘚𐘬𐘣𐘨\n𐘿𐘦𐘻𐘯𐄁",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA1a-Tracing.jpg"
     ],
@@ -34036,6 +34989,7 @@ var inscriptions = new Map([
     "name": "MA1b",
     "parsedInscription": "𐘇𐙁𐄁𐘨\n𐘿𐘦𐘻𐘯",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA1b-Tracing.jpg"
     ],
@@ -34069,6 +35023,7 @@ var inscriptions = new Map([
     "name": "MA1c",
     "parsedInscription": "𐘠",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA1c-Tracing.jpg"
     ],
@@ -34090,6 +35045,7 @@ var inscriptions = new Map([
     "name": "MA2a",
     "parsedInscription": "𐝫𐘬𐘴𐄋",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA2a-Tracing.jpg"
     ],
@@ -34114,6 +35070,7 @@ var inscriptions = new Map([
     "name": "MA2b",
     "parsedInscription": "𐝫𐘙𐘠𐄊\n𐝫𐘠𐄇\n𐘱𐙂𐄈\n𐘠𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA2b-Tracing.jpg"
     ],
@@ -34162,6 +35119,7 @@ var inscriptions = new Map([
     "name": "MA2c",
     "parsedInscription": "𐝫𐘉𐘅𐘅𐄉\n𐝫𐘱𐙁𐘉𐘠𐄌",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA2c-Tracing.jpg"
     ],
@@ -34195,6 +35153,7 @@ var inscriptions = new Map([
     "name": "MA4a",
     "parsedInscription": "𐘳𐜅𐄐𐄋\n𐜆𐄙𐄑\n𐜄𐄔𐄉\n𐜃𐄒",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA4a-Tracing.jpg"
     ],
@@ -34246,6 +35205,7 @@ var inscriptions = new Map([
     "name": "MA4b",
     "parsedInscription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉\n𐄙𐄕",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA4b-Tracing.jpg"
     ],
@@ -34279,6 +35239,7 @@ var inscriptions = new Map([
     "name": "MA6a",
     "parsedInscription": "𐝫𐙒𐝫𐄡𐄓𐄇\n𐜅𐄒𐄋",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA6a-Tracing.jpg"
     ],
@@ -34312,6 +35273,7 @@ var inscriptions = new Map([
     "name": "MA6b",
     "parsedInscription": "𐝫𐙒𐄞𐄑𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA6b-Tracing.jpg"
     ],
@@ -34336,6 +35298,7 @@ var inscriptions = new Map([
     "name": "MA6c",
     "parsedInscription": "𐝫𐜅𐄊𐝫\n𐙒𐝫𐄗𐄍𐝫\n𐝫𐙒𐝫𐄚𐄒𐄉𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA6c-Tracing.jpg"
     ],
@@ -34378,6 +35341,7 @@ var inscriptions = new Map([
     "name": "MA6d",
     "parsedInscription": "𐝫𐙒𐄚𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA6d-Tracing.jpg"
     ],
@@ -34402,6 +35366,7 @@ var inscriptions = new Map([
     "name": "MA9",
     "parsedInscription": "𐝫𐄣",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA9a-Tracing.jpg"
     ],
@@ -34423,6 +35388,7 @@ var inscriptions = new Map([
     "name": "MA10a",
     "parsedInscription": "𐝫𐘘𐄁𐜲𐄈\n𐜰𐄊\n𐜱𐄊𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘘𐄁𐜲𐄈𐜰𐄊𐜱𐄊𐝫",
     "translatedWords": [
@@ -34469,6 +35435,7 @@ var inscriptions = new Map([
     "name": "MA10b",
     "parsedInscription": "𐝫𐘬𐘢𐘃𐘮𐄁𐜭𐄇\n𐜰𐄉\n𐝫\n𐝫𐄊\n𐜬𐄈\n𐛄𐄈",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘬𐘢𐘃𐘮𐄁𐜭𐄇𐜰𐄉𐝫\n𐝫𐄊𐜬𐄈𐛄𐄈𐝫",
     "translatedWords": [
@@ -34531,6 +35498,7 @@ var inscriptions = new Map([
     "name": "MA10c",
     "parsedInscription": "𐝫𐜰𐄈\n𐜱𐄉\n𐚤𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA10c-Tracing.jpg"
     ],
@@ -34568,6 +35536,7 @@ var inscriptions = new Map([
     "name": "MA10d",
     "parsedInscription": "𐝫𐜴\n𐜳",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MA10d-Tracing.jpg"
     ],
@@ -34593,6 +35562,7 @@ var inscriptions = new Map([
     "name": "MAWc<5>",
     "parsedInscription": "𐘇𐘞𐘀𐘾\n𐛴𐄊",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘇𐘞𐘀𐘾\n𐛴𐄊",
     "translatedWords": [
@@ -34619,6 +35589,7 @@ var inscriptions = new Map([
     "name": "MAWc7",
     "parsedInscription": "𐙒",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙒",
     "translatedWords": [
@@ -34636,6 +35607,7 @@ var inscriptions = new Map([
     "name": "MAZb??",
     "parsedInscription": "𐚥𐝇",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐚥𐝇",
     "translatedWords": [
@@ -34655,6 +35627,7 @@ var inscriptions = new Map([
     "name": "MAZb8",
     "parsedInscription": "𐘱𐘞𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘱𐘞𐝫",
     "translatedWords": [
@@ -34674,6 +35647,7 @@ var inscriptions = new Map([
     "name": "MAZe11",
     "parsedInscription": "𐘿𐘤𐘃",
     "scribe": "",
+    "support": "architecture",
     "tracingImages": [],
     "transcription": "𐘿𐘤𐘃",
     "translatedWords": [
@@ -34691,6 +35665,7 @@ var inscriptions = new Map([
     "name": "MARGWa1-26",
     "parsedInscription": "𐘾",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐘾",
     "translatedWords": [
@@ -34710,6 +35685,7 @@ var inscriptions = new Map([
     "name": "MI2",
     "parsedInscription": "𐘫𐝫\n—\n𐝫𐘬𐘾𐝫\n𐝫𐄁𐝫𐜪𐝫\n—\n𐝫𐘾𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/MI2-Tracing.jpg"
     ],
@@ -34770,6 +35746,7 @@ var inscriptions = new Map([
     "name": "MIZb1",
     "parsedInscription": "𐘸𐘘",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘸𐘘",
     "translatedWords": [
@@ -34787,6 +35764,7 @@ var inscriptions = new Map([
     "name": "MIZb3",
     "parsedInscription": "",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [],
@@ -34798,6 +35776,7 @@ var inscriptions = new Map([
     "name": "MILZb1",
     "parsedInscription": "𐝫𐘰𐘤𐘨",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘰𐘤𐘨",
     "translatedWords": [
@@ -34815,6 +35794,7 @@ var inscriptions = new Map([
     "name": "MOZb2?",
     "parsedInscription": "",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [],
@@ -34826,6 +35806,7 @@ var inscriptions = new Map([
     "name": "MOZb3?",
     "parsedInscription": "",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [],
@@ -34837,6 +35818,7 @@ var inscriptions = new Map([
     "name": "MOZf1",
     "parsedInscription": "𐙹𐘞𐘕",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐙹𐘞𐘕",
     "translatedWords": [
@@ -34854,6 +35836,7 @@ var inscriptions = new Map([
     "name": "MYZa2",
     "parsedInscription": "𐘲",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘲",
     "translatedWords": [
@@ -34871,6 +35854,7 @@ var inscriptions = new Map([
     "name": "MYZf1",
     "parsedInscription": "𐛉",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐛉",
     "translatedWords": [
@@ -34888,6 +35872,7 @@ var inscriptions = new Map([
     "name": "MYZf2",
     "parsedInscription": "𐁁",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐁁",
     "translatedWords": [
@@ -34905,6 +35890,7 @@ var inscriptions = new Map([
     "name": "MYZg1",
     "parsedInscription": "𐘲",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐘲",
     "translatedWords": [
@@ -34922,6 +35908,7 @@ var inscriptions = new Map([
     "name": "NEZa1",
     "parsedInscription": "𐝫𐘚𐘀𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘚𐘀𐝫",
     "translatedWords": [
@@ -34941,6 +35928,7 @@ var inscriptions = new Map([
     "name": "PA1",
     "parsedInscription": "𐘇𐙂𐘶𐘂𐙈𐄒𐄋",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PA1-Tracing.jpg"
     ],
@@ -34963,6 +35951,7 @@ var inscriptions = new Map([
     "name": "PE1",
     "parsedInscription": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅\n𐙂𐘂𐘭𐙇𐄔𐝫\n𐛭𐄑𐄌\n𐘡𐘾𐝫𐙇𐄖𐄈\n𐛭𐄒𐄌",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘉𐘾𐘙𐘇𐘈𐘤\n𐘅𐙂𐘂𐘭𐙇𐄔𐝫\n𐛭𐄑𐄌𐘡𐘾𐝫\n𐙇𐄖𐄈𐛭𐄒\n𐄌",
     "translatedWords": [
@@ -35022,6 +36011,7 @@ var inscriptions = new Map([
     "name": "PE2",
     "parsedInscription": "𐝫\n𐄉𐝁\n𐘘𐘢𐝫𐙙𐘻𐄇𐝄\n𐘇𐙱𐘍𐝃\n𐘇𐘭𐘂𐝃\n𐘌𐘌𐘀𐝆\n𐘄𐘋𐝁\n𐘄𐘪𐘙𐄇\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐄉𐝁𐘘𐘢𐝫𐙙𐘻𐄇𐝄\n𐘇𐙱𐘍𐝃𐘇𐘭𐘂𐝃𐘌𐘌𐘀\n𐝆𐘄𐘋𐝁𐘄𐘪𐘙𐄇\n𐝫",
     "translatedWords": [
@@ -35111,6 +36101,7 @@ var inscriptions = new Map([
     "name": "PEWs",
     "parsedInscription": "𐙉𐘠𐘡𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙉𐘠𐘡𐄇",
     "translatedWords": [
@@ -35131,6 +36122,7 @@ var inscriptions = new Map([
     "name": "PEWy5",
     "parsedInscription": "𐙖𐙛𐄇𐝆",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙖𐙛𐄇𐝆",
     "translatedWords": [
@@ -35154,6 +36146,7 @@ var inscriptions = new Map([
     "name": "PEZb",
     "parsedInscription": "𐝫𐘇𐘯𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘇𐘯𐝫",
     "translatedWords": [
@@ -35171,6 +36164,7 @@ var inscriptions = new Map([
     "name": "PEZb3",
     "parsedInscription": "𐘇𐘾𐘴𐘸𐘳𐘅𐘤𐘱𐘈𐙇𐘍",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘾𐘴𐘸𐘳𐘅𐘤𐘱𐘈𐙇𐘍",
     "translatedWords": [
@@ -35188,6 +36182,7 @@ var inscriptions = new Map([
     "name": "PEZb7",
     "parsedInscription": "𐝫𐘇\n𐘱𐘮𐘢𐄇",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘇\n𐘱𐘮𐘢𐄇",
     "translatedWords": [
@@ -35214,6 +36209,7 @@ var inscriptions = new Map([
     "name": "PEZb8",
     "parsedInscription": "𐘇",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇",
     "translatedWords": [
@@ -35231,6 +36227,7 @@ var inscriptions = new Map([
     "name": "PEZc4",
     "parsedInscription": "𐝫𐘇𐘱𐝫 ≈ 𐝫𐘱𐘤𐝫",
     "scribe": "",
+    "support": "inked inscription",
     "tracingImages": [],
     "transcription": "𐝫𐘇𐘱𐝫 ≈ 𐝫𐘱𐘤𐝫",
     "translatedWords": [
@@ -35254,6 +36251,7 @@ var inscriptions = new Map([
     "name": "PEZg5",
     "parsedInscription": "𐙖𐙛𐄇𐝆",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐙖𐙛𐄇𐝆",
     "translatedWords": [
@@ -35280,6 +36278,7 @@ var inscriptions = new Map([
     "name": "PEZg6",
     "parsedInscription": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
     "translatedWords": [
@@ -35321,6 +36320,7 @@ var inscriptions = new Map([
     "name": "PETSWc",
     "parsedInscription": "",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [],
@@ -35334,6 +36334,7 @@ var inscriptions = new Map([
     "name": "PH1a",
     "parsedInscription": "𐝫𐘆𐘴𐘆𐘅𐙨𐝫𐄁𐝫𐝉\n𐝫𐘱𐄁𐙨𐄇\n𐙗𐝅\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH1a-Tracing.jpg"
     ],
@@ -35394,6 +36395,7 @@ var inscriptions = new Map([
     "name": "PH1b",
     "parsedInscription": "𐝫𐄁𐝫𐘅𐄇\n𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH1b-Tracing.jpg"
     ],
@@ -35439,6 +36441,7 @@ var inscriptions = new Map([
     "name": "PH2",
     "parsedInscription": "𐘇𐘈𐘹𐘐𐄇\n𐘴𐘵𐘆𐘸𐄕\n𐘢𐘘𐘡𐘶𐄕\n𐘈𐘞𐘰𐄕\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH2-Tracing.jpg"
     ],
@@ -35496,6 +36499,7 @@ var inscriptions = new Map([
     "name": "PH3a",
     "parsedInscription": "𐝫𐛠𐄇\n𐘳𐝫\n𐝫𐛡𐄇\n𐛣𐝓\n𐝫𐛢𐝓\n𐘂𐘴𐝓\n𐝫𐘂𐝫\n𐝫𐄇\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH3a-Tracing.jpg"
     ],
@@ -35580,6 +36584,7 @@ var inscriptions = new Map([
     "name": "PH3b",
     "parsedInscription": "𐝫𐛘𐝕𐝫\n𐝫𐘤𐝃𐝫\n𐝫\n𐝫𐘤𐄇𐝃𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH3b-Tracing.jpg"
     ],
@@ -35637,6 +36642,7 @@ var inscriptions = new Map([
     "name": "PH6",
     "parsedInscription": "𐘚𐘅𐘮𐄁\n𐘇𐘭\n𐘚𐙀𐘭𐘝𐘳\n𐘇𐘭\n𐘚𐘀𐘰𐘚𐘞𐘭",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH6-Tracing.jpg"
     ],
@@ -35685,6 +36691,7 @@ var inscriptions = new Map([
     "name": "PH7a",
     "parsedInscription": "𐝫\n𐝫𐘆𐘂𐘱𐝫\n𐝫𐘉𐘆𐘭𐘸𐝫\n𐝫𐘱𐘘𐙁𐘗𐝫\n𐝫𐘱𐘤𐘀𐘴𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH7a-Tracing.jpg"
     ],
@@ -35730,6 +36737,7 @@ var inscriptions = new Map([
     "name": "PH7b",
     "parsedInscription": "𐝫\n𐝫𐘳𐄇𐝈𐝫\n𐝫𐘀𐘴𐝈𐝫\n𐝫𐙏𐝈𐝃\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH7b-Tracing.jpg"
     ],
@@ -35787,6 +36795,7 @@ var inscriptions = new Map([
     "name": "PH8a",
     "parsedInscription": "𐝫\n𐝫𐜵𐄍\n—\n𐝫𐙇𐄐𐄇\n𐙘𐄈\n—\n𐝫𐄐𐄌\n𐜶𐄇\n—\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH8a-Tracing.jpg"
     ],
@@ -35874,6 +36883,7 @@ var inscriptions = new Map([
     "name": "PH8b",
     "parsedInscription": "𐝫\n𐝫𐙨𐄇\n𐜢𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH8b-Tracing.jpg"
     ],
@@ -35916,6 +36926,7 @@ var inscriptions = new Map([
     "name": "PH9a",
     "parsedInscription": "𐙩𐘿𐚍𐝏",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH9a-Tracing.jpg"
     ],
@@ -35940,6 +36951,7 @@ var inscriptions = new Map([
     "name": "PH9b",
     "parsedInscription": "𐝫𐚬𐙍𐄇𐝆𐝆",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH9b-Tracing.jpg"
     ],
@@ -35967,6 +36979,7 @@ var inscriptions = new Map([
     "name": "PH10",
     "parsedInscription": "𐚏𐘡𐚎𐙒𐝈𐝈",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH10-Tracing.jpg"
     ],
@@ -35994,6 +37007,7 @@ var inscriptions = new Map([
     "name": "PH11",
     "parsedInscription": "—\n|||||||||||||\n—",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH11-Tracing.jpg"
     ],
@@ -36027,6 +37041,7 @@ var inscriptions = new Map([
     "name": "PH12a",
     "parsedInscription": "𐙇𐙿𐙒𐄐𐝫𐝈𐝈",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH12a-Tracing.jpg"
     ],
@@ -36054,6 +37069,7 @@ var inscriptions = new Map([
     "name": "PH12b",
     "parsedInscription": "𐝃𐝫\n𐝫𐝃𐝃𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH12b-Tracing.jpg"
     ],
@@ -36081,6 +37097,7 @@ var inscriptions = new Map([
     "name": "PH12c",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH12c-Tracing.jpg"
     ],
@@ -36102,6 +37119,7 @@ var inscriptions = new Map([
     "name": "PH13a",
     "parsedInscription": "𐝫𐙒𐙴𐝫𐝃𐝃",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH13a-Tracing.jpg"
     ],
@@ -36126,6 +37144,7 @@ var inscriptions = new Map([
     "name": "PH13b",
     "parsedInscription": "𐝫𐚐",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH13b-Tracing.jpg"
     ],
@@ -36147,6 +37166,7 @@ var inscriptions = new Map([
     "name": "PH13c",
     "parsedInscription": "𐝫𐘃𐙀𐝃𐝃𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH13c-Tracing.jpg"
     ],
@@ -36171,6 +37191,7 @@ var inscriptions = new Map([
     "name": "PH14a",
     "parsedInscription": "𐝫𐘱𐙘𐘝",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH14a-Tracing.jpg"
     ],
@@ -36195,6 +37216,7 @@ var inscriptions = new Map([
     "name": "PH14b",
     "parsedInscription": "𐘇𐘻𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH14b-Tracing.jpg"
     ],
@@ -36216,6 +37238,7 @@ var inscriptions = new Map([
     "name": "PH15a",
     "parsedInscription": "𐝫𐙁𐘃𐘙𐙿𐄐𐄇𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH15a-Tracing.jpg"
     ],
@@ -36243,6 +37266,7 @@ var inscriptions = new Map([
     "name": "PH15b",
     "parsedInscription": "𐝫𐚑𐙒𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH15b-Tracing.jpg"
     ],
@@ -36265,6 +37289,7 @@ var inscriptions = new Map([
     "name": "PH16a",
     "parsedInscription": "𐝫𐘠𐘅𐝫\n—\n𐝫𐚒𐘝𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘠𐘅𐝫\n—\n𐝫𐚒𐘝𐝫",
     "translatedWords": [
@@ -36294,6 +37319,7 @@ var inscriptions = new Map([
     "name": "PH16b",
     "parsedInscription": "𐝫𐘱𐘞𐝫\n—\n𐝫𐘠𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘱𐘞𐝫\n—\n𐝫𐘠𐝫",
     "translatedWords": [
@@ -36323,6 +37349,7 @@ var inscriptions = new Map([
     "name": "PH17a",
     "parsedInscription": "𐝫𐚓𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐚓𐝫",
     "translatedWords": [
@@ -36340,6 +37367,7 @@ var inscriptions = new Map([
     "name": "PH17b",
     "parsedInscription": "𐝫𐚔𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐚔𐝫",
     "translatedWords": [
@@ -36359,6 +37387,7 @@ var inscriptions = new Map([
     "name": "PH18a",
     "parsedInscription": "𐝫𐘣𐘱𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH18a-Tracing.jpg"
     ],
@@ -36386,6 +37415,7 @@ var inscriptions = new Map([
     "name": "PH18b",
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH18b-Tracing.jpg"
     ],
@@ -36413,6 +37443,7 @@ var inscriptions = new Map([
     "name": "PH19",
     "parsedInscription": "𐘢𐘵𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH19b-Tracing.jpg"
     ],
@@ -36438,6 +37469,7 @@ var inscriptions = new Map([
     "name": "PH22a",
     "parsedInscription": "𐝫𐝆𐝆",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐝆𐝆",
     "translatedWords": [
@@ -36455,6 +37487,7 @@ var inscriptions = new Map([
     "name": "PH22b",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫",
     "translatedWords": [
@@ -36472,6 +37505,7 @@ var inscriptions = new Map([
     "name": "PH24",
     "parsedInscription": "𐘁𐘡",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘁𐘡",
     "translatedWords": [
@@ -36489,6 +37523,7 @@ var inscriptions = new Map([
     "name": "PH25",
     "parsedInscription": "𐙍𐄈𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙍𐄈𐝫\n𐝫\n𐝫",
     "translatedWords": [
@@ -36523,6 +37558,7 @@ var inscriptions = new Map([
     "name": "PH26",
     "parsedInscription": "𐝫𐙦𐝃𐝏𐝏𐝏𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH26-Tracing.jpg"
     ],
@@ -36547,6 +37583,7 @@ var inscriptions = new Map([
     "name": "PH27",
     "parsedInscription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH27-Tracing.jpg"
     ],
@@ -36586,6 +37623,7 @@ var inscriptions = new Map([
     "name": "PH28a",
     "parsedInscription": "𐝫\n𐝫𐘇𐘰𐝫𐄁\n𐘱𐘸𐘰𐝫𐄁\n𐘇𐘭𐘱𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH28a-Tracing.jpg"
     ],
@@ -36631,6 +37669,7 @@ var inscriptions = new Map([
     "name": "PH28b",
     "parsedInscription": "𐝫\n𐝫𐄙𐄈𐝫\n𐝫𐄈\n𐙘𐄌\n𐝫𐄌\n𐝮",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PH28b-Tracing.jpg"
     ],
@@ -36683,6 +37722,7 @@ var inscriptions = new Map([
     "name": "PH29a",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫\n𐝫",
     "translatedWords": [
@@ -36712,6 +37752,7 @@ var inscriptions = new Map([
     "name": "PH29b",
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫\n𐝫",
     "translatedWords": [
@@ -36735,6 +37776,7 @@ var inscriptions = new Map([
     "name": "PH30",
     "parsedInscription": "𐝫\n𐝫𐘠𐝃𐝫\n𐝫𐙁𐘙𐘭𐘻𐘦𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘠𐝃𐝫\n𐝫𐙁𐘙𐘭𐘻𐘦𐝫",
     "translatedWords": [
@@ -36769,6 +37811,7 @@ var inscriptions = new Map([
     "name": "PH(?)31a",
     "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇\n𐙁𐘆𐘑𐄇\n𐘓𐝫\n𐄁𐝫𐘗𐄇\n𐙂𐘰𐘯𐙄𐘤𐘙𐄇\n𐘂𐘳𐘀𐝫𐝫𐄇\n𐙂𐘁𐚾𐄇\n𐘑𐄋\n𐘐𐄉𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇𐙁𐘆𐘑𐄇𐘐𐝫\n𐄁𐝫𐘗𐄇𐙂𐘰𐘯𐙄𐘤𐘙𐄇𐘂𐘳𐘀\n𐝫𐄇𐙂𐘁𐚾𐄇𐘑𐄋𐘐𐄉𐝫",
     "translatedWords": [
@@ -36887,6 +37930,7 @@ var inscriptions = new Map([
     "name": "PH(?)31b",
     "parsedInscription": "𐝫\n𐝫𐘓𐄈\n𐘐𐄇𐝫\n𐝫𐘬𐘭𐘔𐄇\n𐘹𐝫\n𐝫𐘗𐘔𐄇\n𐘓𐄋\n𐘃𐘭𐘑𐝫\n𐝫𐄇\n𐘭𐘘𐙁𐘠𐘑\n𐙄𐘤𐘙\n𐘇𐘻𐘀𐘵𐘑𐄇𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐘓𐄈𐘐𐄇𐝫\n𐝫𐘬𐘭𐘔𐄇𐘹𐝫\n𐝫𐘗𐘔𐄇𐘓𐄋𐘃𐘭𐘑𐝫\n𐝫𐄇𐘭𐘘𐙁𐘠𐘑𐙄𐘤𐘙\n𐘇𐘻𐘀𐘵𐘑𐄇𐝫",
     "translatedWords": [
@@ -37000,6 +38044,7 @@ var inscriptions = new Map([
     "name": "PHWa32",
     "parsedInscription": "𐘲𐘸𐘭𐘳",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐘲𐘸𐘭𐘳",
     "translatedWords": [
@@ -37017,6 +38062,7 @@ var inscriptions = new Map([
     "name": "PHWb33",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "sealing",
     "tracingImages": [],
     "transcription": "𐝫",
     "translatedWords": [
@@ -37034,6 +38080,7 @@ var inscriptions = new Map([
     "name": "PHWb34",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "sealing",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -37051,6 +38098,7 @@ var inscriptions = new Map([
     "name": "PHWb35",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "sealing",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [
@@ -37068,6 +38116,7 @@ var inscriptions = new Map([
     "name": "PHWb36",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "sealing",
     "tracingImages": [],
     "transcription": "𐘃",
     "translatedWords": [
@@ -37085,6 +38134,7 @@ var inscriptions = new Map([
     "name": "PHWb55",
     "parsedInscription": "𐝫",
     "scribe": "",
+    "support": "sealing",
     "tracingImages": [],
     "transcription": "𐝫",
     "translatedWords": [
@@ -37102,6 +38152,7 @@ var inscriptions = new Map([
     "name": "PHWc37",
     "parsedInscription": "𐘾𐙦𐘤𐙬",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘾𐙦𐘤𐙬",
     "translatedWords": [
@@ -37122,6 +38173,7 @@ var inscriptions = new Map([
     "name": "PHWc38",
     "parsedInscription": "𐙦𐘳𐙁",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙦𐘳𐙁",
     "translatedWords": [
@@ -37139,6 +38191,7 @@ var inscriptions = new Map([
     "name": "PHWc39",
     "parsedInscription": "𐘱𐘆𐘁",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘱𐘆𐘁",
     "translatedWords": [
@@ -37159,6 +38212,7 @@ var inscriptions = new Map([
     "name": "PHWc40",
     "parsedInscription": "𐘠𐘠𐙁𐘅",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘠𐘠𐙁𐘅",
     "translatedWords": [
@@ -37179,6 +38233,7 @@ var inscriptions = new Map([
     "name": "PHWc41",
     "parsedInscription": "𐙍𐄇𐝆",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙍𐄇𐝆",
     "translatedWords": [
@@ -37202,6 +38257,7 @@ var inscriptions = new Map([
     "name": "PHWc43",
     "parsedInscription": "𐙍",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙍",
     "translatedWords": [
@@ -37219,6 +38275,7 @@ var inscriptions = new Map([
     "name": "PHWc44",
     "parsedInscription": "𐘏",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘏",
     "translatedWords": [
@@ -37236,6 +38293,7 @@ var inscriptions = new Map([
     "name": "PHWc46",
     "parsedInscription": "𐙴𐘡 ≈ 𐘠",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙴𐘡 ≈ 𐘠",
     "translatedWords": [
@@ -37259,6 +38317,7 @@ var inscriptions = new Map([
     "name": "PHWc52",
     "parsedInscription": "𐙍",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙍",
     "translatedWords": [
@@ -37276,6 +38335,7 @@ var inscriptions = new Map([
     "name": "PHWg45",
     "parsedInscription": "𐘡𐘷𐘿",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘡𐘷𐘿",
     "translatedWords": [
@@ -37293,6 +38353,7 @@ var inscriptions = new Map([
     "name": "PHWy42",
     "parsedInscription": "𐙍",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙍",
     "translatedWords": [
@@ -37312,6 +38373,7 @@ var inscriptions = new Map([
     "name": "PHZb4",
     "parsedInscription": "𐘤𐙁𐄁𐘚𐘱𐘃",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘤𐙁𐄁𐘚𐘱𐘃",
     "translatedWords": [
@@ -37335,6 +38397,7 @@ var inscriptions = new Map([
     "name": "PHZb5",
     "parsedInscription": "𐘮𐘢𐘠𐘅𐘽",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘮𐘣𐘠𐘅𐘽",
     "translatedWords": [
@@ -37352,6 +38415,7 @@ var inscriptions = new Map([
     "name": "PHZb<47>",
     "parsedInscription": "𐙴",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐙴",
     "translatedWords": [
@@ -37371,6 +38435,7 @@ var inscriptions = new Map([
     "name": "PHZb48",
     "parsedInscription": "𐘌𐙙𐝫𐄁𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘌𐙙𐝫𐄁𐝫",
     "translatedWords": [
@@ -37394,6 +38459,7 @@ var inscriptions = new Map([
     "name": "PK1",
     "parsedInscription": "𐘤𐝫𐄁𐝫𐘗𐘠𐄇\n𐘾𐘌𐄈\n—\n𐘇𐘬𐘍𐄇\n𐘷𐘳𐘙𐄇\n—\n𐘷𐘠𐘃𐄇\n𐘵𐘾𐘻𐘍𐘤𐘚𐘅𐄇\n—\n𐘵𐘃𐘱𐄇\n—\n𐘴𐘅𐘹𐘲𐄇\n𐘝𐘻𐄇\n—\n𐘹𐘲𐄇\n𐙁𐘠𐘍𐘚𐘃𐄇\n—\n𐙁𐘃𐘠𐄇\n𐙁𐘾𐘚𐘳𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PK1a-Tracing.jpg",
         "images/PK1b-Tracing.jpg"
@@ -37567,6 +38633,7 @@ var inscriptions = new Map([
     "name": "PK3",
     "parsedInscription": "𐝫𐘿𐄉\n𐘱𐄑\n𐝫𐄒𐄇\n𐘀𐘙𐄖𐄈\n𐝫𐘠𐄈\n𐝫𐙂𐄉\n𐝫𐄉",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘿𐄉𐘱𐄑𐝫𐄒𐄇𐘀𐘙𐄖𐄈\n𐝫𐘠𐄈𐝫𐙂𐄉𐝫𐄉",
     "translatedWords": [
@@ -37637,6 +38704,7 @@ var inscriptions = new Map([
     "name": "PKZa4",
     "parsedInscription": "𐘇𐘞𐘞𐘴𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘞𐘞𐘴𐝫",
     "translatedWords": [
@@ -37659,6 +38727,7 @@ var inscriptions = new Map([
     "name": "PKZa8",
     "parsedInscription": "𐝫𐘯𐄁𐘰𐘡𐄁𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙𐄁𐘹𐘋𐘚\n𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘯𐄁𐘰𐘡𐄁𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙𐄁𐘹𐘋𐘚\n𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫",
     "translatedWords": [
@@ -37708,6 +38777,7 @@ var inscriptions = new Map([
     "name": "PKZa9",
     "parsedInscription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
     "translatedWords": [
@@ -37739,6 +38809,7 @@ var inscriptions = new Map([
     "name": "PKZa10",
     "parsedInscription": "𐝫𐘤𐄁𐘚𐘢𐘅𐘻𐘅𐄁𐘤𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/PKZa10-Tracing.jpg"
     ],
@@ -37774,6 +38845,7 @@ var inscriptions = new Map([
     "name": "PKZa11",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐄁\n𐄁𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/PKZa11-Tracing.jpg",
         "images/PKZa11a-Tracing.jpg",
@@ -37869,6 +38941,7 @@ var inscriptions = new Map([
     "name": "PKZa12",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐄈𐄉𐝫𐘤𐝫𐄊𐄋𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐄈𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐄇𐝫𐘱𐘤𐄁\n𐘇𐘂𐘬𐘂𐝫𐄉𐝫𐘱𐝫𐄈𐝫𐘱𐘂𐘌",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/PKZa12-Tracing.jpg",
         "images/PKZa12a-Tracing.jpg",
@@ -37928,6 +39001,7 @@ var inscriptions = new Map([
     "name": "PKZa14",
     "parsedInscription": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
     "translatedWords": [
@@ -37959,6 +39033,7 @@ var inscriptions = new Map([
     "name": "PKZa15",
     "parsedInscription": "𐝫𐘱𐘆𐘸𐘃𐘃𐘬𐘜𐘙𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/PKZa15-Tracing.jpg"
     ],
@@ -37989,6 +39064,7 @@ var inscriptions = new Map([
     "name": "PKZa16",
     "parsedInscription": "𐝫𐘄𐘞𐄁𐘜\n𐘙𐘱𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/PKZa16-Tracing.jpg"
     ],
@@ -38022,6 +39098,7 @@ var inscriptions = new Map([
     "name": "PKZa17",
     "parsedInscription": "𐝫𐘚𐘀𐄁𐝫𐄁𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/PKZa17-Tracing.jpg"
     ],
@@ -38049,6 +39126,7 @@ var inscriptions = new Map([
     "name": "PKZa18",
     "parsedInscription": "𐝫𐘃𐄁𐘚𐘀𐄁𐘱𐘱𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘃𐄁𐘚𐘀𐄁𐘱𐘱𐝫",
     "translatedWords": [
@@ -38078,6 +39156,7 @@ var inscriptions = new Map([
     "name": "PKZa20",
     "parsedInscription": "𐝫𐘉𐘅𐘾𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘉𐘅𐘾𐝫",
     "translatedWords": [
@@ -38095,6 +39174,7 @@ var inscriptions = new Map([
     "name": "PKZb?",
     "parsedInscription": "𐘇𐘰𐘆𐝫\n𐘙𐝁",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘰𐘆𐝫\n𐘙𐝁",
     "translatedWords": [
@@ -38121,6 +39201,7 @@ var inscriptions = new Map([
     "name": "PKZb19",
     "parsedInscription": "𐘈𐘤𐘳𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘈𐘤𐘳𐝫",
     "translatedWords": [
@@ -38138,6 +39219,7 @@ var inscriptions = new Map([
     "name": "PKZb21",
     "parsedInscription": "𐘸𐘳𐘝𐘃",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘸𐘳𐘝𐘃",
     "translatedWords": [
@@ -38155,6 +39237,7 @@ var inscriptions = new Map([
     "name": "PKZb23",
     "parsedInscription": "𐘾𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘾𐝫",
     "translatedWords": [
@@ -38172,6 +39255,7 @@ var inscriptions = new Map([
     "name": "PKZb24",
     "parsedInscription": "𐙍",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐙍",
     "translatedWords": [
@@ -38189,6 +39273,7 @@ var inscriptions = new Map([
     "name": "PKZb25",
     "parsedInscription": "𐘻𐘀𐘴",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘻𐘀𐘴",
     "translatedWords": [
@@ -38208,6 +39293,7 @@ var inscriptions = new Map([
     "name": "PKZc13",
     "parsedInscription": "𐝫𐘯𐘭𐘱𐝫",
     "scribe": "",
+    "support": "inked inscription",
     "tracingImages": [],
     "transcription": "𐝫𐘯𐘭𐘱𐝫",
     "translatedWords": [
@@ -38225,6 +39311,7 @@ var inscriptions = new Map([
     "name": "PKZg22",
     "parsedInscription": "𐙍𐙍",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐙍𐙍",
     "translatedWords": [
@@ -38242,6 +39329,7 @@ var inscriptions = new Map([
     "name": "PLZf1",
     "parsedInscription": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐄁𐝫𐘚𐝫𐄁𐝫",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [
         "images/PLZf1-Tracing.jpg"
     ],
@@ -38306,6 +39394,7 @@ var inscriptions = new Map([
     "name": "POZc1",
     "parsedInscription": "𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱𐄁",
     "scribe": "",
+    "support": "inked inscription",
     "tracingImages": [],
     "transcription": "𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱𐄁",
     "translatedWords": [
@@ -38330,6 +39419,7 @@ var inscriptions = new Map([
     "name": "PRZa1",
     "parsedInscription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
     "translatedWords": [
@@ -38362,6 +39452,7 @@ var inscriptions = new Map([
     "name": "PSZa2",
     "parsedInscription": "𐄑𐄊𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐄑𐄊𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐝢𐘋𐄁",
     "translatedWords": [
@@ -38400,6 +39491,7 @@ var inscriptions = new Map([
     "name": "PSIZa1",
     "parsedInscription": "𐙓𐘬𐘈𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐙓𐘬𐘈𐝫",
     "translatedWords": [
@@ -38417,6 +39509,7 @@ var inscriptions = new Map([
     "name": "PSIZa2",
     "parsedInscription": "𐄁𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐄁𐝫",
     "translatedWords": [
@@ -38437,6 +39530,7 @@ var inscriptions = new Map([
     "name": "PSIZb1",
     "parsedInscription": "𐙓𐘇𐘚",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐙓𐘇𐘚",
     "translatedWords": [
@@ -38454,6 +39548,7 @@ var inscriptions = new Map([
     "name": "PYR1",
     "parsedInscription": "𐘠𐙁𐘘𐘣𐘃𐝦𐙍𐄘",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘠𐙁𐘘𐘣𐘃\n𐝦𐙍𐄘",
     "translatedWords": [
@@ -38479,6 +39574,7 @@ var inscriptions = new Map([
     "name": "PYR2",
     "parsedInscription": "𐝫𐙘𐝆",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/PYR2-Tracing.jpg"
     ],
@@ -38501,6 +39597,7 @@ var inscriptions = new Map([
     "name": "PYRWc4",
     "parsedInscription": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
     "translatedWords": [
@@ -38524,6 +39621,7 @@ var inscriptions = new Map([
     "name": "PYRZb5",
     "parsedInscription": "𐝫𐘃𐘱𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘃𐘱𐝫",
     "translatedWords": [
@@ -38541,6 +39639,7 @@ var inscriptions = new Map([
     "name": "SAMWa1",
     "parsedInscription": "𐘱𐘞𐝫𐘞𐘴𐝫𐘃𐄐𐝇",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐘱𐘞𐝫𐘞𐘴𐝫𐘃𐄐𐝇",
     "translatedWords": [
@@ -38570,6 +39669,7 @@ var inscriptions = new Map([
     "name": "SAMWe4",
     "parsedInscription": "𐝠",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝠",
     "translatedWords": [
@@ -38587,6 +39687,7 @@ var inscriptions = new Map([
     "name": "SEZf1",
     "parsedInscription": "𐘀𐙂",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘀𐙂",
     "translatedWords": [
@@ -38606,6 +39707,7 @@ var inscriptions = new Map([
     "name": "SIZg1",
     "parsedInscription": "𐘇𐝫𐄁𐝫𐘀𐙈",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐘇𐝫𐄁𐝫𐘀𐙈",
     "translatedWords": [
@@ -38631,6 +39733,7 @@ var inscriptions = new Map([
     "name": "SKZb1",
     "parsedInscription": "𐘇𐙁𐘴𐘗𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇𐙁𐘴𐘗𐝫",
     "translatedWords": [
@@ -38648,6 +39751,7 @@ var inscriptions = new Map([
     "name": "SKOZc1",
     "parsedInscription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐘠𐝫",
     "scribe": "",
+    "support": "inked inscription",
     "tracingImages": [],
     "transcription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐘠𐝫",
     "translatedWords": [
@@ -38676,6 +39780,7 @@ var inscriptions = new Map([
     "name": "SYZa1",
     "parsedInscription": "𐝫𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘚𐘀𐘻𐄁𐘱𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/SYZa1-Tracing.jpg"
     ],
@@ -38709,6 +39814,7 @@ var inscriptions = new Map([
     "name": "SYZa2",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "translatedWords": [
@@ -38749,6 +39855,7 @@ var inscriptions = new Map([
     "name": "SYZa3",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐝫𐘱𐝫𐘈𐘾𐘅𐘤𐝫𐘃𐝫𐘤𐘘𐘃",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/SYZa3-Tracing.jpg"
     ],
@@ -38774,6 +39881,7 @@ var inscriptions = new Map([
     "name": "SYZa4",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘚𐘩𐘍𐄁𐘰𐘝𐘣",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘚𐘩𐘍𐄁𐘰𐘝𐘣",
     "translatedWords": [
@@ -38803,6 +39911,7 @@ var inscriptions = new Map([
     "name": "SYZa5",
     "parsedInscription": "𐝫𐘻𐘱𐄁𐘱𐘮𐘰𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘻𐘱𐄁𐘱𐘮𐘰𐝫",
     "translatedWords": [
@@ -38826,6 +39935,7 @@ var inscriptions = new Map([
     "name": "SYZa6",
     "parsedInscription": "𐘀𐘈𐘴𐘃",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘀𐘈𐘴𐘃",
     "translatedWords": [
@@ -38843,6 +39953,7 @@ var inscriptions = new Map([
     "name": "SYZβ7",
     "parsedInscription": "𐝫𐘴𐘸𐘝𐘈",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘴𐘸𐘝𐘈",
     "translatedWords": [
@@ -38860,6 +39971,7 @@ var inscriptions = new Map([
     "name": "SYZa8",
     "parsedInscription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
     "translatedWords": [
@@ -38883,6 +39995,7 @@ var inscriptions = new Map([
     "name": "SYZa9",
     "parsedInscription": "𐘱𐘂𐘴𐘱𐘈",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘱𐘂𐘴𐘱𐘈",
     "translatedWords": [
@@ -38900,6 +40013,7 @@ var inscriptions = new Map([
     "name": "SYZa10",
     "parsedInscription": "𐘌𐘞𐘴𐙂",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘌𐘞𐘴𐙂",
     "translatedWords": [
@@ -38917,6 +40031,7 @@ var inscriptions = new Map([
     "name": "SYZa11",
     "parsedInscription": "𐄁𐘁𐘌𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐄁𐘁𐘌𐝫",
     "translatedWords": [
@@ -38937,6 +40052,7 @@ var inscriptions = new Map([
     "name": "SYZa12",
     "parsedInscription": "𐝫𐄁𐘇𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐄁𐘇𐝫",
     "translatedWords": [
@@ -38957,6 +40073,7 @@ var inscriptions = new Map([
     "name": "TELZb1",
     "parsedInscription": "𐘕 ≈ 𐘮𐘃 ≈ 𐘝",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘕 ≈ 𐘮𐘃 ≈ 𐘝",
     "translatedWords": [
@@ -38986,6 +40103,7 @@ var inscriptions = new Map([
     "name": "THEfr.1",
     "parsedInscription": "𐝫𐘸𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘸𐝫",
     "translatedWords": [
@@ -39003,6 +40121,7 @@ var inscriptions = new Map([
     "name": "THEfr.2",
     "parsedInscription": "𐝫𐙖𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐙖𐝫",
     "translatedWords": [
@@ -39020,6 +40139,7 @@ var inscriptions = new Map([
     "name": "THEfr.3",
     "parsedInscription": "𐝫𐙖𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐙖𐝫",
     "translatedWords": [
@@ -39037,6 +40157,7 @@ var inscriptions = new Map([
     "name": "THEtab.4",
     "parsedInscription": "𐝫𐘒𐄍𐝫\n𐝫𐘒𐄓𐄌𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘒𐄍𐝫\n𐝫𐘒𐄓𐄌𐝫",
     "translatedWords": [
@@ -39066,6 +40187,7 @@ var inscriptions = new Map([
     "name": "THEtab.5",
     "parsedInscription": "𐝫𐄁𐘃𐘋𐘀𐘚𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐄁𐘃𐘋𐘀𐘚𐝫",
     "translatedWords": [
@@ -39086,6 +40208,7 @@ var inscriptions = new Map([
     "name": "THEtab.6",
     "parsedInscription": "𐝫𐄐𐝫\n𐝫𐝡𐝫𐄚𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐄐𐝫\n𐝫𐝡𐝫𐄚𐝫",
     "translatedWords": [
@@ -39114,6 +40237,7 @@ var inscriptions = new Map([
     "name": "THEZb1",
     "parsedInscription": "𐝫𐘤𐘝𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [
         "images/THEZb1-Tracing.jpg"
     ],
@@ -39135,6 +40259,7 @@ var inscriptions = new Map([
     "name": "THEZb2",
     "parsedInscription": "𐘇𐘙𐘞𐘅",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘙𐘞𐘅",
     "translatedWords": [
@@ -39154,6 +40279,7 @@ var inscriptions = new Map([
     "name": "THEZb3",
     "parsedInscription": "𐘇𐘗𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘗𐝫",
     "translatedWords": [
@@ -39173,6 +40299,7 @@ var inscriptions = new Map([
     "name": "THEZb4",
     "parsedInscription": "𐝫𐘇𐘙𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘇𐘙𐝫",
     "translatedWords": [
@@ -39190,6 +40317,7 @@ var inscriptions = new Map([
     "name": "THEZb5",
     "parsedInscription": "𐙁𐄓𐘫𐄋\n𐙑𐄍𐘎𐄏𐘳𐄊",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐙁𐄓𐘫𐄋\n𐙑𐄍𐘎𐄏𐘳𐄊",
     "translatedWords": [
@@ -39213,6 +40341,7 @@ var inscriptions = new Map([
     "name": "THEZb6",
     "parsedInscription": "𐘧",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘧",
     "translatedWords": [
@@ -39230,6 +40359,7 @@ var inscriptions = new Map([
     "name": "THEZb7",
     "parsedInscription": "𐘇𐘧",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇𐘧",
     "translatedWords": [
@@ -39247,6 +40377,7 @@ var inscriptions = new Map([
     "name": "THEZb13",
     "parsedInscription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
     "translatedWords": [
@@ -39267,6 +40398,7 @@ var inscriptions = new Map([
     "name": "TIZb1",
     "parsedInscription": "𐝫𐙕𐘤𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐙕𐘤𐝫",
     "translatedWords": [
@@ -39286,6 +40418,7 @@ var inscriptions = new Map([
     "name": "TLZa1",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘵𐘲𐘌𐘙𐄁\n𐘱𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘾𐘅𐘤𐝫\n𐝫𐘅𐙁𐘤𐘘𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/TLZa1-Tracing.jpg"
     ],
@@ -39334,6 +40467,7 @@ var inscriptions = new Map([
     "name": "TRAZb1",
     "parsedInscription": "𐝫𐘙𐘱𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘙𐘱𐝫",
     "translatedWords": [
@@ -39351,6 +40485,7 @@ var inscriptions = new Map([
     "name": "TROZg1",
     "parsedInscription": "𐘢𐘻𐘳𐘠𐘽",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐘢𐘻𐘳𐘠𐘽",
     "translatedWords": [
@@ -39368,6 +40503,7 @@ var inscriptions = new Map([
     "name": "TROZg2",
     "parsedInscription": "𐘬𐘻𐘳𐘠𐘽",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐘬𐘻𐘳𐘠𐘽",
     "translatedWords": [
@@ -39385,6 +40521,7 @@ var inscriptions = new Map([
     "name": "TRYZb1",
     "parsedInscription": "𐝫𐘗𐘻𐝫 ≈ 𐝫𐘻𐘗𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘗𐘻𐝫 ≈ 𐝫𐘻𐘗𐝫",
     "translatedWords": [
@@ -39408,6 +40545,7 @@ var inscriptions = new Map([
     "name": "TY2",
     "parsedInscription": "𐙞𐝫𐘟𐘫𐘢𐄝\n𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔\n𐙝𐘀𐘫𐝫𐄐\n𐘂𐘀𐘘𐙝𐘶𐘸𐄙\n𐙝𐘭𐘶𐝫\n𐙝𐝫𐝫𐄌\n𐙇𐄗𐄊\n𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒\n𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔\n𐙞𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐙞𐝫𐘟𐘫𐘢𐄝𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔𐙝𐘀𐘫𐝫𐄐𐘂\n𐘀𐘘𐙝𐘶𐘸𐄙𐙝𐘭𐘶𐝫𐙝𐝫𐄌𐙇\n𐄗𐄊𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔𐙞𐝫\n𐝫",
     "translatedWords": [
@@ -39539,6 +40677,7 @@ var inscriptions = new Map([
     "name": "TY3a",
     "parsedInscription": "𐝫𐘍𐙭𐜓𐄐𐄋𐝃\n𐜋𐄑𐄈\n𐘗𐘸𐄋\n𐜌𐄉𐝆\n𐜗𐝫\n𐜋𐄍𐝆\n—\n𐘇𐘬𐝫𐄁𐝫𐜓𐄔𐄇\n𐜔𐄈𐝂\n𐜕𐄇\n𐜌𐄊𐝆\n𐝫𐙋𐝫𐄊𐝫\n—\n𐘇𐘀𐜋𐄑𐄇\n𐜗𐄈𐝫\n𐝫𐘺𐘇𐘬𐘮𐙖𐝫𐄍𐝂\n—\n𐘇𐙂𐘹𐚕𐝫\n𐝫𐘸𐄋\n𐜖𐄇\n—",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘍𐙭𐜓𐄐𐄋𐝃𐜋𐄑𐄈𐘗\n𐘸𐄋𐜌𐄉𐝆𐜗𐝫𐜋𐄍𐝆\n—\n𐘇𐘬𐝫𐄁𐝫𐜓𐄔𐄇𐜔𐄈𐝂\n𐜕𐄇𐜌𐄊𐝆𐝫𐙋𐄊𐝫\n—\n𐘇𐘀𐜋𐄑𐄇𐜗𐄈𐝫\n𐝫𐘺𐘇𐘬𐘮𐙖𐝫𐄍𐝂\n—\n𐘇𐙂𐘹𐚕𐝫𐘸𐄋𐜖𐄇\n—",
     "translatedWords": [
@@ -39757,6 +40896,7 @@ var inscriptions = new Map([
     "name": "TY3b",
     "parsedInscription": "𐘸𐘭𐘤𐜗𐄌𐝫\n—\n𐘢𐙂𐙀𐜓𐄊\n𐜗𐄐𐄇𐝫\n𐝫𐜍𐄈𐝫\n—\n𐘂𐜗𐝫\n𐝫𐄚𐄑𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘸𐘭𐘤𐜗𐄌𐝫\n—\n𐘢𐙂𐙀𐜓𐄊𐜗𐄐𐄇𐝫\n𐜍𐄈𐝫\n—\n𐘂𐜗𐝫𐄚𐄑𐝫\n𐝫",
     "translatedWords": [
@@ -39834,6 +40974,7 @@ var inscriptions = new Map([
     "name": "TYWc5",
     "parsedInscription": "𐙂",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐙂",
     "translatedWords": [
@@ -39853,6 +40994,7 @@ var inscriptions = new Map([
     "name": "TYZb4",
     "parsedInscription": "𐘇𐙕𐘸𐘳𐘇",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘇𐙕𐘸𐘳𐘇",
     "translatedWords": [
@@ -39872,6 +41014,7 @@ var inscriptions = new Map([
     "name": "TYZg1",
     "parsedInscription": "𐝫𐙁𐘘𐘇",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐝫𐙁𐘘𐘇",
     "translatedWords": [
@@ -39891,6 +41034,7 @@ var inscriptions = new Map([
     "name": "VRYZa1",
     "parsedInscription": "𐝫𐘚𐘢𐘅𐙁\n𐘤𐘘𐘃𐄁𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [
         "images/VRYZa1-Tracing.jpg"
     ],
@@ -39919,6 +41063,7 @@ var inscriptions = new Map([
     "name": "ZA1a",
     "parsedInscription": "𐛀𐄁\n𐘸𐘙𐘍𐄁𐘝𐄓𐄈𐝆\n𐘍𐄋\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐛀𐄁𐘸𐘙𐘍𐄁𐘝\n𐄓𐄈𐝆𐘍𐄋\n𐝫",
     "translatedWords": [
@@ -39972,6 +41117,7 @@ var inscriptions = new Map([
     "name": "ZA1b",
     "parsedInscription": "𐘡𐘻𐝫\n𐝫𐘁𐙉𐄓𐄍\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘡𐘻𐝫𐘁\n𐙉𐄓𐄍\n𐝫",
     "translatedWords": [
@@ -40009,6 +41155,7 @@ var inscriptions = new Map([
     "name": "ZA4a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘡𐝫\n𐝫𐘢𐝫𐄁𐝫𐘈𐝫𐝫𐄋\n𐘱𐘄𐘱𐝫𐝫𐄉𐝫\n𐘇𐘠𐘘𐄊\n𐘱𐘂𐄇𐝫\n𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊\n𐘛𐘯𐙁𐘙𐄐𐄉\n𐘤𐘢𐘸𐄋\n𐘡𐙃𐄔\n𐘾𐘆𐄉",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA4a-Tracing.jpg"
     ],
@@ -40141,6 +41288,7 @@ var inscriptions = new Map([
     "name": "ZA4b",
     "parsedInscription": "𐝫\n𐝫𐙍𐄙𐄊𐝫",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA4b-Tracing.jpg"
     ],
@@ -40171,6 +41319,7 @@ var inscriptions = new Map([
     "name": "ZA5a",
     "parsedInscription": "𐘐𐙈𐄁𐙍𐘲\n𐘸𐘝𐙁𐄍\n𐘵𐘳𐘝𐘍𐘈𐄌\n𐘞𐘻𐘀𐘡𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA5a-Tracing.jpg"
     ],
@@ -40246,6 +41395,7 @@ var inscriptions = new Map([
     "name": "ZA5b",
     "parsedInscription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆\n𐙁𐘾𐘚𐘳𐄉",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA5b-Tracing.jpg"
     ],
@@ -40291,6 +41441,7 @@ var inscriptions = new Map([
     "name": "ZA6a",
     "parsedInscription": "𐙙𐘮𐘅𐙑𐄐𐄏\n𐘟𐘶𐘃𐘻𐝫\n𐝫𐄙𐄗\n𐘚𐘈𐝫\n𐝫𐙋𐄐𐄋\n𐝫𐙋𐄐\n𐘚𐝫\n𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫\n𐝫𐙋𐝫\n𐝫𐄑𐄋\n𐙘𐝫\n𐝫𐄑\n𐘚𐘈𐝫𐄁",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA6a-Tracing.jpg"
     ],
@@ -40414,6 +41565,7 @@ var inscriptions = new Map([
     "name": "ZA6b",
     "parsedInscription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓\n𐜁𐄐\n𐙢𐘷𐛭𐄓𐝫\n𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA6b-Tracing.jpg"
     ],
@@ -40498,6 +41650,7 @@ var inscriptions = new Map([
     "name": "ZA7a",
     "parsedInscription": "𐘉𐘶𐄋\n𐘇𐘴𐘹𐄊\n𐘇𐘙𐘹𐘻𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA7a-Tracing.jpg"
     ],
@@ -40543,6 +41696,7 @@ var inscriptions = new Map([
     "name": "ZA7b",
     "parsedInscription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA7b-Tracing.jpg"
     ],
@@ -40577,6 +41731,7 @@ var inscriptions = new Map([
     "name": "ZA8",
     "parsedInscription": "𐘸𐘴𐄁\n𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝂𐝂\n𐘇𐘭𐘝𐘳𐄇𐝫𐝁𐝁\n𐘳𐘚𐘯𐙁𐘂𐝆\n𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝁𐝁",
     "scribe": "ZA Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA8-Tracing.jpg"
     ],
@@ -40682,6 +41837,7 @@ var inscriptions = new Map([
     "name": "ZA9",
     "parsedInscription": "𐝫𐘯𐘠𐄁\n𐘍𐝫\n𐝫𐘴𐚽𐄋\n𐝫\n𐝫𐘁𐘤𐘴𐝫𐚽𐄊\n𐘇𐘳𐘅𐝫𐄁𐝫𐚽𐄈\n𐝫𐄁𐝫𐙁𐘶𐘓𐄈\n𐘣𐘴𐘙𐘻𐘃𐘓𐄇",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA9-Tracing.jpg"
     ],
@@ -40787,6 +41943,7 @@ var inscriptions = new Map([
     "name": "ZA10a",
     "parsedInscription": "𐘳𐘅𐘃𐄈\n𐘂𐝫𐄇\n𐘇𐙂𐘻𐘅𐄇\n𐘇𐘳𐘅𐘃𐄇\n𐘇𐘻𐘀𐘉𐄇\n𐘇𐘬𐙂𐘻𐘅𐄇\n𐘀𐘚𐘢𐘳𐄇\n𐘬𐘙𐘍𐘈𐄈",
     "scribe": "ZA Scribe 4",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA10a-Tracing.jpg"
     ],
@@ -40874,6 +42031,7 @@ var inscriptions = new Map([
     "name": "ZA10b",
     "parsedInscription": "𐘮𐚖𐄈\n𐘬𐘙𐘍𐘈𐙎𐄋\n𐘉𐘪𐄌\n𐙁𐘍𐄋\n𐙁𐘸𐘦𐘃𐄋\n𐘞𐙁𐄋\n𐘇𐘦𐄊\n𐘇𐘻𐘳𐄉\n𐘽𐘁𐘙𐄈\n𐘂𐘱𐘙𐄇\n𐘾𐙂𐘗𐘃𐝆\n𐘳𐄈\n𐘬𐄇𐝫",
     "scribe": "ZA Scribe 4",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA10b-Tracing.jpg"
     ],
@@ -41009,6 +42167,7 @@ var inscriptions = new Map([
     "name": "ZA11a",
     "parsedInscription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁\n𐛭𐝫\n𐝫𐘴𐙁𐘤𐙍𐝆𐝫\n𐝫𐘡𐙂𐘘𐄈𐝃\n𐘶𐝈𐝉\n𐙍𐝆\n𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫\n𐘢𐙠𐘇𐝫\n𐝫𐙋𐄈\n𐝫",
     "scribe": "ZA Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA11a-Tracing.jpg"
     ],
@@ -41132,6 +42291,7 @@ var inscriptions = new Map([
     "name": "ZA11b",
     "parsedInscription": "𐘡𐘄𐘭𐛀𐄁\n𐘞𐙕𐘭𐄁𐛭𐄇𐝫\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈\n𐙂𐘂𐄁𐛭𐄉\n𐝫",
     "scribe": "ZA Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA11b-Tracing.jpg"
     ],
@@ -41219,6 +42379,7 @@ var inscriptions = new Map([
     "name": "ZA12a",
     "parsedInscription": "𐝫\n𐘂𐝫𐄕𐄊𐝫\n𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA12a-Tracing.jpg"
     ],
@@ -41271,6 +42432,7 @@ var inscriptions = new Map([
     "name": "ZA12b",
     "parsedInscription": "𐝫\n𐝫𐘹𐝫𐄌𐝫\n𐘂𐝫𐄓𐝫\n𐘠𐄐𐄉\n𐘘𐄑𐄌",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐘹𐝫𐄌𐝫𐘂𐝫𐄓𐝫\n𐘠𐄐𐄉𐘘𐄑𐄌",
     "translatedWords": [
@@ -41326,6 +42488,7 @@ var inscriptions = new Map([
     "name": "ZA13",
     "parsedInscription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫",
     "scribe": "ZA Scribe 3",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA13-Tracing.jpg"
     ],
@@ -41359,6 +42522,7 @@ var inscriptions = new Map([
     "name": "ZA14",
     "parsedInscription": "𐘋𐘸𐘆𐄇\n𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉\n𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇\n𐘹𐘻𐘠𐘍𐘈𐄓𐄋𐝫\n𐘂𐘯𐘿𐄈\n𐘱𐘣𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA14-Tracing.jpg"
     ],
@@ -41455,6 +42619,7 @@ var inscriptions = new Map([
     "name": "ZA15a",
     "parsedInscription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐\n𐘋𐙍\n𐘻𐘍𐘈𐄉\n𐘛𐘯𐙁𐘙𐄌\n𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋\n𐘞𐘻𐘀𐘡𐄊\n𐚗𐘥𐙁𐘈𐄋",
     "scribe": "ZA Scribe 5",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA15a-Tracing.jpg"
     ],
@@ -41560,6 +42725,7 @@ var inscriptions = new Map([
     "name": "ZA15b",
     "parsedInscription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍",
     "scribe": "ZA Scribe 5",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA15b-Tracing.jpg"
     ],
@@ -41620,6 +42786,7 @@ var inscriptions = new Map([
     "name": "ZA16",
     "parsedInscription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫\n𐝫𐘲𐄊𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA16-Tracing.jpg"
     ],
@@ -41677,6 +42844,7 @@ var inscriptions = new Map([
     "name": "ZA17",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA17-Tracing.jpg"
     ],
@@ -41710,6 +42878,7 @@ var inscriptions = new Map([
     "name": "ZA18a",
     "parsedInscription": "𐘀𐘙𐙂𐝫𐝫𐄁\n𐙂𐙭𐄁𐛭𐄈𐝂𐝂\n𐙉𐝫𐄈𐝂𐝂\n𐜓𐝁𐝁\n𐙋𐝃\n𐝫",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA18a-Tracing.jpg"
     ],
@@ -41786,6 +42955,7 @@ var inscriptions = new Map([
     "name": "ZA18b",
     "parsedInscription": "𐝫\n𐄈𐝆𐝃𐝉𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐄈𐝆𐝃𐝉𐝫\n𐝫",
     "translatedWords": [
@@ -41820,6 +42990,7 @@ var inscriptions = new Map([
     "name": "ZA19",
     "parsedInscription": "𐝫\n𐝫𐘴𐘃𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA19-Tracing.jpg"
     ],
@@ -41853,6 +43024,7 @@ var inscriptions = new Map([
     "name": "ZA20",
     "parsedInscription": "𐝫\n𐝫𐘬𐘙𐘍𐘈𐝫𐝫𐘻𐝫\n𐝫𐄁𐄊\n𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌\n𐘃𐙌𐄐𐄈\n𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫",
     "scribe": "ZA Scribe 3",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA20-Tracing.jpg"
     ],
@@ -41943,6 +43115,7 @@ var inscriptions = new Map([
     "name": "ZA21a",
     "parsedInscription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁𐝫\n𐝫𐘃𐄈\n𐘳𐘥𐝫\n𐝫\n𐝫𐘂𐝫𐄋\n𐘳𐙁𐘢𐝫\n𐝫𐄉\n𐘇𐝫\n𐝫𐙈𐘻𐝫𐝫𐄈",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA21a-Tracing.jpg"
     ],
@@ -42036,6 +43209,7 @@ var inscriptions = new Map([
     "name": "ZA21b",
     "parsedInscription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈\n𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA21b-Tracing.jpg"
     ],
@@ -42087,6 +43261,7 @@ var inscriptions = new Map([
     "name": "ZA22",
     "parsedInscription": "𐝫\n𐝫𐘓𐝫\n𐘔𐄇𐝫\n𐝫𐄇\n𐘴𐝫𐄁𐝫𐘓𐄇𐝫\n𐝫𐄌\n𐘬𐘶𐝫\n𐘓𐄙𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA22-Tracing.jpg"
     ],
@@ -42177,6 +43352,7 @@ var inscriptions = new Map([
     "name": "ZA23",
     "parsedInscription": "𐝫\n—\n𐝫𐘃𐘃𐝫\n𐝫𐘻𐘙𐝫",
     "scribe": "ZA Scribe 4",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA23-Tracing.jpg"
     ],
@@ -42216,6 +43392,7 @@ var inscriptions = new Map([
     "name": "ZA24a",
     "parsedInscription": "𐘚𐘀𐙉𐝫\n𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA24a-Tracing.jpg"
     ],
@@ -42252,6 +43429,7 @@ var inscriptions = new Map([
     "name": "ZA24b",
     "parsedInscription": "𐝫𐘳𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA24b-Tracing.jpg"
     ],
@@ -42279,6 +43457,7 @@ var inscriptions = new Map([
     "name": "ZA25",
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA25-Tracing.jpg"
     ],
@@ -42306,6 +43485,7 @@ var inscriptions = new Map([
     "name": "ZA26a",
     "parsedInscription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘓𐄐𐄉\n𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA26a-Tracing.jpg"
     ],
@@ -42360,6 +43540,7 @@ var inscriptions = new Map([
     "name": "ZA26b",
     "parsedInscription": "𐝫𐘓𐄍\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA26b-Tracing.jpg"
     ],
@@ -42390,6 +43571,7 @@ var inscriptions = new Map([
     "name": "ZA27",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘆𐘸𐄈\n𐘵𐘻𐝫",
     "scribe": "ZA Scribe 3",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA27-Tracing.jpg"
     ],
@@ -42432,6 +43614,7 @@ var inscriptions = new Map([
     "name": "ZA28",
     "parsedInscription": "𐝫\n𐝫𐛭𐄇𐝫\n𐝫",
     "scribe": "ZA Scribe 2",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA28-Tracing.jpg"
     ],
@@ -42468,6 +43651,7 @@ var inscriptions = new Map([
     "name": "ZA29",
     "parsedInscription": "𐝫\n𐝫𐙁𐄙𐝫\n𐝫𐘃𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA29-Tracing.jpg"
     ],
@@ -42510,6 +43694,7 @@ var inscriptions = new Map([
     "name": "ZA30",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄍𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ZA30-Tracing.jpg"
     ],
@@ -42547,6 +43732,7 @@ var inscriptions = new Map([
     "name": "ZA31",
     "parsedInscription": "𐝫\n𐝫𐘬𐄈𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐘬𐄈𐝫\n𐝫",
     "translatedWords": [
@@ -42579,6 +43765,7 @@ var inscriptions = new Map([
     "name": "ZA32",
     "parsedInscription": "𐝫\n𐝫𐘱𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐘱𐝫\n𐝫",
     "translatedWords": [
@@ -42608,6 +43795,7 @@ var inscriptions = new Map([
     "name": "ZA33",
     "parsedInscription": "𐝫\n𐝫𐄑𐄇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐄑𐄇𐝫\n𐝫",
     "translatedWords": [
@@ -42637,6 +43825,7 @@ var inscriptions = new Map([
     "name": "ZAWa36",
     "parsedInscription": "𐘁",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐘁",
     "translatedWords": [
@@ -42654,6 +43843,7 @@ var inscriptions = new Map([
     "name": "ZAWa38",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "nodule",
     "tracingImages": [],
     "transcription": "𐙕",
     "translatedWords": [
@@ -42671,6 +43861,7 @@ var inscriptions = new Map([
     "name": "ZAWb37",
     "parsedInscription": "𐘤",
     "scribe": "",
+    "support": "sealing",
     "tracingImages": [],
     "transcription": "𐘤",
     "translatedWords": [
@@ -42688,6 +43879,7 @@ var inscriptions = new Map([
     "name": "ZAWc2",
     "parsedInscription": "𐘇𐘠𐘾𐘇𐘬𐘺𐘻\n𐘇𐘠𐘾𐘇𐘬𐘺𐘻",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘇𐘠𐘾𐘇\n𐘬𐘺𐘻",
     "translatedWords": [
@@ -42713,6 +43905,7 @@ var inscriptions = new Map([
     "name": "ZAZb3",
     "parsedInscription": "𐙍𐄒𐄈\n𐘆𐘆𐘾𐘈𐄁𐘇𐘞𐘕𐘗𐄁𐘇𐘈\n𐘇𐘳𐘚𐙕𐘦𐘾𐄁𐘇𐘙𐘢𐘙𐘅𐄁𐘠𐘠𐙂",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐙍𐄒𐄈𐘆𐘆𐘾𐘈𐄁𐘇𐘞𐘕𐘗𐄁𐘇𐘈\n𐘇𐘳𐘚𐙕𐘦𐘾𐄁𐘇𐘙𐘢𐘙𐘅𐄁𐘠𐘠𐙂",
     "translatedWords": [
@@ -42777,6 +43970,7 @@ var inscriptions = new Map([
     "name": "ZAZb34",
     "parsedInscription": "𐝫𐘜𐘙𐘱𐄁𐘺𐘕𐄁𐘘𐘆𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘜𐘙𐘱𐄁𐘺𐘕𐄁𐘘𐘆𐝫",
     "translatedWords": [
@@ -42806,6 +44000,7 @@ var inscriptions = new Map([
     "name": "ZAZg34",
     "parsedInscription": "𐘮𐄕",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐘮𐄕",
     "translatedWords": [
@@ -42826,6 +44021,7 @@ var inscriptions = new Map([
     "name": "ZAZg35",
     "parsedInscription": "𐝫𐘋𐘻𐘱𐘘𐄁𐘈𐘮𐙄𐘦",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐝫𐘋𐘻𐘱𐘘𐄁𐘈𐘮𐙄𐘦",
     "translatedWords": [
@@ -42849,6 +44045,7 @@ var inscriptions = new Map([
     "name": "ZOZA1",
     "parsedInscription": "",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "",
     "translatedWords": [],
@@ -42860,6 +44057,7 @@ var inscriptions = new Map([
     "name": "ANZb1",
     "parsedInscription": "𐘃",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘃",
     "translatedWords": [
@@ -42877,6 +44075,7 @@ var inscriptions = new Map([
     "name": "APZa<3>",
     "parsedInscription": "𐝫𐘱𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘱𐝫",
     "translatedWords": [
@@ -42896,6 +44095,7 @@ var inscriptions = new Map([
     "name": "APZa1",
     "parsedInscription": "𐘱𐘳𐘚𐙕𐘉𐘱𐄁𐝫",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐘱𐘳𐘚𐙕𐘉𐘱𐄁𐝫",
     "translatedWords": [
@@ -42920,6 +44120,7 @@ var inscriptions = new Map([
     "name": "APZa2",
     "parsedInscription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
     "scribe": "",
+    "support": "stone vessel",
     "tracingImages": [],
     "transcription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
     "translatedWords": [
@@ -42973,6 +44174,7 @@ var inscriptions = new Map([
     "name": "ARZf1",
     "parsedInscription": "𐘚𐘀𐙁𐘃",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘚𐘀𐙁𐘃",
     "translatedWords": [
@@ -42992,6 +44194,7 @@ var inscriptions = new Map([
     "name": "ARZf2",
     "parsedInscription": "𐘚𐘀𐙁𐘃𐝫",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘚𐘀𐙁𐘃𐝫",
     "translatedWords": [
@@ -43009,6 +44212,7 @@ var inscriptions = new Map([
     "name": "ARGZg1",
     "parsedInscription": "𐘮 ≈ 𐙍𐘻",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐘮 ≈ 𐙍𐘻",
     "translatedWords": [
@@ -43034,6 +44238,7 @@ var inscriptions = new Map([
     "name": "ARKH1a",
     "parsedInscription": "𐝫𐘳𐘢𐄁\n𐘌𐝫\n𐝫𐘸𐝫\n𐝫𐄁\n𐘇𐘴𐝫\n𐝫\n𐝫𐘇𐘲𐘻𐙈𐝫\n𐝫𐘗𐄈𐝆\n𐘇𐘂𐝫\n𐝫𐘻𐘸𐘞𐘗𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ARKH1a-Tracing.jpg"
     ],
@@ -43116,6 +44321,7 @@ var inscriptions = new Map([
     "name": "ARKH1af",
     "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐘇𐝫\n𐝫",
     "translatedWords": [
@@ -43147,6 +44353,7 @@ var inscriptions = new Map([
     "name": "ARKH1b",
     "parsedInscription": "𐘇𐝫\n𐝫𐘱𐘙𐄉𐝫\n𐝫𐘰𐝫\n𐝫\n—\n𐝫𐘅𐄎",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ARKH1b-Tracing.jpg"
     ],
@@ -43204,6 +44411,7 @@ var inscriptions = new Map([
     "name": "ARKH2",
     "parsedInscription": "𐘤𐘀𐘃\n𐙂𐘴𐙎𐄋\n𐘇𐘤𐘀𐘄𐘚𐄐𐄈\n𐙀𐙕𐘈𐘦𐘐𐙈𐄌\n𐘇𐘲𐘫𐘮𐄊\n𐘘𐘻𐝫\n𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ARKH2-Tracing.jpg"
     ],
@@ -43276,6 +44484,7 @@ var inscriptions = new Map([
     "name": "ARKH3a",
     "parsedInscription": "𐝫𐘾𐘗𐙉𐝫\n𐝫𐝂\n𐙋𐄉𐝂\n𐙎𐄈𐝫\n𐝫𐄈\n𐙩𐄈\n𐝫\n𐝫𐘸𐘯𐙉𐄐𐄉𐝫\n𐝫𐘃𐄈\n𐙩𐄈\n𐙢𐄈𐝫\n𐝫𐙂𐄉",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫𐘾𐘗𐙉𐝫\n𐝫𐝂𐙋𐄉𐝂𐙎𐄈𐝫\n𐄈𐝫𐙩𐄈𐝫\n𐘸𐘯𐙉𐄐𐄉𐝫\n𐝫𐘃𐄈𐙩𐄈𐙢𐄈𐝫\n𐝫𐙂𐄉𐝫",
     "translatedWords": [
@@ -43394,6 +44603,7 @@ var inscriptions = new Map([
     "name": "ARKH3b",
     "parsedInscription": "𐝫𐘱𐘢𐙉𐄌𐝫\n𐝫𐘢𐙦𐙉𐄇𐝫\n𐙖𐝫\n𐝫\n𐝫𐄈\n𐙖𐄊\n𐝫𐙍𐄇𐝫",
     "scribe": "KH Scribe 1",
+    "support": "tablet",
     "tracingImages": [
         "images/ARKH3b-Tracing.jpg"
     ],
@@ -43472,6 +44682,7 @@ var inscriptions = new Map([
     "name": "ARKH4a",
     "parsedInscription": "𐝫\n𐝫𐘝𐘳𐝫\n𐝫𐘳𐄁𐘙𐄋\n𐘇𐝫𐄁𐝫𐘶𐄊\n𐘦𐘲𐝫𐄁𐝫𐘨𐘃𐄋\n𐘢𐘠𐘗𐘇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ARKH4a-Tracing.jpg"
     ],
@@ -43556,6 +44767,7 @@ var inscriptions = new Map([
     "name": "ARKH4b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘙𐄐\n𐘉𐝫\n𐝫𐘦𐘻𐄐\n𐘚𐘨𐝫𐝫𐄏\n𐘇𐘸𐘁𐄉\n𐘍𐘤𐙀𐝫𐝫𐄉\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫\n𐝫𐘙𐄐𐘉𐝫\n𐝫𐘦𐘻𐄐𐘚𐘨𐝫\n𐄏𐘇𐘸𐘁𐄉\n𐘍𐘤𐙀𐝫𐄉\n𐝫",
     "translatedWords": [
@@ -43638,6 +44850,7 @@ var inscriptions = new Map([
     "name": "ARKH5",
     "parsedInscription": "𐘇𐘬𐘝𐘳𐘅𐄓𐄇𐝫\n𐝫𐄍\n𐘇𐘀𐘁𐙉𐄓𐝫\n𐙎𐄌\n𐘇𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [
         "images/ARKH5-Tracing.jpg"
     ],
@@ -43701,6 +44914,7 @@ var inscriptions = new Map([
     "name": "ARKH6",
     "parsedInscription": "𐘀𐘅𐘹𐄁𐙂𐝫\n𐝫𐘃𐘭𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐘀𐘅𐘹𐄁𐙂𐝫\n𐝫𐘃𐘭𐝫\n𐝫",
     "translatedWords": [
@@ -43738,6 +44952,7 @@ var inscriptions = new Map([
     "name": "ARKH7",
     "parsedInscription": "𐝫\n—\n𐙜𐝂\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n—\n𐙜𐝂\n𐝫",
     "translatedWords": [
@@ -43776,6 +44991,7 @@ var inscriptions = new Map([
     "name": "ARKHZb10",
     "parsedInscription": "𐘞 ≈ 𐘳𐙁𐝫",
     "scribe": "",
+    "support": "clay vessel",
     "tracingImages": [],
     "transcription": "𐘞 ≈ 𐘳𐙁𐝫",
     "translatedWords": [
@@ -43799,6 +45015,7 @@ var inscriptions = new Map([
     "name": "ARKHZc8",
     "parsedInscription": "𐙚𐘳𐘧",
     "scribe": "",
+    "support": "inked inscription",
     "tracingImages": [],
     "transcription": "𐙚𐘳𐘧",
     "translatedWords": [
@@ -43816,6 +45033,7 @@ var inscriptions = new Map([
     "name": "ARKHZf9",
     "parsedInscription": "𐘱𐘸𐘤𐘸𐘯𐄁𐘻𐘀𐙁𐘽𐄁",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘱𐘸𐘤𐘸𐘯𐄁𐘻𐘀𐙁𐘽𐄁",
     "translatedWords": [
@@ -43842,6 +45060,7 @@ var inscriptions = new Map([
     "name": "ARMZg1",
     "parsedInscription": "𐜈",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐜈",
     "translatedWords": [
@@ -43859,6 +45078,7 @@ var inscriptions = new Map([
     "name": "CR(?)Zf1",
     "parsedInscription": "𐘇𐙁𐘮𐘤𐄁𐘾𐘝𐘱𐘻𐄁𐘚𐘱𐄁𐘌𐘸𐘈𐘯𐘠𐄁𐘇𐘳𐘦",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘇𐙁𐘮𐘤𐄁𐘾𐘝𐘱𐘻𐄁𐘚𐘱𐄁𐘌𐘸𐘈𐘯𐘠𐄁𐘇𐘳𐘦",
     "translatedWords": [
@@ -43900,6 +45120,7 @@ var inscriptions = new Map([
     "name": "CRZf5",
     "parsedInscription": "𐘱",
     "scribe": "",
+    "support": "metal object",
     "tracingImages": [],
     "transcription": "𐘱",
     "translatedWords": [
@@ -43917,6 +45138,7 @@ var inscriptions = new Map([
     "name": "CRZg3",
     "parsedInscription": "𐙍𐝫 ≈ 𐘝 ≈ 𐛿",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐙍𐝫 ≈ 𐘝 ≈ 𐛿",
     "translatedWords": [
@@ -43946,6 +45168,7 @@ var inscriptions = new Map([
     "name": "CRZg4",
     "parsedInscription": "𐘚𐘀𐘀\n𐘇𐘁𐘃",
     "scribe": "",
+    "support": "stone object",
     "tracingImages": [],
     "transcription": "𐘚𐘀𐘀\n𐘇𐘁𐘃",
     "translatedWords": [
@@ -43969,6 +45192,7 @@ var inscriptions = new Map([
     "name": "FOZc1",
     "parsedInscription": "𐙚𐘳𐘧",
     "scribe": "",
+    "support": "inked inscription",
     "tracingImages": [],
     "transcription": "𐙚𐘳𐘧",
     "translatedWords": [
@@ -43986,6 +45210,7 @@ var inscriptions = new Map([
     "name": "GO2r",
     "parsedInscription": "𐝫\n𐘤𐝫\n𐘾𐝄\n𐘤𐄈\n𐘀𐝫\n𐘤𐘀𐘁𐝃𐝫\n𐝫𐘈𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐘤𐝫\n𐘾𐝄𐘤𐄈𐘀𐝫\n𐘤𐘀𐘁𐝃𐝫\n𐝫𐘈𐝫\n𐝫",
     "translatedWords": [
@@ -44054,6 +45279,7 @@ var inscriptions = new Map([
     "name": "GO2v",
     "parsedInscription": "𐝫\n𐝫𐄇𐝄\n𐘀𐝫\n𐘙𐄇𐝫\n𐘈𐘤𐝫\n𐝫\n𐝫",
     "scribe": "",
+    "support": "tablet",
     "tracingImages": [],
     "transcription": "𐝫\n𐝫𐄇𐝄𐘀𐝫\n𐘙𐄇𐝫𐘈𐘤𐝫\n𐝫\n𐝫",
     "translatedWords": [
@@ -44113,6 +45339,7 @@ var inscriptions = new Map([
     "name": "GOWc1a",
     "parsedInscription": "𐘇𐘞𐘲𐙁𐘚𐘈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘇𐘞\n𐘲𐙁\n𐘚𐘈",
     "translatedWords": [
@@ -44130,6 +45357,7 @@ var inscriptions = new Map([
     "name": "GOWc1b",
     "parsedInscription": "𐘖𐄋",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐘖𐄋",
     "translatedWords": [
@@ -44150,6 +45378,7 @@ var inscriptions = new Map([
     "name": "GOWc3",
     "parsedInscription": "𐝬𐄑,𐄈",
     "scribe": "",
+    "support": "roundel",
     "tracingImages": [],
     "transcription": "𐝬𐄑,𐄈",
     "translatedWords": [
