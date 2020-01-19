@@ -6,4 +6,27 @@ var tags = new Map([
   ["HT9a", ['wrong total']],
   ["ZA15b", ['wrong total']],
   ["HT119", ['wrong total']],
+  ["TLZa1", ['libation formula']],
+  ["IOZa6", ['libation formula']],
+  ["ZAZb3", ['libation formula']],
+]);
+
+var periodNames = new Map([
+["EM", "Pre-palace period 3500-1900 BCE"],
+["EMI", "first) Early Minoan I  3500-2900 BCE"],
+["EMII", "Early Minoan IIA, IIB  2900-2300 BCE"],
+["EMIIIi", "Early Minoan III, Middle Minoan IA  2300-1900 BCE"],
+["MM", "Old Palace period 1900-1650 BCE"],
+["MMIBi", "Middle Minoan IB  1900-1800 BCE"],
+["MMIIA", "second) Middle Minoan IIA  1800-1750 BCE"],
+["MMIIB", "third) Middle Minoan IIB, IIIA 1750-1650 BCE"],
+["MMIIIA", "third) Middle Minoan IIB, IIIA 1750-1650 BCE"],
+["NP",  "New Palace period 1650-1450 BCE"],
+["MMIIIB", "(first) Middle Minoan IIIB  1650-1600 BCE"],
+["LMIA", "(second) Late Minoan IA 1600-1500 BCE"],
+["LMIB", "(third) Late Minoan IB  1500-1450 BCE"],
+["CM",  "Creto-Mycenaean period  1450-1100 BCE"],
+["LMII", "Third Palace period, Late Minoan II, IIIA1  1450-1350 BCE"],
+["LMIII",  "Post Palace period. Late Minoan IIIA2, IIIB, IIIC 1350-1100 BCE"],
+["SM",  "Sub-Minoan period 1100-1000 BCE"],
 ]);
