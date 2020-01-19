@@ -503,7 +503,6 @@ function loadInscription(inscription) {
 
   inscription.element = item;
   container.appendChild(item);
-  inscriptionsToLoad.delete(inscription.name);
   updateDisplayOfWordFrequency(item, false);
 
   return item;
@@ -768,8 +767,16 @@ function searchForWord(evt, name, index) {
   searchBox.dispatchEvent(new InputEvent("input"));
 }
 
-var inscriptionsAsArray = Array.from(inscriptions.entries());	
-var inscriptionsToLoad = new Map(inscriptions);
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+// Shuffle the inscriptions so we display a different group at the top every time
+var inscriptionsToLoad = shuffleArray(Array.from(inscriptions.keys()))[Symbol.iterator]();
 // create config object: rootMargin and threshold
 // are two properties exposed by the interface
 const config = {
@@ -782,7 +789,7 @@ let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
     // Only load new inscriptions if a search isn't active
     if(entry.isIntersecting && !highlightedSearchElements.length) {
-		  var key = inscriptionsToLoad.keys().next().value;	
+		  var key = inscriptionsToLoad.next().value;
       if (key) {
         var visibleInscription = loadInscription(inscriptions.get(key));
         observer.observe(visibleInscription);
@@ -794,7 +801,7 @@ let observer = new IntersectionObserver(function(entries, self) {
 
 function loadExplorer() {
   for (var i = 0; i < 10; i++) {
-    var key = inscriptionsToLoad.keys().next().value;	
+    var key = inscriptionsToLoad.next().value;
     var visibleInscription = loadInscription(inscriptions.get(key));
     observer.observe(visibleInscription);
   }
