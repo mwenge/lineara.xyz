@@ -639,7 +639,10 @@ function updateSearchTerms(evt, searchTerm) {
   item.setAttribute("term", searchTerm);
   item.setAttribute("onclick", "removeFilter(event)");
 
-  item.setAttribute("highlightColor", cycleColor());
+  var color = cycleColor();
+  item.style.backgroundColor = color;
+  item.style.opacity = "0.8";
+  item.setAttribute("highlightColor", color);
 
   container.appendChild(item);
   applySearchTerms();
