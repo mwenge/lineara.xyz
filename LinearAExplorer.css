@@ -371,3 +371,25 @@ dt, dd, font {
   background-color: yellow;
   text-transform: uppercase;
 }
+.bottom-console {
+  position: fixed;
+  left: 50%; /* horizontally centre */
+  transform: translateX(-50%); /* horizontally centre */
+  bottom: 2%;
+}
+.filter-command {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  opacity: 0.6;
+  border-radius: 50%;
+  font-size: 30px;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  padding: 20px;
+  border: 2px white solid;
+  display: inline-block;
+}
+

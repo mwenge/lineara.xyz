@@ -52,6 +52,7 @@ function checkKey(e) {
       } else if (!menu_was_showing) {
         help_menu.style.display = "block";
       }
+      toggleColor(document.getElementById("help-command"));
       break;
     case "/": // '/' - focus search bar
       if (search == document.activeElement) {
@@ -70,9 +71,11 @@ function checkKey(e) {
       break;
     case "t": // 't' - toggle translation
       toggleTranslation();
+      toggleColor(document.getElementById("translate-command"));
       break;
     case "w": // 'w' - highlight words according to frequency
       updateDisplayOfWordFrequency(document, true);
+      toggleColor(document.getElementById("word-command"));
       break;
     case "i": // 'i' - copy image of inscription to clipboard
       var current = getInscriptionHoveredOver();
@@ -134,6 +137,20 @@ function checkKey(e) {
   }
   // Cancel the default action to avoid it being handled twice
   e.preventDefault();
+}
+
+function sendKey(event, keyValue) {
+  var e = new KeyboardEvent("keydown", {
+        bubbles : true,
+        key : keyValue,
+  });
+  document.dispatchEvent(e);
+}
+
+function toggleColor(element) {
+  console.log(element);
+  var color = element.style.backgroundColor;
+  element.style.backgroundColor = color == "red" ? "black" : "red";
 }
 
 function closeZoomedWindow(e) {
