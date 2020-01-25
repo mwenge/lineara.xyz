@@ -378,6 +378,7 @@ dt, dd, font {
   left: 50%; /* horizontally centre */
   transform: translateX(-50%); /* horizontally centre */
   bottom: 0;
+  z-index: 5000;
 }
 .filter-command-container {
   display: inline-block;

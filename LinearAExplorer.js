@@ -148,7 +148,6 @@ function sendKey(event, keyValue) {
 }
 
 function toggleColor(element) {
-  console.log(element);
   var color = element.style.backgroundColor;
   element.style.backgroundColor = color == "purple" ? "black" : "purple";
 }
@@ -220,9 +219,9 @@ var cycleColor = (function () {
   var i = 0;
   return function () {
     i++;
-    red   = Math.sin(frequency*i + 0) * 55 + 200;
-    green = Math.sin(frequency*i + 2) * 55 + 200;
-    blue  = Math.sin(frequency*i + 4) * 55 + 200;
+    red   = Math.round(Math.sin(frequency*i + 0) * 55 + 200);
+    green = Math.round(Math.sin(frequency*i + 2) * 55 + 200);
+    blue  = Math.round(Math.sin(frequency*i + 4) * 55 + 200);
     return "rgba(" + red + ", " + green + ", " + blue + ", 0.5)";
   }
 })();
@@ -745,6 +744,7 @@ function applySearchTerms() {
     tagsToAdd.forEach( tag => {
       var label = document.createElement("div");
       label.className = 'tag';
+      label.style.backgroundColor = tagColors[tag];
       label.textContent = tag;
       inscription.tagContainer.appendChild(label);
     });
@@ -841,8 +841,13 @@ function toggleTag(event, tag) {
   } else {
     activeTags.push(tag);
   }
-  toggleColor(event.target);
-  applySearchTerms(tag);
+  var element = event.target;
+  var color = element.style.backgroundColor;
+  console.log(color);
+  console.log(tagColors[tag]);
+  element.style.color = color == tagColors[tag] ? "white" : "black";
+  element.style.backgroundColor = color == tagColors[tag] ? "black" : tagColors[tag];
+  applySearchTerms();
 }
 
 function showMetadata(event, metadata, activeMetadata, activeMetadataName) {
@@ -864,18 +869,22 @@ function showMetadata(event, metadata, activeMetadata, activeMetadataName) {
     item.className = 'filter-tag';
     item.textContent = datum;
     item.setAttribute("onclick", "toggleMetadatum(event, '" + datum + "', " + activeMetadataName + ", '" + event.target.id + "')");
-    item.style.backgroundColor = activeMetadata.includes(datum) ? "purple" : "black";
+    item.style.backgroundColor = activeMetadata.includes(datum) ? tagColors[datum] : "black";
+    item.style.color = activeMetadata.includes(datum) ? "black" : "white";
     container.appendChild(item);
   }
 }
 
+var tagColors = {};
 function toggleMetadatum(event, datum, activeMetadata, commandElementID) {
   if (activeMetadata.includes(datum)) {
     activeMetadata.splice(activeMetadata.indexOf(datum), 1);
   } else {
     activeMetadata.push(datum);
+    if (!tagColors[datum]) {
+      tagColors[datum] = cycleColor(); 
+    }
   }
-
   var element = document.getElementById(commandElementID);
   element.style.backgroundColor = activeMetadata.length ? "purple" : "black";
   toggleTag(event, datum);
