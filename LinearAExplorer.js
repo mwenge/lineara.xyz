@@ -150,7 +150,7 @@ function sendKey(event, keyValue) {
 function toggleColor(element) {
   console.log(element);
   var color = element.style.backgroundColor;
-  element.style.backgroundColor = color == "red" ? "black" : "red";
+  element.style.backgroundColor = color == "purple" ? "black" : "purple";
 }
 
 function closeZoomedWindow(e) {
@@ -489,23 +489,7 @@ function loadInscription(inscription) {
   var tagContainer = document.createElement("div");
   tagContainer.className = 'tag-container';
   item.appendChild(tagContainer);
-
-  if (inscription.scribe) {
-    var label = document.createElement("div");
-    label.className = 'tag';
-    label.textContent = inscription.scribe;
-    tagContainer.appendChild(label);
-    label.setAttribute("onclick", "updateSearchTerms(event, '\"" + inscription.scribe + "\"')");
-  }
-  if (tags.has(inscription.name)) {
-    tags.get(inscription.name).forEach( tag => {
-      var label = document.createElement("div");
-      label.className = 'tag';
-      label.textContent = tag;
-      tagContainer.appendChild(label);
-      label.setAttribute("onclick", "updateSearchTerms(event, '\"" + tag + "\"')");
-    });
-  }
+  inscription.tagContainer = tagContainer;
 
   var label = document.createElement("div");
   label.className = "label";
@@ -688,18 +672,24 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
         inscription.transcription.includes(searchTerm) ||
         inscription.name.includes(searchTerm) ||
         inscription.words.includes(searchTerm) ||
-        inscription.words.map(x => stripErased(x)).includes(searchTerm) ||
-        (tags.has(inscription.name) && tags.get(inscription.name).includes(searchTerm)) ||
-        inscription.scribe == searchTerm);
+        inscription.words.map(x => stripErased(x)).includes(searchTerm)
+        );
   }
 
   var containsTerm = inscription.translatedWords.filter(word => word == searchTerm).length > 0;
   return (containsTerm ||
       inscription.name == searchTerm ||
       inscription.words.includes(searchTerm) ||
-      inscription.words.map(x => stripErased(x)).includes(searchTerm) ||
-      (tags.has(inscription.name) && tags.get(inscription.name).includes(searchTerm)) ||
-      inscription.scribe == searchTerm);
+      inscription.words.map(x => stripErased(x)).includes(searchTerm)
+      );
+}
+
+function hasTag(tag, inscription) {
+  return (
+      (tags.has(inscription.name) && tags.get(inscription.name).includes(tag)) ||
+      inscription.support.includes(tag) ||
+      inscription.scribe == tag
+      );
 }
 
 function applySearchTerms() {
@@ -707,12 +697,18 @@ function applySearchTerms() {
   var numberOfSearchTerms = searchTerms.children.length;	
   var searchTermValues = Array.prototype.slice.call(searchTerms.children)
                          .map(x => stripErased(x.textContent));
+  var numberOfTags = activeTags.length;
+  var hasSearchTerm = (numberOfSearchTerms + numberOfTags > 0)
   clearHighlights();
 
+  console.log(activeTags);
   for (var inscription of inscriptions.values()) {
-    if (!numberOfSearchTerms) {
+    if (!hasSearchTerm) {
       if (inscription.element) {
         inscription.element.style.display = "flex";
+      }
+      if (inscription.tagContainer) {
+        inscription.tagContainer.innerHTML = "";
       }
       continue;
     }
@@ -726,6 +722,14 @@ function applySearchTerms() {
       }
     });
 
+    var tagsToAdd = [];
+    activeTags.forEach( tag => {
+      if (hasTag(tag, inscription)) {
+        shouldDisplay = true;
+        tagsToAdd.push(tag);
+      }
+    });
+
     if (!shouldDisplay) {
       if (inscription.element) {
         inscription.element.style.display = "none";
@@ -736,8 +740,20 @@ function applySearchTerms() {
     if (!newElement) {
       inscription.element.style.display = "flex";
     }
+
+    inscription.tagContainer.innerHTML = "";
+    tagsToAdd.forEach( tag => {
+      var label = document.createElement("div");
+      label.className = 'tag';
+      label.textContent = tag;
+      inscription.tagContainer.appendChild(label);
+    });
+
     for (index in searchTerms.children) {
       var searchElement = searchTerms.children.item(index);
+      if (!searchElement) {
+        continue;
+      }
       var term = searchElement.textContent;
       for (var j = 0; j < inscription.element.children.length; j++) {
         var element = inscription.element.children[j];
@@ -808,7 +824,7 @@ const config = {
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
     // Only load new inscriptions if a search isn't active
-    if(entry.isIntersecting && !highlightedSearchElements.length) {
+    if(entry.isIntersecting && !highlightedSearchElements.length && !activeTags.length) {
 		  var key = inscriptionsToLoad.next().value;
       if (key) {
         var visibleInscription = loadInscription(inscriptions.get(key));
@@ -819,7 +835,77 @@ let observer = new IntersectionObserver(function(entries, self) {
   });
 }, config);
 
+function toggleTag(event, tag) {
+  if (activeTags.includes(tag)) {
+    activeTags.splice(activeTags.indexOf(tag), 1);
+  } else {
+    activeTags.push(tag);
+  }
+  toggleColor(event.target);
+  applySearchTerms(tag);
+}
+
+function showMetadata(event, metadata, activeMetadata, activeMetadataName) {
+  metadata = metadata.filter(function(item, pos, self) {
+        return self.indexOf(item) == pos;
+  });
+  console.log(metadata);
+  var container = document.getElementById("filter-details-container");
+  container.innerHTML = "";
+
+  var visibility = container.style.visibility;
+  container.style.visibility = visibility == "visible" ? "hidden" : "visible";
+  if (visibility == "visible") {
+    return;
+  }
+
+  for (var datum of metadata) {
+    var item = document.createElement("div");
+    item.className = 'filter-tag';
+    item.textContent = datum;
+    item.setAttribute("onclick", "toggleMetadatum(event, '" + datum + "', " + activeMetadataName + ", '" + event.target.id + "')");
+    item.style.backgroundColor = activeMetadata.includes(datum) ? "purple" : "black";
+    container.appendChild(item);
+  }
+}
+
+function toggleMetadatum(event, datum, activeMetadata, commandElementID) {
+  if (activeMetadata.includes(datum)) {
+    activeMetadata.splice(activeMetadata.indexOf(datum), 1);
+  } else {
+    activeMetadata.push(datum);
+  }
+
+  var element = document.getElementById(commandElementID);
+  element.style.backgroundColor = activeMetadata.length ? "purple" : "black";
+  toggleTag(event, datum);
+}
+
+function loadInscriptionLevelTags() {
+  for (var inscription of inscriptions.values()) {
+    for (var item of [[supports, inscription.support],
+                      [scribes, inscription.scribe]]) {
+      var tag = item[1];
+      if (!tag) {
+        continue;
+      }
+      if (item[0].includes(tag)) {
+        continue;
+      }
+      item[0].push(tag);
+    }
+  }
+}
+
+var supports = [];
+var scribes = [];
+var activeTags = [];
+var activeSupports = [];
+var activeScribes = [];
+var activeTagValues = [];
 function loadExplorer() {
+  loadInscriptionLevelTags();
+
   for (var i = 0; i < 10; i++) {
     var key = inscriptionsToLoad.next().value;
     var visibleInscription = loadInscription(inscriptions.get(key));

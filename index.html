@@ -1250,7 +1250,7 @@ redirect_from:
   }
 </style>
 </head>
-<div id="result" class="result">Press ? for help.</div>
+<div id="result" class="result"></div>
 <script src="html2canvas.min.js"></script>
 <script src="tags.js"></script>
 <script src="LinearAInscriptions.js"></script>
@@ -1267,7 +1267,6 @@ redirect_from:
     }); 
     window.onload = function() {
       document.getElementById('search').dispatchEvent(new InputEvent("input"));
-      document.getElementById('result').style.display = "inline-block";
 
       // If we've been passed a specific inscription in the URL path
       // then zoom it.
@@ -1318,10 +1317,38 @@ redirect_from:
     <div class="other-explorer cypro-minoan-explorer">Cypro-Minoan</div>
   </a>
 </div>
+<div id="filter-details-container"></div>
 <div class="bottom-console">
-  <div class="filter-command" id="word-command" onclick="sendKey(event, 'w')">W</div>
-  <div class="filter-command" id="translate-command" onclick="sendKey(event, 't')">T</div>
-  <div class="filter-command" id="help-command" onclick="sendKey(event, '?')">?</div>
+  <div class="filters-container">
+    <div class="filter-command-container">
+      <div class="filter-command" id="tags-command"
+        onclick="showMetadata(event, Array.from(tags.values()).flat(), activeTagValues, 'activeTagValues')">𐘝</div>
+      <div class="filter-label">Tags</div>
+    </div>
+    <div class="filter-command-container">
+      <div class="filter-command" id="scribes-command" onclick="showMetadata(event, scribes, activeScribes, 'activeScribes')">𐙇</div>
+      <div class="filter-label">Scribes</div>
+    </div>
+    <div class="filter-command-container">
+      <div class="filter-command" id="supports-command" onclick="showMetadata(event, supports, activeSupports, 'activeSupports')">𐘱</div>
+      <div class="filter-label">Supports</div>
+    </div>
+    <div class="filter-command-container">
+      <div class="filter-command" id="word-command" onclick="sendKey(event, 'w')">𐄣</div>
+      <div class="filter-label">Frequency</div>
+    </div>
+    <div class="filter-command-container">
+      <div class="filter-command" style="position:relative" id="translate-command" onclick="sendKey(event, 't')">
+        <span style="position: absolute; top: 21%; left: 25%;">𐘇</span>
+        <span style="position: absolute; bottom: 21%; right: 25%;">A</span>
+      </div>
+      <div class="filter-label">Translate</div>
+    </div>
+    <div class="filter-command-container">
+      <div class="filter-command" id="help-command" onclick="sendKey(event, '?')">?</div>
+      <div class="filter-label">Help</div>
+    </div>
+  </div>
 </div>
 <script>
 loadExplorer();
