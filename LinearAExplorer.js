@@ -34,6 +34,7 @@ result.addEventListener("animationend", function() { result.style.display = "non
 console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
 document.onkeydown = checkKey;
 function checkKey(e) {
+  var search = document.getElementById("search");
   if (search == document.activeElement) {
     return;
   }
@@ -58,7 +59,8 @@ function checkKey(e) {
       if (search == document.activeElement) {
         return;
       }
-      search.focus();
+      toggleColor(document.getElementById("search-command"));
+      showSearch();
     case "s": // 's' - sort inscriptions by closest edit distance to 
              // inscription currently hovered over
       var current = getInscriptionHoveredOver();
@@ -137,6 +139,27 @@ function checkKey(e) {
   }
   // Cancel the default action to avoid it being handled twice
   e.preventDefault();
+}
+
+function showSearch() {
+  var search = document.getElementById('search');
+  var isVisible = search.style.visibility == "visible";
+  if (isVisible) {
+    search.style.visibility = 'hidden';
+    return;
+  }
+
+  var container = document.getElementById("filter-details-container");
+  container.innerHTML = "";
+
+  search.style.visibility = "visible";
+  search.focus();
+  search.addEventListener("keyup", function(event) {
+      if (event.keyCode === 13) {
+        event.preventDefault();
+        updateSearch(event);
+      }
+  }); 
 }
 
 function sendKey(event, keyValue) {
@@ -854,15 +877,19 @@ function showMetadata(event, metadata, activeMetadata, activeMetadataName) {
   metadata = metadata.filter(function(item, pos, self) {
         return self.indexOf(item) == pos;
   });
-  console.log(metadata);
+
+  var search = document.getElementById("search");
+  search.style.visibility = "hidden";
   var container = document.getElementById("filter-details-container");
   container.innerHTML = "";
 
-  var visibility = container.style.visibility;
-  container.style.visibility = visibility == "visible" ? "hidden" : "visible";
-  if (visibility == "visible") {
+  if (container.showing == activeMetadataName) {
+    container.style.visibility = "hidden";
+    container.showing = "";
     return;
   }
+  container.showing = activeMetadataName;
+  container.style.visibility = "visible";
 
   for (var datum of metadata) {
     var item = document.createElement("div");

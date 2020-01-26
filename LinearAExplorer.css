@@ -22,7 +22,7 @@ body {
 }
 .search {
   font-family: 'Courier', serif;
-  width: 200px;
+  border-radius: 1em;
   display: inline-block;
   font-size: 4vh;
   opacity: 0.8;
@@ -416,7 +416,7 @@ dt, dd, font {
 .filter-command-container:hover .filter-label {
   visibility: visible;
 }
-#filter-details-container {
+#filter-details-container, #search-container {
   position: fixed;
   left: 50%; /* horizontally centre */
   transform: translateX(-50%); /* horizontally centre */
@@ -438,4 +438,6 @@ dt, dd, font {
 .filter-tag:hover {
   opacity: 1;
 }
-
+textarea:focus, input:focus{
+  outline: none;
+}

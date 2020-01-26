@@ -1256,18 +1256,10 @@ redirect_from:
 <script src="LinearAInscriptions.js"></script>
 <script src="LinearAExplorer.js"></script>
 <div class="masthead-container">
-  <div class="masthead">LINEAR A</div><input type="search" class="search" id="search" placeholder="search"></input>
+  <div class="masthead">LINEAR A</div>
 </div>
 <script>
-    search.addEventListener("keyup", function(event) {
-        if (event.keyCode === 13) {
-          event.preventDefault();
-          updateSearch(event);
-        }
-    }); 
     window.onload = function() {
-      document.getElementById('search').dispatchEvent(new InputEvent("input"));
-
       // If we've been passed a specific inscription in the URL path
       // then zoom it.
       var urlPath = /\/\/(.+)\/(.+)/.exec(document.referrer);
@@ -1317,7 +1309,11 @@ redirect_from:
     <div class="other-explorer cypro-minoan-explorer">Cypro-Minoan</div>
   </a>
 </div>
-<div id="filter-details-container"></div>
+<div id="search-container">
+  <input type="search" class="search" id="search" placeholder="search"></input>
+</div>
+<div id="filter-details-container">
+</div>
 <div class="bottom-console">
   <div class="filters-container">
     <div class="filter-command-container">
@@ -1343,6 +1339,10 @@ redirect_from:
         <span style="position: absolute; bottom: 21%; right: 25%;">A</span>
       </div>
       <div class="filter-label">Translate</div>
+    </div>
+    <div class="filter-command-container">
+      <div class="filter-command" id="search-command" onclick="sendKey(event, '/')">&#128269;</div>
+      <div class="filter-label">Search</div>
     </div>
     <div class="filter-command-container">
       <div class="filter-command" id="help-command" onclick="sendKey(event, '?')">?</div>
