@@ -44,13 +44,11 @@ function checkKey(e) {
   if (e.ctrlKey) {
     return;
   }
-  var menu_was_showing = help_menu.style.display != "none";
-  help_menu.style.display = "none";
   switch(e.key) {
     case "?": // show help
       if (help_menu.style.display == "block") {
         help_menu.style.display = "none";
-      } else if (!menu_was_showing) {
+      } else {
         help_menu.style.display = "block";
       }
       toggleColor(document.getElementById("help-command"));
