@@ -392,7 +392,7 @@ dt, dd, font {
   border: 2px white solid;
   color: white;
   padding: 3px 5px;
-  font-size: 15px;
+  font-size: 0.6em;
 }
 .filter-command {
   cursor: pointer;
@@ -400,12 +400,12 @@ dt, dd, font {
   color: white;
   opacity: 0.6;
   border-radius: 50%;
-  font-size: 30px;
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
+  font-size: 1em;
+  width: 1em;
+  height: 1em;
+  line-height: 1em;
   text-align: center;
-  padding: 20px;
+  padding: 15px;
   border: 2px white solid;
   display: inline-block;
 }
@@ -420,7 +420,7 @@ dt, dd, font {
   position: fixed;
   left: 50%; /* horizontally centre */
   transform: translateX(-50%); /* horizontally centre */
-  bottom: 100px;
+  bottom: 4em;
   visibility: hidden;
 }
 .filter-tag {
@@ -430,7 +430,7 @@ dt, dd, font {
   border-radius: 3px;
   color: white;
   opacity: 0.8;
-  font-size: 15px;
+  font-size: 0.7em;
   background-color: black;
   float: left;
   margin: 5px;
