@@ -394,6 +394,9 @@ dt, dd, font {
   padding: 3px 5px;
   font-size: 0.6em;
 }
+.filters-container {
+  white-space: nowrap;
+}
 .filter-command {
   cursor: pointer;
   background-color: black;
