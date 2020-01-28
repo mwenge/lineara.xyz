@@ -878,6 +878,8 @@ function showMetadata(event, metadata, activeMetadata, activeMetadataName) {
 
   var search = document.getElementById("search");
   search.style.visibility = "hidden";
+  document.getElementById("search-command").style.backgroundColor = "black";
+
   var container = document.getElementById("filter-details-container");
   container.innerHTML = "";
 

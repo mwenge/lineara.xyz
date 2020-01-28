@@ -423,7 +423,7 @@ dt, dd, font {
   position: fixed;
   left: 50%; /* horizontally centre */
   transform: translateX(-50%); /* horizontally centre */
-  bottom: 4em;
+  bottom: 5em;
   visibility: hidden;
 }
 .filter-tag {
