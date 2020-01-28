@@ -707,6 +707,7 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
 function hasTag(tag, inscription) {
   return (
       (tags.has(inscription.name) && tags.get(inscription.name).includes(tag)) ||
+      (contexts.has(inscription.name) && contexts.get(inscription.name).includes(tag)) ||
       inscription.support.includes(tag) ||
       inscription.scribe == tag
       );
@@ -938,6 +939,7 @@ var scribes = [];
 var activeTags = [];
 var activeSupports = [];
 var activeScribes = [];
+var activeContexts = [];
 var activeTagValues = [];
 function loadExplorer() {
   loadInscriptionLevelTags();
