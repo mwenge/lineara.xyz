@@ -585,6 +585,13 @@ function addWordTip(word, inscription) {
     wordCommentElement.textContent = lexicon.get(word);
     tip.appendChild(wordCommentElement);
   }
+  console.log(word);
+  if (ligatures.has(word)) {
+    var wordCommentElement = document.createElement("div");
+    wordCommentElement.className = "lexicon";
+    wordCommentElement.textContent = 'Ligature: ' + word + ' = ' + ligatures.get(word).join(' + ');
+    tip.appendChild(wordCommentElement);
+  }
 
   var tipText = "";
   switch(wordCount) {
@@ -722,7 +729,6 @@ function applySearchTerms() {
   var hasSearchTerm = (numberOfSearchTerms + numberOfTags > 0)
   clearHighlights();
 
-  console.log(activeTags);
   for (var inscription of inscriptions.values()) {
     if (!hasSearchTerm) {
       if (inscription.element) {
@@ -865,8 +871,6 @@ function toggleTag(event, tag) {
   }
   var element = event.target;
   var color = element.style.backgroundColor;
-  console.log(color);
-  console.log(tagColors[tag]);
   element.style.color = color == tagColors[tag] ? "white" : "black";
   element.style.backgroundColor = color == tagColors[tag] ? "black" : tagColors[tag];
   applySearchTerms();
