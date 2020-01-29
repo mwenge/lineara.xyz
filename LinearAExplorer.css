@@ -379,6 +379,7 @@ dt, dd, font {
   transform: translateX(-50%); /* horizontally centre */
   bottom: 0;
   z-index: 5000;
+  font-family: 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Emoji', sans-serif;
 }
 .filter-command-container {
   display: inline-block;
