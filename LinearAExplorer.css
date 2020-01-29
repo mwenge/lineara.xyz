@@ -404,11 +404,10 @@ dt, dd, font {
   opacity: 0.6;
   border-radius: 50%;
   font-size: 1em;
-  width: 1em;
-  height: 1em;
-  line-height: 1em;
+  width: 3em;
+  height: 3em;
+  line-height: 3em;
   text-align: center;
-  padding: 15px;
   border: 2px white solid;
   display: inline-block;
 }
