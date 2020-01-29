@@ -59,8 +59,9 @@ function checkKey(e) {
       }
       toggleColor(document.getElementById("search-command"));
       showSearch();
+      /*
     case "s": // 's' - sort inscriptions by closest edit distance to 
-             // inscription currently hovered over
+              // inscription currently hovered over
       var current = getInscriptionHoveredOver();
       if (current) {
         result.style.display = "inline-block";
@@ -69,6 +70,7 @@ function checkKey(e) {
         result.textContent = "Sorted by edit distance.";
       }
       break;
+      */
     case "t": // 't' - toggle translation
       toggleTranslation();
       toggleColor(document.getElementById("translate-command"));
