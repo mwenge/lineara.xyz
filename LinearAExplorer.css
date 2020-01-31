@@ -23,6 +23,7 @@ body {
 .search {
   font-family: 'Courier', serif;
   border-radius: 1em;
+  padding-left: 1em;
   display: inline-block;
   font-size: 4vh;
   opacity: 0.8;
