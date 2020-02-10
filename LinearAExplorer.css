@@ -28,8 +28,6 @@ body {
   opacity: 0.8;
   border: gray 3px solid;
   padding: 5px;
-}
-input {
   padding-left: .5em;
 }
 input:focus::placeholder { color:transparent; }
