@@ -10,3 +10,9 @@
   font-weight: 400;
   src: url(NotoSansLinearA-LinearB.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Noto Emoji';
+  font-style: normal;
+  font-weight: 400;
+  src: url(NotoEmoji-Regular.ttf) format('truetype');
+}
