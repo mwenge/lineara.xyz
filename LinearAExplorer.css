@@ -21,7 +21,7 @@ body {
   background-color: #f5f5f0;
 }
 .search {
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
   border-radius: 1em;
   display: inline-block;
   font-size: 4vh;
@@ -91,7 +91,7 @@ input:focus::placeholder { color:transparent; }
 }
 .item {
   flex-grow: 1;
-  font-family: 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Courier', sans-serif;
+  font-family: 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
   padding: 10px;
   border: 1px solid grey;
   max-width: 150px;
@@ -104,7 +104,7 @@ input:focus::placeholder { color:transparent; }
   word-break: break-word;
 }
 .transliteration-item, .translation-item {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 100;
   color: gray;
   max-width: 350px;
@@ -115,7 +115,7 @@ input:focus::placeholder { color:transparent; }
   font-size: 20px;
 }
 .other-explorer {
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
   opacity: 0.8;
   font-size: 2vh;
   color: white;
@@ -229,7 +229,7 @@ input:focus::placeholder { color:transparent; }
   background-color: gray;
 }
 #credits {
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
 }
 #credits:hover {
   font-size: 2vh;
@@ -243,7 +243,7 @@ input:focus::placeholder { color:transparent; }
   width: 100%;
   border: 1px solid black;
   overflow-y: auto;
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
   font-size: 10px;
   display: none;
   z-index: 400;
@@ -257,7 +257,6 @@ dt, dd, font {
 .word-tip {
   position: absolute;
   font-size: 14px;
-  font-family: 'Courier', serif;
   color: white;
   background-color: black;
   border: 1px solid white;
@@ -273,7 +272,6 @@ dt, dd, font {
   font-size: 18px;
   color: white;
   background-color: gray;
-  font-family: 'Courier', serif;
 }
 
 .top-right-console {
@@ -367,7 +365,7 @@ dt, dd, font {
   margin: auto;
   width: 80%;
   height: 60%;
-  font-family: 'Courier', serif;
+  font-family: 'Noto Mono', serif;
   z-index: 400;
 }
 .help-menu > span {
@@ -426,6 +424,10 @@ dt, dd, font {
   transform: translateX(-50%); /* horizontally centre */
   bottom: 5em;
   visibility: hidden;
+}
+#filter-details-container {
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 3px;
 }
 .filter-tag {
   cursor: pointer;
