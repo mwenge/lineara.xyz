@@ -1254,6 +1254,7 @@ redirect_from:
 <script src="html2canvas.min.js"></script>
 <script src="tags.js"></script>
 <script src="LinearAInscriptions.js"></script>
+<script src="annotations.js"></script>
 <script src="LinearAExplorer.js"></script>
 <div class="masthead-container">
   <div class="masthead">LINEAR A</div>
@@ -1315,6 +1316,11 @@ redirect_from:
 </div>
 <div class="bottom-console">
   <div class="filters-container">
+    <div class="filter-command-container">
+      <div class="filter-command" id="wordtags-command"
+        onclick="showMetadata(event, wordtags, activeWordTags, 'activeWordTags')">W</div>
+      <div class="filter-label">Word Types</div>
+    </div>
     <div class="filter-command-container">
       <div class="filter-command" id="contexts-command"
         onclick="showMetadata(event, Array.from(contexts.values()).flat(), activeContexts, 'activeContexts')">&#x29D6;</div>

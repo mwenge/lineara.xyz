@@ -600,7 +600,6 @@ function addWordTip(word, inscription) {
     wordCommentElement.textContent = lexicon.get(word);
     tip.appendChild(wordCommentElement);
   }
-  console.log(word);
   if (ligatures.has(word)) {
     var wordCommentElement = document.createElement("div");
     wordCommentElement.className = "lexicon";
@@ -733,6 +732,7 @@ function hasTag(tag, inscription) {
       (tags.has(inscription.name) && tags.get(inscription.name).includes(tag)) ||
       (contexts.has(inscription.name) && contexts.get(inscription.name).includes(tag)) ||
       inscription.support.includes(tag) ||
+      inscription.wordTags.flat(2).includes(tag) ||
       inscription.scribe == tag
       );
 }
@@ -804,6 +804,24 @@ function applySearchTerms() {
         var element = inscription.element.children[j];
         var highlightColor = searchElement.getAttribute("highlightColor");
         highlightMatchesInElement(element, term, highlightColor);
+      }
+    }
+
+    for (var tag of activeWordTags) {
+      var highlightColor = tagColors[tag];
+      for (var index in inscription.wordTags) {
+        if (!inscription.wordTags[index].includes(tag)) {
+          continue;
+        }
+        var translation = document.getElementById(inscription.name + "-translation-" + index);
+        translation.style.backgroundColor = highlightColor;
+        var transliteration = document.getElementById(inscription.name + "-transliteration-" + index);
+        transliteration.style.backgroundColor = highlightColor;
+        var transcription = document.getElementById(inscription.name + "-transcription-" + index);
+        transcription.style.backgroundColor = highlightColor;
+        highlightedSearchElements.push(translation);
+        highlightedSearchElements.push(transliteration);
+        highlightedSearchElements.push(transcription);
       }
     }
   }
@@ -957,13 +975,29 @@ function loadInscriptionLevelTags() {
 
 var supports = [];
 var scribes = [];
+var wordtags = [];
 var activeTags = [];
 var activeSupports = [];
 var activeScribes = [];
 var activeContexts = [];
+var activeWordTags = [];
 var activeTagValues = [];
+function loadAnnotations() {
+  var collectedWordTags = [];
+  for (var annotation of wordAnnotations) {
+    var inscription = inscriptions.get(annotation.name);
+    inscription.wordTags = [];
+    for (var word of annotation.tagsForWords) {
+      inscription.wordTags.push(word.tags);
+      collectedWordTags.push(...word.tags);
+    }
+  }
+  wordtags = collectedWordTags.filter((v, i, a) => a.indexOf(v) === i);
+}
+
 function loadExplorer() {
   loadInscriptionLevelTags();
+  loadAnnotations();
 
   for (var i = 0; i < 10; i++) {
     var key = inscriptionsToLoad.next().value;
