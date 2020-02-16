@@ -440,6 +440,7 @@ dt, dd, font {
   background-color: black;
   float: left;
   margin: 5px;
+  text-transform: uppercase;
 }
 .filter-tag:hover {
   opacity: 1;
