@@ -410,6 +410,12 @@ function makeHideElements(elements) {
   };
 }
 
+function makeZoomItem(item) {
+  return function(e) {
+    zoomItem(item);
+  };
+}
+
 function addImageToItem(item, imageToAdd, name) {
   var itemShell = document.createElement("div");
   itemShell.className = 'item-shell';
@@ -517,6 +523,7 @@ function loadInscription(inscription) {
   item.className = 'item-container';
   item.id = inscription.name;
   item.setAttribute("onclick", "showCommentaryForInscription('" + inscription.name + "')");
+  item.addEventListener("dblclick", makeZoomItem(item));
 
   inscription.images.forEach( image => {
     addImageToItem(item, image, inscription.name)
