@@ -181,7 +181,44 @@ function closeZoomedWindow(e) {
   e.stopPropagation();
 }
 
+var commentaries = {};
+commentaries["HT118"] = "https://docs.google.com/document/d/e/2PACX-1vQN17sMMY9JAehLGo8kfNHNq5qQMZFIhBrZhjuPRZemRXBcbAyxk9uIeLaEHuWFeZQ7-MgPM0iYgB5Y/pub?embedded=true";
+commentaries["HT123b"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4OWVOOuhdcv54lX942IcbCXEt1BazXLAoQiByVIQKHHymG1K1WEUFm9OLDyQuKmMGxUJ9w6IttC/pub?embedded=true";
+commentaries["HT123a"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4OWVOOuhdcv54lX942IcbCXEt1BazXLAoQiByVIQKHHymG1K1WEUFm9OLDyQuKmMGxUJ9w6IttC/pub?embedded=true";
+commentaries["HT95a"] = "https://docs.google.com/document/d/e/2PACX-1vTBHvxagDkbtGQrRGB7S2D79hzuAuBISJLLkmoTFChHB0VD0pgsucIg0Bysq9N9TfAn6OzmrycYooHK/pub?embedded=true";
+commentaries["HT95b"] = "https://docs.google.com/document/d/e/2PACX-1vTBHvxagDkbtGQrRGB7S2D79hzuAuBISJLLkmoTFChHB0VD0pgsucIg0Bysq9N9TfAn6OzmrycYooHK/pub?embedded=true";
+
 function showCommentaryForInscription(inscription) {
+  if (!commentaries[inscription]) {
+    showYoungerCommentaryForInscription(inscription);
+    return;
+  }
+
+  var inscriptionElement = document.getElementById(inscription);
+  var commentBox = document.getElementById("mycomment-box-" + inscription);
+  if (commentBox) {
+    document.body.offsetTop;
+    commentBox.style.top = inscriptionElement.offsetHeight + "px";
+    if (commentBox.style.display == "block") {
+      commentBox.style.display = "none";
+      return;
+    }
+    commentBox.style.display = "block";
+    return;
+  }
+
+  var commentBox = document.createElement("iframe")
+  commentBox.className = 'comment-box';
+  commentBox.id = 'mycomment-box-' + inscription;
+  commentBox.style.top = inscriptionElement.offsetHeight + "px";
+  commentBox.src = commentaries[inscription];
+  commentBox.height = "400px";
+  commentBox.addEventListener("click", makeHideElements([commentBox]));
+  inscriptionElement.appendChild(commentBox);
+  commentBox.style.display = "block";
+}
+
+function showYoungerCommentaryForInscription(inscription) {
   var inscriptionElement = document.getElementById(inscription);
 
   var commentBox = document.getElementById("comment-box-" + inscription);
@@ -204,7 +241,7 @@ function showCommentaryForInscription(inscription) {
   inscriptionElement.appendChild(commentBox);
 
   inscription = inscription.replace(/[a-z]$/g, "");
-  var commentaries = ["mycommentary/" + inscription + "/" + inscription + ".html", "commentary/" + inscription + ".html"]
+  var commentaries = ["commentary/" + inscription + ".html"]
   commentBox.innerHTML = "";
   var failures = 0;
   commentaries.forEach( commentary => {
