@@ -24808,7 +24808,7 @@ var inscriptions = new Map([
     "tracingImages": [],
     "transcription": "𐘲𐘸𐘭𐘃𐘚𐘱",
     "translatedWords": [
-        "SU-KI-RI-TE-I-JA"
+        "from SU-KI-RI-TA"
     ],
     "transliteratedWords": [
         "SU-KI-RI-TE-I-JA"

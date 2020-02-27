@@ -291,7 +291,9 @@ function hasMatchForHighlight(fullWordMatch, searchTerm, text) {
   if (fullWordMatch) {
     return (searchTerm == text);
   }
-  return (text.includes(searchTerm));
+  searchTerm = searchTerm.replace(/\\/g, "");
+  var re = new RegExp(searchTerm);
+  return (re.test(text));
 }
 
 function highlightMatchesInElement(element, searchTerm, highlightColor) {
@@ -751,10 +753,14 @@ function loadSearchTerms(key) {
 }
 
 function hasMatch(fullWordMatch, searchTerm, inscription) {
+  searchTerm = searchTerm.replace(/\\/g, "");
+  var re = new RegExp(searchTerm);
   if (!fullWordMatch) {
+    var containsRegEx = inscription.translatedWords.filter(word => re.test(word)).length > 0;
+    containsRegEx |= inscription.transliteratedWords.filter(word => re.test(word)).length > 0;
     var containsTerm = inscription.translatedWords.filter(word => word.includes(searchTerm)).length > 0;
     containsTerm |= inscription.transliteratedWords.filter(word => word.includes(searchTerm)).length > 0;
-    return (containsTerm ||
+    return (containsRegEx || containsTerm ||
         inscription.transcription.includes(searchTerm) ||
         inscription.name.includes(searchTerm) ||
         inscription.words.includes(searchTerm) ||
@@ -844,6 +850,7 @@ function applySearchTerms() {
         continue;
       }
       var term = searchElement.textContent;
+      console.log(term);
       for (var j = 0; j < inscription.element.children.length; j++) {
         var element = inscription.element.children[j];
         var highlightColor = searchElement.getAttribute("highlightColor");
