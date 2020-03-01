@@ -418,7 +418,7 @@ function makeZoomItem(item) {
   };
 }
 
-function addImageToItem(item, imageToAdd, name) {
+function addImageToItem(item, imageToAdd, name, imageType) {
   var itemShell = document.createElement("div");
   itemShell.className = 'item-shell';
   item.appendChild(itemShell);
@@ -436,6 +436,7 @@ function addImageToItem(item, imageToAdd, name) {
   inscriptionImage.className = 'item';
   var imageWrapper = document.createElement("div");
   imageWrapper.setAttribute("class", "img-wrapper");
+  imageWrapper.id = "image-wrapper-" + imageType + "-" + name;
   inscriptionImage.appendChild(imageWrapper);
 
   var lens = document.createElement("div");
@@ -444,6 +445,7 @@ function addImageToItem(item, imageToAdd, name) {
 
   var img = document.createElement("img");
   img.src = encodeURIComponent(imageToAdd);
+  img.id = "image-" + imageType + "-" + name;
   img.height = "200";
   img.addEventListener("error", makeGiveUpOnImages([inscriptionImage, itemZoom]));
   imageWrapper.appendChild(img);
@@ -528,10 +530,10 @@ function loadInscription(inscription) {
   item.addEventListener("dblclick", makeZoomItem(item));
 
   inscription.images.forEach( image => {
-    addImageToItem(item, image, inscription.name)
+    addImageToItem(item, image, inscription.name, "photo")
   });
   inscription.tracingImages.forEach( image => {
-    addImageToItem(item, image, inscription.name)
+    addImageToItem(item, image, inscription.name, "transcription")
   });
 
 
@@ -682,7 +684,43 @@ function updateTipText(string) {
   tip.innerHTML = string;
 }
 
+function highlightLettersInTranscription(name, index) {
+  var inscription = inscriptions.get(name);
+  var key = inscription.tracingImages[0];
+  if (!coordinates.has(key)) {
+    return;
+  }
+  var element = document.getElementById("image-wrapper-transcription-" + name);
+  Array.prototype.map.call(element.getElementsByClassName("letter-highlight"), x => element.removeChild(x));
+
+  var wordsBeforeIndex = index ? inscriptions.get(name).words.slice(0, index) : [];
+  console.log(wordsBeforeIndex);
+  var lettersBeforeIndex =  wordsBeforeIndex.flat().filter(word => word != '\u{1076b}' && word != '\n' && word != '𐄁');
+  console.log(lettersBeforeIndex);
+  lettersBeforeIndex = lettersBeforeIndex.join('');
+  var splitter = new GraphemeSplitter();
+  var indexToHighlight = splitter.countGraphemes(lettersBeforeIndex);
+  var coords = coordinates.get(key); 
+
+  var img = document.getElementById("image-transcription-" + name);
+
+  var wordLength = splitter.countGraphemes(inscriptions.get(name).words[index]);
+  console.log(indexToHighlight, wordLength);
+  for (var i = indexToHighlight; i < indexToHighlight + wordLength; i++) {
+    var area = coords[i].coords;
+    var highlight = document.createElement("div");
+    highlight.className = "letter-highlight";
+    highlight.style.width = ((area.width / img.naturalWidth) * 100) + '%';
+    highlight.style.height = ((area.height / img.naturalHeight) * 100) + '%';
+    highlight.style.top = ((area.y / img.naturalHeight) * 100) + '%';
+    highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
+    element.appendChild(highlight);
+  }
+  console.log("added highlight " + index);
+}
+
 function highlightWords(evt, name, index) {
+  highlightLettersInTranscription(name, index);
   var items = ["transcription", "translation", "transliteration"];
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
@@ -711,6 +749,9 @@ function clearHighlight(evt, name, index) {
     }
     element.style.backgroundColor = "";
   }
+  var element = document.getElementById("image-wrapper-transcription-" + name);
+  Array.prototype.map.call(element.getElementsByClassName("letter-highlight"), x => element.removeChild(x));
+  console.log("cleared highlight " + index);
 }
 
 function updateSearchTerms(evt, searchTerm) {

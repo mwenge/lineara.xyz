@@ -448,3 +448,8 @@ dt, dd, font {
 textarea:focus, input:focus{
   outline: none;
 }
+.letter-highlight {
+  position: absolute;
+  opacity: 0.5;
+  background-color: yellow;
+}
