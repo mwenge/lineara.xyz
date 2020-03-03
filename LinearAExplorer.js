@@ -697,14 +697,14 @@ function highlightLettersInTranscription(name, index) {
   console.log(wordsBeforeIndex);
   var lettersBeforeIndex =  wordsBeforeIndex.flat().filter(word => word != '\u{1076b}' && word != '\n' && word != '𐄁');
   console.log(lettersBeforeIndex);
-  lettersBeforeIndex = lettersBeforeIndex.join('');
+  lettersBeforeIndex = lettersBeforeIndex.join('').replace(/\u{1076b}/gu, "");
   var splitter = new GraphemeSplitter();
   var indexToHighlight = splitter.countGraphemes(lettersBeforeIndex);
   var coords = coordinates.get(key); 
 
   var img = document.getElementById("image-transcription-" + name);
 
-  var wordLength = splitter.countGraphemes(inscriptions.get(name).words[index]);
+  var wordLength = splitter.countGraphemes(inscriptions.get(name).words[index].replace(/\u{1076b}/gu, ""));
   console.log(indexToHighlight, wordLength);
   for (var i = indexToHighlight; i < indexToHighlight + wordLength; i++) {
     var area = coords[i].coords;
