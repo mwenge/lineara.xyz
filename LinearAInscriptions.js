@@ -26139,15 +26139,15 @@ var inscriptions = new Map([
         "images/KH5-Inscription.jpg"
     ],
     "name": "KH5",
-    "parsedInscription": "𐘇𐘸𐘤𐘾𐄁𐘇𐘴𐘉𐘀𐄁\n𐘣𐘞𐘞𐘗𐜚𐄈\n𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁\n𐙂𐘂𐙀𐙗𐝫𐄉𐝫𐝀\n𐘝𐄈𐝆𐝁",
+    "parsedInscription": "𐘇𐘀𐘸𐘤𐘾𐄁𐘇𐘴𐘉𐘀𐄁\n𐘣𐘞𐘞𐘗𐜚𐄈\n𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁\n𐙂𐘂𐙀𐙗𐝫𐄉𐝫𐝀\n𐘝𐄈𐝆𐝁",
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "tracingImages": [
         "images/KH5-Tracing.jpg"
     ],
-    "transcription": "𐘇𐘸𐘤𐘾𐄁𐘇𐘴𐘉\n𐘀𐄁𐘣𐘞𐘞𐘗𐜚𐄈𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁𐙂𐘂𐙀\n𐙗𐝫𐄉𐝫𐝀𐘝𐄈𐝆𐝁",
+    "transcription": "𐘇𐘀𐘸𐘤𐘾𐄁𐘇𐘴𐘉\n𐘀𐄁𐘣𐘞𐘞𐘗𐜚𐄈𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁𐙂𐘂𐙀\n𐙗𐝫𐄉𐝫𐝀𐘝𐄈𐝆𐝁",
     "translatedWords": [
-        "A-KI-SI-KA",
+        "A-DA-KI-SI-KA",
         "𐄁",
         "A-RA-U-DA",
         "𐄁",
@@ -26174,7 +26174,7 @@ var inscriptions = new Map([
         "𐝆𐝁"
     ],
     "transliteratedWords": [
-        "A-KI-SI-KA",
+        "A-DA-KI-SI-KA",
         "𐄁",
         "A-RA-U-DA",
         "𐄁",
@@ -26201,7 +26201,7 @@ var inscriptions = new Map([
         "𐝆𐝁"
     ],
     "words": [
-        "𐘇𐘸𐘤𐘾",
+        "𐘇𐘀𐘸𐘤𐘾",
         "𐄁",
         "𐘇𐘴𐘉𐘀",
         "𐄁",
