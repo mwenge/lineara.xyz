@@ -744,6 +744,9 @@ function clearHighlight(evt, name, index) {
     element.style.backgroundColor = "";
   }
   var element = document.getElementById("image-wrapper-transcription-" + name);
+  if (!element) {
+    return;
+  }
   var elements = element.getElementsByClassName("letter-highlight");
   while(elements.length > 0){
     element.removeChild(elements[0]);
