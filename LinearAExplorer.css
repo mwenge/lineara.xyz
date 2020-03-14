@@ -7,6 +7,8 @@ body {
   display: flex;
   position: relative;
   min-width: 150px;
+  border-radius: 10px;
+  box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
 }
 .zoomed-item-container {
   position: fixed;
@@ -17,7 +19,7 @@ body {
   z-index: 400;
   box-shadow: 0 0 0 100vmax rgba(0,0,0,.3);
 }
-.item-container:hover {
+.text-item:hover {
   background-color: #f5f5f0;
 }
 .search {
@@ -93,7 +95,6 @@ input:focus::placeholder { color:transparent; }
   flex-grow: 1;
   font-family: 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
   padding: 10px;
-  border: 1px solid grey;
   max-width: 200px;
   position: relative;
   background-color: inherit;
@@ -102,6 +103,8 @@ input:focus::placeholder { color:transparent; }
 .text-item {
   max-width: 250px;
   word-break: break-word;
+  border-left: 1px solid grey;
+  overflow: hidden;
 }
 .transliteration-item, .translation-item {
   font-size: 18px;
@@ -200,6 +203,7 @@ input:focus::placeholder { color:transparent; }
   padding: 2px;
   color: white;
   opacity: 0.5;
+  border-bottom-right-radius: 10px;
 }
 .tag-container {
   padding: 2px;
