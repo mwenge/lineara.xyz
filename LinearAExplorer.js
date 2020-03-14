@@ -316,6 +316,9 @@ function highlightMatchesInElement(element, searchTerm, highlightColor) {
       transliteration.style.backgroundColor = highlightColor;
       var transcription = document.getElementById(inscription + "-transcription-" + j);
       transcription.style.backgroundColor = highlightColor;
+
+      setHighlightLettersInTranscription(inscription, j, highlightColor);
+
       highlightedSearchElements.push(translation);
       highlightedSearchElements.push(transliteration);
       highlightedSearchElements.push(transcription);
@@ -339,7 +342,7 @@ function updateSearch(event) {
   updateSearchTerms(event, searchTerm);
 }
 
-function makeMoveLens(lens, img, result, cx, cy) {
+function makeMoveLens(lens, img, result, imageToAdd, name, cx, cy) {
   return function(e) {
     result.style.display = "flex";
     lens.style.display = "block";
@@ -449,13 +452,71 @@ function addImageToItem(item, imageToAdd, name, imageType) {
   img.id = "image-" + imageType + "-" + name;
   img.height = "200";
   img.addEventListener("error", makeGiveUpOnImages([inscriptionImage, itemZoom]));
+  img.addEventListener("load", addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, itemZoom));
   imageWrapper.appendChild(img);
   itemShell.appendChild(inscriptionImage);
 
   itemZoom.style.backgroundImage = "url('" + img.src + "')";
-  lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
-  img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom));
+  lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, name));
+  img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, name));
   itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
+}
+
+function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, itemZoom) {
+  return function(e) {
+    if (!coordinates.has(imageToAdd)) {
+      return;
+    }
+    var imageCoords = coordinates.get(imageToAdd);
+    var currentWord = 0;
+    var prevWord = -1;
+    var wordContainer = null;
+    for (var i = 0; i < imageCoords.length; i++) {
+      var area = imageCoords[i].coords;
+      currentWord = wordIndexForLetterIndex(name, i, currentWord);
+
+      if (currentWord != prevWord) {
+        wordContainer = document.createElement("div");
+        var wordID = "image-" + imageType + "-" + name + "-word-highlight-" + currentWord;
+        wordContainer.className = "word-highlight";
+        wordContainer.style.top = ((area.y / img.naturalHeight) * 100) + '%';
+        wordContainer.style.left = ((area.x / img.naturalWidth) * 100) + '%';
+        wordContainer.id = wordID;
+        wordContainer.setAttribute("onmouseout", "clearHighlight(event, '" + name + "', '" + currentWord + "')");
+        imageWrapper.appendChild(wordContainer);
+      }
+      prevWord = currentWord;
+
+      var highlight = document.createElement("div");
+      highlight.className = "letter-highlight";
+      highlight.id = "image-" + imageType + "-" + name + "-letter-highlight-" + i;
+      highlight.style.width = ((area.width / img.naturalWidth) * 100) + '%';
+      highlight.style.height = ((area.height / img.naturalHeight) * 100) + '%';
+      highlight.style.top = ((area.y / img.naturalHeight) * 100) + '%';
+      highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
+      highlight.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, name));
+      highlight.setAttribute("onmouseover", "highlightWords('" + name + "', '" + currentWord + "')");
+      highlight.setAttribute("onmouseout", "clearHighlight(event, '" + name + "', '" + currentWord + "')");
+      wordContainer.appendChild(highlight);
+    }
+  };
+}
+
+function wordIndexForLetterIndex(name, index, from) {
+  var splitter = new GraphemeSplitter();
+  var words = inscriptions.get(name).words;
+  var letters = 0;
+  for (var i = 0; i < words.length; i++) {
+    var word = words[i];
+    if (word == '\u{1076b}' || word == '\n' || word == '𐄁') {
+      continue;
+    }
+    letters += splitter.countGraphemes(stripErased(word));
+    if (letters > index) {
+      return i;
+    }
+  }
+  return 0;
 }
 
 
@@ -550,7 +611,7 @@ function loadInscription(inscription) {
 
       var searchTerm = stripErased(word);
       span.id = inscription.name + "-transcription-" + i;
-      span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onmouseover", "highlightWords('" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onclick", "updateSearchTerms(event, '\"" + span.textContent + "\"')");
     }
@@ -604,7 +665,7 @@ function populateText(inscription, type, words) {
       span.className = getClassNameForWord(inscription.words[i]);
       span.classList.add("word-frequency-none");
       span.id = inscription.name + "-" + type + "-" + i;
-      span.setAttribute("onmouseover", "highlightWords(event, '" + inscription.name + "', '" + i + "')");
+      span.setAttribute("onmouseover", "highlightWords('" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onclick", "updateSearchTerms(event, '\"" + inscription.words[i] + "\"')");
     }
@@ -683,42 +744,19 @@ function updateTipText(string) {
   tip.innerHTML = string;
 }
 
-function highlightLettersInTranscription(name, index) {
-  var inscription = inscriptions.get(name);
-  var key = inscription.tracingImages[0];
-  if (!coordinates.has(key)) {
+function setHighlightLettersInTranscription(name, index, highlight) {
+  var element = document.getElementById("image-transcription-" + name + "-word-highlight-" + index);
+  if (!element) {
     return;
   }
-  var element = document.getElementById("image-wrapper-transcription-" + name);
-  Array.prototype.map.call(element.getElementsByClassName("letter-highlight"), x => element.removeChild(x));
 
-  var wordsBeforeIndex = index ? inscriptions.get(name).words.slice(0, index) : [];
-  var lettersBeforeIndex =  wordsBeforeIndex.flat().filter(word => word != '\u{1076b}' && word != '\n' && word != '𐄁');
-  lettersBeforeIndex = lettersBeforeIndex.join('').replace(/\u{1076b}/gu, "");
-  var splitter = new GraphemeSplitter();
-  var indexToHighlight = splitter.countGraphemes(lettersBeforeIndex);
-  var coords = coordinates.get(key); 
-
-  var img = document.getElementById("image-transcription-" + name);
-
-  var wordLength = splitter.countGraphemes(inscriptions.get(name).words[index].replace(/\u{1076b}/gu, ""));
-  for (var i = indexToHighlight; i < indexToHighlight + wordLength; i++) {
-    if (!coords[i]) {
-      return;
-    }
-    var area = coords[i].coords;
-    var highlight = document.createElement("div");
-    highlight.className = "letter-highlight";
-    highlight.style.width = ((area.width / img.naturalWidth) * 100) + '%';
-    highlight.style.height = ((area.height / img.naturalHeight) * 100) + '%';
-    highlight.style.top = ((area.y / img.naturalHeight) * 100) + '%';
-    highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
-    element.appendChild(highlight);
-  }
+  var elements = element.getElementsByClassName("letter-highlight");
+  Array.from(elements).forEach( element => {
+    element.style.backgroundColor = highlight;
+  });
 }
 
-function highlightWords(evt, name, index) {
-  highlightLettersInTranscription(name, index);
+function highlightWords(name, index) {
   var items = ["transcription", "translation", "transliteration"];
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
@@ -729,6 +767,7 @@ function highlightWords(evt, name, index) {
     if (element.style.backgroundColor) {
       continue;
     }
+    setHighlightLettersInTranscription(name, index, "yellow");
     element.style.backgroundColor = "yellow";
   }
 }
@@ -745,15 +784,8 @@ function clearHighlight(evt, name, index) {
     if (highlightedSearchElements.includes(element)) {
       continue;
     }
+    setHighlightLettersInTranscription(name, index, "");
     element.style.backgroundColor = "";
-  }
-  var element = document.getElementById("image-wrapper-transcription-" + name);
-  if (!element) {
-    return;
-  }
-  var elements = element.getElementsByClassName("letter-highlight");
-  while(elements.length > 0){
-    element.removeChild(elements[0]);
   }
 }
 

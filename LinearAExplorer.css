@@ -461,8 +461,9 @@ dt, dd, font {
 textarea:focus, input:focus{
   outline: none;
 }
+.word-highlight {
+}
 .letter-highlight {
   position: absolute;
   opacity: 0.5;
-  background-color: yellow;
 }
