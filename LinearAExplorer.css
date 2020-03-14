@@ -106,6 +106,14 @@ input:focus::placeholder { color:transparent; }
   border-left: 1px solid grey;
   overflow: hidden;
 }
+.text-item:first-child, .item-shell:first-child {
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.transliteration-item, .translation-item {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
 .transliteration-item, .translation-item {
   font-size: 18px;
   font-weight: 100;
