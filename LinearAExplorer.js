@@ -702,6 +702,9 @@ function highlightLettersInTranscription(name, index) {
 
   var wordLength = splitter.countGraphemes(inscriptions.get(name).words[index].replace(/\u{1076b}/gu, ""));
   for (var i = indexToHighlight; i < indexToHighlight + wordLength; i++) {
+    if (!coords[i]) {
+      return;
+    }
     var area = coords[i].coords;
     var highlight = document.createElement("div");
     highlight.className = "letter-highlight";
