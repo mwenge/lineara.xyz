@@ -694,9 +694,7 @@ function highlightLettersInTranscription(name, index) {
   Array.prototype.map.call(element.getElementsByClassName("letter-highlight"), x => element.removeChild(x));
 
   var wordsBeforeIndex = index ? inscriptions.get(name).words.slice(0, index) : [];
-  console.log(wordsBeforeIndex);
   var lettersBeforeIndex =  wordsBeforeIndex.flat().filter(word => word != '\u{1076b}' && word != '\n' && word != '𐄁');
-  console.log(lettersBeforeIndex);
   lettersBeforeIndex = lettersBeforeIndex.join('').replace(/\u{1076b}/gu, "");
   var splitter = new GraphemeSplitter();
   var indexToHighlight = splitter.countGraphemes(lettersBeforeIndex);
@@ -705,7 +703,6 @@ function highlightLettersInTranscription(name, index) {
   var img = document.getElementById("image-transcription-" + name);
 
   var wordLength = splitter.countGraphemes(inscriptions.get(name).words[index].replace(/\u{1076b}/gu, ""));
-  console.log(indexToHighlight, wordLength);
   for (var i = indexToHighlight; i < indexToHighlight + wordLength; i++) {
     var area = coords[i].coords;
     var highlight = document.createElement("div");
@@ -716,7 +713,6 @@ function highlightLettersInTranscription(name, index) {
     highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
     element.appendChild(highlight);
   }
-  console.log("added highlight " + index);
 }
 
 function highlightWords(evt, name, index) {
@@ -750,8 +746,10 @@ function clearHighlight(evt, name, index) {
     element.style.backgroundColor = "";
   }
   var element = document.getElementById("image-wrapper-transcription-" + name);
-  Array.prototype.map.call(element.getElementsByClassName("letter-highlight"), x => element.removeChild(x));
-  console.log("cleared highlight " + index);
+  var elements = element.getElementsByClassName("letter-highlight");
+  while(elements.length > 0){
+    element.removeChild(elements[0]);
+  }
 }
 
 function updateSearchTerms(evt, searchTerm) {
@@ -891,7 +889,6 @@ function applySearchTerms() {
         continue;
       }
       var term = searchElement.textContent;
-      console.log(term);
       for (var j = 0; j < inscription.element.children.length; j++) {
         var element = inscription.element.children[j];
         var highlightColor = searchElement.getAttribute("highlightColor");
