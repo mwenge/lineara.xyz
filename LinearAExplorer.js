@@ -36,6 +36,10 @@ document.onkeydown = checkKey;
 function checkKey(e) {
   var search = document.getElementById("search");
   if (search == document.activeElement) {
+    if (e.key == "Escape") {
+      toggleColor(document.getElementById("search-command"));
+      showSearch();
+    }
     return;
   }
   if (e.defaultPrevented) {
@@ -54,9 +58,6 @@ function checkKey(e) {
       toggleColor(document.getElementById("help-command"));
       break;
     case "/": // '/' - focus search bar
-      if (search == document.activeElement) {
-        return;
-      }
       toggleColor(document.getElementById("search-command"));
       showSearch();
       break;
