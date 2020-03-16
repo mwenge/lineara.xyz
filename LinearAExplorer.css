@@ -212,6 +212,7 @@ input:focus::placeholder { color:transparent; }
   color: white;
   opacity: 0.5;
   border-bottom-right-radius: 10px;
+  font: 14px;
 }
 .tag-container {
   padding: 2px;
