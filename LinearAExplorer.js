@@ -317,11 +317,12 @@ function highlightMatchesInElement(element, searchTerm, highlightColor) {
       var transcription = document.getElementById(inscription + "-transcription-" + j);
       transcription.style.backgroundColor = highlightColor;
 
-      setHighlightLettersInTranscription(inscription, j, highlightColor);
-
       highlightedSearchElements.push(translation);
       highlightedSearchElements.push(transliteration);
       highlightedSearchElements.push(transcription);
+
+      var highlightedElements = setHighlightLettersInTranscription(inscription, j, highlightColor);
+      highlightedSearchElements = highlightedSearchElements.concat(highlightedElements);
     }
   }
 }
@@ -745,15 +746,18 @@ function updateTipText(string) {
 }
 
 function setHighlightLettersInTranscription(name, index, highlight) {
+  var highlightedElements = [];
   var element = document.getElementById("image-transcription-" + name + "-word-highlight-" + index);
   if (!element) {
-    return;
+    return highlightedElements;
   }
 
   var elements = element.getElementsByClassName("letter-highlight");
   Array.from(elements).forEach( element => {
     element.style.backgroundColor = highlight;
+    highlightedElements.push(element);
   });
+  return highlightedElements;
 }
 
 function highlightWords(name, index) {
