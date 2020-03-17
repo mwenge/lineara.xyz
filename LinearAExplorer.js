@@ -453,7 +453,7 @@ function addImageToItem(item, imageToAdd, name, imageType) {
   img.id = "image-" + imageType + "-" + name;
   img.height = "200";
   img.addEventListener("error", makeGiveUpOnImages([inscriptionImage, itemZoom]));
-  img.addEventListener("load", addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, itemZoom));
+  img.addEventListener("load", addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, itemZoom, item));
   imageWrapper.appendChild(img);
   itemShell.appendChild(inscriptionImage);
 
@@ -463,7 +463,7 @@ function addImageToItem(item, imageToAdd, name, imageType) {
   itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
 }
 
-function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, itemZoom) {
+function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, itemZoom, item) {
   return function(e) {
     if (!coordinates.has(imageToAdd)) {
       return;
@@ -499,6 +499,20 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, i
       highlight.setAttribute("onmouseover", "highlightWords('" + name + "', '" + currentWord + "')");
       highlight.setAttribute("onmouseout", "clearHighlight(event, '" + name + "', '" + currentWord + "')");
       wordContainer.appendChild(highlight);
+    }
+
+    var searchTerms = document.getElementById("search-terms");
+    for (index in searchTerms.children) {
+      var searchElement = searchTerms.children.item(index);
+      if (!searchElement) {
+        continue;
+      }
+      var term = searchElement.textContent;
+      for (var j = 0; j < item.children.length; j++) {
+        var element = item.children[j];
+        var highlightColor = searchElement.getAttribute("highlightColor");
+        highlightMatchesInElement(element, term, highlightColor);
+      }
     }
   };
 }
