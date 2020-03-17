@@ -25348,12 +25348,16 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa5",{
-    "images": [],
+    "images": [
+        "images/IOZa5-Inscription.jpg"
+    ],
     "name": "IOZa5",
     "parsedInscription": "𐝫𐘚𐘱𐘙𐘆𐘱𐄁𐘚𐘱𐘂𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/IOZa5-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘚𐘱𐘙𐘆𐘱𐄁𐘚𐘱𐘂𐝫",
     "translatedWords": [
         "I-JA-RE-DI-JA",
@@ -25373,22 +25377,14 @@ var inscriptions = new Map([
 }],
 ["IOZa6",{
     "images": [
-        "images/IOZa6-Inscription.jpg",
-        "images/IOZa6a-Inscription.jpg",
-        "images/IOZa6b-Inscription.jpg",
-        "images/IOZa6c-Inscription.jpg",
-        "images/IOZa6d-Inscription.jpg"
+        "images/IOZa6-Inscription.jpg"
     ],
     "name": "IOZa6",
     "parsedInscription": "𐘳𐘅𐘚𐙕𐘉𐘠𐘯𐄁𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "scribe": "",
     "support": "stone vessel",
     "tracingImages": [
-        "images/IOZa6-Tracing.jpg",
-        "images/IOZa6a-Tracing.jpg",
-        "images/IOZa6b-Tracing.jpg",
-        "images/IOZa6c-Tracing.jpg",
-        "images/IOZa6d-Tracing.jpg"
+        "images/IOZa6-Tracing.jpg"
     ],
     "transcription": "𐘳𐘅𐘚𐙕𐘉𐘠𐘯𐄁𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "translatedWords": [
@@ -25506,7 +25502,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇𐘞𐘞𐘴𐘋",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/IOZb10-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘇𐘞𐘞𐘴𐘋",
     "translatedWords": [
         "A-SA-SA-RA-ME"
@@ -25706,7 +25704,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘹𐘯𐄁",
     "scribe": "",
     "support": "metal object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KAZf1-Tracing.jpg"
+    ],
     "transcription": "𐘹𐘯𐄁",
     "translatedWords": [
         "TU-NU",
@@ -30727,7 +30727,9 @@ var inscriptions = new Map([
     ]
 }],
 ["KH88",{
-    "images": [],
+    "images": [
+        "images/KH88-Inscription.jpg"
+    ],
     "name": "KH88",
     "parsedInscription": "𐘌𐘯𐙁𐄁𐘐𐙈𐄁𐘝𐄐\n𐘫𐘦𐄎\n𐝫",
     "scribe": "",
@@ -34773,12 +34775,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZg<21>",{
-    "images": [],
+    "images": [
+        "images/KNZg<21>-Inscription.jpg"
+    ],
     "name": "KNZg<21>",
     "parsedInscription": "𐛈",
     "scribe": "",
     "support": "stone object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZg<21>-Tracing.jpg"
+    ],
     "transcription": "𐛈",
     "translatedWords": [
         "*528"
@@ -34877,12 +34883,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KO(?)Zf2",{
-    "images": [],
+    "images": [
+        "images/KO(?)Zf2-Inscription.jpg"
+    ],
     "name": "KO(?)Zf2",
     "parsedInscription": "𐘇𐘴𐘺𐙂𐙀𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍",
     "scribe": "",
     "support": "metal object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KO(?)Zf2-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘴𐘺𐙂𐘌𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍",
     "translatedWords": [
         "A-RA-KO-KU-*79-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA"
@@ -39341,7 +39351,9 @@ var inscriptions = new Map([
     ]
 }],
 ["PLZf1",{
-    "images": [],
+    "images": [
+        "images/PLZf1-Inscription.jpg"
+    ],
     "name": "PLZf1",
     "parsedInscription": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐄁𐝫𐘚𐝫𐄁𐝫",
     "scribe": "",
@@ -39724,7 +39736,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐝫𐄁𐝫𐘀𐙈",
     "scribe": "",
     "support": "stone object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SIZg1-Tracing.jpg"
+    ],
     "transcription": "𐘇𐝫𐄁𐝫𐘀𐙈",
     "translatedWords": [
         "A",
@@ -41064,7 +41078,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙁𐘘𐘇",
     "scribe": "",
     "support": "stone object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/TYZg1-Tracing.jpg"
+    ],
     "transcription": "𐝫𐙁𐘘𐘇",
     "translatedWords": [
         "MA-RU-A"
@@ -45117,12 +45133,16 @@ var inscriptions = new Map([
     ]
 }],
 ["CR(?)Zf1",{
-    "images": [],
+    "images": [
+        "images/CR(?)Zf1-Inscription.jpg"
+    ],
     "name": "CR(?)Zf1",
     "parsedInscription": "𐘇𐙁𐘮𐘤𐄁𐘾𐘝𐘱𐘻𐄁𐘚𐘱𐄁𐘌𐘸𐘈𐘯𐘠𐄁𐘇𐘳𐘦",
     "scribe": "",
     "support": "metal object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/CR(?)Zf1-Tracing.jpg"
+    ],
     "transcription": "𐘇𐙁𐘮𐘤𐄁𐘾𐘝𐘱𐘻𐄁𐘚𐘱𐄁𐘌𐘸𐘈𐘯𐘠𐄁𐘇𐘳𐘦",
     "translatedWords": [
         "A-MA-WA-SI",
