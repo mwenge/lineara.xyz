@@ -785,7 +785,7 @@ function highlightWords(name, index) {
     if (element.style.backgroundColor) {
       continue;
     }
-    setHighlightLettersInTranscription(name, index, "yellow");
+    setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.5)");
     element.style.backgroundColor = "yellow";
   }
 }

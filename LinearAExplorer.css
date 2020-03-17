@@ -465,5 +465,4 @@ textarea:focus, input:focus{
 }
 .letter-highlight {
   position: absolute;
-  opacity: 0.5;
 }
