@@ -24921,7 +24921,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘶𐄁𐘅𐙁𐙁𐘠𐘠𐙫",
     "scribe": "",
     "support": "graffito",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTZd155-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘶𐄁𐘅𐙁𐙁𐘠𐘠𐙫",
     "translatedWords": [
         "A-JU",
@@ -34519,7 +34521,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫𐄁𐝫",
     "scribe": "",
     "support": "inked inscription",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZc7-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫𐄁𐝫",
     "translatedWords": [
         "A-KA-NU-ZA-TI",
@@ -34587,7 +34591,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘢",
     "scribe": "",
     "support": "architecture",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZe16-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘢",
     "translatedWords": [
         "A-PI"
@@ -34695,16 +34701,14 @@ var inscriptions = new Map([
 }],
 ["KNZf31",{
     "images": [
-        "images/KNZf31-Inscription.jpg",
-        "images/KNZf31b-Inscription.jpg"
+        "images/KNZf31-Inscription.jpg"
     ],
     "name": "KNZf31",
     "parsedInscription": "𐝫𐘤𐝫𐘤𐘍𐘗𐙠𐄁𐘀𐘬𐘻𐘗𐄁𐘌𐘻𐘨𐘅𐘴𐄁𐘇𐘮𐘢𐄁𐘃𐘲𐘦𐘈𐘥𐘚𐄁𐘇𐘀𐘴𐄁𐘠𐘆𐘃𐘌𐘠𐄁𐘳𐘞𐘍𐄁𐘳𐘃𐘚𐘥𐘍𐘙𐄁𐝫",
     "scribe": "",
     "support": "metal object",
     "tracingImages": [
-        "images/KNZf31a-Tracing.jpg",
-        "images/KNZf31b-Tracing.jpg"
+        "images/KNZf31a-Tracing.jpg"
     ],
     "transcription": "𐝫𐘤𐝫𐘤𐘍𐘗𐙠𐄁𐘀𐘬𐘻𐘗𐄁𐘌𐘻𐘨𐘅𐘴𐄁𐘇𐘮𐘢𐄁𐘃𐘲𐘦𐘈𐘥𐘚𐄁𐘇𐘀𐘴𐄁𐘠𐘆𐘃𐘌𐘠𐄁𐘳𐘞𐘍𐄁𐘳𐘃𐘚𐘥𐘍𐘙𐄁𐝫",
     "translatedWords": [
@@ -35389,7 +35393,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘘𐄁𐜲𐄈\n𐜰𐄊\n𐜱𐄊𐝫",
     "scribe": "",
     "support": "4-sided bar",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/MA10a-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘘𐄁𐜲𐄈𐜰𐄊𐜱𐄊𐝫",
     "translatedWords": [
         "RU",
@@ -35436,7 +35442,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘬𐘢𐘃𐘮𐄁𐜭𐄇\n𐜰𐄉\n𐝫\n𐝫𐄊\n𐜬𐄈\n𐛄𐄈",
     "scribe": "",
     "support": "4-sided bar",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/MA10b-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘬𐘢𐘃𐘮𐄁𐜭𐄇𐜰𐄉𐝫\n𐝫𐄊𐜬𐄈𐛄𐄈𐝫",
     "translatedWords": [
         "DU-PI-TE-WA",
@@ -35494,7 +35502,9 @@ var inscriptions = new Map([
     ]
 }],
 ["MA10c",{
-    "images": [],
+    "images": [
+        "images/MA10c-Inscription.jpg"
+    ],
     "name": "MA10c",
     "parsedInscription": "𐝫𐜰𐄈\n𐜱𐄉\n𐚤𐝫",
     "scribe": "",
@@ -35532,7 +35542,9 @@ var inscriptions = new Map([
     ]
 }],
 ["MA10d",{
-    "images": [],
+    "images": [
+        "images/MA10d-Inscription.jpg"
+    ],
     "name": "MA10d",
     "parsedInscription": "𐝫𐜴\n𐜳",
     "scribe": "",
@@ -35648,7 +35660,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘿𐘤𐘃",
     "scribe": "",
     "support": "architecture",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/MAZe11-Tracing.jpg"
+    ],
     "transcription": "𐘿𐘤𐘃",
     "translatedWords": [
         "QE-SI-TE"
@@ -39294,7 +39308,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘯𐘭𐘱𐝫",
     "scribe": "",
     "support": "inked inscription",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PKZc13-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘯𐘭𐘱𐝫",
     "translatedWords": [
         "NU-RI-JA"
@@ -44196,7 +44212,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘀𐙁𐘃",
     "scribe": "",
     "support": "metal object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ARZf1-Tracing.jpg"
+    ],
     "transcription": "𐘚𐘀𐙁𐘃",
     "translatedWords": [
         "\"to\" DA-MA-TE"
@@ -44216,7 +44234,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘀𐙁𐘃𐝫",
     "scribe": "",
     "support": "metal object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ARZf2-Tracing.jpg"
+    ],
     "transcription": "𐘚𐘀𐙁𐘃𐝫",
     "translatedWords": [
         "\"to\" DA-MA-TE"
@@ -44506,7 +44526,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘾𐘗𐙉𐝫\n𐝫𐝂\n𐙋𐄉𐝂\n𐙎𐄈𐝫\n𐝫𐄈\n𐙩𐄈\n𐝫\n𐝫𐘸𐘯𐙉𐄐𐄉𐝫\n𐝫𐘃𐄈\n𐙩𐄈\n𐙢𐄈𐝫\n𐝫𐙂𐄉",
     "scribe": "KH Scribe 1",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ARKH3a-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘾𐘗𐙉𐝫\n𐝫𐝂𐙋𐄉𐝂𐙎𐄈𐝫\n𐄈𐝫𐙩𐄈𐝫\n𐘸𐘯𐙉𐄐𐄉𐝫\n𐝫𐘃𐄈𐙩𐄈𐙢𐄈𐝫\n𐝫𐙂𐄉𐝫",
     "translatedWords": [
         "KA-NE",
