@@ -501,6 +501,7 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, i
       wordContainer.appendChild(highlight);
     }
 
+    // Highlight any search terms in the image
     var searchTerms = document.getElementById("search-terms");
     for (index in searchTerms.children) {
       var searchElement = searchTerms.children.item(index);
@@ -512,6 +513,19 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, i
         var element = item.children[j];
         var highlightColor = searchElement.getAttribute("highlightColor");
         highlightMatchesInElement(element, term, highlightColor);
+      }
+    }
+
+    var inscription = inscriptions.get(name);
+    for (var tag of activeWordTags) {
+      var highlightColor = tagColors[tag];
+      for (var index in inscription.wordTags) {
+        if (!inscription.wordTags[index].includes(tag)) {
+          continue;
+        }
+
+        var highlightedElements = setHighlightLettersInTranscription(name, index, highlightColor);
+        highlightedSearchElements = highlightedSearchElements.concat(highlightedElements);
       }
     }
   };
@@ -966,6 +980,9 @@ function applySearchTerms() {
         highlightedSearchElements.push(translation);
         highlightedSearchElements.push(transliteration);
         highlightedSearchElements.push(transcription);
+
+        var highlightedElements = setHighlightLettersInTranscription(inscription.name, index, highlightColor);
+        highlightedSearchElements = highlightedSearchElements.concat(highlightedElements);
       }
     }
   }
