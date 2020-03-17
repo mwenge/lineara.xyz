@@ -61,18 +61,6 @@ function checkKey(e) {
       toggleColor(document.getElementById("search-command"));
       showSearch();
       break;
-      /*
-    case "s": // 's' - sort inscriptions by closest edit distance to 
-              // inscription currently hovered over
-      var current = getInscriptionHoveredOver();
-      if (current) {
-        result.style.display = "inline-block";
-        result.textContent = "Sorting by edit distance.";
-        sortNearest(current);
-        result.textContent = "Sorted by edit distance.";
-      }
-      break;
-      */
     case "t": // 't' - toggle translation
       toggleTranslation(document);
       toggleColor(document.getElementById("translate-command"));
@@ -295,6 +283,10 @@ function hasMatchForHighlight(fullWordMatch, searchTerm, text) {
   searchTerm = searchTerm.replace(/\\/g, "");
   var re = new RegExp(searchTerm);
   return (re.test(text));
+}
+
+function stripErased(word) {
+  return word.replace(/\u{1076b}/gu, "");
 }
 
 function highlightMatchesInElement(element, searchTerm, highlightColor) {
@@ -1167,102 +1159,3 @@ function loadExplorer() {
   }
 }
 
-function levensteinDistance(a, b, inscriptions, target) {
-  var s = inscriptions.get(a.id).parsedInscription.replace(/𐝫|\n/g, "");
-  var t = inscriptions.get(b.id).parsedInscription;
-  var x = s.levenstein(target);
-  var y = t.levenstein(target);
-  if (x < y) {
-    return -1;
-  }
-  if (x > y) {
-    return 1;
-  }
-  return 0;
-}
-
-function intersect(a, b) {
-    var t;
-    if (b.length > a.length) t = b, b = a, a = t;
-    return a.filter(function (e) {
-        return b.indexOf(e) > -1;
-    }).length;
-}
-
-function useWord(word) {
-  if (!word) {
-    return false;
-  }
-  if (word == '\u{1076b}')
-    return false; 
-  if (word >= '\u{10100}' && word <= '\u{1013f}') {
-    return false;
-  }
-  if (word >= '\u{10740}' && word <= '\u{10755}') {
-    return false;
-  }
-  if (word == '\n') {
-    return false;
-  }
-  return true;
-}
-
-function stripErased(word) {
-  return word.replace(/\u{1076b}/gu, "");
-}
-
-function similarity(a, b, inscriptions, target) {
-  var s = inscriptions.get(a.id).words.map(stripErased).filter(useWord);
-  var t = inscriptions.get(b.id).words.map(stripErased).filter(useWord);
-  var x = intersect(s, target);
-  var y = intersect(t, target);
-  if (x > y) {
-    return -1;
-  }
-  if (x < y) {
-    return 1;
-  }
-  return 0;
-}
-
-function sortNearest(current) {
-  var target = inscriptions.get(current.id).words.map(stripErased).filter(useWord);
-  updateTipText("Sorting..");
-  var p = document.getElementById('container');
-  Array.prototype.slice.call(p.children)
-    .map(function (x) { return p.removeChild(x); })
-    .sort(function(a, b) { return similarity(a, b, inscriptions, target); })
-    .forEach(function (x) { p.appendChild(x); });
-  updateTipText("");
-  updateSortStatus(current.id);
-} 
-
-String.prototype.levenstein = function(string) {
-  if (typeof String.prototype.levenstein.cachedDistances == "undefined") {
-    String.prototype.levenstein.cachedDistances = new Map();
-  }
-	var a = this, b = string + "", m = [], i, j, min = Math.min;
-  if (String.prototype.levenstein.cachedDistances.has(a+b)) {
-    return String.prototype.levenstein.cachedDistances.get(a+b);
-  }
-
-	if (!(a && b)) return (b || a).length;
-
-	for (i = 0; i <= b.length; m[i] = [i++]);
-	for (j = 0; j <= a.length; m[0][j] = j++);
-
-	for (i = 1; i <= b.length; i++) {
-		for (j = 1; j <= a.length; j++) {
-			m[i][j] = b.charAt(i - 1) == a.charAt(j - 1)
-				? m[i - 1][j - 1]
-				: m[i][j] = min(
-					m[i - 1][j - 1] + 1, 
-					min(m[i][j - 1] + 1, m[i - 1 ][j] + 1))
-		}
-	}
-
-	var result = m[b.length][a.length];
-  String.prototype.levenstein.cachedDistances.set(a+b, result);
-  String.prototype.levenstein.cachedDistances.set(b+a, result);
-  return result;
-}
