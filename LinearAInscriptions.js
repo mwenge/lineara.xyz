@@ -39845,7 +39845,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SYZa2-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "translatedWords": [
         "gives",
@@ -44070,12 +44072,16 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAZg35",{
-    "images": [],
+    "images": [
+        "images/ZAZg35-Inscription.jpg"
+    ],
     "name": "ZAZg35",
     "parsedInscription": "𐝫𐘋𐘻𐘱𐘘𐄁𐘈𐘮𐙄𐘦",
     "scribe": "",
     "support": "label",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ZAZg35-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘋𐘻𐘱𐘘𐄁𐘈𐘮𐙄𐘦",
     "translatedWords": [
         "ME-MI-JA-RU",
