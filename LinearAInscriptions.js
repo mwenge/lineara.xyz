@@ -40378,7 +40378,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘙𐘞𐘅",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/THEZb2-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘙𐘞𐘅",
     "translatedWords": [
         "A-RE-SA-NA"
@@ -40398,7 +40400,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘗𐝫",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/THEZb3-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘗𐝫",
     "translatedWords": [
         "A-NE"
@@ -40418,7 +40422,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇𐘙𐝫",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/THEZb4-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘇𐘙𐝫",
     "translatedWords": [
         "A-RE"
