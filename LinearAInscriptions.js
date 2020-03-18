@@ -25820,12 +25820,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KEWc2",{
-    "images": [],
+    "images": [
+        "images/KEWc2-Inscription.jpg"
+    ],
     "name": "KEWc2",
     "parsedInscription": "𐝂\n𐝁𐝁",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KEWc2-Tracing.jpg"
+    ],
     "transcription": "𐝂\n𐝁𐝁",
     "translatedWords": [
         "¹⁄₅",
@@ -37359,12 +37363,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PH16a",{
-    "images": [],
+    "images": [
+        "images/PH16a-Inscription.jpg"
+    ],
     "name": "PH16a",
     "parsedInscription": "𐝫𐘠𐘅𐝫\n—\n𐝫𐚒𐘝𐝫",
     "scribe": "",
     "support": "lames (short thin tablet)",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PH16a-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘠𐘅𐝫\n—\n𐝫𐚒𐘝𐝫",
     "translatedWords": [
         "TI-NA",
@@ -37389,12 +37397,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PH16b",{
-    "images": [],
+    "images": [
+        "images/PH16b-Inscription.jpg"
+    ],
     "name": "PH16b",
     "parsedInscription": "𐝫𐘱𐘞𐝫\n—\n𐝫𐘠𐝫",
     "scribe": "",
     "support": "lames (short thin tablet)",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PH16b-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘱𐘞𐝫\n—\n𐝫𐘠𐝫",
     "translatedWords": [
         "JA-SA",
@@ -37419,12 +37431,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PH17a",{
-    "images": [],
+    "images": [
+        "images/PH17a-Inscription.jpg"
+    ],
     "name": "PH17a",
     "parsedInscription": "𐝫𐚓𐝫",
     "scribe": "",
     "support": "lames (short thin tablet)",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PH17a-Tracing.jpg"
+    ],
     "transcription": "𐝫𐚓𐝫",
     "translatedWords": [
         "*359"
@@ -37437,12 +37453,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PH17b",{
-    "images": [],
+    "images": [
+        "images/PH17b-Inscription.jpg"
+    ],
     "name": "PH17b",
     "parsedInscription": "𐝫𐚔𐝫",
     "scribe": "",
     "support": "lames (short thin tablet)",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PH17b-Tracing.jpg"
+    ],
     "transcription": "𐝫𐚔𐝫",
     "translatedWords": [
         "*360"
@@ -43156,12 +43176,16 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA18b",{
-    "images": [],
+    "images": [
+        "images/ZA18b-Inscription.jpg"
+    ],
     "name": "ZA18b",
     "parsedInscription": "𐝫\n𐄈𐝆𐝃𐝉𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ZA18b-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐄈𐝆𐝃𐝉𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
