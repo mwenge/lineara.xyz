@@ -34967,7 +34967,9 @@ var inscriptions = new Map([
     ]
 }],
 ["LAZb1(bis)",{
-    "images": [],
+    "images": [
+        "images/LAZb1(bis)-Inscription.jpg"
+    ],
     "name": "LAZb1(bis)",
     "parsedInscription": "𐘱𐘠𐘹𐙂",
     "scribe": "",
@@ -36240,7 +36242,9 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZb7",{
-    "images": [],
+    "images": [
+        "images/PEZb7-Inscription.jpg"
+    ],
     "name": "PEZb7",
     "parsedInscription": "𐝫𐘇\n𐘱𐘮𐘢𐄇",
     "scribe": "",
@@ -39955,12 +39959,16 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa4",{
-    "images": [],
+    "images": [
+        "images/SYZa4-Inscription.jpg"
+    ],
     "name": "SYZa4",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘚𐘩𐘍𐄁𐘰𐘝𐘣",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SYZa4-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘚𐘩𐘍𐄁𐘰𐘝𐘣",
     "translatedWords": [
         "gives",
@@ -39985,7 +39993,9 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa5",{
-    "images": [],
+    "images": [
+        "images/SYZa5-Inscription.jpg"
+    ],
     "name": "SYZa5",
     "parsedInscription": "𐝫𐘻𐘱𐄁𐘱𐘮𐘰𐝫",
     "scribe": "",
@@ -40014,7 +40024,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘈𐘴𐘃",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SYZa6-Tracing.jpg"
+    ],
     "transcription": "𐘀𐘈𐘴𐘃",
     "translatedWords": [
         "DA-SE-RA-TE"
@@ -40032,7 +40044,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘴𐘸𐘝𐘈",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SYZβ7-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘴𐘸𐘝𐘈",
     "translatedWords": [
         "RA-KI-NI-SE"
@@ -40045,12 +40059,16 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa8",{
-    "images": [],
+    "images": [
+        "images/SYZa8-Inscription.jpg"
+    ],
     "name": "SYZa8",
     "parsedInscription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SYZa8-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
     "translatedWords": [
         "gives",
@@ -40069,12 +40087,16 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa9",{
-    "images": [],
+    "images": [
+        "images/SYZa9-Inscription.jpg"
+    ],
     "name": "SYZa9",
     "parsedInscription": "𐘱𐘂𐘴𐘱𐘈",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SYZa9-Tracing.jpg"
+    ],
     "transcription": "𐘱𐘂𐘴𐘱𐘈",
     "translatedWords": [
         "JA-PA-RA-JA-SE"
@@ -40087,12 +40109,16 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa10",{
-    "images": [],
+    "images": [
+        "images/SYZa10-Inscription.jpg"
+    ],
     "name": "SYZa10",
     "parsedInscription": "𐘌𐘞𐘴𐙂",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SYZa10-Tracing.jpg"
+    ],
     "transcription": "𐘌𐘞𐘴𐙂",
     "translatedWords": [
         "QA-SA-RA-KU"
@@ -40105,12 +40131,16 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa11",{
-    "images": [],
+    "images": [
+        "images/SYZa11-Inscription.jpg"
+    ],
     "name": "SYZa11",
     "parsedInscription": "𐄁𐘁𐘌𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SYZa11-Tracing.jpg"
+    ],
     "transcription": "𐄁𐘁𐘌𐝫",
     "translatedWords": [
         "𐄁",
@@ -40126,12 +40156,16 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa12",{
-    "images": [],
+    "images": [
+        "images/SYZa12-Inscription.jpg"
+    ],
     "name": "SYZa12",
     "parsedInscription": "𐝫𐄁𐘇𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SYZa12-Tracing.jpg"
+    ],
     "transcription": "𐝫𐄁𐘇𐝫",
     "translatedWords": [
         "𐄁",
