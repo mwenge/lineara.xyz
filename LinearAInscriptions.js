@@ -35993,12 +35993,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PE1",{
-    "images": [],
+    "images": [
+        "images/PE1-Inscription.jpg"
+    ],
     "name": "PE1",
     "parsedInscription": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅\n𐙂𐘂𐘭𐙇𐄔𐝫\n𐛭𐄑𐄌\n𐘡𐘾𐝫𐙇𐄖𐄈\n𐛭𐄒𐄌",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PE1-Tracing.jpg"
+    ],
     "transcription": "𐘉𐘾𐘙𐘇𐘈𐘤\n𐘅𐙂𐘂𐘭𐙇𐄔𐝫\n𐛭𐄑𐄌𐘡𐘾𐝫\n𐙇𐄖𐄈𐛭𐄒\n𐄌",
     "translatedWords": [
         "U-KA-RE-A-SE-SI-NA",
@@ -36053,12 +36057,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PE2",{
-    "images": [],
+    "images": [
+        "images/PE2-Inscription.jpg"
+    ],
     "name": "PE2",
     "parsedInscription": "𐝫\n𐄉𐝁\n𐘘𐘢𐝫𐙙𐘻𐄇𐝄\n𐘇𐙱𐘍𐝃\n𐘇𐘭𐘂𐝃\n𐘌𐘌𐘀𐝆\n𐘄𐘋𐝁\n𐘄𐘪𐘙𐄇\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PE2-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐄉𐝁𐘘𐘢𐝫𐙙𐘻𐄇𐝄\n𐘇𐙱𐘍𐝃𐘇𐘭𐘂𐝃𐘌𐘌𐘀\n𐝆𐘄𐘋𐝁𐘄𐘪𐘙𐄇\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -36164,12 +36172,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PEWy5",{
-    "images": [],
+    "images": [
+        "images/PEWy5-Inscription.jpg"
+    ],
     "name": "PEWy5",
     "parsedInscription": "𐙖𐙛𐄇𐝆",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PEWy5-Tracing.jpg"
+    ],
     "transcription": "𐙖𐙛𐄇𐝆",
     "translatedWords": [
         "OLE-*307",
@@ -36206,12 +36218,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZb3",{
-    "images": [],
+    "images": [
+        "images/PEZb3-Inscription.jpg"
+    ],
     "name": "PEZb3",
     "parsedInscription": "𐘇𐘾𐘴𐘸𐘳𐘅𐘤𐘱𐘈𐙇𐘍",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PEZb3-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘾𐘴𐘸𐘳𐘅𐘤𐘱𐘈𐙇𐘍",
     "translatedWords": [
         "A-KA-RA-KI-TA-NA-SI-JA-SE-VIR+[?]-ZA"
@@ -36269,12 +36285,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZc4",{
-    "images": [],
+    "images": [
+        "images/PEZc4-Inscription.jpg"
+    ],
     "name": "PEZc4",
     "parsedInscription": "𐝫𐘇𐘱𐝫 ≈ 𐝫𐘱𐘤𐝫",
     "scribe": "",
     "support": "inked inscription",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PEZc4-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘇𐘱𐝫 ≈ 𐝫𐘱𐘤𐝫",
     "translatedWords": [
         "A-JA",
@@ -36293,12 +36313,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZg5",{
-    "images": [],
+    "images": [
+        "images/PEZg5-Inscription.jpg"
+    ],
     "name": "PEZg5",
     "parsedInscription": "𐙖𐙛𐄇𐝆",
     "scribe": "",
     "support": "stone object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PEZg5-Tracing.jpg"
+    ],
     "transcription": "𐙖𐙛𐄇𐝆",
     "translatedWords": [
         "olive oil",
