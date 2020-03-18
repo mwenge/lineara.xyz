@@ -40265,7 +40265,9 @@ var inscriptions = new Map([
     ]
 }],
 ["THEtab.4",{
-    "images": [],
+    "images": [
+        "images/THEtab.4-Inscription.jpg"
+    ],
     "name": "THEtab.4",
     "parsedInscription": "𐝫𐘒𐄍𐝫\n𐝫𐘒𐄓𐄌𐝫",
     "scribe": "",
@@ -40295,7 +40297,9 @@ var inscriptions = new Map([
     ]
 }],
 ["THEtab.5",{
-    "images": [],
+    "images": [
+        "images/THEtab.5-Inscription.jpg"
+    ],
     "name": "THEtab.5",
     "parsedInscription": "𐝫𐄁𐘃𐘋𐘀𐘚𐝫",
     "scribe": "",
@@ -40316,7 +40320,9 @@ var inscriptions = new Map([
     ]
 }],
 ["THEtab.6",{
-    "images": [],
+    "images": [
+        "images/THEtab.6-Inscription.jpg"
+    ],
     "name": "THEtab.6",
     "parsedInscription": "𐝫𐄐𐝫\n𐝫𐝡𐝫𐄚𐝫",
     "scribe": "",
