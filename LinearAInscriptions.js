@@ -25189,12 +25189,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZg163",{
-    "images": [],
+    "images": [
+        "images/HTZg163-Inscription.jpg"
+    ],
     "name": "HTZg163",
     "parsedInscription": "𐝄",
     "scribe": "",
     "support": "stone object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTZg163-Tracing.jpg"
+    ],
     "transcription": "𐝄",
     "translatedWords": [
         "¹⁄₈"
@@ -31099,12 +31103,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KH97a",{
-    "images": [],
+    "images": [
+        "images/KH97a-Inscription.jpg"
+    ],
     "name": "KH97a",
     "parsedInscription": "𐝫𐘙𐘇𐘱𐝫\n𐝫𐘅𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH97a-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘙𐘇𐘱𐝫\n𐝫𐘅𐝫\n𐝫",
     "translatedWords": [
         "RE-A-JA",
@@ -31129,12 +31137,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KH97b",{
-    "images": [],
+    "images": [
+        "images/KH97b-Inscription.jpg"
+    ],
     "name": "KH97b",
     "parsedInscription": "𐝫𐘈𐘚𐝫\n𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH97b-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘈𐘚𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "SE-I",
@@ -31159,12 +31171,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KH99",{
-    "images": [],
+    "images": [
+        "images/KH99-Inscription.jpg"
+    ],
     "name": "KH99",
     "parsedInscription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH99-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫\n𐝫",
     "translatedWords": [
         "PA-RI-DE",
@@ -33246,12 +33262,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2123",{
-    "images": [],
+    "images": [
+        "images/KHWc2123-Inscription.jpg"
+    ],
     "name": "KHWc2123",
     "parsedInscription": "𐝭𐘢𐘾",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KHWc2123-Tracing.jpg"
+    ],
     "transcription": "𐝭𐘢𐘾",
     "translatedWords": [
         "*810-PI-KA"
@@ -34802,7 +34822,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘞𐘱",
     "scribe": "",
     "support": "stone object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZg55-Tracing.jpg"
+    ],
     "transcription": "𐘱𐘞𐘱",
     "translatedWords": [
         "JA-SA-JA"
