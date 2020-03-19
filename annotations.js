@@ -33299,7 +33299,9 @@ var wordAnnotations =
         "name": "HTZb158b",
         "tagsForWords": [
             {
-                "tags": [],
+                "tags": [
+                    "adjective for placename"
+                ],
                 "transliteratedWord": "SU-KI-RI-TE-I-JA",
                 "word": "𐘲𐘸𐘭𐘃𐘚𐘱"
             }
@@ -33387,7 +33389,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "HTZd157,156,155",
+        "name": "HTZd157+156",
         "tagsForWords": [
             {
                 "tags": [
@@ -33519,54 +33521,6 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "¹⁄₁₆",
                 "word": "𐝇𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "head word"
-                ],
-                "transliteratedWord": "A-JU",
-                "word": "𐘇𐘶"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "NA-MA-TI-TI",
-                "word": "𐘅𐙁𐘠𐘠"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "*904",
-                "word": "𐙫"
-            }
-        ]
-    },
-    {
-        "name": "HTZd157+156",
-        "tagsForWords": [
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "WI-JA-SU-MA-TI-TI-*904-NE-𐄇-NE-𐄇-*905-*904-𐄈-E-*904-𐄉-E-F-TA-JA-*906",
-                "word": "𐘣𐘱𐘲𐙁𐘠𐘠𐙫𐝫𐘗𐄇𐘗𐄇𐝆𐙫𐄈𐝃𐙫𐄉𐝃𐝄𐘳𐘱𐝇𐝫"
             }
         ]
     },
@@ -34782,8 +34736,8 @@ var wordAnnotations =
                 "tags": [
                     "head word"
                 ],
-                "transliteratedWord": "A-KI-SI-KA",
-                "word": "𐘇𐘸𐘤𐘾"
+                "transliteratedWord": "A-DA-KI-SI-KA",
+                "word": "𐘇𐘀𐘸𐘤𐘾"
             },
             {
                 "tags": [
