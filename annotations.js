@@ -29243,7 +29243,49 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1126-1129",
+        "name": "WA1126",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TE",
+                "word": "𐘃"
+            }
+        ]
+    },
+    {
+        "name": "WA1127",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TE",
+                "word": "𐘃"
+            }
+        ]
+    },
+    {
+        "name": "WA1128",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TE",
+                "word": "𐘃"
+            }
+        ]
+    },
+    {
+        "name": "WA1129",
         "tagsForWords": [
             {
                 "tags": [
@@ -29285,7 +29327,21 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1132-1133",
+        "name": "WA1132",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TE",
+                "word": "𐘃"
+            }
+        ]
+    },
+    {
+        "name": "WA1133",
         "tagsForWords": [
             {
                 "tags": [
@@ -29313,7 +29369,35 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1135-1137",
+        "name": "WA1135",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TE",
+                "word": "𐘃"
+            }
+        ]
+    },
+    {
+        "name": "WA1136",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TE",
+                "word": "𐘃"
+            }
+        ]
+    },
+    {
+        "name": "WA1137",
         "tagsForWords": [
             {
                 "tags": [
@@ -29504,7 +29588,31 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1151-1153",
+        "name": "WA1151",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1152",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1153",
         "tagsForWords": [
             {
                 "tags": [
@@ -29540,7 +29648,163 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1156-1169",
+        "name": "WA1156",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1157",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1158",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1159",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1160",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1161",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1162",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1163",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1164",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1165",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1166",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1167",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1168",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1169",
         "tagsForWords": [
             {
                 "tags": [
@@ -29564,7 +29828,19 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1171-1172",
+        "name": "WA1171",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            }
+        ]
+    },
+    {
+        "name": "WA1172",
         "tagsForWords": [
             {
                 "tags": [
@@ -29626,7 +29902,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1177-1180",
+        "name": "WA1177",
         "tagsForWords": [
             {
                 "tags": [
@@ -29639,7 +29915,176 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1181-1191",
+        "name": "WA1178",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1179",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1180",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1181",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1182",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1183",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1184",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1185",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1186",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1187",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1188",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1189",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1190",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1191",
         "tagsForWords": [
             {
                 "tags": [
@@ -29665,7 +30110,72 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1193-1198",
+        "name": "WA1193",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1194",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1195",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1196",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1197",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1198",
         "tagsForWords": [
             {
                 "tags": [
@@ -29691,7 +30201,202 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1200-1215",
+        "name": "WA1200",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1201",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1202",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1203",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1204",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1205",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1206",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1207",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1208",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1209",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1210",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1211",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1212",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1213",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1214",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1215",
         "tagsForWords": [
             {
                 "tags": [
@@ -29717,7 +30422,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1217-1218",
+        "name": "WA1217",
         "tagsForWords": [
             {
                 "tags": [
@@ -29743,7 +30448,33 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1220-1223",
+        "name": "WA1220",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1221",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1222",
         "tagsForWords": [
             {
                 "tags": [
@@ -29782,7 +30513,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1226-1231",
+        "name": "WA1226",
         "tagsForWords": [
             {
                 "tags": [
@@ -29795,7 +30526,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1232-1235",
+        "name": "WA1227",
         "tagsForWords": [
             {
                 "tags": [
@@ -29808,7 +30539,85 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1236-1237",
+        "name": "WA1228",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1229",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1230",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1232",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1233",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1234",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1236",
         "tagsForWords": [
             {
                 "tags": [
@@ -29834,7 +30643,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1239-1240",
+        "name": "WA1239",
         "tagsForWords": [
             {
                 "tags": [
@@ -29847,7 +30656,111 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1241-1250",
+        "name": "WA1241",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1242",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1243",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1244",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1245",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1246",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1247",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1248",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1249",
         "tagsForWords": [
             {
                 "tags": [
@@ -29873,7 +30786,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1252-1253",
+        "name": "WA1252",
         "tagsForWords": [
             {
                 "tags": [
@@ -29886,7 +30799,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1254-1255",
+        "name": "WA1254",
         "tagsForWords": [
             {
                 "tags": [
@@ -29899,7 +30812,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1256-1257",
+        "name": "WA1256",
         "tagsForWords": [
             {
                 "tags": [
@@ -29964,7 +30877,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1262-1264",
+        "name": "WA1262",
         "tagsForWords": [
             {
                 "tags": [
@@ -29977,7 +30890,20 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1265-1266",
+        "name": "WA1263",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "WA1265",
         "tagsForWords": [
             {
                 "tags": [
@@ -30046,7 +30972,77 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1271-1277",
+        "name": "WA1271",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TA",
+                "word": "𐘳"
+            }
+        ]
+    },
+    {
+        "name": "WA1272",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TA",
+                "word": "𐘳"
+            }
+        ]
+    },
+    {
+        "name": "WA1273",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TA",
+                "word": "𐘳"
+            }
+        ]
+    },
+    {
+        "name": "WA1274",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TA",
+                "word": "𐘳"
+            }
+        ]
+    },
+    {
+        "name": "WA1275",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TA",
+                "word": "𐘳"
+            }
+        ]
+    },
+    {
+        "name": "WA1276",
         "tagsForWords": [
             {
                 "tags": [
@@ -30124,7 +31120,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1284-1285",
+        "name": "WA1284",
         "tagsForWords": [
             {
                 "tags": [],
@@ -30144,7 +31140,47 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1287-1292",
+        "name": "WA1287",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
+        "name": "WA1288",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
+        "name": "WA1289",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
+        "name": "WA1290",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
+        "name": "WA1291",
         "tagsForWords": [
             {
                 "tags": [],
@@ -30194,7 +31230,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1297-1298",
+        "name": "WA1297",
         "tagsForWords": [
             {
                 "tags": [],
@@ -30234,7 +31270,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1302-1303",
+        "name": "WA1302",
         "tagsForWords": [
             {
                 "tags": [],
@@ -30324,7 +31360,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1312-1313",
+        "name": "WA1312",
         "tagsForWords": [
             {
                 "tags": [],
@@ -30442,7 +31478,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1324-1336",
+        "name": "WA1324",
         "tagsForWords": [
             {
                 "tags": [
@@ -30456,7 +31492,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1337-1351",
+        "name": "WA1325",
         "tagsForWords": [
             {
                 "tags": [
@@ -30470,7 +31506,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1352-1366",
+        "name": "WA1326",
         "tagsForWords": [
             {
                 "tags": [
@@ -30484,7 +31520,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1367-1371",
+        "name": "WA1327",
         "tagsForWords": [
             {
                 "tags": [
@@ -30498,7 +31534,651 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1372-1379",
+        "name": "WA1328",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1329",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1330",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1331",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1332",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1333",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1334",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1335",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1337",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1338",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1339",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1340",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1341",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1342",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1343",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1344",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1345",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1346",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1347",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1348",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1349",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1350",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1352",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1353",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1354",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1355",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1356",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1357",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1358",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1359",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1360",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1361",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1362",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1363",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1364",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1365",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1367",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1368",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1369",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1370",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1372",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1373",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1374",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1375",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1376",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1377",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1378",
         "tagsForWords": [
             {
                 "tags": [
@@ -30540,7 +32220,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1382-1396",
+        "name": "WA1382",
         "tagsForWords": [
             {
                 "tags": [
@@ -30554,7 +32234,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1397-1399",
+        "name": "WA1383",
         "tagsForWords": [
             {
                 "tags": [
@@ -30568,7 +32248,259 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1400-1405",
+        "name": "WA1384",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1385",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1386",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1387",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1388",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1389",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1390",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1391",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1392",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1393",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1394",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1395",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1397",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1398",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1400",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1401",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1402",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1403",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1404",
         "tagsForWords": [
             {
                 "tags": [
@@ -30624,7 +32556,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1409-1411",
+        "name": "WA1409",
         "tagsForWords": [
             {
                 "tags": [
@@ -30638,7 +32570,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1412-1417",
+        "name": "WA1410",
         "tagsForWords": [
             {
                 "tags": [
@@ -30652,7 +32584,91 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1418-1420",
+        "name": "WA1412",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1413",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1414",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1415",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1416",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1418",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1419",
         "tagsForWords": [
             {
                 "tags": [
@@ -30694,7 +32710,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1423-1426",
+        "name": "WA1423",
         "tagsForWords": [
             {
                 "tags": [
@@ -30708,7 +32724,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1427-1441",
+        "name": "WA1424",
         "tagsForWords": [
             {
                 "tags": [
@@ -30722,7 +32738,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1442-1445",
+        "name": "WA1425",
         "tagsForWords": [
             {
                 "tags": [
@@ -30736,7 +32752,273 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1446-1449",
+        "name": "WA1427",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1428",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1429",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1430",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1431",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1432",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1433",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1434",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1435",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1436",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1437",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1438",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1439",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1440",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1442",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1443",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1444",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1446",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1447",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1448",
         "tagsForWords": [
             {
                 "tags": [
@@ -30778,7 +33060,35 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1452-1455",
+        "name": "WA1452",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1453",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1454",
         "tagsForWords": [
             {
                 "tags": [
@@ -30806,7 +33116,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1457-1458",
+        "name": "WA1457",
         "tagsForWords": [
             {
                 "tags": [
@@ -30820,7 +33130,21 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1459-1461",
+        "name": "WA1459",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1460",
         "tagsForWords": [
             {
                 "tags": [
@@ -30904,7 +33228,21 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1467-1469",
+        "name": "WA1467",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "WA1468",
         "tagsForWords": [
             {
                 "tags": [
@@ -30958,7 +33296,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1473-1480",
+        "name": "WA1473",
         "tagsForWords": [
             {
                 "tags": [
@@ -30971,7 +33309,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1481-1482",
+        "name": "WA1474",
         "tagsForWords": [
             {
                 "tags": [
@@ -30984,7 +33322,150 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1483-1489",
+        "name": "WA1475",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1476",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1477",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1478",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1479",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1481",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1483",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1484",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1485",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1486",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1487",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1488",
         "tagsForWords": [
             {
                 "tags": [
@@ -31010,7 +33491,241 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1491-1510",
+        "name": "WA1491",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1492",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1493",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1494",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1495",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1496",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1497",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1498",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1499",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1500",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1501",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1502",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1503",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1504",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1505",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1506",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1507",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1508",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1509",
         "tagsForWords": [
             {
                 "tags": [
@@ -31049,7 +33764,46 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1513-1517",
+        "name": "WA1513",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1514",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1515",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1516",
         "tagsForWords": [
             {
                 "tags": [
@@ -31075,7 +33829,98 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1519-1527",
+        "name": "WA1519",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1520",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1521",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1522",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1523",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1524",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1525",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1526",
         "tagsForWords": [
             {
                 "tags": [
@@ -31153,7 +33998,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1533-1537",
+        "name": "WA1533",
         "tagsForWords": [
             {
                 "tags": [
@@ -31166,7 +34011,46 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1538-1539",
+        "name": "WA1534",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1535",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1536",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1538",
         "tagsForWords": [
             {
                 "tags": [
@@ -31218,7 +34102,20 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1543-1545",
+        "name": "WA1543",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1544",
         "tagsForWords": [
             {
                 "tags": [
@@ -31257,7 +34154,85 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1548-1555",
+        "name": "WA1548",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1549",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1550",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1551",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1552",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1553",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1554",
         "tagsForWords": [
             {
                 "tags": [
@@ -31348,7 +34323,33 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1562-1565",
+        "name": "WA1562",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1563",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1564",
         "tagsForWords": [
             {
                 "tags": [
@@ -31374,7 +34375,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1567-1575",
+        "name": "WA1567",
         "tagsForWords": [
             {
                 "tags": [
@@ -31387,7 +34388,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1576-1578",
+        "name": "WA1568",
         "tagsForWords": [
             {
                 "tags": [
@@ -31400,7 +34401,111 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1579-1580",
+        "name": "WA1569",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1570",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1571",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1572",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1573",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1574",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1576",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1577",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1579",
         "tagsForWords": [
             {
                 "tags": [
@@ -31439,7 +34544,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1583-1585",
+        "name": "WA1583",
         "tagsForWords": [
             {
                 "tags": [
@@ -31452,7 +34557,59 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1586-1590",
+        "name": "WA1584",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1586",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1587",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1588",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1589",
         "tagsForWords": [
             {
                 "tags": [
@@ -31504,7 +34661,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1594-1595",
+        "name": "WA1594",
         "tagsForWords": [
             {
                 "tags": [
@@ -31517,7 +34674,33 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1596-1599",
+        "name": "WA1596",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1597",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1598",
         "tagsForWords": [
             {
                 "tags": [
@@ -31543,7 +34726,33 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1601-1604",
+        "name": "WA1601",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1602",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "WA1603",
         "tagsForWords": [
             {
                 "tags": [
@@ -31725,7 +34934,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1619-1620",
+        "name": "WA1619",
         "tagsForWords": [
             {
                 "tags": [
@@ -31776,7 +34985,55 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1624-1629",
+        "name": "WA1624",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1625",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1626",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1627",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1628",
         "tagsForWords": [
             {
                 "tags": [
@@ -31812,7 +35069,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1632-1633",
+        "name": "WA1632",
         "tagsForWords": [
             {
                 "tags": [
@@ -31824,7 +35081,31 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1634-1637",
+        "name": "WA1634",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1635",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1636",
         "tagsForWords": [
             {
                 "tags": [
@@ -31872,7 +35153,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1641-1642",
+        "name": "WA1641",
         "tagsForWords": [
             {
                 "tags": [
@@ -31884,7 +35165,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1643-1649",
+        "name": "WA1643",
         "tagsForWords": [
             {
                 "tags": [
@@ -31896,7 +35177,67 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1650-1651",
+        "name": "WA1644",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1645",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1646",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1647",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1648",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1650",
         "tagsForWords": [
             {
                 "tags": [
@@ -31944,7 +35285,19 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1655-1657",
+        "name": "WA1655",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1656",
         "tagsForWords": [
             {
                 "tags": [
@@ -31968,7 +35321,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1659-1660",
+        "name": "WA1659",
         "tagsForWords": [
             {
                 "tags": [
@@ -31980,7 +35333,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1661-1662",
+        "name": "WA1661",
         "tagsForWords": [
             {
                 "tags": [
@@ -32016,7 +35369,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1666-1667",
+        "name": "WA1666",
         "tagsForWords": [
             {
                 "tags": [
@@ -32040,7 +35393,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1669-1670",
+        "name": "WA1669",
         "tagsForWords": [
             {
                 "tags": [
@@ -32064,7 +35417,43 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1672-1676",
+        "name": "WA1672",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1673",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1674",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1675",
         "tagsForWords": [
             {
                 "tags": [
@@ -32112,7 +35501,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1680-1686",
+        "name": "WA1680",
         "tagsForWords": [
             {
                 "tags": [
@@ -32124,7 +35513,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1687-1690",
+        "name": "WA1681",
         "tagsForWords": [
             {
                 "tags": [
@@ -32136,7 +35525,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1691-1694",
+        "name": "WA1682",
         "tagsForWords": [
             {
                 "tags": [
@@ -32148,7 +35537,115 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1695-1696",
+        "name": "WA1683",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1684",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1685",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1687",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1688",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1689",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1691",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1692",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1693",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1695",
         "tagsForWords": [
             {
                 "tags": [
@@ -32184,7 +35681,91 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1699-1707",
+        "name": "WA1699",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1700",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1701",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1702",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1703",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1704",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1705",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1706",
         "tagsForWords": [
             {
                 "tags": [
@@ -32256,7 +35837,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1713-1718",
+        "name": "WA1713",
         "tagsForWords": [
             {
                 "tags": [
@@ -32268,7 +35849,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1719-1720",
+        "name": "WA1714",
         "tagsForWords": [
             {
                 "tags": [
@@ -32280,7 +35861,55 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1721-1722",
+        "name": "WA1715",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1716",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1717",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1719",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1721",
         "tagsForWords": [
             {
                 "tags": [
@@ -32316,7 +35945,163 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1725-1739",
+        "name": "WA1725",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1726",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1727",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1728",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1729",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1730",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1731",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1732",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1733",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1734",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1735",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1736",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1737",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1738",
         "tagsForWords": [
             {
                 "tags": [
@@ -32388,7 +36173,31 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1745-1748",
+        "name": "WA1745",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1746",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1747",
         "tagsForWords": [
             {
                 "tags": [
@@ -32436,7 +36245,19 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1752-1754",
+        "name": "WA1752",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1753",
         "tagsForWords": [
             {
                 "tags": [
@@ -32508,7 +36329,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1760-1761",
+        "name": "WA1760",
         "tagsForWords": [
             {
                 "tags": [
@@ -32532,7 +36353,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1763-1769",
+        "name": "WA1763",
         "tagsForWords": [
             {
                 "tags": [
@@ -32544,7 +36365,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1770-1773",
+        "name": "WA1764",
         "tagsForWords": [
             {
                 "tags": [
@@ -32556,7 +36377,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1774-1776",
+        "name": "WA1765",
         "tagsForWords": [
             {
                 "tags": [
@@ -32568,7 +36389,103 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1777-1778",
+        "name": "WA1766",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1767",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1768",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1770",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1771",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1772",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1774",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1775",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1777",
         "tagsForWords": [
             {
                 "tags": [
@@ -32592,7 +36509,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1780-1781",
+        "name": "WA1780",
         "tagsForWords": [
             {
                 "tags": [
@@ -32604,7 +36521,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1782-1784",
+        "name": "WA1782",
         "tagsForWords": [
             {
                 "tags": [
@@ -32616,7 +36533,55 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1785-1789",
+        "name": "WA1783",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1785",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1786",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1787",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1788",
         "tagsForWords": [
             {
                 "tags": [
@@ -32688,7 +36653,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1795-1796",
+        "name": "WA1795",
         "tagsForWords": [
             {
                 "tags": [
@@ -32700,7 +36665,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1797-1798",
+        "name": "WA1797",
         "tagsForWords": [
             {
                 "tags": [
@@ -32748,7 +36713,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1802-1804",
+        "name": "WA1802",
         "tagsForWords": [
             {
                 "tags": [
@@ -32760,7 +36725,55 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1805-1809",
+        "name": "WA1803",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1805",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1806",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1807",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1808",
         "tagsForWords": [
             {
                 "tags": [
@@ -32784,7 +36797,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1811-1812",
+        "name": "WA1811",
         "tagsForWords": [
             {
                 "tags": [
@@ -32844,7 +36857,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1817-1818",
+        "name": "WA1817",
         "tagsForWords": [
             {
                 "tags": [
@@ -32856,7 +36869,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1819-1820",
+        "name": "WA1819",
         "tagsForWords": [
             {
                 "tags": [
@@ -32868,7 +36881,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1821-1822",
+        "name": "WA1821",
         "tagsForWords": [
             {
                 "tags": [
@@ -32892,7 +36905,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1824-1825",
+        "name": "WA1824",
         "tagsForWords": [
             {
                 "tags": [
@@ -32916,7 +36929,19 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1827-1829",
+        "name": "WA1827",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1828",
         "tagsForWords": [
             {
                 "tags": [
@@ -32940,7 +36965,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1831-1832",
+        "name": "WA1831",
         "tagsForWords": [
             {
                 "tags": [
@@ -33000,7 +37025,19 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1837-1839",
+        "name": "WA1837",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "WA1838",
         "tagsForWords": [
             {
                 "tags": [
@@ -33024,7 +37061,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1841-1842",
+        "name": "WA1841",
         "tagsForWords": [
             {
                 "tags": [
@@ -33182,7 +37219,21 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1856-1858",
+        "name": "WA1856",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            }
+        ]
+    },
+    {
+        "name": "WA1857",
         "tagsForWords": [
             {
                 "tags": [
