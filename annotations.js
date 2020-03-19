@@ -47477,7 +47477,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KHWa1005-1008",
+        "name": "KHWa1005",
         "tagsForWords": [
             {
                 "tags": [],
@@ -47487,7 +47487,47 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KHWa1009,1010",
+        "name": "KHWa1006",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
+        "name": "KHWa1007",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
+        "name": "KHWa1008",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
+        "name": "KHWa1009",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
+        "name": "KHWa1010",
         "tagsForWords": [
             {
                 "tags": [],
@@ -47897,7 +47937,19 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KHWc2029,2030",
+        "name": "KHWc2029",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word"
+                ],
+                "transliteratedWord": "VIR+KA",
+                "word": "𐛧"
+            }
+        ]
+    },
+    {
+        "name": "KHWc2030",
         "tagsForWords": [
             {
                 "tags": [
