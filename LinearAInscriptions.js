@@ -43621,8 +43621,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "tracingImages": [
-        "images/KOZa1-Tracing.jpg",
-        "images/KOZa1b-Tracing.jpg"
+        "images/KOZa1-Tracing.jpg"
     ],
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱\n𐘹𐘘𐘞𐄁𐘬𐙦𐘙𐄁𐘚𐘀\n𐘇𐄁𐘉𐘅𐘾𐘅𐘤𐄁𐘚\n𐘢𐘅𐙁𐄁𐘤𐘘𐘃",
     "translatedWords": [
