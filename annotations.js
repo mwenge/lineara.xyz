@@ -28307,7 +28307,17 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1032-1033",
+        "name": "WA1032",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1033",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28327,7 +28337,57 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1035-1040",
+        "name": "WA1035",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1036",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1037",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1038",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1039",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1040",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28347,7 +28407,17 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1042-1043",
+        "name": "WA1042",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1043",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28417,7 +28487,37 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1050-1053",
+        "name": "WA1050",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1051",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1052",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1053",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28437,7 +28537,37 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1055-1058",
+        "name": "WA1055",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1056",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1057",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1058",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28487,7 +28617,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1063-1069",
+        "name": "WA1063",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28497,7 +28627,67 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1070-1072",
+        "name": "WA1064",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1065",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1066",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1067",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1068",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1069",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1070",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28517,7 +28707,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1074-1078",
+        "name": "WA1074",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28527,7 +28717,107 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1079-1085",
+        "name": "WA1075",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1076",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1077",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1078",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1079",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1080",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1081",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1082",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1083",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1084",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1085",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28547,7 +28837,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1087-1088",
+        "name": "WA1087",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28557,7 +28847,57 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1089-1093",
+        "name": "WA1088",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1089",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1090",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1091",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1092",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1093",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28577,7 +28917,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1095-1103",
+        "name": "WA1095",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28587,7 +28927,107 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1104-1106",
+        "name": "WA1096",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1097",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1098",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1099",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1100",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1101",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1102",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1103",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1104",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1105",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1106",
         "tagsForWords": [
             {
                 "tags": [],
@@ -28637,7 +29077,17 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "WA1111-1112",
+        "name": "WA1111",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "RO",
+                "word": "𐘁"
+            }
+        ]
+    },
+    {
+        "name": "WA1112",
         "tagsForWords": [
             {
                 "tags": [],
