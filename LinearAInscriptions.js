@@ -34091,7 +34091,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KEZb3-Tracing.jpg"
+    ],
     "transcription": "𐘸",
     "translatedWords": [
         "KI"
@@ -34136,7 +34138,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐜀",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KEZb5-Tracing.jpg"
+    ],
     "transcription": "𐜀",
     "translatedWords": [
         "VIN+RA"
@@ -42795,15 +42799,15 @@ var inscriptions = new Map([
 }],
 ["KNZa10",{
     "images": [
-        "images/KNZa10-Inscription.jpg",
-        "images/KNZa10a-Inscription.jpg",
-        "images/KNZa10b-Inscription.jpg"
+        "images/KNZa10-Inscription.jpg"
     ],
     "name": "KNZa10",
     "parsedInscription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZa10-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
     "translatedWords": [
         "TA-NU-MU-TI",
@@ -43079,7 +43083,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫𐝫𐙖𐄙\n𐘝𐄈",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZb35-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫𐙖𐄙𐘝𐄈",
     "translatedWords": [
         "JA-DI-WI",
@@ -43608,10 +43614,7 @@ var inscriptions = new Map([
 }],
 ["KOZa1",{
     "images": [
-        "images/KOZa1-Inscription.jpg",
-        "images/KOZa1a-Inscription.jpg",
-        "images/KOZa1c-Inscription.jpg",
-        "images/KOZa1d-Inscription.jpg"
+        "images/KOZa1-Inscription.jpg"
     ],
     "name": "KOZa1",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱\n𐘹𐘘𐘞𐄁𐘬𐙦𐘙𐄁𐘚𐘀𐘇𐄁\n𐘉𐘅𐘾𐘅𐘤𐄁\n𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐘃",
@@ -43619,7 +43622,7 @@ var inscriptions = new Map([
     "support": "stone vessel",
     "tracingImages": [
         "images/KOZa1-Tracing.jpg",
-        "images/KOZa1c-Tracing.jpg"
+        "images/KOZa1b-Tracing.jpg"
     ],
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱\n𐘹𐘘𐘞𐄁𐘬𐙦𐘙𐄁𐘚𐘀\n𐘇𐄁𐘉𐘅𐘾𐘅𐘤𐄁𐘚\n𐘢𐘅𐙁𐄁𐘤𐘘𐘃",
     "translatedWords": [
@@ -48362,15 +48365,15 @@ var inscriptions = new Map([
 }],
 ["PRZa1",{
     "images": [
-        "images/PRZa1-Inscription.jpg",
-        "images/PRZa1a-Inscription.jpg",
-        "images/PRZa1b-Inscription.jpg"
+        "images/PRZa1-Inscription.jpg"
     ],
     "name": "PRZa1",
     "parsedInscription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PRZa1-Tracing.jpg"
+    ],
     "transcription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
     "translatedWords": [
         "TA-NA-SU-TE-KE",
