@@ -33735,8 +33735,7 @@ var inscriptions = new Map([
 }],
 ["IOZb10",{
     "images": [
-        "images/IOZb10-Inscription.jpg",
-        "images/IOZb10a-Inscription.jpg"
+        "images/IOZb10-Inscription.jpg"
     ],
     "name": "IOZb10",
     "parsedInscription": "𐝫𐘇𐘞𐘞𐘴𐘋",
@@ -48399,13 +48398,15 @@ var inscriptions = new Map([
 ["PSZa2",{
     "images": [
         "images/PSZa2-Inscription.jpg",
-        "images/PSZa2b-Inscription.jpg"
+        "images/PSZa2a-Inscription.jpg"
     ],
     "name": "PSZa2",
     "parsedInscription": "𐄑𐄊𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PSZa2-Tracing.jpg"
+    ],
     "transcription": "𐄑𐄊𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐝢𐘋𐄁",
     "translatedWords": [
         "\n",
@@ -53189,7 +53190,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘳𐘚𐙕𐘉𐘱𐄁𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/APZa1-Tracing.jpg"
+    ],
     "transcription": "𐘱𐘳𐘚𐙕𐘉𐘱𐄁𐝫",
     "translatedWords": [
         "gives",
@@ -53206,15 +53209,15 @@ var inscriptions = new Map([
 }],
 ["APZa2",{
     "images": [
-        "images/APZa2-Inscription.jpg",
-        "images/APZa2a-Inscription.jpg",
-        "images/APZa2b-Inscription.jpg"
+        "images/APZa2-Inscription.jpg"
     ],
     "name": "APZa2",
     "parsedInscription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/APZa2-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
     "translatedWords": [
         "NA-SI",
