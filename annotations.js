@@ -37758,7 +37758,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "HTWe/Wc3020",
+        "name": "HTWeWc3020",
         "tagsForWords": [
             {
                 "tags": [

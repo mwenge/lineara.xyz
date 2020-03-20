@@ -7624,12 +7624,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HT73",{
-    "images": [],
+    "images": [
+        "images/HT73-Inscription.jpg"
+    ],
     "name": "HT73",
     "parsedInscription": "𐝫𐙂𐝫\n𐝫𐄁𐝫𐄇𐝫\n𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HT73-Tracing.jpg"
+    ],
     "transcription": "𐝫𐙂𐝫\n𐝫𐄇𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "translatedWords": [
         "KU",
@@ -16098,12 +16102,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1014",{
-    "images": [],
+    "images": [
+        "images/HTWa1014-Inscription.jpg"
+    ],
     "name": "HTWa1014",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
     "support": "nodule",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWa1014-Tracing.jpg"
+    ],
     "transcription": "𐘤𐘾",
     "translatedWords": [
         "SI-KA"
@@ -16116,12 +16124,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1015",{
-    "images": [],
+    "images": [
+        "images/HTWa1015-Inscription.jpg"
+    ],
     "name": "HTWa1015",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
     "support": "nodule",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWa1015-Tracing.jpg"
+    ],
     "transcription": "",
     "translatedWords": [
         "SI-KA"
@@ -16134,12 +16146,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1016",{
-    "images": [],
+    "images": [
+        "images/HTWa1016-Inscription.jpg"
+    ],
     "name": "HTWa1016",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
     "support": "nodule",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWa1016-Tracing.jpg"
+    ],
     "transcription": "",
     "translatedWords": [
         "SI-KA"
@@ -16152,12 +16168,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1017",{
-    "images": [],
+    "images": [
+        "images/HTWa1017-Inscription.jpg"
+    ],
     "name": "HTWa1017",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
     "support": "nodule",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWa1017-Tracing.jpg"
+    ],
     "transcription": "",
     "translatedWords": [
         "SI-KA"
@@ -16170,12 +16190,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1018",{
-    "images": [],
+    "images": [
+        "images/HTWa1018-Inscription.jpg"
+    ],
     "name": "HTWa1018",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
     "support": "nodule",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWa1018-Tracing.jpg"
+    ],
     "transcription": "",
     "translatedWords": [
         "SI-KA"
@@ -16295,12 +16319,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1021bis",{
-    "images": [],
+    "images": [
+        "images/HTWa1021bis-Inscription.jpg"
+    ],
     "name": "HTWa1021bis",
     "parsedInscription": "𐜝𐜙𐄉",
     "scribe": "",
     "support": "nodule",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWa1021bis-Tracing.jpg"
+    ],
     "transcription": "𐜝𐝧𐄉",
     "translatedWords": [
         "*304+PA-*303+D",
@@ -32813,12 +32841,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3016",{
-    "images": [],
+    "images": [
+        "images/HTWc3016-Inscription.jpg"
+    ],
     "name": "HTWc3016",
     "parsedInscription": "𐘾𐙂𐘂𐜝𐜙",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWc3016-Tracing.jpg"
+    ],
     "transcription": "𐘾𐙂𐘂𐜝𐜙",
     "translatedWords": [
         "KA-KU-PA",
@@ -32834,12 +32866,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3017",{
-    "images": [],
+    "images": [
+        "images/HTWc3017-Inscription.jpg"
+    ],
     "name": "HTWc3017",
     "parsedInscription": "𐘌𐙂𐘙𐄁𐘆𐙚𐄁𐜙𐜝",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWc3017-Tracing.jpg"
+    ],
     "transcription": "𐘌𐙂𐘙𐄁𐘆𐙗𐝂𐜝𐜝",
     "translatedWords": [
         "QA-KU-RE",
@@ -32864,12 +32900,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc<3018>",{
-    "images": [],
+    "images": [
+        "images/HTWc<3018>-Inscription.jpg"
+    ],
     "name": "HTWc<3018>",
     "parsedInscription": "𐘾𐜙",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWc<3018>-Tracing.jpg"
+    ],
     "transcription": "𐘾𐜙",
     "translatedWords": [
         "KA",
@@ -32932,12 +32972,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3022(?)",{
-    "images": [],
+    "images": [
+        "images/HTWc3022(?)-Inscription.jpg"
+    ],
     "name": "HTWc3022(?)",
     "parsedInscription": "𐙇",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWc3022(?)-Tracing.jpg"
+    ],
     "transcription": "𐙇",
     "translatedWords": [
         "VIR+[?]"
@@ -32950,12 +32994,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3023",{
-    "images": [],
+    "images": [
+        "images/HTWc3023-Inscription.jpg"
+    ],
     "name": "HTWc3023",
     "parsedInscription": "",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWc3023-Tracing.jpg"
+    ],
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
@@ -33008,12 +33056,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWd1663",{
-    "images": [],
+    "images": [
+        "images/HTWd1663-Inscription.jpg"
+    ],
     "name": "HTWd1663",
     "parsedInscription": "𐙕",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWd1663-Tracing.jpg"
+    ],
     "transcription": "𐙕",
     "translatedWords": [
         "*301"
@@ -33025,13 +33077,19 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
-["HTWe/Wc3020",{
-    "images": [],
-    "name": "HTWe/Wc3020",
+["HTWeWc3020",{
+    "images": [
+        "images/HTWeWc3020a-Inscription.jpg",
+        "images/HTWeWc3020b-Inscription.jpg"
+    ],
+    "name": "HTWeWc3020",
     "parsedInscription": "𐙓𐘬𐜝𐜙",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWeWc3020a-Tracing.jpg",
+        "images/HTWeWc3020b-Tracing.jpg"
+    ],
     "transcription": "𐙓𐘬𐜝𐜙",
     "translatedWords": [
         "*188-DU",
@@ -33054,7 +33112,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐘹𐘈𐘲𐘸",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTZb158a-Tracing.jpg"
+    ],
     "transcription": "𐝫𐄁𐝫𐘹𐘈𐘲𐘸",
     "translatedWords": [
         "𐄁",
@@ -33077,7 +33137,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘲𐘸𐘭𐘃𐘚𐘱",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTZb158b-Tracing.jpg"
+    ],
     "transcription": "𐘲𐘸𐘭𐘃𐘚𐘱",
     "translatedWords": [
         "from SU-KI-RI-TA"
@@ -44695,7 +44757,9 @@ var inscriptions = new Map([
     ]
 }],
 ["MYZf2",{
-    "images": [],
+    "images": [
+        "images/MYZf2-Inscription.jpg"
+    ],
     "name": "MYZf2",
     "parsedInscription": "𐁁",
     "scribe": "",
@@ -46939,7 +47003,9 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWa32",{
-    "images": [],
+    "images": [
+        "images/PHWa32-Inscription.jpg"
+    ],
     "name": "PHWa32",
     "parsedInscription": "𐘲𐘸𐘭𐘳",
     "scribe": "",
@@ -46957,12 +47023,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWb33",{
-    "images": [],
+    "images": [
+        "images/PHWb33-Inscription.jpg"
+    ],
     "name": "PHWb33",
     "parsedInscription": "𐝫",
     "scribe": "",
     "support": "sealing",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PHWb33-Tracing.jpg"
+    ],
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -46975,12 +47045,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWb34",{
-    "images": [],
+    "images": [
+        "images/PHWb34-Inscription.jpg"
+    ],
     "name": "PHWb34",
     "parsedInscription": "𐝫",
     "scribe": "",
     "support": "sealing",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PHWb34-Tracing.jpg"
+    ],
     "transcription": "",
     "translatedWords": [
         "𐝫"
@@ -46993,12 +47067,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWb35",{
-    "images": [],
+    "images": [
+        "images/PHWb35-Inscription.jpg"
+    ],
     "name": "PHWb35",
     "parsedInscription": "𐝫",
     "scribe": "",
     "support": "sealing",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PHWb35-Tracing.jpg"
+    ],
     "transcription": "",
     "translatedWords": [
         "𐝫"
@@ -47011,12 +47089,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWb36",{
-    "images": [],
+    "images": [
+        "images/PHWb36-Inscription.jpg"
+    ],
     "name": "PHWb36",
     "parsedInscription": "𐘃",
     "scribe": "",
     "support": "sealing",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PHWb36-Tracing.jpg"
+    ],
     "transcription": "𐘃",
     "translatedWords": [
         "TE"
@@ -47268,12 +47350,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWg45",{
-    "images": [],
+    "images": [
+        "images/PHWg45-Inscription.jpg"
+    ],
     "name": "PHWg45",
     "parsedInscription": "𐘡𐘷𐘿",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PHWg45-Tracing.jpg"
+    ],
     "transcription": "𐘡𐘷𐘿",
     "translatedWords": [
         "E-TA2-QE"
