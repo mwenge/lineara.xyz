@@ -42663,7 +42663,9 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWb50",{
-    "images": [],
+    "images": [
+        "images/KNWb50-Inscription.jpg"
+    ],
     "name": "KNWb50",
     "parsedInscription": "𐙕",
     "scribe": "",
@@ -42932,7 +42934,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐘿𐄁",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZa17-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘱𐘿𐄁",
     "translatedWords": [
         "JA-QE",
@@ -42955,7 +42959,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZa18-Tracing.jpg"
+    ],
     "transcription": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
     "translatedWords": [
         "𐄁",
@@ -42999,7 +43005,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZa19-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
     "translatedWords": [
         "KE-JU-MI",
@@ -43034,7 +43042,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘶𐄁𐘱𐘤𐄁𐘤𐝫",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZb4-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘶𐄁𐘱𐘤𐄁𐘤𐝫",
     "translatedWords": [
         "flour",
@@ -43066,7 +43076,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘹𐘭𐘤𐘠𐄁",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZb5-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘹𐘭𐘤𐘠𐄁",
     "translatedWords": [
         "(KN Zb 5), \"from\" TU-RI-SA",
@@ -43089,7 +43101,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘅𐘇𐘰",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZb20-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘅𐘇𐘰",
     "translatedWords": [
         "NA-A-PA3"
@@ -43102,12 +43116,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb<27>",{
-    "images": [],
+    "images": [
+        "images/KNZb<27>-Inscription.jpg"
+    ],
     "name": "KNZb<27>",
     "parsedInscription": "𐘆𐘅𐘉𐄁𐙍𐄐𐄍",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZb<27>-Tracing.jpg"
+    ],
     "transcription": "𐘆𐘅𐘉𐄁𐙍𐄐𐄍",
     "translatedWords": [
         "DI-NA-U",
@@ -43193,7 +43211,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZb<36>-Tracing.jpg"
+    ],
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -43211,7 +43231,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZb<37>-Tracing.jpg"
+    ],
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -43229,7 +43251,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZb<38>-Tracing.jpg"
+    ],
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -43247,7 +43271,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘝",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KNZb<39>-Tracing.jpg"
+    ],
     "transcription": "𐘝",
     "translatedWords": [
         "figs"
@@ -43821,7 +43847,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘠𐘹𐙂",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/LAZb1(bis)-Tracing.jpg"
+    ],
     "transcription": "𐘱𐘠𐘹𐙂",
     "translatedWords": [
         "JA-TI-TU-KU"
@@ -44529,7 +44557,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘞𐝫",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/MAZb8-Tracing.jpg"
+    ],
     "transcription": "𐘱𐘞𐝫",
     "translatedWords": [
         "JA-SA"
@@ -44650,7 +44680,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘘",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/MIZb1-Tracing.jpg"
+    ],
     "transcription": "𐘸𐘘",
     "translatedWords": [
         "KI-RU"
@@ -47024,7 +47056,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘲𐘸𐘭𐘳",
     "scribe": "",
     "support": "nodule",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PHWa32-Tracing.jpg"
+    ],
     "transcription": "𐘲𐘸𐘭𐘳",
     "translatedWords": [
         "Sybrita (or Sygrita, in the Amari valley, modern Thronos)"
@@ -47386,12 +47420,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWy42",{
-    "images": [],
+    "images": [
+        "images/PHWy42-Inscription.jpg"
+    ],
     "name": "PHWy42",
     "parsedInscription": "𐙍",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PHWy42-Tracing.jpg"
+    ],
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -47411,7 +47449,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐙁𐄁𐘚𐘱𐘃",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PHZb4-Tracing.jpg"
+    ],
     "transcription": "𐘤𐙁𐄁𐘚𐘱𐘃",
     "translatedWords": [
         "SI-MA",
@@ -47752,7 +47792,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘞𐘞𐘴𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PKZa4-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘞𐘞𐘴𐝫",
     "translatedWords": [
         "A-SA-SA-RA"
@@ -47775,7 +47817,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘯𐄁𐘰𐘡𐄁𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙𐄁𐘹𐘋𐘚\n𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PKZa8-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘯𐄁𐘰𐘡𐄁𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙𐄁𐘹𐘋𐘚\n𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫",
     "translatedWords": [
         "NU",
@@ -47825,7 +47869,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PKZa9-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
     "translatedWords": [
         "𐝫",
@@ -48058,7 +48104,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PKZa14-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
     "translatedWords": [
         "TU-ME",
@@ -48174,7 +48222,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘃𐄁𐘚𐘀𐄁𐘱𐘱𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PKZa18-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘃𐄁𐘚𐘀𐄁𐘱𐘱𐝫",
     "translatedWords": [
         "TE",
@@ -48875,9 +48925,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa2",{
-    "images": [
-        "images/SYZa2-Inscription.jpg"
-    ],
+    "images": [],
     "name": "SYZa2",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "scribe": "",
@@ -54117,7 +54165,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘅𐘹𐄁𐙂𐝫\n𐝫𐘃𐘭𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ARKH6-Tracing.jpg"
+    ],
     "transcription": "𐘀𐘅𐘹𐄁𐙂𐝫\n𐝫𐘃𐘭𐝫\n𐝫",
     "translatedWords": [
         "DA-NA-TU",
@@ -54155,7 +54205,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n—\n𐙜𐝂\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ARKH7-Tracing.jpg"
+    ],
     "transcription": "𐝫\n—\n𐙜𐝂\n𐝫",
     "translatedWords": [
         "𐝫",
