@@ -33159,7 +33159,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘅𐘯𐘤𐘱𐘈𐝫",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTZb159-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘅𐘯𐘤𐘱𐘈𐝫",
     "translatedWords": [
         "A-NA-NU-SI-JA-SE"
@@ -33179,7 +33181,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘂𐘳𐘀𐘬𐘜𐘙𐝫",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTZb160-Tracing.jpg"
+    ],
     "transcription": "𐘂𐘳𐘀𐘬𐘜𐘙𐝫",
     "translatedWords": [
         "PA-TA-DA-DU-PU2-RE"
@@ -33199,7 +33203,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘤𐘫𐝫",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTZb161-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘤𐘫𐝫",
     "translatedWords": [
         "SI-PU"
@@ -36045,7 +36051,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂\n𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH21-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
     "translatedWords": [
         "𐝫",
@@ -36095,7 +36103,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘍𐄁𐘲𐄍\n𐜚𐝫\n𐝫𐘤𐄊\n𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH22-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘍𐄁𐘲𐄍𐜚𐝫\n𐝫𐘤𐄊𐙗𐝫\n𐝫",
     "translatedWords": [
         "ZA",
@@ -38096,12 +38106,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KH68+71",{
-    "images": [],
+    "images": [
+        "images/KH68+71-Inscription.jpg"
+    ],
     "name": "KH68+71",
     "parsedInscription": "𐝫\n𐝫𐜨𐝉𐝫\n𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH68+71-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐝫𐜨𐝉𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
