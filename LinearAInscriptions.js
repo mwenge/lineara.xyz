@@ -39254,12 +39254,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KH92",{
-    "images": [],
+    "images": [
+        "images/KH92-Inscription.jpg"
+    ],
     "name": "KH92",
     "parsedInscription": "𐘇𐘀𐘐𐘭\n𐙂𐘝𐘃𐄐𐝫\n𐝫𐘅𐘸𐄇𐝫\n𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH92-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘀𐘐𐘭𐙂𐘝𐘃𐄐𐝫\n𐝫𐘅𐘸𐄇𐝫\n𐝫",
     "translatedWords": [
         "A-DA-*21F-RI",
@@ -39305,7 +39309,9 @@ var inscriptions = new Map([
     ]
 }],
 ["KH93",{
-    "images": [],
+    "images": [
+        "images/KH93-Inscription.jpg"
+    ],
     "name": "KH93",
     "parsedInscription": "𐝫",
     "scribe": "",
@@ -39524,12 +39530,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KH100",{
-    "images": [],
+    "images": [
+        "images/KH100-Inscription.jpg"
+    ],
     "name": "KH100",
     "parsedInscription": "𐚌𐙚𐝫\n𐝫𐘁𐙍𐝫\n𐝫𐘥𐝃𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH100-Tracing.jpg"
+    ],
     "transcription": "𐚌𐙚𐝫\n𐘁𐙍𐝫\n𐘥𐝃𐝫\n𐝫",
     "translatedWords": [
         "*352-*306",
@@ -48312,7 +48322,9 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZb21",{
-    "images": [],
+    "images": [
+        "images/PKZb21-Inscription.jpg"
+    ],
     "name": "PKZb21",
     "parsedInscription": "𐘸𐘳𐘝𐘃",
     "scribe": "",
@@ -48851,7 +48863,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐙁𐘴𐘗𐝫",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/SKZb1-Tracing.jpg"
+    ],
     "transcription": "𐘇𐙁𐘴𐘗𐝫",
     "translatedWords": [
         "A-MA-RA-NE"
@@ -51650,12 +51664,16 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA12b",{
-    "images": [],
+    "images": [
+        "images/ZA12b-Inscription.jpg"
+    ],
     "name": "ZA12b",
     "parsedInscription": "𐝫\n𐝫𐘹𐝫𐄌𐝫\n𐘂𐝫𐄓𐝫\n𐘠𐄐𐄉\n𐘘𐄑𐄌",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ZA12b-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐝫𐘹𐝫𐄌𐝫𐘂𐝫𐄓𐝫\n𐘠𐄐𐄉𐘘𐄑𐄌",
     "translatedWords": [
         "𐝫",
@@ -53117,12 +53135,16 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAWc2",{
-    "images": [],
+    "images": [
+        "images/ZAWc2-Inscription.jpg"
+    ],
     "name": "ZAWc2",
     "parsedInscription": "𐘇𐘠𐘾𐘇𐘬𐘺𐘻\n𐘇𐘠𐘾𐘇𐘬𐘺𐘻",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ZAWc2-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘠𐘾𐘇\n𐘬𐘺𐘻",
     "translatedWords": [
         "A-TI-KA-A-DU-KO-MI",
@@ -54018,7 +54040,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘙𐄐\n𐘉𐝫\n𐝫𐘦𐘻𐄐\n𐘚𐘨𐝫𐝫𐄏\n𐘇𐘸𐘁𐄉\n𐘍𐘤𐙀𐝫𐝫𐄉\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ARKH4b-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐝫\n𐝫𐘙𐄐𐘉𐝫\n𐝫𐘦𐘻𐄐𐘚𐘨𐝫\n𐄏𐘇𐘸𐘁𐄉\n𐘍𐘤𐙀𐝫𐄉\n𐝫",
     "translatedWords": [
         "𐝫",
