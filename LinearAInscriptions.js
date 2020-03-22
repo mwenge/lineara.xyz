@@ -16243,16 +16243,14 @@ var inscriptions = new Map([
 }],
 ["HTWa1020",{
     "images": [
-        "images/HTWa1020-Inscription.jpg",
-        "images/HTWa1020a-Inscription.jpg"
+        "images/HTWa1020-Inscription.jpg"
     ],
     "name": "HTWa1020",
     "parsedInscription": "𐜝𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
     "scribe": "",
     "support": "nodule",
     "tracingImages": [
-        "images/HTWa1020-Tracing.jpg",
-        "images/HTWa1020a-Tracing.jpg"
+        "images/HTWa1020-Tracing.jpg"
     ],
     "transcription": "𐜝𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
     "translatedWords": [
@@ -16289,7 +16287,6 @@ var inscriptions = new Map([
     "support": "nodule",
     "tracingImages": [
         "images/HTWa1021-Tracing.jpg",
-        "images/HTWa1021a-Tracing.jpg",
         "images/HTWa1021b-Tracing.jpg"
     ],
     "transcription": "𐙓𐘬𐄁\n𐝕\n𐛉𐛔",
@@ -16411,16 +16408,14 @@ var inscriptions = new Map([
 }],
 ["HTWa1025",{
     "images": [
-        "images/HTWa1025-Inscription.jpg",
-        "images/HTWa1025a-Inscription.jpg"
+        "images/HTWa1025-Inscription.jpg"
     ],
     "name": "HTWa1025",
     "parsedInscription": "𐝆𐙕",
     "scribe": "",
     "support": "nodule",
     "tracingImages": [
-        "images/HTWa1025-Tracing.jpg",
-        "images/HTWa1025a-Tracing.jpg"
+        "images/HTWa1025-Tracing.jpg"
     ],
     "transcription": "𐝆𐙕",
     "translatedWords": [
@@ -16435,16 +16430,14 @@ var inscriptions = new Map([
 }],
 ["HTWa1026",{
     "images": [
-        "images/HTWa1026-Inscription.jpg",
-        "images/HTWa1026a-Inscription.jpg"
+        "images/HTWa1026-Inscription.jpg"
     ],
     "name": "HTWa1026",
     "parsedInscription": "𐝃𐙕",
     "scribe": "",
     "support": "nodule",
     "tracingImages": [
-        "images/HTWa1026-Tracing.jpg",
-        "images/HTWa1026a-Tracing.jpg"
+        "images/HTWa1026-Tracing.jpg"
     ],
     "transcription": "𐝃𐙕",
     "translatedWords": [
@@ -16459,16 +16452,14 @@ var inscriptions = new Map([
 }],
 ["HTWa1027",{
     "images": [
-        "images/HTWa1027-Inscription.jpg",
-        "images/HTWa1027a-Inscription.jpg"
+        "images/HTWa1027-Inscription.jpg"
     ],
     "name": "HTWa1027",
     "parsedInscription": "𐘾𐘤",
     "scribe": "",
     "support": "nodule",
     "tracingImages": [
-        "images/HTWa1027-Tracing.jpg",
-        "images/HTWa1027a-Tracing.jpg"
+        "images/HTWa1027-Tracing.jpg"
     ],
     "transcription": "𐘾𐘤",
     "translatedWords": [
@@ -16491,8 +16482,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "tracingImages": [
-        "images/HTWa1028-Tracing.jpg",
-        "images/HTWa1028a-Tracing.jpg"
+        "images/HTWa1028-Tracing.jpg"
     ],
     "transcription": "𐘤𐘾",
     "translatedWords": [
@@ -16515,8 +16505,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "tracingImages": [
-        "images/HTWa1029-Tracing.jpg",
-        "images/HTWa1029a-Tracing.jpg"
+        "images/HTWa1029-Tracing.jpg"
     ],
     "transcription": "𐙕𐙕",
     "translatedWords": [
