@@ -43823,12 +43823,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KYZa2",{
-    "images": [],
+    "images": [
+        "images/KYZa2-Inscription.jpg"
+    ],
     "name": "KYZa2",
     "parsedInscription": "𐘀𐙁𐘃",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KYZa2-Tracing.jpg"
+    ],
     "transcription": "𐘀𐙁𐘃",
     "translatedWords": [
         "DA-MA-TE"
