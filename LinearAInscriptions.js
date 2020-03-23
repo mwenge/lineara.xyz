@@ -39318,12 +39318,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KH94",{
-    "images": [],
+    "images": [
+        "images/KH94-Inscription.jpg"
+    ],
     "name": "KH94",
     "parsedInscription": "𐝫\n𐝫𐘌𐝫𐘫\n𐝫𐄐𐄍\n𐘚𐝫𐘍𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH94-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐝫𐚻𐝫\n𐝫𐄐𐄍𐘚𐝫\n𐝫𐘍𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -39360,12 +39364,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KH95",{
-    "images": [],
+    "images": [
+        "images/KH95-Inscription.jpg"
+    ],
     "name": "KH95",
     "parsedInscription": "𐝫\n𐘈𐄍𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH95-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐘈𐄍𐝫",
     "translatedWords": [
         "𐝫",
@@ -39387,12 +39395,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KH96",{
-    "images": [],
+    "images": [
+        "images/KH96-Inscription.jpg"
+    ],
     "name": "KH96",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝈𐝀𐝀",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KH96-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐝫\n𐝫𐝈𐝀𐝀",
     "translatedWords": [
         "𐝫",
@@ -42066,12 +42078,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2122",{
-    "images": [],
+    "images": [
+        "images/KHWc2122-Inscription.jpg"
+    ],
     "name": "KHWc2122",
     "parsedInscription": "𐚨",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KHWc2122-Tracing.jpg"
+    ],
     "transcription": "𐚨",
     "translatedWords": [
         "*408-VS"
@@ -44706,12 +44722,16 @@ var inscriptions = new Map([
     "words": []
 }],
 ["MILZb1",{
-    "images": [],
+    "images": [
+        "images/MILZb1-Inscription.jpg"
+    ],
     "name": "MILZb1",
     "parsedInscription": "𐝫𐘰𐘤𐘨",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/MILZb1-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘰𐘤𐘨",
     "translatedWords": [
         "PA3-SI-*47"
@@ -44748,12 +44768,17 @@ var inscriptions = new Map([
     "words": []
 }],
 ["MOZf1",{
-    "images": [],
+    "images": [
+        "images/MOZf1a-Inscription.jpg",
+        "images/MOZf1b-Inscription.jpg"
+    ],
     "name": "MOZf1",
     "parsedInscription": "𐙹𐘞𐘕",
     "scribe": "",
     "support": "metal object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/MOZf1-Tracing.jpg"
+    ],
     "transcription": "𐙹𐘞𐘕",
     "translatedWords": [
         "*333-SA-MU"
