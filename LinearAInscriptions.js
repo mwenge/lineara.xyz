@@ -48286,7 +48286,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘉𐘅𐘾𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PKZa20-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘉𐘅𐘾𐝫",
     "translatedWords": [
         "U-NA-KA"
@@ -48326,7 +48328,9 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZb19",{
-    "images": [],
+    "images": [
+        "images/PKZb19-Inscription.jpg"
+    ],
     "name": "PKZb19",
     "parsedInscription": "𐘈𐘤𐘳𐝫",
     "scribe": "",
@@ -48369,7 +48373,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐝫",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PKZb23-Tracing.jpg"
+    ],
     "transcription": "𐘾𐝫",
     "translatedWords": [
         "KA"
@@ -48387,7 +48393,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PKZb24-Tracing.jpg"
+    ],
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -48405,7 +48413,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘻𐘀𐘴",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PKZb25-Tracing.jpg"
+    ],
     "transcription": "𐘻𐘀𐘴",
     "translatedWords": [
         "MI-DA-RA"
