@@ -293,7 +293,6 @@ var inscriptionCoordinates = [
 {"areas":[{"coords":{"x":15,"y":65,"width":37,"height":59}},{"coords":{"x":50,"y":53,"width":32,"height":73}},{"coords":{"x":84,"y":45,"width":47,"height":53}}],"img":"images/WC3008a-Tracing.jpg"},
 {"areas":[{"coords":{"x":15,"y":9,"width":52,"height":59}}],"img":"images/HTWa1541-Tracing.jpg"},
 {"areas":[{"coords":{"x":150,"y":65,"width":93,"height":162}}],"img":"images/KHWc2004-Tracing.jpg"},
-{"areas":[{"coords":{"x":152,"y":205,"width":45,"height":102}},{"coords":{"x":217,"y":210,"width":66,"height":91}},{"coords":{"x":295,"y":217,"width":41,"height":63}},{"coords":{"x":343,"y":221,"width":43,"height":59}},{"coords":{"x":387,"y":220,"width":32,"height":61}}],"img":"images/KN22b-Tracing.jpg"},
 {"areas":[{"coords":{"x":154,"y":49,"width":42,"height":68}},{"coords":{"x":201,"y":70,"width":30,"height":43}},{"coords":{"x":225,"y":72,"width":47,"height":64}},{"coords":{"x":64,"y":111,"width":45,"height":91}},{"coords":{"x":114,"y":118,"width":42,"height":79}}],"img":"images/HT154e-Tracing.jpg"},
 {"areas":[{"coords":{"x":154,"y":53,"width":72,"height":113}}],"img":"images/ZA24b-Tracing.jpg"},
 {"areas":[{"coords":{"x":154,"y":9,"width":76,"height":87}},{"coords":{"x":248,"y":9,"width":96,"height":82}},{"coords":{"x":66,"y":83,"width":75,"height":98}},{"coords":{"x":151,"y":87,"width":22,"height":87}},{"coords":{"x":172,"y":98,"width":29,"height":83}},{"coords":{"x":205,"y":98,"width":42,"height":86}}],"img":"images/KH26-Tracing.jpg"},
