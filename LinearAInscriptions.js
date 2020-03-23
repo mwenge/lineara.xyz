@@ -49285,7 +49285,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘕 ≈ 𐘮𐘃 ≈ 𐘝",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/TELZb1-Tracing.jpg"
+    ],
     "transcription": "𐘕 ≈ 𐘮𐘃 ≈ 𐘝",
     "translatedWords": [
         "bovine",
