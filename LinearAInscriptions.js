@@ -32999,12 +32999,16 @@ var inscriptions = new Map([
     "words": []
 }],
 ["HTWc3024",{
-    "images": [],
+    "images": [
+        "images/HTWc3024-Inscription.jpg"
+    ],
     "name": "HTWc3024",
     "parsedInscription": "𐘇𐘴𐘹𐘋\n𐘓𐘓",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HTWc3024-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘴𐘹𐘋\n𐘓",
     "translatedWords": [
         "A-RA-TU-ME",
