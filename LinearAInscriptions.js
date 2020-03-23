@@ -33967,12 +33967,16 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa16",{
-    "images": [],
+    "images": [
+        "images/IOZa16-Inscription.jpg"
+    ],
     "name": "IOZa16",
     "parsedInscription": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/IOZa16-Tracing.jpg"
+    ],
     "transcription": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
     "translatedWords": [
         "spice",
@@ -54359,12 +54363,16 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKHZf9",{
-    "images": [],
+    "images": [
+        "images/ARKHZf9-Inscription.jpg"
+    ],
     "name": "ARKHZf9",
     "parsedInscription": "𐘱𐘸𐘤𐘸𐘯𐄁𐘻𐘀𐙁𐘽𐄁",
     "scribe": "",
     "support": "metal object",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ARKHZf9-Tracing.jpg"
+    ],
     "transcription": "𐘱𐘸𐘤𐘸𐘯𐄁𐘻𐘀𐙁𐘽𐄁",
     "translatedWords": [
         "JA-KI-SI-KI-NU",
