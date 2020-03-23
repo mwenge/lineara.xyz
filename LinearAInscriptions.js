@@ -33822,7 +33822,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/IOZa11-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
     "translatedWords": [
         "NA",
@@ -33861,7 +33863,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/IOZa12-Tracing.jpg"
+    ],
     "transcription": "𐝫𐄁𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
     "translatedWords": [
         "𐄁",
@@ -33897,7 +33901,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐙁𐘚𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/IOZa13-Tracing.jpg"
+    ],
     "transcription": "𐝫𐄁𐝫𐙁𐘚𐝫",
     "translatedWords": [
         "𐄁",
@@ -48752,12 +48758,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PYRWc4",{
-    "images": [],
+    "images": [
+        "images/PYRWc4-Inscription.jpg"
+    ],
     "name": "PYRWc4",
     "parsedInscription": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PYRWc4-Tracing.jpg"
+    ],
     "transcription": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
     "translatedWords": [
         "TI",
