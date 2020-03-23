@@ -54716,12 +54716,16 @@ var inscriptions = new Map([
     ]
 }],
 ["GOWc3",{
-    "images": [],
+    "images": [
+        "images/GOWc3-Inscription.jpg"
+    ],
     "name": "GOWc3",
     "parsedInscription": "𐝬𐄑,𐄈",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/GOWc3-Tracing.jpg"
+    ],
     "transcription": "𐝬𐄑,𐄈",
     "translatedWords": [
         "*809",
