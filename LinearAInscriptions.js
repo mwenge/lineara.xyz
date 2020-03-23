@@ -54345,12 +54345,16 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKHZc8",{
-    "images": [],
+    "images": [
+        "images/ARKHZc8-Inscription.jpg"
+    ],
     "name": "ARKHZc8",
     "parsedInscription": "𐙚𐘳𐘧",
     "scribe": "",
     "support": "inked inscription",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ARKHZc8-Tracing.jpg"
+    ],
     "transcription": "𐙚𐘳𐘧",
     "translatedWords": [
         "*306-TA-JE"
