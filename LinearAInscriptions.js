@@ -48535,12 +48535,16 @@ var inscriptions = new Map([
     ]
 }],
 ["POZc1",{
-    "images": [],
+    "images": [
+        "images/POZc1-Inscription.jpg"
+    ],
     "name": "POZc1",
     "parsedInscription": "𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱𐄁",
     "scribe": "",
     "support": "inked inscription",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/POZc1-Tracing.jpg"
+    ],
     "transcription": "𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱𐄁",
     "translatedWords": [
         "RI-QE-TI-A-SA-SA-RA-*325",
