@@ -54532,12 +54532,16 @@ var inscriptions = new Map([
     ]
 }],
 ["GO2r",{
-    "images": [],
+    "images": [
+        "images/GO2r-Inscription.jpg"
+    ],
     "name": "GO2r",
     "parsedInscription": "𐝫\n𐘤𐝫\n𐘾𐝄\n𐘤𐄈\n𐘀𐝫\n𐘤𐘀𐘁𐝃𐝫\n𐝫𐘈𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/GO2r-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐘤𐝫\n𐘾𐝄𐘤𐄈𐘀𐝫\n𐘤𐘀𐘁𐝃𐝫\n𐝫𐘈𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -54601,12 +54605,16 @@ var inscriptions = new Map([
     ]
 }],
 ["GO2v",{
-    "images": [],
+    "images": [
+        "images/GO2v-Inscription.jpg"
+    ],
     "name": "GO2v",
     "parsedInscription": "𐝫\n𐝫𐄇𐝄\n𐘀𐝫\n𐘙𐄇𐝫\n𐘈𐘤𐝫\n𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/GO2v-Tracing.jpg"
+    ],
     "transcription": "𐝫\n𐝫𐄇𐝄𐘀𐝫\n𐘙𐄇𐝫𐘈𐘤𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
