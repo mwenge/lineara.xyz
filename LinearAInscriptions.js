@@ -54669,12 +54669,16 @@ var inscriptions = new Map([
     ]
 }],
 ["GOWc1a",{
-    "images": [],
+    "images": [
+        "images/GOWc1a-Inscription.jpg"
+    ],
     "name": "GOWc1a",
     "parsedInscription": "𐘇𐘞𐘲𐙁𐘚𐘈",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/GOWc1a-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘞\n𐘲𐙁\n𐘚𐘈",
     "translatedWords": [
         "A-SA-SU-MA-I-SE"
@@ -54687,12 +54691,16 @@ var inscriptions = new Map([
     ]
 }],
 ["GOWc1b",{
-    "images": [],
+    "images": [
+        "images/GOWc1b-Inscription.jpg"
+    ],
     "name": "GOWc1b",
     "parsedInscription": "𐘖𐄋",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/GOWc1b-Tracing.jpg"
+    ],
     "transcription": "𐘖𐄋",
     "translatedWords": [
         "bull",
