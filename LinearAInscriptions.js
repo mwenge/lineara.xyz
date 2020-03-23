@@ -42144,12 +42144,16 @@ var inscriptions = new Map([
     ]
 }],
 ["KHZb98",{
-    "images": [],
+    "images": [
+        "images/KHZb98-Inscription.jpg"
+    ],
     "name": "KHZb98",
     "parsedInscription": "𐘝",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KHZb98-Tracing.jpg"
+    ],
     "transcription": "𐘝",
     "translatedWords": [
         "figs"
