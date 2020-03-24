@@ -47571,7 +47571,17 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KHWa1014,1015",
+        "name": "KHWa1014",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "*86-RO",
+                "word": "𐙅𐘁"
+            }
+        ]
+    },
+    {
+        "name": "KHWa1015",
         "tagsForWords": [
             {
                 "tags": [],
@@ -48111,7 +48121,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KHWc2044+2096",
+        "name": "KHWc2044",
         "tagsForWords": [
             {
                 "tags": [
@@ -48265,7 +48275,27 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KHWc2059+2091+2092",
+        "name": "KHWc2092",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "*86+*188",
+                "word": "𐛦"
+            }
+        ]
+    },
+    {
+        "name": "KHWc2091",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "*86+*188",
+                "word": "𐛦"
+            }
+        ]
+    },
+    {
+        "name": "KHWc2059",
         "tagsForWords": [
             {
                 "tags": [],
@@ -48435,7 +48465,21 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KHWc2088+2089+fr",
+        "name": "KHWc2088",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            }
+        ]
+    },
+    {
+        "name": "KHWc2089",
         "tagsForWords": [
             {
                 "tags": [
@@ -48467,6 +48511,18 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "*86+'*188'",
                 "word": "𐛥"
+            }
+        ]
+    },
+    {
+        "name": "KHWc2096",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "commodity"
+                ],
+                "transliteratedWord": "*164",
+                "word": "𐙐"
             }
         ]
     },

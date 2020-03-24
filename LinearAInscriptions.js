@@ -39910,13 +39910,39 @@ var inscriptions = new Map([
         "𐙅𐘁"
     ]
 }],
-["KHWa1014,1015",{
-    "images": [],
-    "name": "KHWa1014,1015",
+["KHWa1014",{
+    "images": [
+        "images/KHWa1014-Inscription.jpg"
+    ],
+    "name": "KHWa1014",
     "parsedInscription": "𐙅𐘁",
     "scribe": "",
     "support": "nodule",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KHWa1014-Tracing.jpg"
+    ],
+    "transcription": "",
+    "translatedWords": [
+        "*86-RO"
+    ],
+    "transliteratedWords": [
+        "*86-RO"
+    ],
+    "words": [
+        "𐙅𐘁"
+    ]
+}],
+["KHWa1015",{
+    "images": [
+        "images/KHWa1015-Inscription.jpg"
+    ],
+    "name": "KHWa1015",
+    "parsedInscription": "𐙅𐘁",
+    "scribe": "",
+    "support": "nodule",
+    "tracingImages": [
+        "images/KHWa1015-Tracing.jpg"
+    ],
     "transcription": "",
     "translatedWords": [
         "*86-RO"
@@ -40989,13 +41015,17 @@ var inscriptions = new Map([
         "𐙐"
     ]
 }],
-["KHWc2044+2096",{
-    "images": [],
-    "name": "KHWc2044+2096",
+["KHWc2044",{
+    "images": [
+        "images/KHWc2044-Inscription.jpg"
+    ],
+    "name": "KHWc2044",
     "parsedInscription": "𐙐",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KHWc2044-Tracing.jpg"
+    ],
     "transcription": "",
     "translatedWords": [
         "textile?"
@@ -41315,13 +41345,61 @@ var inscriptions = new Map([
         "𐛦"
     ]
 }],
-["KHWc2059+2091+2092",{
-    "images": [],
-    "name": "KHWc2059+2091+2092",
+["KHWc2092",{
+    "images": [
+        "images/KHWc2092-Inscription.jpg"
+    ],
+    "name": "KHWc2092",
     "parsedInscription": "𐛦",
     "scribe": "",
     "support": "roundel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/KHWc2092-Tracing.jpg"
+    ],
+    "transcription": "",
+    "translatedWords": [
+        "*86+*188"
+    ],
+    "transliteratedWords": [
+        "*86+*188"
+    ],
+    "words": [
+        "𐛦"
+    ]
+}],
+["KHWc2091",{
+    "images": [
+        "images/KHWc2091-Inscription.jpg"
+    ],
+    "name": "KHWc2091",
+    "parsedInscription": "𐛦",
+    "scribe": "",
+    "support": "roundel",
+    "tracingImages": [
+        "images/KHWc2091-Tracing.jpg"
+    ],
+    "transcription": "",
+    "translatedWords": [
+        "*86+*188"
+    ],
+    "transliteratedWords": [
+        "*86+*188"
+    ],
+    "words": [
+        "𐛦"
+    ]
+}],
+["KHWc2059",{
+    "images": [
+        "images/KHWc2059-Inscription.jpg"
+    ],
+    "name": "KHWc2059",
+    "parsedInscription": "𐛦",
+    "scribe": "",
+    "support": "roundel",
+    "tracingImages": [
+        "images/KHWc2059-Tracing.jpg"
+    ],
     "transcription": "",
     "translatedWords": [
         "*86+*188"
@@ -41635,9 +41713,27 @@ var inscriptions = new Map([
         "𐚨"
     ]
 }],
-["KHWc2088+2089+fr",{
+["KHWc2088",{
     "images": [],
-    "name": "KHWc2088+2089+fr",
+    "name": "KHWc2088",
+    "parsedInscription": "𐝫",
+    "scribe": "",
+    "support": "roundel",
+    "tracingImages": [],
+    "transcription": "𐝫",
+    "translatedWords": [
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫"
+    ],
+    "words": [
+        "𐝫"
+    ]
+}],
+["KHWc2089",{
+    "images": [],
+    "name": "KHWc2089",
     "parsedInscription": "𐝫",
     "scribe": "",
     "support": "roundel",
@@ -41691,6 +41787,28 @@ var inscriptions = new Map([
     ],
     "words": [
         "𐛥"
+    ]
+}],
+["KHWc2096",{
+    "images": [
+        "images/KHWc2096-Inscription.jpg"
+    ],
+    "name": "KHWc2096",
+    "parsedInscription": "𐙐",
+    "scribe": "",
+    "support": "roundel",
+    "tracingImages": [
+        "images/KHWc2096-Tracing.jpg"
+    ],
+    "transcription": "",
+    "translatedWords": [
+        "textile?"
+    ],
+    "transliteratedWords": [
+        "*164"
+    ],
+    "words": [
+        "𐙐"
     ]
 }],
 ["KHWc2098",{
@@ -58891,7 +59009,7 @@ var sequences = new Map([
 var wordsInCorpus = new Map([
 ["𐘿𐘽𐘉", 3],
 ["𐄁", 470],
-["", 2664],
+["", 2665],
 ["𐘸𐘁", 16],
 ["𐄖", 5],
 ["𐄔𐄈", 2],
@@ -59234,16 +59352,16 @@ var wordsInCorpus = new Map([
 ["𐜡", 2],
 ["𐚳", 2],
 ["𐙃", 2],
-["𐙅𐘁", 3],
+["𐙅𐘁", 4],
 ["𐚱", 2],
 ["𐚫", 15],
 ["𐚩", 4],
 ["𐙮", 3],
-["𐙐", 12],
+["𐙐", 13],
 ["𐜈", 10],
 ["𐝥𐘻", 2],
 ["𐜥", 2],
-["𐛦", 6],
+["𐛦", 8],
 ["𐛝", 2],
 ["𐙾", 2],
 ["𐚨", 4],
