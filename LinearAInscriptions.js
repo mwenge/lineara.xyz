@@ -7826,12 +7826,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HT79+83",{
-    "images": [],
+    "images": [
+        "images/HT79+83-Inscription.jpg"
+    ],
     "name": "HT79+83",
     "parsedInscription": "𐝫𐘚𐄁𐙙𐝫\n𐝫𐘾𐄁\n𐘀𐘰𐝫\n𐝫𐘹𐘂𐘭𐄇𐝫\n𐝫𐘹𐝫𐄁𐝫𐄉\n𐝫𐙂𐘝𐝫\n𐝫𐙀𐄉\n𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HT79+83-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘚𐄁𐙙𐝫𐘾𐄁𐘀𐘰\n𐝫𐘹𐘂𐘭𐄇𐝫𐘹𐝫𐄁𐝫𐄉\n𐝫𐙂𐘝𐝫𐙀𐄉\n𐝫",
     "translatedWords": [
         "I",
@@ -7848,13 +7852,13 @@ var inscriptions = new Map([
         "\n",
         "TU",
         "𐄁",
-        "\n",
-        "\n",
-        "\n",
         "3",
+        "\n",
         "KU-NI",
+        "\n",
         "*79",
         "3",
+        "\n",
         "𐝫"
     ],
     "transliteratedWords": [
@@ -7872,13 +7876,13 @@ var inscriptions = new Map([
         "\n",
         "TU",
         "𐄁",
-        "\n",
-        "\n",
-        "\n",
         "3",
+        "\n",
         "KU-NI",
+        "\n",
         "*79",
         "3",
+        "\n",
         "𐝫"
     ],
     "words": [
@@ -7896,13 +7900,13 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐘹𐝫",
         "𐄁",
+        "𐝫𐄉",
         "\n",
-        "\n",
-        "\n",
-        "𐄉",
         "𐝫𐙂𐘝𐝫",
+        "\n",
         "𐝫𐙀",
         "𐄉",
+        "\n",
         "𐝫"
     ]
 }],
@@ -44505,7 +44509,7 @@ var inscriptions = new Map([
         "images/MA10b-Inscription.jpg"
     ],
     "name": "MA10b",
-    "parsedInscription": "𐝫𐘬𐘢𐘃𐘮𐄁𐜭𐄇\n𐜰𐄉\n𐝫\n𐝫𐄊\n𐜬𐄈\n𐛄𐄈",
+    "parsedInscription": "𐝫𐘬𐘢𐘃𐘮𐄁𐜭𐄇\n𐜰𐄉\n𐝫𐄊\n𐜬𐄈\n𐛄𐄈",
     "scribe": "",
     "support": "4-sided bar",
     "tracingImages": [
@@ -44520,7 +44524,6 @@ var inscriptions = new Map([
         "\n",
         "*412+E",
         "3",
-        "\n",
         "\n",
         "4",
         "\n",
@@ -44539,7 +44542,6 @@ var inscriptions = new Map([
         "*412+E",
         "3",
         "\n",
-        "\n",
         "4",
         "\n",
         "*402+A",
@@ -44556,7 +44558,6 @@ var inscriptions = new Map([
         "\n",
         "𐜰",
         "𐄉",
-        "\n",
         "\n",
         "𐝫𐄊",
         "\n",
@@ -59017,7 +59018,7 @@ var sequences = new Map([
 var wordsInCorpus = new Map([
 ["𐘿𐘽𐘉", 3],
 ["𐄁", 470],
-["", 2665],
+["", 2664],
 ["𐘸𐘁", 16],
 ["𐄖", 5],
 ["𐄔𐄈", 2],
