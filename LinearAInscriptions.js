@@ -48772,12 +48772,16 @@ var inscriptions = new Map([
     ]
 }],
 ["PSIZa1",{
-    "images": [],
+    "images": [
+        "images/PSIZa1-Inscription.jpg"
+    ],
     "name": "PSIZa1",
     "parsedInscription": "𐙓𐘬𐘈𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PSIZa1-Tracing.jpg"
+    ],
     "transcription": "𐙓𐘬𐘈𐝫",
     "translatedWords": [
         "*188-DU-SE"
@@ -48795,7 +48799,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐄁𐝫",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/PSIZa2-Tracing.jpg"
+    ],
     "transcription": "𐄁𐝫",
     "translatedWords": [
         "𐄁",
@@ -53433,7 +53439,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮𐄕",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/ZAZg34-Tracing.jpg"
+    ],
     "transcription": "𐘮𐄕",
     "translatedWords": [
         "cloth",
