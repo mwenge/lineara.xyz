@@ -33513,7 +33513,9 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘧𐘞",
     "scribe": "",
     "support": "stone vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/IOZa<1>-Tracing.jpg"
+    ],
     "transcription": "𐘇𐘧𐘞",
     "translatedWords": [
         "A-JE-SA"
