@@ -38439,9 +38439,9 @@ var inscriptions = new Map([
         "SI",
         "4",
         "\n",
-        "\n",
         "cyperus",
         "𐝃𐝌",
+        "\n",
         "𐝫"
     ],
     "transliteratedWords": [
@@ -38450,9 +38450,9 @@ var inscriptions = new Map([
         "SI",
         "4",
         "\n",
-        "\n",
         "CYP",
         "𐝃𐝌",
+        "\n",
         "𐝫"
     ],
     "words": [
@@ -38461,9 +38461,9 @@ var inscriptions = new Map([
         "𐝫𐘤",
         "𐄊𐝫",
         "\n",
-        "\n",
-        "𐙗𐝫",
+        "𐝫𐙗𐝫",
         "𐝃𐝌",
+        "\n",
         "𐝫"
     ]
 }],
