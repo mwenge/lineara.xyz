@@ -13870,16 +13870,14 @@ var inscriptions = new Map([
         "images/HT127a-Inscription.jpg"
     ],
     "name": "HT127a",
-    "parsedInscription": "𐝫\n𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
+    "parsedInscription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
     "scribe": "",
     "support": "tablet",
     "tracingImages": [
         "images/HT127a-Tracing.jpg"
     ],
-    "transcription": "𐝫\n𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
+    "transcription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
     "translatedWords": [
-        "𐝫",
-        "\n",
         "\n",
         "DU-NE-MI",
         "1",
@@ -13888,8 +13886,6 @@ var inscriptions = new Map([
         "1"
     ],
     "transliteratedWords": [
-        "𐝫",
-        "\n",
         "\n",
         "DU-NE-MI",
         "1",
@@ -13898,8 +13894,6 @@ var inscriptions = new Map([
         "1"
     ],
     "words": [
-        "𐝫",
-        "\n",
         "\n",
         "𐝫𐘬𐘗𐘻",
         "𐄇𐝫",
@@ -59018,7 +59012,7 @@ var sequences = new Map([
 var wordsInCorpus = new Map([
 ["𐘿𐘽𐘉", 3],
 ["𐄁", 470],
-["", 2664],
+["", 2662],
 ["𐘸𐘁", 16],
 ["𐄖", 5],
 ["𐄔𐄈", 2],
