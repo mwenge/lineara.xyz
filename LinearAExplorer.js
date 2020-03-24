@@ -985,32 +985,6 @@ function removeFilter(evt) {
   applySearchTerms();
 }
 
-function resetSort(evt) {
-  var element = evt.target;
-  element.style.display = "none";
-  var p = document.getElementById('container');
-  Array.prototype.slice.call(p.children)
-    .map(function (x) { return p.removeChild(x); })
-    .sort(function(a, b) {
-          var x = a.id;
-          var y = b.id;
-          if (x < y) {
-            return -1;
-          }
-          if (x > y) {
-            return 1;
-          }
-          return 0;
-    })
-    .forEach(function (x) { p.appendChild(x); });
-}
-
-function updateSortStatus(inscription) {
-  var element = document.getElementById("sort-status");
-  element.textContent = "Sorted by " + inscription;
-  element.style.display = "flex";
-}
-
 function searchForWord(evt, name, index) {
   var element = document.getElementById(name + "-transcription-" + index);
   var searchTerm = stripErased(element.textContent);
