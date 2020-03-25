@@ -1018,7 +1018,9 @@ let observer = new IntersectionObserver(function(entries, self) {
 		  var key = inscriptionsToLoad.next().value;
       if (key) {
         var visibleInscription = loadInscription(inscriptions.get(key));
-        observer.observe(visibleInscription);
+        if (visibleInscription) {
+          observer.observe(visibleInscription);
+        }
       }
       self.unobserve(entry.target);
     }

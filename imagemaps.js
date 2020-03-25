@@ -1,4 +1,5 @@
 var inscriptionCoordinates = [
+{"areas":[{"coords":{"x":53,"y":62,"width":30,"height":54}},{"coords":{"x":72,"y":65,"width":30,"height":46}},{"coords":{"x":96,"y":65,"width":29,"height":37}},{"coords":{"x":123,"y":69,"width":31,"height":39}},{"coords":{"x":158,"y":60,"width":23,"height":45}},{"coords":{"x":180,"y":64,"width":27,"height":41}},{"coords":{"x":200,"y":65,"width":35,"height":39}},{"coords":{"x":125,"y":227,"width":20,"height":42}},{"coords":{"x":148,"y":242,"width":23,"height":27}},{"coords":{"x":173,"y":234,"width":25,"height":39}},{"coords":{"x":195,"y":229,"width":25,"height":40}},{"coords":{"x":218,"y":230,"width":26,"height":36}},{"coords":{"x":239,"y":228,"width":21,"height":45}},{"coords":{"x":95,"y":412,"width":30,"height":54}},{"coords":{"x":127,"y":417,"width":30,"height":44}},{"coords":{"x":157,"y":428,"width":29,"height":39}},{"coords":{"x":175,"y":422,"width":26,"height":36}},{"coords":{"x":195,"y":430,"width":26,"height":31}},{"coords":{"x":215,"y":423,"width":27,"height":34}},{"coords":{"x":243,"y":417,"width":25,"height":36}}],"img":"images/IOZa6-Tracing.jpg"},
 {"areas":[],"img":"images/CR(?)Zf1-Tracing.jpg"},
 {"areas":[],"img":"images/HT142-Tracing.jpg"},
 {"areas":[],"img":"images/HT154ja-Tracing.jpg"},
@@ -1202,7 +1203,6 @@ var inscriptionCoordinates = [
 {"areas":[{"coords":{"x":40,"y":4,"width":43,"height":69}},{"coords":{"x":84,"y":7,"width":68,"height":74}}],"img":"images/HTWa1007-Tracing.jpg"},
 {"areas":[{"coords":{"x":40,"y":40,"width":129,"height":150}}],"img":"images/KHWc2052-Tracing.jpg"},
 {"areas":[{"coords":{"x":40,"y":40,"width":75,"height":72}}],"img":"images/HTWa1388-Tracing.jpg"},
-{"areas":[{"coords":{"x":40,"y":58,"width":29,"height":42}},{"coords":{"x":62,"y":53,"width":21,"height":48}},{"coords":{"x":83,"y":47,"width":24,"height":45}},{"coords":{"x":114,"y":55,"width":24,"height":43}},{"coords":{"x":137,"y":48,"width":24,"height":50}},{"coords":{"x":160,"y":49,"width":27,"height":49}},{"coords":{"x":188,"y":44,"width":29,"height":55}}],"img":"images/IOZa6-Tracing.jpg"},
 {"areas":[{"coords":{"x":40,"y":59,"width":48,"height":63}}],"img":"images/WA1463-Tracing.jpg"},
 {"areas":[{"coords":{"x":40,"y":7,"width":57,"height":65}}],"img":"images/KHWa1011-Tracing.jpg"},
 {"areas":[{"coords":{"x":40,"y":7,"width":98,"height":89}}],"img":"images/HTWa1493-Tracing.jpg"},
