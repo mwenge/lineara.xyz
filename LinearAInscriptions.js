@@ -48092,18 +48092,14 @@ var inscriptions = new Map([
 }],
 ["PKZa11",{
     "images": [
-        "images/PKZa11-Inscription.jpg",
-        "images/PKZa11a-Inscription.jpg",
-        "images/PKZa11b-Inscription.jpg"
+        "images/PKZa11-Inscription.jpg"
     ],
     "name": "PKZa11",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐄁\n𐄁𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
     "scribe": "",
     "support": "stone vessel",
     "tracingImages": [
-        "images/PKZa11-Tracing.jpg",
-        "images/PKZa11a-Tracing.jpg",
-        "images/PKZa11b-Tracing.jpg"
+        "images/PKZa11-Tracing.jpg"
     ],
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐄁\n𐄁𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
     "translatedWords": [
