@@ -8702,8 +8702,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -8920,8 +8919,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -9287,8 +9285,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -9892,8 +9889,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "transaction sign",
-                    "assigned number",
-                    "head word"
+                    "assigned number"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐝫𐙂"
@@ -10027,8 +10023,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "assigned number",
-                    "head word"
+                    "assigned number"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -10048,8 +10043,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "assigned number",
-                    "head word"
+                    "assigned number"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -10738,8 +10732,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐝫𐙂𐝫"
@@ -12481,7 +12474,9 @@ var wordAnnotations =
                 "word": "𐄁"
             },
             {
-                "tags": [],
+                "tags": [
+                    "head word"
+                ],
                 "transliteratedWord": "GRA+KU",
                 "word": "𐛲"
             },
@@ -12496,8 +12491,54 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "HT62",
+        "name": "HT62+73",
         "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "head word"
+                ],
+                "transliteratedWord": "SA-RA",
+                "word": "𐝫𐘞𐘴"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TE",
+                "word": "𐘃"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "commodity",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "VIN",
+                "word": "𐙍𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
             {
                 "tags": [
                     "word separator"
@@ -12726,52 +12767,110 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "𐝫",
                 "word": "𐝫"
-            }
-        ]
-    },
-    {
-        "name": "HT62+73",
-        "tagsForWords": [
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
             {
                 "tags": [
                     "lacuna at start",
-                    "head word"
-                ],
-                "transliteratedWord": "SA-RA",
-                "word": "𐝫𐘞𐘴"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "transaction sign",
-                    "head word",
-                    "recurring head word"
-                ],
-                "transliteratedWord": "TE",
-                "word": "𐘃"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at end",
-                    "commodity",
-                    "head word",
-                    "recurring head word"
+                    "transaction sign"
                 ],
-                "transliteratedWord": "VIN",
-                "word": "𐙍𐝫"
+                "transliteratedWord": "KU",
+                "word": "𐝫𐙂𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "lacuna at end",
+                    "number"
+                ],
+                "transliteratedWord": "1",
+                "word": "𐝫𐄇𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "PA-I-KI",
+                "word": "𐘂𐘚𐘸𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "number"
+                ],
+                "transliteratedWord": "8",
+                "word": "𐝫𐄎"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "SA-RO-QE",
+                "word": "𐘞𐘁𐘿𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "number"
+                ],
+                "transliteratedWord": "28",
+                "word": "𐝫𐄑𐄎"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             }
         ]
     },
@@ -13532,125 +13631,6 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "HT73",
-        "tagsForWords": [
-            {
-                "tags": [
-                    "lacuna at start",
-                    "lacuna at end",
-                    "transaction sign",
-                    "head word"
-                ],
-                "transliteratedWord": "KU",
-                "word": "𐝫𐙂𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "lacuna at end",
-                    "number"
-                ],
-                "transliteratedWord": "1",
-                "word": "𐝫𐄇𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "PA-I-KI",
-                "word": "𐘂𐘚𐘸𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "number"
-                ],
-                "transliteratedWord": "8",
-                "word": "𐝫𐄎"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "SA-RO-QE",
-                "word": "𐘞𐘁𐘿𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "number"
-                ],
-                "transliteratedWord": "28",
-                "word": "𐝫𐄑𐄎"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            }
-        ]
-    },
-    {
-        "name": "HT73+62",
-        "tagsForWords": [
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            }
-        ]
-    },
-    {
         "name": "HT74",
         "tagsForWords": [
             {
@@ -13914,26 +13894,17 @@ var wordAnnotations =
                 "word": "𐄁"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
+                    "lacuna at start",
                     "number"
                 ],
                 "transliteratedWord": "3",
-                "word": "𐄉"
+                "word": "𐝫𐄉"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -13942,6 +13913,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "KU-NI",
                 "word": "𐝫𐙂𐘝𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -13958,6 +13934,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "3",
                 "word": "𐄉"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -21403,27 +21384,15 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
                     "number"
                 ],
                 "transliteratedWord": "1",
                 "word": "𐄇"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -21438,6 +21407,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "1",
                 "word": "𐄇"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -24617,51 +24591,17 @@ var wordAnnotations =
                 "word": "𐄁"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
+                    "lacuna at start",
                     "number"
                 ],
                 "transliteratedWord": "1",
-                "word": "𐄇"
+                "word": "𐝫𐄇"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -24671,12 +24611,22 @@ var wordAnnotations =
                 "word": "𐘉𐝫"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at start",
                     "number"
                 ],
                 "transliteratedWord": "¹⁄₂",
                 "word": "𐝫𐝆"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [],
@@ -24690,6 +24640,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "1",
                 "word": "𐄇𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -24707,11 +24662,21 @@ var wordAnnotations =
                 "word": "𐄇"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at end"
                 ],
                 "transliteratedWord": "PI",
                 "word": "𐘢𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -24723,6 +24688,11 @@ var wordAnnotations =
                 "word": "𐝫𐄕𐄈𐝫"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
@@ -24730,6 +24700,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "2",
                 "word": "𐝫𐄈𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -24875,20 +24850,6 @@ var wordAnnotations =
         "name": "HT127a",
         "tagsForWords": [
             {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -25006,8 +24967,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "assigned number",
-                    "head word"
+                    "assigned number"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -25184,7 +25144,9 @@ var wordAnnotations =
                 "word": "𐘮𐘹𐙁𐘙"
             },
             {
-                "tags": [],
+                "tags": [
+                    "head word"
+                ],
                 "transliteratedWord": "GRA+KU",
                 "word": "𐛲"
             },
@@ -25229,7 +25191,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "assigned number"
+                    "assigned number",
+                    "head word"
                 ],
                 "transliteratedWord": "GRA+KU",
                 "word": "𐛲"
@@ -25261,7 +25224,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "assigned number"
+                    "assigned number",
+                    "head word"
                 ],
                 "transliteratedWord": "GRA+KU",
                 "word": "𐛲"
@@ -25306,6 +25270,21 @@ var wordAnnotations =
         "name": "HT128b",
         "tagsForWords": [
             {
+                "tags": [
+                    "assigned number",
+                    "head word"
+                ],
+                "transliteratedWord": "GRA+KU",
+                "word": "𐛲"
+            },
+            {
+                "tags": [
+                    "number"
+                ],
+                "transliteratedWord": "6",
+                "word": "𐄌"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -25316,37 +25295,9 @@ var wordAnnotations =
                 "word": "𐙇𐙵"
             },
             {
-                "tags": [],
-                "transliteratedWord": "GRA+KU",
-                "word": "𐛲"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "number"
-                ],
-                "transliteratedWord": "6",
-                "word": "𐄌"
-            },
-            {
-                "tags": [
-                    "assigned number"
+                    "assigned number",
+                    "head word"
                 ],
                 "transliteratedWord": "GRA+KU",
                 "word": "𐛲"
@@ -25359,6 +25310,11 @@ var wordAnnotations =
                 "word": "𐄇"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at end",
                     "head word",
@@ -25366,6 +25322,13 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "RU",
                 "word": "𐘘𐝫"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [
@@ -25378,7 +25341,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "assigned number"
+                    "assigned number",
+                    "head word"
                 ],
                 "transliteratedWord": "GRA+KU",
                 "word": "𐛲"
@@ -25389,6 +25353,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "6",
                 "word": "𐄌"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -25776,8 +25745,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -27395,8 +27363,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐝫𐙂"
@@ -33274,8 +33241,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33287,8 +33253,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33300,8 +33265,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33313,8 +33277,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33326,8 +33289,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33339,8 +33301,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33352,8 +33313,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33365,8 +33325,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33378,8 +33337,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33391,8 +33349,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33404,8 +33361,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33417,8 +33373,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33430,8 +33385,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33443,8 +33397,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33456,8 +33409,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33469,8 +33421,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33482,8 +33433,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33495,8 +33445,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33508,8 +33457,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33521,8 +33469,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33534,8 +33481,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33547,8 +33493,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33560,8 +33505,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33573,8 +33517,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33586,8 +33529,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33599,8 +33541,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33612,8 +33553,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33625,8 +33565,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33638,8 +33577,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33651,8 +33589,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33664,8 +33601,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33677,8 +33613,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33690,8 +33625,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33703,8 +33637,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33716,8 +33649,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33729,8 +33661,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33742,8 +33673,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33755,8 +33685,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33768,8 +33697,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33781,8 +33709,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33794,8 +33721,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33807,8 +33733,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33820,8 +33745,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33833,8 +33757,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33846,8 +33769,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33859,8 +33781,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33872,8 +33793,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33885,8 +33805,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33898,8 +33817,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33911,8 +33829,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33924,8 +33841,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33937,8 +33853,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33950,8 +33865,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33963,8 +33877,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33976,8 +33889,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -33989,8 +33901,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34002,8 +33913,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34015,8 +33925,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34028,8 +33937,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34041,8 +33949,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34054,8 +33961,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34067,8 +33973,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34080,8 +33985,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34093,8 +33997,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34106,8 +34009,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34119,8 +34021,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34132,8 +34033,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34145,8 +34045,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34158,8 +34057,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34171,8 +34069,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34184,8 +34081,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34197,8 +34093,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34210,8 +34105,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34223,8 +34117,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34236,8 +34129,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34249,8 +34141,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34262,8 +34153,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34275,8 +34165,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34288,8 +34177,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34301,8 +34189,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34314,8 +34201,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34327,8 +34213,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34340,8 +34225,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34353,8 +34237,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34366,8 +34249,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34379,8 +34261,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34392,8 +34273,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34405,8 +34285,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34418,8 +34297,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34431,8 +34309,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34444,8 +34321,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34457,8 +34333,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34470,8 +34345,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34483,8 +34357,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34496,8 +34369,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34509,8 +34381,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34522,8 +34393,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34535,8 +34405,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34548,8 +34417,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34561,8 +34429,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34574,8 +34441,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34587,8 +34453,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34600,8 +34465,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34613,8 +34477,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34626,8 +34489,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34639,8 +34501,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34652,8 +34513,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34665,8 +34525,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34678,8 +34537,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34691,8 +34549,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34704,8 +34561,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34717,8 +34573,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34730,8 +34585,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34743,8 +34597,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34756,8 +34609,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34769,8 +34621,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34782,8 +34633,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34795,8 +34645,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34808,8 +34657,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34821,8 +34669,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34834,8 +34681,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34847,8 +34693,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34860,8 +34705,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34873,8 +34717,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34886,8 +34729,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34899,8 +34741,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34912,8 +34753,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34925,8 +34765,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34938,8 +34777,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34951,8 +34789,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -34964,8 +34801,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37737,8 +37573,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -39995,8 +39830,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -41928,8 +41762,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "assigned number",
-                    "head word"
+                    "assigned number"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -43866,8 +43699,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐝫𐙂𐝫"
@@ -45708,24 +45540,25 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
+                    "lacuna at start",
                     "lacuna at end",
                     "commodity",
                     "head word",
                     "recurring head word"
                 ],
                 "transliteratedWord": "CYP",
-                "word": "𐙗𐝫"
+                "word": "𐝫𐙗𐝫"
             },
             {
                 "tags": [],
                 "transliteratedWord": "𐝃𐝌",
                 "word": "𐝃𐝌"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -51249,11 +51082,6 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
                     "lacuna at start",
                     "number"
@@ -55325,8 +55153,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "transaction sign",
-                    "assigned number",
-                    "head word"
+                    "assigned number"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐝫𐙂"
@@ -57495,56 +57322,11 @@ var wordAnnotations =
                 "word": "𐘂𐘀𐘘"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
                     "assigned number"
                 ],
-                "transliteratedWord": "󽍒",
-                "word": "󽍒"
+                "transliteratedWord": "*309-JU-KI",
+                "word": "𐙝𐘶𐘸"
             },
             {
                 "tags": [
@@ -57554,11 +57336,21 @@ var wordAnnotations =
                 "word": "𐄙"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at end"
                 ],
                 "transliteratedWord": "*309-RI-JU",
                 "word": "𐙝𐘭𐘶𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -57574,6 +57366,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "6",
                 "word": "𐝫𐄌"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -57593,6 +57390,11 @@ var wordAnnotations =
             },
             {
                 "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [],
                 "transliteratedWord": "*309C-DA-JU",
                 "word": "𐙟𐘀𐘶"
             },
@@ -57603,6 +57405,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "17",
                 "word": "𐄐𐄍𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -57619,6 +57426,11 @@ var wordAnnotations =
                 "word": "𐄒"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "assigned number"
                 ],
@@ -57631,6 +57443,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "160",
                 "word": "𐄙𐄕"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -57648,11 +57465,21 @@ var wordAnnotations =
                 "word": "𐄚𐄔"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at end"
                 ],
                 "transliteratedWord": "*309B",
                 "word": "𐙞𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -58261,8 +58088,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -62253,43 +62079,6 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna at end",
-                    "head word",
-                    "recurring head word"
-                ],
-                "transliteratedWord": "RA",
-                "word": "𐘴𐝫"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            },
-            {
-                "tags": [
-                    "commodity",
-                    "head word",
-                    "recurring head word"
-                ],
-                "transliteratedWord": "*22F",
-                "word": "𐘓"
-            },
-            {
                 "tags": [
                     "lacuna at start",
                     "number"
@@ -62298,11 +62087,21 @@ var wordAnnotations =
                 "word": "𐝫𐄌"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at end"
                 ],
                 "transliteratedWord": "DU-JU",
                 "word": "𐘬𐘶𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -64027,8 +63826,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "transaction sign",
-                    "assigned number",
-                    "head word"
+                    "assigned number"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐝫𐙂"
@@ -64636,8 +64434,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "transaction sign",
-                    "head word"
+                    "transaction sign"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"

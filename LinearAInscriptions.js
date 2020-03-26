@@ -7005,19 +7005,25 @@ var inscriptions = new Map([
         "𐄌𐝫"
     ]
 }],
-["HT62",{
+["HT62+73",{
     "images": [
-        "images/HT62-Inscription.jpg"
+        "images/HT62+73-Inscription.jpg"
     ],
-    "name": "HT62",
-    "parsedInscription": "𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃\n𐘾𐙂𐄊𐝫\n𐝫𐄐𐄎\n𐘛𐘠𐝫𐄁𐄌\n𐘆𐝫\n𐝫𐄊𐝃\n𐘾𐝫\n𐝫𐙇𐝫𐝫𐄊\n𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫",
+    "name": "HT62+73",
+    "parsedInscription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫\n𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃\n𐘾𐙂𐄊𐝫\n𐝫𐄐𐄎\n𐘛𐘠𐝫𐄁𐄌\n𐘆𐝫\n𐝫𐄊𐝃\n𐘾𐝫\n𐝫𐙇𐝫𐝫𐄊\n𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n𐝫𐙂𐝫\n𐝫𐄁𐝫𐄇𐝫\n𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "scribe": "",
     "support": "tablet",
     "tracingImages": [
-        "images/HT62-Tracing.jpg"
+        "images/HT62+73-Tracing.jpg"
     ],
-    "transcription": "𐝫𐄐𐄎𐘛𐘠𐝫𐄁𐝫𐄌𐘆𐝫\n𐝫𐄊𐝃𐘾𐝫\n𐝫𐙇𐝫𐄊𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫",
+    "transcription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫\n𐝫𐄐𐄎𐘛𐘠𐝫𐄁𐝫𐄌𐘆𐝫\n𐝫𐄊𐝃𐘾𐝫\n𐝫𐙇𐝫𐄊𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n𐝫𐙂𐝫\n𐝫𐄇𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "translatedWords": [
+        "SA-RA",
+        "𐄁",
+        "TE",
+        "𐄁",
+        "wine",
+        "\n",
         "𐄁",
         "NA",
         "wheat",
@@ -7050,9 +7056,31 @@ var inscriptions = new Map([
         "\n",
         "25",
         "\n",
-        "𐝫"
+        "𐝫",
+        "\n",
+        "KU",
+        "\n",
+        "𐄁",
+        "1",
+        "\n",
+        "PA-I-KI",
+        "\n",
+        "8",
+        "\n",
+        "SA-RO-QE",
+        "\n",
+        "28",
+        "\n",
+        "𐝫",
+        "\n"
     ],
     "transliteratedWords": [
+        "SA-RA",
+        "𐄁",
+        "TE",
+        "𐄁",
+        "VIN",
+        "\n",
         "𐄁",
         "NA",
         "GRA",
@@ -7085,9 +7113,31 @@ var inscriptions = new Map([
         "\n",
         "25",
         "\n",
-        "𐝫"
+        "𐝫",
+        "\n",
+        "KU",
+        "\n",
+        "𐄁",
+        "1",
+        "\n",
+        "PA-I-KI",
+        "\n",
+        "8",
+        "\n",
+        "SA-RO-QE",
+        "\n",
+        "28",
+        "\n",
+        "𐝫",
+        "\n"
     ],
     "words": [
+        "𐝫𐘞𐘴",
+        "𐄁",
+        "𐘃",
+        "𐄁",
+        "𐙍𐝫",
+        "\n",
         "𐄁",
         "𐝫𐘅",
         "𐙉",
@@ -7120,37 +7170,23 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐄑𐄋𐝫",
         "\n",
-        "𐝫"
-    ]
-}],
-["HT62+73",{
-    "images": [],
-    "name": "HT62+73",
-    "parsedInscription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫",
-    "scribe": "",
-    "support": "tablet",
-    "tracingImages": [],
-    "transcription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫",
-    "translatedWords": [
-        "SA-RA",
+        "𐝫",
+        "\n",
+        "𐝫𐙂𐝫",
+        "\n",
         "𐄁",
-        "TE",
-        "𐄁",
-        "wine"
-    ],
-    "transliteratedWords": [
-        "SA-RA",
-        "𐄁",
-        "TE",
-        "𐄁",
-        "VIN"
-    ],
-    "words": [
-        "𐝫𐘞𐘴",
-        "𐄁",
-        "𐘃",
-        "𐄁",
-        "𐙍𐝫"
+        "𐝫𐄇𐝫",
+        "\n",
+        "𐘂𐘚𐘸𐝫",
+        "\n",
+        "𐝫𐄎",
+        "\n",
+        "𐘞𐘁𐘿𐝫",
+        "\n",
+        "𐝫𐄑𐄎",
+        "\n",
+        "𐝫",
+        "\n"
     ]
 }],
 ["HT63",{
@@ -7625,88 +7661,6 @@ var inscriptions = new Map([
         "𐝫",
         "\n",
         "\n"
-    ]
-}],
-["HT73",{
-    "images": [
-        "images/HT73-Inscription.jpg"
-    ],
-    "name": "HT73",
-    "parsedInscription": "𐝫𐙂𐝫\n𐝫𐄁𐝫𐄇𐝫\n𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
-    "scribe": "",
-    "support": "tablet",
-    "tracingImages": [
-        "images/HT73-Tracing.jpg"
-    ],
-    "transcription": "𐝫𐙂𐝫\n𐝫𐄇𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
-    "translatedWords": [
-        "KU",
-        "\n",
-        "𐄁",
-        "1",
-        "\n",
-        "PA-I-KI",
-        "\n",
-        "8",
-        "\n",
-        "SA-RO-QE",
-        "\n",
-        "28",
-        "\n",
-        "𐝫",
-        "\n"
-    ],
-    "transliteratedWords": [
-        "KU",
-        "\n",
-        "𐄁",
-        "1",
-        "\n",
-        "PA-I-KI",
-        "\n",
-        "8",
-        "\n",
-        "SA-RO-QE",
-        "\n",
-        "28",
-        "\n",
-        "𐝫",
-        "\n"
-    ],
-    "words": [
-        "𐝫𐙂𐝫",
-        "\n",
-        "𐄁",
-        "𐝫𐄇𐝫",
-        "\n",
-        "𐘂𐘚𐘸𐝫",
-        "\n",
-        "𐝫𐄎",
-        "\n",
-        "𐘞𐘁𐘿𐝫",
-        "\n",
-        "𐝫𐄑𐄎",
-        "\n",
-        "𐝫",
-        "\n"
-    ]
-}],
-["HT73+62",{
-    "images": [],
-    "name": "HT73+62",
-    "parsedInscription": "𐝫",
-    "scribe": "",
-    "support": "tablet",
-    "tracingImages": [],
-    "transcription": "𐝫",
-    "translatedWords": [
-        "𐝫"
-    ],
-    "transliteratedWords": [
-        "𐝫"
-    ],
-    "words": [
-        "𐝫"
     ]
 }],
 ["HT74",{
@@ -55398,6 +55352,15 @@ var sequences = new Map([
 },
 {
     "inscriptions": [
+        "HT50a"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
         "SAMWa1"
     ],
     "sequence": [
@@ -57741,7 +57704,7 @@ var sequences = new Map([
 ["HT50a", [
 {
     "inscriptions": [
-        "HT62"
+        "HT62+73"
     ],
     "sequence": [
         "𐙉",
@@ -57784,18 +57747,6 @@ var sequences = new Map([
     "sequence": [
         "𐝆",
         "𐙋"
-    ]
-},
- ],
-],
-["HT62", [
-{
-    "inscriptions": [
-        "HT50a"
-    ],
-    "sequence": [
-        "𐙉",
-        "𐝃"
     ]
 },
  ],
@@ -58995,7 +58946,7 @@ var sequences = new Map([
 var wordsInCorpus = new Map([
 ["𐘿𐘽𐘉", 3],
 ["𐄁", 469],
-["", 2661],
+["", 2662],
 ["𐘸𐘁", 16],
 ["𐄖", 5],
 ["𐄔𐄈", 2],
@@ -59212,10 +59163,10 @@ var wordsInCorpus = new Map([
 ["𐘤𐘘", 2],
 ["𐄓𐄇", 3],
 ["𐛲", 7],
+["𐘞𐘴", 2],
 ["𐘅", 13],
 ["𐘯", 3],
 ["𐄑𐄋", 4],
-["𐘞𐘴", 2],
 ["𐙀", 5],
 ["𐘶", 6],
 ["𐘾𐘘", 2],
