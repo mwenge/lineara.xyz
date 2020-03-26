@@ -10,6 +10,34 @@ body {
   border-radius: 10px;
   box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
 }
+.concordance-item-container {
+  max-width: 800px;
+  float: left;
+  display: inline-block;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
+  padding: 10px;
+}
+.concordance-item {
+  display: inline-block;
+  height: 50px;
+}
+.concordance-canvas {
+  height: left;
+}
+.concordance-label {
+  height: 40px;
+  background-color: black;
+  padding: 2px;
+  color: white;
+  opacity: 0.5;
+  font-size: 10px;
+  writing-mode: tb-rl;
+  transform: rotate(-180deg);
+  margin-left: 5px;
+  margin-right: 5px;
+}
 .zoomed-item-container {
   position: fixed;
   left: 50%; /* horizontally centre */
@@ -212,7 +240,7 @@ input:focus::placeholder { color:transparent; }
   color: white;
   opacity: 0.5;
   border-bottom-right-radius: 10px;
-  font: 14px;
+  font-size: 14px;
 }
 .tag-container {
   padding: 2px;
@@ -413,6 +441,20 @@ dt, dd, font {
 .filter-command {
   cursor: pointer;
   background-color: black;
+  color: white;
+  opacity: 0.6;
+  border-radius: 50%;
+  font-size: 1em;
+  width: 3em;
+  height: 3em;
+  line-height: 3em;
+  text-align: center;
+  border: 2px white solid;
+  display: inline-block;
+}
+.navigation-command {
+  background-color: rgb(51, 0, 17);
+  cursor: pointer;
   color: white;
   opacity: 0.6;
   border-radius: 50%;

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../Aegean.css"/>
+<link rel="stylesheet" href="../LinearAExplorer.css"/>
+<link rel="icon" type="image/x-icon" href="../icons/archer.png" id="icon">
+<style>
+  body {
+    font-family: 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
+    font-size: 18px;
+    margin: 0px;
+  }
+</style>
+</head>
+<div id="result" class="result"></div>
+<script src="../html2canvas.min.js"></script>
+<script src="../tags.js"></script>
+<script src="../imagemaps.js"></script>
+<script src="../grapheme.js"></script>
+<script src="../LinearAInscriptions.js"></script>
+<script src="../annotations.js"></script>
+<script src="../LinearAExplorer.js"></script>
+<script src="concordance.js"></script>
+<div class="masthead-container">
+  <div class="masthead">LINEAR A</div>
+</div>
+<div id="container">
+</div>
+<div class="label image-label" id="credits">
+  <a href="https://bit.ly/2H6Ohwe" target="_blank">Images © Ecole Francais d'Athenes</a><br>
+  <a href="http://users.teilar.gr/~g1951d/" target="_blank">Transcriptions © George Douros</a>
+</div>
+<div class="tip" id="tip"></div>
+<div class="top-right-console">
+  <div class="sort-status" id="sort-status" onclick="resetSort(event)"></div>
+  <div class="search-terms" id="search-terms"></div>
+</div>
+<div class="help-menu" id="help_menu" onclick="(function(){ help_menu.style.display='none';})();">
+<span>  &nbsp;Click on words to filter inscriptions.<br></span>
+<span>  <br></span>
+<span>  &nbsp;'<b>w</b>' - highlight words according to frequency in the corpus.<br></span>
+<span>  <br></span>
+<span>  &nbsp;'<b>1 to 9</b>' - save the current search terms under that number. <br></span>
+<span>  &nbsp;'<b>Shift + 1 to 9</b>' - retrieve the search terms saved under that number. <br></span>
+<span>  &nbsp;'<b>/</b>' - Search for an inscription. To use regular expressions, precede regular<br></span>
+<span style="white-space: pre;">              expression operators with a '\', e.g. -JA\$ to search for -JA<br></span>
+<span style="white-space: pre;">              at the end of words.<br></span>
+<span>  <br></span>
+<span>  &nbsp;Hover the mouse over an inscription and press:<br></span>
+<span>  &nbsp;'<b>i</b>' - to copy an image of the inscription to the clipboard.<br></span>
+<span>  &nbsp;'<b>y</b>' - to show John Younger's commentary for the inscription.<br></span>
+<span>  &nbsp;'<b>t</b>' - to toggle between translation and transliteration.<br></span>
+<span>  &nbsp;'<b>z</b>' - to zoom/unzoom an inscription.<br></span>
+  <br>
+  <a href="https://linearb.xyz" target="_blank">
+    <div class="other-explorer linearb-explorer">Linear B</div>
+  </a>
+  <a href="https://linear0.xyz" target="_blank">
+    <div class="other-explorer cretan-explorer">Cretan Hieroglyphics</div>
+  </a>
+  <a href="https://linearc.xyz" target="_blank">
+    <div class="other-explorer cypro-minoan-explorer">Cypro-Minoan</div>
+  </a>
+</div>
+<div id="search-container">
+  <input type="search" class="search" id="search" placeholder="e.g. HT112"></input>
+</div>
+<div id="filter-details-container">
+</div>
+<div class="bottom-console">
+  <div class="filters-container">
+    <div class="filter-command-container">
+      <div class="navigation-command"
+        onclick="window.location.href = '../'">&#x1438;</div>
+      <div class="filter-label">Explorer</div>
+    </div>
+    <div class="filter-command-container">
+      <div class="filter-command" id="wordtags-command"
+        onclick="loadConcordance(event, 'number');">𐄏</div>
+      <div class="filter-label">Numbers</div>
+    </div>
+    <div class="filter-command-container">
+      <div class="filter-command" id="wordtags-command" style="background-color: purple;"
+        onclick="loadConcordance(event, 'word');">W</div>
+      <div class="filter-label">Words</div>
+    </div>
+    <div class="filter-command-container">
+      <div class="filter-command" id="wordtags-command"
+        onclick="loadConcordance(event, 'ideogram');">𐘃</div>
+      <div class="filter-label">Ideograms</div>
+    </div>
+    <div class="filter-command-container">
+      <div class="filter-command" id="wordtags-command"
+        onclick="loadConcordance(event, 'letter');">C</div>
+      <div class="filter-label">Characters</div>
+    </div>
+  </div>
+</div>
+<script>
+initializeConcordance();
+</script>

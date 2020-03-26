@@ -1010,23 +1010,6 @@ const config = {
   threshold: 0
 };
 
-// Load inscriptions as they come into view
-let observer = new IntersectionObserver(function(entries, self) {
-  entries.forEach(entry => {
-    // Only load new inscriptions if a search isn't active
-    if(entry.isIntersecting && !highlightedSearchElements.length && !activeTags.length) {
-		  var key = inscriptionsToLoad.next().value;
-      if (key) {
-        var visibleInscription = loadInscription(inscriptions.get(key));
-        if (visibleInscription) {
-          observer.observe(visibleInscription);
-        }
-      }
-      self.unobserve(entry.target);
-    }
-  });
-}, config);
-
 function toggleTag(event, tag) {
   if (activeTags.includes(tag)) {
     activeTags.splice(activeTags.indexOf(tag), 1);
@@ -1123,6 +1106,23 @@ function loadAnnotations() {
   }
   wordtags = collectedWordTags.filter((v, i, a) => a.indexOf(v) === i);
 }
+
+// Load inscriptions as they come into view
+let observer = new IntersectionObserver(function(entries, self) {
+  entries.forEach(entry => {
+    // Only load new inscriptions if a search isn't active
+    if(entry.isIntersecting && !highlightedSearchElements.length && !activeTags.length) {
+		  var key = inscriptionsToLoad.next().value;
+      if (key) {
+        var visibleInscription = loadInscription(inscriptions.get(key));
+        if (visibleInscription) {
+          observer.observe(visibleInscription);
+        }
+      }
+      self.unobserve(entry.target);
+    }
+  });
+}, config);
 
 function loadExplorer() {
   loadInscriptionLevelTags();
