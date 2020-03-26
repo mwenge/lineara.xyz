@@ -11957,7 +11957,7 @@ var inscriptions = new Map([
         "images/HT115b-Inscription.jpg"
     ],
     "name": "HT115b",
-    "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
+    "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
     "scribe": "HT Scribe 8",
     "support": "tablet",
     "tracingImages": [
@@ -11989,12 +11989,11 @@ var inscriptions = new Map([
         "1",
         "\n",
         "A-I",
-        "𐄁",
-        "\n",
-        "\n",
         "1",
+        "\n",
         "*306+MI",
         "1",
+        "\n",
         "KU-TA"
     ],
     "transliteratedWords": [
@@ -12022,12 +12021,11 @@ var inscriptions = new Map([
         "1",
         "\n",
         "A-I",
-        "𐄁",
-        "\n",
-        "\n",
         "1",
+        "\n",
         "*306+MI",
         "1",
+        "\n",
         "KU-TA"
     ],
     "words": [
@@ -12055,12 +12053,11 @@ var inscriptions = new Map([
         "𐄇",
         "\n",
         "𐘇𐘚𐝫",
-        "𐄁",
-        "\n",
-        "\n",
         "𐄇",
+        "\n",
         "𐜞",
         "𐄇",
+        "\n",
         "𐙂𐘳𐝫"
     ]
 }],
@@ -58993,7 +58990,7 @@ var sequences = new Map([
 ]);
 var wordsInCorpus = new Map([
 ["𐘿𐘽𐘉", 3],
-["𐄁", 470],
+["𐄁", 469],
 ["", 2661],
 ["𐘸𐘁", 16],
 ["𐄖", 5],
