@@ -5010,12 +5010,16 @@ var inscriptions = new Map([
     ]
 }],
 ["HT42+59",{
-    "images": [],
+    "images": [
+        "images/HT42+59-Inscription.jpg"
+    ],
     "name": "HT42+59",
     "parsedInscription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎\n𐜋𐝫𐄍\n𐘞𐘁𐜓𐄎\n𐜋𐄈𐝫\n𐝫𐄈\n𐙂𐝫𐝫𐙖𐝫\n𐝫\n𐜗𐄈\n𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓𐝫𐝆𐝃\n𐜋𐝫",
     "scribe": "",
     "support": "tablet",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/HT42+59-Tracing.jpg"
+    ],
     "transcription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎𐜋𐝫\n𐝫𐄍𐘞𐘁𐜓𐄎𐜋𐄈𐝫\n𐝫𐄈𐙂𐝫𐙖𐝫\n𐝫\n𐜗𐄈𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓\n𐝫𐝕𐜋𐝫",
     "translatedWords": [
         "TA",
