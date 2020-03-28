@@ -20,7 +20,7 @@ body {
   padding: 10px;
 }
 .concordance-item {
-  display: inline-block;
+  display: inline;
   height: 50px;
 }
 .concordance-canvas {
