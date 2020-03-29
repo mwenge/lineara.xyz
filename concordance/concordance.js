@@ -127,9 +127,13 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
       var canvas = document.createElement('canvas');
       canvas.height = 40;
       canvas.width = 40 * (area.width / area.height);
-      span.appendChild(canvas);
-      var ctx = canvas.getContext('2d');
+      var ctx = canvas.getContext('2d', {alpha: false});
       ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
+      var dataURI = canvas.toDataURL();
+      var imgToAdd = document.createElement('img');
+      imgToAdd.src = dataURI;
+
+      span.appendChild(imgToAdd);
     }
   };
 }
@@ -184,9 +188,13 @@ function addWordImagesToConcordance(img, image, inscription, type, container) {
       var canvas = document.createElement('canvas');
       canvas.height = 40;
       canvas.width = 40 * (area.width / area.height);
-      span.appendChild(canvas);
-      var ctx = canvas.getContext('2d');
+      var ctx = canvas.getContext('2d', {alpha: false});
       ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
+      var dataURI = canvas.toDataURL();
+      var imgToAdd = document.createElement('img');
+      imgToAdd.src = dataURI;
+
+      span.appendChild(imgToAdd);
     }
   };
 }
