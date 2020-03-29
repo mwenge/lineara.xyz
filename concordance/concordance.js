@@ -95,10 +95,6 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
       var area = imageCoords[i].coords;
       var word = letters[i];
 
-      if (isNumber(word) || word == '—') {
-        continue;
-      }
-
       item = document.getElementById(word);
       if (!item) {
         var item = document.createElement("div");
@@ -124,17 +120,24 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
       span = document.createElement("span");
       concordanceItem.appendChild(span);
 
-      var canvas = document.createElement('canvas');
-      canvas.height = 40;
-      canvas.width = 40 * (area.width / area.height);
-      var ctx = canvas.getContext('2d', {alpha: false});
-      ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
-      var dataURI = canvas.toDataURL();
       var imgToAdd = document.createElement('img');
-      imgToAdd.src = dataURI;
-
+      if (imageCoords[i].src) {
+        console.log("using cache");
+        imgToAdd.src = imageCoords[i].src;
+      } else {
+        console.log("painting");
+        var canvas = document.createElement('canvas');
+        canvas.height = 40;
+        canvas.width = 40 * (area.width / area.height);
+        var ctx = canvas.getContext('2d', {alpha: false});
+        ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
+        var dataURI = canvas.toDataURL();
+        imgToAdd.src = dataURI;
+        imageCoords[i].src = dataURI;
+      }
       span.appendChild(imgToAdd);
     }
+    coordinates.set(image, imageCoords);
   };
 }
 
@@ -161,11 +164,11 @@ function addWordImagesToConcordance(img, image, inscription, type, container) {
       }
 
       if (currentWord != prevWord) {
-        item = document.getElementById(word);
+        item = document.getElementById(type + "-" + word);
         if (!item) {
           var item = document.createElement("div");
           item.className = 'item-container concordance-item-container';
-          item.id = word;
+          item.id = type + "-" + word;
 
           var label = document.createElement("div");
           label.className = "label";
@@ -185,17 +188,24 @@ function addWordImagesToConcordance(img, image, inscription, type, container) {
       }
       prevWord = currentWord;
 
-      var canvas = document.createElement('canvas');
-      canvas.height = 40;
-      canvas.width = 40 * (area.width / area.height);
-      var ctx = canvas.getContext('2d', {alpha: false});
-      ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
-      var dataURI = canvas.toDataURL();
       var imgToAdd = document.createElement('img');
-      imgToAdd.src = dataURI;
-
+      if (imageCoords[i].src) {
+        console.log("using cache");
+        imgToAdd.src = imageCoords[i].src;
+      } else {
+        console.log("painting");
+        var canvas = document.createElement('canvas');
+        canvas.height = 40;
+        canvas.width = 40 * (area.width / area.height);
+        var ctx = canvas.getContext('2d', {alpha: false});
+        ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
+        var dataURI = canvas.toDataURL();
+        imgToAdd.src = dataURI;
+        imageCoords[i].src = dataURI;
+      }
       span.appendChild(imgToAdd);
     }
+    coordinates.set(image, imageCoords);
   };
 }
 
