@@ -1745,3 +1745,4 @@ var coordinates = new Map();
 for (var obj of inscriptionCoordinates) {
   coordinates.set(obj.img, obj.areas);
 }
+

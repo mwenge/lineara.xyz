@@ -1069,44 +1069,12 @@ function toggleMetadatum(event, datum, activeMetadata, commandElementID) {
   toggleTag(event, datum);
 }
 
-function loadInscriptionLevelTags() {
-  for (var inscription of inscriptions.values()) {
-    for (var item of [[supports, inscription.support],
-                      [scribes, inscription.scribe]]) {
-      var tag = item[1];
-      if (!tag) {
-        continue;
-      }
-      if (item[0].includes(tag)) {
-        continue;
-      }
-      item[0].push(tag);
-    }
-  }
-}
-
-var supports = [];
-var scribes = [];
-var wordtags = [];
 var activeTags = [];
 var activeSupports = [];
 var activeScribes = [];
 var activeContexts = [];
 var activeWordTags = [];
 var activeTagValues = [];
-function loadAnnotations() {
-  var collectedWordTags = [];
-  for (var annotation of wordAnnotations) {
-    var inscription = inscriptions.get(annotation.name);
-    inscription.wordTags = [];
-    for (var word of annotation.tagsForWords) {
-      inscription.wordTags.push(word.tags);
-      collectedWordTags.push(...word.tags);
-    }
-  }
-  wordtags = collectedWordTags.filter((v, i, a) => a.indexOf(v) === i);
-}
-
 // Load inscriptions as they come into view
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {

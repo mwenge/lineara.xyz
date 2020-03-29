@@ -672,3 +672,36 @@ for (var context of contextValues) {
 	}
   contexts.set(context[0], [periodNames.get(context[1])]);
 }
+
+var supports = [];
+var scribes = [];
+function loadInscriptionLevelTags() {
+  for (var inscription of inscriptions.values()) {
+    for (var item of [[supports, inscription.support],
+                      [scribes, inscription.scribe]]) {
+      var tag = item[1];
+      if (!tag) {
+        continue;
+      }
+      if (item[0].includes(tag)) {
+        continue;
+      }
+      item[0].push(tag);
+    }
+  }
+}
+
+var wordtags = [];
+function loadAnnotations() {
+  var collectedWordTags = [];
+  for (var annotation of wordAnnotations) {
+    var inscription = inscriptions.get(annotation.name);
+    inscription.wordTags = [];
+    for (var word of annotation.tagsForWords) {
+      inscription.wordTags.push(word.tags);
+      collectedWordTags.push(...word.tags);
+    }
+  }
+  wordtags = collectedWordTags.filter((v, i, a) => a.indexOf(v) === i);
+}
+

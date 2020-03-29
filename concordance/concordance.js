@@ -30,6 +30,52 @@
 
 var activeContainer = null;
 
+document.onkeydown = checkKey;
+function checkKey(e) {
+  if (e.defaultPrevented) {
+    return; // Do nothing if the event was already processed
+  }
+  switch(e.key) {
+    case "s": // 't' - toggle translation
+      var output = "var imageAtCoordinates = new Map([\n";
+      for (let [key, value] of coordinates) {
+          var images = Array.prototype.map.call(value, x => x.src);
+          output += "[\"" + key + "\",[\"" + images.join("\",\"") + "]],\n";
+      }
+      output += "]);\n"
+      let a = document.createElement('a');
+      a.href = "data:application/octet-stream," + encodeURIComponent(output);
+      a.download = 'letterimages-' + new Date().toISOString() + '.txt';
+      a.click();
+      break;
+    default:
+      return;
+  }
+  // Cancel the default action to avoid it being handled twice
+  e.preventDefault();
+}
+
+function stripErased(word) {
+  return word.replace(/\u{1076b}/gu, "");
+}
+
+function wordIndexForLetterIndex(name, index, from) {
+  var splitter = new GraphemeSplitter();
+  var words = inscriptions.get(name).words;
+  var letters = 0;
+  for (var i = 0; i < words.length; i++) {
+    var word = words[i];
+    if (word == '\u{1076b}' || word == '\n' || word == '𐄁') {
+      continue;
+    }
+    letters += splitter.countGraphemes(stripErased(word));
+    if (letters > index) {
+      return i;
+    }
+  }
+  return 0;
+}
+
 // Concordance
 function loadWords(inscription, type, container) {
   inscription.tracingImages.forEach( image => {
@@ -80,12 +126,22 @@ function isNumber(character) {
   return true;
 }
 
+var imageForCoords = new Map();
 function addLetterImagesToConcorance(img, image, inscription, container) {
   return function (e) {
     if (!coordinates.has(image)) {
       return;
     }
     var imageCoords = coordinates.get(image);
+
+    // Splice in the images if we already have them.
+    if (imageAtCoordinates.has(image)) {
+      var imageAtCoords = imageAtCoordinates.get(image);
+      for (var i = 0; i < imageAtCoords.length; i++) {
+        imageCoords[i].src = imageAtCoords[i];
+      }
+    }
+
     var item = null;
     var span = null;
     var letters = lettersWithImages(inscription.parsedInscription);
@@ -122,10 +178,9 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
 
       var imgToAdd = document.createElement('img');
       if (imageCoords[i].src) {
-        console.log("using cache");
+        console.log("using cached");
         imgToAdd.src = imageCoords[i].src;
       } else {
-        console.log("painting");
         var canvas = document.createElement('canvas');
         canvas.height = 40;
         canvas.width = 40 * (area.width / area.height);
@@ -147,6 +202,14 @@ function addWordImagesToConcordance(img, image, inscription, type, container) {
       return;
     }
     var imageCoords = coordinates.get(image);
+    // Splice in the images if we already have them.
+    if (imageAtCoordinates.has(image)) {
+      var imageAtCoords = imageAtCoordinates.get(image);
+      for (var i = 0; i < imageAtCoords.length; i++) {
+        imageCoords[i].src = imageAtCoords[i];
+      }
+    }
+
     var currentWord = 0;
     var prevWord = -1;
     var item = null;
@@ -190,10 +253,8 @@ function addWordImagesToConcordance(img, image, inscription, type, container) {
 
       var imgToAdd = document.createElement('img');
       if (imageCoords[i].src) {
-        console.log("using cache");
         imgToAdd.src = imageCoords[i].src;
       } else {
-        console.log("painting");
         var canvas = document.createElement('canvas');
         canvas.height = 40;
         canvas.width = 40 * (area.width / area.height);
@@ -232,20 +293,17 @@ function loadConcordance(evt, type) {
   for (var inscription of inscriptions.values()) {
     loadWords(inscription, type, container);
   }
-  concordances.push(type);
 }
 
-var concordances = [];
 function initializeConcordance() {
   loadInscriptionLevelTags();
   loadAnnotations();
   container = document.createElement("div");
-  container.id = "word-container";
+  container.id = "letter-container";
   document.body.appendChild(container);
   activeContainer = container;
 
   for (var inscription of inscriptions.values()) {
-    loadWords(inscription, "word", container);
+    loadWords(inscription, "letter", container);
   }
-  concordances.push("word");
 }
