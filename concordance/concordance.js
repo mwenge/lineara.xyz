@@ -28,8 +28,6 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-var activeContainer = null;
-
 document.onkeydown = checkKey;
 function checkKey(e) {
   if (e.defaultPrevented) {
@@ -132,6 +130,10 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
     if (!coordinates.has(image)) {
       return;
     }
+    // We're no longer displaying letters, abort.
+    if (container.type != "letter") {
+      return;
+    }
     var imageCoords = coordinates.get(image);
 
     // Splice in the images if we already have them.
@@ -199,6 +201,10 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
 function addWordImagesToConcordance(img, image, inscription, type, container) {
   return function (e) {
     if (!coordinates.has(image)) {
+      return;
+    }
+    // We're no longer displaying the type we loaded, abort.
+    if (container.type != type) {
       return;
     }
     var imageCoords = coordinates.get(image);
@@ -276,20 +282,8 @@ function loadConcordance(evt, type) {
    .getElementsByClassName("filter-command"), x => x.style.backgroundColor = "black");
   evt.target.style.backgroundColor = "purple";
 
-  activeContainer.style.display = "none";
-
-  var container = document.getElementById(type + "-container");
-  if (container) {
-    container.style.display = "block";
-    activeContainer = container;
-    return;
-  }
-
-  container = document.createElement("div");
-  container.id = type + "-container";
-  document.body.appendChild(container);
-  activeContainer = container;
-
+  container.innerHTML = "";
+  container.type = type;
   for (var inscription of inscriptions.values()) {
     loadWords(inscription, type, container);
   }
@@ -298,11 +292,8 @@ function loadConcordance(evt, type) {
 function initializeConcordance() {
   loadInscriptionLevelTags();
   loadAnnotations();
-  container = document.createElement("div");
-  container.id = "letter-container";
-  document.body.appendChild(container);
-  activeContainer = container;
 
+  container.type = "letter";
   for (var inscription of inscriptions.values()) {
     loadWords(inscription, "letter", container);
   }
