@@ -35,7 +35,7 @@ function checkKey(e) {
   }
   switch(e.key) {
     case "s": // 't' - toggle translation
-      var output = "var imageAtCoordinates = new Map([\n";
+      var output = "var cachedImages = new Map([\n";
       for (let [key, value] of coordinates) {
           var images = Array.prototype.map.call(value, x => x.src);
           output += "[\"" + key + "\",[\"" + images.join("\",\"") + "]],\n";
@@ -77,12 +77,21 @@ function wordIndexForLetterIndex(name, index, from) {
 // Concordance
 function loadWords(inscription, type, container) {
   inscription.tracingImages.forEach( image => {
-    var img = new Image();
-    img.src = "../" + encodeURIComponent(image);
-    if (["word", "number", "ideogram"].includes(type)) {
-      img.addEventListener("load", addWordImagesToConcordance(img, image, inscription, type, container));
-    } else if (["letter"].includes(type)) {
-      img.addEventListener("load", addLetterImagesToConcorance(img, image, inscription, container));
+    if (cachedImages.has(image)) {
+      console.log("not requesing image");
+      if (["word", "number", "ideogram"].includes(type)) {
+        addWordImagesToConcordance(img, image, inscription, type, container)();
+      } else if (["letter"].includes(type)) {
+        addLetterImagesToConcorance(img, image, inscription, container)();
+      }
+    } else {
+      var img = new Image();
+      img.src = "../" + encodeURIComponent(image);
+      if (["word", "number", "ideogram"].includes(type)) {
+        img.addEventListener("load", addWordImagesToConcordance(img, image, inscription, type, container));
+      } else if (["letter"].includes(type)) {
+        img.addEventListener("load", addLetterImagesToConcorance(img, image, inscription, container));
+      }
     }
   });
 }
@@ -124,7 +133,6 @@ function isNumber(character) {
   return true;
 }
 
-var imageForCoords = new Map();
 function addLetterImagesToConcorance(img, image, inscription, container) {
   return function (e) {
     if (!coordinates.has(image)) {
@@ -135,14 +143,7 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
       return;
     }
     var imageCoords = coordinates.get(image);
-
-    // Splice in the images if we already have them.
-    if (imageAtCoordinates.has(image)) {
-      var imageAtCoords = imageAtCoordinates.get(image);
-      for (var i = 0; i < imageAtCoords.length; i++) {
-        imageCoords[i].src = imageAtCoords[i];
-      }
-    }
+    var imagesToCache = [];
 
     var item = null;
     var span = null;
@@ -179,9 +180,9 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
       concordanceItem.appendChild(span);
 
       var imgToAdd = document.createElement('img');
-      if (imageCoords[i].src) {
+      if (cachedImages.has(image)) {
         console.log("using cached");
-        imgToAdd.src = imageCoords[i].src;
+        imgToAdd.src = cachedImages.get(image)[i];
       } else {
         var canvas = document.createElement('canvas');
         canvas.height = 40;
@@ -190,11 +191,13 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
         ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
         var dataURI = canvas.toDataURL();
         imgToAdd.src = dataURI;
-        imageCoords[i].src = dataURI;
+        imagesToCache[i] = dataURI;
       }
       span.appendChild(imgToAdd);
     }
-    coordinates.set(image, imageCoords);
+    if (!cachedImages.has(image)) {
+      cachedImages.set(image, imagesToCache);
+    }
   };
 }
 
@@ -208,13 +211,7 @@ function addWordImagesToConcordance(img, image, inscription, type, container) {
       return;
     }
     var imageCoords = coordinates.get(image);
-    // Splice in the images if we already have them.
-    if (imageAtCoordinates.has(image)) {
-      var imageAtCoords = imageAtCoordinates.get(image);
-      for (var i = 0; i < imageAtCoords.length; i++) {
-        imageCoords[i].src = imageAtCoords[i];
-      }
-    }
+    var imagesToCache = [];
 
     var currentWord = 0;
     var prevWord = -1;
@@ -258,8 +255,9 @@ function addWordImagesToConcordance(img, image, inscription, type, container) {
       prevWord = currentWord;
 
       var imgToAdd = document.createElement('img');
-      if (imageCoords[i].src) {
-        imgToAdd.src = imageCoords[i].src;
+      if (cachedImages.has(image)) {
+        console.log("using cached");
+        imgToAdd.src = cachedImages.get(image)[i];
       } else {
         var canvas = document.createElement('canvas');
         canvas.height = 40;
@@ -268,11 +266,13 @@ function addWordImagesToConcordance(img, image, inscription, type, container) {
         ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
         var dataURI = canvas.toDataURL();
         imgToAdd.src = dataURI;
-        imageCoords[i].src = dataURI;
+        imagesToCache[i] = dataURI;
       }
       span.appendChild(imgToAdd);
     }
-    coordinates.set(image, imageCoords);
+    if (!cachedImages.has(image)) {
+      cachedImages.set(image, imagesToCache);
+    }
   };
 }
 
