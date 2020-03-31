@@ -32504,16 +32504,14 @@ var inscriptions = new Map([
 }],
 ["HTWc3005",{
     "images": [
-        "images/HTWc3005a-Inscription.jpg",
-        "images/HTWc3005b-Inscription.jpg"
+        "images/HTWc3005-Inscription.jpg"
     ],
     "name": "HTWc3005",
     "parsedInscription": "𐘳𐘝𐘾𐘈",
     "scribe": "",
     "support": "roundel",
     "tracingImages": [
-        "images/HTWc3005a-Tracing.jpg",
-        "images/HTWc3005b-Tracing.jpg"
+        "images/HTWc3005-Tracing.jpg"
     ],
     "transcription": "𐘳𐘝𐘾𐘈",
     "translatedWords": [
