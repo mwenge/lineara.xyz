@@ -78,7 +78,6 @@ function wordIndexForLetterIndex(name, index, from) {
 function loadWords(inscription, type, container) {
   inscription.tracingImages.forEach( image => {
     if (cachedImages.has(image)) {
-      console.log("not requesing image");
       if (["word", "number", "ideogram"].includes(type)) {
         addWordImagesToConcordance(img, image, inscription, type, container)();
       } else if (["letter"].includes(type)) {
@@ -148,6 +147,9 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
     var item = null;
     var span = null;
     var letters = lettersWithImages(inscription.parsedInscription);
+    if (inscription.name == "TLZa1" || inscription.name == "HTWa1464") {
+      console.log(letters);
+    }
     var addedLabels = [];
     var concordanceItem = null;
     for (var i = 0; i < imageCoords.length; i++) {
@@ -181,7 +183,6 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
 
       var imgToAdd = document.createElement('img');
       if (cachedImages.has(image)) {
-        console.log("using cached");
         imgToAdd.src = cachedImages.get(image)[i];
       } else {
         var canvas = document.createElement('canvas');
@@ -256,7 +257,6 @@ function addWordImagesToConcordance(img, image, inscription, type, container) {
 
       var imgToAdd = document.createElement('img');
       if (cachedImages.has(image)) {
-        console.log("using cached");
         imgToAdd.src = cachedImages.get(image)[i];
       } else {
         var canvas = document.createElement('canvas');
