@@ -161,7 +161,7 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
         item.id = word;
 
         var label = document.createElement("div");
-        label.className = "label";
+        label.className = "label concordance-container-label";
         label.textContent = word;
         item.appendChild(label);
         container.appendChild(item);

@@ -242,6 +242,12 @@ input:focus::placeholder { color:transparent; }
   border-bottom-right-radius: 10px;
   font-size: 14px;
 }
+.concordance-container-label {
+  font-size: 16px;
+}
+.copyright-label {
+  border-bottom-right-radius: 0px;
+}
 .tag-container {
   padding: 2px;
   position: absolute;
