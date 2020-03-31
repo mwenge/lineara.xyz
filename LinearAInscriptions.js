@@ -48674,42 +48674,42 @@ var inscriptions = new Map([
         "images/PSZa2a-Inscription.jpg"
     ],
     "name": "PSZa2",
-    "parsedInscription": "𐄑𐄊𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
+    "parsedInscription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "scribe": "",
     "support": "stone vessel",
     "tracingImages": [
         "images/PSZa2-Tracing.jpg"
     ],
-    "transcription": "𐄑𐄊𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐝢𐘋𐄁",
+    "transcription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐝢𐘋𐄁",
     "translatedWords": [
-        "\n",
-        "𐄁",
-        "𐄁",
-        "𐄁",
         "RE-I-KE",
+        "\n",
         "gives",
+        "𐄁",
         "𐄌-JA-TI",
-        "this dedication"
+        "𐄁",
+        "this dedication",
+        "𐄁"
     ],
     "transliteratedWords": [
-        "\n",
-        "𐄁",
-        "𐄁",
-        "𐄁",
         "RE-I-KE",
+        "\n",
         "TA-NA-I-*301-TI",
+        "𐄁",
         "𐄌-JA-TI",
-        "JA-SA-SA-RA-ME"
+        "𐄁",
+        "JA-SA-SA-RA-ME",
+        "𐄁"
     ],
     "words": [
-        "\n",
-        "𐄁",
-        "𐄁",
-        "𐄁",
         "𐝫𐘙𐘚𐘥",
+        "\n",
         "𐘳𐘅𐘚𐙕𐘠",
+        "𐄁",
         "𐝫𐄌𐝫𐘱𐘠",
-        "𐘱𐘞𐘞𐘴𐘋"
+        "𐄁",
+        "𐘱𐘞𐘞𐘴𐘋",
+        "𐄁"
     ]
 }],
 ["PSIZa1",{
