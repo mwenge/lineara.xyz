@@ -33872,7 +33872,9 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa14",{
-    "images": [],
+    "images": [
+        "images/IOZa14-Inscription.jpg"
+    ],
     "name": "IOZa14",
     "parsedInscription": "𐘤𐝫𐘘𐘃𐄁𐘚𐘆𐝫",
     "scribe": "",
@@ -49691,12 +49693,16 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb13",{
-    "images": [],
+    "images": [
+        "images/THEZb13-Inscription.jpg"
+    ],
     "name": "THEZb13",
     "parsedInscription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
     "scribe": "",
     "support": "clay vessel",
-    "tracingImages": [],
+    "tracingImages": [
+        "images/THEZb13-Tracing.jpg"
+    ],
     "transcription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
     "translatedWords": [
         "QI-VIN+TE",
