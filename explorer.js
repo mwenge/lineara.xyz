@@ -767,16 +767,18 @@ function updateTipText(string) {
 
 function setHighlightLettersInTranscription(name, index, highlight) {
   var highlightedElements = [];
-  var element = document.getElementById("image-transcription-" + name + "-word-highlight-" + index);
-  if (!element) {
-    return highlightedElements;
-  }
+  for (var imageType of ["photo", "transcription"]) {
+    var element = document.getElementById("image-" + imageType + "-" + name + "-word-highlight-" + index);
+    if (!element) {
+      continue;
+    }
 
-  var elements = element.getElementsByClassName("letter-highlight");
-  Array.from(elements).forEach( element => {
-    element.style.backgroundColor = highlight;
-    highlightedElements.push(element);
-  });
+    var elements = element.getElementsByClassName("letter-highlight");
+    Array.from(elements).forEach( element => {
+      element.style.backgroundColor = highlight;
+      highlightedElements.push(element);
+    });
+  }
   return highlightedElements;
 }
 
