@@ -613,7 +613,7 @@ function loadInscription(inscription) {
   inscription.images.forEach( image => {
     addImageToItem(item, image, inscription.name, "photo")
   });
-  inscription.tracingImages.forEach( image => {
+  inscription.facsimileImages.forEach( image => {
     addImageToItem(item, image, inscription.name, "transcription")
   });
 

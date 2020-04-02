@@ -76,7 +76,7 @@ function wordIndexForLetterIndex(name, index, from) {
 
 // Concordance
 function loadWords(inscription, type, container) {
-  inscription.tracingImages.forEach( image => {
+  inscription.facsimileImages.forEach( image => {
     if (cachedImages.has(image)) {
       if (["word", "number", "ideogram"].includes(type)) {
         addWordImagesToConcordance(img, image, inscription, type, container)();

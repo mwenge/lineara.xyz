@@ -76,7 +76,7 @@ function wordIndexForLetterIndex(name, index, from) {
 
 // Concordance
 function loadWords(inscription, type, container) {
-  inscription.tracingImages.forEach( image => {
+  inscription.facsimileImages.forEach( image => {
     var img = new Image();
     img.src = "../" + encodeURIComponent(image);
     if (["word", "number", "ideogram"].includes(type)) {
