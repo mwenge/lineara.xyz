@@ -49609,7 +49609,9 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb5",{
-    "images": [],
+    "images": [
+        "images/THEZb5-Inscription.jpg"
+    ],
     "name": "THEZb5",
     "parsedInscription": "𐙁𐄓𐘫𐄋\n𐙑𐄍𐘎𐄏𐘳𐄊",
     "scribe": "",
@@ -49675,7 +49677,9 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb7",{
-    "images": [],
+    "images": [
+        "images/THEZb7-Inscription.jpg"
+    ],
     "name": "THEZb7",
     "parsedInscription": "𐘇𐘧",
     "scribe": "",
