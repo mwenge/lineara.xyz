@@ -1,0 +1,19 @@
+HT11b - 20 on first line?
+HT23b - 𐚻 on 3rd line?
+HT24a - ligatures for 𐛢 not used intext - should correct it
+HT27a - number in first line not visible in inscription
+HT28a - looks like it should be 𐘆 on last line not 𐜉
+HT111b - transcription wrong way round in last line
+HT115b - 2 graphemes missed in last line
+HT121 - last lette looks wrong
+HT127a - letters missing from transcription
+HT128b - first line of transcription wrong way round
+HT140 - no evidence of 2 letters on second line
+KH1 - missing a 1 on first line?
+KH6 - missing '1's?
+ZA10b - extra character in second last line
+ZA21a - extra '2' last line
+PE1 - missing fraction third line
+HT42+59 - TE on last line seems wrong.
+
+
