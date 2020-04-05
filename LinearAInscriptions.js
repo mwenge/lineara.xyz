@@ -15777,7 +15777,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1001",
     "parsedInscription": "𐘀𐘾",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 50",
     "support": "nodule",
     "transcription": "𐘀𐘾",
     "translatedWords": [
@@ -15799,7 +15799,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1002",
     "parsedInscription": "𐘀𐘾",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 50",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -15821,7 +15821,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1003",
     "parsedInscription": "𐘀𐘾",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 50",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -15843,7 +15843,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1004",
     "parsedInscription": "𐘀𐘾",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 50",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -15865,7 +15865,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1005",
     "parsedInscription": "𐘀𐘾",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 51",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -15887,7 +15887,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1006",
     "parsedInscription": "𐘚𐘽",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 52",
     "support": "nodule",
     "transcription": "𐘚𐘽",
     "translatedWords": [
@@ -15931,7 +15931,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1008",
     "parsedInscription": "𐘚𐘽",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 53",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -15953,7 +15953,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1009",
     "parsedInscription": "𐘚𐘽",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 53",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -15975,7 +15975,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1010",
     "parsedInscription": "𐘚𐘽",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 53",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -15997,7 +15997,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1011",
     "parsedInscription": "𐘚𐘽",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 52",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16019,7 +16019,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1012",
     "parsedInscription": "𐘚𐘽",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 52",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16041,7 +16041,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1013",
     "parsedInscription": "𐘚𐘽",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 53",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16063,7 +16063,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1014",
     "parsedInscription": "𐘤𐘾",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 54",
     "support": "nodule",
     "transcription": "𐘤𐘾",
     "translatedWords": [
@@ -16085,7 +16085,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1015",
     "parsedInscription": "𐘤𐘾",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 54",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16129,7 +16129,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1017",
     "parsedInscription": "𐘤𐘾",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 51",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16151,7 +16151,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1018",
     "parsedInscription": "𐘤𐘾",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 54",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16302,7 +16302,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1022",
     "parsedInscription": "𐛁",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 55",
     "support": "nodule",
     "transcription": "𐛁",
     "translatedWords": [
@@ -16368,7 +16368,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1025",
     "parsedInscription": "𐝆𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 57",
     "support": "nodule",
     "transcription": "𐝆𐙕",
     "translatedWords": [
@@ -16482,7 +16482,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1030",
     "parsedInscription": "𐙕𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 58",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16570,7 +16570,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1034",
     "parsedInscription": "𐘁",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 34",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16724,7 +16724,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1041",
     "parsedInscription": "𐘁",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 60",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16812,7 +16812,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1045",
     "parsedInscription": "𐘁",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 59",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16856,7 +16856,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1047",
     "parsedInscription": "𐘁",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 61",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -16878,7 +16878,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1048",
     "parsedInscription": "𐘁",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 62",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -18462,7 +18462,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1122",
     "parsedInscription": "𐘃",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 55",
     "support": "nodule",
     "transcription": "𐘃 𐘃¹¹²³",
     "translatedWords": [
@@ -18484,7 +18484,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1123",
     "parsedInscription": "𐘃",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 56",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -18528,7 +18528,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1125",
     "parsedInscription": "𐘃",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 57",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -18638,7 +18638,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1130",
     "parsedInscription": "𐘃",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 58",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -18726,7 +18726,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1134",
     "parsedInscription": "𐘃",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 59",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -18880,7 +18880,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1141",
     "parsedInscription": "𐘃",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 60",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -18968,7 +18968,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1145",
     "parsedInscription": "𐘃",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 59",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19004,7 +19004,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1147",
     "parsedInscription": "𐘇",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 61",
     "support": "nodule",
     "transcription": "𐘇 𐘇¹¹⁴⁸",
     "translatedWords": [
@@ -19022,7 +19022,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1148",
     "parsedInscription": "𐘇",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 62",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19058,7 +19058,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1150",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "𐘚",
     "translatedWords": [
@@ -19076,7 +19076,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1151",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19094,7 +19094,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1152",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19130,7 +19130,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1154",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 64",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19148,7 +19148,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1155",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19166,7 +19166,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1156",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19184,7 +19184,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1157",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19202,7 +19202,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1158",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19220,7 +19220,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1159",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19238,7 +19238,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1160",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19256,7 +19256,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1161",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19274,7 +19274,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1162",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19292,7 +19292,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1163",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19310,7 +19310,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1164",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19328,7 +19328,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1165",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19346,7 +19346,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1166",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19364,7 +19364,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1167",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19382,7 +19382,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1168",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19418,7 +19418,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "HTWa1170",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 65",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19440,7 +19440,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1171",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 65",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19484,7 +19484,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1173",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 66",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19506,7 +19506,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1174",
     "parsedInscription": "𐘚",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 67",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19528,7 +19528,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1175",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "𐘤 𐘤¹¹⁹⁹ 𐘤¹²⁵⁹",
     "translatedWords": [
@@ -19550,7 +19550,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1176",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19572,7 +19572,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1177",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19594,7 +19594,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1178",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19616,7 +19616,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1179",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19660,7 +19660,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1181",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19682,7 +19682,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1182",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19704,7 +19704,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1183",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19726,7 +19726,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1184",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19748,7 +19748,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1185",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19770,7 +19770,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1186",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19792,7 +19792,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1187",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19814,7 +19814,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1188",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19836,7 +19836,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1189",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19858,7 +19858,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1190",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19924,7 +19924,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1193",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19946,7 +19946,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1194",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -19990,7 +19990,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1196",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20012,7 +20012,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1197",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20034,7 +20034,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1198",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20056,7 +20056,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1199",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20078,7 +20078,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1200",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20100,7 +20100,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1201",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20122,7 +20122,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1202",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20144,7 +20144,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1203",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20166,7 +20166,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1204",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20188,7 +20188,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1205",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20210,7 +20210,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1206",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20232,7 +20232,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1207",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20254,7 +20254,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1208",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20276,7 +20276,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1209",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20320,7 +20320,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1211",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20342,7 +20342,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1212",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20364,7 +20364,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1213",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20386,7 +20386,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1214",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20452,7 +20452,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1217",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20496,7 +20496,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1220",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20518,7 +20518,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1221",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20540,7 +20540,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1222",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20584,7 +20584,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1225",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20826,7 +20826,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1239",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20848,7 +20848,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1241",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20870,7 +20870,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1242",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20892,7 +20892,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1243",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20914,7 +20914,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1244",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20936,7 +20936,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1245",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20958,7 +20958,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1246",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20980,7 +20980,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1247",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21002,7 +21002,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1248",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21024,7 +21024,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1249",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21090,7 +21090,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1254",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 70",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21112,7 +21112,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1256",
     "parsedInscription": "𐘤",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 70",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21288,7 +21288,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1267",
     "parsedInscription": "𐘳",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "𐘳 𐘳¹²⁷⁸",
     "translatedWords": [
@@ -21310,7 +21310,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1268",
     "parsedInscription": "𐘳",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21354,7 +21354,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1270",
     "parsedInscription": "𐘳",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 72",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21376,7 +21376,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1271",
     "parsedInscription": "𐘳",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21398,7 +21398,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1272",
     "parsedInscription": "𐘳",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21420,7 +21420,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1273",
     "parsedInscription": "𐘳",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21442,7 +21442,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1274",
     "parsedInscription": "𐘳",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21464,7 +21464,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1275",
     "parsedInscription": "𐘳",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21486,7 +21486,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1276",
     "parsedInscription": "𐘳",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21508,7 +21508,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1278",
     "parsedInscription": "𐘳",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 73",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21530,7 +21530,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1279",
     "parsedInscription": "𐘵",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 74",
     "support": "nodule",
     "transcription": "𐘵",
     "translatedWords": [
@@ -21552,7 +21552,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1280",
     "parsedInscription": "𐘵",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 75",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21574,7 +21574,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1281",
     "parsedInscription": "𐘵",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 74",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21640,7 +21640,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1284",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21662,7 +21662,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1286",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21684,7 +21684,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1287",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21706,7 +21706,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1288",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21728,7 +21728,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1289",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21772,7 +21772,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1291",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 79",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21794,7 +21794,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1293",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 78",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21816,7 +21816,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1294",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 80",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21838,7 +21838,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1295",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 81",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21860,7 +21860,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1296",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 80",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21882,7 +21882,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1297",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 81",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21970,7 +21970,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1302",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 82",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -22058,7 +22058,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1307",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 83",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -22080,7 +22080,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1308",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -22102,7 +22102,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1309",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 83",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -22124,7 +22124,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1310",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 77",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25226,7 +25226,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1471",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "𐙂 𐙂¹⁴⁹⁰ 𐙂¹⁵¹⁸ 𐙂¹⁵⁴⁷ 𐙂¹⁵⁸²",
     "translatedWords": [
@@ -25248,7 +25248,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1472",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25270,7 +25270,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1473",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25292,7 +25292,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1474",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25314,7 +25314,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1475",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25336,7 +25336,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1476",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25358,7 +25358,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1477",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25380,7 +25380,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1478",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25402,7 +25402,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1479",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25424,7 +25424,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1481",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 85",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25446,7 +25446,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1483",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25468,7 +25468,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1484",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25512,7 +25512,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1486",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25534,7 +25534,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1487",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25556,7 +25556,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1488",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25578,7 +25578,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1490",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25600,7 +25600,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1491",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25622,7 +25622,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1492",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25644,7 +25644,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1493",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25666,7 +25666,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1494",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25688,7 +25688,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1495",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25710,7 +25710,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1496",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25732,7 +25732,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1497",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25754,7 +25754,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1498",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25776,7 +25776,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1499",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25820,7 +25820,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1501",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25842,7 +25842,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1502",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25864,7 +25864,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1503",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25886,7 +25886,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1504",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25908,7 +25908,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1505",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25930,7 +25930,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1506",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25952,7 +25952,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1507",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25974,7 +25974,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1508",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25996,7 +25996,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1509",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26040,7 +26040,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1512",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 86",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26062,7 +26062,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1513",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26084,7 +26084,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1514",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26128,7 +26128,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1516",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26150,7 +26150,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1518",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26172,7 +26172,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1519",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26194,7 +26194,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1520",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26216,7 +26216,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1521",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26238,7 +26238,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1522",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26260,7 +26260,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1523",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26282,7 +26282,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1524",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26326,7 +26326,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1526",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 88",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26348,7 +26348,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1528",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26392,7 +26392,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1530",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26436,7 +26436,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1532",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 88",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26458,7 +26458,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1533",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 85",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26480,7 +26480,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1534",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 85",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26502,7 +26502,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1535",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 85",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26524,7 +26524,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1536",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 85",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26568,7 +26568,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1540",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26612,7 +26612,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1542",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26634,7 +26634,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1543",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26656,7 +26656,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1544",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26678,7 +26678,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1546",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26700,7 +26700,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1547",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26722,7 +26722,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1548",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26744,7 +26744,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1549",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26766,7 +26766,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1550",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26788,7 +26788,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1551",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26810,7 +26810,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1552",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26832,7 +26832,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1553",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26854,7 +26854,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1554",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26898,7 +26898,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1557",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26920,7 +26920,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1558",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26942,7 +26942,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1559",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 86",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26964,7 +26964,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1560",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 86",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26986,7 +26986,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1561",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27008,7 +27008,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1562",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27030,7 +27030,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1563",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27052,7 +27052,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1564",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27096,7 +27096,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1567",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27118,7 +27118,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1568",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27140,7 +27140,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1569",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27162,7 +27162,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1570",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27184,7 +27184,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1571",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27206,7 +27206,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1572",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27228,7 +27228,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1573",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27250,7 +27250,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1574",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27272,7 +27272,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1576",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27294,7 +27294,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1577",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27316,7 +27316,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1579",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 91",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27338,7 +27338,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1581",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27360,7 +27360,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1582",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 91",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27426,7 +27426,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1586",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 92",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27448,7 +27448,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1587",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 92",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27470,7 +27470,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1588",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 92",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27492,7 +27492,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1589",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 92",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27514,7 +27514,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1591",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 92",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27536,7 +27536,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1592",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 93",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27558,7 +27558,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1593",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 93",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27580,7 +27580,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1594",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 93",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27668,7 +27668,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1600",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 94",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27690,7 +27690,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1601",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27712,7 +27712,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1602",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27734,7 +27734,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1603",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27756,7 +27756,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1605",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 93",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27822,7 +27822,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1608",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 93",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27954,7 +27954,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1614",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 96",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27976,7 +27976,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1615",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27998,7 +27998,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1616",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28020,7 +28020,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1618",
     "parsedInscription": "𐙂",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28108,7 +28108,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1623",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "𐙕 𐙕¹⁶³⁸ 𐝥¹⁷¹⁰ 𐙕¹⁷⁷⁵ 𐝥¹⁸³⁴ 𐝥¹⁸⁴⁶",
     "translatedWords": [
@@ -28130,7 +28130,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1624",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28152,7 +28152,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1625",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28174,7 +28174,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1626",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28196,7 +28196,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1627",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28218,7 +28218,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1628",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28240,7 +28240,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1630",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 97",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28262,7 +28262,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1631",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28284,7 +28284,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1632",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28328,7 +28328,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1635",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28372,7 +28372,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1638",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28416,7 +28416,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1640",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28460,7 +28460,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1643",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28482,7 +28482,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1644",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28504,7 +28504,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1645",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28526,7 +28526,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1646",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28548,7 +28548,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1647",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28570,7 +28570,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1648",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28592,7 +28592,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1650",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28614,7 +28614,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1652",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28658,7 +28658,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1654",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 97",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28724,7 +28724,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1658",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28746,7 +28746,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1659",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28812,7 +28812,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1665",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28856,7 +28856,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1668",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28900,7 +28900,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1671",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28922,7 +28922,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1672",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28944,7 +28944,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1673",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28966,7 +28966,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1674",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28988,7 +28988,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1675",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29032,7 +29032,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1678",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29076,7 +29076,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1680",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29098,7 +29098,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1681",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29120,7 +29120,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1682",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29142,7 +29142,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1683",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29164,7 +29164,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1684",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29186,7 +29186,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1685",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29274,7 +29274,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1691",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29296,7 +29296,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1692",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29318,7 +29318,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1693",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29340,7 +29340,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1695",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29384,7 +29384,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1698",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29406,7 +29406,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1699",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29428,7 +29428,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1700",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29450,7 +29450,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1701",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29472,7 +29472,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1702",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29494,7 +29494,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1703",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29516,7 +29516,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1704",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29538,7 +29538,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1705",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29560,7 +29560,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1706",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29582,7 +29582,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1708",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29626,7 +29626,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1710",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 99",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29648,7 +29648,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1711",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29670,7 +29670,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1712",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29692,7 +29692,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1713",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29714,7 +29714,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1714",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29736,7 +29736,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1715",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29758,7 +29758,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1716",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29780,7 +29780,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1717",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29824,7 +29824,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1721",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29846,7 +29846,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1723",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29868,7 +29868,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1724",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30242,7 +30242,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1742",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30264,7 +30264,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1743",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30286,7 +30286,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1744",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30308,7 +30308,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1745",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30330,7 +30330,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1746",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30352,7 +30352,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1747",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30396,7 +30396,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1750",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 97",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30418,7 +30418,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1751",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30440,7 +30440,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1752",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30462,7 +30462,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1753",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30484,7 +30484,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1755",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30506,7 +30506,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1756",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30528,7 +30528,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1757",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30594,7 +30594,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1760",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30616,7 +30616,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1762",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30638,7 +30638,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1763",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30660,7 +30660,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1764",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30682,7 +30682,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1765",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30704,7 +30704,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1766",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30726,7 +30726,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1767",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30748,7 +30748,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1768",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30770,7 +30770,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1770",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30792,7 +30792,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1771",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30814,7 +30814,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1772",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30836,7 +30836,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1774",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30858,7 +30858,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1775",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30902,7 +30902,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1779",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30924,7 +30924,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1780",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30946,7 +30946,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1782",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30968,7 +30968,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1783",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30990,7 +30990,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1785",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31012,7 +31012,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1786",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31034,7 +31034,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1787",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31056,7 +31056,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1788",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31100,7 +31100,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1791",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31144,7 +31144,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1793",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31166,7 +31166,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1794",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31210,7 +31210,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1797",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31254,7 +31254,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1800",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31298,7 +31298,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1802",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31320,7 +31320,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1803",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31430,7 +31430,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1810",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31452,7 +31452,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1811",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31496,7 +31496,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1814",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31518,7 +31518,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1815",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31562,7 +31562,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1817",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31628,7 +31628,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1823",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 97",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31738,7 +31738,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1830",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31782,7 +31782,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1833",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31804,7 +31804,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1834",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 99",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31870,7 +31870,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1837",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31892,7 +31892,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1838",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31914,7 +31914,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1840",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31936,7 +31936,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1841",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31980,7 +31980,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWa1844",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -32415,7 +32415,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3001",
     "parsedInscription": "𐘂𐘈𐘱𐝆",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "roundel",
     "transcription": "𐘂𐘈𐘱𐝆",
     "translatedWords": [
@@ -32440,7 +32440,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3002",
     "parsedInscription": "𐘂𐘈𐘱",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "roundel",
     "transcription": "𐘂𐘈𐘱",
     "translatedWords": [
@@ -32486,7 +32486,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3004",
     "parsedInscription": "𐘳𐘝𐘾𐘈",
-    "scribe": "",
+    "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐘳𐘝𐘾𐘈",
     "translatedWords": [
@@ -32511,7 +32511,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3005",
     "parsedInscription": "𐘳𐘝𐘾𐘈",
-    "scribe": "",
+    "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐘳𐘝𐘾𐘈",
     "translatedWords": [
@@ -32563,7 +32563,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3007",
     "parsedInscription": "𐘮𐘆𐘝",
-    "scribe": "",
+    "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐘮𐘆𐘝",
     "translatedWords": [
@@ -32587,7 +32587,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3008",
     "parsedInscription": "𐘮𐘆𐘝𐘘𐘱𐘳𐘆",
-    "scribe": "",
+    "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐘮𐘆𐘝𐘘𐘱𐘳𐘆",
     "translatedWords": [
@@ -32614,7 +32614,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3009",
     "parsedInscription": "𐙹𐘆𐘲𐘾𐙓",
-    "scribe": "",
+    "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐙹𐘆𐘲𐘾𐙓",
     "translatedWords": [
@@ -32639,7 +32639,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3010",
     "parsedInscription": "𐙹𐘆𐘅𐘲𐘾",
-    "scribe": "",
+    "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐙹𐘆𐘅𐘲𐘾",
     "translatedWords": [
@@ -32661,7 +32661,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3011",
     "parsedInscription": "𐙀𐘆𐘴",
-    "scribe": "",
+    "scribe": "HT Wc Scribe 11",
     "support": "roundel",
     "transcription": "𐙀𐘆𐘴",
     "translatedWords": [
@@ -32685,7 +32685,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3012",
     "parsedInscription": "𐙀𐘆𐘴𐘙𐘁",
-    "scribe": "",
+    "scribe": "HT Wc Scribe 11",
     "support": "roundel",
     "transcription": "𐙀𐘆𐘴𐘙𐘁",
     "translatedWords": [
@@ -32789,7 +32789,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWc3016",
     "parsedInscription": "𐘾𐙂𐘂𐜝𐜙",
-    "scribe": "",
+    "scribe": "HT Wc Scribe 11",
     "support": "roundel",
     "transcription": "𐘾𐙂𐘂𐜝𐜙",
     "translatedWords": [
@@ -33008,7 +33008,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWd1663",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "HT Wa Scribe 10",
     "support": "tablet",
     "transcription": "𐙕",
     "translatedWords": [
@@ -33032,7 +33032,7 @@ var inscriptions = new Map([
     ],
     "name": "HTWeWc3020",
     "parsedInscription": "𐙓𐘬𐜝𐜙",
-    "scribe": "",
+    "scribe": "HT Wc Scribe 11",
     "support": "roundel",
     "transcription": "𐙓𐘬𐜝𐜙",
     "translatedWords": [
@@ -39672,7 +39672,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWa1005",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "KH Wa Scribe 50",
     "support": "nodule",
     "transcription": "𐘼",
     "translatedWords": [
@@ -39694,7 +39694,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWa1006",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "KH Wa Scribe 50",
     "support": "nodule",
     "transcription": "𐘼",
     "translatedWords": [
@@ -39716,7 +39716,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWa1007",
     "parsedInscription": "𐘼",
-    "scribe": "",
+    "scribe": "KH Wa Scribe 50",
     "support": "nodule",
     "transcription": "𐘼",
     "translatedWords": [
@@ -39804,7 +39804,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWa1011",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "KH Wa Scribe 51",
     "support": "nodule",
     "transcription": "𐙕",
     "translatedWords": [
@@ -39826,7 +39826,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWa1012",
     "parsedInscription": "𐙕",
-    "scribe": "",
+    "scribe": "KH Wa Scribe 51",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -39850,7 +39850,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWa1013",
     "parsedInscription": "𐙅𐘁",
-    "scribe": "",
+    "scribe": "KH Wa Scribe 52",
     "support": "nodule",
     "transcription": "𐙅𐘁",
     "translatedWords": [
@@ -40031,7 +40031,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2001",
     "parsedInscription": "𐘵",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 59",
     "support": "roundel",
     "transcription": "𐘵 𐘵²⁰⁰¹",
     "translatedWords": [
@@ -40053,7 +40053,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2002",
     "parsedInscription": "𐘵",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 60",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40141,7 +40141,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2006",
     "parsedInscription": "𐚱",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 53",
     "support": "roundel",
     "transcription": "𐚱",
     "translatedWords": [
@@ -40163,7 +40163,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2007",
     "parsedInscription": "𐚱",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 53",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40207,7 +40207,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2009",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "H Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40251,7 +40251,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2011",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40273,7 +40273,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2012",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40317,7 +40317,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2014",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "H Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40339,7 +40339,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2015",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "H Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40361,7 +40361,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2016",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "H Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40383,7 +40383,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2017",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "H Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40405,7 +40405,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2018",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40493,7 +40493,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2022",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40515,7 +40515,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2023",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40537,7 +40537,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2024",
     "parsedInscription": "𐚫",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40735,7 +40735,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2033",
     "parsedInscription": "𐘵",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 59",
     "support": "roundel",
     "transcription": "𐙐 𐘵²⁰³³ 𐙐²⁰³⁹ 𐙐²⁰⁴⁰ 𐙐²⁰⁴¹",
     "translatedWords": [
@@ -40757,7 +40757,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2034",
     "parsedInscription": "𐘵",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 59",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40801,7 +40801,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2036",
     "parsedInscription": "𐙐",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 55",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40823,7 +40823,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2037",
     "parsedInscription": "𐙐",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 55",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40845,7 +40845,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2038",
     "parsedInscription": "𐙐",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 55",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -40867,7 +40867,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2039",
     "parsedInscription": "𐙐",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 55",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -41197,7 +41197,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2054",
     "parsedInscription": "𐝥𐘻",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 56",
     "support": "roundel",
     "transcription": "𐝥𐘻 𐝥𐘻²⁰⁵⁴ 𐝥𐘻²⁰⁵⁵",
     "translatedWords": [
@@ -41219,7 +41219,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2055",
     "parsedInscription": "𐝥𐘻",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 56",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -41241,7 +41241,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2056",
     "parsedInscription": "𐜥",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 57",
     "support": "roundel",
     "transcription": "𐜥",
     "translatedWords": [
@@ -41263,7 +41263,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2057",
     "parsedInscription": "𐜥",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 57",
     "support": "roundel",
     "transcription": "𐛦 𐛦²⁰⁵⁹ 𐛦²⁰⁶²",
     "translatedWords": [
@@ -41527,7 +41527,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2067",
     "parsedInscription": "𐙾",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 58",
     "support": "roundel",
     "transcription": "𐙾 𐙾²⁰⁶⁷",
     "translatedWords": [
@@ -41549,7 +41549,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2068",
     "parsedInscription": "𐙾",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 58",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -41839,7 +41839,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2101",
     "parsedInscription": "𐘵",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 60",
     "support": "roundel",
     "transcription": "𐘵",
     "translatedWords": [
@@ -41905,7 +41905,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2104",
     "parsedInscription": "𐘵",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 60",
     "support": "roundel",
     "transcription": "𐘵",
     "translatedWords": [
@@ -41927,7 +41927,7 @@ var inscriptions = new Map([
     ],
     "name": "KHWc2105",
     "parsedInscription": "𐘵",
-    "scribe": "",
+    "scribe": "KH Wc Scribe 60",
     "support": "roundel",
     "transcription": "",
     "translatedWords": [
@@ -48678,7 +48678,7 @@ var inscriptions = new Map([
     ],
     "name": "PSZa2",
     "parsedInscription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
-    "scribe": "",
+    "scribe": "PS Scribe 1",
     "support": "stone vessel",
     "transcription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐝢𐘋𐄁",
     "translatedWords": [
@@ -53566,7 +53566,7 @@ var inscriptions = new Map([
     ],
     "name": "ARZf1",
     "parsedInscription": "𐘚𐘀𐙁𐘃",
-    "scribe": "",
+    "scribe": "AR Scribe 1",
     "support": "metal object",
     "transcription": "𐘚𐘀𐙁𐘃",
     "translatedWords": [
@@ -53588,7 +53588,7 @@ var inscriptions = new Map([
     ],
     "name": "ARZf2",
     "parsedInscription": "𐘚𐘀𐙁𐘃𐝫",
-    "scribe": "",
+    "scribe": "AR Scribe 2",
     "support": "metal object",
     "transcription": "𐘚𐘀𐙁𐘃𐝫",
     "translatedWords": [
@@ -53634,7 +53634,7 @@ var inscriptions = new Map([
     ],
     "name": "ARKH1a",
     "parsedInscription": "𐝫𐘳𐘢𐄁\n𐘌𐝫\n𐝫𐘸𐝫\n𐝫𐄁\n𐘇𐘴𐝫\n𐝫\n𐝫𐘇𐘲𐘻𐙈𐝫\n𐝫𐘗𐄈𐝆\n𐘇𐘂𐝫\n𐝫𐘻𐘸𐘞𐘗𐝫",
-    "scribe": "KH Scribe 1",
+    "scribe": "ARKH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘳𐘢𐄁𐘌𐝫𐘸\n𐝫𐄁𐘇𐘴𐝫\n𐝫\n𐘇𐘲𐘻𐙈𐝫\n𐘗𐄈𐝆𐘇𐘂𐝫\n𐘻𐘸𐘞𐘗𐝫",
     "translatedWords": [
@@ -53715,7 +53715,7 @@ var inscriptions = new Map([
     "images": [],
     "name": "ARKH1af",
     "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫",
-    "scribe": "KH Scribe 1",
+    "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘇𐝫\n𐝫",
     "translatedWords": [
@@ -53749,7 +53749,7 @@ var inscriptions = new Map([
     ],
     "name": "ARKH1b",
     "parsedInscription": "𐘇𐝫\n𐝫𐘱𐘙𐄉𐝫\n𐝫𐘰𐝫\n𐝫\n—\n𐝫𐘅𐄎",
-    "scribe": "KH Scribe 1",
+    "scribe": "ARKH Scribe 1",
     "support": "tablet",
     "transcription": "𐘇𐝫𐘱𐘙𐄉𐝫\n𐝫𐘰𐝫\n𐝫\n—\n𐝫𐘅𐄎",
     "translatedWords": [
@@ -53807,7 +53807,7 @@ var inscriptions = new Map([
     ],
     "name": "ARKH2",
     "parsedInscription": "𐘤𐘀𐘃\n𐙂𐘴𐙎𐄋\n𐘇𐘤𐘀𐘄𐘚𐄐𐄈\n𐙀𐙕𐘈𐘦𐘐𐙈𐄌\n𐘇𐘲𐘫𐘮𐄊\n𐘘𐘻𐝫\n𐝫",
-    "scribe": "KH Scribe 1",
+    "scribe": "ARKH Scribe 1",
     "support": "tablet",
     "transcription": "𐘤𐘀𐘃𐙂𐘴\n𐙎𐄋𐘇𐘤𐘀𐘄\n𐘚𐄐𐄈𐙀𐙕𐘈\n𐘦𐘐𐙈𐄌\n𐘇𐘲𐘫𐘮\n𐄊𐘘𐘻𐝫",
     "translatedWords": [
@@ -53880,7 +53880,7 @@ var inscriptions = new Map([
     ],
     "name": "ARKH3a",
     "parsedInscription": "𐝫𐘾𐘗𐙉𐝫\n𐝫𐝂\n𐙋𐄉𐝂\n𐙎𐄈𐝫\n𐝫𐄈\n𐙩𐄈\n𐝫\n𐝫𐘸𐘯𐙉𐄐𐄉𐝫\n𐝫𐘃𐄈\n𐙩𐄈\n𐙢𐄈𐝫\n𐝫𐙂𐄉",
-    "scribe": "KH Scribe 1",
+    "scribe": "ARKH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘾𐘗𐙉𐝫\n𐝫𐝂𐙋𐄉𐝂𐙎𐄈𐝫\n𐄈𐝫𐙩𐄈𐝫\n𐘸𐘯𐙉𐄐𐄉𐝫\n𐝫𐘃𐄈𐙩𐄈𐙢𐄈𐝫\n𐝫𐙂𐄉𐝫",
     "translatedWords": [
@@ -54001,7 +54001,7 @@ var inscriptions = new Map([
     ],
     "name": "ARKH3b",
     "parsedInscription": "𐝫𐘱𐘢𐙉𐄌𐝫\n𐝫𐘢𐙦𐙉𐄇𐝫\n𐙖𐝫\n𐝫\n𐝫𐄈\n𐙖𐄊\n𐝫𐙍𐄇𐝫",
-    "scribe": "KH Scribe 1",
+    "scribe": "ARKH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘱𐘢𐙉𐄌𐝫\n𐝫𐘢𐙦𐙉𐄇𐝫𐙖𐝫\n𐝫𐄈𐙖𐄊\n𐝫𐙍𐄇𐝫",
     "translatedWords": [
