@@ -652,6 +652,21 @@ function loadInscription(inscription) {
   item.appendChild(tagContainer);
   inscription.tagContainer = tagContainer;
 
+  var tagsToAdd = [inscription.support, inscription.scribe, contexts.get(inscription.name), tags.get(inscription.name)]  
+                  .filter(w => w != undefined && w != "");
+
+  tagsToAdd.forEach( tag => {
+    var label = document.createElement("div");
+    label.className = 'tag';
+    if (!tagColors[tag]) {
+      tagColors[tag] = cycleColor(); 
+    }
+    label.style.backgroundColor = tagColors[tag];
+    label.textContent = tag;
+    inscription.tagContainer.appendChild(label);
+  });
+
+
   var label = document.createElement("div");
   label.className = "label";
   label.textContent = inscription.name;
@@ -903,9 +918,6 @@ function applySearchTerms() {
       if (inscription.element) {
         inscription.element.style.display = "flex";
       }
-      if (inscription.tagContainer) {
-        inscription.tagContainer.innerHTML = "";
-      }
       continue;
     }
     var shouldDisplay = false;
@@ -936,15 +948,6 @@ function applySearchTerms() {
     if (!newElement) {
       inscription.element.style.display = "flex";
     }
-
-    inscription.tagContainer.innerHTML = "";
-    tagsToAdd.forEach( tag => {
-      var label = document.createElement("div");
-      label.className = 'tag';
-      label.style.backgroundColor = tagColors[tag];
-      label.textContent = tag;
-      inscription.tagContainer.appendChild(label);
-    });
 
     for (index in searchTerms.children) {
       var searchElement = searchTerms.children.item(index);
