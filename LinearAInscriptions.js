@@ -43619,8 +43619,12 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZe44",{
-    "facsimileImages": [],
-    "images": [],
+    "facsimileImages": [
+        "images/KNZe44-Facsimile.jpg"
+    ],
+    "images": [
+        "images/KNZe44-Inscription.jpg"
+    ],
     "name": "KNZe44",
     "parsedInscription": "𐘚𐝫𐘮𐘱",
     "scribe": "",
@@ -43637,7 +43641,9 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZe45",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/KNZe45-Facsimile.jpg"
+    ],
     "images": [],
     "name": "KNZe45",
     "parsedInscription": "𐘾𐘤𐘇𐘃",
