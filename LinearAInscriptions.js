@@ -42832,7 +42832,9 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc23",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/KNWc23-Facsimile.jpg"
+    ],
     "images": [],
     "name": "KNWc23",
     "parsedInscription": "𐘽",
@@ -42921,7 +42923,9 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc42",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/KNWc42-Facsimile.jpg"
+    ],
     "images": [],
     "name": "KNWc42",
     "parsedInscription": "𐝫𐘅𐘵",
@@ -42942,7 +42946,9 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc43",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/KNWc43-Facsimile.jpg"
+    ],
     "images": [],
     "name": "KNWc43",
     "parsedInscription": "𐝫𐝫𐄁𐝫",
@@ -42963,7 +42969,9 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc48",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/KNWc48-Facsimile.jpg"
+    ],
     "images": [],
     "name": "KNWc48",
     "parsedInscription": "𐝫𐘃𐝫",
