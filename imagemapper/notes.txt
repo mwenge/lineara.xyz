@@ -3,6 +3,8 @@ HT23b - 𐚻 on 3rd line?
 HT24a - ligatures for 𐛢 not used intext - should correct it
 HT27a - number in first line not visible in inscription
 HT28a - looks like it should be 𐘆 on last line not 𐜉
+HT49a - missing first character?
+HT49b - missing second character?
 HT111b - transcription wrong way round in last line
 HT115b - 2 graphemes missed in last line
 HT121 - last lette looks wrong
