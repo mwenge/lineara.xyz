@@ -42721,8 +42721,12 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWa50",{
-    "facsimileImages": [],
-    "images": [],
+    "facsimileImages": [
+        "images/KNWa50-Facsimile.jpg"
+    ],
+    "images": [
+        "images/KNWa50-Inscription.jpg"
+    ],
     "name": "KNWa50",
     "parsedInscription": "𐙕",
     "scribe": "",
@@ -53239,8 +53243,12 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAWa38",{
-    "facsimileImages": [],
-    "images": [],
+    "facsimileImages": [
+        "images/ZAWa38-Facsimile.jpg"
+    ],
+    "images": [
+        "images/ZAWa38-Inscription.jpg"
+    ],
     "name": "ZAWa38",
     "parsedInscription": "𐙕",
     "scribe": "",

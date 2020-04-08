@@ -653,7 +653,7 @@ function loadInscription(inscription) {
   inscription.tagContainer = tagContainer;
 
   var tagsToAdd = [[inscription.support, 'activeSupports', 'supports-command'], [inscription.scribe, 'activeScribes', 'scribes-command'],
-                   [contexts.get(inscription.name), 'activeContexts', 'contexts-command'], [tags.get(inscription.name), 'activeTags', 'tags-command']]  
+                   [contexts.get(inscription.name), 'activeContexts', 'contexts-command'], [tags.get(inscription.name), 'activeTagValues', 'tags-command']]  
                   .filter(w => w[0] != undefined && w[0] != "");
 
   tagsToAdd.forEach( tagData => {
