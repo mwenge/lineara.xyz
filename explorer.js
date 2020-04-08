@@ -652,10 +652,14 @@ function loadInscription(inscription) {
   item.appendChild(tagContainer);
   inscription.tagContainer = tagContainer;
 
-  var tagsToAdd = [inscription.support, inscription.scribe, contexts.get(inscription.name), tags.get(inscription.name)]  
-                  .filter(w => w != undefined && w != "");
+  var tagsToAdd = [[inscription.support, 'activeSupports', 'supports-command'], [inscription.scribe, 'activeScribes', 'scribes-command'],
+                   [contexts.get(inscription.name), 'activeContexts', 'contexts-command'], [tags.get(inscription.name), 'activeTags', 'tags-command']]  
+                  .filter(w => w[0] != undefined && w[0] != "");
 
-  tagsToAdd.forEach( tag => {
+  tagsToAdd.forEach( tagData => {
+    var tag = tagData[0];
+    var activeMetadataName = tagData[1];
+    var command = tagData[2];
     var label = document.createElement("div");
     label.className = 'tag';
     if (!tagColors[tag]) {
@@ -663,6 +667,7 @@ function loadInscription(inscription) {
     }
     label.style.backgroundColor = tagColors[tag];
     label.textContent = tag;
+    label.setAttribute("onclick", "toggleMetadatum(event, '" + tag + "', " + activeMetadataName + ", '" + command + "')");
     inscription.tagContainer.appendChild(label);
   });
 
@@ -1022,9 +1027,12 @@ function toggleTag(event, tag) {
     activeTags.push(tag);
   }
   var element = event.target;
-  var color = element.style.backgroundColor;
-  element.style.color = color == tagColors[tag] ? "white" : "black";
-  element.style.backgroundColor = color == tagColors[tag] ? "black" : tagColors[tag];
+  // Don't change the color of the tag if it is not being clicked from the menu
+  if (element.className == "filter-tag") {
+    var color = element.style.backgroundColor;
+    element.style.color = color == tagColors[tag] ? "white" : "black";
+    element.style.backgroundColor = color == tagColors[tag] ? "black" : tagColors[tag];
+  }
   applySearchTerms();
 }
 
@@ -1072,6 +1080,7 @@ function toggleMetadatum(event, datum, activeMetadata, commandElementID) {
   var element = document.getElementById(commandElementID);
   element.style.backgroundColor = activeMetadata.length ? "purple" : "black";
   toggleTag(event, datum);
+  event.stopPropagation();
 }
 
 var activeTags = [];
