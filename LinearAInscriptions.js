@@ -43667,8 +43667,12 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZe56",{
-    "facsimileImages": [],
-    "images": [],
+    "facsimileImages": [
+        "images/KNZe56-Facsimile.jpg"
+    ],
+    "images": [
+        "images/KNZe56-Inscription.jpg"
+    ],
     "name": "KNZe56",
     "parsedInscription": "𐘵𐘀𐝫",
     "scribe": "",
