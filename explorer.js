@@ -653,7 +653,8 @@ function loadInscription(inscription) {
   inscription.tagContainer = tagContainer;
 
   var tagsToAdd = [[inscription.support, 'activeSupports', 'supports-command'], [inscription.scribe, 'activeScribes', 'scribes-command'],
-                   [contexts.get(inscription.name), 'activeContexts', 'contexts-command'], [tags.get(inscription.name), 'activeTagValues', 'tags-command']]  
+                   [contexts.get(inscription.name), 'activeContexts', 'contexts-command'],
+                   [tags.get(inscription.name), 'activeTagValues', 'tags-command']]  
                   .filter(w => w[0] != undefined && w[0] != "");
 
   tagsToAdd.forEach( tagData => {
@@ -905,6 +906,7 @@ function hasTag(tag, inscription) {
       (contexts.has(inscription.name) && contexts.get(inscription.name).includes(tag)) ||
       inscription.support.includes(tag) ||
       inscription.wordTags.flat(2).includes(tag) ||
+      inscription.name.substr(0, 2) == tag ||
       inscription.scribe == tag
       );
 }
@@ -1036,6 +1038,32 @@ function toggleTag(event, tag) {
   applySearchTerms();
 }
 
+function showMap(event) {
+  var findspots = document.getElementById('findspots');
+  var isVisible = findspots.style.visibility == "visible";
+  if (isVisible) {
+    findspots.style.visibility = 'hidden';
+    Array.prototype.map.call(document.getElementsByClassName("pin"), x => x.style.visibility = "hidden");
+    return;
+  }
+  console.log(activeFindspots);
+  activeFindspots.forEach( spot => {
+    var pin = document.getElementById("pin-" + spot);
+    pin.style.visibility = "visible";
+  });
+
+  var search = document.getElementById("search");
+  search.style.visibility = "hidden";
+  document.getElementById("search-command").style.backgroundColor = "black";
+
+  var container = document.getElementById("filter-details-container");
+  container.innerHTML = "";
+
+  var container = document.getElementById("findspots");
+  container.style.visibility = "visible";
+}
+
+
 function showMetadata(event, metadata, activeMetadata, activeMetadataName) {
   metadata = metadata.filter(function(item, pos, self) {
         return self.indexOf(item) == pos;
@@ -1044,6 +1072,10 @@ function showMetadata(event, metadata, activeMetadata, activeMetadataName) {
   var search = document.getElementById("search");
   search.style.visibility = "hidden";
   document.getElementById("search-command").style.backgroundColor = "black";
+
+  var findspots = document.getElementById("findspots");
+  findspots.style.visibility = "hidden";
+  Array.prototype.map.call(findspots.getElementsByClassName("pin"), x => x.style.visibility = "hidden");
 
   var container = document.getElementById("filter-details-container");
   container.innerHTML = "";
@@ -1077,6 +1109,13 @@ function toggleMetadatum(event, datum, activeMetadata, commandElementID) {
       tagColors[datum] = cycleColor(); 
     }
   }
+
+  if (commandElementID == "findspots-command") {
+    var pin = document.getElementById("pin-" + datum);
+    console.log(pin.style.visibility);
+    pin.style.visibility = pin.style.visibility == "hidden" ? "visible" : "hidden";
+  }
+
   var element = document.getElementById(commandElementID);
   element.style.backgroundColor = activeMetadata.length ? "purple" : "black";
   toggleTag(event, datum);
@@ -1089,6 +1128,7 @@ var activeScribes = [];
 var activeContexts = [];
 var activeWordTags = [];
 var activeTagValues = [];
+var activeFindspots = [];
 // Load inscriptions as they come into view
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {

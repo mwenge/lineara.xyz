@@ -479,7 +479,21 @@ dt, dd, font {
 .filter-command-container:hover .filter-label {
   visibility: visible;
 }
-#filter-details-container, #search-container {
+#findspots {
+  z-index: 2000;
+  position: relative;
+}
+.pin {
+  position: absolute;
+  font-family: 'Noto Emoji', sans-serif;
+  color: rgb(51, 0, 17);
+}
+#crete-map {
+  border-radius: 10px;
+  box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
+}
+
+#filter-details-container, #search-container, #findspots {
   position: fixed;
   left: 50%; /* horizontally centre */
   transform: translateX(-50%); /* horizontally centre */
@@ -489,6 +503,9 @@ dt, dd, font {
 #filter-details-container {
   background-color: rgba(0,0,0,0.1);
   border-radius: 3px;
+}
+area {
+  cursor: pointer;
 }
 .filter-tag {
   cursor: pointer;
