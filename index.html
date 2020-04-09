@@ -1322,32 +1322,60 @@ redirect_from:
   <img src="images/Crete.jpg" id="crete-map" alt="" usemap="#map" />
   <map name="map">
     <area shape="rect" coords="491, 116, 509, 130" alt="ZA" title="Zakros" 
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'ZA', activeFindspots, 'findspots-command')" />
     <area shape="rect" coords="494, 104, 510, 119" alt="PK" title="Palaikastro"  
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'PK', activeFindspots, 'findspots-command')" />
     <area shape="rect" coords="466, 101, 485, 121" alt="PE" title="Petras"  
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'PE', activeFindspots, 'findspots-command')" />
     <area shape="rect" coords="383, 132, 401, 148" alt="SY" title="Syme" 
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'SY', activeFindspots, 'findspots-command')"  />
     <area shape="rect" coords="371, 110, 387, 125" alt="PS" title="Pseira" 
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'PS', activeFindspots, 'findspots-command')"  />
     <area shape="rect" coords="349, 87, 367, 103" alt="MA"  title="Malia" 
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'MA', activeFindspots, 'findspots-command')"  />
     <area shape="rect" coords="328, 105, 351, 125" alt="AR" title="AR" 
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'AR', activeFindspots, 'findspots-command')"  />
     <area shape="rect" coords="306, 93, 320, 109" alt="IO" title="Iouktas" 
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'IO', activeFindspots, 'findspots-command')"  />
     <area shape="rect" coords="286, 76, 305, 93" alt="KN" title="Knossos" 
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'KN', activeFindspots, 'findspots-command')"  />
     <area shape="rect" coords="271, 93, 286, 109" alt="TY" title="Tylissos"  
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'TY', activeFindspots, 'findspots-command')" />
     <area shape="rect" coords="247, 139, 268, 160" alt="PH" title="Phaistos"  
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'PH', activeFindspots, 'findspots-command')" />
     <area shape="rect" coords="228, 136, 245, 152" alt="HT" title="Hagia Tragida"  
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'HT', activeFindspots, 'findspots-command')" />
     <area shape="rect" coords="215, 111, 237, 127" alt="AP" title="Apodoulou"  
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'AP', activeFindspots, 'findspots-command')" />
     <area shape="rect" coords="82, 39, 104, 67" alt="KH" title="Kharnia" 
+        onmouseenter="showPin(event);"
+        onmouseleave="hidePin(event);"
         onclick="toggleMetadatum(event, 'KH', activeFindspots, 'findspots-command')" />
   </map>
   <div class="pin" id="pin-ZA" style="left: 501px; top: 101px; visibility: hidden;">&#x1f4cd;</div>
@@ -1360,7 +1388,7 @@ redirect_from:
   <div class="pin" id="pin-IO" style="left: 316px; top: 75px; visibility: hidden;">&#x1f4cd;</div>
   <div class="pin" id="pin-KN" style="left: 296px; top: 60px; visibility: hidden;">&#x1f4cd;</div>
   <div class="pin" id="pin-TY" style="left: 281px; top: 80px; visibility: hidden;">&#x1f4cd;</div>
-  <div class="pin" id="pin-PH" style="left: 257px; top: 114px; visibility: hidden;">&#x1f4cd;</div>
+  <div class="pin" id="pin-PH" style="left: 257px; top: 125px; visibility: hidden;">&#x1f4cd;</div>
   <div class="pin" id="pin-HT" style="left: 238px; top: 121px; visibility: hidden;">&#x1f4cd;</div>
   <div class="pin" id="pin-AP" style="left: 225px; top: 95px; visibility: hidden;">&#x1f4cd;</div>
   <div class="pin" id="pin-KH" style="left: 92px; top: 25px; visibility: hidden;">&#x1f4cd;</div>
@@ -1395,7 +1423,7 @@ redirect_from:
       <div class="filter-label">Frequency</div>
     </div>
     <div class="filter-command-container">
-      <div class="filter-command" id="findspots-command" onclick="showMap(event)">&#x1f310;</div>
+      <div class="filter-command" id="findspots-command" onclick="showMap(event)">&#x1f4cd;</div>
       <div class="filter-label">Findspots</div>
     </div>
     <div class="filter-command-container">

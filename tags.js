@@ -663,14 +663,17 @@ var periodNames = new Map([
 ]);
 var contexts = new Map();
 for (var context of contextValues) {
-  if (contexts.has(context[0])) {
-    contexts.get(context[0]).push(periodNames.get(context[1]));
-    continue;
+  for (var suffix of ["", "a", "b"]) {
+    var key = context[0] + suffix;
+    if (contexts.has(key)) {
+      contexts.get(key).push(periodNames.get(context[1]));
+      continue;
+    }
+    if (!periodNames.has(context[1])) {
+      console.log(key);
+    }
+    contexts.set(key, [periodNames.get(context[1])]);
   }
-	if (!periodNames.has(context[1])) {
-		console.log(context[0]);
-	}
-  contexts.set(context[0], [periodNames.get(context[1])]);
 }
 
 var supports = [];

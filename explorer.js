@@ -1038,6 +1038,20 @@ function toggleTag(event, tag) {
   applySearchTerms();
 }
 
+function showPin(event) {
+  var spot = event.target.alt;
+  document.getElementById("pin-" + spot).style.visibility = 'visible';
+}
+
+function hidePin(event) {
+  var spot = event.target.alt;
+  if (activeFindspots.includes(spot)) {
+    event.target.style.visibility = 'visible';
+    return;
+  }
+  document.getElementById("pin-" + spot).style.visibility = 'hidden';
+}
+
 function showMap(event) {
   var findspots = document.getElementById('findspots');
   var isVisible = findspots.style.visibility == "visible";
@@ -1046,7 +1060,6 @@ function showMap(event) {
     Array.prototype.map.call(document.getElementsByClassName("pin"), x => x.style.visibility = "hidden");
     return;
   }
-  console.log(activeFindspots);
   activeFindspots.forEach( spot => {
     var pin = document.getElementById("pin-" + spot);
     pin.style.visibility = "visible";
@@ -1111,9 +1124,8 @@ function toggleMetadatum(event, datum, activeMetadata, commandElementID) {
   }
 
   if (commandElementID == "findspots-command") {
-    var pin = document.getElementById("pin-" + datum);
-    console.log(pin.style.visibility);
-    pin.style.visibility = pin.style.visibility == "hidden" ? "visible" : "hidden";
+      var pin = document.getElementById("pin-" + datum);
+      pin.style.visibility = activeFindspots.includes(datum) ? "visible" : "hidden";
   }
 
   var element = document.getElementById(commandElementID);
