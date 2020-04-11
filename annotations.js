@@ -9663,7 +9663,7 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "73",
+                "transliteratedWord": "75",
                 "word": "𐄖𐄋"
             },
             {
@@ -22766,7 +22766,7 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "72",
+                "transliteratedWord": "74",
                 "word": "𐄖𐄊"
             },
             {
@@ -30402,6 +30402,19 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1218",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
         "name": "HTWa1219",
         "tagsForWords": [
             {
@@ -30442,6 +30455,19 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1222",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1223",
         "tagsForWords": [
             {
                 "tags": [
@@ -30545,6 +30571,19 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1231",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
         "name": "HTWa1232",
         "tagsForWords": [
             {
@@ -30584,7 +30623,33 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1235",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
         "name": "HTWa1236",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1237",
         "tagsForWords": [
             {
                 "tags": [
@@ -30611,6 +30676,19 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1239",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1240",
         "tagsForWords": [
             {
                 "tags": [
@@ -30740,6 +30818,19 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1250",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
         "name": "HTWa1251",
         "tagsForWords": [
             {
@@ -30766,6 +30857,19 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1253",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
         "name": "HTWa1254",
         "tagsForWords": [
             {
@@ -30779,7 +30883,33 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1255",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
         "name": "HTWa1256",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1257",
         "tagsForWords": [
             {
                 "tags": [
@@ -30870,7 +31000,33 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1264",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
         "name": "HTWa1265",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1266",
         "tagsForWords": [
             {
                 "tags": [
@@ -31023,6 +31179,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1277",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "TA",
+                "word": "𐘳"
+            }
+        ]
+    },
+    {
         "name": "HTWa1278",
         "tagsForWords": [
             {
@@ -31097,6 +31267,16 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1285",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
         "name": "HTWa1286",
         "tagsForWords": [
             {
@@ -31157,6 +31337,16 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1292",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
         "name": "HTWa1293",
         "tagsForWords": [
             {
@@ -31207,6 +31397,16 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1298",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
         "name": "HTWa1299",
         "tagsForWords": [
             {
@@ -31238,6 +31438,16 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1302",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1303",
         "tagsForWords": [
             {
                 "tags": [],
@@ -31328,6 +31538,16 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1312",
+        "tagsForWords": [
+            {
+                "tags": [],
+                "transliteratedWord": "ZE",
+                "word": "𐘼"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1313",
         "tagsForWords": [
             {
                 "tags": [],
@@ -31613,6 +31833,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1336",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
         "name": "HTWa1337",
         "tagsForWords": [
             {
@@ -31796,6 +32030,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1350",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1351",
         "tagsForWords": [
             {
                 "tags": [
@@ -32005,6 +32253,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1366",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
         "name": "HTWa1367",
         "tagsForWords": [
             {
@@ -32048,6 +32310,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1370",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1371",
         "tagsForWords": [
             {
                 "tags": [
@@ -32146,6 +32422,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1378",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1379",
         "tagsForWords": [
             {
                 "tags": [
@@ -32383,6 +32673,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1396",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
         "name": "HTWa1397",
         "tagsForWords": [
             {
@@ -32398,6 +32702,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1398",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1399",
         "tagsForWords": [
             {
                 "tags": [
@@ -32481,6 +32799,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1405",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
         "name": "HTWa1406",
         "tagsForWords": [
             {
@@ -32538,6 +32870,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1410",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1411",
         "tagsForWords": [
             {
                 "tags": [
@@ -32621,6 +32967,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1417",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
         "name": "HTWa1418",
         "tagsForWords": [
             {
@@ -32636,6 +32996,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1419",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1420",
         "tagsForWords": [
             {
                 "tags": [
@@ -32706,6 +33080,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1425",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1426",
         "tagsForWords": [
             {
                 "tags": [
@@ -32915,6 +33303,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1441",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
         "name": "HTWa1442",
         "tagsForWords": [
             {
@@ -32957,6 +33359,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1445",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
         "name": "HTWa1446",
         "tagsForWords": [
             {
@@ -32986,6 +33402,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1448",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1449",
         "tagsForWords": [
             {
                 "tags": [
@@ -33069,6 +33499,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1455",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
         "name": "HTWa1456",
         "tagsForWords": [
             {
@@ -33097,6 +33541,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1458",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
         "name": "HTWa1459",
         "tagsForWords": [
             {
@@ -33112,6 +33570,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1460",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1461",
         "tagsForWords": [
             {
                 "tags": [
@@ -33210,6 +33682,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1468",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1469",
         "tagsForWords": [
             {
                 "tags": [
@@ -33345,7 +33831,31 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1480",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
         "name": "HTWa1481",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1482",
         "tagsForWords": [
             {
                 "tags": [
@@ -33418,6 +33928,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1488",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1489",
         "tagsForWords": [
             {
                 "tags": [
@@ -33669,6 +34191,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1510",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
         "name": "HTWa1511",
         "tagsForWords": [
             {
@@ -33730,6 +34264,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1516",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1517",
         "tagsForWords": [
             {
                 "tags": [
@@ -33849,6 +34395,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1527",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
         "name": "HTWa1528",
         "tagsForWords": [
             {
@@ -33957,7 +34515,31 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1537",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
         "name": "HTWa1538",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1539",
         "tagsForWords": [
             {
                 "tags": [
@@ -34018,6 +34600,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1544",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1545",
         "tagsForWords": [
             {
                 "tags": [
@@ -34137,6 +34731,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1555",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
         "name": "HTWa1556",
         "tagsForWords": [
             {
@@ -34234,6 +34840,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1564",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1565",
         "tagsForWords": [
             {
                 "tags": [
@@ -34353,6 +34971,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1575",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
         "name": "HTWa1576",
         "tagsForWords": [
             {
@@ -34377,7 +35007,31 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1578",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
         "name": "HTWa1579",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1580",
         "tagsForWords": [
             {
                 "tags": [
@@ -34437,6 +35091,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1585",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
         "name": "HTWa1586",
         "tagsForWords": [
             {
@@ -34474,6 +35140,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1589",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1590",
         "tagsForWords": [
             {
                 "tags": [
@@ -34533,6 +35211,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1595",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
         "name": "HTWa1596",
         "tagsForWords": [
             {
@@ -34558,6 +35248,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1598",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1599",
         "tagsForWords": [
             {
                 "tags": [
@@ -34606,6 +35308,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1603",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1604",
         "tagsForWords": [
             {
                 "tags": [
@@ -34785,6 +35499,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1620",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            }
+        ]
+    },
+    {
         "name": "HTWa1621",
         "tagsForWords": [
             {
@@ -34881,6 +35607,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1629",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1630",
         "tagsForWords": [
             {
@@ -34917,6 +35655,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1633",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1634",
         "tagsForWords": [
             {
@@ -34942,6 +35692,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1636",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1637",
         "tagsForWords": [
             {
                 "tags": [
@@ -34990,6 +35752,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1641",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1642",
         "tagsForWords": [
             {
                 "tags": [
@@ -35073,7 +35847,31 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1649",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1650",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1651",
         "tagsForWords": [
             {
                 "tags": [
@@ -35145,6 +35943,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1657",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1658",
         "tagsForWords": [
             {
@@ -35169,7 +35979,31 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1660",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1661",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1662",
         "tagsForWords": [
             {
                 "tags": [
@@ -35217,6 +36051,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1667",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1668",
         "tagsForWords": [
             {
@@ -35230,6 +36076,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1669",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1670",
         "tagsForWords": [
             {
                 "tags": [
@@ -35290,6 +36148,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1675",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1676",
         "tagsForWords": [
             {
                 "tags": [
@@ -35409,6 +36279,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1686",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1687",
         "tagsForWords": [
             {
@@ -35434,6 +36316,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1689",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1690",
         "tagsForWords": [
             {
                 "tags": [
@@ -35481,7 +36375,31 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1694",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1695",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1696",
         "tagsForWords": [
             {
                 "tags": [
@@ -35613,6 +36531,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1707",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1708",
         "tagsForWords": [
             {
@@ -35733,6 +36663,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1718",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1719",
         "tagsForWords": [
             {
@@ -35745,7 +36687,31 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1720",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1721",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1722",
         "tagsForWords": [
             {
                 "tags": [
@@ -35949,6 +36915,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1739",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1740",
         "tagsForWords": [
             {
@@ -36045,6 +37023,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1748",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1749",
         "tagsForWords": [
             {
@@ -36094,6 +37084,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1753",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1754",
         "tagsForWords": [
             {
                 "tags": [
@@ -36166,6 +37168,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1760",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1761",
         "tagsForWords": [
             {
                 "tags": [
@@ -36261,6 +37275,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1769",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1770",
         "tagsForWords": [
             {
@@ -36297,6 +37323,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1773",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1774",
         "tagsForWords": [
             {
@@ -36321,7 +37359,31 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1776",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1777",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1778",
         "tagsForWords": [
             {
                 "tags": [
@@ -36357,6 +37419,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1781",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1782",
         "tagsForWords": [
             {
@@ -36370,6 +37444,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1783",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1784",
         "tagsForWords": [
             {
                 "tags": [
@@ -36418,6 +37504,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1788",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1789",
         "tagsForWords": [
             {
                 "tags": [
@@ -36501,7 +37599,31 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1796",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1797",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1798",
         "tagsForWords": [
             {
                 "tags": [
@@ -36573,6 +37695,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1804",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1805",
         "tagsForWords": [
             {
@@ -36621,6 +37755,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1809",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1810",
         "tagsForWords": [
             {
@@ -36634,6 +37780,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1811",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1812",
         "tagsForWords": [
             {
                 "tags": [
@@ -36705,6 +37863,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1818",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1819",
         "tagsForWords": [
             {
@@ -36717,7 +37887,31 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1820",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1821",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1822",
         "tagsForWords": [
             {
                 "tags": [
@@ -36742,6 +37936,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1824",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1825",
         "tagsForWords": [
             {
                 "tags": [
@@ -36789,6 +37995,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1829",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1830",
         "tagsForWords": [
             {
@@ -36802,6 +38020,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1831",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1832",
         "tagsForWords": [
             {
                 "tags": [
@@ -36885,6 +38115,18 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "HTWa1839",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
         "name": "HTWa1840",
         "tagsForWords": [
             {
@@ -36898,6 +38140,18 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1841",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "transaction sign"
+                ],
+                "transliteratedWord": "*301",
+                "word": "𐙕"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1842",
         "tagsForWords": [
             {
                 "tags": [
@@ -37070,6 +38324,20 @@ var wordAnnotations =
     },
     {
         "name": "HTWa1857",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            }
+        ]
+    },
+    {
+        "name": "HTWa1858",
         "tagsForWords": [
             {
                 "tags": [
@@ -52065,33 +53333,13 @@ var wordAnnotations =
             },
             {
                 "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "𐝉",
+                "word": "𐝉"
             },
             {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "word separator"
-                ],
-                "transliteratedWord": "𐝫𐄁𐝫𐝉",
-                "word": "𐝫𐄁𐝫𐝉"
             },
             {
                 "tags": [
@@ -52100,6 +53348,13 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐝫𐘱"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [
@@ -52114,6 +53369,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "1",
                 "word": "𐄇"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -52131,6 +53391,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "≈ ¹⁄₆",
                 "word": "𐝅"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -56097,42 +57362,29 @@ var wordAnnotations =
         "name": "PSZa2",
         "tagsForWords": [
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start"
+                    "lacuna at start",
+                    "head word"
                 ],
                 "transliteratedWord": "RE-I-KE",
                 "word": "𐝫𐘙𐘚𐘥"
             },
             {
                 "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [],
                 "transliteratedWord": "TA-NA-I-*301-TI",
                 "word": "𐘳𐘅𐘚𐙕𐘠"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [
@@ -56143,10 +57395,24 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [
                     "head word"
                 ],
                 "transliteratedWord": "JA-SA-SA-RA-ME",
                 "word": "𐘱𐘞𐘞𐘴𐘋"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             }
         ]
     },
