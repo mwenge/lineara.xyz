@@ -20465,6 +20465,28 @@ var inscriptions = new Map([
         "𐘤"
     ]
 }],
+["HTWa1218",{
+    "facsimileImages": [
+        "images/HTWa1218-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1218-Inscription.jpg"
+    ],
+    "name": "HTWa1218",
+    "parsedInscription": "𐘤",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
 ["HTWa1219",{
     "facsimileImages": [
         "images/HTWa1219-Facsimile.jpg"
@@ -20541,6 +20563,28 @@ var inscriptions = new Map([
     "name": "HTWa1222",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
+["HTWa1223",{
+    "facsimileImages": [
+        "images/HTWa1223-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1223-Inscription.jpg"
+    ],
+    "name": "HTWa1223",
+    "parsedInscription": "𐘤",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -20707,6 +20751,28 @@ var inscriptions = new Map([
         "𐘤"
     ]
 }],
+["HTWa1231",{
+    "facsimileImages": [
+        "images/HTWa1231-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1231-Inscription.jpg"
+    ],
+    "name": "HTWa1231",
+    "parsedInscription": "𐘤",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
 ["HTWa1232",{
     "facsimileImages": [
         "images/HTWa1232-Facsimile.jpg"
@@ -20773,6 +20839,28 @@ var inscriptions = new Map([
         "𐘤"
     ]
 }],
+["HTWa1235",{
+    "facsimileImages": [
+        "images/HTWa1235-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1235-Inscription.jpg"
+    ],
+    "name": "HTWa1235",
+    "parsedInscription": "𐘤",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
 ["HTWa1236",{
     "facsimileImages": [
         "images/HTWa1236-Facsimile.jpg"
@@ -20781,6 +20869,28 @@ var inscriptions = new Map([
         "images/HTWa1236-Inscription.jpg"
     ],
     "name": "HTWa1236",
+    "parsedInscription": "𐘤",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
+["HTWa1237",{
+    "facsimileImages": [
+        "images/HTWa1237-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1237-Inscription.jpg"
+    ],
+    "name": "HTWa1237",
     "parsedInscription": "𐘤",
     "scribe": "",
     "support": "nodule",
@@ -20827,6 +20937,28 @@ var inscriptions = new Map([
     "name": "HTWa1239",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
+["HTWa1240",{
+    "facsimileImages": [
+        "images/HTWa1240-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1240-Inscription.jpg"
+    ],
+    "name": "HTWa1240",
+    "parsedInscription": "𐘤",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21037,6 +21169,28 @@ var inscriptions = new Map([
         "𐘤"
     ]
 }],
+["HTWa1250",{
+    "facsimileImages": [
+        "images/HTWa1250-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1250-Inscription.jpg"
+    ],
+    "name": "HTWa1250",
+    "parsedInscription": "𐘤",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
 ["HTWa1251",{
     "facsimileImages": [
         "images/HTWa1251-Facsimile.jpg"
@@ -21081,6 +21235,28 @@ var inscriptions = new Map([
         "𐘤"
     ]
 }],
+["HTWa1253",{
+    "facsimileImages": [
+        "images/HTWa1253-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1253-Inscription.jpg"
+    ],
+    "name": "HTWa1253",
+    "parsedInscription": "𐘤",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
 ["HTWa1254",{
     "facsimileImages": [
         "images/HTWa1254-Facsimile.jpg"
@@ -21103,6 +21279,28 @@ var inscriptions = new Map([
         "𐘤"
     ]
 }],
+["HTWa1255",{
+    "facsimileImages": [
+        "images/HTWa1255-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1255-Inscription.jpg"
+    ],
+    "name": "HTWa1255",
+    "parsedInscription": "𐘤",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
 ["HTWa1256",{
     "facsimileImages": [
         "images/HTWa1256-Facsimile.jpg"
@@ -21113,6 +21311,28 @@ var inscriptions = new Map([
     "name": "HTWa1256",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 70",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
+["HTWa1257",{
+    "facsimileImages": [
+        "images/HTWa1257-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1257-Inscription.jpg"
+    ],
+    "name": "HTWa1257",
+    "parsedInscription": "𐘤",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -21257,6 +21477,28 @@ var inscriptions = new Map([
         "𐘤"
     ]
 }],
+["HTWa1264",{
+    "facsimileImages": [
+        "images/HTWa1264-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1264-Inscription.jpg"
+    ],
+    "name": "HTWa1264",
+    "parsedInscription": "𐘤",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
 ["HTWa1265",{
     "facsimileImages": [
         "images/HTWa1265-Facsimile.jpg"
@@ -21265,6 +21507,28 @@ var inscriptions = new Map([
         "images/HTWa1265-Inscription.jpg"
     ],
     "name": "HTWa1265",
+    "parsedInscription": "𐘤",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "SI"
+    ],
+    "transliteratedWords": [
+        "SI"
+    ],
+    "words": [
+        "𐘤"
+    ]
+}],
+["HTWa1266",{
+    "facsimileImages": [
+        "images/HTWa1266-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1266-Inscription.jpg"
+    ],
+    "name": "HTWa1266",
     "parsedInscription": "𐘤",
     "scribe": "",
     "support": "nodule",
@@ -21499,6 +21763,28 @@ var inscriptions = new Map([
         "𐘳"
     ]
 }],
+["HTWa1277",{
+    "facsimileImages": [
+        "images/HTWa1277-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1277-Inscription.jpg"
+    ],
+    "name": "HTWa1277",
+    "parsedInscription": "𐘳",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "TA"
+    ],
+    "transliteratedWords": [
+        "TA"
+    ],
+    "words": [
+        "𐘳"
+    ]
+}],
 ["HTWa1278",{
     "facsimileImages": [
         "images/HTWa1278-Facsimile.jpg"
@@ -21653,6 +21939,28 @@ var inscriptions = new Map([
         "𐘼"
     ]
 }],
+["HTWa1285",{
+    "facsimileImages": [
+        "images/HTWa1285-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1285-Inscription.jpg"
+    ],
+    "name": "HTWa1285",
+    "parsedInscription": "𐘼",
+    "scribe": "HT Wa Scribe 76",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "ZE"
+    ],
+    "transliteratedWords": [
+        "ZE"
+    ],
+    "words": [
+        "𐘼"
+    ]
+}],
 ["HTWa1286",{
     "facsimileImages": [
         "images/HTWa1286-Facsimile.jpg"
@@ -21785,6 +22093,28 @@ var inscriptions = new Map([
         "𐘼"
     ]
 }],
+["HTWa1292",{
+    "facsimileImages": [
+        "images/HTWa1292-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1292-Inscription.jpg"
+    ],
+    "name": "HTWa1292",
+    "parsedInscription": "𐘼",
+    "scribe": "HT Wa Scribe 79",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "ZE"
+    ],
+    "transliteratedWords": [
+        "ZE"
+    ],
+    "words": [
+        "𐘼"
+    ]
+}],
 ["HTWa1293",{
     "facsimileImages": [
         "images/HTWa1293-Facsimile.jpg"
@@ -21895,6 +22225,28 @@ var inscriptions = new Map([
         "𐘼"
     ]
 }],
+["HTWa1298",{
+    "facsimileImages": [
+        "images/HTWa1298-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1298-Inscription.jpg"
+    ],
+    "name": "HTWa1298",
+    "parsedInscription": "𐘼",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "ZE"
+    ],
+    "transliteratedWords": [
+        "ZE"
+    ],
+    "words": [
+        "𐘼"
+    ]
+}],
 ["HTWa1299",{
     "facsimileImages": [
         "images/HTWa1299-Facsimile.jpg"
@@ -21971,6 +22323,28 @@ var inscriptions = new Map([
     "name": "HTWa1302",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 82",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "ZE"
+    ],
+    "transliteratedWords": [
+        "ZE"
+    ],
+    "words": [
+        "𐘼"
+    ]
+}],
+["HTWa1303",{
+    "facsimileImages": [
+        "images/HTWa1303-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1303-Inscription.jpg"
+    ],
+    "name": "HTWa1303",
+    "parsedInscription": "𐘼",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -22169,6 +22543,28 @@ var inscriptions = new Map([
     "name": "HTWa1312",
     "parsedInscription": "𐘼",
     "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "ZE"
+    ],
+    "transliteratedWords": [
+        "ZE"
+    ],
+    "words": [
+        "𐘼"
+    ]
+}],
+["HTWa1313",{
+    "facsimileImages": [
+        "images/HTWa1313-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1313-Inscription.jpg"
+    ],
+    "name": "HTWa1313",
+    "parsedInscription": "𐘼",
+    "scribe": "HT Wa Scribe 77",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -22665,6 +23061,28 @@ var inscriptions = new Map([
         "𐘾"
     ]
 }],
+["HTWa1336",{
+    "facsimileImages": [
+        "images/HTWa1336-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1336-Inscription.jpg"
+    ],
+    "name": "HTWa1336",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
 ["HTWa1337",{
     "facsimileImages": [
         "images/HTWa1337-Facsimile.jpg"
@@ -22959,6 +23377,28 @@ var inscriptions = new Map([
         "images/HTWa1350-Inscription.jpg"
     ],
     "name": "HTWa1350",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
+["HTWa1351",{
+    "facsimileImages": [
+        "images/HTWa1351-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1351-Inscription.jpg"
+    ],
+    "name": "HTWa1351",
     "parsedInscription": "𐘾",
     "scribe": "",
     "support": "nodule",
@@ -23281,6 +23721,28 @@ var inscriptions = new Map([
         "𐘾"
     ]
 }],
+["HTWa1366",{
+    "facsimileImages": [
+        "images/HTWa1366-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1366-Inscription.jpg"
+    ],
+    "name": "HTWa1366",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
 ["HTWa1367",{
     "facsimileImages": [
         "images/HTWa1367-Facsimile.jpg"
@@ -23355,6 +23817,28 @@ var inscriptions = new Map([
         "images/HTWa1370-Inscription.jpg"
     ],
     "name": "HTWa1370",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
+["HTWa1371",{
+    "facsimileImages": [
+        "images/HTWa1371-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1371-Inscription.jpg"
+    ],
+    "name": "HTWa1371",
     "parsedInscription": "𐘾",
     "scribe": "",
     "support": "nodule",
@@ -23509,6 +23993,28 @@ var inscriptions = new Map([
         "images/HTWa1378-Inscription.jpg"
     ],
     "name": "HTWa1378",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
+["HTWa1379",{
+    "facsimileImages": [
+        "images/HTWa1379-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1379-Inscription.jpg"
+    ],
+    "name": "HTWa1379",
     "parsedInscription": "𐘾",
     "scribe": "",
     "support": "nodule",
@@ -23875,6 +24381,28 @@ var inscriptions = new Map([
         "𐘾"
     ]
 }],
+["HTWa1396",{
+    "facsimileImages": [
+        "images/HTWa1396-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1396-Inscription.jpg"
+    ],
+    "name": "HTWa1396",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
 ["HTWa1397",{
     "facsimileImages": [
         "images/HTWa1397-Facsimile.jpg"
@@ -23905,6 +24433,28 @@ var inscriptions = new Map([
         "images/HTWa1398-Inscription.jpg"
     ],
     "name": "HTWa1398",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
+["HTWa1399",{
+    "facsimileImages": [
+        "images/HTWa1399-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1399-Inscription.jpg"
+    ],
+    "name": "HTWa1399",
     "parsedInscription": "𐘾",
     "scribe": "",
     "support": "nodule",
@@ -24029,6 +24579,28 @@ var inscriptions = new Map([
         "𐘾"
     ]
 }],
+["HTWa1405",{
+    "facsimileImages": [
+        "images/HTWa1405-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1405-Inscription.jpg"
+    ],
+    "name": "HTWa1405",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
 ["HTWa1406",{
     "facsimileImages": [
         "images/HTWa1406-Facsimile.jpg"
@@ -24125,6 +24697,28 @@ var inscriptions = new Map([
         "images/HTWa1410-Inscription.jpg"
     ],
     "name": "HTWa1410",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
+["HTWa1411",{
+    "facsimileImages": [
+        "images/HTWa1411-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1411-Inscription.jpg"
+    ],
+    "name": "HTWa1411",
     "parsedInscription": "𐘾",
     "scribe": "",
     "support": "nodule",
@@ -24249,6 +24843,28 @@ var inscriptions = new Map([
         "𐘾"
     ]
 }],
+["HTWa1417",{
+    "facsimileImages": [
+        "images/HTWa1417-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1417-Inscription.jpg"
+    ],
+    "name": "HTWa1417",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
 ["HTWa1418",{
     "facsimileImages": [
         "images/HTWa1418-Facsimile.jpg"
@@ -24279,6 +24895,28 @@ var inscriptions = new Map([
         "images/HTWa1419-Inscription.jpg"
     ],
     "name": "HTWa1419",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
+["HTWa1420",{
+    "facsimileImages": [
+        "images/HTWa1420-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1420-Inscription.jpg"
+    ],
+    "name": "HTWa1420",
     "parsedInscription": "𐘾",
     "scribe": "",
     "support": "nodule",
@@ -24389,6 +25027,28 @@ var inscriptions = new Map([
         "images/HTWa1425-Inscription.jpg"
     ],
     "name": "HTWa1425",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
+["HTWa1426",{
+    "facsimileImages": [
+        "images/HTWa1426-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1426-Inscription.jpg"
+    ],
+    "name": "HTWa1426",
     "parsedInscription": "𐘾",
     "scribe": "",
     "support": "nodule",
@@ -24711,6 +25371,28 @@ var inscriptions = new Map([
         "𐘾"
     ]
 }],
+["HTWa1441",{
+    "facsimileImages": [
+        "images/HTWa1441-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1441-Inscription.jpg"
+    ],
+    "name": "HTWa1441",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
 ["HTWa1442",{
     "facsimileImages": [
         "images/HTWa1442-Facsimile.jpg"
@@ -24777,6 +25459,28 @@ var inscriptions = new Map([
         "𐘾"
     ]
 }],
+["HTWa1445",{
+    "facsimileImages": [
+        "images/HTWa1445-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1445-Inscription.jpg"
+    ],
+    "name": "HTWa1445",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
 ["HTWa1446",{
     "facsimileImages": [
         "images/HTWa1446-Facsimile.jpg"
@@ -24829,6 +25533,28 @@ var inscriptions = new Map([
         "images/HTWa1448-Inscription.jpg"
     ],
     "name": "HTWa1448",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
+["HTWa1449",{
+    "facsimileImages": [
+        "images/HTWa1449-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1449-Inscription.jpg"
+    ],
+    "name": "HTWa1449",
     "parsedInscription": "𐘾",
     "scribe": "",
     "support": "nodule",
@@ -24953,6 +25679,28 @@ var inscriptions = new Map([
         "𐘾"
     ]
 }],
+["HTWa1455",{
+    "facsimileImages": [
+        "images/HTWa1455-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1455-Inscription.jpg"
+    ],
+    "name": "HTWa1455",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
 ["HTWa1456",{
     "facsimileImages": [
         "images/HTWa1456-Facsimile.jpg"
@@ -24997,6 +25745,28 @@ var inscriptions = new Map([
         "𐘾"
     ]
 }],
+["HTWa1458",{
+    "facsimileImages": [
+        "images/HTWa1458-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1458-Inscription.jpg"
+    ],
+    "name": "HTWa1458",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
 ["HTWa1459",{
     "facsimileImages": [
         "images/HTWa1459-Facsimile.jpg"
@@ -25027,6 +25797,28 @@ var inscriptions = new Map([
         "images/HTWa1460-Inscription.jpg"
     ],
     "name": "HTWa1460",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
+["HTWa1461",{
+    "facsimileImages": [
+        "images/HTWa1461-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1461-Inscription.jpg"
+    ],
+    "name": "HTWa1461",
     "parsedInscription": "𐘾",
     "scribe": "",
     "support": "nodule",
@@ -25181,6 +25973,28 @@ var inscriptions = new Map([
         "images/HTWa1468-Inscription.jpg"
     ],
     "name": "HTWa1468",
+    "parsedInscription": "𐘾",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KA"
+    ],
+    "transliteratedWords": [
+        "KA"
+    ],
+    "words": [
+        "𐘾"
+    ]
+}],
+["HTWa1469",{
+    "facsimileImages": [
+        "images/HTWa1469-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1469-Inscription.jpg"
+    ],
+    "name": "HTWa1469",
     "parsedInscription": "𐘾",
     "scribe": "",
     "support": "nodule",
@@ -25415,6 +26229,28 @@ var inscriptions = new Map([
         "𐙂"
     ]
 }],
+["HTWa1480",{
+    "facsimileImages": [
+        "images/HTWa1480-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1480-Inscription.jpg"
+    ],
+    "name": "HTWa1480",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
 ["HTWa1481",{
     "facsimileImages": [
         "images/HTWa1481-Facsimile.jpg"
@@ -25425,6 +26261,28 @@ var inscriptions = new Map([
     "name": "HTWa1481",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
+["HTWa1482",{
+    "facsimileImages": [
+        "images/HTWa1482-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1482-Inscription.jpg"
+    ],
+    "name": "HTWa1482",
+    "parsedInscription": "𐙂",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -25555,6 +26413,28 @@ var inscriptions = new Map([
         "images/HTWa1488-Inscription.jpg"
     ],
     "name": "HTWa1488",
+    "parsedInscription": "𐙂",
+    "scribe": "HT Wa Scribe 84",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
+["HTWa1489",{
+    "facsimileImages": [
+        "images/HTWa1489-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1489-Inscription.jpg"
+    ],
+    "name": "HTWa1489",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
@@ -26009,6 +26889,28 @@ var inscriptions = new Map([
         "𐙂"
     ]
 }],
+["HTWa1510",{
+    "facsimileImages": [
+        "images/HTWa1510-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1510-Inscription.jpg"
+    ],
+    "name": "HTWa1510",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
 ["HTWa1511",{
     "facsimileImages": [
         "images/HTWa1511-Facsimile.jpg"
@@ -26127,6 +27029,28 @@ var inscriptions = new Map([
         "images/HTWa1516-Inscription.jpg"
     ],
     "name": "HTWa1516",
+    "parsedInscription": "𐙂",
+    "scribe": "HT Wa Scribe 87",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
+["HTWa1517",{
+    "facsimileImages": [
+        "images/HTWa1517-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1517-Inscription.jpg"
+    ],
+    "name": "HTWa1517",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
@@ -26339,6 +27263,28 @@ var inscriptions = new Map([
         "𐙂"
     ]
 }],
+["HTWa1527",{
+    "facsimileImages": [
+        "images/HTWa1527-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1527-Inscription.jpg"
+    ],
+    "name": "HTWa1527",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
 ["HTWa1528",{
     "facsimileImages": [
         "images/HTWa1528-Facsimile.jpg"
@@ -26537,6 +27483,28 @@ var inscriptions = new Map([
         "𐙂"
     ]
 }],
+["HTWa1537",{
+    "facsimileImages": [
+        "images/HTWa1537-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1537-Inscription.jpg"
+    ],
+    "name": "HTWa1537",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
 ["HTWa1538",{
     "facsimileImages": [
         "images/HTWa1538-Facsimile.jpg"
@@ -26545,6 +27513,28 @@ var inscriptions = new Map([
         "images/HTWa1538-Inscription.jpg"
     ],
     "name": "HTWa1538",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
+["HTWa1539",{
+    "facsimileImages": [
+        "images/HTWa1539-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1539-Inscription.jpg"
+    ],
+    "name": "HTWa1539",
     "parsedInscription": "𐙂",
     "scribe": "",
     "support": "nodule",
@@ -26657,6 +27647,28 @@ var inscriptions = new Map([
     "name": "HTWa1544",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
+["HTWa1545",{
+    "facsimileImages": [
+        "images/HTWa1545-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1545-Inscription.jpg"
+    ],
+    "name": "HTWa1545",
+    "parsedInscription": "𐙂",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -26867,6 +27879,28 @@ var inscriptions = new Map([
         "𐙂"
     ]
 }],
+["HTWa1555",{
+    "facsimileImages": [
+        "images/HTWa1555-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1555-Inscription.jpg"
+    ],
+    "name": "HTWa1555",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
 ["HTWa1556",{
     "facsimileImages": [
         "images/HTWa1556-Facsimile.jpg"
@@ -27053,6 +28087,28 @@ var inscriptions = new Map([
     "name": "HTWa1564",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
+["HTWa1565",{
+    "facsimileImages": [
+        "images/HTWa1565-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1565-Inscription.jpg"
+    ],
+    "name": "HTWa1565",
+    "parsedInscription": "𐙂",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27263,6 +28319,28 @@ var inscriptions = new Map([
         "𐙂"
     ]
 }],
+["HTWa1575",{
+    "facsimileImages": [
+        "images/HTWa1575-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1575-Inscription.jpg"
+    ],
+    "name": "HTWa1575",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
 ["HTWa1576",{
     "facsimileImages": [
         "images/HTWa1576-Facsimile.jpg"
@@ -27307,6 +28385,28 @@ var inscriptions = new Map([
         "𐙂"
     ]
 }],
+["HTWa1578",{
+    "facsimileImages": [
+        "images/HTWa1578-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1578-Inscription.jpg"
+    ],
+    "name": "HTWa1578",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
 ["HTWa1579",{
     "facsimileImages": [
         "images/HTWa1579-Facsimile.jpg"
@@ -27317,6 +28417,28 @@ var inscriptions = new Map([
     "name": "HTWa1579",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 91",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
+["HTWa1580",{
+    "facsimileImages": [
+        "images/HTWa1580-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1580-Inscription.jpg"
+    ],
+    "name": "HTWa1580",
+    "parsedInscription": "𐙂",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -27403,6 +28525,28 @@ var inscriptions = new Map([
         "images/HTWa1584-Inscription.jpg"
     ],
     "name": "HTWa1584",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
+["HTWa1585",{
+    "facsimileImages": [
+        "images/HTWa1585-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1585-Inscription.jpg"
+    ],
+    "name": "HTWa1585",
     "parsedInscription": "𐙂",
     "scribe": "",
     "support": "nodule",
@@ -27505,6 +28649,28 @@ var inscriptions = new Map([
         "𐙂"
     ]
 }],
+["HTWa1590",{
+    "facsimileImages": [
+        "images/HTWa1590-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1590-Inscription.jpg"
+    ],
+    "name": "HTWa1590",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
 ["HTWa1591",{
     "facsimileImages": [
         "images/HTWa1591-Facsimile.jpg"
@@ -27593,6 +28759,28 @@ var inscriptions = new Map([
         "𐙂"
     ]
 }],
+["HTWa1595",{
+    "facsimileImages": [
+        "images/HTWa1595-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1595-Inscription.jpg"
+    ],
+    "name": "HTWa1595",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
 ["HTWa1596",{
     "facsimileImages": [
         "images/HTWa1596-Facsimile.jpg"
@@ -27645,6 +28833,28 @@ var inscriptions = new Map([
         "images/HTWa1598-Inscription.jpg"
     ],
     "name": "HTWa1598",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
+["HTWa1599",{
+    "facsimileImages": [
+        "images/HTWa1599-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1599-Inscription.jpg"
+    ],
+    "name": "HTWa1599",
     "parsedInscription": "𐙂",
     "scribe": "",
     "support": "nodule",
@@ -27735,6 +28945,28 @@ var inscriptions = new Map([
     "name": "HTWa1603",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
+["HTWa1604",{
+    "facsimileImages": [
+        "images/HTWa1604-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1604-Inscription.jpg"
+    ],
+    "name": "HTWa1604",
+    "parsedInscription": "𐙂",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28055,6 +29287,26 @@ var inscriptions = new Map([
         "𐙂"
     ]
 }],
+["HTWa1620",{
+    "facsimileImages": [],
+    "images": [
+        "images/HTWa1620-Inscription.jpg"
+    ],
+    "name": "HTWa1620",
+    "parsedInscription": "𐙂",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "KU"
+    ],
+    "transliteratedWords": [
+        "KU"
+    ],
+    "words": [
+        "𐙂"
+    ]
+}],
 ["HTWa1621",{
     "facsimileImages": [
         "images/HTWa1621-Facsimile.jpg"
@@ -28231,6 +29483,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1629",{
+    "facsimileImages": [
+        "images/HTWa1629-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1629-Inscription.jpg"
+    ],
+    "name": "HTWa1629",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1630",{
     "facsimileImages": [
         "images/HTWa1630-Facsimile.jpg"
@@ -28297,6 +29571,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1633",{
+    "facsimileImages": [
+        "images/HTWa1633-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1633-Inscription.jpg"
+    ],
+    "name": "HTWa1633",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1634",{
     "facsimileImages": [
         "images/HTWa1634-Facsimile.jpg"
@@ -28351,6 +29647,28 @@ var inscriptions = new Map([
     "name": "HTWa1636",
     "parsedInscription": "𐙕",
     "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1637",{
+    "facsimileImages": [
+        "images/HTWa1637-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1637-Inscription.jpg"
+    ],
+    "name": "HTWa1637",
+    "parsedInscription": "𐙕",
+    "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28437,6 +29755,28 @@ var inscriptions = new Map([
         "images/HTWa1641-Inscription.jpg"
     ],
     "name": "HTWa1641",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1642",{
+    "facsimileImages": [
+        "images/HTWa1642-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1642-Inscription.jpg"
+    ],
+    "name": "HTWa1642",
     "parsedInscription": "𐙕",
     "scribe": "",
     "support": "nodule",
@@ -28583,6 +29923,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1649",{
+    "facsimileImages": [
+        "images/HTWa1649-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1649-Inscription.jpg"
+    ],
+    "name": "HTWa1649",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1650",{
     "facsimileImages": [
         "images/HTWa1650-Facsimile.jpg"
@@ -28593,6 +29955,28 @@ var inscriptions = new Map([
     "name": "HTWa1650",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1651",{
+    "facsimileImages": [
+        "images/HTWa1651-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1651-Inscription.jpg"
+    ],
+    "name": "HTWa1651",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -28715,6 +30099,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1657",{
+    "facsimileImages": [
+        "images/HTWa1657-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1657-Inscription.jpg"
+    ],
+    "name": "HTWa1657",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1658",{
     "facsimileImages": [
         "images/HTWa1658-Facsimile.jpg"
@@ -28759,6 +30165,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1660",{
+    "facsimileImages": [
+        "images/HTWa1660-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1660-Inscription.jpg"
+    ],
+    "name": "HTWa1660",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1661",{
     "facsimileImages": [
         "images/HTWa1661-Facsimile.jpg"
@@ -28767,6 +30195,28 @@ var inscriptions = new Map([
         "images/HTWa1661-Inscription.jpg"
     ],
     "name": "HTWa1661",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1662",{
+    "facsimileImages": [
+        "images/HTWa1662-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1662-Inscription.jpg"
+    ],
+    "name": "HTWa1662",
     "parsedInscription": "𐙕",
     "scribe": "",
     "support": "nodule",
@@ -28847,6 +30297,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1667",{
+    "facsimileImages": [
+        "images/HTWa1667-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1667-Inscription.jpg"
+    ],
+    "name": "HTWa1667",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1668",{
     "facsimileImages": [
         "images/HTWa1668-Facsimile.jpg"
@@ -28877,6 +30349,28 @@ var inscriptions = new Map([
         "images/HTWa1669-Inscription.jpg"
     ],
     "name": "HTWa1669",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1670",{
+    "facsimileImages": [
+        "images/HTWa1670-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1670-Inscription.jpg"
+    ],
+    "name": "HTWa1670",
     "parsedInscription": "𐙕",
     "scribe": "",
     "support": "nodule",
@@ -28989,6 +30483,28 @@ var inscriptions = new Map([
     "name": "HTWa1675",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1676",{
+    "facsimileImages": [
+        "images/HTWa1676-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1676-Inscription.jpg"
+    ],
+    "name": "HTWa1676",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29199,6 +30715,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1686",{
+    "facsimileImages": [
+        "images/HTWa1686-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1686-Inscription.jpg"
+    ],
+    "name": "HTWa1686",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1687",{
     "facsimileImages": [
         "images/HTWa1687-Facsimile.jpg"
@@ -29251,6 +30789,28 @@ var inscriptions = new Map([
         "images/HTWa1689-Inscription.jpg"
     ],
     "name": "HTWa1689",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1690",{
+    "facsimileImages": [
+        "images/HTWa1690-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1690-Inscription.jpg"
+    ],
+    "name": "HTWa1690",
     "parsedInscription": "𐙕",
     "scribe": "",
     "support": "nodule",
@@ -29331,6 +30891,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1694",{
+    "facsimileImages": [
+        "images/HTWa1694-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1694-Inscription.jpg"
+    ],
+    "name": "HTWa1694",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1695",{
     "facsimileImages": [
         "images/HTWa1695-Facsimile.jpg"
@@ -29341,6 +30923,28 @@ var inscriptions = new Map([
     "name": "HTWa1695",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1696",{
+    "facsimileImages": [
+        "images/HTWa1696-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1696-Inscription.jpg"
+    ],
+    "name": "HTWa1696",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -29573,6 +31177,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1707",{
+    "facsimileImages": [
+        "images/HTWa1707-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1707-Inscription.jpg"
+    ],
+    "name": "HTWa1707",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1708",{
     "facsimileImages": [
         "images/HTWa1708-Facsimile.jpg"
@@ -29793,6 +31419,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1718",{
+    "facsimileImages": [
+        "images/HTWa1718-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1718-Inscription.jpg"
+    ],
+    "name": "HTWa1718",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1719",{
     "facsimileImages": [
         "images/HTWa1719-Facsimile.jpg"
@@ -29801,6 +31449,28 @@ var inscriptions = new Map([
         "images/HTWa1719-Inscription.jpg"
     ],
     "name": "HTWa1719",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1720",{
+    "facsimileImages": [
+        "images/HTWa1720-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1720-Inscription.jpg"
+    ],
+    "name": "HTWa1720",
     "parsedInscription": "𐙕",
     "scribe": "",
     "support": "nodule",
@@ -29825,6 +31495,28 @@ var inscriptions = new Map([
     "name": "HTWa1721",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1722",{
+    "facsimileImages": [
+        "images/HTWa1722-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1722-Inscription.jpg"
+    ],
+    "name": "HTWa1722",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30189,6 +31881,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1739",{
+    "facsimileImages": [
+        "images/HTWa1739-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1739-Inscription.jpg"
+    ],
+    "name": "HTWa1739",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1740",{
     "facsimileImages": [
         "images/HTWa1740-Facsimile.jpg"
@@ -30365,6 +32079,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1748",{
+    "facsimileImages": [
+        "images/HTWa1748-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1748-Inscription.jpg"
+    ],
+    "name": "HTWa1748",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1749",{
     "facsimileImages": [
         "images/HTWa1749-Facsimile.jpg"
@@ -30463,6 +32199,28 @@ var inscriptions = new Map([
     "name": "HTWa1753",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1754",{
+    "facsimileImages": [
+        "images/HTWa1754-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1754-Inscription.jpg"
+    ],
+    "name": "HTWa1754",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30595,6 +32353,28 @@ var inscriptions = new Map([
     "name": "HTWa1760",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1761",{
+    "facsimileImages": [
+        "images/HTWa1761-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1761-Inscription.jpg"
+    ],
+    "name": "HTWa1761",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -30761,6 +32541,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1769",{
+    "facsimileImages": [
+        "images/HTWa1769-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1769-Inscription.jpg"
+    ],
+    "name": "HTWa1769",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1770",{
     "facsimileImages": [
         "images/HTWa1770-Facsimile.jpg"
@@ -30827,6 +32629,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1773",{
+    "facsimileImages": [
+        "images/HTWa1773-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1773-Inscription.jpg"
+    ],
+    "name": "HTWa1773",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1774",{
     "facsimileImages": [
         "images/HTWa1774-Facsimile.jpg"
@@ -30871,6 +32695,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1776",{
+    "facsimileImages": [
+        "images/HTWa1776-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1776-Inscription.jpg"
+    ],
+    "name": "HTWa1776",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1777",{
     "facsimileImages": [
         "images/HTWa1777-Facsimile.jpg"
@@ -30879,6 +32725,28 @@ var inscriptions = new Map([
         "images/HTWa1777-Inscription.jpg"
     ],
     "name": "HTWa1777",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1778",{
+    "facsimileImages": [
+        "images/HTWa1778-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1778-Inscription.jpg"
+    ],
+    "name": "HTWa1778",
     "parsedInscription": "𐙕",
     "scribe": "",
     "support": "nodule",
@@ -30937,6 +32805,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1781",{
+    "facsimileImages": [
+        "images/HTWa1781-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1781-Inscription.jpg"
+    ],
+    "name": "HTWa1781",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1782",{
     "facsimileImages": [
         "images/HTWa1782-Facsimile.jpg"
@@ -30969,6 +32859,28 @@ var inscriptions = new Map([
     "name": "HTWa1783",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1784",{
+    "facsimileImages": [
+        "images/HTWa1784-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1784-Inscription.jpg"
+    ],
+    "name": "HTWa1784",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31057,6 +32969,28 @@ var inscriptions = new Map([
     "name": "HTWa1788",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1789",{
+    "facsimileImages": [
+        "images/HTWa1789-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1789-Inscription.jpg"
+    ],
+    "name": "HTWa1789",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31201,6 +33135,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1796",{
+    "facsimileImages": [
+        "images/HTWa1796-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1796-Inscription.jpg"
+    ],
+    "name": "HTWa1796",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1797",{
     "facsimileImages": [
         "images/HTWa1797-Facsimile.jpg"
@@ -31211,6 +33167,28 @@ var inscriptions = new Map([
     "name": "HTWa1797",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1798",{
+    "facsimileImages": [
+        "images/HTWa1798-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1798-Inscription.jpg"
+    ],
+    "name": "HTWa1798",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31333,6 +33311,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1804",{
+    "facsimileImages": [
+        "images/HTWa1804-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1804-Inscription.jpg"
+    ],
+    "name": "HTWa1804",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1805",{
     "facsimileImages": [
         "images/HTWa1805-Facsimile.jpg"
@@ -31421,6 +33421,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1809",{
+    "facsimileImages": [
+        "images/HTWa1809-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1809-Inscription.jpg"
+    ],
+    "name": "HTWa1809",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1810",{
     "facsimileImages": [
         "images/HTWa1810-Facsimile.jpg"
@@ -31453,6 +33475,28 @@ var inscriptions = new Map([
     "name": "HTWa1811",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1812",{
+    "facsimileImages": [
+        "images/HTWa1812-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1812-Inscription.jpg"
+    ],
+    "name": "HTWa1812",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -31575,6 +33619,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1818",{
+    "facsimileImages": [
+        "images/HTWa1818-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1818-Inscription.jpg"
+    ],
+    "name": "HTWa1818",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1819",{
     "facsimileImages": [
         "images/HTWa1819-Facsimile.jpg"
@@ -31597,6 +33663,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1820",{
+    "facsimileImages": [
+        "images/HTWa1820-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1820-Inscription.jpg"
+    ],
+    "name": "HTWa1820",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1821",{
     "facsimileImages": [
         "images/HTWa1821-Facsimile.jpg"
@@ -31605,6 +33693,28 @@ var inscriptions = new Map([
         "images/HTWa1821-Inscription.jpg"
     ],
     "name": "HTWa1821",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1822",{
+    "facsimileImages": [
+        "images/HTWa1822-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1822-Inscription.jpg"
+    ],
+    "name": "HTWa1822",
     "parsedInscription": "𐙕",
     "scribe": "",
     "support": "nodule",
@@ -31649,6 +33759,28 @@ var inscriptions = new Map([
         "images/HTWa1824-Inscription.jpg"
     ],
     "name": "HTWa1824",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1825",{
+    "facsimileImages": [
+        "images/HTWa1825-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1825-Inscription.jpg"
+    ],
+    "name": "HTWa1825",
     "parsedInscription": "𐙕",
     "scribe": "",
     "support": "nodule",
@@ -31729,6 +33861,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1829",{
+    "facsimileImages": [
+        "images/HTWa1829-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1829-Inscription.jpg"
+    ],
+    "name": "HTWa1829",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1830",{
     "facsimileImages": [
         "images/HTWa1830-Facsimile.jpg"
@@ -31759,6 +33913,28 @@ var inscriptions = new Map([
         "images/HTWa1831-Inscription.jpg"
     ],
     "name": "HTWa1831",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1832",{
+    "facsimileImages": [
+        "images/HTWa1832-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1832-Inscription.jpg"
+    ],
+    "name": "HTWa1832",
     "parsedInscription": "𐙕",
     "scribe": "",
     "support": "nodule",
@@ -31905,6 +34081,28 @@ var inscriptions = new Map([
         "𐙕"
     ]
 }],
+["HTWa1839",{
+    "facsimileImages": [
+        "images/HTWa1839-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1839-Inscription.jpg"
+    ],
+    "name": "HTWa1839",
+    "parsedInscription": "𐙕",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
 ["HTWa1840",{
     "facsimileImages": [
         "images/HTWa1840-Facsimile.jpg"
@@ -31937,6 +34135,28 @@ var inscriptions = new Map([
     "name": "HTWa1841",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "*301"
+    ],
+    "transliteratedWords": [
+        "*301"
+    ],
+    "words": [
+        "𐙕"
+    ]
+}],
+["HTWa1842",{
+    "facsimileImages": [
+        "images/HTWa1842-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1842-Inscription.jpg"
+    ],
+    "name": "HTWa1842",
+    "parsedInscription": "𐙕",
+    "scribe": "",
     "support": "nodule",
     "transcription": "",
     "translatedWords": [
@@ -32261,6 +34481,28 @@ var inscriptions = new Map([
         "images/HTWa1857-Inscription.jpg"
     ],
     "name": "HTWa1857",
+    "parsedInscription": "𐝫",
+    "scribe": "",
+    "support": "nodule",
+    "transcription": "",
+    "translatedWords": [
+        "𐝫"
+    ],
+    "transliteratedWords": [
+        "𐝫"
+    ],
+    "words": [
+        "𐝫"
+    ]
+}],
+["HTWa1858",{
+    "facsimileImages": [
+        "images/HTWa1858-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTWa1858-Inscription.jpg"
+    ],
+    "name": "HTWa1858",
     "parsedInscription": "𐝫",
     "scribe": "",
     "support": "nodule",
@@ -58982,7 +61224,7 @@ var sequences = new Map([
 var wordsInCorpus = new Map([
 ["𐘿𐘽𐘉", 3],
 ["𐄁", 469],
-["", 2662],
+["", 2663],
 ["𐘸𐘁", 16],
 ["𐄖", 5],
 ["𐄔𐄈", 2],
@@ -59060,7 +61302,7 @@ var wordsInCorpus = new Map([
 ["𐙂𐘝𐘲", 5],
 ["𐄐𐄌", 8],
 ["𐘉𐙱𐘍", 3],
-["𐙕", 194],
+["𐙕", 238],
 ["𐄌", 58],
 ["𐄐𐄊", 9],
 ["𐘀𐘭𐘀", 4],
@@ -59069,7 +61311,7 @@ var wordsInCorpus = new Map([
 ["𐙇𐘚", 2],
 ["𐘷", 3],
 ["𐄓", 15],
-["𐘾", 150],
+["𐘾", 169],
 ["𐄔", 7],
 ["𐄙𐄗", 2],
 ["𐜉", 12],
@@ -59102,7 +61344,7 @@ var wordsInCorpus = new Map([
 ["𐘮", 6],
 ["𐝁", 24],
 ["𐜇", 2],
-["𐘼", 42],
+["𐘼", 47],
 ["𐄒𐄍", 2],
 ["𐘤𐘀𐘙", 2],
 ["𐘂𐘈", 2],
@@ -59139,7 +61381,7 @@ var wordsInCorpus = new Map([
 ["𐘿", 7],
 ["𐄓𐄈", 2],
 ["𐘞", 6],
-["𐘤", 106],
+["𐘤", 118],
 ["𐘇𐘤𐘱𐘾", 2],
 ["𐘱𐘐", 2],
 ["𐝉", 14],
@@ -59170,10 +61412,10 @@ var wordsInCorpus = new Map([
 ["𐙄", 3],
 ["𐘒", 5],
 ["𐙂𐘙𐘶", 2],
-["𐙂", 150],
+["𐙂", 170],
 ["𐙂𐘙", 2],
 ["𐝂𐝂", 8],
-["𐘳", 28],
+["𐘳", 29],
 ["𐛉", 3],
 ["𐘚", 39],
 ["𐛭", 18],
