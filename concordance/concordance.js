@@ -75,26 +75,6 @@ function wordIndexForLetterIndex(name, index, from) {
 }
 
 // Concordance
-function loadWords(inscription, type, container) {
-  inscription.facsimileImages.forEach( image => {
-    if (cachedImages.has(image)) {
-      if (["word", "number", "ideogram"].includes(type)) {
-        addWordImagesToConcordance(img, image, inscription, type, container)();
-      } else if (["letter"].includes(type)) {
-        addLetterImagesToConcorance(img, image, inscription, container)();
-      }
-    } else {
-      var img = new Image();
-      img.src = "../" + encodeURIComponent(image);
-      if (["word", "number", "ideogram"].includes(type)) {
-        img.addEventListener("load", addWordImagesToConcordance(img, image, inscription, type, container));
-      } else if (["letter"].includes(type)) {
-        img.addEventListener("load", addLetterImagesToConcorance(img, image, inscription, container));
-      }
-    }
-  });
-}
-
 function shouldIncludeWord(word, type, tagsForWord) {
   if (word == '—') {
     return false;
@@ -276,6 +256,33 @@ function addWordImagesToConcordance(img, image, inscription, type, container) {
   };
 }
 
+function loadWords(inscription, type, container) {
+  var imagesToLoad = [];
+  if (loadFacsimiles) {
+    imagesToLoad = imagesToLoad.concat(inscription.facsimileImages);
+  }
+  if (loadPhotos) {
+    imagesToLoad = imagesToLoad.concat(inscription.images);
+  }
+  imagesToLoad.forEach( image => {
+    if (cachedImages.has(image)) {
+      if (["word", "number", "ideogram"].includes(type)) {
+        addWordImagesToConcordance(img, image, inscription, type, container)();
+      } else if (["letter"].includes(type)) {
+        addLetterImagesToConcorance(img, image, inscription, container)();
+      }
+    } else {
+      var img = new Image();
+      img.src = "../" + encodeURIComponent(image);
+      if (["word", "number", "ideogram"].includes(type)) {
+        img.addEventListener("load", addWordImagesToConcordance(img, image, inscription, type, container));
+      } else if (["letter"].includes(type)) {
+        img.addEventListener("load", addLetterImagesToConcorance(img, image, inscription, container));
+      }
+    }
+  });
+}
+
 function loadConcordance(evt, type) {
 
   Array.prototype.map.call(document.getElementsByClassName("filters-container")[0]
@@ -288,6 +295,23 @@ function loadConcordance(evt, type) {
     loadWords(inscription, type, container);
   }
 }
+
+var loadPhotos = false;
+var loadFacsimiles = true;
+var togglePhotos = function(e) {
+    if (loadPhotos && !loadFacsimiles) {
+      return;
+    }
+    loadPhotos = !loadPhotos;
+    e.target.style.backgroundColor = e.target.style.backgroundColor == "black" ? "purple" : "black"; 
+};
+var toggleFacsimiles = function(e) {
+    if (loadFacsimiles && !loadPhotos) {
+      return;
+    }
+    loadFacsimiles = !loadFacsimiles;
+    e.target.style.backgroundColor = e.target.style.backgroundColor == "black" ? "purple" : "black"; 
+};
 
 function initializeConcordance() {
   loadInscriptionLevelTags();

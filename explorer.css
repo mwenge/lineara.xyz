@@ -444,7 +444,7 @@ dt, dd, font {
 .filters-container {
   white-space: nowrap;
 }
-.filter-command {
+.filter-command, .display-command {
   cursor: pointer;
   background-color: black;
   color: white;
