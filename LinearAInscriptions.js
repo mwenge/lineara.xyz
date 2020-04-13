@@ -41799,18 +41799,6 @@ var inscriptions = new Map([
     "transliteratedWords": [],
     "words": []
 }],
-["KH102",{
-    "facsimileImages": [],
-    "images": [],
-    "name": "KH102",
-    "parsedInscription": "",
-    "scribe": "",
-    "support": "tablet",
-    "transcription": "",
-    "translatedWords": [],
-    "transliteratedWords": [],
-    "words": []
-}],
 ["KHWa1001",{
     "facsimileImages": [
         "images/KHWa1001g-Facsimile.jpg"
@@ -57173,7 +57161,79 @@ var inscriptions = new Map([
         "RE-*86"
     ],
     "words": [
-        "𐘙𐙅𐝫"
+        "𐘙𐙅"
+    ]
+}],
+["KH102",{
+    "facsimileImages": [
+        "images/KH102-Facsimile.jpg"
+    ],
+    "images": [
+        "images/KH102-Inscription.jpg"
+    ],
+    "name": "KH102",
+    "parsedInscription": "𐝫𐘇𐘻𐝫",
+    "scribe": "",
+    "support": "tablet",
+    "transcription": "𐝫𐘇𐘻𐝫",
+    "translatedWords": [
+        "A-MI"
+    ],
+    "transliteratedWords": [
+        "A-MI"
+    ],
+    "words": [
+        "𐘇𐘻"
+    ]
+}],
+["PKZa27",{
+    "facsimileImages": [
+        "images/PKZa27-Facsimile.jpg"
+    ],
+    "images": [
+        "images/PKZa27-Inscription.jpg"
+    ],
+    "name": "PKZa27",
+    "parsedInscription": "𐘱𐘞𐘞𐘴𐘋\n𐘉𐘅𐘾𐘅𐘤",
+    "scribe": "",
+    "support": "stone vessel",
+    "transcription": "𐘱𐘞𐘞𐘴𐘋\n𐘉𐘅𐘾𐘅𐘤",
+    "translatedWords": [
+        "this dedication",
+        "\n",
+        "requesting"
+    ],
+    "transliteratedWords": [
+        "JA-SA-SA-RA-ME",
+        "\n",
+        "U-NA-KA-NA-SI"
+    ],
+    "words": [
+        "𐘱𐘞𐘞𐘴𐘋",
+        "\n",
+        "𐘉𐘅𐘾𐘅𐘤"
+    ]
+}],
+["HTZf(HM767)",{
+    "facsimileImages": [
+        "images/HTZf(HM767)-Facsimile.jpg"
+    ],
+    "images": [
+        "images/HTZf(HM767)-Inscription.jpg"
+    ],
+    "name": "HTZf(HM767)",
+    "parsedInscription": "𐘠𐙁",
+    "scribe": "",
+    "support": "metal object",
+    "transcription": "𐘠𐙁",
+    "translatedWords": [
+        "TI-MA"
+    ],
+    "transliteratedWords": [
+        "TI-MA"
+    ],
+    "words": [
+        "𐘠𐙁"
     ]
 }],
 ["PH54",{
@@ -61315,7 +61375,7 @@ var sequences = new Map([
 var wordsInCorpus = new Map([
 ["𐘿𐘽𐘉", 3],
 ["𐄁", 469],
-["", 2664],
+["", 2665],
 ["𐘸𐘁", 16],
 ["𐄖", 5],
 ["𐄔𐄈", 2],
@@ -61629,8 +61689,8 @@ var wordsInCorpus = new Map([
 ["𐘮𐘆𐘝", 2],
 ["𐙀𐘆𐘴", 2],
 ["𐘇𐘳𐘚𐙕𐘮𐘱", 11],
-["𐘱𐘞𐘞𐘴𐘋", 6],
-["𐘉𐘅𐘾𐘅𐘤", 3],
+["𐘱𐘞𐘞𐘴𐘋", 7],
+["𐘉𐘅𐘾𐘅𐘤", 4],
 ["𐘚𐘢𐘅𐙁", 6],
 ["𐘤𐘘𐘃", 7],
 ["𐘱𐘞", 4],
@@ -61693,6 +61753,7 @@ var wordsInCorpus = new Map([
 ["𐝆𐝆", 2],
 ["𐝈𐝈", 2],
 ["𐝃𐝃", 3],
+["𐘇𐘻", 2],
 ["𐚾", 2],
 ["𐙄𐘤𐘙", 2],
 ["𐘔", 3],
