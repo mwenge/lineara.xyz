@@ -57110,6 +57110,72 @@ var inscriptions = new Map([
         "𐄑,𐄈"
     ]
 }],
+["MILZb2",{
+    "facsimileImages": [
+        "images/MILZb2-Facsimile.jpg"
+    ],
+    "images": [
+        "images/MILZb2-Inscription.jpg"
+    ],
+    "name": "MILZb2",
+    "parsedInscription": "𐘰𐘜𐝫",
+    "scribe": "",
+    "support": "clay vessel",
+    "transcription": "𐘰𐘜𐝫",
+    "translatedWords": [
+        "PA3-PU2"
+    ],
+    "transliteratedWords": [
+        "PA3-PU2"
+    ],
+    "words": [
+        "𐘰𐘜"
+    ]
+}],
+["MILZb3",{
+    "facsimileImages": [
+        "images/MILZb3-Facsimile.jpg"
+    ],
+    "images": [
+        "images/MILZb3-Inscription.jpg"
+    ],
+    "name": "MILZb3",
+    "parsedInscription": "𐝫𐘤𐘃𐝫",
+    "scribe": "",
+    "support": "clay vessel",
+    "transcription": "𐝫𐘤𐘃𐝫",
+    "translatedWords": [
+        "SI-TE"
+    ],
+    "transliteratedWords": [
+        "SI-TE"
+    ],
+    "words": [
+        "𐘤𐘃"
+    ]
+}],
+["MILZb4",{
+    "facsimileImages": [
+        "images/MILZb4-Facsimile.jpg"
+    ],
+    "images": [
+        "images/MILZb4-Inscription.jpg"
+    ],
+    "name": "MILZb4",
+    "parsedInscription": "𐝫𐘙𐙅𐝫",
+    "scribe": "",
+    "support": "clay vessel",
+    "transcription": "𐝫𐘙𐙅𐝫",
+    "translatedWords": [
+        "RE-*86"
+    ],
+    "transliteratedWords": [
+        "RE-*86"
+    ],
+    "words": [
+        "𐘙𐙅𐝫"
+    ]
+}],
 ["PH54",{
     "facsimileImages": [
         "images/PH54-Facsimile.jpg"
@@ -57123,18 +57189,15 @@ var inscriptions = new Map([
     "support": "tablet",
     "transcription": "𐘚𐘞𐘭𐘥𐝫\n𐝫",
     "translatedWords": [
-        "𐘚𐘞𐘭𐘥",
-        "\n",
+        "I-SA-RI-KE",
         "\n"
     ],
     "transliteratedWords": [
-        "𐘚𐘞𐘭𐘥",
-        "\n",
+        "I-SA-RI-KE",
         "\n"
     ],
     "words": [
         "𐘚𐘞𐘭𐘥",
-        "\n",
         "\n"
     ]
 }],
@@ -61252,7 +61315,7 @@ var sequences = new Map([
 var wordsInCorpus = new Map([
 ["𐘿𐘽𐘉", 3],
 ["𐄁", 469],
-["", 2665],
+["", 2664],
 ["𐘸𐘁", 16],
 ["𐄖", 5],
 ["𐄔𐄈", 2],
@@ -61653,6 +61716,7 @@ var wordsInCorpus = new Map([
 ["𐘬𐘙𐘍𐘈", 3],
 ["𐙎", 4],
 ["𐙂𐘴", 2],
+["𐘤𐘃", 2],
 ["𐘇𐘠𐘾𐘇𐘬𐘺𐘻", 2],
 ["𐄒𐄈", 2],
 ["𐘌", 2],
