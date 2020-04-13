@@ -57110,6 +57110,34 @@ var inscriptions = new Map([
         "𐄑,𐄈"
     ]
 }],
+["PH54",{
+    "facsimileImages": [
+        "images/PH54-Facsimile.jpg"
+    ],
+    "images": [
+        "images/PH54-Inscription.jpg"
+    ],
+    "name": "PH54",
+    "parsedInscription": "𐘚𐘞𐘭𐘥𐝫\n𐝫",
+    "scribe": "",
+    "support": "tablet",
+    "transcription": "𐘚𐘞𐘭𐘥𐝫\n𐝫",
+    "translatedWords": [
+        "𐘚𐘞𐘭𐘥",
+        "\n",
+        "\n"
+    ],
+    "transliteratedWords": [
+        "𐘚𐘞𐘭𐘥",
+        "\n",
+        "\n"
+    ],
+    "words": [
+        "𐘚𐘞𐘭𐘥",
+        "\n",
+        "\n"
+    ]
+}],
 ]);
 var lexicon = new Map([
 ["𐘇𐙁𐘱", "Greek ἄρμα?"],
@@ -61224,7 +61252,7 @@ var sequences = new Map([
 var wordsInCorpus = new Map([
 ["𐘿𐘽𐘉", 3],
 ["𐄁", 469],
-["", 2663],
+["", 2665],
 ["𐘸𐘁", 16],
 ["𐄖", 5],
 ["𐄔𐄈", 2],
