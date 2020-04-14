@@ -415,7 +415,7 @@ function makeZoomItem(item) {
   };
 }
 
-function addImageToItem(item, imageToAdd, name, imageType) {
+function addImageToItem(item, imageToAdd, inscription, imageType) {
   var itemShell = document.createElement("div");
   itemShell.className = 'item-shell';
   item.appendChild(itemShell);
@@ -426,15 +426,23 @@ function addImageToItem(item, imageToAdd, name, imageType) {
 
   var label = document.createElement("div");
   label.className = 'label';
-  label.textContent = name;
+  label.textContent = inscription.name;
   itemZoom.appendChild(label);
 
   var inscriptionImage = document.createElement("div");
   inscriptionImage.className = 'item';
   var imageWrapper = document.createElement("div");
   imageWrapper.setAttribute("class", "img-wrapper");
-  imageWrapper.id = "image-wrapper-" + imageType + "-" + name;
+  imageWrapper.id = "image-wrapper-" + imageType + "-" + inscription.name;
   inscriptionImage.appendChild(imageWrapper);
+
+  if (inscription.imageRights) {
+    var copyright = document.createElement("div");
+    copyright.setAttribute("class", "imagerights-label");
+    copyright.textContent = inscription.imageRights;
+    copyright.setAttribute("onclick", "window.open('" + inscription.imageRightsURL + "'); event.stopPropagation();");
+    itemShell.appendChild(copyright);
+  }
 
   var lens = document.createElement("div");
   lens.setAttribute("class", "img-zoom-lens");
@@ -442,16 +450,16 @@ function addImageToItem(item, imageToAdd, name, imageType) {
 
   var img = document.createElement("img");
   img.src = encodeURIComponent(imageToAdd);
-  img.id = "image-" + imageType + "-" + name;
+  img.id = "image-" + imageType + "-" + inscription.name;
   img.height = "200";
   img.addEventListener("error", makeGiveUpOnImages([inscriptionImage, itemZoom]));
-  img.addEventListener("load", addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, itemZoom, item));
+  img.addEventListener("load", addWordsToImage(imageToAdd, inscription.name, imageType, img, imageWrapper, lens, itemZoom, item));
   imageWrapper.appendChild(img);
   itemShell.appendChild(inscriptionImage);
 
   itemZoom.style.backgroundImage = "url('" + img.src + "')";
-  lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, name));
-  img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, name));
+  lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, inscription.name));
+  img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, inscription.name));
   itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
 }
 
@@ -611,10 +619,10 @@ function loadInscription(inscription) {
   item.addEventListener("dblclick", makeZoomItem(item));
 
   inscription.images.forEach( image => {
-    addImageToItem(item, image, inscription.name, "photo")
+    addImageToItem(item, image, inscription, "photo")
   });
   inscription.facsimileImages.forEach( image => {
-    addImageToItem(item, image, inscription.name, "transcription")
+    addImageToItem(item, image, inscription, "transcription")
   });
 
 

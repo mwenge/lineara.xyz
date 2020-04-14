@@ -242,6 +242,13 @@ input:focus::placeholder { color:transparent; }
   border-bottom-right-radius: 10px;
   font-size: 14px;
 }
+.imagerights-label {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-size: 8px;
+  z-index: 99;
+}
 .concordance-container-label {
   font-size: 16px;
 }
@@ -267,7 +274,7 @@ input:focus::placeholder { color:transparent; }
   background-color: gray;
   display: inline;
 }
-.search-term, .tag:hover, .item > span, .zoomed-close-window {
+.search-term, .tag:hover, .item > span, .zoomed-close-window, .imagerights-label:hover {
   cursor: pointer;
 }
 .image-label {
