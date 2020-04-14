@@ -665,24 +665,25 @@ function loadInscription(inscription) {
   item.appendChild(tagContainer);
   inscription.tagContainer = tagContainer;
 
-  var tagsToAdd = [[inscription.support, 'activeSupports', 'supports-command'], [inscription.scribe, 'activeScribes', 'scribes-command'],
-                   [contexts.get(inscription.name), 'activeContexts', 'contexts-command'],
+  var tagsToAdd = [[[inscription.support], 'activeSupports', 'supports-command'], [[inscription.scribe], 'activeScribes', 'scribes-command'],
+                   [[contexts.get(inscription.name)], 'activeContexts', 'contexts-command'],
                    [tags.get(inscription.name), 'activeTagValues', 'tags-command']]  
                   .filter(w => w[0] != undefined && w[0] != "");
 
   tagsToAdd.forEach( tagData => {
-    var tag = tagData[0];
-    var activeMetadataName = tagData[1];
-    var command = tagData[2];
-    var label = document.createElement("div");
-    label.className = 'tag';
-    if (!tagColors[tag]) {
-      tagColors[tag] = cycleColor(); 
-    }
-    label.style.backgroundColor = tagColors[tag];
-    label.textContent = tag;
-    label.setAttribute("onclick", "toggleMetadatum(event, '" + tag + "', " + activeMetadataName + ", '" + command + "')");
-    inscription.tagContainer.appendChild(label);
+    tagData[0].forEach( tag => {
+      var activeMetadataName = tagData[1];
+      var command = tagData[2];
+      var label = document.createElement("div");
+      label.className = 'tag';
+      if (!tagColors[tag]) {
+        tagColors[tag] = cycleColor(); 
+      }
+      label.style.backgroundColor = tagColors[tag];
+      label.textContent = tag;
+      label.setAttribute("onclick", "toggleMetadatum(event, '" + tag + "', " + activeMetadataName + ", '" + command + "')");
+      inscription.tagContainer.appendChild(label);
+    });
   });
 
 
