@@ -335,7 +335,7 @@ function updateSearch(event) {
   updateSearchTerms(event, searchTerm);
 }
 
-function makeMoveLens(lens, img, result, imageToAdd, name, cx, cy) {
+function makeMoveLens(lens, img, result, imageToAdd, name) {
   return function(e) {
     result.style.display = "flex";
     lens.style.display = "block";
@@ -436,13 +436,13 @@ function addImageToItem(item, imageToAdd, inscription, imageType) {
   imageWrapper.id = "image-wrapper-" + imageType + "-" + inscription.name;
   inscriptionImage.appendChild(imageWrapper);
 
+  var copyright = document.createElement("div");
+  copyright.setAttribute("class", "imagerights-label");
+  copyright.textContent = inscription.imageRights;
   if (inscription.imageRights) {
-    var copyright = document.createElement("div");
-    copyright.setAttribute("class", "imagerights-label");
-    copyright.textContent = inscription.imageRights;
     copyright.setAttribute("onclick", "window.open('" + inscription.imageRightsURL + "'); event.stopPropagation();");
-    itemShell.appendChild(copyright);
   }
+  itemShell.appendChild(copyright);
 
   var lens = document.createElement("div");
   lens.setAttribute("class", "img-zoom-lens");
@@ -458,9 +458,14 @@ function addImageToItem(item, imageToAdd, inscription, imageType) {
   itemShell.appendChild(inscriptionImage);
 
   itemZoom.style.backgroundImage = "url('" + img.src + "')";
-  lens.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, inscription.name));
   img.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, inscription.name));
-  itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom]));
+  itemShell.addEventListener("mousemove", showCopyright(copyright));
+  itemShell.addEventListener("mouseout", makeHideElements([lens, itemZoom, copyright]));
+  function showCopyright() {
+    return function (e) {
+      copyright.style.display = "block";
+    };
+  }
 }
 
 function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, itemZoom, item) {
@@ -913,7 +918,7 @@ function hasTag(tag, inscription) {
       (tags.has(inscription.name) && tags.get(inscription.name).includes(tag)) ||
       (contexts.has(inscription.name) && contexts.get(inscription.name).includes(tag)) ||
       inscription.support.includes(tag) ||
-      inscription.wordTags.flat(2).includes(tag) ||
+      (inscription.wordTags && inscription.wordTags.flat(2).includes(tag)) ||
       inscription.name.substr(0, 2) == tag ||
       inscription.scribe == tag
       );

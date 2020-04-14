@@ -244,10 +244,13 @@ input:focus::placeholder { color:transparent; }
 }
 .imagerights-label {
   position: absolute;
-  bottom: 0;
+  top: 0;
   right: 0;
   font-size: 8px;
   z-index: 99;
+  font-family: 'Noto Mono', serif;
+  writing-mode: tb-rl;
+  display: none;
 }
 .concordance-container-label {
   font-size: 16px;
@@ -274,7 +277,7 @@ input:focus::placeholder { color:transparent; }
   background-color: gray;
   display: inline;
 }
-.search-term, .tag:hover, .item > span, .zoomed-close-window, .imagerights-label:hover {
+.search-term, .tag:hover, .item > span, .zoomed-close-window .imagerights-label:hover {
   cursor: pointer;
 }
 .image-label {

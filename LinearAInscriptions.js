@@ -1524,8 +1524,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT12-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HT12-Inscription.jpg"
     ],
@@ -11955,8 +11955,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT113ter-Facsimile.jpg"
     ],
-    "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRights": "",
+    "imageRightsURL": "",
     "images": [
         "images/HT113ter-Inscription.jpg"
     ],
@@ -15007,8 +15007,8 @@ var inscriptions = new Map([
         "images/HT136a-Facsimile.jpg",
         "images/HT136b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HT136a-Inscription.jpg",
         "images/HT136b-Inscription.jpg"
@@ -36858,8 +36858,8 @@ var inscriptions = new Map([
         "images/HTWc3004a-Facsimile.jpg",
         "images/HTWc3004b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTWc3004a-Inscription.jpg",
         "images/HTWc3004b-Inscription.jpg"
@@ -36886,8 +36886,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTWc3005-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTWc3005-Inscription.jpg"
     ],
@@ -36914,8 +36914,8 @@ var inscriptions = new Map([
         "images/HTWc3006a-Facsimile.jpg",
         "images/HTWc3006b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTWc3006a-Inscription.jpg",
         "images/HTWc3006b-Inscription.jpg"
@@ -36967,8 +36967,8 @@ var inscriptions = new Map([
         "images/HTWc3008a-Facsimile.jpg",
         "images/HTWc3008b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTWc3008a-Inscription.jpg",
         "images/HTWc3008b-Inscription.jpg"
@@ -36996,8 +36996,8 @@ var inscriptions = new Map([
         "images/HTWc3009a-Facsimile.jpg",
         "images/HTWc3009b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTWc3009a-Inscription.jpg",
         "images/HTWc3009b-Inscription.jpg"
@@ -37073,8 +37073,8 @@ var inscriptions = new Map([
         "images/HTWc3012a-Facsimile.jpg",
         "images/HTWc3012b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTWc3012a-Inscription.jpg",
         "images/HTWc3012b-Inscription.jpg"
@@ -37126,8 +37126,8 @@ var inscriptions = new Map([
         "images/HTWc3014a-Facsimile.jpg",
         "images/HTWc3014b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTWc3014a-Inscription.jpg",
         "images/HTWc3014b-Inscription.jpg"
@@ -37158,8 +37158,8 @@ var inscriptions = new Map([
         "images/HTWc3015a-Facsimile.jpg",
         "images/HTWc3015b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTWc3015a-Inscription.jpg",
         "images/HTWc3015b-Inscription.jpg"
@@ -37186,8 +37186,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTWc3016-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTWc3016-Inscription.jpg"
     ],
@@ -37213,8 +37213,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTWc3017-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTWc3017-Inscription.jpg"
     ],
@@ -37476,8 +37476,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTZb158a-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTZb158a-Inscription.jpg"
     ],
@@ -37503,8 +37503,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTZb158b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTZb158b-Inscription.jpg"
     ],
@@ -37527,8 +37527,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTZb159-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTZb159-Inscription.jpg"
     ],
@@ -37551,8 +37551,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTZb160-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTZb160-Inscription.jpg"
     ],
@@ -37575,8 +37575,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTZb161-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTZb161-Inscription.jpg"
     ],
@@ -37639,8 +37639,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTZd155-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/HTZd155-Inscription.jpg"
     ],
@@ -37942,8 +37942,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/IOZa2-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/IOZa2-Inscription.jpg"
     ],
@@ -38014,8 +38014,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/IOZa3-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/IOZa3-Inscription.jpg"
     ],
@@ -38047,8 +38047,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/IOZa4-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/IOZa4-Inscription.jpg"
     ],
@@ -38071,8 +38071,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/IOZa5-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/IOZa5-Inscription.jpg"
     ],
@@ -38101,8 +38101,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/IOZa6-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/IOZa6-Inscription.jpg"
     ],
@@ -38140,8 +38140,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/IOZa7-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/IOZa7-Inscription.jpg"
     ],
@@ -38170,8 +38170,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/IOZa8-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/IOZa8-Inscription.jpg"
     ],
@@ -38194,8 +38194,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/IOZa9-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/IOZa9-Inscription.jpg"
     ],
@@ -38227,8 +38227,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/IOZb10-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/IOZb10-Inscription.jpg"
     ],
@@ -38455,8 +38455,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KAZf1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KAZf1-Inscription.jpg"
     ],
@@ -38612,8 +38612,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KEZb3-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KEZb3-Inscription.jpg"
     ],
@@ -38636,8 +38636,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KEZb4-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KEZb4-Inscription.jpg"
     ],
@@ -38663,8 +38663,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KEZb5-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KEZb5-Inscription.jpg"
     ],
@@ -43191,8 +43191,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KH79+89-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KH79+89-Inscription.jpg"
     ],
@@ -43695,8 +43695,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KH88-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KH88-Inscription.jpg"
     ],
@@ -43749,8 +43749,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KH90-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KH90-Inscription.jpg"
     ],
@@ -43800,8 +43800,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KH91-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KH91-Inscription.jpg"
     ],
@@ -45796,8 +45796,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KHWc2044-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KHWc2044-Inscription.jpg"
     ],
@@ -47002,8 +47002,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KHWc2115-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KHWc2115-Inscription.jpg"
     ],
@@ -47027,8 +47027,8 @@ var inscriptions = new Map([
         "images/KHWc2117-Facsimile.jpg",
         "images/KHWc2117a-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KHWc2117-Inscription.jpg",
         "images/KHWc2117a-Inscription.jpg"
@@ -47058,8 +47058,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KHWc2118-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KHWc2118-Inscription.jpg"
     ],
@@ -47986,8 +47986,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZa10-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZa10-Inscription.jpg"
     ],
@@ -48040,8 +48040,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZa17-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZa17-Inscription.jpg"
     ],
@@ -48067,8 +48067,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZa18-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZa18-Inscription.jpg"
     ],
@@ -48115,8 +48115,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZa19-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZa19-Inscription.jpg"
     ],
@@ -48154,8 +48154,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZb4-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZb4-Inscription.jpg"
     ],
@@ -48190,8 +48190,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZb5-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZb5-Inscription.jpg"
     ],
@@ -48217,8 +48217,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZb20-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZb20-Inscription.jpg"
     ],
@@ -48274,8 +48274,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZb34-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZb34-Inscription.jpg"
     ],
@@ -48298,8 +48298,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZb35-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZb35-Inscription.jpg"
     ],
@@ -48425,8 +48425,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZb40-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZb40-Inscription.jpg"
     ],
@@ -48515,8 +48515,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZc6-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZc6-Inscription.jpg"
     ],
@@ -48560,8 +48560,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZc7-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZc7-Inscription.jpg",
         "images/KNZc7a-Inscription.jpg",
@@ -48636,8 +48636,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZe16-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZe16-Inscription.jpg"
     ],
@@ -48752,8 +48752,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZf13-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZf13-Inscription.jpg"
     ],
@@ -48776,8 +48776,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KNZf31a-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KNZf31-Inscription.jpg"
     ],
@@ -48897,8 +48897,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KOZa1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KOZa1-Inscription.jpg"
     ],
@@ -49011,8 +49011,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/KYZg1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/KYZg1-Inscription.jpg"
     ],
@@ -49494,8 +49494,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA9a-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/MA9a-Inscription.jpg"
     ],
@@ -49518,8 +49518,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA10a-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/MA10a-Inscription.jpg"
     ],
@@ -49569,8 +49569,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA10b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/MA10b-Inscription.jpg"
     ],
@@ -49635,8 +49635,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA10c-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/MA10c-Inscription.jpg"
     ],
@@ -49677,8 +49677,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA10d-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/MA10d-Inscription.jpg"
     ],
@@ -49784,8 +49784,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MAZb8-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/MAZb8-Inscription.jpg"
     ],
@@ -49808,8 +49808,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MAZe11-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/MAZe11-Inscription.jpg"
     ],
@@ -49852,8 +49852,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MI2-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/MI2-Inscription.jpg"
     ],
@@ -49915,8 +49915,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MIZb1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/MIZb1-Inscription.jpg"
     ],
@@ -51775,8 +51775,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PH19b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PH19a-Inscription.jpg"
     ],
@@ -52863,8 +52863,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PHZb4-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PHZb4-Inscription.jpg"
     ],
@@ -52941,8 +52941,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PHZb48-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PHZb48-Inscription.jpg"
     ],
@@ -52969,8 +52969,8 @@ var inscriptions = new Map([
         "images/PK1a-Facsimile.jpg",
         "images/PK1b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PK1a-Inscription.jpg",
         "images/PK1b-Inscription.jpg"
@@ -53218,8 +53218,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa4-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa4-Inscription.jpg"
     ],
@@ -53242,8 +53242,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa8-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa8-Inscription.jpg",
         "images/PKZa8a-Inscription.jpg",
@@ -53299,8 +53299,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa9-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa9-Inscription.jpg"
     ],
@@ -53335,8 +53335,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa10-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa10-Inscription.jpg"
     ],
@@ -53371,8 +53371,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa11-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa11-Inscription.jpg"
     ],
@@ -53467,8 +53467,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa12-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa12-Inscription.jpg"
     ],
@@ -53533,8 +53533,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa14-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa14-Inscription.jpg"
     ],
@@ -53569,8 +53569,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa15-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa15-Inscription.jpg"
     ],
@@ -53593,8 +53593,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa16-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa16-Inscription.jpg"
     ],
@@ -53629,8 +53629,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa17-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa17-Inscription.jpg"
     ],
@@ -53659,8 +53659,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZa18-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZa18-Inscription.jpg"
     ],
@@ -53856,8 +53856,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PKZc13-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PKZc13-Inscription.jpg"
     ],
@@ -53900,8 +53900,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PLZf1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PLZf1-Inscription.jpg"
     ],
@@ -53996,8 +53996,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PRZa1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PRZa1-Inscription.jpg"
     ],
@@ -54032,8 +54032,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PSZa2-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PSZa2-Inscription.jpg",
         "images/PSZa2a-Inscription.jpg"
@@ -54177,8 +54177,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/PYR2-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/PYR2-Inscription.jpg"
     ],
@@ -54334,8 +54334,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/SIZg1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/SIZg1-Inscription.jpg"
     ],
@@ -54364,8 +54364,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/SKZb1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/SKZb1-Inscription.jpg"
     ],
@@ -54417,8 +54417,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/SYZa1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/SYZa1-Inscription.jpg"
     ],
@@ -54453,8 +54453,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/SYZa2-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [],
     "name": "SYZa2",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
@@ -54496,8 +54496,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/SYZa3-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/SYZa3-Inscription.jpg"
     ],
@@ -54950,8 +54950,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/THEZb1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/THEZb1-Inscription.jpg"
     ],
@@ -54974,8 +54974,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/THEZb2-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/THEZb2-Inscription.jpg"
     ],
@@ -54998,8 +54998,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/THEZb3-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/THEZb3-Inscription.jpg"
     ],
@@ -55022,8 +55022,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/THEZb4-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/THEZb4-Inscription.jpg"
     ],
@@ -55193,8 +55193,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/TLZa1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/TLZa1-Inscription.jpg"
     ],
@@ -55247,8 +55247,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/TRAZb1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/TRAZb1-Inscription.jpg"
     ],
@@ -55808,8 +55808,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/TYZb4-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/TYZb4-Inscription.jpg"
     ],
@@ -55832,8 +55832,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/TYZg1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/TYZg1-Inscription.jpg"
     ],
@@ -55856,8 +55856,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/VRYZa1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/VRYZa1-Inscription.jpg"
     ],
@@ -57300,8 +57300,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/ZA12b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/ZA12b-Inscription.jpg"
     ],
@@ -57843,8 +57843,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/ZA18b-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/ZA18b-Inscription.jpg"
     ],
@@ -58856,8 +58856,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/ZAZb3-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/ZAZb3-Inscription.jpg"
     ],
@@ -58913,8 +58913,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/ZAZb34-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/ZAZb34-Inscription.jpg"
     ],
@@ -59062,8 +59062,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/APZa1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/APZa1-Inscription.jpg"
     ],
@@ -59089,8 +59089,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/APZa2-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/APZa2-Inscription.jpg"
     ],
@@ -59146,8 +59146,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/ARZf1-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/ARZf1-Inscription.jpg",
         "images/ARZf1a-Inscription.jpg"
@@ -59171,8 +59171,8 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/ARZf2-Facsimile.jpg"
     ],
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
         "images/ARZf2-Inscription.jpg"
     ],
