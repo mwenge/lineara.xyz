@@ -16678,15 +16678,12 @@ var inscriptions = new Map([
 }],
 ["HTWa1021",{
     "facsimileImages": [
-        "images/HTWa1021-Facsimile.jpg",
-        "images/HTWa1021b-Facsimile.jpg"
+        "images/HTWa1021-Facsimile.jpg"
     ],
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
-        "images/HTWa1021-Inscription.jpg",
-        "images/HTWa1021a-Inscription.jpg",
-        "images/HTWa1021b-Inscription.jpg"
+        "images/HTWa1021-Inscription.jpg"
     ],
     "name": "HTWa1021",
     "parsedInscription": "𐙓𐘬𐄁\n𐝆𐝃\n𐛉𐛔",
