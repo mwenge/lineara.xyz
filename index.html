@@ -1269,7 +1269,9 @@ redirect_from:
       var urlPath = /\/\/(.+)\/(.+)/.exec(document.referrer);
       if (urlPath) {
         var id = urlPath[2];
-        console.log(id);
+        if (!inscriptions.has(id)) {
+          return;
+        }
         loadInscription(inscriptions.get(id))
         var inscription = document.getElementById(id);
         zoomItem(inscription);
