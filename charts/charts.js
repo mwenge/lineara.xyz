@@ -58,7 +58,7 @@ function showSearch() {
     return;
   }
 
-  var container = document.getElementById("filter-details-container");
+  var container = document.getElementById("chart-filter-details-container");
   container.style.visibility = "hidden";
 
   search.style.visibility = "visible";
@@ -195,7 +195,7 @@ function toggleTag(event, tag) {
   }
   var element = event.target;
   // Don't change the color of the tag if it is not being clicked from the menu
-  if (element.className == "filter-tag") {
+  if (element.className == "charts-filter-tag") {
     var color = element.style.backgroundColor;
     element.style.color = color == tagColors[tag] ? "white" : "black";
     element.style.backgroundColor = color == tagColors[tag] ? "black" : tagColors[tag];
@@ -237,6 +237,10 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
       var area = imageCoords[i].coords;
       var word = letters[i];
 
+      if (word == "—" || word == '') {
+        continue;
+      }
+
       item = document.getElementById(word);
       if (!item) {
         var item = document.createElement("div");
@@ -251,7 +255,7 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
         container.appendChild(item);
 
         var filterItem = document.createElement("div");
-        filterItem.className = 'filter-tag';
+        filterItem.className = 'charts-filter-tag';
         filterItem.textContent = word;
         filterItem.setAttribute("onclick", "toggleMetadatum(event, '" + word + "')");
         filterItem.style.backgroundColor = "black";
@@ -338,7 +342,7 @@ function addWordImagesToChart(img, image, inscription, type, container) {
           container.appendChild(item);
 
           var filterItem = document.createElement("div");
-          filterItem.className = 'filter-tag';
+          filterItem.className = 'charts-filter-tag';
           filterItem.textContent = word;
           filterItem.setAttribute("onclick", "toggleMetadatum(event, '" + word + "')");
           filterItem.style.backgroundColor = "black";
@@ -453,7 +457,7 @@ function initializeChart() {
   loadInscriptionLevelTags();
   loadAnnotations();
 
-  filterDetailsContainer = document.getElementById("filter-details-container");
+  filterDetailsContainer = document.getElementById("chart-filter-details-container");
 
   container.type = "letter";
   for (var inscription of inscriptions.values()) {

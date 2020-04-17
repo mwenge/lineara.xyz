@@ -256,7 +256,7 @@ input:focus::placeholder { color:transparent; }
   display: none;
 }
 .concordance-container-label {
-  font-size: 16px;
+  font-size: 1.5em;
 }
 .copyright-label {
   border-bottom-right-radius: 0px;
@@ -517,6 +517,15 @@ dt, dd, font {
   background-color: rgba(0,0,0,0.1);
   border-radius: 3px;
 }
+#chart-filter-details-container {
+  position: fixed;
+  left: 20%; /* horizontally centre */
+  transform: translateX(-10%); /* horizontally centre */
+  bottom: 5em;
+  visibility: hidden;
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 3px;
+}
 area {
   cursor: pointer;
 }
@@ -528,6 +537,21 @@ area {
   color: white;
   opacity: 0.8;
   font-size: 0.7em;
+  line-height: 0.7em;
+  background-color: black;
+  float: left;
+  margin: 5px;
+  text-transform: uppercase;
+}
+.charts-filter-tag {
+  cursor: pointer;
+  padding: 3px;
+  border: 1px solid black;
+  border-radius: 3px;
+  color: white;
+  opacity: 0.8;
+  font-size: 1em;
+  line-height: 1em;
   background-color: black;
   float: left;
   margin: 5px;
