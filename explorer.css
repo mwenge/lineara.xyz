@@ -516,6 +516,14 @@ dt, dd, font {
 #filter-details-container {
   background-color: rgba(0,0,0,0.1);
   border-radius: 3px;
+  border: 1px black solid;
+}
+.word-tag-container {
+  margin: 20px;
+  border: 1px black solid;
+  padding: 5px;
+  background-color: white;
+  border-radius: 3px;
 }
 #chart-filter-details-container {
   position: fixed;

@@ -885,12 +885,81 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
       );
 }
 
+function highlightMatchingWordTags(inscription, wordTags, wordTagStart, activeWordTagStart) {
+  if (!activeWordTags.length) {
+    return;
+  }
+  // We've matched all the active word tags
+  if (activeWordTagStart == activeWordTags.length) {
+    var i = wordTagStart - 1;
+    while (activeWordTagStart > 0) {
+      var tags = wordTags[i];
+      if (!tags.length) {
+        i--;
+        continue;
+      }
+      var translation = document.getElementById(inscription.name + "-translation-" + i);
+      var highlightColor = tagColors[activeWordTags[activeWordTagStart - 1]];
+      translation.style.backgroundColor = highlightColor;
+      var transliteration = document.getElementById(inscription.name + "-transliteration-" + i);
+      transliteration.style.backgroundColor = highlightColor;
+      var transcription = document.getElementById(inscription.name + "-transcription-" + i);
+      transcription.style.backgroundColor = highlightColor;
+      highlightedSearchElements.push(translation);
+      highlightedSearchElements.push(transliteration);
+      highlightedSearchElements.push(transcription);
+
+      var highlightedElements = setHighlightLettersInTranscription(inscription.name, i, highlightColor);
+      highlightedSearchElements = highlightedSearchElements.concat(highlightedElements);
+      i--;
+      activeWordTagStart--;
+    }
+    return;
+  }
+  if (wordTagStart == wordTags.length) {
+    return;
+  }
+
+  var tags = wordTags[wordTagStart];
+  if (!tags.length) {
+    highlightMatchingWordTags(inscription, wordTags, wordTagStart + 1, activeWordTagStart);
+    return;
+  }
+
+  var searchTag = activeWordTags[activeWordTagStart];
+  if (tags.includes(searchTag)) {
+    highlightMatchingWordTags(inscription, wordTags, wordTagStart + 1, activeWordTagStart + 1);
+  }
+  highlightMatchingWordTags(inscription, wordTags, wordTagStart + 1, 0);
+}
+
+function hasWordTagCombination(wordTags, wordTagStart, activeWordTagStart) {
+  if (!activeWordTags.length) {
+    return false;
+  }
+  // We've matched all the active word tags
+  if (activeWordTagStart == activeWordTags.length) {
+    return true;
+  }
+  if (wordTagStart == wordTags.length) {
+    return false;
+  }
+
+  var tags = wordTags[wordTagStart];
+  var searchTag = activeWordTags[activeWordTagStart];
+  if (tags.includes(searchTag)) {
+    if (hasWordTagCombination(wordTags, wordTagStart + 1, activeWordTagStart + 1)) {
+      return true;
+    }
+  }
+  return hasWordTagCombination(wordTags, wordTagStart + 1, 0);
+}
+
 function hasTag(tag, inscription) {
   return (
       (tags.has(inscription.name) && tags.get(inscription.name).includes(tag)) ||
       (contexts.has(inscription.name) && contexts.get(inscription.name).includes(tag)) ||
       inscription.support.includes(tag) ||
-      (inscription.wordTags && inscription.wordTags.flat(2).includes(tag)) ||
       inscription.name.substr(0, 2) == tag ||
       inscription.scribe == tag
       );
@@ -901,7 +970,7 @@ function applySearchTerms() {
   var numberOfSearchTerms = searchTerms.children.length;	
   var searchTermValues = Array.prototype.slice.call(searchTerms.children)
                          .map(x => stripErased(x.textContent));
-  var numberOfTags = activeTags.length;
+  var numberOfTags = activeTags.length + activeWordTags.length;
   var hasSearchTerm = (numberOfSearchTerms + numberOfTags > 0)
   clearHighlights();
 
@@ -930,6 +999,11 @@ function applySearchTerms() {
       }
     });
 
+    var shouldHighlightWordTags = hasWordTagCombination(inscription.wordTags.filter(tags => tags.length), 0, 0);
+    if (shouldHighlightWordTags) {
+      shouldDisplay = true;
+    }
+
     if (!shouldDisplay) {
       if (inscription.element) {
         inscription.element.style.display = "none";
@@ -954,25 +1028,8 @@ function applySearchTerms() {
       }
     }
 
-    for (var tag of activeWordTags) {
-      var highlightColor = tagColors[tag];
-      for (var index in inscription.wordTags) {
-        if (!inscription.wordTags[index].includes(tag)) {
-          continue;
-        }
-        var translation = document.getElementById(inscription.name + "-translation-" + index);
-        translation.style.backgroundColor = highlightColor;
-        var transliteration = document.getElementById(inscription.name + "-transliteration-" + index);
-        transliteration.style.backgroundColor = highlightColor;
-        var transcription = document.getElementById(inscription.name + "-transcription-" + index);
-        transcription.style.backgroundColor = highlightColor;
-        highlightedSearchElements.push(translation);
-        highlightedSearchElements.push(transliteration);
-        highlightedSearchElements.push(transcription);
-
-        var highlightedElements = setHighlightLettersInTranscription(inscription.name, index, highlightColor);
-        highlightedSearchElements = highlightedSearchElements.concat(highlightedElements);
-      }
+    if (shouldHighlightWordTags) {
+      highlightMatchingWordTags(inscription, inscription.wordTags, 0, 0);
     }
   }
 }
@@ -1077,6 +1134,22 @@ function showMetadata(event, metadata, activeMetadata, activeMetadataName) {
 
   var container = document.getElementById("filter-details-container");
   container.innerHTML = "";
+  if (activeMetadataName == "activeWordTags") {
+    // Create a console for adding word tags to.
+    var item = document.createElement("div");
+    item.className = 'word-tag-container';
+    item.id = 'word-tag-container';
+    container.appendChild(item);
+    for (var i = 0; i < activeWordTags.length; i++) {
+      var tag = activeWordTags[i];
+      var item = document.createElement("div");
+      item.className = 'tag';
+      item.style.backgroundColor = tagColors[tag];
+      item.textContent = tag;
+      item.setAttribute("onclick", "removeWordTag(event, " + i + ");");
+      document.getElementById("word-tag-container").appendChild(item);
+    }
+  }
 
   if (container.showing == activeMetadataName) {
     container.style.visibility = "hidden";
@@ -1090,9 +1163,13 @@ function showMetadata(event, metadata, activeMetadata, activeMetadataName) {
     var item = document.createElement("div");
     item.className = 'filter-tag';
     item.textContent = datum;
-    item.setAttribute("onclick", "toggleMetadatum(event, '" + datum + "', " + activeMetadataName + ", '" + event.target.id + "')");
-    item.style.backgroundColor = activeMetadata.includes(datum) ? tagColors[datum] : "black";
-    item.style.color = activeMetadata.includes(datum) ? "black" : "white";
+    if (activeMetadataName == "activeWordTags") { 
+      item.setAttribute("onclick", "toggleWordTag(event, '" + datum + "', " + activeMetadataName + ", '" + event.target.id + "')");
+    } else {
+      item.setAttribute("onclick", "toggleMetadatum(event, '" + datum + "', " + activeMetadataName + ", '" + event.target.id + "')");
+      item.style.backgroundColor = activeMetadata.includes(datum) ? tagColors[datum] : "black";
+      item.style.color = activeMetadata.includes(datum) ? "black" : "white";
+    }
     container.appendChild(item);
   }
 }
@@ -1119,6 +1196,28 @@ function toggleMetadatum(event, datum, activeMetadata, commandElementID) {
   event.stopPropagation();
 }
 
+function toggleWordTag(event, datum, activeMetadata, commandElementID) {
+  activeMetadata.push(datum);
+  if (!tagColors[datum]) {
+    tagColors[datum] = cycleColor(); 
+  }
+
+  var item = document.createElement("div");
+  item.className = 'tag';
+  item.style.backgroundColor = tagColors[datum];
+  item.textContent = datum;
+  item.setAttribute("onclick", "removeWordTag(event, " + (activeMetadata.length - 1) + ");");
+  document.getElementById("word-tag-container").appendChild(item);
+
+  applySearchTerms();
+  event.stopPropagation();
+}
+
+function removeWordTag(event, index) {
+  activeWordTags.splice(index, 1);
+  removeFilter(event);
+}
+
 var activeTags = [];
 var activeSupports = [];
 var activeScribes = [];
@@ -1130,7 +1229,8 @@ var activeFindspots = [];
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
     // Only load new inscriptions if a search isn't active
-    if(entry.isIntersecting && !highlightedSearchElements.length && !activeTags.length) {
+    if (entry.isIntersecting && !highlightedSearchElements.length
+        && !activeTags.length && !activeWordTags.length) {
 		  var key = inscriptionsToLoad.next().value;
       if (key) {
         var visibleInscription = loadInscription(inscriptions.get(key));
