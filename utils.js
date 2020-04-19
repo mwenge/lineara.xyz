@@ -13,7 +13,7 @@ function toggleColor(element) {
 }
 
 var cycleColor = (function () {
-  var frequency = .3;
+  var frequency = .6;
   var i = 0;
   return function () {
     i++;

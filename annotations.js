@@ -145,7 +145,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋"
@@ -186,7 +186,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+E",
                 "word": "𐜎"
@@ -215,7 +215,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋"
@@ -345,7 +345,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐘆"
@@ -726,7 +726,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -743,7 +743,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -784,7 +784,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "JA+RU",
                 "word": "𐛑"
@@ -919,7 +919,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -1126,7 +1126,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -1291,7 +1291,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -1340,7 +1340,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA",
@@ -1468,7 +1468,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -1590,7 +1590,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*86+'*188'",
@@ -1638,7 +1638,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -1655,7 +1655,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -1884,7 +1884,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "PA3",
@@ -1917,7 +1917,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -2163,7 +2163,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂"
@@ -2230,7 +2230,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*301",
@@ -2603,7 +2603,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA2",
@@ -2670,7 +2670,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -2693,7 +2693,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -2723,7 +2723,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -2760,7 +2760,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -2819,7 +2819,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -2840,7 +2840,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -2875,7 +2875,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -2915,7 +2915,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*560",
                 "word": "𐛢"
@@ -2950,7 +2950,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -2973,7 +2973,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -2994,7 +2994,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU+RE",
@@ -3044,7 +3044,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -3061,7 +3061,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -3264,7 +3264,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -3281,7 +3281,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -3302,7 +3302,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -3322,7 +3322,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -3343,7 +3343,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -3365,7 +3365,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -3393,7 +3393,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -3414,7 +3414,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -3434,7 +3434,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -3455,7 +3455,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -3477,7 +3477,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -3507,7 +3507,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -3540,7 +3540,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*586",
@@ -3561,7 +3561,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -3665,7 +3665,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -3687,7 +3687,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*188+KU",
@@ -3714,7 +3714,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "ZE",
@@ -3750,7 +3750,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -3767,7 +3767,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -3838,7 +3838,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+QE",
@@ -3858,7 +3858,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -3880,7 +3880,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -3911,7 +3911,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -3933,7 +3933,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -3970,7 +3970,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -3987,7 +3987,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -4119,7 +4119,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -4140,7 +4140,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -4181,7 +4181,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -4203,7 +4203,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*188+KU",
@@ -4239,7 +4239,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -4256,7 +4256,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -4277,7 +4277,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -4297,7 +4297,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+E",
@@ -4325,7 +4325,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -4354,7 +4354,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -4395,7 +4395,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*585",
@@ -4415,7 +4415,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -4427,7 +4427,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*330+DA",
@@ -4463,7 +4463,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -4485,7 +4485,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -4505,7 +4505,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+NE",
@@ -4525,7 +4525,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+TU",
@@ -4545,7 +4545,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+RI",
@@ -4565,7 +4565,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -4586,7 +4586,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -4608,7 +4608,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
@@ -4628,7 +4628,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
@@ -4708,7 +4708,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "SI+ME",
@@ -4758,7 +4758,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -4802,7 +4802,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "MI+JA+RU",
                 "word": "𐛚"
@@ -4843,7 +4843,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
@@ -5315,7 +5315,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA",
@@ -5406,7 +5406,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -5428,7 +5428,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -5472,7 +5472,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*406VAS+KE",
@@ -5592,7 +5592,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*406VAS+KE",
@@ -5607,7 +5607,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -5670,7 +5670,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI+MU",
@@ -5760,7 +5760,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*307",
@@ -5780,7 +5780,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -5816,7 +5816,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*86",
@@ -5837,7 +5837,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -5962,7 +5962,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -6007,7 +6007,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -6037,7 +6037,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6066,7 +6066,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -6104,7 +6104,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "VIN+WA",
                 "word": "𐛾"
@@ -6120,7 +6120,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6160,7 +6160,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -6177,7 +6177,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6199,7 +6199,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -6220,7 +6220,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -6236,7 +6236,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -6286,7 +6286,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "VIN+WA",
                 "word": "𐛽"
@@ -6302,7 +6302,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6324,7 +6324,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -6381,7 +6381,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6458,7 +6458,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+QE",
@@ -6478,7 +6478,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -6498,7 +6498,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6519,7 +6519,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -6539,7 +6539,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+TU",
                 "word": "𐜖"
@@ -6567,7 +6567,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -6588,7 +6588,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6610,7 +6610,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -6660,7 +6660,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6682,7 +6682,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6703,7 +6703,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -6731,7 +6731,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -6797,7 +6797,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6818,7 +6818,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -6839,7 +6839,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6861,7 +6861,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -6891,7 +6891,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -6920,7 +6920,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -6949,7 +6949,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -6970,7 +6970,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -7174,7 +7174,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -7242,7 +7242,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -7271,7 +7271,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -7300,7 +7300,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+TA",
                 "word": "𐜐"
@@ -7319,7 +7319,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -7360,7 +7360,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -7400,7 +7400,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -7423,7 +7423,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -7444,7 +7444,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -7467,7 +7467,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*23M",
@@ -7501,7 +7501,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+TA",
@@ -7571,7 +7571,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*410-VS",
                 "word": "𐚪"
@@ -7711,7 +7711,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*815",
@@ -7772,7 +7772,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*307",
@@ -7801,7 +7801,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -7821,7 +7821,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+NE",
                 "word": "𐜍"
@@ -7840,7 +7840,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -7867,7 +7867,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
@@ -7887,7 +7887,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -7935,7 +7935,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -7991,7 +7991,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -8027,7 +8027,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*401+*304",
                 "word": "𐜫"
@@ -8039,7 +8039,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
@@ -8066,7 +8066,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
                 "word": "𐚹"
@@ -8099,7 +8099,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "E+KA",
                 "word": "𐛆"
@@ -8118,7 +8118,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI+JA+KA",
@@ -8139,7 +8139,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -8161,7 +8161,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*341+PI",
@@ -8181,7 +8181,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA3+QE",
@@ -8306,7 +8306,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -8355,7 +8355,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -8375,7 +8375,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
@@ -8395,7 +8395,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -8416,7 +8416,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "SA+MU+KU",
@@ -8437,7 +8437,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -8482,7 +8482,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "E+KA",
@@ -8502,7 +8502,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -8539,7 +8539,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*326",
@@ -8567,7 +8567,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -8589,7 +8589,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -8609,7 +8609,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+RI",
@@ -8629,7 +8629,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -8682,7 +8682,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -8703,7 +8703,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -8814,7 +8814,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "MI+JA+I",
@@ -9046,7 +9046,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*403-VS",
@@ -9067,7 +9067,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -9089,7 +9089,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -9130,7 +9130,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "TELA+KU",
@@ -9150,7 +9150,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "TELA+*312",
@@ -9270,7 +9270,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*414+A",
@@ -9354,7 +9354,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -9371,7 +9371,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -9521,7 +9521,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -9538,7 +9538,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -9560,7 +9560,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RE",
                 "word": "𐘙"
@@ -9575,7 +9575,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -9665,7 +9665,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -9695,7 +9695,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "SI+SE",
                 "word": "𐛉"
@@ -9710,7 +9710,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -9726,7 +9726,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -9747,7 +9747,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋"
@@ -9775,7 +9775,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -9796,7 +9796,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋"
@@ -9859,7 +9859,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -9900,7 +9900,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -9978,7 +9978,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -10028,7 +10028,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -10049,7 +10049,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋"
@@ -10069,7 +10069,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+RA",
@@ -10090,7 +10090,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐙋"
@@ -10299,7 +10299,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝫𐝉",
                 "word": "𐝫𐝉"
@@ -10342,7 +10342,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -10381,7 +10381,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -10417,7 +10417,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -10449,7 +10449,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
                 "word": "𐚺"
@@ -10490,7 +10490,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -10503,7 +10503,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*318",
                 "word": "𐙪"
@@ -10518,7 +10518,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -10540,7 +10540,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
                 "word": "𐚺"
@@ -10576,7 +10576,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
+                    "logogram",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -10613,7 +10613,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -10634,7 +10634,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -10844,7 +10844,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "U",
                 "word": "𐘉𐝫"
@@ -11145,7 +11145,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*370",
@@ -11165,7 +11165,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*312",
@@ -11226,7 +11226,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -11246,7 +11246,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -11280,7 +11280,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "TU",
@@ -11301,7 +11301,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐘸"
@@ -11389,7 +11389,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -11442,7 +11442,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -11483,7 +11483,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -11504,7 +11504,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗"
@@ -11528,7 +11528,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+E",
@@ -11549,7 +11549,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -11600,7 +11600,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*OLIV+TU",
@@ -11648,7 +11648,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -11710,7 +11710,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -11726,7 +11726,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -11926,7 +11926,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -12019,7 +12019,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -12571,7 +12571,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word"
                 ],
                 "transliteratedWord": "I",
@@ -12604,7 +12604,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -12662,7 +12662,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "U",
                 "word": "𐘉𐝫"
@@ -12688,7 +12688,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -12709,7 +12709,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -12769,7 +12769,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -12893,7 +12893,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -12948,7 +12948,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -13031,7 +13031,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "MI+JA+[ ]",
                 "word": "𐛙"
@@ -13057,7 +13057,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -13120,7 +13120,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝉𐝫",
                 "word": "𐝉𐝫"
@@ -13162,7 +13162,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA+KU",
@@ -13200,7 +13200,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -13250,7 +13250,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -13584,7 +13584,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -13601,7 +13601,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -13776,7 +13776,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -13820,7 +13820,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*330+SA",
                 "word": "𐜤"
@@ -13840,7 +13840,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*79",
@@ -13855,7 +13855,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -14024,7 +14024,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -14141,7 +14141,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐘆"
@@ -14237,7 +14237,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -14289,7 +14289,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
+                    "logogram",
                     "head word"
                 ],
                 "transliteratedWord": "I",
@@ -14440,7 +14440,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -14480,7 +14480,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -14506,7 +14506,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -14533,7 +14533,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
+                    "logogram",
                     "head word"
                 ],
                 "transliteratedWord": "I",
@@ -14773,7 +14773,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "MI+JA+RU",
                 "word": "𐛚"
@@ -14883,7 +14883,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*304+[ ]",
@@ -14999,7 +14999,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*307+*387",
                 "word": "𐜠"
@@ -15013,7 +15013,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -15261,7 +15261,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA",
@@ -15302,7 +15302,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -15325,7 +15325,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -15477,7 +15477,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*584",
@@ -15557,7 +15557,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -15598,7 +15598,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*580",
@@ -15669,7 +15669,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*584",
@@ -15903,7 +15903,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -15946,7 +15946,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -16162,7 +16162,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*307",
@@ -16178,7 +16178,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -16200,7 +16200,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "JU+*317+QE",
@@ -16240,7 +16240,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313a",
@@ -16304,7 +16304,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -16334,7 +16334,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16363,7 +16363,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -16408,7 +16408,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16430,7 +16430,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16451,7 +16451,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -16479,7 +16479,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16501,7 +16501,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16522,7 +16522,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -16543,7 +16543,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16580,7 +16580,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*326",
@@ -16596,7 +16596,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16618,7 +16618,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16646,7 +16646,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16667,7 +16667,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -16687,7 +16687,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -16708,7 +16708,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -16729,7 +16729,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16751,7 +16751,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -16807,7 +16807,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -16862,7 +16862,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -16901,7 +16901,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16923,7 +16923,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -16973,7 +16973,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE+SE",
@@ -17007,7 +17007,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA+RE+SE",
@@ -17242,7 +17242,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*406-VS",
@@ -17262,7 +17262,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*343",
@@ -17318,7 +17318,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -17420,7 +17420,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -17443,7 +17443,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*86",
@@ -17463,7 +17463,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "TI+A",
@@ -17483,7 +17483,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313b",
@@ -17504,7 +17504,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -17558,7 +17558,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -17581,7 +17581,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -17643,7 +17643,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -17666,7 +17666,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -17708,7 +17708,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -17876,7 +17876,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86",
                 "word": "𐙅"
@@ -17978,7 +17978,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -18330,7 +18330,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -18438,7 +18438,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -18515,7 +18515,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -18575,7 +18575,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -18592,7 +18592,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -18627,7 +18627,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -18648,7 +18648,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -18706,7 +18706,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*307+*387",
                 "word": "𐜠"
@@ -18720,7 +18720,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -18741,7 +18741,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -18805,7 +18805,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -18867,7 +18867,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -18889,7 +18889,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -18909,7 +18909,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*79",
@@ -18984,7 +18984,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
+                    "logogram",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -19293,7 +19293,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -19316,7 +19316,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -19338,7 +19338,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -19367,7 +19367,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "GRA+QE",
                 "word": "𐛱"
@@ -19519,7 +19519,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "TI+A",
@@ -19540,7 +19540,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -19561,7 +19561,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -19583,7 +19583,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313a",
@@ -19635,7 +19635,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -19665,7 +19665,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -19694,7 +19694,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -19723,7 +19723,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -19750,7 +19750,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -19770,7 +19770,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+NE",
@@ -19798,7 +19798,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+QE",
@@ -19818,7 +19818,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -19838,7 +19838,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -19858,7 +19858,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -19889,7 +19889,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -19911,7 +19911,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -19932,7 +19932,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI+QE",
@@ -19981,7 +19981,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -20007,7 +20007,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -20028,7 +20028,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -20063,7 +20063,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -20090,7 +20090,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*OLIV+TU",
@@ -20136,7 +20136,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -20164,7 +20164,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -20247,7 +20247,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "WI",
@@ -20325,7 +20325,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -20347,7 +20347,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "PA3",
@@ -20389,7 +20389,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -20496,7 +20496,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "TE+RO[",
                 "word": "𐚷"
@@ -20675,7 +20675,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -20706,7 +20706,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -20728,7 +20728,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -20757,7 +20757,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -20779,7 +20779,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -20890,7 +20890,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -20912,7 +20912,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*332",
@@ -20940,7 +20940,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -20962,7 +20962,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*583",
@@ -20982,7 +20982,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -21206,7 +21206,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -21343,7 +21343,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*648",
                 "word": "𐜧"
@@ -21376,7 +21376,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -21418,7 +21418,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -21460,7 +21460,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -21482,7 +21482,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*301",
@@ -21577,7 +21577,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐘆"
@@ -21994,7 +21994,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22016,7 +22016,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22038,7 +22038,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22060,7 +22060,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -22083,7 +22083,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22155,7 +22155,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "GRA+BOSm",
                 "word": "𐛯"
@@ -22312,7 +22312,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22422,7 +22422,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22538,7 +22538,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306+MI",
@@ -22587,7 +22587,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -22616,7 +22616,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22652,7 +22652,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22673,7 +22673,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -22693,7 +22693,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "SI+SE",
                 "word": "𐛉"
@@ -22701,7 +22701,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22722,7 +22722,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22743,7 +22743,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -22764,7 +22764,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -22792,7 +22792,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22835,7 +22835,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -22855,7 +22855,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*OLIV+TU",
@@ -22883,7 +22883,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22905,7 +22905,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22935,7 +22935,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22957,7 +22957,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -22988,7 +22988,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -23010,7 +23010,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -23032,7 +23032,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -23329,7 +23329,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -23523,7 +23523,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "AU",
@@ -23538,7 +23538,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -23581,7 +23581,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -23622,7 +23622,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -23663,7 +23663,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -23726,7 +23726,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐘸"
@@ -23746,7 +23746,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -23767,7 +23767,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -23850,7 +23850,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -23981,7 +23981,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*584",
@@ -24001,7 +24001,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -24070,7 +24070,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*580",
@@ -24090,7 +24090,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -24148,7 +24148,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+QE+DI",
@@ -24178,7 +24178,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -24200,7 +24200,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -24222,7 +24222,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -24244,7 +24244,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -24267,7 +24267,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -24702,7 +24702,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*346",
                 "word": "𐚆"
@@ -24794,7 +24794,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -24893,7 +24893,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -24913,7 +24913,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -24980,7 +24980,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -25007,7 +25007,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -25066,7 +25066,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -25086,7 +25086,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -25147,7 +25147,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -25167,7 +25167,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -25228,7 +25228,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -25255,7 +25255,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*308",
                 "word": "𐙜"
@@ -25348,7 +25348,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*312",
@@ -25415,7 +25415,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -25696,7 +25696,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -25779,7 +25779,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -25799,7 +25799,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*582",
@@ -25827,7 +25827,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -25849,7 +25849,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -25886,7 +25886,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*318",
                 "word": "𐙪"
@@ -25934,7 +25934,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "U",
                 "word": "𐘉𐝫"
@@ -26092,7 +26092,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "TWE",
@@ -26288,7 +26288,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -26310,7 +26310,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -26330,7 +26330,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313c",
@@ -26350,7 +26350,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI+MU",
@@ -26371,7 +26371,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*301",
@@ -26391,7 +26391,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI+MU",
@@ -26434,7 +26434,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*326",
@@ -26502,7 +26502,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA+KU",
@@ -26532,7 +26532,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -26552,7 +26552,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -26587,7 +26587,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -26636,7 +26636,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -26664,7 +26664,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -26711,7 +26711,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -26755,7 +26755,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -26784,7 +26784,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -26806,7 +26806,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -26835,7 +26835,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -26863,7 +26863,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+DI",
                 "word": "𐜉"
@@ -27023,7 +27023,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -27056,7 +27056,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -27078,7 +27078,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -27173,7 +27173,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -27225,7 +27225,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -27316,7 +27316,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -27373,7 +27373,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*904",
@@ -27408,7 +27408,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -27431,7 +27431,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "PA3",
@@ -27447,7 +27447,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -27506,7 +27506,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -27515,7 +27515,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+DA",
@@ -27847,7 +27847,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗"
@@ -27932,7 +27932,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -28045,7 +28045,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -28188,7 +28188,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -28209,7 +28209,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -28231,7 +28231,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -28275,7 +28275,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -28319,7 +28319,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -28465,7 +28465,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵𐝫"
@@ -28553,7 +28553,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -28665,7 +28665,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -28875,7 +28875,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -29291,7 +29291,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐙋"
@@ -29304,7 +29304,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -29687,7 +29687,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "I+*301",
                 "word": "𐛁"
@@ -29796,7 +29796,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀"
@@ -29808,7 +29808,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29820,7 +29820,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29832,7 +29832,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29844,7 +29844,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29856,7 +29856,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29868,7 +29868,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29880,7 +29880,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29892,7 +29892,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29904,7 +29904,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29916,7 +29916,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29928,7 +29928,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29940,7 +29940,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29952,7 +29952,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29964,7 +29964,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29976,7 +29976,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -29988,7 +29988,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30000,7 +30000,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30012,7 +30012,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30024,7 +30024,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30036,7 +30036,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30048,7 +30048,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30060,7 +30060,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30072,7 +30072,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30084,7 +30084,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30096,7 +30096,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30108,7 +30108,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30120,7 +30120,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30132,7 +30132,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30144,7 +30144,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30156,7 +30156,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30168,7 +30168,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30180,7 +30180,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30192,7 +30192,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30204,7 +30204,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30216,7 +30216,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30228,7 +30228,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30240,7 +30240,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30252,7 +30252,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30264,7 +30264,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30276,7 +30276,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30288,7 +30288,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30300,7 +30300,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30312,7 +30312,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30324,7 +30324,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30336,7 +30336,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30348,7 +30348,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30360,7 +30360,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30372,7 +30372,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30384,7 +30384,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30396,7 +30396,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30408,7 +30408,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30420,7 +30420,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30432,7 +30432,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30444,7 +30444,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30456,7 +30456,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30468,7 +30468,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30480,7 +30480,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30492,7 +30492,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30504,7 +30504,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30516,7 +30516,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30528,7 +30528,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30540,7 +30540,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30552,7 +30552,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30564,7 +30564,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30576,7 +30576,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30588,7 +30588,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30600,7 +30600,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30612,7 +30612,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30624,7 +30624,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30636,7 +30636,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30648,7 +30648,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30660,7 +30660,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30672,7 +30672,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30684,7 +30684,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30696,7 +30696,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30708,7 +30708,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30720,7 +30720,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30732,7 +30732,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30744,7 +30744,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30756,7 +30756,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30768,7 +30768,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30780,7 +30780,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30792,7 +30792,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30804,7 +30804,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30816,7 +30816,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30828,7 +30828,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30840,7 +30840,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30852,7 +30852,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30865,7 +30865,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -30880,7 +30880,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -30895,7 +30895,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -30910,7 +30910,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -30925,7 +30925,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -30940,7 +30940,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -30955,7 +30955,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -30970,7 +30970,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -30985,7 +30985,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31000,7 +31000,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31015,7 +31015,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31030,7 +31030,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31045,7 +31045,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31060,7 +31060,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31075,7 +31075,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31090,7 +31090,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31105,7 +31105,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31120,7 +31120,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31135,7 +31135,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31150,7 +31150,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31165,7 +31165,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31180,7 +31180,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31195,7 +31195,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31210,7 +31210,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31225,7 +31225,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31606,7 +31606,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31620,7 +31620,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31634,7 +31634,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31648,7 +31648,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31662,7 +31662,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31676,7 +31676,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31690,7 +31690,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31704,7 +31704,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31718,7 +31718,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31732,7 +31732,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31746,7 +31746,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31760,7 +31760,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31774,7 +31774,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31788,7 +31788,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31802,7 +31802,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31816,7 +31816,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31830,7 +31830,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31844,7 +31844,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31858,7 +31858,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31872,7 +31872,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31886,7 +31886,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31900,7 +31900,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31914,7 +31914,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31928,7 +31928,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31942,7 +31942,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31956,7 +31956,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31970,7 +31970,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31984,7 +31984,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -31998,7 +31998,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32012,7 +32012,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32026,7 +32026,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32040,7 +32040,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32054,7 +32054,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32068,7 +32068,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32082,7 +32082,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32096,7 +32096,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32110,7 +32110,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32124,7 +32124,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32138,7 +32138,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32152,7 +32152,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32166,7 +32166,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32180,7 +32180,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32194,7 +32194,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32208,7 +32208,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32222,7 +32222,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32236,7 +32236,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32250,7 +32250,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32264,7 +32264,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32278,7 +32278,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32292,7 +32292,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32306,7 +32306,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32320,7 +32320,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32334,7 +32334,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32348,7 +32348,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32362,7 +32362,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32376,7 +32376,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32390,7 +32390,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32404,7 +32404,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32418,7 +32418,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32432,7 +32432,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32446,7 +32446,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32460,7 +32460,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32474,7 +32474,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32488,7 +32488,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32502,7 +32502,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32516,7 +32516,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32530,7 +32530,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32544,7 +32544,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32558,7 +32558,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32572,7 +32572,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32586,7 +32586,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32600,7 +32600,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32614,7 +32614,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32628,7 +32628,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32642,7 +32642,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32656,7 +32656,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32670,7 +32670,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32684,7 +32684,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32698,7 +32698,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32712,7 +32712,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32726,7 +32726,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32740,7 +32740,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32754,7 +32754,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32768,7 +32768,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32782,7 +32782,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32796,7 +32796,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32810,7 +32810,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32824,7 +32824,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32838,7 +32838,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32852,7 +32852,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32866,7 +32866,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32880,7 +32880,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32895,7 +32895,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32910,7 +32910,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32925,7 +32925,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32940,7 +32940,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32955,7 +32955,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32970,7 +32970,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -32985,7 +32985,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33000,7 +33000,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33015,7 +33015,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33030,7 +33030,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33045,7 +33045,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33060,7 +33060,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33110,7 +33110,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33122,7 +33122,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33134,7 +33134,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33146,7 +33146,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33158,7 +33158,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33170,7 +33170,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33182,7 +33182,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33194,7 +33194,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33206,7 +33206,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33218,7 +33218,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33230,7 +33230,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33242,7 +33242,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33254,7 +33254,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33266,7 +33266,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33278,7 +33278,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33290,7 +33290,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33302,7 +33302,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33314,7 +33314,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33326,7 +33326,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33338,7 +33338,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33350,7 +33350,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33362,7 +33362,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33374,7 +33374,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33386,7 +33386,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33398,7 +33398,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33410,7 +33410,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33422,7 +33422,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33434,7 +33434,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33446,7 +33446,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33458,7 +33458,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33470,7 +33470,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33482,7 +33482,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33494,7 +33494,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33506,7 +33506,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33518,7 +33518,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33530,7 +33530,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33542,7 +33542,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33554,7 +33554,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33566,7 +33566,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33578,7 +33578,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33591,7 +33591,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33606,7 +33606,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33621,7 +33621,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33636,7 +33636,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33651,7 +33651,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33666,7 +33666,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33681,7 +33681,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33696,7 +33696,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33711,7 +33711,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33726,7 +33726,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33741,7 +33741,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33756,7 +33756,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33771,7 +33771,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33786,7 +33786,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33801,7 +33801,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33816,7 +33816,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33831,7 +33831,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33846,7 +33846,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33861,7 +33861,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33876,7 +33876,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33891,7 +33891,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33906,7 +33906,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33921,7 +33921,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33936,7 +33936,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33951,7 +33951,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33966,7 +33966,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33981,7 +33981,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -33996,7 +33996,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34011,7 +34011,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34026,7 +34026,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34041,7 +34041,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34056,7 +34056,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34071,7 +34071,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34086,7 +34086,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34101,7 +34101,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34116,7 +34116,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34131,7 +34131,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34146,7 +34146,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34161,7 +34161,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34176,7 +34176,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34191,7 +34191,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34206,7 +34206,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34221,7 +34221,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34236,7 +34236,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34251,7 +34251,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34266,7 +34266,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34281,7 +34281,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34296,7 +34296,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34311,7 +34311,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34326,7 +34326,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34341,7 +34341,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34356,7 +34356,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34371,7 +34371,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34386,7 +34386,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34401,7 +34401,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34416,7 +34416,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34431,7 +34431,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34446,7 +34446,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34461,7 +34461,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34476,7 +34476,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34491,7 +34491,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34506,7 +34506,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34521,7 +34521,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34536,7 +34536,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34551,7 +34551,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34566,7 +34566,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34581,7 +34581,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34596,7 +34596,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34611,7 +34611,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34626,7 +34626,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34641,7 +34641,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34656,7 +34656,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34671,7 +34671,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34686,7 +34686,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34701,7 +34701,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34716,7 +34716,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34731,7 +34731,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34746,7 +34746,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34761,7 +34761,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34776,7 +34776,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34791,7 +34791,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34806,7 +34806,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34821,7 +34821,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34836,7 +34836,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34851,7 +34851,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34866,7 +34866,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34881,7 +34881,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34896,7 +34896,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34911,7 +34911,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34926,7 +34926,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34941,7 +34941,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34956,7 +34956,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34971,7 +34971,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -34986,7 +34986,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35001,7 +35001,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35016,7 +35016,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35031,7 +35031,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35046,7 +35046,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35061,7 +35061,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35076,7 +35076,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35091,7 +35091,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35106,7 +35106,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35121,7 +35121,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35136,7 +35136,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35151,7 +35151,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35166,7 +35166,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35181,7 +35181,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35196,7 +35196,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35211,7 +35211,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35226,7 +35226,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35241,7 +35241,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35256,7 +35256,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35271,7 +35271,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35286,7 +35286,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35301,7 +35301,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35316,7 +35316,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35331,7 +35331,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35346,7 +35346,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35361,7 +35361,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35376,7 +35376,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35391,7 +35391,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35406,7 +35406,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35421,7 +35421,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35436,7 +35436,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35451,7 +35451,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35466,7 +35466,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35481,7 +35481,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35496,7 +35496,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35511,7 +35511,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35526,7 +35526,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35541,7 +35541,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35556,7 +35556,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35571,7 +35571,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35586,7 +35586,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35601,7 +35601,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35616,7 +35616,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35631,7 +35631,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35646,7 +35646,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35661,7 +35661,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35676,7 +35676,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35691,7 +35691,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35706,7 +35706,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35721,7 +35721,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35736,7 +35736,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35751,7 +35751,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35766,7 +35766,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35781,7 +35781,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35796,7 +35796,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35811,7 +35811,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -35826,7 +35826,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35839,7 +35839,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35852,7 +35852,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35865,7 +35865,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35878,7 +35878,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35891,7 +35891,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35904,7 +35904,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35917,7 +35917,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35930,7 +35930,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35943,7 +35943,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35956,7 +35956,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35969,7 +35969,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35982,7 +35982,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35995,7 +35995,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36008,7 +36008,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36021,7 +36021,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36034,7 +36034,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36047,7 +36047,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36060,7 +36060,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36073,7 +36073,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36086,7 +36086,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36099,7 +36099,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36112,7 +36112,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36125,7 +36125,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36138,7 +36138,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36151,7 +36151,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36164,7 +36164,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36177,7 +36177,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36190,7 +36190,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36203,7 +36203,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36216,7 +36216,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36229,7 +36229,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36242,7 +36242,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36255,7 +36255,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36268,7 +36268,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36281,7 +36281,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36294,7 +36294,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36307,7 +36307,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36320,7 +36320,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36333,7 +36333,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36346,7 +36346,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36359,7 +36359,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36372,7 +36372,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36385,7 +36385,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36398,7 +36398,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36411,7 +36411,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36424,7 +36424,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36437,7 +36437,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36450,7 +36450,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36463,7 +36463,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36476,7 +36476,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36489,7 +36489,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36502,7 +36502,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36515,7 +36515,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36528,7 +36528,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36541,7 +36541,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36554,7 +36554,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36567,7 +36567,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36580,7 +36580,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36593,7 +36593,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36606,7 +36606,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36619,7 +36619,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36632,7 +36632,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36645,7 +36645,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36658,7 +36658,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36671,7 +36671,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36684,7 +36684,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36697,7 +36697,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36710,7 +36710,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36723,7 +36723,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36736,7 +36736,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36749,7 +36749,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36762,7 +36762,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36775,7 +36775,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36788,7 +36788,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36801,7 +36801,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36814,7 +36814,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36827,7 +36827,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36840,7 +36840,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36853,7 +36853,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36866,7 +36866,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36879,7 +36879,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36892,7 +36892,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36905,7 +36905,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36918,7 +36918,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36931,7 +36931,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36944,7 +36944,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36957,7 +36957,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36970,7 +36970,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36983,7 +36983,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36996,7 +36996,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37009,7 +37009,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37022,7 +37022,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37035,7 +37035,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37048,7 +37048,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37061,7 +37061,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37074,7 +37074,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37087,7 +37087,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37100,7 +37100,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37113,7 +37113,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37126,7 +37126,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37139,7 +37139,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37152,7 +37152,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37165,7 +37165,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37178,7 +37178,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37191,7 +37191,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37204,7 +37204,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37217,7 +37217,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37230,7 +37230,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37243,7 +37243,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37256,7 +37256,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37269,7 +37269,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37282,7 +37282,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37295,7 +37295,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37308,7 +37308,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37321,7 +37321,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37334,7 +37334,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37347,7 +37347,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37360,7 +37360,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37373,7 +37373,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37386,7 +37386,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37399,7 +37399,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37412,7 +37412,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37425,7 +37425,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37438,7 +37438,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37451,7 +37451,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37464,7 +37464,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37477,7 +37477,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37490,7 +37490,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37503,7 +37503,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37516,7 +37516,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37529,7 +37529,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37542,7 +37542,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37555,7 +37555,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37568,7 +37568,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37581,7 +37581,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37594,7 +37594,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37607,7 +37607,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37620,7 +37620,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37633,7 +37633,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37646,7 +37646,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37659,7 +37659,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37672,7 +37672,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37685,7 +37685,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37698,7 +37698,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37711,7 +37711,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37724,7 +37724,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37737,7 +37737,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37750,7 +37750,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37763,7 +37763,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37776,7 +37776,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37789,7 +37789,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37802,7 +37802,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37815,7 +37815,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37828,7 +37828,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37841,7 +37841,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37854,7 +37854,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37867,7 +37867,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37880,7 +37880,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37893,7 +37893,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37906,7 +37906,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37919,7 +37919,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37932,7 +37932,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37945,7 +37945,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37958,7 +37958,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37971,7 +37971,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37984,7 +37984,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37997,7 +37997,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38010,7 +38010,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38023,7 +38023,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38036,7 +38036,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38049,7 +38049,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38062,7 +38062,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38075,7 +38075,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38088,7 +38088,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38101,7 +38101,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38114,7 +38114,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38127,7 +38127,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38140,7 +38140,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38153,7 +38153,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38166,7 +38166,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38179,7 +38179,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38192,7 +38192,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38205,7 +38205,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38218,7 +38218,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38231,7 +38231,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38244,7 +38244,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38257,7 +38257,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38270,7 +38270,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38283,7 +38283,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38296,7 +38296,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38309,7 +38309,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38322,7 +38322,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38335,7 +38335,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38348,7 +38348,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38361,7 +38361,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38374,7 +38374,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38387,7 +38387,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38400,7 +38400,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38413,7 +38413,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38426,7 +38426,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38439,7 +38439,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38452,7 +38452,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38465,7 +38465,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38478,7 +38478,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38491,7 +38491,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38504,7 +38504,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38517,7 +38517,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38530,7 +38530,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38543,7 +38543,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38556,7 +38556,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38569,7 +38569,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38582,7 +38582,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38595,7 +38595,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38608,7 +38608,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38621,7 +38621,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38634,7 +38634,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38647,7 +38647,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38660,7 +38660,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38673,7 +38673,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38686,7 +38686,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38699,7 +38699,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38712,7 +38712,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38725,7 +38725,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38738,7 +38738,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38751,7 +38751,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38764,7 +38764,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38777,7 +38777,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38790,7 +38790,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38803,7 +38803,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38816,7 +38816,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38829,7 +38829,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38842,7 +38842,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38855,7 +38855,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38868,7 +38868,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38881,7 +38881,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38894,7 +38894,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38907,7 +38907,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38920,7 +38920,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38933,7 +38933,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38946,7 +38946,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38959,7 +38959,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38972,7 +38972,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38985,7 +38985,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38998,7 +38998,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39011,7 +39011,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39024,7 +39024,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39037,7 +39037,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39050,7 +39050,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39063,7 +39063,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39076,7 +39076,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39089,7 +39089,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39102,7 +39102,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39115,7 +39115,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39128,7 +39128,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39141,7 +39141,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39154,7 +39154,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39167,7 +39167,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39180,7 +39180,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39193,7 +39193,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39206,7 +39206,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39219,7 +39219,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39232,7 +39232,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39245,7 +39245,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39258,7 +39258,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39271,7 +39271,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39284,7 +39284,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39297,7 +39297,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39310,7 +39310,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39323,7 +39323,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39336,7 +39336,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39349,7 +39349,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39362,7 +39362,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39375,7 +39375,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39388,7 +39388,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39401,7 +39401,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39414,7 +39414,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39427,7 +39427,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39440,7 +39440,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39453,7 +39453,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39466,7 +39466,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39479,7 +39479,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39492,7 +39492,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39505,7 +39505,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39518,7 +39518,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39531,7 +39531,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39544,7 +39544,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39557,7 +39557,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39570,7 +39570,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39583,7 +39583,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39596,7 +39596,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39609,7 +39609,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39622,7 +39622,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39635,7 +39635,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39648,7 +39648,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39661,7 +39661,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39674,7 +39674,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39687,7 +39687,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39700,7 +39700,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39713,7 +39713,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39726,7 +39726,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39739,7 +39739,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39752,7 +39752,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39765,7 +39765,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39778,7 +39778,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39791,7 +39791,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39804,7 +39804,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39817,7 +39817,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39830,7 +39830,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39843,7 +39843,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39856,7 +39856,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39869,7 +39869,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39882,7 +39882,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39895,7 +39895,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39908,7 +39908,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39921,7 +39921,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39934,7 +39934,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39947,7 +39947,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39960,7 +39960,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39973,7 +39973,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39986,7 +39986,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39999,7 +39999,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40012,7 +40012,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40025,7 +40025,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40038,7 +40038,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40051,7 +40051,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40064,7 +40064,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40077,7 +40077,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40090,7 +40090,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40103,7 +40103,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40116,7 +40116,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40129,7 +40129,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40142,7 +40142,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40155,7 +40155,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40168,7 +40168,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40181,7 +40181,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40194,7 +40194,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40207,7 +40207,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40220,7 +40220,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40233,7 +40233,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40246,7 +40246,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40259,7 +40259,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40272,7 +40272,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40285,7 +40285,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40298,7 +40298,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40311,7 +40311,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40324,7 +40324,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40337,7 +40337,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40350,7 +40350,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40363,7 +40363,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40376,7 +40376,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40389,7 +40389,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40402,7 +40402,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40415,7 +40415,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40428,7 +40428,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40441,7 +40441,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40454,7 +40454,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40467,7 +40467,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40480,7 +40480,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40493,7 +40493,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40506,7 +40506,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40519,7 +40519,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40532,7 +40532,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40545,7 +40545,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40558,7 +40558,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40571,7 +40571,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40584,7 +40584,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40597,7 +40597,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40610,7 +40610,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40623,7 +40623,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40636,7 +40636,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40649,7 +40649,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40662,7 +40662,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40675,7 +40675,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40688,7 +40688,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40701,7 +40701,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40713,7 +40713,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*365",
                 "word": "𐚙"
@@ -40725,7 +40725,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*366",
                 "word": "𐚚"
@@ -40737,7 +40737,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*367",
                 "word": "𐚛"
@@ -40749,7 +40749,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*368",
                 "word": "𐚜"
@@ -40761,7 +40761,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*369",
                 "word": "𐚝"
@@ -40773,7 +40773,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*370",
                 "word": "𐚞"
@@ -40884,7 +40884,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -40893,7 +40893,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*303+D",
@@ -40906,7 +40906,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -40918,7 +40918,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -40985,7 +40985,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐘈"
@@ -41006,7 +41006,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐘈"
@@ -41080,7 +41080,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -41140,7 +41140,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -41170,7 +41170,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "CAP",
@@ -41193,7 +41193,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -41271,7 +41271,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -41280,7 +41280,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*303+D",
@@ -41294,7 +41294,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -41330,7 +41330,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -41362,7 +41362,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -41377,7 +41377,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -41390,7 +41390,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -41509,7 +41509,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀"
@@ -41556,7 +41556,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*904",
@@ -41576,7 +41576,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*904",
@@ -41603,7 +41603,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*904",
@@ -41630,7 +41630,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*904",
@@ -41664,7 +41664,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*904",
                 "word": "𐙫"
@@ -41693,7 +41693,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀"
@@ -41705,7 +41705,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀"
@@ -41730,7 +41730,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*323",
                 "word": "𐙯"
@@ -41742,7 +41742,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*308",
                 "word": "𐙜"
@@ -41754,7 +41754,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -41768,7 +41768,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀"
@@ -41931,7 +41931,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word"
                 ],
                 "transliteratedWord": "I",
@@ -42402,7 +42402,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "ME",
@@ -42477,7 +42477,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -42494,7 +42494,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
+                    "logogram",
                     "head word"
                 ],
                 "transliteratedWord": "I",
@@ -42603,7 +42603,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐘸"
@@ -42634,7 +42634,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "VIN+RA",
                 "word": "𐜀"
@@ -42690,7 +42690,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*582",
                 "word": "𐛵"
@@ -42885,7 +42885,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -42933,7 +42933,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -43024,7 +43024,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -43046,7 +43046,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "VINb+WI",
@@ -43138,7 +43138,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -43223,7 +43223,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -43324,7 +43324,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -43346,7 +43346,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -43397,7 +43397,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*334",
@@ -43417,7 +43417,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -43487,7 +43487,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306",
@@ -43521,7 +43521,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -43577,7 +43577,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*334",
@@ -43597,7 +43597,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*303+D",
@@ -43619,7 +43619,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
+                    "logogram",
                     "head word"
                 ],
                 "transliteratedWord": "I",
@@ -43627,7 +43627,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -43663,7 +43663,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313b",
@@ -43683,7 +43683,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -43744,7 +43744,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313b",
@@ -43764,7 +43764,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -43828,7 +43828,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "VIR+*313b",
                 "word": "𐛪"
@@ -43848,7 +43848,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -43918,7 +43918,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -43937,7 +43937,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*303+D",
@@ -43966,7 +43966,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -43987,7 +43987,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304+PA",
@@ -44007,7 +44007,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -44029,7 +44029,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+K",
@@ -44102,7 +44102,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -44124,7 +44124,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -44169,7 +44169,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -44191,7 +44191,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -44251,7 +44251,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*312",
@@ -44271,7 +44271,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -44333,7 +44333,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -44382,7 +44382,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*303+D",
@@ -44417,7 +44417,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -44561,7 +44561,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -44617,7 +44617,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -44666,7 +44666,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -44688,7 +44688,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -44709,7 +44709,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -44731,7 +44731,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -44753,7 +44753,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306",
@@ -44774,7 +44774,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -44822,7 +44822,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -44845,7 +44845,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -44867,7 +44867,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -44897,7 +44897,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*301",
@@ -44917,7 +44917,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306",
@@ -44980,7 +44980,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -45000,7 +45000,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -45054,7 +45054,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -45081,7 +45081,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*401+*304",
@@ -45101,7 +45101,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*401+RU",
                 "word": "𐜩"
@@ -45109,7 +45109,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝍𐝫",
                 "word": "𐝍𐝫"
@@ -45130,7 +45130,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝍𐝫",
                 "word": "𐝍𐝫"
@@ -45331,7 +45331,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -45377,7 +45377,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*336",
@@ -45398,7 +45398,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -45443,7 +45443,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "VIR+*307",
                 "word": "𐛨"
@@ -45518,7 +45518,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -45576,7 +45576,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -45750,7 +45750,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -45854,7 +45854,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -45898,7 +45898,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131C",
@@ -45966,7 +45966,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+TA",
                 "word": "𐜐"
@@ -46071,7 +46071,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -46094,7 +46094,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -46166,7 +46166,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -46216,7 +46216,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -46375,7 +46375,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝫𐝉",
                 "word": "𐝫𐝉"
@@ -46748,7 +46748,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -46814,7 +46814,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝫𐝉𐝫",
                 "word": "𐝫𐝉𐝫"
@@ -46876,7 +46876,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -47026,7 +47026,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -47191,7 +47191,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "MI+JA+RU",
                 "word": "𐛚"
@@ -47241,7 +47241,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -47276,7 +47276,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*304+[ ]",
@@ -47322,7 +47322,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*303+D",
@@ -47636,7 +47636,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -47707,7 +47707,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝫𐝋",
                 "word": "𐝫𐝋"
@@ -47987,14 +47987,14 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -48277,7 +48277,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+TA",
                 "word": "𐜐"
@@ -48568,7 +48568,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -48670,7 +48670,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
+                    "logogram",
                     "assigned number",
                     "head word"
                 ],
@@ -48788,7 +48788,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "MI+JA+RU",
                 "word": "𐛚"
@@ -48912,7 +48912,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+TA",
                 "word": "𐜐"
@@ -48920,7 +48920,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝉𐝫",
                 "word": "𐝉𐝫"
@@ -48947,7 +48947,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -49049,7 +49049,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝉𐝫",
                 "word": "𐝉𐝫"
@@ -49285,7 +49285,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝉𐝫",
                 "word": "𐝉𐝫"
@@ -49466,7 +49466,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝫𐝉",
                 "word": "𐝫𐝉"
@@ -49479,7 +49479,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -49507,7 +49507,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -49528,7 +49528,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*304+PA",
                 "word": "𐜝"
@@ -49562,7 +49562,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -49700,7 +49700,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -50086,7 +50086,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "MI+JA+I",
@@ -50171,7 +50171,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝉𐝫",
                 "word": "𐝉𐝫"
@@ -50623,7 +50623,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝕𐝫",
                 "word": "𐝕𐝫"
@@ -50678,7 +50678,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝫𐝉",
                 "word": "𐝫𐝉"
@@ -50717,7 +50717,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -50769,7 +50769,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -50929,7 +50929,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -51022,7 +51022,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "TU",
@@ -51291,7 +51291,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐘈"
@@ -51560,7 +51560,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -51569,7 +51569,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DA+RO",
                 "word": "𐚳"
@@ -51581,7 +51581,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -51590,7 +51590,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DA+RO",
                 "word": "𐚳"
@@ -51602,7 +51602,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*82",
                 "word": "𐙃"
@@ -51614,7 +51614,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*82",
                 "word": "𐙃"
@@ -51626,7 +51626,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51638,7 +51638,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51650,7 +51650,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51662,7 +51662,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51674,7 +51674,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51686,7 +51686,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51699,7 +51699,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -51712,7 +51712,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -51773,7 +51773,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -51785,7 +51785,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*371",
                 "word": "𐚟"
@@ -51894,7 +51894,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*417-VS",
                 "word": "𐚱"
@@ -51906,7 +51906,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*417-VS",
                 "word": "𐚱"
@@ -51918,7 +51918,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -51930,7 +51930,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -51942,7 +51942,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩"
@@ -51954,7 +51954,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -51966,7 +51966,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -51978,7 +51978,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -51990,7 +51990,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52002,7 +52002,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52014,7 +52014,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52026,7 +52026,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52038,7 +52038,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52050,7 +52050,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52062,7 +52062,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩"
@@ -52074,7 +52074,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩"
@@ -52086,7 +52086,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52098,7 +52098,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52110,7 +52110,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52135,7 +52135,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*322",
                 "word": "𐙮"
@@ -52147,7 +52147,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*322",
                 "word": "𐙮"
@@ -52160,7 +52160,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "GAL",
                 "word": "𐙔"
@@ -52172,7 +52172,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -52185,7 +52185,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -52198,7 +52198,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -52211,7 +52211,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -52261,7 +52261,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52274,7 +52274,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52287,7 +52287,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52300,7 +52300,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52313,7 +52313,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52326,7 +52326,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52339,7 +52339,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52352,7 +52352,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52365,7 +52365,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52378,7 +52378,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52390,7 +52390,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52402,7 +52402,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52414,7 +52414,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52426,7 +52426,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52438,7 +52438,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52450,7 +52450,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52462,7 +52462,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52474,7 +52474,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52510,7 +52510,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*337+*188",
                 "word": "𐜥"
@@ -52522,7 +52522,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*337+*188",
                 "word": "𐜥"
@@ -52534,7 +52534,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52546,7 +52546,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52558,7 +52558,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52570,7 +52570,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52582,7 +52582,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52594,7 +52594,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52606,7 +52606,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52619,7 +52619,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "CAP",
@@ -52632,7 +52632,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "MI+*301",
                 "word": "𐛝"
@@ -52656,7 +52656,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -52671,7 +52671,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*338",
                 "word": "𐙾"
@@ -52684,7 +52684,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*338",
                 "word": "𐙾"
@@ -52697,7 +52697,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*23M",
@@ -52710,7 +52710,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -52738,7 +52738,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52750,7 +52750,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*408-VS",
                 "word": "𐚨"
@@ -52791,7 +52791,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52803,7 +52803,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86+'*188'",
                 "word": "𐛥"
@@ -52816,7 +52816,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52828,7 +52828,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*322",
                 "word": "𐙮"
@@ -52840,7 +52840,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "MI+*301",
                 "word": "𐛝"
@@ -52877,7 +52877,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "QI",
                 "word": "𐘏"
@@ -52889,7 +52889,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*408-VS",
                 "word": "𐚨"
@@ -52925,7 +52925,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -52938,7 +52938,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52963,7 +52963,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52975,7 +52975,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -53027,7 +53027,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*86+'*188'",
                 "word": "𐛥"
@@ -53065,7 +53065,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*408-VS",
                 "word": "𐚨"
@@ -53090,7 +53090,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -53105,7 +53105,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -53218,7 +53218,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "I+*301",
                 "word": "𐛁"
@@ -53525,7 +53525,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝊𐝫",
                 "word": "𐝊𐝫"
@@ -53550,7 +53550,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "SU+MI",
                 "word": "𐛓"
@@ -53558,7 +53558,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝊𐝫",
                 "word": "𐝊𐝫"
@@ -53809,7 +53809,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -53849,7 +53849,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -53894,7 +53894,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RA2",
                 "word": "𐘽"
@@ -53927,7 +53927,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*21M",
                 "word": "𐘑"
@@ -54039,7 +54039,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -54216,7 +54216,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -54337,7 +54337,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -54359,7 +54359,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "VIN+TE",
                 "word": "𐛻"
@@ -54405,7 +54405,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -54427,7 +54427,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -54442,7 +54442,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -54457,7 +54457,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -54472,7 +54472,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -54910,7 +54910,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*528",
                 "word": "𐛈"
@@ -55068,7 +55068,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*581",
                 "word": "𐛴"
@@ -55100,7 +55100,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*47",
                 "word": "𐘨"
@@ -55148,7 +55148,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*47",
                 "word": "𐘨"
@@ -55173,7 +55173,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "TI",
@@ -55352,7 +55352,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "HIDE+L",
@@ -55372,7 +55372,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "HIDE+SA+L",
@@ -55392,7 +55392,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "HIDE+SA+B",
@@ -55422,7 +55422,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -55480,7 +55480,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -55650,7 +55650,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*413+SU",
@@ -55670,7 +55670,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -55691,7 +55691,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*659",
                 "word": "𐜱"
@@ -55727,7 +55727,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*405+Ω",
@@ -55747,7 +55747,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -55781,7 +55781,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*402+A",
@@ -55801,7 +55801,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "TI+*412VAS",
@@ -55843,7 +55843,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*659",
@@ -55890,7 +55890,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*414+[ ]",
                 "word": "𐜳"
@@ -55915,7 +55915,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*581",
@@ -55936,7 +55936,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -55990,7 +55990,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -56018,7 +56018,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -56074,7 +56074,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -56082,7 +56082,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -56154,7 +56154,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "SU",
@@ -56167,7 +56167,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "SI+SE",
                 "word": "𐛉"
@@ -56191,7 +56191,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "SU",
@@ -56262,7 +56262,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -56284,7 +56284,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -56312,7 +56312,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -56334,7 +56334,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -56605,7 +56605,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -56686,7 +56686,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "OLE",
@@ -56695,7 +56695,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -56756,7 +56756,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -56780,7 +56780,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -56805,7 +56805,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*316",
                 "word": "𐙨"
@@ -56847,7 +56847,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*316",
@@ -56868,7 +56868,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -57132,7 +57132,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*563",
                 "word": "𐛣"
@@ -57242,7 +57242,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "𐝕𐝫",
                 "word": "𐝕𐝫"
@@ -57611,7 +57611,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -57647,7 +57647,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -57668,7 +57668,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -57693,7 +57693,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*418++L2",
@@ -57713,7 +57713,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -57860,7 +57860,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -57881,7 +57881,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -57905,7 +57905,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -57973,7 +57973,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -58054,7 +58054,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -58090,7 +58090,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*339",
                 "word": "𐙿"
@@ -58150,7 +58150,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -58192,7 +58192,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -58373,7 +58373,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -58478,7 +58478,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -58625,7 +58625,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -58649,7 +58649,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*811",
                 "word": "𐝮"
@@ -58798,7 +58798,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -58822,7 +58822,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "CAPm+KU",
@@ -58851,7 +58851,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -58974,7 +58974,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "CAPm+KU",
@@ -58995,7 +58995,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -59016,7 +59016,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*21F",
@@ -59076,7 +59076,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*21F",
@@ -59107,7 +59107,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22M",
@@ -59163,7 +59163,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -59228,7 +59228,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*21M",
                 "word": "𐘑"
@@ -59260,7 +59260,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*22M",
                 "word": "𐘔"
@@ -59337,7 +59337,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -59373,7 +59373,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*320",
                 "word": "𐙬"
@@ -59405,7 +59405,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -59425,7 +59425,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -59440,7 +59440,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -59470,7 +59470,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -59485,7 +59485,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "QI",
                 "word": "𐘏"
@@ -59513,7 +59513,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "TI",
@@ -59527,7 +59527,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -59554,7 +59554,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -59609,7 +59609,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*328",
                 "word": "𐙴"
@@ -59700,7 +59700,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -59752,7 +59752,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -59804,7 +59804,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -59836,7 +59836,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -59888,7 +59888,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -59940,7 +59940,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -60014,7 +60014,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -60690,7 +60690,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "PU2",
                 "word": "𐘜"
@@ -60822,7 +60822,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -60884,7 +60884,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -61044,7 +61044,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word"
                 ],
                 "transliteratedWord": "I",
@@ -61345,7 +61345,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -61374,7 +61374,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*800",
                 "word": "𐝠"
@@ -61399,7 +61399,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -61789,7 +61789,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -61804,7 +61804,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "MU",
@@ -61834,7 +61834,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -62050,7 +62050,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -62066,7 +62066,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -62088,7 +62088,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*171",
@@ -62103,7 +62103,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "ZO",
@@ -62119,7 +62119,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -62513,7 +62513,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -62652,7 +62652,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -62680,7 +62680,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -62720,7 +62720,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+QIf",
@@ -62760,7 +62760,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -62787,7 +62787,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -62826,7 +62826,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -62847,7 +62847,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+KI+U",
@@ -62874,7 +62874,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+KI+ME",
@@ -62894,7 +62894,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+QIf",
@@ -62944,7 +62944,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -62963,7 +62963,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -62983,7 +62983,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗"
@@ -63040,7 +63040,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -63087,7 +63087,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+TU",
@@ -63107,7 +63107,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -63127,7 +63127,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗"
@@ -63147,7 +63147,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -63166,7 +63166,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -63187,7 +63187,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗"
@@ -63228,7 +63228,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -63268,7 +63268,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -63340,7 +63340,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -63376,7 +63376,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -63404,7 +63404,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -63462,7 +63462,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -63527,7 +63527,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "E",
                 "word": "𐝫𐘡𐝫"
@@ -64021,7 +64021,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*171",
@@ -64125,7 +64125,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word"
                 ],
                 "transliteratedWord": "I",
@@ -64269,7 +64269,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -64296,7 +64296,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIN+RA",
@@ -64316,7 +64316,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIN+KA",
@@ -64343,7 +64343,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -64376,7 +64376,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -64564,7 +64564,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -64780,7 +64780,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QI+SI",
@@ -64823,7 +64823,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QI+SI",
@@ -64867,7 +64867,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QI+SI",
@@ -64903,7 +64903,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -64933,7 +64933,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -65147,7 +65147,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131B",
@@ -65349,7 +65349,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -65371,7 +65371,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "DU",
                 "word": "𐘬"
@@ -65406,7 +65406,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -65449,7 +65449,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -65500,7 +65500,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "JU",
@@ -65521,7 +65521,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -65543,7 +65543,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "QE+GRA+PA",
@@ -65578,7 +65578,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -65655,7 +65655,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -65690,7 +65690,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -65782,7 +65782,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -65853,7 +65853,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "TI",
@@ -65874,7 +65874,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -65968,7 +65968,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -65989,7 +65989,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -66454,7 +66454,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -66476,7 +66476,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -66505,7 +66505,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -66527,7 +66527,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIN+RA",
@@ -66726,7 +66726,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -66782,7 +66782,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -66803,7 +66803,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -67247,7 +67247,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -67350,7 +67350,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "ME",
@@ -67395,7 +67395,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*22M",
                 "word": "𐘔"
@@ -67455,7 +67455,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -67504,7 +67504,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -67540,7 +67540,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -68192,7 +68192,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -68205,7 +68205,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -68217,7 +68217,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -68258,7 +68258,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -68396,7 +68396,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -68451,7 +68451,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -68625,7 +68625,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word",
                     "recurring head word"
                 ],
@@ -68828,7 +68828,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -68857,7 +68857,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -68922,7 +68922,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -68979,7 +68979,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131B",
@@ -69124,7 +69124,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -69152,7 +69152,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*131B",
                 "word": "𐙎"
@@ -69185,7 +69185,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*317",
@@ -69228,7 +69228,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -69273,7 +69273,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*317",
@@ -69293,7 +69293,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*312",
                 "word": "𐙢"
@@ -69345,7 +69345,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -69375,7 +69375,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -69439,7 +69439,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -69540,7 +69540,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -69561,7 +69561,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -69714,7 +69714,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "logogram"
                 ],
                 "transliteratedWord": "U",
                 "word": "𐘉𐝫"
@@ -69865,7 +69865,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -69887,7 +69887,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131B",
@@ -69908,7 +69908,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "logogram",
                     "head word",
                     "recurring head word"
                 ],
@@ -70007,7 +70007,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "head word"
+                    "dividing line"
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
@@ -70019,7 +70019,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -70055,7 +70055,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "SA",
@@ -70129,7 +70129,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -70210,7 +70210,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "JA",
@@ -70242,7 +70242,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "NI",
@@ -70257,7 +70257,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "VIN+RA",
                 "word": "𐛿"
@@ -70337,7 +70337,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -70359,7 +70359,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -70504,7 +70504,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "logogram"
+                    "word"
                 ],
                 "transliteratedWord": "RE",
                 "word": "𐘙"
@@ -70563,7 +70563,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "logogram",
+                    "word",
                     "assigned number",
                     "head word"
                 ],
@@ -70584,7 +70584,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
+                    "word",
                     "head word"
                 ],
                 "transliteratedWord": "*809",

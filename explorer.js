@@ -885,21 +885,97 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
       );
 }
 
-function highlightMatchingWordTags(inscription, wordTags, wordTagStart, activeWordTagStart) {
-  if (!activeWordTags.length) {
-    return;
-  }
-  // We've matched all the active word tags
-  if (activeWordTagStart == activeWordTags.length) {
-    var i = wordTagStart - 1;
-    while (activeWordTagStart > 0) {
+function getMatchingSequences(wordTags, activeWordTags) {
+  /*
+  Copyright (c) 2015 Julian Alexander Fleischer
+
+  Permission is hereby granted, free of charge, to any
+  person obtaining a copy of this software and associated
+  documentation files (the "Software"), to deal in the
+  Software without restriction, including without
+  limitation the rights to use, copy, modify, merge,
+    publish, distribute, sublicense, and/or sell copies of
+  the Software, and to permit persons to whom the Software
+  is furnished to do so, subject to the following
+  conditions:
+
+  The above copyright notice and this permission notice
+  shall be included in all copies or substantial portions
+  of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
+  ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+  TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+  PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+  THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+    DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+  CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.*/
+	var m = 0;
+	var i = 0;
+	var table = [];
+
+	var pos = 2;
+	var cnd = 0;
+
+	table[0] = -1;
+	table[1] = 0;
+
+	// build the table for KMP. This takes `O(word.length)` steps.
+	while (pos < activeWordTags.length) {
+		if (activeWordTags[pos - 1] == activeWordTags[cnd]) {
+			cnd = cnd + 1;
+			table[pos] = cnd;
+			pos = pos + 1;
+		} else if (cnd > 0) {
+			cnd = table[cnd];
+		} else {
+			table[pos] = 0;
+			pos = pos + 1;
+		}
+	}
+
+  var matches = [];
+	// scan the string. This takes `O(string.length)` steps.
+	while (m + i < wordTags.length) {
+		var tags = wordTags[m + i];
+		if (tags.includes(activeWordTags[i])) {
+			if (i == activeWordTags.length - 1) {
+				matches.push(m);
+			}
+			i = i + 1;
+		} else {
+			if (table[i] > -1) {
+				m = m + i - table[i];
+				i = table[i];
+			} else {
+				i = 0;
+				m = m + 1;
+			}
+		}
+	}
+	// Returns -1 if the subsequence was not found in the sequence.
+	return matches;
+}
+
+function highlightMatchingWordTags(inscription, wordTags, activeWordTags) {
+  var wordTagsWithIndex = wordTags.map((tag, index) => { tag.originalIndex = index; return tag; }).filter(tag => tag.length);
+  var matches = getMatchingSequences(wordTagsWithIndex, activeWordTags);
+  matches.forEach( i => {
+    // Retrieve the original index for wordTags
+    i = wordTagsWithIndex[i].originalIndex; 
+
+    // Now that we have the correct index, display the tags.
+    var j = 0;
+    while (j < activeWordTags.length) {
       var tags = wordTags[i];
       if (!tags.length) {
-        i--;
+        i++;
         continue;
       }
       var translation = document.getElementById(inscription.name + "-translation-" + i);
-      var highlightColor = tagColors[activeWordTags[activeWordTagStart - 1]];
+      var highlightColor = tagColors[activeWordTags[j]];
       translation.style.backgroundColor = highlightColor;
       var transliteration = document.getElementById(inscription.name + "-transliteration-" + i);
       transliteration.style.backgroundColor = highlightColor;
@@ -911,48 +987,15 @@ function highlightMatchingWordTags(inscription, wordTags, wordTagStart, activeWo
 
       var highlightedElements = setHighlightLettersInTranscription(inscription.name, i, highlightColor);
       highlightedSearchElements = highlightedSearchElements.concat(highlightedElements);
-      i--;
-      activeWordTagStart--;
+      i++;
+      j++;
     }
-    return;
-  }
-  if (wordTagStart == wordTags.length) {
-    return;
-  }
-
-  var tags = wordTags[wordTagStart];
-  if (!tags.length) {
-    highlightMatchingWordTags(inscription, wordTags, wordTagStart + 1, activeWordTagStart);
-    return;
-  }
-
-  var searchTag = activeWordTags[activeWordTagStart];
-  if (tags.includes(searchTag)) {
-    highlightMatchingWordTags(inscription, wordTags, wordTagStart + 1, activeWordTagStart + 1);
-  }
-  highlightMatchingWordTags(inscription, wordTags, wordTagStart + 1, 0);
+  });
 }
 
-function hasWordTagCombination(wordTags, wordTagStart, activeWordTagStart) {
-  if (!activeWordTags.length) {
-    return false;
-  }
-  // We've matched all the active word tags
-  if (activeWordTagStart == activeWordTags.length) {
-    return true;
-  }
-  if (wordTagStart == wordTags.length) {
-    return false;
-  }
-
-  var tags = wordTags[wordTagStart];
-  var searchTag = activeWordTags[activeWordTagStart];
-  if (tags.includes(searchTag)) {
-    if (hasWordTagCombination(wordTags, wordTagStart + 1, activeWordTagStart + 1)) {
-      return true;
-    }
-  }
-  return hasWordTagCombination(wordTags, wordTagStart + 1, 0);
+function hasWordTagCombination(wordTags, activeWordTags) {
+  var matches = getMatchingSequences(wordTags.filter(tag => tag.length), activeWordTags);
+  return matches.length > 0;
 }
 
 function hasTag(tag, inscription) {
@@ -999,7 +1042,7 @@ function applySearchTerms() {
       }
     });
 
-    var shouldHighlightWordTags = hasWordTagCombination(inscription.wordTags.filter(tags => tags.length), 0, 0);
+    var shouldHighlightWordTags = hasWordTagCombination(inscription.wordTags, activeWordTags);
     if (shouldHighlightWordTags) {
       shouldDisplay = true;
     }
@@ -1029,7 +1072,7 @@ function applySearchTerms() {
     }
 
     if (shouldHighlightWordTags) {
-      highlightMatchingWordTags(inscription, inscription.wordTags, 0, 0);
+      highlightMatchingWordTags(inscription, inscription.wordTags, activeWordTags);
     }
   }
 }
@@ -1210,11 +1253,15 @@ function toggleWordTag(event, datum, activeMetadata, commandElementID) {
   document.getElementById("word-tag-container").appendChild(item);
 
   applySearchTerms();
+  var element = document.getElementById(commandElementID);
+  element.style.backgroundColor = "purple";
   event.stopPropagation();
 }
 
 function removeWordTag(event, index) {
   activeWordTags.splice(index, 1);
+  var element = document.getElementById("wordtags-command");
+  element.style.backgroundColor = activeWordTags.length ? "purple" : "black";
   removeFilter(event);
 }
 
