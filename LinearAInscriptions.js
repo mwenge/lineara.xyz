@@ -36301,10 +36301,14 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1845+1733",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1845+1733-Facsimile.jpg"
+    ],
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1845+1733-Inscription.jpg"
+    ],
     "name": "HTWa1845+1733",
     "parsedInscription": "𐙕",
     "scribe": "",
