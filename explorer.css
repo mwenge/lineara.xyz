@@ -512,6 +512,7 @@ dt, dd, font {
   transform: translateX(-50%); /* horizontally centre */
   bottom: 5em;
   visibility: hidden;
+  z-index: 1500;
 }
 #filter-details-container {
   background-color: rgba(0,0,0,0.1);

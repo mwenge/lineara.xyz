@@ -842,6 +842,9 @@ function updateSearchTerms(evt, searchTerm) {
 
   container.appendChild(item);
   applySearchTerms();
+  if (!evt) {
+    return;
+  }
   evt.stopPropagation();
 }
 
