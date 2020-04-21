@@ -1057,6 +1057,7 @@ function applySearchTerms() {
       continue;
     }
     var newElement = loadInscription(inscription);
+    observer.observe(inscription.element);
     if (!newElement) {
       inscription.element.style.display = "flex";
     }
@@ -1283,10 +1284,11 @@ let observer = new IntersectionObserver(function(entries, self) {
         && !activeTags.length && !activeWordTags.length) {
 		  var key = inscriptionsToLoad.next().value;
       if (key) {
-        var visibleInscription = loadInscription(inscriptions.get(key));
-        if (visibleInscription) {
-          observer.observe(visibleInscription);
+        var inscription = inscriptions.get(key);
+        if (!inscription.element) {
+          loadInscription(inscription);
         }
+        observer.observe(inscription.element);
       }
       self.unobserve(entry.target);
     }
