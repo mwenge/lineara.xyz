@@ -7446,8 +7446,8 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "4",
-                "word": "𐄊"
+                "transliteratedWord": "1",
+                "word": "𐄇"
             },
             {
                 "tags": [],
@@ -25057,7 +25057,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "HT123a",
+        "name": "HT123+124a",
         "tagsForWords": [
             {
                 "tags": [
@@ -25517,7 +25517,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "HT123b",
+        "name": "HT123+124b",
         "tagsForWords": [
             {
                 "tags": [

@@ -13487,18 +13487,18 @@ var inscriptions = new Map([
         "𐄘𐄍"
     ]
 }],
-["HT123a",{
+["HT123+124a",{
     "facsimileImages": [
-        "images/HT123a-Facsimile.jpg"
+        "images/HT123+124a-Facsimile.jpg"
     ],
-    "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRights": "",
+    "imageRightsURL": "",
     "images": [
-        "images/HT123a-Inscription.jpg"
+        "images/HT123+124a-Inscription.jpg"
     ],
-    "name": "HT123a",
+    "name": "HT123+124a",
     "parsedInscription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃\n𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆\n𐙜𐄎𐝆𐝃\n𐘸𐘁𐝎\n𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫\n𐝫𐘸𐘁𐝆𐝃\n𐘀𐘹𐙋𐄐𐄋\n𐙜𐄊𐝃\n𐘸𐘁𐝆𐝃\n𐙂𐘁𐙋𐄘𐄉𐝆\n𐙜𐄁\n𐙂𐘁𐝫𐄑𐄋𐝅\n𐘸𐘁𐄌𐝫",
-    "scribe": "",
+    "scribe": "HT Scribe 6",
     "support": "tablet",
     "transcription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆𐙜𐄎\n𐝕𐘸𐘁𐝎𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫𐘸𐘁𐝆𐝃\n𐘀𐘹𐙋𐄐𐄋𐙜𐄊𐝃\n𐘸𐘁𐝕𐙂𐘁𐙋\n𐄘𐄉𐝆𐙜𐄁𐙂𐘁𐝫𐄑\n𐄋𐝅𐘸𐘁𐄌𐝫",
     "translatedWords": [
@@ -13691,18 +13691,18 @@ var inscriptions = new Map([
         "𐄌𐝫"
     ]
 }],
-["HT123b",{
+["HT123+124b",{
     "facsimileImages": [
-        "images/HT123b-Facsimile.jpg"
+        "images/HT123+124b-Facsimile.jpg"
     ],
-    "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRights": "",
+    "imageRightsURL": "",
     "images": [
-        "images/HT123b-Inscription.jpg"
+        "images/HT123+124b-Inscription.jpg"
     ],
-    "name": "HT123b",
+    "name": "HT123+124b",
     "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝆𐝃\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫",
-    "scribe": "",
+    "scribe": "HT Scribe 6",
     "support": "tablet",
     "transcription": "𐙓𐙜𐄐𐄇𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁𐘢𐘞𐄊𐙓\n𐄇𐙓𐘬𐄐𐘹𐘂𐘆𐘀\n𐝆𐝉𐘾𐘅𐝫𐘤𐘬\n𐝀𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑𐘸𐘁𐄋",
     "translatedWords": [
@@ -64279,7 +64279,7 @@ var sequences = new Map([
 },
  ],
 ],
-["HT123a", [
+["HT123+124a", [
 {
     "inscriptions": [
         "KH85"
@@ -64294,7 +64294,7 @@ var sequences = new Map([
 ["KH85", [
 {
     "inscriptions": [
-        "HT123a"
+        "HT123+124a"
     ],
     "sequence": [
         "𐝆",
