@@ -709,18 +709,18 @@ function toggleTranslation(container) {
   Array.prototype.map.call(container.getElementsByClassName("transliteration-item"), x => x.style.display == "none" ? x.style.display = "block" : x.style.display = "none");
 }
 
-function addWordTip(word, inscription) {
+function addWordTip(word, name, index) {
   word = stripErased(word.trim());
   var wordCount = 0;
   if (wordsInCorpus.has(word)) {
     wordCount = wordsInCorpus.get(word) - 1;
   }
-  var tip = document.getElementById(inscription + "-tip");
-  var inscriptionElement = document.getElementById(inscription);
+  var tip = document.getElementById(name + "-tip");
+  var inscriptionElement = document.getElementById(name);
   if (!tip) {
     var tip = document.createElement("div")
     tip.className = 'word-tip';
-    tip.id = inscription + "-tip";
+    tip.id = name + "-tip";
     inscriptionElement.appendChild(tip);
   }
   tip.style.display = "block";
@@ -759,6 +759,18 @@ function addWordTip(word, inscription) {
   wordCommentElement.textContent = tipText;
   tip.appendChild(wordCommentElement);
 
+  var wordCommentElement = document.createElement("div");
+  wordCommentElement.className = "lexicon";
+  wordCommentElement.textContent = "Tags: ";
+  var tagsForWord = inscriptions.get(name).wordTags[index];
+  tagsForWord.forEach(x => {
+    var tag = document.createElement("div");
+    tag.className = "tip-tag";
+    tag.textContent = x;
+    wordCommentElement.appendChild(tag);
+  });
+  tip.appendChild(wordCommentElement);
+
   var availableHeight = inscriptionElement.getBoundingClientRect().top;
   if (availableHeight < tip.offsetHeight) {
     tip.style.top = inscriptionElement.offsetHeight + "px";
@@ -795,7 +807,7 @@ function highlightWords(name, index) {
     var item = items[i];
     var element = document.getElementById(name + "-" + item + "-" + index);
     if (item == "transcription") {
-      addWordTip(element.textContent, name);
+      addWordTip(element.textContent, name, index);
     }
     if (element.style.backgroundColor) {
       continue;

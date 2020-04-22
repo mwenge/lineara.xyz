@@ -538,6 +538,18 @@ dt, dd, font {
 area {
   cursor: pointer;
 }
+.tip-tag {
+  padding: 3px;
+  border: 1px solid white;
+  border-radius: 3px;
+  color: white;
+  opacity: 0.8;
+  font-size: 0.7em;
+  line-height: 0.7em;
+  background-color: black;
+  display: inline-block;
+  text-transform: uppercase;
+}
 .filter-tag {
   cursor: pointer;
   padding: 3px;
