@@ -122,6 +122,7 @@ function checkKey(e) {
     case "c": // 'c' - clear search terms
       var container = document.getElementById("search-terms");
       container.innerHTML = "";
+      clearTags();
       applySearchTerms();
       break;
     default:
@@ -1243,6 +1244,26 @@ function toggleMetadatum(event, datum, activeMetadata, commandElementID) {
   event.stopPropagation();
 }
 
+function clearTags() {
+  var container = document.getElementById("filters-container");
+  Array.prototype.map.call(container.getElementsByClassName("filter-command"),
+                           x => x.style.backgroundColor = "black");
+  container = document.getElementById("filter-details-container");
+  Array.prototype.map.call(container.getElementsByClassName("filter-tag"),
+                           x => { x.style.backgroundColor = "black"; x.style.color = "white";});
+  container = document.getElementById("filter-details-container");
+  if (container) {
+    container.innerHTML = "";
+  }
+  activeTags = [];
+  activeSupports = [];
+  activeScribes = [];
+  activeContexts = [];
+  activeWordTags = [];
+  activeTagValues = [];
+  activeFindspots = [];
+}
+
 function toggleWordTag(event, datum, activeMetadata, commandElementID) {
   activeMetadata.push(datum);
   if (!tagColors[datum]) {
@@ -1280,7 +1301,6 @@ var activeFindspots = [];
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
     // Only load new inscriptions if a search isn't active
-    console.log(highlightedSearchElements, activeTags, activeWordTags);
     var searchTerms = document.getElementById("search-terms");
     var numberOfSearchTerms = searchTerms.children.length;	
     if (entry.isIntersecting && !numberOfSearchTerms && !highlightedSearchElements.length
