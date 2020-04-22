@@ -1280,7 +1280,10 @@ var activeFindspots = [];
 let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
     // Only load new inscriptions if a search isn't active
-    if (entry.isIntersecting && !highlightedSearchElements.length
+    console.log(highlightedSearchElements, activeTags, activeWordTags);
+    var searchTerms = document.getElementById("search-terms");
+    var numberOfSearchTerms = searchTerms.children.length;	
+    if (entry.isIntersecting && !numberOfSearchTerms && !highlightedSearchElements.length
         && !activeTags.length && !activeWordTags.length) {
 		  var key = inscriptionsToLoad.next().value;
       if (key) {
