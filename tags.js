@@ -432,7 +432,6 @@ var contexts = new Map();
 // All HT inscriptions are LMIB
 for (var inscription of inscriptions.values()) {
   if (inscription.name.substr(0, 2) == "HT") {
-    console.log(inscription.name);
     contextValues.push([inscription.name, "LMIB"]);
   }
 }
