@@ -160,12 +160,13 @@ function closeZoomedWindow(e) {
 
 var commentaries = {};
 commentaries["HT118"] = "https://docs.google.com/document/d/e/2PACX-1vQN17sMMY9JAehLGo8kfNHNq5qQMZFIhBrZhjuPRZemRXBcbAyxk9uIeLaEHuWFeZQ7-MgPM0iYgB5Y/pub?embedded=true";
-commentaries["HT123+HT124b"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4OWVOOuhdcv54lX942IcbCXEt1BazXLAoQiByVIQKHHymG1K1WEUFm9OLDyQuKmMGxUJ9w6IttC/pub?embedded=true";
-commentaries["HT123+HT124a"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4OWVOOuhdcv54lX942IcbCXEt1BazXLAoQiByVIQKHHymG1K1WEUFm9OLDyQuKmMGxUJ9w6IttC/pub?embedded=true";
+commentaries["HT123+124b"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4OWVOOuhdcv54lX942IcbCXEt1BazXLAoQiByVIQKHHymG1K1WEUFm9OLDyQuKmMGxUJ9w6IttC/pub?embedded=true";
+commentaries["HT123+124a"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4OWVOOuhdcv54lX942IcbCXEt1BazXLAoQiByVIQKHHymG1K1WEUFm9OLDyQuKmMGxUJ9w6IttC/pub?embedded=true";
 commentaries["HT95a"] = "https://docs.google.com/document/d/e/2PACX-1vTBHvxagDkbtGQrRGB7S2D79hzuAuBISJLLkmoTFChHB0VD0pgsucIg0Bysq9N9TfAn6OzmrycYooHK/pub?embedded=true";
 commentaries["HT95b"] = "https://docs.google.com/document/d/e/2PACX-1vTBHvxagDkbtGQrRGB7S2D79hzuAuBISJLLkmoTFChHB0VD0pgsucIg0Bysq9N9TfAn6OzmrycYooHK/pub?embedded=true";
 
 function showCommentaryForInscription(inscription) {
+  console.log(inscription);
   if (!commentaries[inscription]) {
     showYoungerCommentaryForInscription(inscription);
     return;
@@ -928,51 +929,51 @@ function getMatchingSequences(wordTags, activeWordTags) {
   CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
   IN THE SOFTWARE.*/
-	var m = 0;
-	var i = 0;
-	var table = [];
+  var m = 0;
+  var i = 0;
+  var table = [];
 
-	var pos = 2;
-	var cnd = 0;
+  var pos = 2;
+  var cnd = 0;
 
-	table[0] = -1;
-	table[1] = 0;
+  table[0] = -1;
+  table[1] = 0;
 
-	// build the table for KMP. This takes `O(word.length)` steps.
-	while (pos < activeWordTags.length) {
-		if (activeWordTags[pos - 1] == activeWordTags[cnd]) {
-			cnd = cnd + 1;
-			table[pos] = cnd;
-			pos = pos + 1;
-		} else if (cnd > 0) {
-			cnd = table[cnd];
-		} else {
-			table[pos] = 0;
-			pos = pos + 1;
-		}
-	}
+  // build the table for KMP. This takes `O(word.length)` steps.
+  while (pos < activeWordTags.length) {
+    if (activeWordTags[pos - 1] == activeWordTags[cnd]) {
+      cnd = cnd + 1;
+      table[pos] = cnd;
+      pos = pos + 1;
+    } else if (cnd > 0) {
+      cnd = table[cnd];
+    } else {
+      table[pos] = 0;
+      pos = pos + 1;
+    }
+  }
 
   var matches = [];
-	// scan the string. This takes `O(string.length)` steps.
-	while (m + i < wordTags.length) {
-		var tags = wordTags[m + i];
-		if (tags.includes(activeWordTags[i])) {
-			if (i == activeWordTags.length - 1) {
-				matches.push(m);
-			}
-			i = i + 1;
-		} else {
-			if (table[i] > -1) {
-				m = m + i - table[i];
-				i = table[i];
-			} else {
-				i = 0;
-				m = m + 1;
-			}
-		}
-	}
-	// Returns -1 if the subsequence was not found in the sequence.
-	return matches;
+  // scan the string. This takes `O(string.length)` steps.
+  while (m + i < wordTags.length) {
+    var tags = wordTags[m + i];
+    if (tags.includes(activeWordTags[i])) {
+      if (i == activeWordTags.length - 1) {
+        matches.push(m);
+      }
+      i = i + 1;
+    } else {
+      if (table[i] > -1) {
+        m = m + i - table[i];
+        i = table[i];
+      } else {
+        i = 0;
+        m = m + 1;
+      }
+    }
+  }
+  // Returns -1 if the subsequence was not found in the sequence.
+  return matches;
 }
 
 function highlightMatchingWordTags(inscription, wordTags, activeWordTags) {
@@ -1026,7 +1027,7 @@ function hasTag(tag, inscription) {
 
 function applySearchTerms() {
   var searchTerms = document.getElementById("search-terms");
-  var numberOfSearchTerms = searchTerms.children.length;	
+  var numberOfSearchTerms = searchTerms.children.length;
   var searchTermValues = Array.prototype.slice.call(searchTerms.children)
                          .map(x => stripErased(x.textContent));
   var numberOfTags = activeTags.length + activeWordTags.length;
@@ -1314,10 +1315,10 @@ let observer = new IntersectionObserver(function(entries, self) {
   entries.forEach(entry => {
     // Only load new inscriptions if a search isn't active
     var searchTerms = document.getElementById("search-terms");
-    var numberOfSearchTerms = searchTerms.children.length;	
+    var numberOfSearchTerms = searchTerms.children.length;
     if (entry.isIntersecting && !numberOfSearchTerms && !highlightedSearchElements.length
         && !activeTags.length && !activeWordTags.length) {
-		  var key = inscriptionsToLoad.next().value;
+      var key = inscriptionsToLoad.next().value;
       if (key) {
         var inscription = inscriptions.get(key);
         if (!inscription.element) {
