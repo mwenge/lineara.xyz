@@ -14,6 +14,7 @@ HT121 - last lette looks wrong
 HT127a - letters missing from transcription
 HT128b - first line of transcription wrong way round
 HT140 - no evidence of 2 letters on second line
+HT154e - an extra 𐄊 here?
 KH1 - missing a 1 on first line?
 KH6 - missing '1's?
 ZA10b - extra character in second last line
