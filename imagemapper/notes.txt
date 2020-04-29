@@ -12,6 +12,7 @@ HT111b - transcription wrong way round in last line
 HT115b - 2 graphemes missed in last line
 HT121 - last lette looks wrong
 HT127a - letters missing from transcription
+HT127b - 𐛖 not visible in transcription
 HT128b - first line of transcription wrong way round
 HT140 - no evidence of 2 letters on second line
 KH1 - missing a 1 on first line?

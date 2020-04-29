@@ -13,6 +13,43 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 21",
     "support": "tablet",
     "transcription": "𐘿𐘽𐘉𐄁𐘸𐘁𐄙𐄘\n𐄍𐙀𐘲𐄖𐘆𐘆\n𐘍𐘥𐄔𐄈𐙂𐘰𐘯𐄙\n𐄏𐘇𐘴𐘅𐘙𐄙𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "QE-RA2-U",
         "𐄁",
@@ -85,6 +122,42 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘇𐘾𐘘𐄁𐜋𐄑𐝫\n𐝫𐜊𐄐𐄍𐜎𐄉𐝫\n𐝫𐘸𐘙𐘳𐘅𐜋𐄔𐄊𐝫\n𐝫𐜊𐄓𐄍\n𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-KA-RU",
         "𐄁",
@@ -163,6 +236,65 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙁𐝫𐘆𐘅𐝫\n𐝫𐄈𐘿𐘽𐘱𐝫\n𐝫𐄈𐘆𐄈𐝫\n𐄊𐘕𐘘𐄇𐘘𐝫\n𐝫𐘤𐘹𐘽𐘙𐄋𐘆𐝫\n𐝫𐙂𐘰𐘯𐄉𐝫\n𐝫𐙁𐘆𐄈𐘀𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -283,6 +415,32 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙚𐘠𐘾𐘇𐘙\n𐝫𐘬𐘭𐘃𐄈𐘂𐘙\n𐝫𐘳𐘢𐘤𐘆𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -337,6 +495,30 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙛𐝫\n𐝫𐙁𐘤𐄒𐝫\n𐝫𐘣𐘬𐄐𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -397,6 +579,64 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘾𐘂𐄁𐘀𐘳𐘴\n𐄁𐘃𐄁𐘝𐄐𐄋𐘢𐘳𐘱\n𐄑𐄊𐛑𐝓𐙁𐙭\n𐄐𐘵𐘽𐘆𐘗𐄈𐘾\n𐘂𐘿𐄋𐝕\n𐘀𐘿𐘴𐄁𐘿𐘢𐘳\n𐄑𐄈𐝕𐘝𐄐𐄋𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"summary account?\"",
         "𐄁",
@@ -526,6 +766,49 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘮𐘬𐘝𐘻\n𐄉𐝅𐝢𐘠𐘈𐄇𐙁\n𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃𐘞𐙁𐄒\n𐄋𐘰𐘝𐘅𐄐𐄍𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "WA-DU-NI-MI",
         "3",
@@ -616,6 +899,35 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 11",
     "support": "tablet",
     "transcription": "𐘿𐘠𐄁𐙇\n𐘚𐘘𐘱𐄉\n𐘬𐘱𐄊\n𐘳𐘅𐘠𐄇𐘀𐘙\n𐄇𐘃𐘹𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "QE-TI",
         "𐄁",
@@ -691,6 +1003,18 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 11",
     "support": "tablet",
     "transcription": "𐘐𐘹𐘗𐄇\n𐘀𐘘𐙵𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*21F-TU-NE",
         "1",
@@ -727,6 +1051,44 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 2",
     "support": "tablet",
     "transcription": "𐘧𐘆𐜓𐄐𐘰\n𐘾𐘴𐘠𐄇𐝆𐘂𐄉𐝆\n𐘃𐙕𐄈𐘌𐙠𐘚\n𐝕𐘤𐘸𐘴𐝃\n𐘸𐘙𐘳𐘅𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JE-DI",
         "OLE+KI",
@@ -817,6 +1179,43 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 2",
     "support": "tablet",
     "transcription": "𐘲𐘜𐙓𐄇\n—\n𐄋𐘰𐙓𐄈𐘌𐙠\n𐘚𐄇𐝃𐝄𐘾𐘂𐝆\n𐘂𐘱𐘙𐄇𐝄𐛥𐝆\n𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SU-PU2-*188",
         "1",
@@ -909,10 +1308,63 @@ var inscriptions = new Map([
         "images/HT9a-Inscription.jpg"
     ],
     "name": "HT9a",
-    "parsedInscription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝆𐝃\n𐙚𐘹𐄐\n𐘆𐘅𐘉𐄊\n𐘿𐘫𐄈\n𐙰𐘆𐘴𐄈𐝆\n𐘳𐘚𐙌𐄈𐝆\n𐘇𐘘𐄊𐝃\n𐙂𐘁𐄒𐄇𐝆𐝃",
+    "parsedInscription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝕\n𐙚𐘹𐄐\n𐘆𐘅𐘉𐄊\n𐘿𐘫𐄈\n𐙰𐘆𐘴𐄈𐝆\n𐘳𐘚𐙌𐄈𐝆\n𐘇𐘘𐄊𐝃\n𐙂𐘁𐄒𐄇𐝕",
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝕𐙚𐘹\n𐄐𐘆𐘅𐘉𐄊𐘿𐘫\n𐄈𐙰𐘆𐘴𐄈𐝆𐘳\n𐘚𐙌𐄈𐝆𐘇𐘘\n𐄊𐝃𐙂𐘁𐄒𐄇𐝆𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SA-RO",
         "𐄁",
@@ -924,7 +1376,7 @@ var inscriptions = new Map([
         "PA-DE",
         "𐄁",
         "5",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "*306-TU",
         "10",
@@ -949,7 +1401,7 @@ var inscriptions = new Map([
         "\n",
         "\"total\"",
         "31",
-        "³⁄₄"
+        "𐝕"
     ],
     "transliteratedWords": [
         "SA-RO",
@@ -962,7 +1414,7 @@ var inscriptions = new Map([
         "PA-DE",
         "𐄁",
         "5",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "*306-TU",
         "10",
@@ -987,7 +1439,7 @@ var inscriptions = new Map([
         "\n",
         "KU-RO",
         "31",
-        "³⁄₄"
+        "𐝕"
     ],
     "words": [
         "𐘞𐘁",
@@ -1000,7 +1452,7 @@ var inscriptions = new Map([
         "𐘂𐘦",
         "𐄁",
         "𐄋",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐙚𐘹",
         "𐄐",
@@ -1025,7 +1477,7 @@ var inscriptions = new Map([
         "\n",
         "𐙂𐘁",
         "𐄒𐄇",
-        "𐝆𐝃"
+        "𐝕"
     ]
 }],
 ["HT9b",{
@@ -1042,6 +1494,58 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘰𐄁𐘮𐘱𐘢𐝫\n—\n𐘾𐙙𐄁𐘂𐘦𐄉𐘇𐘤\n𐄉𐙚𐘹𐄎𐙰𐘆𐘴𐄈\n𐘿𐘫𐄈𐘳𐘚𐙌𐄈\n𐘆𐘅𐘉𐄊\n𐙂𐘁𐄑𐄊",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PA3",
         "𐄁",
@@ -1162,6 +1666,56 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙂𐘝𐘲𐄁𐘞𐙁𐄊𐄁\n𐘉𐙱𐘍𐄊\n𐘂𐄁𐘀𐘙𐄐𐄌𐝆𐙕\n𐄌𐘉𐙱𐘍𐄐𐄊𐝫𐙙𐘘\n𐄈𐝆𐘀𐘭𐘀𐄎𐘋𐘍𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "erased-legible",
+        "erased-legible",
+        "eol",
+        "erased-legible",
+        "erased-legible",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "erased-legible",
+        "erased-legible",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "Kunisu (a place)",
         "𐄁",
@@ -1279,6 +1833,38 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘉𐘠𐄇𐘀𐘙𐄈𐘳\n𐘭𐘅𐄐𐄋𐙢𐘳𐄌𐝆\n𐘾𐘞𐘘𐄌\n𐘳𐘅𐘠𐄏𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "U-TI",
         "1",
@@ -1357,6 +1943,43 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 24",
     "support": "tablet",
     "transcription": "𐘇𐘘𐘴𐝫𐄁𐝫\n𐄉𐘾𐘁𐘅𐄈𐘇\n𐙮𐘭𐄇𐙂𐘁𐄐𐘇\n𐘲𐘱𐄇𐙇𐘚\n𐄉𐘷𐄐𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-RU-RA",
         "𐄁",
@@ -1441,6 +2064,43 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 24",
     "support": "tablet",
     "transcription": "𐝫𐘦𐘯𐘘𐘽\n𐙅𐘾𐄓𐘾𐄒\n𐘾𐄔𐘘𐙀𐘅\n𐘾𐄒𐘞𐘿𐘭𐄁\n𐘾𐄒𐙂𐘁\n𐄙𐄗",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DE-NU",
         "\n",
@@ -1534,6 +2194,47 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 11",
     "support": "tablet",
     "transcription": "𐘌𐘠𐘀𐘃𐄁\n𐜉𐄋𐙘𐄋\n𐘿𐘹𐘗𐄁𐚻𐄇\n𐘡𐄒𐛢𐄁𐙈\n𐄋𐜚𐄉𐘝𐄇\n𐚼𐝇𐘀𐘚𐄔",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "QA-TI-DA-TE",
         "𐄁",
@@ -1651,6 +2352,59 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 8",
     "support": "tablet",
     "transcription": "𐘾𐘉𐘦𐘳\n𐙍𐄁𐘃𐄁𐘙𐘍𐄋𐝫𐝆𐝫\n𐘃𐘹𐄔𐄌𐘃𐘸\n𐄑𐄍𐝆𐙂𐙀𐘝𐄐𐄎\n𐘀𐘤𐙈𐄐𐄏𐘚𐘬\n𐘗𐘤𐄋\n𐙂𐘁𐄙𐄒𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-U-DE-TA",
         "wine",
@@ -1759,6 +2513,50 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 14",
     "support": "tablet",
     "transcription": "𐘫𐙍𐄁𐘃𐄁𐙉𐄒𐜗𐄉\n𐜉𐄉𐙘𐄏𐙋𐄐𐄉\n𐘇𐘜𐘅𐘬𐙉𐄓𐄋\n𐜗𐄋𐜉𐄊𐙘𐄌\n𐙋𐄐𐄊",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PU-VIN",
         "𐄁",
@@ -1882,6 +2680,32 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘉𐘟𐘤𐙉𐘬𐙌𐘇\n𐄞𐄗𐄊𐛹\n𐄝𐄖\n𐙓𐄁𐘸𐘁𐄜\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "U-*34-SI",
         "wheat",
@@ -1948,6 +2772,31 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 10",
     "support": "tablet",
     "transcription": "𐘾𐙂𐘂𐄁𐘆\n𐘅𐘉𐝄𐄁𐘮\n𐝁𐜇𐝃𐝄\n𐘞𐘊𐘼𐝇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-KU-PA",
         "𐄁",
@@ -2017,6 +2866,27 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 18",
     "support": "tablet",
     "transcription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍\n𐄒𐄍𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RA-󽇫-TI",
         "𐄁",
@@ -2074,6 +2944,27 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 20",
     "support": "tablet",
     "transcription": "𐘂𐘈𐛱𐄑𐜓𐄈\n𐙘𐄉𐘞𐘽𐙉𐄐𐘝\n𐄐",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PA-SE",
         "GRA+QE",
@@ -2143,6 +3034,29 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 18",
     "support": "tablet",
     "transcription": "𐘴𐙐𐘠𐄁𐘃𐄁\n𐙍𐄒𐘞𐘁\n𐄋𐝆𐘬𐘋𐘆\n𐄓𐄉𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RA-*164-TI",
         "𐄁",
@@ -2206,6 +3120,39 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 10",
     "support": "tablet",
     "transcription": "𐘂𐘁𐘲𐄁𐙂\n𐙁𐘶𐝃𐘿𐙂\n𐘙𐄁𐘆𐝆𐘑𐝄\n𐘞𐘙𐘶𐝄𐘮\n𐝃𐜇𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PA-RO-SU",
         "𐄁",
@@ -2293,6 +3240,36 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 22",
     "support": "tablet",
     "transcription": "𐘢𐘳𐘾𐘈𐄁𐘃𐄁\n𐙉𐄙𐄕𐄇𐜋𐄐\n𐄇𐜎𐄉𐝕𐙘𐄍𐝕\n𐙋𐄇𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PI-TA-KA-SE",
         "𐄁",
@@ -2377,6 +3354,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐛸𐄚𐄒\n—\n𐜣𐄙𐄐𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -2425,6 +3417,60 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘾𐘅𐄁𐙗𐝁𐙜𐝅𐜍𐝅\n𐜖𐝅𐜏𐝅𐛚𐝅𐙍\n𐄐𐚹𐄐𐚺𐄐𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇𐘞𐘞\n𐘋𐝇𐛊𐄐𐘺𐘘𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-NA",
         "𐄁",
@@ -2575,6 +3621,39 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘝𐘴𐙗𐝁𐙖𐝫𐝁\n𐛚𐝫𐘕𐝫𐚻𐝫𐚹𐄇\n𐝫𐘡𐄍𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NI-RA",
         "cyperus",
@@ -2662,6 +3741,46 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐛢𐝫\n𐘘𐘚𐘺𐛢𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "from KU-PA-RI",
         "KI-MA-RU",
@@ -2736,18 +3855,34 @@ var inscriptions = new Map([
         "images/HT24b-Inscription.jpg"
     ],
     "name": "HT24b",
-    "parsedInscription": "𐝫𐙈𐄇𐝆𐝃\n𐛋𐙈𐄇𐝆𐝃\n𐛒𐙈𐄇",
+    "parsedInscription": "𐝫𐙈𐄇𐝕\n𐛋𐙈𐄇𐝕\n𐛒𐙈𐄇",
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙈𐄇𐝕𐛋\n𐙈𐄇𐝕𐛒𐙈𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "talent",
         "1",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "SI+ME-KI-*118",
         "1",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "*539-*118",
         "1"
@@ -2755,11 +3890,11 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "*118",
         "1",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "SI+ME-KI-*118",
         "1",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "*539-*118",
         "1"
@@ -2767,11 +3902,11 @@ var inscriptions = new Map([
     "words": [
         "𐝫𐙈",
         "𐄇",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐛋𐙈",
         "𐄇",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐛒𐙈",
         "𐄇"
@@ -2791,6 +3926,64 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄇𐘆𐘅𐘉𐝫\n𐝫𐘘𐘝𐄇𐘉𐘙𐘣𐄇𐘆𐘅𐘉\n𐄇𐘇𐘭𐘝𐘳𐄇𐘹𐘿𐘯𐝫\n𐝫𐙀𐘶𐘜𐄇𐘬𐘘𐘣𐝫\n𐝫𐘚𐘸𐘴𐄇𐘂𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -2902,6 +4095,36 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐙂𐘁𐄐𐄌𐘣𐘃𐘁𐄁𐘚\n𐘠𐙇𐄑𐄎𐙇𐄑𐄊\n𐙂𐘁𐄔𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -2977,6 +4200,36 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 3",
     "support": "tablet",
     "transcription": "𐜮𐄁𐙢𐘃𐘃𐄁\n𐘳𐘠𐄑𐄇𐘻𐘸\n𐘈𐘅𐄐𐄋𐘉𐘯\n𐘐𐄋𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*406VAS+KE",
         "𐄁",
@@ -3046,6 +4299,41 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 3",
     "support": "tablet",
     "transcription": "𐄁𐜮𐄁𐙇𐄏\n𐝫𐘁𐘝𐄉𐘾𐘉\n𐙀𐘝𐄊𐛖𐄐𐄈\n𐘚𐙜𐄈𐝫𐙓𐙅𐄍𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "*406VAS+KE",
@@ -3129,10 +4417,83 @@ var inscriptions = new Map([
         "images/HT27a-Inscription.jpg"
     ],
     "name": "HT27a",
-    "parsedInscription": "𐘠𐘝𐘳𐄁𐙛𐄁\n𐙇𐄘\n𐝫𐄔\n𐙅𐄔𐄇\n𐘙𐄑\n𐝫𐘚𐘻𐘞𐘴𐄓𐄉\n𐝫𐘿𐄑𐄇\n𐘸𐘀𐝫\n𐝫𐘸𐙠𐄁𐙂𐙙𐝫\n𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝆𐝃𐝁\n𐘝𐄐𐝁\n𐙍𐄍",
+    "parsedInscription": "𐘠𐘝𐘳𐄁𐙛𐄁\n𐙇𐄘\n𐝫𐄔\n𐙅𐄔𐄇\n𐘙𐄑\n𐝫𐘚𐘻𐘞𐘴𐄓𐄉\n𐝫𐘿𐄑𐄇\n𐘸𐘀𐝫\n𐝫𐘸𐙠𐄁𐙂𐙙𐝫\n𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝕𐝁\n𐘝𐄐𐝁\n𐙍𐄍",
     "scribe": "HT Scribe 11",
     "support": "tablet",
     "transcription": "𐘠𐘝𐘳𐄁𐙛𐄁𐙇𐄘\n𐝫𐄔𐙅𐄔𐄇𐘙𐄑𐝫\n𐘚𐘻𐘞𐘴𐄓𐄉𐝫\n𐘿𐄑𐄇𐘸𐘀𐝫𐘸\n𐙠𐄁𐙂𐙙𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝆𐝃𐝁𐘝𐄐𐝁𐙍𐄍",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "TI-NI-TA",
         "𐄁",
@@ -3173,7 +4534,7 @@ var inscriptions = new Map([
         "\n",
         "cyperus",
         "9",
-        "𐝆𐝃𐝁",
+        "𐝕𐝁",
         "\n",
         "figs",
         "10",
@@ -3222,7 +4583,7 @@ var inscriptions = new Map([
         "\n",
         "CYP",
         "9",
-        "𐝆𐝃𐝁",
+        "𐝕𐝁",
         "\n",
         "NI",
         "10",
@@ -3271,7 +4632,7 @@ var inscriptions = new Map([
         "\n",
         "𐙗",
         "𐄏",
-        "𐝆𐝃𐝁",
+        "𐝕𐝁",
         "\n",
         "𐘝",
         "𐄐",
@@ -3295,6 +4656,56 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 11",
     "support": "tablet",
     "transcription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐙉𐄁𐘞𐄇𐘙𐄐𐄊𐙍𐘤\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊𐘙𐝫𐄓",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "MI-DA",
         "𐄁",
@@ -3445,6 +4856,66 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 13",
     "support": "tablet",
     "transcription": "𐘇𐘤𐘱𐘾𐄁𐘱𐘐𐄁𐛱\n𐄋𐜋𐄈𐜓𐝆𐜗𐄇𐜖\n𐝉𐘞𐘽𐜉𐄇𐘝𐄈\n𐙍𐄉𐛧𐙍𐄌\n𐘇𐘘𐘀𐘴𐙉𐄋𐙘𐄈\n𐜉𐄉𐘚𐘳𐘱𐜉𐄐",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-SI-JA-KA",
         "𐄁",
@@ -3604,6 +5075,56 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 13",
     "support": "tablet",
     "transcription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻𐄁\n𐘅𐘤𐘞𐘽𐙉𐄑𐜉\n𐄋𐘝𐄈𐙍𐄊𐘫𐘽\n𐘝𐄌𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉𐙍𐄉\n𐝫𐝃𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-SI-JA-KA",
         "𐄁",
@@ -3727,6 +5248,55 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐝫𐄇𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇𐝫𐄁𐝫𐘸𐘳\n𐄈𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RU-MA-TA",
         "2",
@@ -3820,6 +5390,65 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 1",
     "support": "tablet",
     "transcription": "𐘤𐄊𐘞𐘽𐙗𐝫\n𐝫𐄐𐄊𐝆𐘝𐄍𐝂𐙍𐄎𐝆\n𐜐𐝓𐚻𐝂𐘞𐘴𐘴𐝆\n𐘖𐄇𐘸𐘁𐄁𐙗𐄎𐘝𐝓\n𐙍𐝆𐘖𐄇𐝫𐝂𐜐𐝂\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI",
         "4",
@@ -3988,6 +5617,72 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 12",
     "support": "tablet",
     "transcription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋𐚢𐘌𐘰𐄐𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐𐘸𐘦𐙁𐙯𐘅\n𐝫𐚢𐝫𐄜𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "TI-SA",
@@ -4111,6 +5806,50 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 1",
     "support": "tablet",
     "transcription": "𐙛𐘞𐘽𐄁𐙜𐝆𐜍𐝆𐝇\n𐚻𐄇𐝇𐚹𐄇𐛚𐄇\n𐘲𐘙𐄁𐄙𐄎𐘆𐄕𐄋\n𐜍𐝫𐘙𐄙𐄊𐘆𐄔𐄉",
+    "transcriptionReadings": [
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "*307",
         "\n",
@@ -4234,6 +5973,43 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 1",
     "support": "tablet",
     "transcription": "𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃𐚹𐝉𐝋𐝫\n𐝫𐄉𐛆𐝃𐝉𐛜𐝂\n𐙙𐄘𐜦𐄙𐛐𐄙",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "Placename?",
         "𐄁",
@@ -4336,6 +6112,62 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘀𐘶𐘃𐄁𐘤𐛀𐄁𐘞𐘽𐄁\n𐛜𐝫𐝁\n𐘡𐄁𐙉𐄚𐝫𐛅𐄈𐝅𐝇\n𐚻𐝀𐚹𐝃\n𐛛𐄚𐄓𐄋\n𐛂𐄙𐘰𐄖𐘸𐘁𐄒𐄍\n𐛆𐝇𐘫𐝄",
+    "transcriptionReadings": [
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "erased-legible",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "DA-JU-TE",
         "𐄁",
@@ -4492,6 +6324,42 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘠𐘠𐙂𐄁𐙲𐄁𐘚𐙂𐘳\n𐙗𐄇𐛚𐝁𐜏𐝁𐙜𐝁\n𐜐𐝫𐘡𐄋𐚻𐝇\n𐙍𐝂",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TI-TI-KU",
         "𐄁",
@@ -4597,6 +6465,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘧𐘆𐜠𐛱𐄑\n𐄓𐄊𐝆𐘬𐙀𐘮\n𐄍𐝆\n𐝫\n𐄌",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "erased-doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JE-DI",
         "*307+*387-GRA+QE",
@@ -4654,6 +6543,52 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐛛𐄁𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐄌𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁𐘾𐘸𐄐𐄇𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "MI+JA+I",
         "𐄁",
@@ -4665,9 +6600,11 @@ var inscriptions = new Map([
         "\n",
         "RE-SU",
         "\n",
+        "𐝫",
         "\n",
         "6",
         "\n",
+        "𐝫",
         "\n",
         "KI-*310-RE",
         "1",
@@ -4696,9 +6633,11 @@ var inscriptions = new Map([
         "\n",
         "RE-SU",
         "\n",
+        "𐝫",
         "\n",
         "6",
         "\n",
+        "𐝫",
         "\n",
         "KI-*310-RE",
         "1",
@@ -4727,9 +6666,11 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐘙𐘲𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐄌",
         "\n",
+        "𐝫",
         "\n",
         "𐘸𐙠𐘙",
         "𐄇",
@@ -4762,9 +6703,38 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 8",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇𐙄𐄇𐘒𐄉𐛞\n𐙈𐄉𐛎𐄈𐛏𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "DA-RO-PA",
         "*403-VS",
@@ -4788,6 +6758,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "DA-RO-PA",
         "*403-VS",
@@ -4811,6 +6782,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐘀𐘁𐘂",
         "𐚣",
@@ -4846,6 +6818,49 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 12",
     "support": "tablet",
     "transcription": "𐘳𐘚𐙌𐄐𐝫\n𐝫𐙂𐘙𐘶𐄎𐙂𐝫\n𐝫𐘞𐙁𐘠𐄐𐙂𐘙𐝫\n𐝫𐙂𐘁𐜯𐄙\n𐝫𐛤𐄈𐝫𐛍𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA-I-AROM",
         "10",
@@ -4936,6 +6951,37 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 2",
     "support": "tablet",
     "transcription": "𐘯𐘬𐙷𐄁𐘃𐄁𐙉𐄚𐄍\n𐘸𐘀𐘳𐄁𐙉𐝫𐄙𐄒𐄊\n𐙂𐘁𐝫\n𐙂𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NU-DU-*331",
         "𐄁",
@@ -5008,6 +7054,37 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 14",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘿𐘹𐄐\n𐙙𐄁𐙘𐄐𐘙𐄁𐙘𐄐\n𐘻𐘀𐘝𐄁𐘂𐘱𐄈𐝂𐝂",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5095,6 +7172,14 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 14",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n—",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5127,10 +7212,63 @@ var inscriptions = new Map([
         "images/HT42+59-Inscription.jpg"
     ],
     "name": "HT42+59",
-    "parsedInscription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎\n𐜋𐝫𐄍\n𐘞𐘁𐜓𐄎\n𐜋𐄈𐝫\n𐝫𐄈\n𐙂𐝫𐝫𐙖𐝫\n𐝫\n𐜗𐄈\n𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓𐝫𐝆𐝃\n𐜋𐝫",
+    "parsedInscription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎\n𐜋𐝫𐄍\n𐘞𐘁𐜓𐄎\n𐜋𐄈𐝫\n𐝫𐄈\n𐙂𐝫𐝫𐙖𐝫\n𐝫\n𐜗𐄈\n𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓𐝫𐝕\n𐜋𐝫",
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎𐜋𐝫\n𐝫𐄍𐘞𐘁𐜓𐄎𐜋𐄈𐝫\n𐝫𐄈𐙂𐝫𐙖𐝫\n𐝫\n𐜗𐄈𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓\n𐝫𐝕𐜋𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA",
         "𐄁",
@@ -5156,6 +7294,7 @@ var inscriptions = new Map([
         "KU",
         "olive oil",
         "\n",
+        "𐝫",
         "\n",
         "OLE+MI",
         "2",
@@ -5164,7 +7303,7 @@ var inscriptions = new Map([
         "\n",
         "RE-TE",
         "OLE+KI",
-        "³⁄₄",
+        "𐝫𐝕",
         "\n",
         "OLE+U"
     ],
@@ -5193,6 +7332,7 @@ var inscriptions = new Map([
         "KU",
         "OLE",
         "\n",
+        "𐝫",
         "\n",
         "OLE+MI",
         "2",
@@ -5201,7 +7341,7 @@ var inscriptions = new Map([
         "\n",
         "RE-TE",
         "OLE+KI",
-        "³⁄₄",
+        "𐝫𐝕",
         "\n",
         "OLE+U"
     ],
@@ -5230,6 +7370,7 @@ var inscriptions = new Map([
         "𐙂𐝫",
         "𐝫𐙖𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐜗",
         "𐄈",
@@ -5238,7 +7379,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐘙𐘃",
         "𐜓",
-        "𐝫𐝆𐝃",
+        "𐝫𐝕",
         "\n",
         "𐜋𐝫"
     ]
@@ -5257,6 +7398,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙁𐘤𐘬𐄁𐘂\n𐚂𐘚𐄁𐘚𐄁𐛭𐄋𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MA-SI-DU",
         "𐄁",
@@ -5302,6 +7459,38 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘚𐘌𐙈𐄁𐙉𐝫\n𐜒𐄉𐜋𐄋𐝫\n𐜑𐄋𐙋𐄇𐝫\n𐝫𐘝𐄇𐙍𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-QA-*118",
         "𐄁",
@@ -5389,6 +7578,35 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘱𐄁𐘃𐛵𐝫\n𐝫𐄋𐘝𐝫\n𐝫𐙍𐄖𐄋\n𐝫𐄐𐄎\n𐝫𐄐\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA",
         "𐄁",
@@ -5458,6 +7676,29 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 14",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐝉𐘂𐝫\n𐝫𐙅𐄁𐙙𐄈𐝫\n𐝫𐙪𐄁𐙙𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5524,6 +7765,47 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 14",
     "support": "tablet",
     "transcription": "𐝫\n—\n𐝫𐄎𐝓𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍𐚺𐝉𐘂𐝫𐄁𐝫𐘇𐄑\n𐝁𐄁𐙂𐝃\n𐙂𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5650,6 +7932,23 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘕𐘘𐄇𐝫\n𐝫𐙂𐘁𐄓𐄉𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5695,9 +7994,25 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄐𐄌𐝆\n𐝫𐄈𐄊",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "erased-doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "16",
         "¹⁄₂",
@@ -5707,6 +8022,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "16",
         "¹⁄₂",
@@ -5716,6 +8032,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐄐𐄌",
         "𐝆",
@@ -5737,6 +8054,43 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 14",
     "support": "tablet",
     "transcription": "𐘾𐝫𐛗𐄁𐙂𐘰\n𐘅𐘹𐄑𐝫\n𐝫𐘬𐄑𐝫𐘉𐝫𐘢\n𐄐𐘸𐘀𐘁𐝫\n𐝫𐄋\n𐝫𐘻𐘯𐘻",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "KA",
         "]TU+RO",
@@ -5818,6 +8172,16 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 14",
     "support": "tablet",
     "transcription": "𐝫𐘴𐘅𐘙𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RA-NA-RE",
         "\n",
@@ -5848,6 +8212,84 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫𐘭𐄇𐘲𐘸𐝫\n𐝫𐄇𐘠𐘬𐘝𐄇𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇𐚞𐄇𐙢𐄇𐙂\n𐘰𐘯𐄇𐘹𐘲𐘜𐄇𐘸𐄇\n—\n𐝫𐄋𐘹𐄊𐘸𐄇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5858,6 +8300,7 @@ var inscriptions = new Map([
         "𐄁",
         "1",
         "\n",
+        "𐝫",
         "\n",
         "RI",
         "1",
@@ -5916,6 +8359,7 @@ var inscriptions = new Map([
         "𐄁",
         "1",
         "\n",
+        "𐝫",
         "\n",
         "RI",
         "1",
@@ -5974,6 +8418,7 @@ var inscriptions = new Map([
         "𐄁",
         "𐄇𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐘭",
         "𐄇",
@@ -6037,6 +8482,29 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙂𐝫\n𐝫𐘚𐘸𐝫𐘳\n—\n𐝫\n𐝫𐘾𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -6047,9 +8515,11 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
+        "𐝫",
         "\n",
         "KA",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -6061,9 +8531,11 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
+        "𐝫",
         "\n",
         "KA",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫",
@@ -6075,9 +8547,11 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐘾𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT50a",{
@@ -6094,6 +8568,42 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n—\n𐝫𐙉𐝫\n𐝫𐝃𐜓𐝃𐜗\n𐝫𐝆𐜎𐝆𐙘𐄇𐝆\n𐝫𐙋𐄉𐛺𐝃𐝄",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -6196,6 +8706,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐜓\n𐝫\n𐝫𐜉𐄇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -6247,6 +8772,34 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄋𐘝𐄁𐘃𐄁𐙁𐝫\n𐝫𐘈𐄕𐄊𐘠𐘝𐝫\n𐝫𐘙𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "5",
         "\n",
@@ -6319,6 +8872,29 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙂𐘋𐘳𐄐𐄈𐝫\n𐝫𐙀𐘬𐝆𐝄𐘤𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KU-ME-TA",
         "12",
@@ -6373,6 +8949,27 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 23",
     "support": "tablet",
     "transcription": "𐘞𐙁𐄁𐘃𐄁𐝫\n𐝫𐄊𐘆𐘾𐘸𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SA-MA",
         "𐄁",
@@ -6430,6 +9027,20 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 23",
     "support": "tablet",
     "transcription": "𐝫𐘗𐄁𐙉𐄚𐄇𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NE",
         "𐄁",
@@ -6475,11 +9086,38 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘞𐘗𐝫\n𐝫\n𐝫𐄓𐝫𐙖𐝫\n𐝫𐄙𐘴𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
         "SA-NE",
         "\n",
+        "𐝫",
         "\n",
         "40",
         "\n",
@@ -6496,6 +9134,7 @@ var inscriptions = new Map([
         "\n",
         "SA-NE",
         "\n",
+        "𐝫",
         "\n",
         "40",
         "\n",
@@ -6512,6 +9151,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐘞𐘗𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐄓",
         "\n",
@@ -6538,12 +9178,34 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄐𐄎𐝫\n𐝫\n𐝫𐙂𐘙𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "18",
         "\n",
+        "𐝫",
         "\n",
         "KU-RE",
         "\n",
@@ -6552,9 +9214,11 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "18",
         "\n",
+        "𐝫",
         "\n",
         "KU-RE",
         "\n",
@@ -6563,9 +9227,11 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐄐𐄎𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐙂𐘙𐝫",
         "\n",
@@ -6586,9 +9252,31 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐙂𐘻𐘅𐘿𐝫\n𐝫𐘸𐘻𐘽𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "KU-MI-NA-QE",
         "\n",
@@ -6599,6 +9287,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "KU-MI-NA-QE",
         "\n",
@@ -6609,6 +9298,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐙂𐘻𐘅𐘿𐝫",
         "\n",
@@ -6631,6 +9321,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄊𐘸𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -6639,7 +9343,8 @@ var inscriptions = new Map([
         "KI",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -6649,7 +9354,8 @@ var inscriptions = new Map([
         "KI",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫",
@@ -6659,7 +9365,8 @@ var inscriptions = new Map([
         "𐘸𐝫",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT55a",{
@@ -6676,6 +9383,38 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘸𐘁𐄁𐙁𐘙𐄇𐝫\n𐝫𐙕𐄇𐘤𐘘𐄇𐘗𐝫\n𐝫𐘹𐄇𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"owed\"",
         "𐄁",
@@ -6757,6 +9496,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘃𐄇𐘿𐝫\n𐝫𐘭𐘱𐄇𐘚𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TE",
         "1",
@@ -6769,7 +9529,8 @@ var inscriptions = new Map([
         "I",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "TE",
@@ -6783,7 +9544,8 @@ var inscriptions = new Map([
         "I",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫𐘃",
@@ -6797,7 +9559,8 @@ var inscriptions = new Map([
         "𐘚𐝫",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT56a",{
@@ -6814,6 +9577,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙓𐄁𐘞𐝫\n𐝫𐄐𐄇𐝆𐘉𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*188",
         "𐄁",
@@ -6868,6 +9649,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐜓𐄑𐝫\n—\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "OLE+KI",
         "20",
@@ -6875,7 +9668,8 @@ var inscriptions = new Map([
         "—",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "OLE+KI",
@@ -6884,7 +9678,8 @@ var inscriptions = new Map([
         "—",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐜓",
@@ -6893,7 +9688,8 @@ var inscriptions = new Map([
         "—",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT57a",{
@@ -6910,6 +9706,25 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 14",
     "support": "tablet",
     "transcription": "𐘀𐘿𐘴𐝫\n𐝫𐄇𐘇𐝫\n𐝫𐝄𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA-QE-RA",
         "\n",
@@ -6958,6 +9773,16 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 14",
     "support": "tablet",
     "transcription": "𐝫𐙙𐄎\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*305",
         "8",
@@ -6997,6 +9822,38 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 8",
     "support": "tablet",
     "transcription": "𐘿𐘠𐘴𐘬𐄁𐙇𐝫\n𐜋𐄐𐄏𐜗𐝫\n𐝫𐜎𐄉𐙋𐄓𐄇\n𐝫𐘉𐘸𐝫\n𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "QE-TI-RA-DU",
         "𐄁",
@@ -7072,6 +9929,33 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐜏𐝇𐛙𐝫\n𐝇𐙍𐝇𐝃𐄋𐚹𐝫\n𐝫𐚻𐝉𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -7150,6 +10034,31 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫\n𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃𐘾𐙂𐄊𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -7189,6 +10098,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫\n𐝫𐄐𐄎𐘛𐘠𐝫𐄁𐝫𐄌𐘆𐝫\n𐝫𐄊𐝃𐘾𐝫\n𐝫𐙇𐝫𐄊𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n𐝫𐙂𐝫\n𐝫𐄇𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SA-RA",
         "𐄁",
@@ -7244,7 +10164,8 @@ var inscriptions = new Map([
         "28",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "SA-RA",
@@ -7301,7 +10222,8 @@ var inscriptions = new Map([
         "28",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫𐘞𐘴",
@@ -7358,7 +10280,8 @@ var inscriptions = new Map([
         "𐝫𐄑𐄎",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT63",{
@@ -7375,6 +10298,27 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 23",
     "support": "tablet",
     "transcription": "𐙙𐄁𐘃𐄇𐘾𐘠𐄇𐘲𐘜\n𐝫𐙀𐄈\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*305",
         "𐄁",
@@ -7390,7 +10334,8 @@ var inscriptions = new Map([
         "2",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "*305",
@@ -7407,7 +10352,8 @@ var inscriptions = new Map([
         "2",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐙙",
@@ -7424,7 +10370,8 @@ var inscriptions = new Map([
         "𐄈",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT64",{
@@ -7441,6 +10388,30 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 21",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙂𐙀𐘅\n𐝫𐘅𐄈𐘘𐙁\n𐝫𐄉𐘑𐄌\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -7457,7 +10428,8 @@ var inscriptions = new Map([
         "6",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -7475,7 +10447,8 @@ var inscriptions = new Map([
         "6",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫",
@@ -7493,7 +10466,8 @@ var inscriptions = new Map([
         "𐄌",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT65",{
@@ -7510,17 +10484,28 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐜤𐝇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
+        "𐝫",
         "\n",
         "*330+SA",
         "¹⁄₁₆"
     ],
     "transliteratedWords": [
+        "𐝫",
         "\n",
         "*330+SA",
         "¹⁄₁₆"
     ],
     "words": [
+        "𐝫",
         "\n",
         "𐜤",
         "𐝇𐝫"
@@ -7540,6 +10525,32 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 21",
     "support": "tablet",
     "transcription": "𐙀𐄁𐙇𐄁𐝫\n𐝫𐘆𐄈𐘳𐝫\n𐝫𐘳𐘻𐝫\n𐝫𐘙𐄇\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*79",
         "𐄁",
@@ -7609,9 +10620,30 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 23",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄜𐄑𐝫\n𐝫𐘝𐄁𐘃𐄜𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "\"total\"",
         "402",
@@ -7624,6 +10656,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "KU-RO",
         "402",
@@ -7636,6 +10669,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐙂𐘁",
         "𐄜𐄑𐝫",
@@ -7660,6 +10694,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄁𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "flour",
@@ -7705,6 +10755,31 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄋𐘆𐄎𐝫\n𐝫𐙁𐘆𐄊𐝫\n𐝫𐘆𐄐𐄈𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -7768,6 +10843,30 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘝𐄁𐘃𐄒𐝫\n𐝫𐘌𐙈𐘞𐄈𐝃\n𐝫𐘚𐄉𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "figs",
         "𐄁",
@@ -7782,7 +10881,8 @@ var inscriptions = new Map([
         "3",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "NI",
@@ -7798,7 +10898,8 @@ var inscriptions = new Map([
         "3",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫𐘝",
@@ -7814,7 +10915,8 @@ var inscriptions = new Map([
         "𐄉𐝫",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT72",{
@@ -7831,11 +10933,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘤𐙇𐝫𐄁𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-VIR+[?]",
         "𐄁",
         "𐝫",
         "\n",
+        "𐝫",
         "\n"
     ],
     "transliteratedWords": [
@@ -7843,6 +10958,7 @@ var inscriptions = new Map([
         "𐄁",
         "𐝫",
         "\n",
+        "𐝫",
         "\n"
     ],
     "words": [
@@ -7850,6 +10966,7 @@ var inscriptions = new Map([
         "𐄁",
         "𐝫",
         "\n",
+        "𐝫",
         "\n"
     ]
 }],
@@ -7867,9 +10984,24 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 24",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄑𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "\"total\"",
         "20",
@@ -7879,6 +11011,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "KU-RO",
         "20",
@@ -7888,6 +11021,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐙂𐘁",
         "𐄑𐝫",
@@ -7909,6 +11043,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘾𐘘𐝫\n—\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-RU",
         "\n",
@@ -7945,6 +11089,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n—\n𐝫𐘕𐙢𐝫\n—\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -7993,6 +11152,41 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘚𐄁𐙙𐝫𐘾𐄁𐘀𐘰\n𐝫𐘹𐘂𐘭𐄇𐝫𐘹𐝫𐄁𐝫𐄉\n𐝫𐙂𐘝𐝫𐙀𐄉\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I",
         "𐄁",
@@ -8080,6 +11274,17 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 13",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘶𐘴𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -8122,6 +11327,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘇𐘈𐄁𐛚𐄁𐝅𐝫\n𐝫𐘭𐘲𐙁𐝋𐘸𐝫\n𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-SE",
         "𐄁",
@@ -8179,6 +11405,21 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 3",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐛮𐝇𐝫\n𐜜𐝃𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -8227,6 +11468,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘐𐘱𐘬𐝫\n𐝫𐘯𐘠𐄁𐙇𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*21F-JA-DU",
         "\n",
@@ -8235,7 +11494,8 @@ var inscriptions = new Map([
         "VIR+[?]",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "*21F-JA-DU",
@@ -8245,7 +11505,8 @@ var inscriptions = new Map([
         "VIR+[?]",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐘐𐘱𐘬𐝫",
@@ -8255,7 +11516,8 @@ var inscriptions = new Map([
         "𐙇𐝫",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT85a",{
@@ -8272,6 +11534,56 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐘇𐘬𐄁𐜠𐄁𐙇𐄁\n𐘀𐘭𐘀𐄐𐄈𐘰𐘝𐄐𐄈\n𐘉𐙱𐘍𐄌𐘀𐘤\n𐙈𐄑𐄊𐙂𐙀𐘝𐄋\n𐘃𐘥𐄉𐘀𐘙𐄊\n𐙂𐘁𐝫𐄕𐄌",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "\"assessment\"?",
         "𐄁",
@@ -8383,6 +11695,61 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐘸𐘸𐘴𐘱𐄁𐘸𐘙\n𐘷𐄇𐘿𐘾𐄇𐘂𐄇𐘃𐘹\n𐝫𐄇𐘾𐄇𐘆𐄇𐘋𐘍𐄇\n𐘙𐘆𐘈𐄇𐘮𐘬𐘝\n𐘻𐄇𐙁𐘆𐄇𐘌𐙠\n𐘚𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KI-KI-RA-JA",
         "𐄁",
@@ -8509,6 +11876,49 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 6",
     "support": "tablet",
     "transcription": "𐘇𐘾𐘘𐄁𐙂𐘝\n𐘲𐛷𐄑𐘞𐘘𐄑\n𐘆𐘦𐘘𐄑𐘌𐘽𐘮𐄐\n—\n𐘇𐘬𐄁𐘀𐘋𐛳𐄑\n𐘻𐘯𐘃𐄑",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-KA-RU",
         "𐄁",
@@ -8611,6 +12021,26 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 6",
     "support": "tablet",
     "transcription": "𐘇𐘾𐘘𐄁𐙂𐘝\n𐘲𐛷𐄑𐘞𐘘𐄑\n𐘆𐘦",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-KA-RU",
         "𐄁",
@@ -8665,6 +12095,53 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐘐𐘹𐘗𐄁𐙁𐘾\n𐘭𐘃𐄁𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*21F-TU-NE",
         "𐄁",
@@ -8758,6 +12235,61 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 7",
     "support": "tablet",
     "transcription": "𐘇𐘬𐛧𐄑𐘙𐘍\n𐄌𐘝𐄁𐘸𐘸𐘅𐄍\n𐘸𐘁𐄁𐙂𐘰𐘰𐄇𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇𐘂𐘱𐘙𐄇𐘞𐙁\n𐘁𐄇𐘀𐘳𐘙𐄇𐙂𐘁𐄌",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"assessment\"?",
         "VIR+KA",
@@ -8880,10 +12412,58 @@ var inscriptions = new Map([
         "images/HT89-Inscription.jpg"
     ],
     "name": "HT89",
-    "parsedInscription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈\n𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉\n𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝆𐝃\n𐘝𐄈𐝃\n𐙍𐄌𐝫",
+    "parsedInscription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈\n𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉\n𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝕\n𐘝𐄈𐝃\n𐙍𐄌𐝫",
     "scribe": "HT Scribe 2",
     "support": "tablet",
     "transcription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝆𐝃𐘝𐄈𐝃𐙍𐄌𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-SA-RA2",
         "𐄁",
@@ -8909,7 +12489,7 @@ var inscriptions = new Map([
         "\n",
         "cyperus",
         "2",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "figs",
         "2",
@@ -8943,7 +12523,7 @@ var inscriptions = new Map([
         "\n",
         "CYP",
         "2",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "NI",
         "2",
@@ -8977,7 +12557,7 @@ var inscriptions = new Map([
         "\n",
         "𐙗",
         "𐄈",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐘝",
         "𐄈",
@@ -9001,6 +12581,41 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 2",
     "support": "tablet",
     "transcription": "𐘚𐙂𐘭𐘅𐘞𐘽𐙉\n𐄑𐘝𐄐𐜉𐄉𐘤\n𐘘𐙁𐘭𐘷𐙉𐄇𐘝\n𐄇𐜗𐄇𐙘𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-KU-RI-NA",
         "\n",
@@ -9094,6 +12709,53 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 15",
     "support": "tablet",
     "transcription": "𐘚𐘾𐄁𐙲𐄁𐙉𐝎\n𐙘𐝀𐄁𐜓𐝀𐜋\n𐝀𐜗𐝀𐙋𐝀𐘝𐝀\n𐙍𐝀𐘡𐄋\n𐘃𐘭𐄁𐜗𐝀𐘡𐄉𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-KA",
         "𐄁",
@@ -9238,6 +12900,22 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 2",
     "support": "tablet",
     "transcription": "𐘃𐄁𐘇𐘬𐄁𐙉𐄞\n𐄗𐙘𐄐𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TE",
         "𐄁",
@@ -9285,10 +12963,105 @@ var inscriptions = new Map([
         "images/HT93a-Inscription.jpg"
     ],
     "name": "HT93a",
-    "parsedInscription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈\n𐘆𐘭𐘅𐄁𐚴𐄓𐄉𐝆\n𐘸𐘆𐘝𐄋𐝆𐝅\n𐘇𐘈𐄁𐘚𐛭𐄑𐄌𐝆𐝃\n𐘞𐘽𐄑\n𐘌𐘌𐘘𐄁𐘚𐛭𐄋\n𐙇𐘚𐄌\n𐘦𐘶𐙂𐄇𐝆\n𐘵𐘠𐝫𐄁𐄉\n𐘀𐘭𐘀𐚦𐄈\n𐚃𐄈\n𐘰𐘝𐘅𐝫\n𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫\n𐝫𐘾𐄊",
+    "parsedInscription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈\n𐘆𐘭𐘅𐄁𐚴𐄓𐄉𐝆\n𐘸𐘆𐘝𐄋𐝆𐝅\n𐘇𐘈𐄁𐘚𐛭𐄑𐄌𐝕\n𐘞𐘽𐄑\n𐘌𐘌𐘘𐄁𐘚𐛭𐄋\n𐙇𐘚𐄌\n𐘦𐘶𐙂𐄇𐝆\n𐘵𐘠𐝫𐄁𐄉\n𐘀𐘭𐘀𐚦𐄈\n𐚃𐄈\n𐘰𐘝𐘅𐝫\n𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫\n𐝫𐘾𐄊",
     "scribe": "HT Scribe 5",
     "support": "tablet",
     "transcription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈𐘆\n𐘭𐘅𐄁𐚴𐄓𐄉𐝆𐘸𐘆\n𐘝𐄋𐝆𐝅𐘇𐘈𐄁𐘚\n𐛭𐄑𐄌𐝆𐝃𐘞𐘽𐄑𐘌𐘌\n𐘘𐄁𐘚𐛭𐄋𐙇𐘚\n𐄌𐘦𐘶𐙂𐄇𐝆𐘵𐘠\n𐝫𐄁𐝫𐄉𐘀𐘭𐘀𐚦𐄈𐚃𐄈\n𐘰𐘝𐘅𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫𐘾𐄊",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PA3-NI-NA",
         "𐄁",
@@ -9311,7 +13084,7 @@ var inscriptions = new Map([
         "𐄁",
         "I-GRA+PA",
         "26",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "Placename?",
         "20",
@@ -9373,7 +13146,7 @@ var inscriptions = new Map([
         "𐄁",
         "I-GRA+PA",
         "26",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "SA-RA2",
         "20",
@@ -9435,7 +13208,7 @@ var inscriptions = new Map([
         "𐄁",
         "𐘚𐛭",
         "𐄑𐄌",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐘞𐘽",
         "𐄑",
@@ -9490,6 +13263,18 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 5",
     "support": "tablet",
     "transcription": "𐝫𐄙𐄕𐄋𐝅𐘸𐘁\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "165",
         "≈ ¹⁄₆",
@@ -9523,6 +13308,62 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐘾𐘂𐙇𐄕𐄈𐙅𐄑\n𐛃𐄍𐛪𐄐𐄎𐘳𐄊\n𐙂𐘁𐄙𐄐𐘞𐘽𐙗𐄋𐘝𐄉𐝅\n𐝫𐄈𐙪𐙚𐄐𐄇𐙗𐝓𐘝𐝓\n𐝫𐄐𐄊𐝆𐘝𐝂",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"summary account?\"",
         "VIR+[?]",
@@ -9673,6 +13514,57 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐘸𐘁𐄁𐘹𐙁𐄇𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇𐘥𐘸𐘘𐄇𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"owed\"",
         "𐄁",
@@ -9790,6 +13682,43 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘀𐘬𐙁𐘳𐄁𐙉\n𐘀𐘋𐄐𐘻𐘯𐘃𐄐\n𐘞𐘘𐄑𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄍",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"grain contributions\"",
         "𐄁",
@@ -9874,6 +13803,44 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘇𐘬𐄁𐘞𐘘𐄐\n𐝫𐄁𐝫𐘀𐘋𐄐𐘻\n𐘯𐘃𐄐𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄐",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"assessment\"?",
         "𐄁",
@@ -9881,7 +13848,9 @@ var inscriptions = new Map([
         "SA-RU",
         "10",
         "\n",
+        "𐝫",
         "𐄁",
+        "𐝫",
         "\n",
         "DA-ME",
         "10",
@@ -9905,7 +13874,9 @@ var inscriptions = new Map([
         "SA-RU",
         "10",
         "\n",
+        "𐝫",
         "𐄁",
+        "𐝫",
         "\n",
         "DA-ME",
         "10",
@@ -9929,7 +13900,9 @@ var inscriptions = new Map([
         "𐘞𐘘",
         "𐄐",
         "\n",
+        "𐝫",
         "𐄁",
+        "𐝫",
         "\n",
         "𐘀𐘋",
         "𐄐",
@@ -9961,6 +13934,68 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 8",
     "support": "tablet",
     "transcription": "𐘚𐘠𐘠𐙂𐘝𐄁𐘇𐘂\n𐘴𐘗𐄁𐘇𐙌𐘃𐄁𐘤𐘻\n𐘳𐙉𐄋𐘘𐘞𐄊𐙯𐙩𐄇\n𐘢𐘳𐘴𐄁𐄇𐙯𐚄𐄇\n—\n𐝫𐙂𐙁𐘁𐄁𐄁𐘃𐘝𐄑\n𐝫𐘝𐄈\n—\n𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-TI-TI-KU-NI",
         "𐄁",
@@ -10092,10 +14127,39 @@ var inscriptions = new Map([
         "images/HT96b-Inscription.jpg"
     ],
     "name": "HT96b",
-    "parsedInscription": "𐘇𐘂𐘴𐘗𐄁\n𐘌𐙈𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝆𐝃\n𐜋𐄊\n𐘝𐄈𐝇\n𐝫",
+    "parsedInscription": "𐘇𐘂𐘴𐘗𐄁\n𐘌𐙈𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝕\n𐜋𐄊\n𐘝𐄈𐝇\n𐝫",
     "scribe": "HT Scribe 8",
     "support": "tablet",
     "transcription": "𐘇𐘂𐘴𐘗𐄁𐘌𐙈\n𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝕\n𐜋𐄊𐘝𐄈𐝇\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-PA-RA-NE",
         "𐄁",
@@ -10107,7 +14171,7 @@ var inscriptions = new Map([
         "wheat",
         "𐄁",
         "40",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "OLE+U",
         "4",
@@ -10129,7 +14193,7 @@ var inscriptions = new Map([
         "GRA",
         "𐄁",
         "40",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "OLE+U",
         "4",
@@ -10151,7 +14215,7 @@ var inscriptions = new Map([
         "𐙉",
         "𐄁",
         "𐄓",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐜋",
         "𐄊",
@@ -10177,6 +14241,69 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 7",
     "support": "tablet",
     "transcription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈𐙳\n𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋𐘂𐘚𐘄𐄌\n𐘆𐄊𐘅𐘠𐄊𐙁𐘆𐄋𐘶\n𐄐𐄋𐘸𐄉𐙀𐝫𐄋𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫𐘇𐄋\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-RU",
         "𐄁",
@@ -10333,6 +14460,12 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 7",
     "support": "tablet",
     "transcription": "𐘞𐙸𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "Placename?"
     ],
@@ -10353,10 +14486,48 @@ var inscriptions = new Map([
         "images/HT98a-Inscription.jpg"
     ],
     "name": "HT98a",
-    "parsedInscription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇\n𐘳𐘅𐘠𐝆𐝃\n𐘆𐘙𐘆𐘅𐝆\n𐘃𐙕𐝆𐝃\n𐘁𐘥𐝆\n𐘾𐘭𐙠𐘚𐝃",
+    "parsedInscription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇\n𐘳𐘅𐘠𐝕\n𐘆𐘙𐘆𐘅𐝆\n𐘃𐙕𐝕\n𐘁𐘥𐝆\n𐘾𐘭𐙠𐘚𐝃",
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇𐘳𐘅𐘠𐝕𐘆\n𐘙𐘆𐘅𐝆𐘃𐙕𐝕\n𐘁𐘥𐝆𐘾𐘭𐙠𐘚\n𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -10367,13 +14538,13 @@ var inscriptions = new Map([
         "1",
         "\n",
         "TA-NA-TI",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "DI-RE-DI-NA",
         "¹⁄₂",
         "\n",
         "TE-*301",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "RO-KE",
         "¹⁄₂",
@@ -10391,13 +14562,13 @@ var inscriptions = new Map([
         "1",
         "\n",
         "TA-NA-TI",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "DI-RE-DI-NA",
         "¹⁄₂",
         "\n",
         "TE-*301",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "RO-KE",
         "¹⁄₂",
@@ -10415,13 +14586,13 @@ var inscriptions = new Map([
         "𐄇",
         "\n",
         "𐘳𐘅𐘠",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐘆𐘙𐘆𐘅",
         "𐝆",
         "\n",
         "𐘃𐙕",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐘁𐘥",
         "𐝆",
@@ -10440,17 +14611,35 @@ var inscriptions = new Map([
         "images/HT98b-Inscription.jpg"
     ],
     "name": "HT98b",
-    "parsedInscription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝆𐝃\n𐘀𐘘𐘗𐘃𐝇",
+    "parsedInscription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝕\n𐘀𐘘𐘗𐘃𐝇",
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝕𐘀𐘘𐘗𐘃𐝇",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
         "*188",
         "\n",
         "wine",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "DA-RU-NE-TE",
         "¹⁄₁₆"
@@ -10461,7 +14650,7 @@ var inscriptions = new Map([
         "*188",
         "\n",
         "VIN",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "DA-RU-NE-TE",
         "¹⁄₁₆"
@@ -10472,7 +14661,7 @@ var inscriptions = new Map([
         "𐝫𐙓𐝫",
         "\n",
         "𐝫𐙍",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐘀𐘘𐘗𐘃",
         "𐝇"
@@ -10492,6 +14681,30 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 2",
     "support": "tablet",
     "transcription": "𐘇𐘬𐄁𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫𐙍𐄇𐝅𐛱\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"assessment\"?",
         "𐄁",
@@ -10564,6 +14777,26 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 2",
     "support": "tablet",
     "transcription": "𐛉𐘝𐄌𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇𐘘𐙁𐘳\n𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI+SE-NI",
         "6",
@@ -10614,10 +14847,62 @@ var inscriptions = new Map([
         "images/HT100-Inscription.jpg"
     ],
     "name": "HT100",
-    "parsedInscription": "𐝫𐛧𐄔𐄎\n𐜝𐝫𐝫\n𐛃𐄐𐄈\n𐘸𐄈\n𐙙𐄋\n𐛩𐄐𐄌\n𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃\n𐘝𐄈𐝂𐝂\n𐙍𐄈𐝆\n𐜋𐄈𐝅\n𐜗𐄉\n𐜍𐝆𐝃",
+    "parsedInscription": "𐝫𐛧𐄔𐄎\n𐜝𐝫𐝫\n𐛃𐄐𐄈\n𐘸𐄈\n𐙙𐄋\n𐛩𐄐𐄌\n𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃\n𐘝𐄈𐝂𐝂\n𐙍𐄈𐝆\n𐜋𐄈𐝅\n𐜗𐄉\n𐜍𐝕",
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐛧𐄔𐄎𐜝\n𐝫𐛃𐄐𐄈𐘸𐄈𐙙𐄋𐛩\n𐄐𐄌𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃𐘝𐄈𐝓𐙍𐄈𐝆\n𐜋𐄈𐝅𐜗𐄉𐜍𐝕",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "VIR+KA",
         "58",
@@ -10661,7 +14946,7 @@ var inscriptions = new Map([
         "3",
         "\n",
         "OLE+NE",
-        "³⁄₄"
+        "𐝕"
     ],
     "transliteratedWords": [
         "VIR+KA",
@@ -10706,7 +14991,7 @@ var inscriptions = new Map([
         "3",
         "\n",
         "OLE+NE",
-        "³⁄₄"
+        "𐝕"
     ],
     "words": [
         "𐝫𐛧",
@@ -10751,7 +15036,7 @@ var inscriptions = new Map([
         "𐄉",
         "\n",
         "𐜍",
-        "𐝆𐝃"
+        "𐝕"
     ]
 }],
 ["HT101",{
@@ -10768,6 +15053,62 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 2",
     "support": "tablet",
     "transcription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎𐜗𐄎𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇𐜋𐙖𐄐𐚸𐄉\n𐙂𐘰𐝫𐜋𐄈\n—\n𐝫𐄑𐙘𐄉𐜓𐄈\n𐝫𐄉𐙋𐄇𐝃𐛺𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "*79-*22F-DI",
         "GRA+QE",
@@ -10924,6 +15265,50 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 5",
     "support": "tablet",
     "transcription": "𐘾𐘂𐘞𐘽𐙉𐄡\n𐄖𐄌𐘰𐘝𐛭𐄒𐄉𐝫\n𐙇𐛭𐄒𐄉𐘆𐘭𐘅𐄐𐙁\n𐙀𐄉𐘣𐄐𐘚𐘾𐄋\n𐙂𐘁𐄢𐄕",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful"
+    ],
     "translatedWords": [
         "\"summary account?\"",
         "\n",
@@ -11026,6 +15411,43 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 3",
     "support": "tablet",
     "transcription": "𐘉𐘷𐄁𐘝𐄓\n𐘰𐘀𐙂𐘈𐘗\n𐝫𐄌𐝆𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇𐘀𐙂𐘈\n𐘗𐄇𐘸𐝢𐄋𐝆",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "U-TA2",
         "𐄁",
@@ -11116,6 +15538,41 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 5",
     "support": "tablet",
     "transcription": "𐘳𐘂𐄁𐚷𐄁𐘀𐙂\n𐘈𐘗𐘠𐄓𐄋𐝆𐘚\n𐘬𐘠𐄑𐝆𐘂𐘀\n𐘲𐘠𐄑𐄏\n𐙂𐘁𐄘𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA-PA",
         "𐄁",
@@ -11191,9 +15648,29 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘾𐘂𐝫\n𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "\"summary account?\"",
         "\n",
+        "𐝫",
         "\n",
         "VIR+[?]",
         "234",
@@ -11206,6 +15683,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "KA-PA",
         "\n",
+        "𐝫",
         "\n",
         "VIR+[?]",
         "234",
@@ -11218,6 +15696,7 @@ var inscriptions = new Map([
     "words": [
         "𐘾𐘂𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐙇",
         "𐄚𐄒𐄊",
@@ -11242,6 +15721,38 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 19",
     "support": "tablet",
     "transcription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MI-NU-TE",
         "cyperus",
@@ -11326,11 +15837,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄉𐝫\n𐘃𐄗𐄌𐙸𐄍",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
         "3",
         "\n",
+        "𐝫",
         "\n",
         "TE",
         "84",
@@ -11343,6 +15870,7 @@ var inscriptions = new Map([
         "\n",
         "3",
         "\n",
+        "𐝫",
         "\n",
         "TE",
         "84",
@@ -11355,6 +15883,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐄉𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐘃",
         "𐄗𐄌",
@@ -11377,6 +15906,43 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 2",
     "support": "tablet",
     "transcription": "𐘸𐘙𐘳𐘅𐙇𐄇𐛶𐄖\n—\n𐘆𐘅𐘁𐄈𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐𐘶𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KI-RE-TA-NA",
         "VIR+[?]",
@@ -11464,12 +16030,42 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 7",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘙𐄊𐝫\n𐝫𐘳𐄊\n𐝫𐙂𐘁𐄙𐄑𐄏\n𐝫𐘇𐘴𐘶𐄙𐄑𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
         "RE",
         "4",
         "\n",
+        "𐝫",
         "\n",
         "TA",
         "4",
@@ -11486,6 +16082,7 @@ var inscriptions = new Map([
         "RE",
         "4",
         "\n",
+        "𐝫",
         "\n",
         "TA",
         "4",
@@ -11502,6 +16099,7 @@ var inscriptions = new Map([
         "𐝫𐘙",
         "𐄊𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐘳",
         "𐄊",
@@ -11527,6 +16125,34 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘤𐘬𐘟𐙂𐘻\n𐜚𐄑𐙂𐘂𐄇\n𐙂𐘁𐄙𐝫\n𐝫𐘝𐄐𐄋𐝫\n𐝫𐄕",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-DU-*34-KU-MI",
         "*303+E",
@@ -11586,10 +16212,42 @@ var inscriptions = new Map([
         "images/HT110b-Inscription.jpg"
     ],
     "name": "HT110b",
-    "parsedInscription": "𐙉𐝫\n𐝫𐘁𐄑\n𐜧𐄉𐝫\n𐝫𐄇\n𐙁𐄋𐝆\n𐝫𐄈\n𐘝𐄇𐝆𐝫\n𐝫𐄇\n𐙁𐄈\n𐙕𐝆𐝃",
+    "parsedInscription": "𐙉𐝫\n𐝫𐘁𐄑\n𐜧𐄉𐝫\n𐝫𐄇\n𐙁𐄋𐝆\n𐝫𐄈\n𐘝𐄇𐝆𐝫\n𐝫𐄇\n𐙁𐄈\n𐙕𐝕",
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙉𐝫𐘁𐄑𐜧\n𐄉𐝫𐄇𐙁𐄋𐝆\n𐝫𐄈𐘝𐄇𐝆\n𐝫𐄇𐙁𐄈𐙕𐝕",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "wheat",
         "\n",
@@ -11617,7 +16275,7 @@ var inscriptions = new Map([
         "2",
         "\n",
         "*301",
-        "³⁄₄"
+        "𐝕"
     ],
     "transliteratedWords": [
         "GRA",
@@ -11646,7 +16304,7 @@ var inscriptions = new Map([
         "2",
         "\n",
         "*301",
-        "³⁄₄"
+        "𐝕"
     ],
     "words": [
         "𐙉𐝫",
@@ -11675,7 +16333,7 @@ var inscriptions = new Map([
         "𐄈",
         "\n",
         "𐙕",
-        "𐝆𐝃"
+        "𐝕"
     ]
 }],
 ["HT111a",{
@@ -11692,9 +16350,41 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘿𐘾𐄎𐘌𐘞𐝫\n𐝫𐘌𐘘𐄎𐘆𐄐𐄊𐝫\n𐝫𐘝𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "QE-KA",
         "8",
@@ -11714,6 +16404,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "QE-KA",
         "8",
@@ -11733,6 +16424,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐘿𐘾",
         "𐄎",
@@ -11764,6 +16456,34 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄐𐄎𐘞𐘆𐄊𐝫\n𐝫𐄉𐘿𐝫\n𐝫𐘝𐄇𐝫𐘅𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -11833,13 +16553,28 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐘐𐝫\n𐝫𐘹𐘂𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "ewe",
         "\n",
         "TU-PA",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "*21F",
@@ -11847,7 +16582,8 @@ var inscriptions = new Map([
         "TU-PA",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐘐𐝫",
@@ -11855,7 +16591,8 @@ var inscriptions = new Map([
         "𐝫𐘹𐘂𐝫",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT112b",{
@@ -11872,13 +16609,28 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐝫𐙗𐄌𐝫\n𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "cyperus",
         "6",
         "\n",
         "𐝫",
         "\n",
-        "\n"
+        "𐝫",
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "CYP",
@@ -11886,7 +16638,9 @@ var inscriptions = new Map([
         "\n",
         "𐝫",
         "\n",
-        "\n"
+        "𐝫",
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫𐙗",
@@ -11894,7 +16648,9 @@ var inscriptions = new Map([
         "\n",
         "𐝫",
         "\n",
-        "\n"
+        "𐝫",
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT113",{
@@ -11911,6 +16667,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘴𐘭𐘦𐝫\n𐝫𐘣𐘞𐄁𐝫𐄐𐄐𐄐\n𐘵𐄈𐝆\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RA-RI-DE",
         "\n",
@@ -11965,6 +16742,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘻𐝫\n𐝫𐄊𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MI",
         "\n",
@@ -12001,6 +16790,29 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 4",
     "support": "tablet",
     "transcription": "𐘸𐘭𐘷𐘞\n𐘽𐙉𐄐𐙖𐄍\n𐘝𐄇𐙍𐄇𐘖\n𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KI-RI-TA2",
         "\n",
@@ -12073,6 +16885,12 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 4",
     "support": "tablet",
     "transcription": "𐘞𐙍𐄏",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "SA-VIN",
         "9"
@@ -12100,6 +16918,70 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 8",
     "support": "tablet",
     "transcription": "𐘨𐘯𐘴𐘱𐄁𐘚𐄁𐛯𐘭𐘳𐙁\n𐘯𐘣𐄈𐙕𐘉𐘴𐘅𐘐\n𐘗𐘻𐘅𐄇𐘈𐙂𐘹𐝆\n𐘂𐘴𐘗𐄇𐘇𐘈𐘱𐝂𐝂𐝂𐝂\n𐘾𐘊𐘘𐄇\n𐘭𐘲𐙁𐝫\n𐘲𐄈𐝂𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "erased-legible",
+        "erased-doubtful",
+        "erased-doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "erased-doubtful",
+        "erased-doubtful",
+        "erased-doubtful",
+        "certain",
+        "eol",
+        "erased-doubtful",
+        "erased-legible",
+        "erased-doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*47-NU-RA-JA",
         "𐄁",
@@ -12220,6 +17102,57 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 8",
     "support": "tablet",
     "transcription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇𐜞𐄇𐙂𐘳𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RU",
         "𐄁",
@@ -12331,6 +17264,81 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘉𐘳𐘁𐄁𐘃𐄁𐙂𐘂𐘱𐙉\n𐄐𐄌𐘫𐘽𐄁𐙉𐄓𐜉𐄋\n𐛉𐙉𐄐𐄌𐜓𐄇𐜗𐄌\n𐙋𐄉𐘢𐘟𐘃𐙉𐄋\n𐙖𐝫𐄋𐜗𐄇𐛺𐄈𐘤𐘸\n𐘗𐙉𐄐𐄈𐙘𐄐𐄈𐘌𐘯𐙁\n𐙉𐄑𐙘𐄉",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "U-TA-RO",
         "𐄁",
@@ -12520,6 +17528,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙂𐘁𐙉𐄙𐝫𐙘𐄐𐄋\n𐙖𐄐𐄍",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"total\"",
         "wheat",
@@ -12568,6 +17592,109 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐙁𐘾𐘭𐘃𐄁𐘸𐘁𐄁𐘉𐘻\n𐘅𐘤𐄁𐘉𐘲𐄇𐘻𐘹𐄇𐙂\n𐘴𐘕𐄇𐙁𐘘𐄇𐙂𐘰𐘯𐄇𐘹\n𐘶𐙁𐄇𐘉𐘆𐘻𐄇𐘻𐘘𐘳\n𐘴𐘙𐄇𐘃𐘱𐘙𐄇𐘅𐘀𐘙𐄇\n𐙂𐘁𐄐\n—\n𐘞𐘳𐄁𐙂𐙂𐘀𐘴𐄇𐘺𐘞𐘚\n𐘠𐄇𐘀𐘻𐘯𐄇𐘀𐘗𐙂\n𐘠𐄇𐘸𐘀𐘁𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MA-KA-RI-TE",
         "𐄁",
@@ -12766,6 +17893,23 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐘐𐘹𐘗𐄁𐙂𐘙𐘶𐄇\n𐘆𐘸𐘈𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*21F-TU-NE",
         "𐄁",
@@ -12811,6 +17955,51 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 3",
     "support": "tablet",
     "transcription": "𐙄𐄁𐛀𐄁𐙁𐘆\n𐄐𐄋𐘸𐄐𐘌𐘌\n𐘘𐄌𐘸𐄊𐘇𐘭𐘲\n𐄊𐘸𐄇𐘭𐘘𐙁𐄐\n𐙂𐘁𐄒𐘸𐄐𐄋𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "pig",
         "𐄁",
@@ -12925,6 +18114,52 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐙳𐄒𐄊𐙇𐄕𐄍\n𐘭𐘻𐘤𐄐𐄉𐘺𐘱𐄐\n𐙂𐘰𐘅𐘹𐄍𐘠𐄍\n𐘱𐚅𐄐𐙚𐘹𐄈𐙳𐘶\n𐄎𐙂𐘁𐄙𐄕",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*327",
         "34",
@@ -13033,6 +18268,50 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 6",
     "support": "tablet",
     "transcription": "𐘀𐘿𐘴𐄁𐘀𐘋\n𐛷𐄖𐄊𐛭\n𐄕𐄈𐝆𐝀𐘀𐘉\n𐘪𐄁𐘚𐛭𐄑𐘸\n𐘙𐘳𐘅𐛳𐄕\n𐛭𐄓𐄎𐘂𐘚𐘄𐄉𐝂",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA-QE-RA",
         "𐄁",
@@ -13132,6 +18411,31 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 4",
     "support": "tablet",
     "transcription": "𐘸𐘭𐘷𐜘𐄐\n𐘞𐘽𐙉𐄋𐙖𐄊\n𐘝𐄈𐙍𐄉𐘖\n𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KI-RI-TA2",
         "OLE+QE+DI",
@@ -13210,6 +18514,98 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈\n𐝫𐄈𐘀𐘤𐙈𐄈𐘂\n𐝫𐄁𐝫𐘆𐄇𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇𐙰𐘆𐘴𐄇𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇𐘂𐘳𐘗𐄇𐙚𐘹𐄇\n𐝫𐘬𐄇𐙂𐘰𐘯𐄇𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇𐙂𐘀𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "RA-RI",
         "𐄁",
@@ -13402,6 +18798,54 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐘧𐘆𐄁𐚆𐄁𐙇𐝫\n𐙚𐘸𐘷𐄍𐝫\n𐝫𐘇𐘴𐘶𐘉𐘦𐘍𐄈𐘌𐘌\n𐘘𐄈𐘆𐄈𐘀𐘙𐄈\n𐙂𐘁𐄕𐄋\n𐘊𐘄𐙂𐘁𐄘𐄍",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "JE-DI",
         "𐄁",
@@ -13497,10 +18941,96 @@ var inscriptions = new Map([
         "images/HT123+124a-Inscription.jpg"
     ],
     "name": "HT123+124a",
-    "parsedInscription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃\n𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆\n𐙜𐄎𐝆𐝃\n𐘸𐘁𐝎\n𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫\n𐝫𐘸𐘁𐝆𐝃\n𐘀𐘹𐙋𐄐𐄋\n𐙜𐄊𐝃\n𐘸𐘁𐝆𐝃\n𐙂𐘁𐙋𐄘𐄉𐝆\n𐙜𐄁\n𐙂𐘁𐝫𐄑𐄋𐝅\n𐘸𐘁𐄌𐝫",
+    "parsedInscription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃\n𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆\n𐙜𐄎𐝕\n𐘸𐘁𐝎\n𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫\n𐝫𐘸𐘁𐝕\n𐘀𐘹𐙋𐄐𐄋\n𐙜𐄊𐝃\n𐘸𐘁𐝕\n𐙂𐘁𐙋𐄘𐄉𐝆\n𐙜𐄁\n𐙂𐘁𐝫𐄑𐄋𐝅\n𐘸𐘁𐄌𐝫",
     "scribe": "HT Scribe 6",
     "support": "tablet",
     "transcription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆𐙜𐄎\n𐝕𐘸𐘁𐝎𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫𐘸𐘁𐝆𐝃\n𐘀𐘹𐙋𐄐𐄋𐙜𐄊𐝃\n𐘸𐘁𐝕𐙂𐘁𐙋\n𐄘𐄉𐝆𐙜𐄁𐙂𐘁𐝫𐄑\n𐄋𐝅𐘸𐘁𐄌𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "erased-legible",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KI-TA-I",
         "𐄁",
@@ -13522,7 +19052,7 @@ var inscriptions = new Map([
         "\n",
         "*308",
         "8",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "\"owed\"",
         ".3",
@@ -13536,7 +19066,7 @@ var inscriptions = new Map([
         "≈ ¹⁄₆",
         "\n",
         "\"owed\"",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "DA-TU",
         "olives",
@@ -13547,7 +19077,7 @@ var inscriptions = new Map([
         "¹⁄₄",
         "\n",
         "\"owed\"",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "\"total\"",
         "olives",
@@ -13585,7 +19115,7 @@ var inscriptions = new Map([
         "\n",
         "*308",
         "8",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "KI-RO",
         ".3",
@@ -13599,7 +19129,7 @@ var inscriptions = new Map([
         "≈ ¹⁄₆",
         "\n",
         "KI-RO",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "DA-TU",
         "OLIV",
@@ -13610,7 +19140,7 @@ var inscriptions = new Map([
         "¹⁄₄",
         "\n",
         "KI-RO",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "KU-RO",
         "OLIV",
@@ -13648,7 +19178,7 @@ var inscriptions = new Map([
         "\n",
         "𐙜",
         "𐄎",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐘸𐘁",
         "𐝎",
@@ -13662,7 +19192,7 @@ var inscriptions = new Map([
         "𐝀𐝫",
         "\n",
         "𐝫𐘸𐘁",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐘀𐘹",
         "𐙋",
@@ -13673,7 +19203,7 @@ var inscriptions = new Map([
         "𐝃",
         "\n",
         "𐘸𐘁",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐙂𐘁",
         "𐙋",
@@ -13701,17 +19231,73 @@ var inscriptions = new Map([
         "images/HT123+124b-Inscription.jpg"
     ],
     "name": "HT123+124b",
-    "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝆𐝃\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫",
+    "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫",
     "scribe": "HT Scribe 6",
     "support": "tablet",
     "transcription": "𐙓𐙜𐄐𐄇𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁𐘢𐘞𐄊𐙓\n𐄇𐙓𐘬𐄐𐘹𐘂𐘆𐘀\n𐝆𐝉𐘾𐘅𐝫𐘤𐘬\n𐝀𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑𐘸𐘁𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "*188-*308",
         "11",
         "\n",
         "*312",
         "1",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "TI-DA-TA",
         "𐄁",
@@ -13749,7 +19335,7 @@ var inscriptions = new Map([
         "\n",
         "*312",
         "1",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "TI-DA-TA",
         "𐄁",
@@ -13787,7 +19373,7 @@ var inscriptions = new Map([
         "\n",
         "𐙢",
         "𐄇",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐘠𐘀𐘳",
         "𐄁",
@@ -13834,6 +19420,34 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘽𐝫\n𐜓𐄇𐝂𐜋𐝫\n𐜗𐄇𐝆𐝫\n𐘞𐘽𐙉𐄈𐙖𐝫𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -13915,9 +19529,36 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄑\n𐝫𐘙𐘷𐛭𐄑\n𐛵𐄍𐝆𐙘𐄐\n𐘝𐄑𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "20",
         "\n",
@@ -13938,6 +19579,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "20",
         "\n",
@@ -13958,6 +19600,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐄑",
         "\n",
@@ -13990,6 +19633,48 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇𐘉𐝫\n𐝆𐘤𐘆𐘱𐄇𐝫\n𐘉𐘪𐄇𐘢𐝫\n𐄕𐄈𐝫\n𐄈𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA-NA-SI",
         "𐄁",
@@ -14089,6 +19774,30 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙙𐄉\n𐝫𐄌𐙆𐄊𐄁𐘐𐝫\n𐝫𐙆\n𐝫𐘹𐄌\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "*305",
         "3",
@@ -14101,6 +19810,7 @@ var inscriptions = new Map([
         "𐄁",
         "ewe",
         "\n",
+        "𐝫",
         "\n",
         "TWE",
         "\n",
@@ -14121,6 +19831,7 @@ var inscriptions = new Map([
         "𐄁",
         "*21F",
         "\n",
+        "𐝫",
         "\n",
         "TWE",
         "\n",
@@ -14141,6 +19852,7 @@ var inscriptions = new Map([
         "𐄁",
         "𐘐𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐙆𐝫",
         "\n",
@@ -14164,7 +19876,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
+        "𐝫",
         "\n",
         "DU-NE-MI",
         "1",
@@ -14173,6 +19905,7 @@ var inscriptions = new Map([
         "1"
     ],
     "transliteratedWords": [
+        "𐝫",
         "\n",
         "DU-NE-MI",
         "1",
@@ -14181,6 +19914,7 @@ var inscriptions = new Map([
         "1"
     ],
     "words": [
+        "𐝫",
         "\n",
         "𐝫𐘬𐘗𐘻",
         "𐄇𐝫",
@@ -14203,9 +19937,55 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘗𐄐𐄉𐝫\n𐙂𐘁𐙛𐄙𐄔𐄌𐙂\n𐄖𐄈𐛫𐄑𐄊𐛖𐄐𐄋\n𐙕𐄐𐄇𐛖𐄐𐄊\n𐙂𐘁𐄚𐄘𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "erased-legible",
+        "erased-doubtful",
+        "erased-doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "NE",
         "13",
@@ -14235,6 +20015,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "NE",
         "13",
@@ -14264,6 +20045,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐘗",
         "𐄐𐄉𐝫",
@@ -14305,6 +20087,50 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐙲𐄁𐘂𐘴𐘹𐘘𐘯𐘈𐘋\n𐙉𐝫𐄐𐘮𐘹𐙁𐘙𐛲𐄐𐄈\n𐝫𐘻𐘳𐛭𐝆𐝫𐛲𐄌𐘆\n𐝫𐛲𐄊𐙁𐘭\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "*326",
         "𐄁",
@@ -14410,6 +20236,25 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐛲𐄌𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "GRA+KU",
         "6",
@@ -14473,6 +20318,44 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 15",
     "support": "tablet",
     "transcription": "𐘸𐘙𐘷𐙉𐄒𐄉𐝆𐝁\n𐙘𐄐𐘝𐄑𐄈𐘹𐘐𐘭𐘅\n𐙉𐄓𐝆𐜉𐄇𐝫\n𐝫𐜓𐄌𐙖𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KI-RE-TA2",
         "wheat",
@@ -14569,7 +20452,41 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 19",
     "support": "tablet",
     "transcription": "𐝫𐘤𐄉\n𐘞𐘽𐙗𐝫\n𐝫𐘽𐝫\n𐝫𐙂𐘁𐝫\n—\n𐘤𐙗𐄎𐘝\n𐄌𐙍𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
+        "𐝫",
         "\n",
         "SI",
         "3",
@@ -14577,6 +20494,7 @@ var inscriptions = new Map([
         "Placename?",
         "cyperus",
         "\n",
+        "𐝫",
         "\n",
         "RA2",
         "\n",
@@ -14594,6 +20512,7 @@ var inscriptions = new Map([
         "3"
     ],
     "transliteratedWords": [
+        "𐝫",
         "\n",
         "SI",
         "3",
@@ -14601,6 +20520,7 @@ var inscriptions = new Map([
         "SA-RA2",
         "CYP",
         "\n",
+        "𐝫",
         "\n",
         "RA2",
         "\n",
@@ -14618,6 +20538,7 @@ var inscriptions = new Map([
         "3"
     ],
     "words": [
+        "𐝫",
         "\n",
         "𐝫𐘤",
         "𐄉",
@@ -14625,6 +20546,7 @@ var inscriptions = new Map([
         "𐘞𐘽",
         "𐙗𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐘽𐝫",
         "\n",
@@ -14652,10 +20574,47 @@ var inscriptions = new Map([
         "images/HT131a-Inscription.jpg"
     ],
     "name": "HT131a",
-    "parsedInscription": "𐝫\n𐝫𐘝𐄕𐄈\n𐙂𐝫\n𐝫𐄛𐄔𐄉\n𐘚𐘌𐙈𐙉𐄔𐄎𐝫\n𐝫𐙖𐄐𐄈𐝆\n𐙘𐄐𐄈𐝆𐝃",
+    "parsedInscription": "𐝫\n𐝫𐘝𐄕𐄈\n𐙂𐝫\n𐝫𐄛𐄔𐄉\n𐘚𐘌𐙈𐙉𐄔𐄎𐝫\n𐝫𐙖𐄐𐄈𐝆\n𐙘𐄐𐄈𐝕",
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘝𐄕𐄈𐙂𐝫\n𐝫𐄛𐄔𐄉𐘚𐘌\n𐝫𐙈𐙉𐄔𐄎\n𐝫𐙖𐄐𐄈𐝆𐙘𐄐𐄈𐝆𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -14676,7 +20635,7 @@ var inscriptions = new Map([
         "\n",
         "coriander?",
         "12",
-        "³⁄₄"
+        "𐝕"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -14698,7 +20657,7 @@ var inscriptions = new Map([
         "\n",
         "*304",
         "12",
-        "³⁄₄"
+        "𐝕"
     ],
     "words": [
         "𐝫",
@@ -14720,7 +20679,7 @@ var inscriptions = new Map([
         "\n",
         "𐙘",
         "𐄐𐄈",
-        "𐝆𐝃"
+        "𐝕"
     ]
 }],
 ["HT131b",{
@@ -14737,7 +20696,38 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘝𐄒𐝫\n𐝫𐙋𐄈𐛼𐝫\n—\n𐘊𐘄𐙂𐘁𐝫𐄜\n𐄔𐄈𐝆𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
+        "𐝫",
         "\n",
         "figs",
         "30",
@@ -14754,6 +20744,7 @@ var inscriptions = new Map([
         "¹⁄₂"
     ],
     "transliteratedWords": [
+        "𐝫",
         "\n",
         "NI",
         "30",
@@ -14770,6 +20761,7 @@ var inscriptions = new Map([
         "¹⁄₂"
     ],
     "words": [
+        "𐝫",
         "\n",
         "𐝫𐘝",
         "𐄒𐝫",
@@ -14800,6 +20792,32 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐘇𐘈𐄁𐙫𐄋𐘌𐘙\n𐘄𐄁𐘐𐄑𐄍𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-SE",
         "𐄁",
@@ -14817,7 +20835,8 @@ var inscriptions = new Map([
         "1",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "A-SE",
@@ -14836,7 +20855,8 @@ var inscriptions = new Map([
         "1",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐘇𐘈",
@@ -14855,7 +20875,8 @@ var inscriptions = new Map([
         "𐄇𐝫",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT133",{
@@ -14872,6 +20893,16 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 22",
     "support": "tablet",
     "transcription": "𐘇𐘬𐄁𐘃𐛬\n𐄔𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"assessment\"?",
         "𐄁",
@@ -14908,6 +20939,35 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘗𐘻𐘅𐄐𐝫\n𐝫𐘻𐘹𐄁𐘻𐘾\n𐝫𐄇𐘅𐘐𐘗\n𐝫𐘻𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -14977,6 +21037,23 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 9",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈\n𐘐𐄒𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15018,6 +21095,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐄑𐄉𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "she-goat",
         "30",
@@ -15057,17 +21141,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT136b",{
@@ -15084,6 +21177,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄑𐄊\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15120,7 +21222,29 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘷𐙉𐝫𐄉𐜗𐄌𐝫\n𐝫𐙖𐄈𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
+        "𐝫",
         "\n",
         "TA2",
         "wheat",
@@ -15134,6 +21258,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
+        "𐝫",
         "\n",
         "TA2",
         "GRA",
@@ -15147,6 +21272,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "words": [
+        "𐝫",
         "\n",
         "𐝫𐘷",
         "𐙉𐝫",
@@ -15174,6 +21300,25 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 5",
     "support": "tablet",
     "transcription": "𐝫𐘫𐙁𐙂\n𐝫𐙉𐝫𐄇𐙖𐝆\n𐝫𐘾𐘽\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "PU-MA-KU",
         "\n",
@@ -15228,6 +21373,77 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 8",
     "support": "tablet",
     "transcription": "𐘉𐘟𐘤𐄁𐙅𐘤𐘝𐄁𐄇𐝫𐘧𐘆𐄁\n𐜓𐄇𐝆𐄁𐘉𐘟𐘤𐝫𐄁𐝫𐙅𐘤𐙈𐘾𐄉\n𐘾𐝫𐙁𐝫𐘾𐝫𐄊\n𐜋𐄉𐘾𐄇𐜋𐄇\n𐝫𐘾𐄇𐜋𐄈𐘾𐘂𐝆\n𐝫𐜋𐄌𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "U-*34-SI",
         "𐄁",
@@ -15399,6 +21615,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐄇𐘇𐘭𐝫\n𐝫𐘘𐘆𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15447,29 +21679,50 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
-        "\n"
+        "𐝫",
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
-        "\n"
+        "𐝫",
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫",
         "\n",
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
-        "\n"
+        "𐝫",
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT144",{
@@ -15486,26 +21739,40 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 5",
     "support": "tablet",
     "transcription": "𐝫𐄁𐘵𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "O",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐄁",
         "O",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐄁",
         "𐘵𐝫",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT146",{
@@ -15522,6 +21789,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘿𐝫𐄒\n𐘭𐙙𐄒𐙁𐄒\n𐘭𐘾𐘳𐄒",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15582,7 +21869,25 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘴𐝅\n𐝫𐝆\n𐝫𐘝𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
+        "𐝫",
         "\n",
         "RA",
         "≈ ¹⁄₆",
@@ -15594,6 +21899,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
+        "𐝫",
         "\n",
         "RA",
         "≈ ¹⁄₆",
@@ -15605,6 +21911,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "words": [
+        "𐝫",
         "\n",
         "𐝫𐘴",
         "𐝅",
@@ -15630,6 +21937,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐛀𐄁𐘠𐝫𐄙𐝫\n𐝫𐄍𐝫𐄓𐝫\n𐘸𐝫\n𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*516",
         "𐄁",
@@ -15693,6 +22001,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘹𐘋𐘂𐘱\n𐝫𐙋𐝫𐙉𐝫\n𐝫\n𐝫𐙂𐄌𐝫𐘳𐄌",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TU-ME-PA-JA",
         "\n",
@@ -15700,6 +22009,7 @@ var inscriptions = new Map([
         "\n",
         "wheat",
         "\n",
+        "𐝫",
         "\n",
         "KU",
         "6",
@@ -15714,6 +22024,7 @@ var inscriptions = new Map([
         "\n",
         "GRA",
         "\n",
+        "𐝫",
         "\n",
         "KU",
         "6",
@@ -15728,6 +22039,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐙉𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐙂",
         "𐄌𐝫",
@@ -15750,6 +22062,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄁𐙉",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐄁",
         "wheat"
@@ -15777,6 +22090,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐘅𐝫\n𐄈𐝆𐝫\n𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15816,6 +22130,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘝𐄐𐄊𐝫\n𐄉𐝃",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15858,6 +22173,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄌𐝆𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15891,9 +22207,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘯𐘃𐝫\n𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "NU-TE",
         "\n",
@@ -15902,6 +22220,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "NU-TE",
         "\n",
@@ -15910,6 +22229,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐘯𐘃𐝫",
         "\n",
@@ -15930,6 +22250,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15966,9 +22287,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄈\n𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "2",
         "\n",
@@ -15977,6 +22300,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "2",
         "\n",
@@ -15985,6 +22309,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐄈",
         "\n",
@@ -16005,6 +22330,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄈𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -16035,17 +22361,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["HT154n",{
@@ -16062,6 +22392,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘤𐝫\n𐝫𐄌𐘤𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -16072,6 +22403,8 @@ var inscriptions = new Map([
         "\n",
         "\n",
         "6",
+        "SI",
+        "𐝫",
         "𐝫"
     ],
     "transliteratedWords": [
@@ -16084,6 +22417,8 @@ var inscriptions = new Map([
         "\n",
         "\n",
         "6",
+        "SI",
+        "𐝫",
         "𐝫"
     ],
     "words": [
@@ -16096,6 +22431,8 @@ var inscriptions = new Map([
         "\n",
         "\n",
         "𐝫𐄌",
+        "𐘤𐝫",
+        "𐝫",
         "𐝫"
     ]
 }],
@@ -16109,6 +22446,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙋",
+    "transcriptionReadings": [],
     "translatedWords": [
         "olives"
     ],
@@ -16129,6 +22467,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙓",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*188"
     ],
@@ -16149,17 +22488,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄁𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
+        "𐝫",
         "𐄁",
-        "𐝫𐄁𐝫"
+        "𐝫"
     ],
     "transliteratedWords": [
+        "𐝫",
         "𐄁",
-        "𐝫𐄁𐝫"
+        "𐝫"
     ],
     "words": [
+        "𐝫",
         "𐄁",
-        "𐝫𐄁𐝫"
+        "𐝫"
     ]
 }],
 ["HTW231d-f",{
@@ -16172,6 +22515,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [],
     "transliteratedWords": [],
     "words": []
@@ -16190,6 +22534,11 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 50",
     "support": "nodule",
     "transcription": "𐘀𐘾",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA-KA"
     ],
@@ -16214,6 +22563,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 50",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "DA-KA"
     ],
@@ -16238,6 +22588,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 50",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "DA-KA"
     ],
@@ -16262,6 +22613,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 50",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "DA-KA"
     ],
@@ -16286,6 +22638,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 51",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "DA-KA"
     ],
@@ -16310,6 +22663,11 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 52",
     "support": "nodule",
     "transcription": "𐘚𐘽",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-RA2"
     ],
@@ -16334,6 +22692,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I-RA2"
     ],
@@ -16358,6 +22717,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 53",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I-RA2"
     ],
@@ -16382,6 +22742,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 53",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I-RA2"
     ],
@@ -16406,6 +22767,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 53",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I-RA2"
     ],
@@ -16430,6 +22792,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 52",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I-RA2"
     ],
@@ -16454,6 +22817,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 52",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I-RA2"
     ],
@@ -16478,6 +22842,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 53",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I-RA2"
     ],
@@ -16502,6 +22867,11 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 54",
     "support": "nodule",
     "transcription": "𐘤𐘾",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-KA"
     ],
@@ -16526,6 +22896,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 54",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI-KA"
     ],
@@ -16550,6 +22921,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI-KA"
     ],
@@ -16574,6 +22946,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 51",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI-KA"
     ],
@@ -16598,6 +22971,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 54",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI-KA"
     ],
@@ -16624,6 +22998,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘂𐘳𐘗\n𐘤𐘹",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PA-TA-NE",
         "\n",
@@ -16654,6 +23037,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐜝𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*304+PA-KU-PA",
         "\n",
@@ -16686,15 +23081,26 @@ var inscriptions = new Map([
         "images/HTWa1021-Inscription.jpg"
     ],
     "name": "HTWa1021",
-    "parsedInscription": "𐙓𐘬𐄁\n𐝆𐝃\n𐛉𐛔",
+    "parsedInscription": "𐙓𐘬𐄁\n𐝕\n𐛉𐛔",
     "scribe": "",
     "support": "nodule",
     "transcription": "𐙓𐘬𐄁\n𐝕\n𐛉𐛔",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*188-DU",
         "𐄁",
         "\n",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "SI+SE-RA+KA"
     ],
@@ -16702,7 +23108,7 @@ var inscriptions = new Map([
         "*188-DU",
         "𐄁",
         "\n",
-        "³⁄₄",
+        "𐝕",
         "\n",
         "SI+SE-RA+KA"
     ],
@@ -16710,7 +23116,7 @@ var inscriptions = new Map([
         "𐙓𐘬",
         "𐄁",
         "\n",
-        "𐝆𐝃",
+        "𐝕",
         "\n",
         "𐛉𐛔"
     ]
@@ -16729,6 +23135,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐜝𐝧𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*304+PA-*303+D",
         "3"
@@ -16756,6 +23168,10 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 55",
     "support": "nodule",
     "transcription": "𐛁",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I+*301"
     ],
@@ -16780,6 +23196,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "¹⁄₄"
     ],
@@ -16804,6 +23224,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "¹⁄₄"
     ],
@@ -16828,6 +23249,11 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 57",
     "support": "nodule",
     "transcription": "𐝆𐙕",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*905-*301"
     ],
@@ -16852,6 +23278,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐝃𐙕",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "E-*301"
     ],
@@ -16876,6 +23307,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘾𐘤",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-SI"
     ],
@@ -16901,6 +23337,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘤𐘾",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-KA"
     ],
@@ -16926,6 +23367,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐙕𐙕",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301-*301"
     ],
@@ -16952,6 +23398,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 58",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301-*301"
     ],
@@ -16976,6 +23423,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘀",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA"
     ],
@@ -17000,6 +23451,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘁",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17024,6 +23476,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘁",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17048,6 +23501,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 34",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17072,6 +23526,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17096,6 +23551,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17120,6 +23576,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17144,6 +23601,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17168,6 +23626,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17192,6 +23651,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17216,6 +23676,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 60",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17240,6 +23701,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17264,6 +23726,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17288,6 +23751,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17312,6 +23776,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 59",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17336,6 +23801,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17360,6 +23826,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 61",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17384,6 +23851,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 62",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17408,6 +23876,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17432,6 +23901,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17456,6 +23926,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17480,6 +23951,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17504,6 +23976,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17528,6 +24001,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17552,6 +24026,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17576,6 +24051,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17600,6 +24076,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17624,6 +24101,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17648,6 +24126,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17672,6 +24151,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17696,6 +24176,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17720,6 +24201,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17744,6 +24226,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17768,6 +24251,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17792,6 +24276,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17816,6 +24301,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17840,6 +24326,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17864,6 +24351,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17888,6 +24376,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17912,6 +24401,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17936,6 +24426,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17960,6 +24451,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -17984,6 +24476,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18008,6 +24501,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18032,6 +24526,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18056,6 +24551,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18080,6 +24576,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18104,6 +24601,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18128,6 +24626,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18152,6 +24651,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18176,6 +24676,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18200,6 +24701,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18224,6 +24726,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18248,6 +24751,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18272,6 +24776,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18296,6 +24801,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18320,6 +24826,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18344,6 +24851,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18368,6 +24876,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18392,6 +24901,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18416,6 +24926,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18440,6 +24951,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18464,6 +24976,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18488,6 +25001,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18512,6 +25026,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18536,6 +25051,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18560,6 +25076,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18584,6 +25101,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18608,6 +25126,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18632,6 +25151,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18656,6 +25176,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18680,6 +25201,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18704,6 +25226,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18728,6 +25251,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18752,6 +25276,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18776,6 +25301,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18800,6 +25326,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18824,6 +25351,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18848,6 +25376,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18872,6 +25401,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18896,6 +25426,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18920,6 +25451,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18944,6 +25476,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18968,6 +25501,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -18992,6 +25526,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -19016,6 +25551,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -19040,6 +25576,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -19064,6 +25601,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -19088,6 +25626,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -19112,6 +25651,14 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 55",
     "support": "nodule",
     "transcription": "𐘃 𐘃¹¹²³",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TE"
     ],
@@ -19136,6 +25683,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 56",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19160,6 +25708,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19184,6 +25733,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 57",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19208,6 +25758,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19232,6 +25783,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19256,6 +25808,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19280,6 +25833,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19304,6 +25858,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 58",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19328,6 +25883,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19352,6 +25908,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19376,6 +25933,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19400,6 +25958,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 59",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19424,6 +25983,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19448,6 +26008,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19472,6 +26033,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19496,6 +26058,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19520,6 +26083,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19544,6 +26108,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19568,6 +26133,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 60",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19592,6 +26158,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19616,6 +26183,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19640,6 +26208,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19664,6 +26233,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 59",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19684,6 +26254,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -19704,6 +26275,14 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 61",
     "support": "nodule",
     "transcription": "𐘇 𐘇¹¹⁴⁸",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A"
     ],
@@ -19724,6 +26303,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 62",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "A"
     ],
@@ -19744,6 +26324,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "A"
     ],
@@ -19764,6 +26345,10 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "𐘚",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I"
     ],
@@ -19784,6 +26369,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -19804,6 +26390,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -19824,6 +26411,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -19844,6 +26432,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 64",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -19864,6 +26453,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -19884,6 +26474,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -19904,6 +26495,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -19924,6 +26516,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -19944,6 +26537,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -19964,6 +26558,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -19984,6 +26579,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20004,6 +26600,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20024,6 +26621,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20044,6 +26642,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20064,6 +26663,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20084,6 +26684,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20104,6 +26705,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20124,6 +26726,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 63",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20144,6 +26747,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20164,6 +26768,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 65",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20188,6 +26793,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 65",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20212,6 +26818,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20236,6 +26843,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 66",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20260,6 +26868,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 67",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I"
     ],
@@ -20284,6 +26893,17 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "𐘤 𐘤¹¹⁹⁹ 𐘤¹²⁵⁹",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI"
     ],
@@ -20308,6 +26928,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20332,6 +26953,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20356,6 +26978,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20380,6 +27003,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20404,6 +27028,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20428,6 +27053,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20452,6 +27078,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20476,6 +27103,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20500,6 +27128,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20524,6 +27153,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20548,6 +27178,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20572,6 +27203,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20596,6 +27228,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20620,6 +27253,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20644,6 +27278,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20668,6 +27303,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20692,6 +27328,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20716,6 +27353,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20740,6 +27378,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20764,6 +27403,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20788,6 +27428,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20812,6 +27453,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20836,6 +27478,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20860,6 +27503,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20884,6 +27528,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20908,6 +27553,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20932,6 +27578,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20956,6 +27603,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -20980,6 +27628,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21004,6 +27653,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21028,6 +27678,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21052,6 +27703,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21076,6 +27728,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21100,6 +27753,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21124,6 +27778,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21148,6 +27803,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21172,6 +27828,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21196,6 +27853,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21220,6 +27878,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21244,6 +27903,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21268,6 +27928,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21292,6 +27953,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21316,6 +27978,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21340,6 +28003,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21364,6 +28028,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21388,6 +28053,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21412,6 +28078,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21436,6 +28103,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21460,6 +28128,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21484,6 +28153,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 68",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21508,6 +28178,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21532,6 +28203,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21556,6 +28228,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21580,6 +28253,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21604,6 +28278,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21628,6 +28303,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21652,6 +28328,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21676,6 +28353,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21700,6 +28378,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21724,6 +28403,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21748,6 +28428,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21772,6 +28453,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21796,6 +28478,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21820,6 +28503,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21844,6 +28528,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21868,6 +28553,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21892,6 +28578,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21916,6 +28603,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21940,6 +28628,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21964,6 +28653,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -21988,6 +28678,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22012,6 +28703,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22036,6 +28728,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22060,6 +28753,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 69",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22084,6 +28778,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22108,6 +28803,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22132,6 +28828,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22156,6 +28853,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22180,6 +28878,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 70",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22204,6 +28903,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22228,6 +28928,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 70",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22252,6 +28953,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22276,6 +28978,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22300,6 +29003,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22324,6 +29028,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22348,6 +29053,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22372,6 +29078,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22396,6 +29103,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22420,6 +29128,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22444,6 +29153,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22468,6 +29178,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI"
     ],
@@ -22492,6 +29203,14 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "𐘳 𐘳¹²⁷⁸",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA"
     ],
@@ -22516,6 +29235,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22540,6 +29260,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22564,6 +29285,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 72",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22588,6 +29310,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22612,6 +29335,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22636,6 +29360,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22660,6 +29385,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22684,6 +29410,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22708,6 +29435,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 71",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22732,6 +29460,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22756,6 +29485,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 73",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TA"
     ],
@@ -22780,6 +29510,10 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 74",
     "support": "nodule",
     "transcription": "𐘵",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "O"
     ],
@@ -22804,6 +29538,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 75",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "O"
     ],
@@ -22828,6 +29563,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 74",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "O"
     ],
@@ -22852,6 +29588,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘼 𐘼¹²⁸³ 𐘼¹²⁸⁶ 𐘼¹³¹¹",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "ZE"
     ],
@@ -22876,6 +29627,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -22900,6 +29652,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -22924,6 +29677,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -22948,6 +29702,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -22972,6 +29727,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -22996,6 +29752,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23020,6 +29777,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23044,6 +29802,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23068,6 +29827,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 79",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23092,6 +29852,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 79",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23116,6 +29877,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 78",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23140,6 +29902,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 80",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23164,6 +29927,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 81",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23188,6 +29952,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 80",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23212,6 +29977,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 81",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23236,6 +30002,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23260,6 +30027,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23284,6 +30052,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23308,6 +30077,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23332,6 +30102,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 82",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23356,6 +30127,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23380,6 +30152,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23404,6 +30177,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23428,6 +30202,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23452,6 +30227,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 83",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23476,6 +30252,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 76",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23500,6 +30277,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 83",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23524,6 +30302,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 77",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23548,6 +30327,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23572,6 +30352,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23596,6 +30377,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 77",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23620,6 +30402,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23644,6 +30427,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23668,6 +30452,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23692,6 +30477,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23716,6 +30502,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23740,6 +30527,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23764,6 +30552,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23788,6 +30577,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -23812,6 +30602,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘾 𐘾¹⁴⁵¹",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA"
     ],
@@ -23836,6 +30634,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -23860,6 +30659,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -23884,6 +30684,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -23908,6 +30709,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -23932,6 +30734,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -23956,6 +30759,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -23980,6 +30784,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24004,6 +30809,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24028,6 +30834,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24052,6 +30859,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24076,6 +30884,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24100,6 +30909,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24124,6 +30934,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24148,6 +30959,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24172,6 +30984,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24196,6 +31009,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24220,6 +31034,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24244,6 +31059,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24268,6 +31084,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24292,6 +31109,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24316,6 +31134,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24340,6 +31159,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24364,6 +31184,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24388,6 +31209,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24412,6 +31234,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24436,6 +31259,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24460,6 +31284,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24484,6 +31309,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24508,6 +31334,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24532,6 +31359,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24556,6 +31384,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24580,6 +31409,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24604,6 +31434,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24628,6 +31459,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24652,6 +31484,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24676,6 +31509,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24700,6 +31534,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24724,6 +31559,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24748,6 +31584,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24772,6 +31609,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24796,6 +31634,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24820,6 +31659,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24844,6 +31684,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24868,6 +31709,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24892,6 +31734,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24916,6 +31759,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24940,6 +31784,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24964,6 +31809,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -24988,6 +31834,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25012,6 +31859,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25036,6 +31884,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25060,6 +31909,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25084,6 +31934,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25108,6 +31959,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25132,6 +31984,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25156,6 +32009,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25180,6 +32034,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25204,6 +32059,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25228,6 +32084,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25252,6 +32109,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25276,6 +32134,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25300,6 +32159,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25324,6 +32184,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25348,6 +32209,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25372,6 +32234,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25396,6 +32259,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25420,6 +32284,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25444,6 +32309,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25468,6 +32334,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25492,6 +32359,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25516,6 +32384,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25540,6 +32409,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25564,6 +32434,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25588,6 +32459,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25612,6 +32484,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25636,6 +32509,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25660,6 +32534,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25684,6 +32559,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25708,6 +32584,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25732,6 +32609,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25756,6 +32634,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25780,6 +32659,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25804,6 +32684,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25828,6 +32709,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25852,6 +32734,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25876,6 +32759,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25900,6 +32784,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25924,6 +32809,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25948,6 +32834,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25972,6 +32859,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -25996,6 +32884,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26020,6 +32909,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26044,6 +32934,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26068,6 +32959,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26092,6 +32984,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26116,6 +33009,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26140,6 +33034,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26164,6 +33059,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26188,6 +33084,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26212,6 +33109,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26236,6 +33134,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26260,6 +33159,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26284,6 +33184,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26308,6 +33209,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26332,6 +33234,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26356,6 +33259,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26380,6 +33284,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26404,6 +33309,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26428,6 +33334,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26452,6 +33359,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26476,6 +33384,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26500,6 +33409,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26524,6 +33434,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26548,6 +33459,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26572,6 +33484,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26596,6 +33509,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26620,6 +33534,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26644,6 +33559,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26668,6 +33584,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26692,6 +33609,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26716,6 +33634,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26740,6 +33659,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26764,6 +33684,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26788,6 +33709,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26812,6 +33734,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26836,6 +33759,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26860,6 +33784,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26884,6 +33809,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26908,6 +33834,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26932,6 +33859,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26956,6 +33884,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -26980,6 +33909,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27004,6 +33934,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27028,6 +33959,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27052,6 +33984,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27076,6 +34009,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27100,6 +34034,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27124,6 +34059,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27148,6 +34084,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27172,6 +34109,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27196,6 +34134,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27220,6 +34159,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27244,6 +34184,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27268,6 +34209,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27292,6 +34234,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27316,6 +34259,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27340,6 +34284,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27364,6 +34309,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KA"
     ],
@@ -27388,6 +34334,24 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "𐙂 𐙂¹⁴⁹⁰ 𐙂¹⁵¹⁸ 𐙂¹⁵⁴⁷ 𐙂¹⁵⁸²",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KU"
     ],
@@ -27412,6 +34376,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27436,6 +34401,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27460,6 +34426,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27484,6 +34451,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27508,6 +34476,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27532,6 +34501,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27556,6 +34526,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27580,6 +34551,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27604,6 +34576,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27628,6 +34601,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 85",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27652,6 +34626,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27676,6 +34651,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27700,6 +34676,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27724,6 +34701,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27748,6 +34726,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27772,6 +34751,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27796,6 +34776,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27820,6 +34801,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27844,6 +34826,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27868,6 +34851,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27892,6 +34876,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27916,6 +34901,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27940,6 +34926,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27964,6 +34951,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -27988,6 +34976,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28012,6 +35001,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28036,6 +35026,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28060,6 +35051,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28084,6 +35076,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28108,6 +35101,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28132,6 +35126,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28156,6 +35151,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28180,6 +35176,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28204,6 +35201,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28228,6 +35226,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28252,6 +35251,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28276,6 +35276,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28300,6 +35301,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28324,6 +35326,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28348,6 +35351,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28372,6 +35376,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 86",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28396,6 +35401,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28420,6 +35426,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28444,6 +35451,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28468,6 +35476,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28492,6 +35501,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28516,6 +35526,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28540,6 +35551,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28564,6 +35576,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28588,6 +35601,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28612,6 +35626,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28636,6 +35651,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28660,6 +35676,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28684,6 +35701,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28708,6 +35726,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 88",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28732,6 +35751,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28756,6 +35776,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28780,6 +35801,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28804,6 +35826,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28828,6 +35851,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28852,6 +35876,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 88",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28876,6 +35901,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 85",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28900,6 +35926,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 85",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28924,6 +35951,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 85",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28948,6 +35976,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 85",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28972,6 +36001,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -28996,6 +36026,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29020,6 +36051,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29044,6 +36076,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29068,6 +36101,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29092,6 +36126,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 87",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29116,6 +36151,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29140,6 +36176,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29164,6 +36201,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29188,6 +36226,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29212,6 +36251,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29236,6 +36276,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29260,6 +36301,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29284,6 +36326,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29308,6 +36351,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29332,6 +36376,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29356,6 +36401,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29380,6 +36426,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29404,6 +36451,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29428,6 +36476,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29452,6 +36501,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29476,6 +36526,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29500,6 +36551,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 86",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29524,6 +36576,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 86",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29548,6 +36601,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29572,6 +36626,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29596,6 +36651,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29620,6 +36676,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29644,6 +36701,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29668,6 +36726,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29692,6 +36751,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29716,6 +36776,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29740,6 +36801,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29764,6 +36826,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29788,6 +36851,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29812,6 +36876,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29836,6 +36901,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29860,6 +36926,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29884,6 +36951,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29908,6 +36976,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29932,6 +37001,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 90",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29956,6 +37026,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -29980,6 +37051,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 91",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30004,6 +37076,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30028,6 +37101,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30052,6 +37126,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 91",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30076,6 +37151,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30100,6 +37176,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30124,6 +37201,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30148,6 +37226,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 92",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30172,6 +37251,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 92",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30196,6 +37276,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 92",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30220,6 +37301,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 92",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30244,6 +37326,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30268,6 +37351,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 92",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30292,6 +37376,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 93",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30316,6 +37401,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 93",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30340,6 +37426,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 93",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30364,6 +37451,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30388,6 +37476,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30412,6 +37501,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30436,6 +37526,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30460,6 +37551,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30484,6 +37576,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 94",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30508,6 +37601,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30532,6 +37626,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30556,6 +37651,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30580,6 +37676,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30604,6 +37701,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 93",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30628,6 +37726,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30652,6 +37751,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30676,6 +37776,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 93",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30700,6 +37801,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30724,6 +37826,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30748,6 +37851,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30772,6 +37876,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30796,6 +37901,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30820,6 +37926,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 96",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30844,6 +37951,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 89",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30868,6 +37976,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30892,6 +38001,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 84",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30916,6 +38026,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30938,6 +38049,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30962,6 +38074,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -30986,6 +38099,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "KU"
     ],
@@ -31010,6 +38124,28 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "𐙕 𐙕¹⁶³⁸ 𐝥¹⁷¹⁰ 𐙕¹⁷⁷⁵ 𐝥¹⁸³⁴ 𐝥¹⁸⁴⁶",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301"
     ],
@@ -31034,6 +38170,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31058,6 +38195,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31082,6 +38220,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31106,6 +38245,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31130,6 +38270,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31154,6 +38295,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31178,6 +38320,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 97",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31202,6 +38345,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31226,6 +38370,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31250,6 +38395,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31274,6 +38420,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31298,6 +38445,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31322,6 +38470,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31346,6 +38495,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31370,6 +38520,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31394,6 +38545,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31418,6 +38570,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31442,6 +38595,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31466,6 +38620,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31490,6 +38645,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31514,6 +38670,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31538,6 +38695,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31562,6 +38720,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31586,6 +38745,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31610,6 +38770,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31634,6 +38795,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31658,6 +38820,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31682,6 +38845,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31706,6 +38870,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31730,6 +38895,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31754,6 +38920,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 97",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31778,6 +38945,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31802,6 +38970,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31826,6 +38995,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31850,6 +39020,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31874,6 +39045,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31898,6 +39070,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31922,6 +39095,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31946,6 +39120,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31970,6 +39145,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -31994,6 +39170,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32018,6 +39195,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32042,6 +39220,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32066,6 +39245,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32090,6 +39270,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32114,6 +39295,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32138,6 +39320,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32162,6 +39345,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32186,6 +39370,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32210,6 +39395,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32234,6 +39420,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32258,6 +39445,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32282,6 +39470,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32306,6 +39495,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32330,6 +39520,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32354,6 +39545,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32378,6 +39570,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32402,6 +39595,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32426,6 +39620,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32450,6 +39645,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32474,6 +39670,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32498,6 +39695,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32522,6 +39720,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32546,6 +39745,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32570,6 +39770,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32594,6 +39795,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32618,6 +39820,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32642,6 +39845,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32666,6 +39870,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32690,6 +39895,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32714,6 +39920,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32738,6 +39945,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32762,6 +39970,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32786,6 +39995,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32810,6 +40020,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32834,6 +40045,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32858,6 +40070,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32882,6 +40095,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32906,6 +40120,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32930,6 +40145,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32954,6 +40170,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -32978,6 +40195,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33002,6 +40220,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33026,6 +40245,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33050,6 +40270,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33074,6 +40295,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 99",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33098,6 +40320,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33122,6 +40345,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33146,6 +40370,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33170,6 +40395,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33194,6 +40420,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33218,6 +40445,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33242,6 +40470,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33266,6 +40495,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33290,6 +40520,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33314,6 +40545,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33338,6 +40570,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33362,6 +40595,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33386,6 +40620,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33410,6 +40645,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33434,6 +40670,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33458,6 +40695,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33482,6 +40720,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33506,6 +40745,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33530,6 +40770,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33554,6 +40795,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33578,6 +40820,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33602,6 +40845,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33626,6 +40870,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33650,6 +40895,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33674,6 +40920,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33698,6 +40945,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33722,6 +40970,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33746,6 +40995,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33770,6 +41020,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33794,6 +41045,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33818,6 +41070,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33842,6 +41095,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33866,6 +41120,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33890,6 +41145,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33914,6 +41170,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33938,6 +41195,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33962,6 +41220,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -33986,6 +41245,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34010,6 +41270,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34034,6 +41295,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 97",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34058,6 +41320,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34082,6 +41345,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34106,6 +41370,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34130,6 +41395,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34154,6 +41420,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34178,6 +41445,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34202,6 +41470,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 98",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34226,6 +41495,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34250,6 +41520,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34274,6 +41545,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34298,6 +41570,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34322,6 +41595,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34346,6 +41620,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34370,6 +41645,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34394,6 +41670,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34418,6 +41695,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34442,6 +41720,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34466,6 +41745,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34490,6 +41770,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34514,6 +41795,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34538,6 +41820,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34562,6 +41845,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34586,6 +41870,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34610,6 +41895,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34634,6 +41920,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34658,6 +41945,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34682,6 +41970,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34706,6 +41995,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34730,6 +42020,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34754,6 +42045,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34778,6 +42070,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34802,6 +42095,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34826,6 +42120,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34850,6 +42145,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34874,6 +42170,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34898,6 +42195,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34922,6 +42220,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34946,6 +42245,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34970,6 +42270,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -34994,6 +42295,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35018,6 +42320,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35042,6 +42345,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35066,6 +42370,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35090,6 +42395,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35114,6 +42420,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35138,6 +42445,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35162,6 +42470,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35186,6 +42495,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35210,6 +42520,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35234,6 +42545,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35258,6 +42570,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35282,6 +42595,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35306,6 +42620,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35330,6 +42645,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35354,6 +42670,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35378,6 +42695,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35402,6 +42720,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35426,6 +42745,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35450,6 +42770,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35474,6 +42795,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35498,6 +42820,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35522,6 +42845,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35546,6 +42870,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35570,6 +42895,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35594,6 +42920,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35618,6 +42945,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35642,6 +42970,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35666,6 +42995,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35690,6 +43020,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35714,6 +43045,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35738,6 +43070,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35762,6 +43095,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35786,6 +43120,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 97",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35810,6 +43145,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35834,6 +43170,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35858,6 +43195,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35882,6 +43220,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35906,6 +43245,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35930,6 +43270,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35954,6 +43295,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -35978,6 +43320,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36002,6 +43345,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36026,6 +43370,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36050,6 +43395,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 99",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36074,6 +43420,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36098,6 +43445,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36122,6 +43470,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36146,6 +43495,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36170,6 +43520,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36194,6 +43545,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36218,6 +43570,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36242,6 +43595,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36266,6 +43620,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36290,6 +43645,7 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36314,6 +43670,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36338,6 +43695,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36362,6 +43720,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36386,6 +43745,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -36410,6 +43770,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐚙",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*365"
     ],
@@ -36434,6 +43798,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐚚",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*366"
     ],
@@ -36458,6 +43826,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐚛",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*367"
     ],
@@ -36482,6 +43854,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐚜",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*368"
     ],
@@ -36506,6 +43882,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐚝",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*369"
     ],
@@ -36530,6 +43910,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐚞",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*370"
     ],
@@ -36554,6 +43938,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫"
     ],
@@ -36578,6 +43966,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫"
     ],
@@ -36602,6 +43991,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫"
     ],
@@ -36626,6 +44016,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫"
     ],
@@ -36650,6 +44041,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫"
     ],
@@ -36674,6 +44066,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫"
     ],
@@ -36698,6 +44091,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫"
     ],
@@ -36718,6 +44112,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "𐙓𐜙",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*188",
         "*303+D"
@@ -36745,6 +44144,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "𐘁",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RO"
     ],
@@ -36769,6 +44172,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RO"
     ],
@@ -36793,6 +44197,13 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "roundel",
     "transcription": "𐘂𐘈𐘱𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PA-SE-JA",
         "¹⁄₂"
@@ -36820,6 +44231,12 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "roundel",
     "transcription": "𐘂𐘈𐘱",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PA-SE-JA"
     ],
@@ -36844,6 +44261,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘾𐘙𐘁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-RE-RO"
     ],
@@ -36870,6 +44293,13 @@ var inscriptions = new Map([
     "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐘳𐘝𐘾𐘈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA-NI-KA",
         "SE"
@@ -36897,6 +44327,13 @@ var inscriptions = new Map([
     "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐘳𐘝𐘾𐘈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA-NI-KA",
         "SE"
@@ -36926,6 +44363,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘮𐘵𐘻𐘴𐙦𐘴",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "WA-O-MI",
         "RA-*314-RA"
@@ -36953,6 +44399,12 @@ var inscriptions = new Map([
     "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐘮𐘆𐘝",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "WA-DI-NI"
     ],
@@ -36979,6 +44431,16 @@ var inscriptions = new Map([
     "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐘮𐘆𐘝𐘘𐘱𐘳𐘆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "WA-DI-NI",
         "RU-JA-TA-DI"
@@ -37008,6 +44470,14 @@ var inscriptions = new Map([
     "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐙹𐘆𐘲𐘾𐙓",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*333-DI-SU-KA",
         "*188"
@@ -37035,6 +44505,14 @@ var inscriptions = new Map([
     "scribe": "HT Wc Scribe 10",
     "support": "roundel",
     "transcription": "𐙹𐘆𐘅𐘲𐘾",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*333-DI-NA-SU-KA"
     ],
@@ -37059,6 +44537,12 @@ var inscriptions = new Map([
     "scribe": "HT Wc Scribe 11",
     "support": "roundel",
     "transcription": "𐙀𐘆𐘴",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*79-DI-RA"
     ],
@@ -37085,6 +44569,14 @@ var inscriptions = new Map([
     "scribe": "HT Wc Scribe 11",
     "support": "roundel",
     "transcription": "𐙀𐘆𐘴𐘙𐘁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*79-DI-RA",
         "RE-RO"
@@ -37112,6 +44604,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙓",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*188"
     ],
@@ -37138,6 +44634,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙂𐘻𐘅𐘿𐄁𐘒",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KU-MI-NA-QE",
         "𐄁",
@@ -37170,6 +44675,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘾𐙂𐘂𐙗",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-KU-PA",
         "cyperus"
@@ -37197,6 +44709,14 @@ var inscriptions = new Map([
     "scribe": "HT Wc Scribe 11",
     "support": "roundel",
     "transcription": "𐘾𐙂𐘂𐜝𐜙",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-KU-PA",
         "*304+PA-*303+D"
@@ -37224,6 +44744,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘌𐙂𐘙𐄁𐘆𐙗𐝂𐜝𐜝",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "QA-KU-RE",
         "𐄁",
@@ -37260,6 +44792,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘾𐜙",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA",
         "*303+D"
@@ -37287,6 +44824,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘮𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "cloth",
         "¹⁄₄"
@@ -37314,6 +44856,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫"
     ],
@@ -37338,6 +44884,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙇",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "VIR+[?]"
     ],
@@ -37362,6 +44912,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [],
     "transliteratedWords": [],
     "words": []
@@ -37380,6 +44931,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘇𐘴𐘹𐘋\n𐘓",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "A-RA-TU-ME",
         "\n",
@@ -37410,6 +44969,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙂",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KU"
     ],
@@ -37434,6 +44997,10 @@ var inscriptions = new Map([
     "scribe": "HT Wa Scribe 10",
     "support": "tablet",
     "transcription": "𐙕",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301"
     ],
@@ -37460,6 +45027,7 @@ var inscriptions = new Map([
     "scribe": "HT Wc Scribe 11",
     "support": "roundel",
     "transcription": "𐙓𐘬𐜝𐜙",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*188-DU",
         "*304+PA-*303+D"
@@ -37487,6 +45055,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐄁𐝫𐘹𐘈𐘲𐘸",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "TU-SE-SU-KI"
@@ -37514,6 +45092,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘲𐘸𐘭𐘃𐘚𐘱",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "from SU-KI-RI-TA"
     ],
@@ -37538,6 +45125,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇𐘅𐘯𐘤𐘱𐘈𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-NA-NU-SI-JA-SE"
     ],
@@ -37562,6 +45159,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘂𐘳𐘀𐘬𐘜𐘙𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PA-TA-DA-DU-PU2-RE"
     ],
@@ -37586,6 +45193,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘤𐘫𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-PU"
     ],
@@ -37606,6 +45220,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘆𐄉𐘠𐘬",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DI-𐄉-TI-DU"
     ],
@@ -37626,6 +45247,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘀",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA"
     ],
@@ -37650,6 +45275,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "graffito",
     "transcription": "𐘇𐘶𐄁𐘅𐙁𐙁𐘠𐘠𐙫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-JU",
         "𐄁",
@@ -37680,6 +45317,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "graffito",
     "transcription": "𐝫𐘗𐄇𐘗𐄇𐝆𐙫𐄈𐝃𐙫𐄉𐝃𐝄𐘳𐘱𐝇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "WI-JA-SU-MA-TI-TI",
         "*904",
@@ -37757,6 +45405,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘀",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA"
     ],
@@ -37777,6 +45429,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘀",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA"
     ],
@@ -37797,6 +45453,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘚",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I"
     ],
@@ -37817,6 +45477,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐙯",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*323"
     ],
@@ -37837,6 +45501,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐙜",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*308"
     ],
@@ -37857,6 +45525,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘗\n𐘀",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NE",
         "\n",
@@ -37883,6 +45557,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫"
     ],
@@ -37907,6 +45585,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐝄",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "¹⁄₈"
     ],
@@ -37929,6 +45611,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘧𐘞",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "A-JE-SA"
     ],
@@ -37953,6 +45641,60 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐄁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁",
@@ -38025,6 +45767,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐄁𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐙄𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "gives",
@@ -38058,6 +45813,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐙕𐘮𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301-WA"
     ],
@@ -38082,6 +45844,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘚𐘱𐘙𐘆𐘱𐄁𐘚𐘱𐘂𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-JA-RE-DI-JA",
         "𐄁",
@@ -38112,6 +45888,32 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘳𐘅𐘚𐙕𐘉𐘠𐘯𐄁𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁",
@@ -38151,6 +45953,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘠𐙭𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁",
@@ -38181,6 +45997,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘇𐘅𐘠𐙕𐘮𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives?"
     ],
@@ -38205,6 +46032,23 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘱𐘞𐘞𐝫𐘴𐘋\n𐄁𐘉𐘅𐘾𐝫𐘅𐘤",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "this dedication",
         "\n",
@@ -38238,6 +46082,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘇𐘞𐘞𐘴𐘋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-SA-SA-RA-ME"
     ],
@@ -38260,6 +46113,30 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NA",
         "𐄁",
@@ -38303,6 +46180,23 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐄁𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "𐄁",
@@ -38343,6 +46237,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐄁𐝫𐙁𐘚𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "MA-I"
@@ -38368,6 +46271,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘤𐝫𐘘𐘃𐄁𐘚𐘆𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "divine",
         "𐄁",
@@ -38394,6 +46308,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐝫𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "a favour",
         "𐄁",
@@ -38424,6 +46351,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "spice",
         "𐄁",
@@ -38466,6 +46413,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘹𐘯𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TU-NU",
         "𐄁"
@@ -38489,6 +46442,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘯𐘁𐄁𐝫𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "NU-RO",
         "𐄁",
@@ -38515,6 +46476,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐝫𐄁𐝫𐘚\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A",
         "𐄁",
@@ -38557,6 +46530,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘾𐘞𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-SA",
         "\n",
@@ -38593,6 +46576,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝂\n𐝁𐝁",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "¹⁄₅",
         "\n",
@@ -38623,6 +46613,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘸",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KI"
     ],
@@ -38647,6 +46641,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐄁𐘱𐘤𐘡",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "JA-SI-E"
@@ -38674,6 +46675,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐜀",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "VIN+RA"
     ],
@@ -38694,6 +46699,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘜𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PU2"
     ],
@@ -38714,6 +46725,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘢𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PI"
     ],
@@ -38738,6 +46755,25 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘧𐄁𐛵𐄖𐝫\n𐝫𐄉𐝆𐘝𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "3/4",
         "𐄁",
@@ -38792,6 +46828,29 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄑𐘹𐝫\n𐝫𐙗𐝫𐝃𐙚𐙗𐝃𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -38849,6 +46908,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘯𐄇\n—",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -38888,6 +46957,25 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "transcription": "𐘇𐘬𐘙𐝫\n𐝫𐙚𐄊𐙗𐝁𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-DU-RE",
         "\n",
@@ -38942,6 +47030,50 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "transcription": "𐘇𐘀𐘸𐘤𐘾𐄁𐘇𐘴𐘉\n𐘀𐄁𐘣𐘞𐘞𐘗𐜚𐄈𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁𐙂𐘂𐙀\n𐙗𐝫𐄉𐝫𐝀𐘝𐄈𐝆𐝁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "A-DA-KI-SI-KA",
         "𐄁",
@@ -39038,6 +47170,85 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "transcription": "𐝫𐜙𐝆𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆𐚇\n𐝫𐙗𐝫𐝆𐘭𐘳𐘧𐜙𐝫\n𐝫𐘔𐄇𐜙𐝆𐘕𐄇𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇𐜙𐝆𐘢𐘞𐝫\n𐝫𐜙𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎𐙗𐄈𐝆𐝁",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "*303+D",
         "¹⁄₂",
@@ -39214,10 +47425,86 @@ var inscriptions = new Map([
         "images/KH7a-Inscription.jpg"
     ],
     "name": "KH7a",
-    "parsedInscription": "𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊\n𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇\n𐘡𐘅𐘤𐄁𐛪𐄐\n𐜙𐝆\n𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐛪𐄊\n𐜙𐝁\n𐘈𐙙𐄁\n𐙂𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎\n𐜙𐄇𐝆𐝃𐝉𐝫\n𐝫𐝁𐝌\n𐝫",
+    "parsedInscription": "𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊\n𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇\n𐘡𐘅𐘤𐄁𐛪𐄐\n𐜙𐝆\n𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐛪𐄊\n𐜙𐝁\n𐘈𐙙𐄁\n𐙂𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎\n𐜙𐄇𐝕𐝉𐝫\n𐝫𐝁𐝌\n𐝫",
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇𐘡𐘅𐘤𐄁\n𐛪𐄐𐜙𐝆𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐙇𐄊𐜙𐝁𐘈𐙙𐄁𐙂\n𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎𐜙𐄇𐝆𐝃𐝉𐝫\n𐝫𐝁𐝌",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NE",
         "𐄁",
@@ -39263,7 +47550,7 @@ var inscriptions = new Map([
         "\n",
         "*303+D",
         "1",
-        "𐝆𐝃𐝉𐝫",
+        "𐝕𐝉𐝫",
         "\n",
         "𐝫𐝁𐝌",
         "\n",
@@ -39314,7 +47601,7 @@ var inscriptions = new Map([
         "\n",
         "*303+D",
         "1",
-        "𐝆𐝃𐝉𐝫",
+        "𐝕𐝉𐝫",
         "\n",
         "𐝫𐝁𐝌",
         "\n",
@@ -39365,7 +47652,7 @@ var inscriptions = new Map([
         "\n",
         "𐜙",
         "𐄇",
-        "𐝆𐝃𐝉𐝫",
+        "𐝕𐝉𐝫",
         "\n",
         "𐝫𐝁𐝌",
         "\n",
@@ -39386,6 +47673,37 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "transcription": "𐝫\n—\n𐘉𐘳𐘚𐘈𐜙𐝆𐝫𐝫𐘂𐘅\n𐘹𐜙𐝆𐜝𐄇𐘤𐄐𐄊𐜛𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -39467,6 +47785,48 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘙𐝫\n𐝫𐘳𐄈𐜙𐝆𐘝𐝆\n𐝫𐙉𐝆𐙘𐝃𐙗𐝃𐙇𐝫\n𐝫𐘝𐝃𐙢𐄇𐚻𐄇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "erased-legible",
+        "erased-legible",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -39584,6 +47944,58 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐘇𐘤𐘲𐘊𐘇𐄁𐛨𐝫\n𐝫𐝇𐘝𐝃𐝁𐘻𐝫\n𐝫𐘚𐘤𐄁𐜙𐝆𐝫\n𐝫𐄈𐙗𐝃𐙍𐝫\n𐝫𐙗𐝃𐝉𐝫\n𐝫𐝎𐛌𐙘𐄇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-SI-SU-PO-A",
         "𐄁",
@@ -39695,6 +48107,35 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 5",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄈\n𐝫𐝆𐙉𐄐\n𐘚𐘂𐘞𐘱𐄁𐘌𐙈𐘇𐘸𐘢\n𐘡𐘃𐙉𐄘",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -39767,6 +48208,66 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "transcription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉𐜚𐝇𐝉𐙍𐝀\n𐙚𐄊𐙗𐝁𐚈𐙗𐝇\n𐝉𐘇𐘄𐚉𐘄𐘚𐜚\n𐄉𐘝𐄇𐙍𐄉𐘇𐘳𐚊\n𐙕𐄇𐙚𐄇𐘤𐙗𐝇𐝉",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"assessment\"?",
         "𐄁",
@@ -39917,6 +48418,42 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐙗𐝫𐄈𐙜𐝆𐛚𐝆\n𐝫𐝁𐙻𐝫𐝁𐛀\n𐝫𐝇𐜫𐝂𐜩𐝍\n𐝫𐜩𐝍𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "cyperus",
         "2",
@@ -40022,6 +48559,39 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉𐙘𐝁𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -40100,6 +48670,44 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘴𐄁𐘇𐙁𐘱𐄁𐙗𐄌𐝫\n𐝫𐙗𐝃𐙼𐄈𐙗𐝇𐝫\n𐝫𐘝𐝃𐛨𐄈𐝫𐙗𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RA",
         "𐄁",
@@ -40199,6 +48807,20 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐙗𐝫𐝆𐘝𐝆\n𐝫𐘝𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "cyperus",
         "¹⁄₂",
@@ -40244,6 +48866,33 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐄑𐄈𐙗𐝇𐝉𐝫\n𐝫𐘉𐘳𐘚𐘤𐜙𐝫\n𐝫𐝆𐘳𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "22",
         "\n",
@@ -40304,6 +48953,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄊𐝆𐝁𐘝\n𐝫𐘝𐄇𐘇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -40370,6 +49039,40 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐜨\n𐝫𐄋𐘚𐙂𐘢𐝫\n𐝫𐙏𐄇𐙂𐄑𐄈𐘤𐝫\n𐝫𐚵𐙏𐄇𐚶𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -40454,6 +49157,23 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐙚𐙇𐙛𐄐𐄉𐝫\n𐝫𐄈𐜐𐝁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*306-VIR+*307",
         "13",
@@ -40496,6 +49216,32 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 3",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐘇𐘤𐘸𐘴𐄁𐜚𐝫𐝁\n𐝫𐘬𐘙𐘍𐄁𐜚𐝆𐘝𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -40568,6 +49314,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -40622,6 +49388,26 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘍𐄁𐘲𐄍𐜚𐝫\n𐝫𐘤𐄊𐙗𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "ZA",
         "𐄁",
@@ -40682,6 +49468,18 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "transcription": "𐘇𐘬𐝫\n𐝫𐙗𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"assessment\"?",
         "\n",
@@ -40718,6 +49516,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘲𐄐𐄈𐝫\n𐝫𐝈𐝉\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SU",
         "12",
@@ -40757,6 +49570,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙇𐄙𐄓𐝫\n𐝫𐙇𐄐𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "VIR+[?]",
         "140",
@@ -40799,6 +49627,25 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙇𐄕𐝫\n𐘝𐄈𐝃𐝋𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -40862,6 +49709,19 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘝𐝫\n𐝫𐛭𐄊𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -40901,6 +49761,18 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘈𐄁𐛵𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -40943,6 +49815,32 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘴𐄁𐘷𐝫\n𐝫𐄇𐙂𐘂𐝫\n𐝫𐄈𐙗𐝆𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RA",
         "𐄁",
@@ -41012,6 +49910,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐝉𐝫\n𐝫𐘝𐄏",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41051,6 +49961,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐜨\n—\n𐝫𐝆𐜪𐝫\n𐝫𐄇\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41111,6 +50041,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘚𐙷𐝫\n𐝫𐄋𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-*331",
         "\n",
@@ -41147,6 +50089,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐜙𐝫\n𐝫𐄇𐘇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41195,6 +50153,19 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐜚𐄈𐘝𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*303+E",
         "2",
@@ -41202,7 +50173,8 @@ var inscriptions = new Map([
         "figs",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "*303+E",
@@ -41211,7 +50183,8 @@ var inscriptions = new Map([
         "NI",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫𐜚",
@@ -41220,7 +50193,8 @@ var inscriptions = new Map([
         "𐘝𐝫",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["KH35",{
@@ -41237,9 +50211,24 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄇𐙗𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "1",
         "\n",
@@ -41250,6 +50239,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "1",
         "\n",
@@ -41260,6 +50250,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐄇",
         "\n",
@@ -41282,6 +50273,21 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘾𐄁𐛚𐄊𐝫\n𐝫𐘅𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA",
         "𐄁",
@@ -41327,6 +50333,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐜜𐄈𐘣𐝫\n𐜜\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*304+[ ]",
         "2",
@@ -41372,35 +50390,55 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐜙𐝆𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "*303+D",
         "¹⁄₂",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "*303+D",
         "¹⁄₂",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ],
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐜙",
         "𐝆𐝫",
         "\n",
         "𐝫",
-        "\n"
+        "\n",
+        "𐝫"
     ]
 }],
 ["KH39",{
@@ -41417,6 +50455,18 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 3",
     "support": "tablet",
     "transcription": "𐘇𐘳𐝫\n𐝫𐜐𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-TA",
         "\n",
@@ -41453,6 +50503,17 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘤𐘅𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41489,6 +50550,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄉\n𐝫𐘾𐘳𐘙𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "3",
         "\n",
@@ -41525,6 +50599,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐜟𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41561,6 +50645,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙁𐘘𐘙𐄈𐛇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*560-RE",
         "2",
@@ -41600,6 +50698,18 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐙻𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41642,6 +50752,15 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐘇𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A",
         "\n",
@@ -41678,6 +50797,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐝋𐙍𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41726,6 +50859,25 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘌𐘗𐝫\n𐝫𐄌𐘤𐝫\n𐘴𐄁𐙚𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41780,6 +50932,20 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘘𐝫\n𐝫𐙂𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41822,6 +50988,28 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈𐘿𐝫𐄁𐝫𐄇\n—\n—",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41888,6 +51076,22 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 4",
     "support": "tablet",
     "transcription": "𐝫𐘤𐘚𐘤𐄉\n𐝫𐄊𐘹𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-I-SI",
         "3",
@@ -41933,6 +51137,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘳𐘉𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -41975,6 +51192,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘇𐘋𐙌𐄁𐘗𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-ME-AROM",
         "𐄁",
@@ -42014,6 +51244,21 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐜚𐄇𐙉𐝫𐄇𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*303+E",
         "1",
@@ -42062,6 +51307,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐜐𐝁𐝫\n𐝫𐄉𐘝𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42119,6 +51382,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐝕𐝉𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫𐝕𐝉𐝫",
         "\n",
@@ -42155,6 +51429,27 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 4",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘹𐝫\n𐝫𐘎𐄇𐝫\n𐝫𐙗𐝫𐝃𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42209,6 +51504,42 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐙗𐝫𐄊𐘝𐝫\n𐝫𐜚𐄇𐝃𐘇𐝫\n𐝫𐜚𐄊𐝫\n𐝫𐙗𐝫𐝆𐘇𐙕𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42296,6 +51627,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄇\n𐝫𐘚𐄋\n𐝫𐘆𐘅𐄋\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42350,6 +51699,35 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘴𐘸𐘳𐘅𐘤𐝫\n𐝫𐙏𐝍𐘷𐙗𐝫\n𐝫𐝂𐛚𐝂𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RA-KI-TA-NA-SI",
         "\n",
@@ -42416,23 +51794,53 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄑𐝫\n𐝫𐄇𐙁𐝫\n𐝫𐝁𐜐𐝉𐝫\n𐝫𐙗𐝫𐄈𐙉𐄇𐝍",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
         "20",
+        "\n",
         "1",
+        "\n",
         "MA",
+        "\n",
         "¹⁄₃",
+        "\n",
         "OLE+TA",
         "𐝉𐝫",
+        "\n",
         "cyperus",
         "2",
+        "\n",
         "wheat",
         "1",
         "𐝍"
@@ -42440,20 +51848,20 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
         "20",
+        "\n",
         "1",
+        "\n",
         "MA",
+        "\n",
         "¹⁄₃",
+        "\n",
         "OLE+TA",
         "𐝉𐝫",
+        "\n",
         "CYP",
         "2",
+        "\n",
         "GRA",
         "1",
         "𐝍"
@@ -42461,20 +51869,20 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫𐄑𐝫",
         "\n",
+        "𐝫𐄇",
         "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "𐄑𐝫",
-        "𐄇",
         "𐙁𐝫",
+        "\n",
         "𐝫𐝁",
+        "\n",
         "𐜐",
         "𐝉𐝫",
+        "\n",
         "𐝫𐙗𐝫",
         "𐄈",
+        "\n",
         "𐙉",
         "𐄇",
         "𐝍"
@@ -42494,6 +51902,14 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42524,6 +51940,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘲𐄐𐝫\n𐝫𐜩𐝉𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42572,6 +52004,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘳𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42614,6 +52058,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘝𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42650,6 +52104,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄒𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "30",
         "\n",
@@ -42680,6 +52142,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42722,6 +52196,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐜨𐝉𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42767,6 +52254,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42803,6 +52298,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42839,6 +52342,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42875,6 +52386,34 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐝉𐘇𐝫\n𐝫𐄇𐘝𐄇𐜝𐄇𐝫\n𐝫𐝇𐘇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -42953,6 +52492,23 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘤𐄁𐘱𐘀𐘲𐝫\n𐝫𐘤𐝥𐘻\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI",
         "𐄁",
@@ -42995,6 +52551,25 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐝆𐝫\n𐝫𐙗𐝫𐝇𐝉𐘝𐝁\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -43049,6 +52624,23 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘤𐄊𐝫\n𐝫𐙗𐝫𐝃𐝌\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -43097,6 +52689,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙗𐝫𐝍\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "cyperus",
         "𐝍",
@@ -43130,6 +52731,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄒𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -43166,6 +52777,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘂𐘀𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -43202,6 +52824,28 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘻𐘅𐝫\n𐝫𐘂𐘳𐄁𐘇𐘴𐝫\n𐝫𐘂𐘀𐘝\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MI-NA",
         "\n",
@@ -43250,6 +52894,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐝂𐙖𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "¹⁄₅",
         "\n",
@@ -43286,6 +52940,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐄋𐝫𐛛𐄢𐝫\n𐝫𐄉\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -43343,6 +53015,28 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐜏𐝉𐝫\n𐝫𐙧𐄇𐝫\n𐝫𐙼𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -43403,7 +53097,29 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄁𐘇𐘆𐘗𐝫\n𐝫𐄐𐄋𐚡𐘇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
+        "𐝫",
         "𐄁",
         "\n",
         "A-DI-NE",
@@ -43415,6 +53131,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
+        "𐝫",
         "𐄁",
         "\n",
         "A-DI-NE",
@@ -43426,6 +53143,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "words": [
+        "𐝫",
         "𐄁",
         "\n",
         "𐘇𐘆𐘗𐝫",
@@ -43451,6 +53169,27 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙗𐝆𐝫\n𐝫𐙕𐄇𐙚𐝫\n𐜩𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -43511,6 +53250,30 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐜐𐝆𐙜𐝫\n𐝫𐜩𐝇𐙏𐝫\n𐝫𐙘𐝂𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -43586,6 +53349,31 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 2",
     "support": "tablet",
     "transcription": "𐝫𐘙𐘍𐙗𐝫\n𐝫𐙗𐝑𐘢𐘯𐝫\n𐝫𐄉𐝫𐙗𐝫𐝕𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "RE-ZA",
         "cyperus",
@@ -43649,6 +53437,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐝉𐙚𐝫\n𐝫𐝆𐘖𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -43706,6 +53512,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘌𐘯𐙁𐄁𐘐𐙈𐄁\n𐘝𐄐𐘫𐘦𐄁\n𐄎\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "QA-NU-MA",
         "𐄁",
@@ -43760,6 +53586,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄁𐝫𐘱𐝫\n𐝫𐙁𐘳𐘭𐘳𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -43811,10 +53658,53 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 6",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄁𐝫𐙉𐄇𐙍𐝫\n𐝫𐙨𐄇𐝆𐝉𐙀𐝫\n𐝫𐝀𐘹𐝇𐘝𐝫\n𐝫𐜩𐝇𐜪𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "𐄁",
+        "𐝫",
         "\n",
         "wheat",
         "1",
@@ -43844,7 +53734,9 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
+        "𐝫",
         "𐄁",
+        "𐝫",
         "\n",
         "GRA",
         "1",
@@ -43874,7 +53766,9 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
+        "𐝫",
         "𐄁",
+        "𐝫",
         "\n",
         "𐙉",
         "𐄇",
@@ -43916,6 +53810,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘇𐘀𐘐𐘭𐙂𐘝𐘃𐄐𐝫\n𐝫𐘅𐘸𐄇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-DA-*21F-RI",
         "\n",
@@ -43971,6 +53886,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫"
     ],
@@ -43995,6 +53914,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐚻𐝫\n𐝫𐄐𐄍𐘚𐝫\n𐝫𐘍𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -44043,6 +53982,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐘈𐄍𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -44076,6 +54023,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐝈𐝀𐝀",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -44112,6 +54070,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘙𐘇𐘱𐝫\n𐝫𐘅𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RE-A-JA",
         "\n",
@@ -44148,6 +54120,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘈𐘚𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SE-I",
         "\n",
@@ -44184,6 +54167,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PA-RI-DE",
         "\n",
@@ -44220,6 +54223,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐚌𐙚𐝫\n𐘁𐙍𐝫\n𐘥𐝃𐝫\n𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "*352-*306",
         "\n",
@@ -44264,6 +54281,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [],
     "transliteratedWords": [],
     "words": []
@@ -44282,6 +54300,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐜡𐚳 𐜡𐚳¹⁰⁰²",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*316+KI",
         "DA+RO"
@@ -44309,6 +54337,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*316+KI",
         "DA+RO"
@@ -44336,6 +54365,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐙃",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*82"
     ],
@@ -44360,6 +54393,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐙃",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*82"
     ],
@@ -44384,6 +54421,7 @@ var inscriptions = new Map([
     "scribe": "KH Wa Scribe 50",
     "support": "nodule",
     "transcription": "𐘼",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -44408,6 +54446,7 @@ var inscriptions = new Map([
     "scribe": "KH Wa Scribe 50",
     "support": "nodule",
     "transcription": "𐘼",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -44432,6 +54471,7 @@ var inscriptions = new Map([
     "scribe": "KH Wa Scribe 50",
     "support": "nodule",
     "transcription": "𐘼",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -44456,6 +54496,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘼",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -44480,6 +54521,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -44504,6 +54546,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "ZE"
     ],
@@ -44528,6 +54571,10 @@ var inscriptions = new Map([
     "scribe": "KH Wa Scribe 51",
     "support": "nodule",
     "transcription": "𐙕",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301"
     ],
@@ -44552,6 +54599,7 @@ var inscriptions = new Map([
     "scribe": "KH Wa Scribe 51",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301"
     ],
@@ -44578,6 +54626,11 @@ var inscriptions = new Map([
     "scribe": "KH Wa Scribe 52",
     "support": "nodule",
     "transcription": "𐙅𐘁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*86-RO"
     ],
@@ -44602,6 +54655,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*86-RO"
     ],
@@ -44626,6 +54680,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*86-RO"
     ],
@@ -44652,6 +54707,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*86-RO"
     ],
@@ -44676,6 +54732,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐙕",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301"
     ],
@@ -44700,6 +54760,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐚟",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*371"
     ],
@@ -44724,6 +54788,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐝃",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "¹⁄₄"
     ],
@@ -44748,17 +54816,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐝫𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
-        "𐄁",
-        "𐝫𐄁"
+        "𐝫",
+        "𐄁"
     ],
     "transliteratedWords": [
-        "𐄁",
-        "𐝫𐄁"
+        "𐝫",
+        "𐄁"
     ],
     "words": [
-        "𐄁",
-        "𐝫𐄁"
+        "𐝫",
+        "𐄁"
     ]
 }],
 ["KHWc2001",{
@@ -44775,6 +54848,14 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 59",
     "support": "roundel",
     "transcription": "𐘵 𐘵²⁰⁰¹",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "O"
     ],
@@ -44799,6 +54880,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 60",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "O"
     ],
@@ -44823,6 +54905,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫"
     ],
@@ -44847,6 +54933,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "VIR+[?]"
     ],
@@ -44871,6 +54962,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘾𐘅𐘝𐘠",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-NA-NI-TI"
     ],
@@ -44895,6 +54993,10 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 53",
     "support": "roundel",
     "transcription": "𐚱",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*417-VS"
     ],
@@ -44919,6 +55021,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 53",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*417-VS"
     ],
@@ -44943,6 +55046,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐚫 𐚩²⁰¹⁰ 𐚩²⁰²⁰",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*411-VS"
     ],
@@ -44967,6 +55081,7 @@ var inscriptions = new Map([
     "scribe": "H Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -44991,6 +55106,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*409-VS"
     ],
@@ -45015,6 +55131,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45039,6 +55156,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45063,6 +55181,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45087,6 +55206,7 @@ var inscriptions = new Map([
     "scribe": "H Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45111,6 +55231,7 @@ var inscriptions = new Map([
     "scribe": "H Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45135,6 +55256,7 @@ var inscriptions = new Map([
     "scribe": "H Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45159,6 +55281,7 @@ var inscriptions = new Map([
     "scribe": "H Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45183,6 +55306,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45207,6 +55331,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45231,6 +55356,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*409-VS"
     ],
@@ -45255,6 +55381,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*409-VS"
     ],
@@ -45279,6 +55406,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45303,6 +55431,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45327,6 +55456,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 54",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*411-VS"
     ],
@@ -45351,6 +55481,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*409-VS"
     ],
@@ -45375,6 +55506,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙮",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*322"
     ],
@@ -45399,6 +55534,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*322"
     ],
@@ -45423,6 +55559,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙔",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "helmet"
     ],
@@ -45447,6 +55587,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐛧 𐛧²⁰²⁹",
+    "transcriptionReadings": [],
     "translatedWords": [
         "VIR+KA"
     ],
@@ -45471,6 +55612,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐛧 𐛧²⁰²⁹",
+    "transcriptionReadings": [],
     "translatedWords": [
         "VIR+KA"
     ],
@@ -45495,6 +55637,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "VIR+KA"
     ],
@@ -45519,6 +55662,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "VIR+KA"
     ],
@@ -45543,6 +55687,24 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 59",
     "support": "roundel",
     "transcription": "𐙐 𐘵²⁰³³ 𐙐²⁰³⁹ 𐙐²⁰⁴⁰ 𐙐²⁰⁴¹",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "O"
     ],
@@ -45567,6 +55729,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 59",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "O"
     ],
@@ -45591,6 +55754,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "O"
     ],
@@ -45615,6 +55779,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 55",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "textile?"
     ],
@@ -45639,6 +55804,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 55",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "textile?"
     ],
@@ -45663,6 +55829,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 55",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "textile?"
     ],
@@ -45687,6 +55854,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 55",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "textile?"
     ],
@@ -45711,6 +55879,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙐",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "textile?"
     ],
@@ -45735,6 +55907,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙐",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "textile?"
     ],
@@ -45759,6 +55935,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙐",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "textile?"
     ],
@@ -45783,6 +55963,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "textile?"
     ],
@@ -45807,6 +55988,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "textile?"
     ],
@@ -45831,6 +56013,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "textile?"
     ],
@@ -45855,6 +56038,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐜈 𐜈²⁰⁴⁷",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301+*311"
     ],
@@ -45879,6 +56070,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301+*311"
     ],
@@ -45903,6 +56095,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301+*311"
     ],
@@ -45927,6 +56120,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301+*311"
     ],
@@ -45951,6 +56145,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301+*311"
     ],
@@ -45975,6 +56170,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301+*311"
     ],
@@ -45999,6 +56195,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301+*311"
     ],
@@ -46023,6 +56220,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*301+*311"
     ],
@@ -46047,6 +56245,20 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 56",
     "support": "roundel",
     "transcription": "𐝥𐘻 𐝥𐘻²⁰⁵⁴ 𐝥𐘻²⁰⁵⁵",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*805-MI"
     ],
@@ -46071,6 +56283,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 56",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*805-MI"
     ],
@@ -46095,6 +56308,10 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 57",
     "support": "roundel",
     "transcription": "𐜥",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*337+*188"
     ],
@@ -46119,6 +56336,17 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 57",
     "support": "roundel",
     "transcription": "𐛦 𐛦²⁰⁵⁹ 𐛦²⁰⁶²",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*337+*188"
     ],
@@ -46143,6 +56371,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*86+*188"
     ],
@@ -46167,6 +56396,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*86+*188"
     ],
@@ -46191,6 +56421,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*86+*188"
     ],
@@ -46215,6 +56446,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*86+*188"
     ],
@@ -46239,6 +56471,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*86+*188"
     ],
@@ -46263,6 +56496,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*86+*188"
     ],
@@ -46287,6 +56521,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "*86+*188"
     ],
@@ -46311,6 +56546,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘒",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "goat"
     ],
@@ -46335,6 +56574,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐛝",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MI+*301"
     ],
@@ -46359,6 +56602,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝥𐚋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*805-*351"
     ],
@@ -46383,6 +56631,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐛀",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*516"
     ],
@@ -46407,6 +56659,14 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 58",
     "support": "roundel",
     "transcription": "𐙾 𐙾²⁰⁶⁷",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "boots?"
     ],
@@ -46431,6 +56691,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 58",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "boots?"
     ],
@@ -46455,6 +56716,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘖",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "bull"
     ],
@@ -46481,6 +56746,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐛀",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*516"
     ],
@@ -46501,6 +56770,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫"
     ],
@@ -46521,6 +56794,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐚫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*411-VS"
     ],
@@ -46545,6 +56822,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐚨",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*408-VS"
     ],
@@ -46565,6 +56846,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫"
     ],
@@ -46585,6 +56867,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫"
     ],
@@ -46605,6 +56888,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙐",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "textile?"
     ],
@@ -46629,6 +56916,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐛥",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*86+'*188'"
     ],
@@ -46653,6 +56944,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "textile?"
     ],
@@ -46677,6 +56969,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙮",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*322"
     ],
@@ -46701,6 +56997,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐛝",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MI+*301"
     ],
@@ -46725,6 +57025,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙇𐚌𐘱",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "VIR+[?]-*352-JA"
     ],
@@ -46749,6 +57055,10 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 60",
     "support": "roundel",
     "transcription": "𐘵",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "O"
     ],
@@ -46773,6 +57083,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘏",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "sheep"
     ],
@@ -46797,6 +57111,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐚨",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*408-VS"
     ],
@@ -46821,6 +57139,10 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 60",
     "support": "roundel",
     "transcription": "𐘵",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "O"
     ],
@@ -46845,6 +57167,7 @@ var inscriptions = new Map([
     "scribe": "KH Wc Scribe 60",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "O"
     ],
@@ -46869,6 +57192,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐛧",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "VIR+KA"
     ],
@@ -46893,6 +57220,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐛦",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*86+*188"
     ],
@@ -46917,6 +57248,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘵",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "O"
     ],
@@ -46941,6 +57276,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙐",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "textile?"
     ],
@@ -46965,6 +57304,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐜈",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301+*311"
     ],
@@ -46989,6 +57332,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐚨𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*408-VS"
     ],
@@ -47013,6 +57361,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘵",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "O"
     ],
@@ -47039,6 +57391,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙇𐝫\n𐛦",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "VIR+[?]",
         "\n",
@@ -47069,6 +57428,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘵",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "O"
     ],
@@ -47089,6 +57452,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫"
     ],
@@ -47113,6 +57480,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐚨",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*408-VS"
     ],
@@ -47137,6 +57508,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝭𐘢𐘾",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*810-PI-KA"
     ],
@@ -47157,6 +57534,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘮",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "cloth"
     ],
@@ -47181,6 +57562,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘝",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "figs"
     ],
@@ -47205,6 +57590,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘱𐙂𐘠\n𐘡𐄚𐄓",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-KU-TI",
         "E",
@@ -47235,6 +57629,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘱𐘬𐘴𐘠\n𐘡𐄙\n𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-DU-RA-TI",
         "E",
@@ -47265,6 +57669,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘘𐘅𐄈\n𐙈𐄉𐘚𐙕𐄋\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RU-NA",
         "2",
@@ -47316,6 +57736,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐘲𐘶𐘳𐝫𐄑𐝫\n𐝫𐘾𐘧𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "SU-JU-TA",
         "20",
@@ -47349,6 +57783,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐘊𐘆𐘰𐄙𐄐",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "PO-DI-PA3",
         "110"
@@ -47376,6 +57819,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐙁𐘲𐘻𐄁𐝫𐄁𐝫𐘅𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MA-SU-MI",
         "𐄁",
@@ -47418,6 +57876,30 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘓𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -47481,6 +57963,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘃𐝊𐝫\n𐝫𐄉𐛓𐝊\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -47541,6 +58041,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘇𐘂𐝫\n𐘇𐘾𐘳𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -47583,6 +58099,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘞𐘫𐄁𐘂\n𐝫𐘱𐘲\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -47633,6 +58170,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘫𐘴𐝫\n𐝫𐙏𐝇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -47674,6 +58227,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐝫𐄁𐝈𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "fraction"
@@ -47701,6 +58261,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐙕",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301"
     ],
@@ -47727,6 +58291,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "𐘌𐘸𐝫\n𐘯𐘈𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "QA-KI",
         "\n",
@@ -47755,6 +58329,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "𐙕",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301"
     ],
@@ -47775,16 +58353,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
-        "𐄁",
         "𐄁"
     ],
     "transliteratedWords": [
-        "𐄁",
         "𐄁"
     ],
     "words": [
-        "𐄁",
         "𐄁"
     ]
 }],
@@ -47802,6 +58381,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫𐘾𐘚𐘾𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-I-KA"
     ],
@@ -47824,6 +58411,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘽",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RA2"
     ],
@@ -47850,6 +58441,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘘𐘱𐘝𐘢",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RU-JA",
         "NI-PI"
@@ -47877,6 +58475,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘑",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "ram"
     ],
@@ -47901,6 +58503,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫𐘱𐘴",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-RA"
     ],
@@ -47923,6 +58531,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫𐘅𐘵",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NA",
         "O"
@@ -47948,6 +58562,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫𐄁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "𐄁"
@@ -47973,6 +58592,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝫𐘃𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TE"
     ],
@@ -47997,6 +58622,35 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA-NU-MU-TI",
         "𐄁",
@@ -48051,6 +58705,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘱𐘿𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-QE",
         "𐄁"
@@ -48078,6 +58739,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "JA",
@@ -48126,6 +58805,23 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KE-JU-MI",
         "𐄁",
@@ -48165,6 +58861,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘶𐄁𐘱𐘤𐄁𐘤𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "flour",
         "𐄁",
@@ -48201,6 +58908,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇𐘹𐘭𐘤𐘠𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "(KN Zb 5), \"from\" TU-RI-SA",
         "𐄁"
@@ -48228,6 +58944,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘅𐘇𐘰",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NA-A-PA3"
     ],
@@ -48252,6 +58975,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘆𐘅𐘉𐄁𐙍𐄐𐄍",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "DI-NA-U",
         "𐄁",
@@ -48285,6 +59018,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐛻",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "VIN+TE"
     ],
@@ -48309,6 +59046,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫𐙖𐄙𐘝𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "JA-DI-WI",
         "olive oil",
@@ -48346,6 +59097,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐙍",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "wine"
     ],
@@ -48368,6 +59123,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐙍",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "wine"
     ],
@@ -48390,6 +59149,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐙍",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "wine"
     ],
@@ -48412,6 +59175,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘝",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "figs"
     ],
@@ -48436,6 +59203,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇𐘂𐘸\n𐘉𐘅𐘇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-PA-KI",
         "\n",
@@ -48462,6 +59239,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐙀𐘭𐘝𐙁",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*79-RI-NI-MA"
     ],
@@ -48482,6 +59266,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘫𐘴𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PU-RA"
     ],
@@ -48502,6 +59293,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘁𐛧",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "RO-VIR+KA"
     ],
@@ -48526,6 +59322,37 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "inked inscription",
     "transcription": "𐘟𐘠𐘭\n𐘇𐘆𐘀𐘸𐘠𐘂𐙂𐄁𐘝𐘱𐘯𐄁\n𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*34-TI-RI-A-DI-DA-KI-TI-PA-KU",
         "𐄁",
@@ -48573,6 +59400,36 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "inked inscription",
     "transcription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫𐄁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-KA-NU-ZA-TI",
         "𐄁",
@@ -48623,6 +59480,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "graffito",
     "transcription": "𐝫𐘫𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PU"
     ],
@@ -48647,6 +59510,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "architecture",
     "transcription": "𐘇𐘢",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-PI"
     ],
@@ -48671,6 +59539,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "architecture",
     "transcription": "𐘚𐝫𐘮𐘱",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-WA-JA"
     ],
@@ -48693,6 +59568,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "architecture",
     "transcription": "𐘾𐘤𐘇𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-SI-A-TE"
     ],
@@ -48715,6 +59597,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "architecture",
     "transcription": "𐘥𐘤𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KE-SI-TE"
     ],
@@ -48739,6 +59627,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "architecture",
     "transcription": "𐘵𐘀𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "O-DA"
     ],
@@ -48763,6 +59657,28 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘇𐘙𐘗𐘤𐘆𐙕𐘢𐘥𐘂𐘱𐘳𐘭𐘈𐘃𐘭𐘕𐘇𐘱𐙂",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "A-RE-NE-SI-DI-*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU"
     ],
@@ -48787,6 +59703,61 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐝫𐘤𐝫𐘤𐘍𐘗𐙠𐄁𐘀𐘬𐘻𐘗𐄁𐘌𐘻𐘨𐘅𐘴𐄁𐘇𐘮𐘢𐄁𐘃𐘲𐘦𐘈𐘥𐘚𐄁𐘇𐘀𐘴𐄁𐘠𐘆𐘃𐘌𐘠𐄁𐘳𐘞𐘍𐄁𐘳𐘃𐘚𐘥𐘍𐘙𐄁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-SI-ZA-NE-*310",
         "𐄁",
@@ -48862,6 +59833,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐛈",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*528"
     ],
@@ -48884,6 +59859,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐘱𐘞𐘱",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-SA-JA"
     ],
@@ -48908,6 +59889,44 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱\n𐘹𐘘𐘞𐄁𐘬𐙦𐘙𐄁𐘚𐘀\n𐘇𐄁𐘉𐘅𐘾𐘅𐘤𐄁𐘚\n𐘢𐘅𐙁𐄁𐘤𐘘𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "\n",
@@ -48974,6 +59993,25 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘇𐘴𐘺𐙂𐘌𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍",
+    "transcriptionReadings": [
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-RA-KO-KU-*79-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA"
     ],
@@ -48998,6 +60036,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘀𐙁𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA-MA-TE"
     ],
@@ -49022,6 +60066,9 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐛴",
+    "transcriptionReadings": [
+        "certain"
+    ],
     "translatedWords": [
         "*581"
     ],
@@ -49046,6 +60093,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘱𐘠𐘹𐙂",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-TI-TU-KU"
     ],
@@ -49070,6 +60124,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "3-sided bar",
     "transcription": "𐄂𐘚𐘬𐘣𐄁𐘨𐄁𐘿𐘦𐘻𐘯𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*903-I-DU-WI",
         "*47",
@@ -49106,6 +60176,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "3-sided bar",
     "transcription": "𐘇𐙁𐄁𐘨𐄁𐘿𐘦𐘻𐘯",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-MA",
         "𐄁",
@@ -49142,6 +60225,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘠",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TI"
     ],
@@ -49166,6 +60253,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "3-sided bar",
     "transcription": "𐝫𐘬𐘴𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DU-RA",
         "5"
@@ -49193,6 +60287,25 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "3-sided bar",
     "transcription": "𐝫𐘙𐘠𐄊𐝫\n𐝫𐘠𐄇𐘱𐙂𐄈𐘠𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RE-TI",
         "4",
@@ -49244,6 +60357,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "3-sided bar",
     "transcription": "𐝫𐘉𐘅𐘅𐄉\n𐝫𐘱𐙁𐘉𐘠𐄌",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "U-NA-NA",
         "3",
@@ -49280,6 +60408,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘳𐜅𐄐𐄋𐜆𐄙𐄑𐜄𐄔𐄉𐜃𐄒",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA-HIDE+B",
         "15",
@@ -49334,6 +60480,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉𐄙𐄕",
+    "transcriptionReadings": [
+        "erased-legible",
+        "certain",
+        "certain",
+        "erased-legible",
+        "erased-legible",
+        "erased-legible",
+        "erased-legible",
+        "erased-legible",
+        "eol",
+        "erased-legible",
+        "erased-legible",
+        "eol"
+    ],
     "translatedWords": [
         "A-JA",
         "hide?",
@@ -49370,6 +60530,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙒𐝫𐄡𐄓𐄇𐜅𐄒𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "hide?",
         "941",
@@ -49406,6 +60579,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙒𐄞𐄑𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "hide?",
         "620"
@@ -49433,6 +60614,25 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐜅𐄊𐝫𐙒𐄗𐄍𐝫\n𐝫𐙒𐝫𐄚𐄒𐄉𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "HIDE+B",
         "4",
@@ -49478,6 +60678,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙒𐄚𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "hide?",
         "200"
@@ -49505,6 +60712,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄣",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "2000"
     ],
@@ -49529,6 +60741,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "4-sided bar",
     "transcription": "𐝫𐘘𐄁𐜲𐄈𐜰𐄊𐜱𐄊𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RU",
         "𐄁",
@@ -49580,6 +60807,31 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "4-sided bar",
     "transcription": "𐝫𐘬𐘢𐘃𐘮𐄁𐜭𐄇𐜰𐄉𐝫\n𐝫𐄊𐜬𐄈𐛄𐄈𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DU-PI-TE-WA",
         "𐄁",
@@ -49646,6 +60898,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "4-sided bar",
     "transcription": "𐝫𐜰𐄈𐜱𐄉𐚤𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*412+E",
         "2",
@@ -49688,6 +60952,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "4-sided bar",
     "transcription": "𐝫𐜴𐜳𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*414+F",
         "\n",
@@ -49718,6 +60990,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘇𐘞𐘀𐘾\n𐛴𐄊",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-SA-DA-KA",
         "\n",
@@ -49751,6 +61033,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙒",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "hide?"
     ],
@@ -49771,6 +61057,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐚥𐝇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*405-VS-*906"
     ],
@@ -49795,6 +61086,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘱𐘞𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-SA"
     ],
@@ -49819,6 +61116,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "architecture",
     "transcription": "𐘿𐘤𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "QE-SI-TE"
     ],
@@ -49839,6 +61142,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘾",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA"
     ],
@@ -49863,6 +61170,32 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘫𐝫\n—\n𐝫𐘬𐘾𐝫\n𐝫𐄁𐝫𐜪𐝫\n—\n𐝫𐘾𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PU",
         "\n",
@@ -49926,6 +61259,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘸𐘘",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KI-RU"
     ],
@@ -49946,6 +61284,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [],
     "transliteratedWords": [],
     "words": []
@@ -49964,6 +61303,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘰𐘤𐘨",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PA3-SI-*47"
     ],
@@ -49984,6 +61330,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [],
     "transliteratedWords": [],
     "words": []
@@ -49998,6 +61345,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [],
     "transliteratedWords": [],
     "words": []
@@ -50017,6 +61365,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐙹𐘞𐘕",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*333-SA-MU"
     ],
@@ -50037,6 +61391,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘲",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SU"
     ],
@@ -50057,6 +61415,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐛉",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI+SE"
     ],
@@ -50079,6 +61441,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐁁",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐁁"
     ],
@@ -50099,6 +61465,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐘲",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SU"
     ],
@@ -50119,6 +61489,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘚𐘀𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "Mt Ida"
     ],
@@ -50143,6 +61520,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘇𐙂𐘶𐘂𐙈\n𐄒𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-KU-JU-PA-*118",
         "35"
@@ -50170,6 +61557,38 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘉𐘾𐘙𐘇𐘈𐘤\n𐘅𐙂𐘂𐘭𐙇𐄔𐝫\n𐛭𐄑𐄌𐘡𐘾𐝫\n𐙇𐄖𐄈𐛭𐄒\n𐄌",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "U-KA-RE-A-SE-SI-NA",
         "\n",
@@ -50236,6 +61655,47 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐄉𐝁𐘘𐘢𐝫𐙙𐘻𐄇𐝄\n𐘇𐙱𐘍𐝃𐘇𐘭𐘂𐝃𐘌𐘌𐘀\n𐝆𐘄𐘋𐝁𐘄𐘪𐘙𐄇\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -50328,6 +61788,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙉𐘠𐘡𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "GRA-TI-E",
         "1"
@@ -50355,6 +61822,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙖𐙛𐄇𐝆",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "OLE-*307",
         "1",
@@ -50381,6 +61855,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘇𐘯𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-NU"
     ],
@@ -50405,6 +61886,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇𐘾𐘴𐘸𐘳𐘅𐘤𐘱𐘈𐙇𐘍",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-KA-RA-KI-TA-NA-SI-JA-SE-VIR+[?]-ZA"
     ],
@@ -50427,6 +61922,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘇\n𐘱𐘮𐘢𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A",
         "\n",
@@ -50456,6 +61961,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A"
     ],
@@ -50480,6 +61989,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "inked inscription",
     "transcription": "𐝫𐘇𐘱𐝫 ≈ 𐝫𐘱𐘤𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain"
+    ],
     "translatedWords": [
         "A-JA",
         "≈",
@@ -50510,6 +62031,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐙖𐙛𐄇𐝆",
+    "transcriptionReadings": [
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "olive oil",
         "*307",
@@ -50539,6 +62067,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-NA",
         "𐄁",
@@ -50583,6 +62129,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [],
     "transliteratedWords": [],
     "words": []
@@ -50601,6 +62148,31 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘆𐘴𐘆𐘅𐙨𐝫𐄁𐝫𐝉\n𐝫𐘱𐄁𐙨𐄇𐙗𐝅\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DI-RA-DI-NA",
         "*316",
@@ -50664,6 +62236,23 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄁𐝫𐘅𐄇𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "NA",
@@ -50712,6 +62301,33 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘇𐘈𐘹𐘐𐄇\n𐘴𐘵𐘆𐘸𐄕\n𐘢𐘘𐘡𐘶𐄕\n𐘈𐘞𐘰𐄕\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-SE-TU-*21F",
         "1",
@@ -50768,10 +62384,40 @@ var inscriptions = new Map([
         "images/PH3a-Inscription.jpg"
     ],
     "name": "PH3a",
-    "parsedInscription": "𐝫𐛠𐄇\n𐘳𐝫\n𐝫𐛡𐄇\n𐛣𐝓\n𐝫𐛢𐝓\n𐘂𐘴𐝓\n𐝫𐘂𐝫\n𐝫𐄇\n𐝫",
+    "parsedInscription": "𐝫𐛠𐄇\n𐘳\n𐝫𐛡𐄇\n𐛣𐝓\n𐝫𐛢𐝓\n𐘂𐘴𐝓\n𐝫𐘂𐝫\n𐝫𐄇\n𐝫",
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐛠𐄇𐘳\n𐝫𐛡𐄇𐛣𐝓\n𐝫𐛢𐝓𐘂𐘴𐝓\n𐝫𐘂𐝫𐄇\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*556",
         "1",
@@ -50824,7 +62470,7 @@ var inscriptions = new Map([
         "𐝫𐛠",
         "𐄇",
         "\n",
-        "𐘳𐝫",
+        "𐘳",
         "\n",
         "𐝫𐛡",
         "𐄇",
@@ -50859,6 +62505,28 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐛘𐝕𐝫\n𐝫𐘤𐝃𐝫\n𐝫\n𐝫𐘤𐄇𐝃𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "]MI+JA",
         "𐝕𐝫",
@@ -50919,6 +62587,32 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘚𐘅𐘮𐄁𐘇𐘭\n𐘚𐙀𐘭𐘝𐘳\n𐘇𐘭\n𐘚𐘀𐘰𐘚𐘞𐘭",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-NA-WA",
         "𐄁",
@@ -50970,6 +62664,37 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘆𐘂𐘱𐝫\n𐝫𐘉𐘆𐘭𐘸𐝫\n𐝫𐘱𐘘𐙁𐘗𐝫\n𐝫𐘱𐘤𐘀𐘴𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -51018,6 +62743,29 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘳𐄇𐝈𐝫\n𐝫𐘀𐘴𐝈𐝫\n𐝫𐙏𐝈𐝃\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -51078,6 +62826,37 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐜵𐄍\n—\n𐝫𐙇𐄐𐄇𐙘𐄈\n—\n𐝫𐄐𐄌𐜶𐄇\n—\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -51168,6 +62947,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐙨𐄇𐜢𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -51213,6 +63005,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙩𐘿𐚍𐝏",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*317-QE-*353",
         "≈ ¹⁄₄"
@@ -51240,6 +63039,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐚬𐙍𐄇𐝆𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*412-VS-VIN",
         "1",
@@ -51270,6 +63078,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "label",
     "transcription": "𐚏𐘡𐚎𐙒𐝈𐝈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "*355-E-*354",
         "hide?",
@@ -51300,6 +63117,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "—\n|||||||||||||\n—",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "—",
         "\n",
@@ -51336,6 +63165,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝈𐝈𐙇𐙿𐙒𐄐𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "VIR+[?]-*339-HIDE+[?]",
         "10",
@@ -51366,6 +63205,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝃𐝫\n𐝫𐝃𐝃𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "¹⁄₄",
         "\n",
@@ -51396,6 +63245,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TE"
     ],
@@ -51420,6 +63273,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐝃𐝃𐙒𐙴𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "HIDE+[?]-*328",
         "𐝫𐝃𐝃"
@@ -51447,6 +63309,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐚐",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*356"
     ],
@@ -51471,6 +63338,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐝃𐝃𐙀𐘃𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TE-*79",
         "𐝃𐝃𐝫"
@@ -51498,6 +63374,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐘝𐙘𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-*304",
         "figs"
@@ -51525,6 +63409,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐘻𐘇",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-MI"
     ],
@@ -51549,6 +63439,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐙁𐘃𐘙𐙿𐄐𐄇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MA-TE-RE",
         "*339",
@@ -51579,6 +63480,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐚑𐙒𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*357",
         "hide?"
@@ -51606,6 +63514,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐘠𐘅𐝫\n—\n𐝫𐚒𐘝𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TI-NA",
         "\n",
@@ -51642,6 +63564,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐘱𐘞𐝫\n—\n𐝫𐘠𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-SA",
         "\n",
@@ -51678,6 +63613,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐚓𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*359"
     ],
@@ -51702,6 +63643,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐚔𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*360"
     ],
@@ -51726,6 +63673,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘣𐘱𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "WI-JA",
         "\n",
@@ -51756,6 +63712,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -51786,6 +63748,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘢𐘵𐝫\n𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PI-O",
         "\n",
@@ -51816,6 +63786,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐝆𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫𐝆𐝆"
     ],
@@ -51840,6 +63816,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫"
     ],
@@ -51864,6 +63844,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘁𐘡",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RO-E"
     ],
@@ -51888,6 +63873,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "label",
     "transcription": "𐙍𐄈𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "wine",
         "2",
@@ -51927,6 +63922,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙦𐝔𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "*314",
         "𐝃𐝏𐝏𐝏𐝫"
@@ -51954,6 +63955,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -51996,6 +64011,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘇𐘰𐝫\n𐄁𐘱𐘸𐘰𐝫\n𐄁𐘇𐘭𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -52044,6 +64080,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄙𐄈𐝫\n𐝫𐄈𐙘𐄌\n𐝫𐄌𐝮",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "erased-legible",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -52099,6 +64155,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -52135,6 +64199,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -52165,6 +64237,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘠𐝃𐝫\n𐝫𐙁𐘙𐘭𐘻𐘦𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -52204,6 +64291,57 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇𐙁𐘆𐘑𐄇𐘐𐝫\n𐄁𐝫𐘗𐄇𐙂𐘰𐘯𐙄𐘤𐘙𐄇𐘂𐘳𐘀\n𐝫𐄇𐙂𐘁𐚾𐄇𐘑𐄋𐘐𐄉𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -52327,6 +64465,61 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘓𐄈𐘐𐄇𐝫\n𐝫𐘬𐘭𐘔𐄇𐘹𐝫\n𐝫𐘗𐘔𐄇𐘓𐄋𐘃𐘭𐘑𐝫\n𐝫𐄇𐘭𐘘𐙁𐘠𐘑𐙄𐘤𐘙\n𐘇𐘻𐘀𐘵𐘑𐄇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -52447,6 +64640,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘲𐘸𐘭𐘳",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "Sybrita (or Sygrita, in the Amari valley, modern Thronos)"
     ],
@@ -52471,6 +64671,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫"
     ],
@@ -52495,6 +64699,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫"
     ],
@@ -52519,6 +64724,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [
         "𐝫"
     ],
@@ -52543,6 +64749,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TE"
     ],
@@ -52563,6 +64773,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫"
     ],
@@ -52587,6 +64801,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘾𐙦𐘤𐙬",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-*314-SI",
         "*320"
@@ -52614,6 +64835,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙦𐘳𐙁",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*314-TA-MA"
     ],
@@ -52638,6 +64865,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘱𐘆𐘁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-DI",
         "RO"
@@ -52667,6 +64900,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘠𐘠𐙁𐘅",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "TI-TI-MA",
         "NA"
@@ -52694,6 +64934,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙍𐄇𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "wine",
         "1",
@@ -52724,6 +64970,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙍",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "wine"
     ],
@@ -52748,6 +64998,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘏",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "sheep"
     ],
@@ -52772,6 +65026,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙴𐘡 ≈ 𐘠",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful"
+    ],
     "translatedWords": [
         "*328-E",
         "≈",
@@ -52802,6 +65063,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙍",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "wine"
     ],
@@ -52826,6 +65091,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘡𐘷𐘿",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "E-TA2-QE"
     ],
@@ -52850,6 +65121,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙍",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "wine"
     ],
@@ -52874,6 +65149,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘤𐙁𐄁𐘚𐘱𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-MA",
         "𐄁",
@@ -52904,6 +65188,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘮𐘣𐘠𐘅𐘽",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "WA-PI-TI-NA-RA2"
     ],
@@ -52928,6 +65220,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐙴",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*328"
     ],
@@ -52952,6 +65248,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘌𐙙𐝫𐄁𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "QA-*305",
         "𐄁"
@@ -52981,6 +65285,94 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘤𐝫𐄁𐝫𐘗𐘠𐄇𐘾𐘌𐄈\n—\n𐘇𐘬𐘍𐄇𐘷𐘳𐘙𐄇\n—\n𐘷𐘠𐘃𐄇𐘵𐘾𐘻𐘍𐘤\n—\n𐘚𐘅𐄇\n—\n𐘵𐘃𐘱𐄇\n—\n𐘴𐘅𐘹𐘲𐄇𐘝𐘻𐄇𐘹\n—\n𐘲𐄇𐙁𐘠𐘍𐘚𐘃𐄇\n—\n𐙁𐘃𐘠𐄇𐙁𐘾𐘚𐘳𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI",
         "𐄁",
@@ -53154,6 +65546,35 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "4-sided bar",
     "transcription": "𐝫𐘿𐄉𐘱𐄑𐝫𐄒𐄇𐘀𐘙𐄖𐄈\n𐝫𐘠𐄈𐝫𐙂𐄉𐝫𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "QE",
         "3",
@@ -53229,6 +65650,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘞𐘞𐘴𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-SA-SA-RA"
     ],
@@ -53256,6 +65685,41 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘯𐄁𐘰𐘡𐄁𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙𐄁𐘹𐘋𐘚\n𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NU",
         "𐄁",
@@ -53310,6 +65774,23 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -53346,6 +65827,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘤𐄁𐘚𐘢𐘅𐘻𐘅𐄁𐘤𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI",
         "𐄁",
@@ -53382,6 +65877,69 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐄁\n𐄁𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁",
@@ -53478,6 +66036,65 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘘𐝫𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤\n𐄁𐘇𐘂𐘬𐝫𐝫𐘱𐝫𐝫𐘱𐘂𐘌",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁",
@@ -53544,6 +66161,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TU-ME",
         "\n",
@@ -53580,6 +66210,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘱𐘆𐘸𐘃𐘃𐘬𐘜𐘙𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"master of/from Dikte.\""
     ],
@@ -53604,6 +66247,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘄𐘞𐄁𐘜𐘙𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TO-SA",
         "𐄁",
@@ -53640,6 +66295,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘚𐘀𐄁𐝫𐄁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "Mt Ida",
         "𐄁",
@@ -53670,6 +66335,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘃𐄁𐘚𐘀𐄁𐘱𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TE",
         "𐄁",
@@ -53704,6 +66381,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘉𐘅𐘾𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "U-NA-KA"
     ],
@@ -53724,6 +66409,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇𐘰𐘆𐝫\n𐘙𐝁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-PA3-DI",
         "\n",
@@ -53755,6 +66450,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘈𐘤𐘳𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SE-SI-TA"
     ],
@@ -53777,6 +66479,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘸𐘳𐘝𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KI-TA-NI-TE"
     ],
@@ -53799,6 +66508,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘾𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA"
     ],
@@ -53821,6 +66535,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐙍",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "wine"
     ],
@@ -53843,6 +66561,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘻𐘀𐘴",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "MI-DA-RA"
     ],
@@ -53867,6 +66591,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "inked inscription",
     "transcription": "𐝫𐘯𐘭𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NU-RI-JA"
     ],
@@ -53887,6 +66619,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐙍𐙍",
+    "transcriptionReadings": [
+        "certain",
+        "erased-legible",
+        "eol"
+    ],
     "translatedWords": [
         "VIN-VIN"
     ],
@@ -53911,6 +66648,44 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐄁𐝫𐘚𐝫𐄁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA",
         "𐄁",
@@ -53980,6 +66755,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "inked inscription",
     "transcription": "𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱𐄁",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RI-QE-TI-A-SA-SA-RA-*325",
         "𐄁"
@@ -54007,6 +66794,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA-NA-SU-TE-KE",
         "\n",
@@ -54044,6 +66851,34 @@ var inscriptions = new Map([
     "scribe": "PS Scribe 1",
     "support": "stone vessel",
     "transcription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐝢𐘋𐄁",
+    "transcriptionReadings": [
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RE-I-KE",
         "\n",
@@ -54089,6 +66924,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐙓𐘬𐘈𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*188-DU-SE"
     ],
@@ -54111,17 +66953,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐄁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
-        "𐄁𐝫"
+        "𐝫"
     ],
     "transliteratedWords": [
         "𐄁",
-        "𐄁𐝫"
+        "𐝫"
     ],
     "words": [
         "𐄁",
-        "𐄁𐝫"
+        "𐝫"
     ]
 }],
 ["PSIZb1",{
@@ -54134,6 +66981,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐙓𐘇𐘚",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*188-A-I"
     ],
@@ -54158,6 +67011,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘠𐙁𐘘𐘣𐘃\n𐝦𐙍𐄘",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TI-MA-RU-WI-TE",
         "*806-VIN",
@@ -54188,6 +67052,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "lames (short thin tablet)",
     "transcription": "𐝫𐙘𐝆",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "coriander?",
         "¹⁄₂"
@@ -54215,6 +67085,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TI",
         "𐄁",
@@ -54241,6 +67121,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘃𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TE-JA"
     ],
@@ -54265,6 +67152,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘱𐘞𐝫𐘞𐘴𐝫𐘃𐄐𐝇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-SA",
         "SA-RA",
@@ -54301,6 +67200,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝠",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*800"
     ],
@@ -54321,6 +67224,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘀𐙂",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA-KU"
     ],
@@ -54345,6 +67253,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐘇𐝫𐄁𐝫𐘀𐙈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A",
         "𐄁",
@@ -54375,6 +67292,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇𐙁𐘴𐘗𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-MA-RA-NE"
     ],
@@ -54395,6 +67320,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "inked inscription",
     "transcription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐘠𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "NA-TU-*301-NE",
@@ -54428,6 +67369,23 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘚𐘀𐘻𐄁𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁",
@@ -54462,6 +67420,32 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁",
@@ -54507,6 +67491,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐝫𐘱𐝫𐘈𐘾𐘅𐘤𐝫𐘃𐝫𐘤𐘘𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "SE-KA-NA-SI",
@@ -54537,6 +67542,24 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘚𐘩𐘍𐄁𐘰𐘝𐘣",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁",
@@ -54571,6 +67594,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘻𐘱𐄁𐘱𐘮𐘰𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MI-JA",
         "𐄁",
@@ -54599,6 +67633,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘀𐘈𐘴𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA-SE-RA-TE"
     ],
@@ -54621,6 +67662,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘴𐘸𐘝𐘈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "RA-KI-NI-SE"
     ],
@@ -54645,6 +67694,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁",
@@ -54675,6 +67738,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘱𐘂𐘴𐘱𐘈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "JA-PA-RA-JA-SE"
     ],
@@ -54699,6 +67770,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘌𐘞𐘴𐙂",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "QA-SA-RA-KU"
     ],
@@ -54723,6 +67801,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐄁𐘁𐘌𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "RO-QA"
@@ -54750,6 +67835,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐄁𐘇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "A"
@@ -54775,6 +67867,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘕 ≈ 𐘮𐘃 ≈ 𐘝",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "bovine",
         "≈",
@@ -54807,6 +67908,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘸𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KI"
     ],
@@ -54827,6 +67934,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙖𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "olive oil"
     ],
@@ -54847,6 +67960,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐙖𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "olive oil"
     ],
@@ -54869,6 +67988,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘒𐄍𐝫\n𐝫𐘒𐄓𐄌𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "goat",
         "7",
@@ -54903,6 +68035,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄁𐘃𐘋𐘀𐘚𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐄁",
         "TE-ME-DA-I"
@@ -54928,6 +68070,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐄐𐝫\n𐝫𐝡𐝫𐄚𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "10",
         "\n",
@@ -54961,6 +68115,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘤𐘝𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-NI"
     ],
@@ -54985,6 +68146,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇𐘙𐘞𐘅",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-RE-SA-NA"
     ],
@@ -55009,6 +68177,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇𐘗𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-NE"
     ],
@@ -55033,6 +68207,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘇𐘙𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-RE"
     ],
@@ -55055,6 +68236,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐙁𐄓𐘫𐄋\n𐙑𐄍𐘎𐄏𐘳𐄊",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MA",
         "40",
@@ -55105,6 +68300,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘧",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "3/4"
     ],
@@ -55127,6 +68326,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇𐘧",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-JE"
     ],
@@ -55151,6 +68355,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "QI-VIN+TE",
         "120",
@@ -55180,6 +68398,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐙕𐘤𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301-SI"
     ],
@@ -55204,6 +68429,41 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘵𐘲𐘌𐘙𐄁\n𐘱𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘾𐘅𐘤𐝫\n𐝫𐘅𐙁𐘤𐘘𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁",
@@ -55258,6 +68518,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘙𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RE-JA"
     ],
@@ -55280,6 +68547,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐘢𐘻𐘳𐘠𐘽",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PI-MI-TA-TI-RA2"
     ],
@@ -55302,6 +68577,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐘬𐘻𐘳𐘠𐘽",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DU-MI-TA-TI-RA2"
     ],
@@ -55322,6 +68605,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘗𐘻𐝫 ≈ 𐝫𐘻𐘗𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain"
+    ],
     "translatedWords": [
         "NE-MI",
         "≈",
@@ -55352,6 +68647,82 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐙞𐝫𐘟𐘫𐘢𐄝𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔𐙝𐘀𐘫𐝫𐄐𐘂\n𐘀𐘘𐙝𐘶𐘸𐄙𐙝𐘭𐘶𐝫𐙝𐝫𐄌𐙇\n𐄗𐄊𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔𐙞𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*309B-*34-PU-PI",
         "500",
@@ -55490,6 +68861,98 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘍𐙭𐜓𐄐𐄋𐝃𐜋𐄑𐄈𐘗\n𐘸𐄋𐜌𐄉𐝆𐜗𐝫𐜋𐄍𐝆\n—\n𐘇𐘬𐝫𐄁𐝫𐜓𐄔𐄇𐜔𐄈𐝂\n𐜕𐄇𐜌𐄊𐝆𐝫𐙋𐄊𐝫\n—\n𐘇𐘀𐜋𐄑𐄇𐜗𐄈𐝫\n𐝫𐘺𐘇𐘬𐘮𐙖𐝫𐄍𐝂\n—\n𐘇𐙂𐘹𐚕𐝫𐘸𐄋𐜖𐄇\n—",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "ZA-*321",
         "OLE+KI",
@@ -55715,6 +69178,42 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘸𐘭𐘤𐜗𐄌𐝫\n—\n𐘢𐙂𐙀𐜓𐄊𐜗𐄐𐄇𐝫\n𐜍𐄈𐝫\n—\n𐘂𐜗𐝫𐄚𐄑𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "KI-RI-SI",
         "OLE+MI",
@@ -55795,6 +69294,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐙂",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KU"
     ],
@@ -55819,6 +69322,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘇𐙕𐘸𐘳𐘇",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-*301-KI-TA-A"
     ],
@@ -55843,6 +69354,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐝫𐙁𐘘𐘇",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "MA-RU-A"
     ],
@@ -55867,6 +69385,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘚𐘢𐘅𐙁\n𐘤𐘘𐘃𐄁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "a favour",
         "\n",
@@ -55900,6 +69432,25 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐛀𐄁𐘸𐘙𐘍𐄁𐘝\n𐄓𐄈𐝆𐘍𐄋\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*516",
         "𐄁",
@@ -55960,6 +69511,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘡𐘻𐝫𐘁\n𐙉𐄓𐄍\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "E-MI",
         "\n",
@@ -56002,6 +69565,73 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐘡𐝫\n𐘢𐝫𐄁𐝫𐘈𐝫𐄋𐘱𐘄𐘱\n𐝫𐄉𐝫𐘇𐘠𐘘𐄊𐘱\n𐘂𐄇𐝫𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊𐘛\n𐘯𐙁𐘙𐄐𐄉𐘤𐘢\n𐘸𐄋𐘡𐙃𐄔\n𐘾𐘆𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -56137,6 +69767,16 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐙍𐄙𐄊𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -56170,6 +69810,32 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐘐𐙈𐄁𐙍𐘲𐘸𐘝\n𐙁𐄍𐘵𐘳𐘝𐘍\n𐘈𐄌𐘞𐘻𐘀𐘡\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*21F-*118",
         "𐄁",
@@ -56248,6 +69914,26 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆𐙁𐘾\n𐘚𐘳𐄉",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "*28B-NU-MA-RE",
         "20",
@@ -56296,6 +69982,68 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐙙𐘮𐘅𐙑𐄐𐄏𐘟𐘶\n𐘃𐘻𐝫𐄙𐄗\n𐘚𐘈𐝫𐙋\n𐄐𐄋𐝫𐙋𐄐\n𐘚𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫𐙋𐝫\n𐝫𐄑𐄋𐙘𐝫\n𐝫𐄑𐘚𐘈\n𐝫𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*305-WA-NA",
         "fodder?",
@@ -56422,6 +70170,41 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓𐜁𐄐𐙢𐘷\n𐛭𐄓𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "I-KU-JU-TI-*28B",
         "GRA+PA",
@@ -56509,6 +70292,25 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘉𐘶𐄋𐘇\n𐘴𐘹𐄊𐘇𐘙𐘹\n𐘻𐝫\n𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "U-JU",
         "5",
@@ -56557,6 +70359,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-MA",
         "\n",
@@ -56594,6 +70407,61 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 2",
     "support": "stone vessel",
     "transcription": "𐘸𐘴𐄁𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝓𐘇𐘭\n𐘝𐘳𐄇𐝫𐝁𐝁𐘳𐘚𐘯𐙁\n𐘂𐝆𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝒",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "\"balance\"",
         "𐄁",
@@ -56702,6 +70570,56 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘯𐘠𐄁𐘍𐝫\n𐝫𐝢𐚽𐄋𐝫\n𐝫𐘁𐘤𐝢\n𐝫𐚽𐄊𐘇𐘳𐘅𐝫𐄁𐝫\n𐚽𐄈𐝫𐄁𐝫𐙁𐘶𐘐𐄈\n𐘣𐝢𐘙𐘻𐘃𐘐𐄇",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NU-TI",
         "𐄁",
@@ -56810,6 +70728,54 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 4",
     "support": "stone vessel",
     "transcription": "𐘳𐘅𐘃𐄈𐘂𐝫𐄇𐘇𐙂\n𐘻𐘅𐄇𐘇𐘳𐘅𐝠𐄇\n𐘇𐘻𐘀𐘉𐄇𐘇𐘬\n𐙂𐘻𐘅𐄇𐘀𐘚𐘢\n𐘳𐄇𐘬𐘙𐘍𐘈𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "TA-NA-TE",
         "2",
@@ -56900,6 +70866,69 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 4",
     "support": "stone vessel",
     "transcription": "𐘮𐚖𐄈𐘬𐘙𐘍𐘈\n𐙎𐄋𐘉𐘪𐄌𐙁𐘍\n𐄋𐙁𐘸𐘦𐝠𐄋𐘞\n𐙁𐄋𐘇𐘦𐄊𐘇𐘻\n𐘳𐄉𐘽𐘁𐘙𐄈𐘂𐘱𐘙\n𐄇𐘾𐙂𐘗𐘃𐝆𐘳\n𐄈𐘬𐄇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "WA-*362",
         "2",
@@ -57038,6 +71067,63 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 2",
     "support": "stone vessel",
     "transcription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁𐛭𐝫\n𐝫𐘴𐙁𐘤\n𐙍𐝆𐝫𐝫𐘡𐙂𐘘𐄈\n𐝃𐘶𐝈𐝉𐙍𐝆𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫𐘢𐙠𐘇\n𐝫𐙋𐄈\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DI-DI-KO-RA-ME-TA2",
         "𐄁",
@@ -57164,6 +71250,42 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 2",
     "support": "stone vessel",
     "transcription": "𐘡𐘄𐘭𐛀𐄁𐘞𐙕𐘭𐄁𐛭𐄇\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈𐙂𐘂𐄁𐛭𐄉\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "E-TO-RI",
         "*516",
@@ -57254,6 +71376,27 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐘂𐝫𐄕𐄊𐝫𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -57311,6 +71454,29 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐘹𐝫𐄌𐝫𐘂𐝫𐄓𐝫\n𐘠𐄐𐄉𐘘𐄑𐄌",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -57371,6 +71537,17 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 3",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -57407,6 +71584,54 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘋𐘸𐘆𐄇𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇𐘹𐘻𐘠𐘍𐘈\n𐄓𐄋𐝫𐘂𐘯𐘿𐄈𐘱𐘣𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "ME-KI-DI",
         "1",
@@ -57506,6 +71731,64 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 5",
     "support": "stone vessel",
     "transcription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐𐘋𐙍\n𐘻𐘍𐘈𐄉𐘛𐘯𐙁\n𐘙𐄌𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋𐘞𐘻𐘀\n𐘡𐄊𐚗𐘥𐙁𐘈𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*47-KU-NA",
         "SA-VIN",
@@ -57614,6 +71897,27 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 5",
     "support": "stone vessel",
     "transcription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-DI",
         "𐄁",
@@ -57677,6 +71981,26 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫𐘲𐄊𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -57737,6 +72061,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -57773,6 +72105,31 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐘀𐘙𐙂𐝫𐄁𐙂𐙭𐄁𐛭𐄈𐝓\n𐙉𐝫𐄈𐝓𐜓𐝒𐙋𐝃\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "DA-RE-KU",
         "𐄁",
@@ -57850,15 +72207,28 @@ var inscriptions = new Map([
         "images/ZA18b-Inscription.jpg"
     ],
     "name": "ZA18b",
-    "parsedInscription": "𐝫\n𐄈𐝆𐝃𐝉𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐄈𐝕𐝉𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐝫\n𐄈𐝆𐝃𐝉𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
         "2",
-        "𐝆𐝃𐝉𐝫",
+        "𐝕𐝉𐝫",
         "\n",
         "𐝫"
     ],
@@ -57866,7 +72236,7 @@ var inscriptions = new Map([
         "𐝫",
         "\n",
         "2",
-        "𐝆𐝃𐝉𐝫",
+        "𐝕𐝉𐝫",
         "\n",
         "𐝫"
     ],
@@ -57874,7 +72244,7 @@ var inscriptions = new Map([
         "𐝫",
         "\n",
         "𐄈",
-        "𐝆𐝃𐝉𐝫",
+        "𐝕𐝉𐝫",
         "\n",
         "𐝫"
     ]
@@ -57893,6 +72263,17 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐘴𐘃𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -57929,6 +72310,49 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 3",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐘬𐘙𐘍\n𐘈𐝫𐘻𐝫𐄁𐝫𐄊𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌𐘃𐙌𐄐𐄈𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58018,16 +72442,64 @@ var inscriptions = new Map([
         "images/ZA21a-Inscription.jpg"
     ],
     "name": "ZA21a",
-    "parsedInscription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁𐝫\n𐝫𐘃𐄈\n𐘳𐘥𐝫\n𐝫\n𐝫𐘂𐝫𐄋\n𐘳𐙁𐘢𐝫\n𐝫𐄉\n𐘇𐝫\n𐝫𐙈𐘻𐝫𐝫𐄈",
+    "parsedInscription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁\n𐝫𐘃𐄈\n𐘳𐘥𐝫\n𐝫\n𐝫𐘂𐝫𐄋\n𐘳𐙁𐘢𐝫\n𐝫𐄉\n𐘇𐝫\n𐝫𐙈𐘻𐝫𐝫𐄈",
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁𐝫𐘃𐄈𐘳𐘥\n𐝫\n𐝫𐘂𐝫𐄋𐘳𐙁𐘢𐝫\n𐝫𐄉𐘇𐝫𐝫𐙈𐘻𐝫𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "ME",
         "\n",
         "PI-MU",
         "40",
         "\n",
+        "𐝫",
         "\n",
         "MA",
         "\n",
@@ -58036,6 +72508,7 @@ var inscriptions = new Map([
         "\n",
         "TA-KE",
         "\n",
+        "𐝫",
         "\n",
         "PA",
         "5",
@@ -58055,6 +72528,7 @@ var inscriptions = new Map([
         "PI-MU",
         "40",
         "\n",
+        "𐝫",
         "\n",
         "MA",
         "\n",
@@ -58063,6 +72537,7 @@ var inscriptions = new Map([
         "\n",
         "TA-KE",
         "\n",
+        "𐝫",
         "\n",
         "PA",
         "5",
@@ -58082,14 +72557,16 @@ var inscriptions = new Map([
         "𐝫𐘢𐘕",
         "𐄓𐝫",
         "\n",
+        "𐝫",
         "\n",
-        "𐝫𐙁𐝫",
+        "𐝫𐙁",
         "\n",
         "𐝫𐘃",
         "𐄈",
         "\n",
         "𐘳𐘥𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐝫𐘂𐝫",
         "𐄋",
@@ -58118,6 +72595,29 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "doubtful",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "Mt Ida",
         "\n",
@@ -58127,7 +72627,9 @@ var inscriptions = new Map([
         "\n",
         "SA-RI",
         "\n",
+        "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "ME"
     ],
@@ -58140,7 +72642,9 @@ var inscriptions = new Map([
         "\n",
         "SA-RI",
         "\n",
+        "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "ME"
     ],
@@ -58153,7 +72657,9 @@ var inscriptions = new Map([
         "\n",
         "𐘞𐘭𐝫",
         "\n",
+        "𐝫",
         "\n",
+        "𐝫",
         "\n",
         "𐘋"
     ]
@@ -58172,6 +72678,40 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐘐𐝫\n𐘑𐄇𐝫\n𐝫𐄇𐘴𐝫𐄁𐝫𐘐𐄇𐝫\n𐝫𐄌𐘬𐘶𐝫\n𐘐𐄙𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58256,6 +72796,22 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 4",
     "support": "stone vessel",
     "transcription": "𐝫\n—\n𐝫𐘃𐘃𐝫\n𐝫𐘻𐘙𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58298,6 +72854,17 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐘚𐘀𐙉𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "Mt Ida",
         "wheat",
@@ -58337,6 +72904,14 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 1",
     "support": "stone vessel",
     "transcription": "𐝫𐘳𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "TA",
         "\n",
@@ -58367,6 +72942,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58397,6 +72978,30 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘐𐄐𐄉𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-TE",
         "𐄁",
@@ -58454,6 +73059,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘐𐄍\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "she-goat",
         "7",
@@ -58487,6 +73100,21 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 3",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫\n𐝫𐘆𐘸𐄈𐘵𐘻𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58532,6 +73160,17 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 2",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐛭𐄇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58571,6 +73210,21 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐙁𐄙𐝫\n𐝫𐘃𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58616,6 +73270,18 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫\n𐝫𐄍𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58658,6 +73324,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐘬𐄈𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58697,6 +73374,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐘱𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58733,6 +73420,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫\n𐝫𐄑𐄇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -58767,6 +73465,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐘁",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "RO"
     ],
@@ -58791,6 +73493,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "nodule",
     "transcription": "𐙕",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301"
     ],
@@ -58813,6 +73519,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "sealing",
     "transcription": "𐘤",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI"
     ],
@@ -58837,6 +73547,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘇𐘠𐘾𐘇\n𐘬𐘺𐘻",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "erased-legible",
+        "eol"
+    ],
     "translatedWords": [
         "A-TI-KA-A-DU-KO-MI",
         "\n",
@@ -58867,6 +73587,42 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐙍𐄒𐄈𐘆𐘆𐘾𐘈𐄁𐘇𐘞𐘕𐘗𐄁𐘇𐘈\n𐘇𐘳𐘚𐙕𐘦𐘾𐄁𐘇𐘙𐘢𐘙𐘅𐄁𐘠𐘠𐙂",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "wine",
         "32",
@@ -58924,6 +73680,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘜𐘙𐘱𐄁𐘺𐘕𐄁𐘘𐘆𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "PU2-RE-JA",
         "𐄁",
@@ -58958,6 +73728,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘮𐄕",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "cloth",
         "60"
@@ -58985,6 +73760,19 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "label",
     "transcription": "𐝫𐘋𐘻𐘱𐘘𐄁𐘈𐘮𐙄𐘦",
+    "transcriptionReadings": [
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "ME-MI-JA-RU",
         "𐄁",
@@ -59011,6 +73799,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "",
+    "transcriptionReadings": [],
     "translatedWords": [],
     "transliteratedWords": [],
     "words": []
@@ -59025,6 +73814,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘃",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TE"
     ],
@@ -59049,6 +73839,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘱𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA"
     ],
@@ -59073,6 +73869,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘱𐘳𐘚𐙕𐘉𐘱𐄁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "gives",
         "𐄁"
@@ -59100,6 +73907,45 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "NA-SI",
         "𐄁",
@@ -59158,6 +74004,13 @@ var inscriptions = new Map([
     "scribe": "AR Scribe 1",
     "support": "metal object",
     "transcription": "𐘚𐘀𐙁𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"to\" DA-MA-TE"
     ],
@@ -59182,6 +74035,14 @@ var inscriptions = new Map([
     "scribe": "AR Scribe 2",
     "support": "metal object",
     "transcription": "𐘚𐘀𐙁𐘃𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "\"to\" DA-MA-TE"
     ],
@@ -59202,6 +74063,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐘮 ≈ 𐙍𐘻",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "cloth",
         "≈",
@@ -59232,6 +74100,46 @@ var inscriptions = new Map([
     "scribe": "ARKH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘳𐘢𐄁𐘌𐝫𐘸\n𐝫𐄁𐘇𐘴𐝫\n𐝫\n𐘇𐘲𐘻𐙈𐝫\n𐘗𐄈𐝆𐘇𐘂𐝫\n𐘻𐘸𐘞𐘗𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain"
+    ],
     "translatedWords": [
         "TA-PI",
         "𐄁",
@@ -59240,6 +74148,7 @@ var inscriptions = new Map([
         "\n",
         "KI",
         "\n",
+        "𐝫",
         "𐄁",
         "\n",
         "A-RA",
@@ -59264,6 +74173,7 @@ var inscriptions = new Map([
         "\n",
         "KI",
         "\n",
+        "𐝫",
         "𐄁",
         "\n",
         "A-RA",
@@ -59288,6 +74198,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐘸𐝫",
         "\n",
+        "𐝫",
         "𐄁",
         "\n",
         "𐘇𐘴𐝫",
@@ -59315,6 +74226,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -59351,6 +74272,27 @@ var inscriptions = new Map([
     "scribe": "ARKH Scribe 1",
     "support": "tablet",
     "transcription": "𐘇𐝫𐘱𐘙𐄉𐝫\n𐝫𐘰𐝫\n𐝫\n—\n𐝫𐘅𐄎",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "erased-legible",
+        "erased-legible"
+    ],
     "translatedWords": [
         "A",
         "\n",
@@ -59411,6 +74353,43 @@ var inscriptions = new Map([
     "scribe": "ARKH Scribe 1",
     "support": "tablet",
     "transcription": "𐘤𐘀𐘃𐙂𐘴\n𐙎𐄋𐘇𐘤𐘀𐘄\n𐘚𐄐𐄈𐙀𐙕𐘈\n𐘦𐘐𐙈𐄌\n𐘇𐘲𐘫𐘮\n𐄊𐘘𐘻𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "SI-DA-TE",
         "\n",
@@ -59486,6 +74465,56 @@ var inscriptions = new Map([
     "scribe": "ARKH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘾𐘗𐙉𐝫\n𐝫𐝂𐙋𐄉𐝂𐙎𐄈𐝫\n𐄈𐝫𐙩𐄈𐝫\n𐘸𐘯𐙉𐄐𐄉𐝫\n𐝫𐘃𐄈𐙩𐄈𐙢𐄈𐝫\n𐝫𐙂𐄉𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "erased-legible",
+        "erased-doubtful",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "KA-NE",
         "wheat",
@@ -59609,6 +74638,36 @@ var inscriptions = new Map([
     "scribe": "ARKH Scribe 1",
     "support": "tablet",
     "transcription": "𐝫𐘱𐘢𐙉𐄌𐝫\n𐝫𐘢𐙦𐙉𐄇𐝫𐙖𐝫\n𐝫𐄈𐙖𐄊\n𐝫𐙍𐄇𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "JA-PI",
         "wheat",
@@ -59690,6 +74749,45 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐘝𐘳𐝫\n𐝫𐘳𐄁𐘙𐄋𐘇𐝫\n𐄁𐝫𐘶𐄊𐘦𐘲𐝫𐄁𐝫\n𐘨𐘃𐄋𐘢𐘠𐘗\n𐘇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -59777,6 +74875,40 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘙𐄐𐘉𐝫\n𐝫𐘦𐘻𐄐𐘚𐘨𐝫\n𐄏𐘇𐘸𐘁𐄉\n𐘍𐘤𐙀𐝫𐄉\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -59864,6 +74996,35 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘇𐘬𐘝𐘳𐘅𐄓𐄇𐝫\n𐝫𐄍𐘇𐘀𐘁𐙉𐄓𐝫\n𐙎𐄌𐘇𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-DU-NI-TA-NA",
         "41",
@@ -59930,6 +75091,22 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘀𐘅𐘹𐄁𐙂𐝫\n𐝫𐘃𐘭𐝫\n𐝫",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "DA-NA-TU",
         "𐄁",
@@ -59972,6 +75149,17 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n—\n𐙜𐝂\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -60013,6 +75201,14 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘞 ≈ 𐘳𐙁𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "flax",
         "≈",
@@ -60043,6 +75239,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "inked inscription",
     "transcription": "𐙚𐘳𐘧",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*306-TA-JE"
     ],
@@ -60067,6 +75269,20 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘱𐘸𐘤𐘸𐘯𐄁𐘻𐘀𐙁𐘽𐄁",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA-KI-SI-KI-NU",
         "𐄁",
@@ -60100,6 +75316,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐜈",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*301+*311"
     ],
@@ -60124,6 +75344,31 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘇𐙁𐘮𐘤𐄁𐘾𐘝𐘱𐘻𐄁𐘚𐘱𐄁𐘌𐘸𐘈𐘯𐘠𐄁𐘇𐘳𐘦",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "A-MA-WA-SI",
         "𐄁",
@@ -60168,6 +75413,10 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘱",
+    "transcriptionReadings": [
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "JA"
     ],
@@ -60192,6 +75441,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐙍𐝫 ≈ 𐘝 ≈ 𐛿",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain"
+    ],
     "translatedWords": [
         "wine",
         "≈",
@@ -60228,6 +75486,16 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone object",
     "transcription": "𐘚𐘀𐘀\n𐘇𐘁𐘃",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "I-DA-DA",
         "\n",
@@ -60254,6 +75522,12 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "inked inscription",
     "transcription": "𐙚𐘳𐘧",
+    "transcriptionReadings": [
+        "doubtful",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*306-TA-JE"
     ],
@@ -60278,6 +75552,34 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐘤𐝫\n𐘾𐝄𐘤𐄈𐘀𐝫\n𐘤𐘀𐘁𐝃𐝫\n𐝫𐘈𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "eol",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -60353,6 +75655,29 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫\n𐝫𐄇𐝄𐘀𐝫\n𐘙𐄇𐝫𐘈𐘤𐝫\n𐝫\n𐝫",
+    "transcriptionReadings": [
+        "certain",
+        "eol",
+        "certain",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "certain",
+        "eol",
+        "doubtful",
+        "doubtful",
+        "certain",
+        "eol",
+        "certain",
+        "certain",
+        "certain",
+        "eol",
+        "certain",
+        "eol",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "𐝫",
         "\n",
@@ -60419,6 +75744,15 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘇𐘞\n𐘲𐙁\n𐘚𐘈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "doubtful",
+        "certain",
+        "certain",
+        "doubtful",
+        "eol"
+    ],
     "translatedWords": [
         "A-SA-SU-MA-I-SE"
     ],
@@ -60443,6 +75777,11 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐘖𐄋",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "bull",
         "5"
@@ -60470,6 +75809,13 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "roundel",
     "transcription": "𐝬𐄑,𐄈",
+    "transcriptionReadings": [
+        "certain",
+        "certain",
+        "certain",
+        "certain",
+        "eol"
+    ],
     "translatedWords": [
         "*809",
         "𐄑,𐄈"
@@ -60497,6 +75843,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐘰𐘜𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "PA3-PU2"
     ],
@@ -60521,6 +75868,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘤𐘃𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "SI-TE"
     ],
@@ -60545,6 +75893,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "clay vessel",
     "transcription": "𐝫𐘙𐙅𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "RE-*86"
     ],
@@ -60569,6 +75918,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐝫𐘇𐘻𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "A-MI"
     ],
@@ -60593,6 +75943,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "stone vessel",
     "transcription": "𐘱𐘞𐘞𐘴𐘋\n𐘉𐘅𐘾𐘅𐘤",
+    "transcriptionReadings": [],
     "translatedWords": [
         "this dedication",
         "\n",
@@ -60623,6 +75974,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "metal object",
     "transcription": "𐘠𐙁",
+    "transcriptionReadings": [],
     "translatedWords": [
         "TI-MA"
     ],
@@ -60647,6 +75999,7 @@ var inscriptions = new Map([
     "scribe": "",
     "support": "tablet",
     "transcription": "𐘚𐘞𐘭𐘥𐝫\n𐝫",
+    "transcriptionReadings": [],
     "translatedWords": [
         "I-SA-RI-KE",
         "\n"
@@ -60691,6 +76044,15 @@ var sequences = new Map([
 ["HT6a", [
 {
     "inscriptions": [
+        "HT89"
+    ],
+    "sequence": [
+        "𐝕",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
         "HT110b",
         "KH8",
         "KH15",
@@ -60700,6 +76062,57 @@ var sequences = new Map([
     "sequence": [
         "𐘝",
         "𐝆"
+    ]
+},
+ ],
+],
+["HT89", [
+{
+    "inscriptions": [
+        "HT6a"
+    ],
+    "sequence": [
+        "𐝕",
+        "𐘝"
+    ]
+},
+{
+    "inscriptions": [
+        "HT27a"
+    ],
+    "sequence": [
+        "𐙂𐘁",
+        "𐙗"
+    ]
+},
+{
+    "inscriptions": [
+        "KH86"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝕"
+    ]
+},
+{
+    "inscriptions": [
+        "KH8",
+        "KH14",
+        "KH15",
+        "KH20"
+    ],
+    "sequence": [
+        "𐘝",
+        "𐝃"
+    ]
+},
+{
+    "inscriptions": [
+        "KH9"
+    ],
+    "sequence": [
+        "𐝃",
+        "𐙍"
     ]
 },
  ],
@@ -61378,6 +76791,15 @@ var sequences = new Map([
     "sequence": [
         "𐘃",
         "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT131a"
+    ],
+    "sequence": [
+        "𐙘",
+        "𐝕"
     ]
 },
 {
@@ -62095,6 +77517,72 @@ var sequences = new Map([
 },
  ],
 ],
+["HT131a", [
+{
+    "inscriptions": [
+        "HT21"
+    ],
+    "sequence": [
+        "𐙘",
+        "𐝕"
+    ]
+},
+{
+    "inscriptions": [
+        "HT44a"
+    ],
+    "sequence": [
+        "𐘚𐘌𐙈",
+        "𐙉"
+    ]
+},
+{
+    "inscriptions": [
+        "HT50a",
+        "HT125b",
+        "KH8"
+    ],
+    "sequence": [
+        "𐝆",
+        "𐙘"
+    ]
+},
+{
+    "inscriptions": [
+        "HT101",
+        "HT114a",
+        "HT116a",
+        "HT121",
+        "HT125a",
+        "HT139",
+        "ARKH3b"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖"
+    ]
+},
+{
+    "inscriptions": [
+        "HT139"
+    ],
+    "sequence": [
+        "𐙖",
+        "𐝆"
+    ]
+},
+{
+    "inscriptions": [
+        "HT139"
+    ],
+    "sequence": [
+        "𐙉",
+        "𐙖",
+        "𐝆"
+    ]
+},
+ ],
+],
 ["ZA18a", [
 {
     "inscriptions": [
@@ -62411,39 +77899,6 @@ var sequences = new Map([
         "𐘞𐘽",
         "𐙗",
         "𐘝"
-    ]
-},
- ],
-],
-["HT89", [
-{
-    "inscriptions": [
-        "HT27a"
-    ],
-    "sequence": [
-        "𐙂𐘁",
-        "𐙗"
-    ]
-},
-{
-    "inscriptions": [
-        "KH8",
-        "KH14",
-        "KH15",
-        "KH20"
-    ],
-    "sequence": [
-        "𐘝",
-        "𐝃"
-    ]
-},
-{
-    "inscriptions": [
-        "KH9"
-    ],
-    "sequence": [
-        "𐝃",
-        "𐙍"
     ]
 },
  ],
@@ -63388,7 +78843,7 @@ var sequences = new Map([
         "HT96b"
     ],
     "sequence": [
-        "𐝆𐝃",
+        "𐝕",
         "𐜋"
     ]
 },
@@ -63400,65 +78855,8 @@ var sequences = new Map([
         "HT42+59"
     ],
     "sequence": [
-        "𐝆𐝃",
+        "𐝕",
         "𐜋"
-    ]
-},
- ],
-],
-["HT131a", [
-{
-    "inscriptions": [
-        "HT44a"
-    ],
-    "sequence": [
-        "𐘚𐘌𐙈",
-        "𐙉"
-    ]
-},
-{
-    "inscriptions": [
-        "HT50a",
-        "HT125b",
-        "KH8"
-    ],
-    "sequence": [
-        "𐝆",
-        "𐙘"
-    ]
-},
-{
-    "inscriptions": [
-        "HT101",
-        "HT114a",
-        "HT116a",
-        "HT121",
-        "HT125a",
-        "HT139",
-        "ARKH3b"
-    ],
-    "sequence": [
-        "𐙉",
-        "𐙖"
-    ]
-},
-{
-    "inscriptions": [
-        "HT139"
-    ],
-    "sequence": [
-        "𐙖",
-        "𐝆"
-    ]
-},
-{
-    "inscriptions": [
-        "HT139"
-    ],
-    "sequence": [
-        "𐙉",
-        "𐙖",
-        "𐝆"
     ]
 },
  ],
@@ -63848,6 +79246,27 @@ var sequences = new Map([
         "𐙂𐘝𐘲",
         "𐛷",
         "𐘞𐘘"
+    ]
+},
+ ],
+],
+["KH86", [
+{
+    "inscriptions": [
+        "HT89"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐝕"
+    ]
+},
+{
+    "inscriptions": [
+        "KH14"
+    ],
+    "sequence": [
+        "𐙗",
+        "𐙗"
     ]
 },
  ],
@@ -64531,18 +79950,6 @@ var sequences = new Map([
 },
  ],
 ],
-["KH86", [
-{
-    "inscriptions": [
-        "KH14"
-    ],
-    "sequence": [
-        "𐙗",
-        "𐙗"
-    ]
-},
- ],
-],
 ["ZA10b", [
 {
     "inscriptions": [
@@ -64773,8 +80180,8 @@ var sequences = new Map([
 ]);
 var wordsInCorpus = new Map([
 ["𐘿𐘽𐘉", 3],
-["𐄁", 469],
-["", 2666],
+["𐄁", 465],
+["", 2735],
 ["𐘸𐘁", 16],
 ["𐄖", 5],
 ["𐄔𐄈", 2],
@@ -64809,7 +80216,7 @@ var wordsInCorpus = new Map([
 ["𐄐𐄋", 18],
 ["𐄑𐄊", 7],
 ["𐝓", 6],
-["𐝕", 7],
+["𐝕", 26],
 ["𐘀𐘿𐘴", 3],
 ["𐄑𐄈", 6],
 ["𐝆", 119],
@@ -64838,7 +80245,6 @@ var wordsInCorpus = new Map([
 ["𐘞𐘁", 4],
 ["𐙍", 52],
 ["𐘂𐘦", 3],
-["𐝆𐝃", 19],
 ["𐙚𐘹", 4],
 ["𐘆𐘅𐘉", 6],
 ["𐘿𐘫", 2],
@@ -64931,7 +80337,7 @@ var wordsInCorpus = new Map([
 ["𐘿", 7],
 ["𐄓𐄈", 2],
 ["𐘞", 6],
-["𐘤", 118],
+["𐘤", 119],
 ["𐘇𐘤𐘱𐘾", 2],
 ["𐘱𐘐", 2],
 ["𐝉", 14],
@@ -65099,7 +80505,7 @@ var wordsInCorpus = new Map([
 ["𐘧", 3],
 ["𐙚", 7],
 ["𐙺", 2],
-["𐝆𐝃𐝉", 2],
+["𐝕𐝉", 3],
 ["𐛨", 2],
 ["𐘚𐘤", 2],
 ["𐘍", 4],

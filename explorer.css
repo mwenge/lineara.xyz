@@ -588,3 +588,11 @@ textarea:focus, input:focus{
 .letter-highlight {
   position: absolute;
 }
+.reading-doubtful {
+  color: red;
+}
+.reading-erased-legible {
+}
+.reading-erased-doubtful {
+  color: red;
+}

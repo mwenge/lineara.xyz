@@ -607,12 +607,28 @@ function loadInscription(inscription) {
   var transcript = document.createElement("div");
   transcript.className = 'item text-item';
   transcript.setAttribute("inscription", inscription.name);
+
+  var splitter = new GraphemeSplitter();
+  var currentLetter = 0;
+  var letters = splitter.splitGraphemes(inscription.parsedInscription);
   for (var i = 0; i < inscription.words.length; i++) {
     var word = inscription.words[i];
     var elementName = word == "\n" ? "br" : "span";
     var span = document.createElement(elementName);
     if (elementName == "span") {
-      span.textContent = word;
+      if (inscription.transcriptionReadings.length > 0) {
+        var lettersInWord = splitter.countGraphemes(word);
+        for (var j = currentLetter; j < (currentLetter + lettersInWord); j++) {
+          var reading = inscription.transcriptionReadings[j];
+          var letterSpan = document.createElement("span");
+          letterSpan.textContent = letters[j];
+          letterSpan.className = "reading-" + reading;
+          span.appendChild(letterSpan);
+        }
+        currentLetter += lettersInWord;
+      } else {
+        span.textContent = word;
+      }
       span.className = getClassNameForWord(word);
       span.classList.add("word-frequency-none");
 
@@ -621,6 +637,8 @@ function loadInscription(inscription) {
       span.setAttribute("onmouseover", "highlightWords('" + inscription.name + "', '" + i + "')");
       span.setAttribute("onmouseout", "clearHighlight(event, '" + inscription.name + "', '" + i + "')");
       span.setAttribute("onclick", "updateSearchTerms(event, '\"" + span.textContent + "\"')");
+    } else {
+      currentLetter++;
     }
     transcript.appendChild(span);
   }
