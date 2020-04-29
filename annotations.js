@@ -859,7 +859,7 @@ var wordAnnotations =
                     "number",
                     "fraction"
                 ],
-                "transliteratedWord": "𐝕",
+                "transliteratedWord": "³⁄₄",
                 "word": "𐝕"
             },
             {
@@ -907,7 +907,7 @@ var wordAnnotations =
                     "number",
                     "fraction"
                 ],
-                "transliteratedWord": "𐝕",
+                "transliteratedWord": "³⁄₄",
                 "word": "𐝕"
             },
             {
@@ -1402,7 +1402,7 @@ var wordAnnotations =
                     "number",
                     "fraction"
                 ],
-                "transliteratedWord": "𐝕",
+                "transliteratedWord": "³⁄₄",
                 "word": "𐝕"
             },
             {
@@ -1710,10 +1710,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -1886,10 +1887,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             }
         ]
     },
@@ -4327,7 +4329,7 @@ var wordAnnotations =
                     "number",
                     "fraction"
                 ],
-                "transliteratedWord": "𐝕",
+                "transliteratedWord": "³⁄₄",
                 "word": "𐝕"
             },
             {
@@ -4356,7 +4358,7 @@ var wordAnnotations =
                     "number",
                     "fraction"
                 ],
-                "transliteratedWord": "𐝕",
+                "transliteratedWord": "³⁄₄",
                 "word": "𐝕"
             },
             {
@@ -5085,10 +5087,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -5112,10 +5115,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -6037,11 +6041,10 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number",
-                    "fraction"
+                    "word"
                 ],
-                "transliteratedWord": "𐝆𐝃𐝁",
-                "word": "𐝆𐝃𐝁"
+                "transliteratedWord": "𐝕𐝁",
+                "word": "𐝕𐝁"
             },
             {
                 "tags": [],
@@ -8922,6 +8925,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -8938,6 +8950,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -9067,6 +9088,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -9881,6 +9911,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -9937,10 +9976,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝫𐝆𐝃"
+                "word": "𐝫𐝕"
             },
             {
                 "tags": [],
@@ -10762,6 +10802,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -11035,6 +11084,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -11427,6 +11485,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -11446,6 +11513,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -12123,6 +12199,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -12211,6 +12296,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -12228,6 +12322,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -12275,6 +12378,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -12378,6 +12490,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -12616,6 +12737,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -12753,6 +12883,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -13594,6 +13733,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -13707,6 +13855,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -13822,12 +13979,30 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
     {
         "name": "HT65",
         "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
             {
                 "tags": [],
                 "transliteratedWord": "\n",
@@ -13988,6 +14163,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -14329,6 +14513,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -14366,6 +14559,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -14388,6 +14590,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -14983,6 +15194,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -16320,10 +16540,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -17093,10 +17314,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -18150,10 +18372,28 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "tags": [
                     "word separator"
                 ],
                 "transliteratedWord": "𐄁",
                 "word": "𐄁"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -18606,10 +18846,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -19081,10 +19322,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -19122,10 +19364,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -19218,10 +19461,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -19763,10 +20007,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             }
         ]
     },
@@ -20618,6 +20863,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -20865,6 +21119,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -21103,6 +21366,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -21465,10 +21737,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             }
         ]
     },
@@ -21488,6 +21761,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -21758,6 +22040,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -21801,9 +22092,27 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -24989,10 +25298,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -25095,10 +25405,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -25175,10 +25486,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -25333,10 +25645,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -25445,7 +25758,7 @@ var wordAnnotations =
                     "number",
                     "fraction"
                 ],
-                "transliteratedWord": "𐝆𐝉",
+                "transliteratedWord": "13/20",
                 "word": "𐝆𐝉"
             },
             {
@@ -25725,6 +26038,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -26106,6 +26428,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -26160,6 +26491,15 @@ var wordAnnotations =
     {
         "name": "HT127a",
         "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
             {
                 "tags": [],
                 "transliteratedWord": "\n",
@@ -26220,6 +26560,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -26905,6 +27254,15 @@ var wordAnnotations =
         "name": "HT130",
         "tagsForWords": [
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -26953,6 +27311,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -27206,16 +27573,26 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             }
         ]
     },
     {
         "name": "HT131b",
         "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
             {
                 "tags": [],
                 "transliteratedWord": "\n",
@@ -27442,6 +27819,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -27719,6 +28105,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -27767,6 +28162,15 @@ var wordAnnotations =
     {
         "name": "HT137",
         "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
             {
                 "tags": [],
                 "transliteratedWord": "\n",
@@ -28395,14 +28799,41 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -28442,6 +28873,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -28545,6 +28985,15 @@ var wordAnnotations =
     {
         "name": "HT147",
         "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
             {
                 "tags": [],
                 "transliteratedWord": "\n",
@@ -28764,6 +29213,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -28994,6 +29452,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -29083,6 +29550,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -29155,6 +29631,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -29224,6 +29709,24 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "lacuna at end",
+                    "logogram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐘤𐝫"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "tags": [
                     "lacuna",
                     "lacuna at start",
                     "lacuna at end"
@@ -29265,6 +29768,15 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "tags": [
                     "word separator"
                 ],
                 "transliteratedWord": "𐄁",
@@ -29272,12 +29784,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "lacuna",
                     "lacuna at start",
-                    "lacuna at end",
-                    "word separator"
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐝫𐄁𐝫",
-                "word": "𐝫𐄁𐝫"
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -29591,10 +30103,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "number"
+                    "number",
+                    "fraction"
                 ],
                 "transliteratedWord": "³⁄₄",
-                "word": "𐝆𐝃"
+                "word": "𐝕"
             },
             {
                 "tags": [],
@@ -43466,11 +43979,10 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "number",
-                    "fraction"
+                    "word"
                 ],
-                "transliteratedWord": "𐝆𐝃𐝉𐝫",
-                "word": "𐝆𐝃𐝉𐝫"
+                "transliteratedWord": "𐝕𐝉𐝫",
+                "word": "𐝕𐝉𐝫"
             },
             {
                 "tags": [],
@@ -46680,6 +47192,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -46699,6 +47220,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -46888,6 +47418,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -46926,6 +47465,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -48403,49 +48951,31 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
+                    "lacuna at start",
                     "lacuna at end",
                     "number"
                 ],
                 "transliteratedWord": "20",
-                "word": "𐄑𐝫"
+                "word": "𐝫𐄑𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
+                    "lacuna at start",
                     "number"
                 ],
                 "transliteratedWord": "1",
-                "word": "𐄇"
+                "word": "𐝫𐄇"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -48457,6 +48987,11 @@ var wordAnnotations =
                 "word": "𐙁𐝫"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at start",
                     "number",
@@ -48464,6 +48999,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "¹⁄₃",
                 "word": "𐝫𐝁"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -48482,6 +49022,11 @@ var wordAnnotations =
                 "word": "𐝉𐝫"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
@@ -48497,6 +49042,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "2",
                 "word": "𐄈"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -49781,6 +50331,15 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "tags": [
                     "word separator"
                 ],
                 "transliteratedWord": "𐄁",
@@ -50169,7 +50728,7 @@ var wordAnnotations =
                     "number",
                     "fraction"
                 ],
-                "transliteratedWord": "𐝕𐝫",
+                "transliteratedWord": "³⁄₄",
                 "word": "𐝕𐝫"
             },
             {
@@ -50460,10 +51019,28 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "tags": [
                     "word separator"
                 ],
                 "transliteratedWord": "𐄁",
                 "word": "𐄁"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -50528,7 +51105,7 @@ var wordAnnotations =
                     "number",
                     "fraction"
                 ],
-                "transliteratedWord": "𐝆𐝉",
+                "transliteratedWord": "13/20",
                 "word": "𐝆𐝉"
             },
             {
@@ -51353,18 +51930,19 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "tags": [
                     "word separator"
                 ],
                 "transliteratedWord": "𐄁",
                 "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "word separator"
-                ],
-                "transliteratedWord": "𐝫𐄁",
-                "word": "𐝫𐄁"
             }
         ]
     },
@@ -53385,13 +53963,6 @@ var wordAnnotations =
     {
         "name": "KNWb51",
         "tagsForWords": [
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
             {
                 "tags": [
                     "word separator"
@@ -56560,12 +57131,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
                     "logogram",
                     "transaction sign"
                 ],
                 "transliteratedWord": "TA",
-                "word": "𐘳𐝫"
+                "word": "𐘳"
             },
             {
                 "tags": [],
@@ -56716,7 +57286,7 @@ var wordAnnotations =
                     "number",
                     "fraction"
                 ],
-                "transliteratedWord": "𐝕𐝫",
+                "transliteratedWord": "³⁄₄",
                 "word": "𐝕𐝫"
             },
             {
@@ -60631,11 +61201,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
-                    "word separator"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁𐝫",
-                "word": "𐄁𐝫"
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             }
         ]
     },
@@ -66251,11 +66822,10 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "number",
-                    "fraction"
+                    "word"
                 ],
-                "transliteratedWord": "𐝆𐝃𐝉𐝫",
-                "word": "𐝆𐝃𐝉𐝫"
+                "transliteratedWord": "𐝕𐝉𐝫",
+                "word": "𐝕𐝉𐝫"
             },
             {
                 "tags": [],
@@ -66526,6 +67096,15 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -66533,12 +67112,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "lacuna at end",
                     "logogram",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
-                "word": "𐝫𐙁𐝫"
+                "word": "𐝫𐙁"
             },
             {
                 "tags": [],
@@ -66580,6 +67158,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -66727,9 +67314,27 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -68055,6 +68660,15 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
             },
             {
                 "tags": [
