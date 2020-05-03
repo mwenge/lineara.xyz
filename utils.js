@@ -1,10 +1,11 @@
-
-function sendKey(event, keyValue) {
-  var e = new KeyboardEvent("keydown", {
-        bubbles : true,
-        key : keyValue,
-  });
-  document.dispatchEvent(e);
+function sendKey(keyValue) {
+  return function (event) {
+    var e = new KeyboardEvent("keydown", {
+          bubbles : true,
+          key : keyValue,
+    });
+    document.dispatchEvent(e);
+  }
 }
 
 function toggleColor(element) {
@@ -17,9 +18,9 @@ var cycleColor = (function () {
   var i = 0;
   return function () {
     i++;
-    red   = Math.round(Math.sin(frequency*i + 0) * 55 + 200);
-    green = Math.round(Math.sin(frequency*i + 2) * 55 + 200);
-    blue  = Math.round(Math.sin(frequency*i + 4) * 55 + 200);
+    var red   = Math.round(Math.sin(frequency*i + 0) * 55 + 200);
+    var green = Math.round(Math.sin(frequency*i + 2) * 55 + 200);
+    var blue  = Math.round(Math.sin(frequency*i + 4) * 55 + 200);
     return "rgba(" + red + ", " + green + ", " + blue + ", 0.5)";
   }
 })();

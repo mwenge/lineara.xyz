@@ -18,6 +18,7 @@ HT154e - an extra 𐄊 here?
 KH1 - missing a 1 on first line?
 KH5 - missing a 1 on third last line?
 KH6 - missing '1's?
+KNZe44 - missing second character
 ZA10b - extra character in second last line
 ZA21a - extra '2' last line
 PE1 - missing fraction third line
