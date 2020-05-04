@@ -29,3 +29,12 @@ function stripErased(word) {
   return word.replace(/\u{1076b}/gu, "");
 }
 
+function lettersWithImages(parsedInscription) {
+  var splitter = new GraphemeSplitter();
+  var letters = stripErased(parsedInscription);
+  letters = letters.replace(/\n/gu, "");
+  letters = letters.replace(/𐄁/gu, "");
+  return splitter.splitGraphemes(letters);
+}
+
+

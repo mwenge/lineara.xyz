@@ -709,6 +709,61 @@ function toggleTranslation(container) {
   Array.prototype.map.call(container.getElementsByClassName("transliteration-item"), x => x.style.display == "none" ? x.style.display = "block" : x.style.display = "none");
 }
 
+function getWordsAsImage(inscription, targetWord) {
+  var zip = (...rows) => [...rows[0]].map((_,c) => rows.map(row => row[c]));
+  var imagesToLoad = [];
+  imagesToLoad = imagesToLoad.concat(zip(inscription.images,
+                  Array(inscription.images.length).fill("photo")));
+  imagesToLoad = imagesToLoad.concat(zip(inscription.facsimileImages,
+                  Array(inscription.facsimileImages.length).fill("transcription")));
+
+  var concordanceItem = document.createElement("div");
+  concordanceItem.className = "concordance-item";
+  for (var imageInfo of imagesToLoad) {
+    var imgName = imageInfo[0];
+    var imgType = imageInfo[1];
+    if (!coordinates.has(imgName)) {
+      continue;
+    }
+
+
+    var imageCoords = coordinates.get(imgName);
+    var currentWord = 0;
+    var prevWord = -1;
+    var item = null;
+    var span = null;
+    var letters = lettersWithImages(inscription.parsedInscription);
+
+    var span = document.createElement("div");
+    span.className = "tip-display";
+    concordanceItem.appendChild(span);
+
+    for (var i = 0; i < imageCoords.length; i++) {
+      var area = imageCoords[i].coords;
+      currentWord = wordIndexForLetterIndex(inscription.name, i, currentWord);
+
+      if (currentWord != targetWord) {
+        continue;
+      }
+      if (currentWord > targetWord) {
+        break;
+      }
+
+      var canvas = document.createElement('canvas');
+      canvas.height = 40;
+      canvas.width = 40 * (area.width / area.height);
+      var ctx = canvas.getContext('2d', {alpha: false});
+      var img = document.getElementById("image-" + imgType + "-" + inscription.name);
+      if (!img) {
+        continue;
+      }
+      ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
+      span.appendChild(canvas);
+    }
+  }
+  return concordanceItem;
+}
+
 function addWordTip(word, name, index) {
   word = stripErased(word.trim());
   var wordCount = 0;
@@ -728,6 +783,24 @@ function addWordTip(word, name, index) {
 
   var wordCommentElement = document.createElement("div");
   wordCommentElement.className = "lexicon";
+  var wordDisplay = document.createElement("div");
+  wordDisplay.className = "tip-display";
+  wordDisplay.textContent = word;
+  wordCommentElement.appendChild(wordDisplay);
+  var wordDisplay = document.createElement("div");
+  wordDisplay.className = "tip-display";
+  wordDisplay.textContent = inscriptions.get(name).transliteratedWords[index];
+  wordCommentElement.appendChild(wordDisplay);
+
+  tip.appendChild(wordCommentElement);
+
+  var wordCommentElement = document.createElement("div");
+  wordCommentElement.className = "lexicon";
+  wordCommentElement.appendChild(getWordsAsImage(inscriptions.get(name), index));
+  tip.appendChild(wordCommentElement);
+
+  var wordCommentElement = document.createElement("div");
+  wordCommentElement.className = "lexicon";
   wordCommentElement.textContent = lexicon.get(word);
 
   if (lexicon.has(word)) {
@@ -742,6 +815,18 @@ function addWordTip(word, name, index) {
     wordCommentElement.textContent = 'Ligature: ' + word + ' = ' + ligatures.get(word).join(' + ');
     tip.appendChild(wordCommentElement);
   }
+
+  var wordCommentElement = document.createElement("div");
+  wordCommentElement.className = "lexicon";
+  wordCommentElement.textContent = "Tags: ";
+  var tagsForWord = inscriptions.get(name).wordTags[index];
+  tagsForWord.forEach(x => {
+    var tag = document.createElement("div");
+    tag.className = "tip-tag";
+    tag.textContent = x;
+    wordCommentElement.appendChild(tag);
+  });
+  tip.appendChild(wordCommentElement);
 
   var tipText = "";
   switch(wordCount) {
@@ -759,29 +844,12 @@ function addWordTip(word, name, index) {
   wordCommentElement.textContent = tipText;
   tip.appendChild(wordCommentElement);
 
-  var wordCommentElement = document.createElement("div");
-  wordCommentElement.className = "lexicon";
-  wordCommentElement.textContent = "Tags: ";
-  var tagsForWord = inscriptions.get(name).wordTags[index];
-  tagsForWord.forEach(x => {
-    var tag = document.createElement("div");
-    tag.className = "tip-tag";
-    tag.textContent = x;
-    wordCommentElement.appendChild(tag);
-  });
-  tip.appendChild(wordCommentElement);
-
-  var availableHeight = inscriptionElement.getBoundingClientRect().top;
+  var availableHeight = inscriptionElement.getBoundingClientRect().top
   if (availableHeight < tip.offsetHeight) {
-    tip.style.top = inscriptionElement.offsetHeight + "px";
+      tip.style.top = inscriptionElement.offsetHeight + "px";
   } else {
-    tip.style.top = "-" + tip.offsetHeight + "px";
+      tip.style.top = "-" + tip.offsetHeight + "px";
   }
-}
-
-function updateTipText(string) {
-  var tip = document.getElementById("tip");
-  tip.innerHTML = string;
 }
 
 function setHighlightLettersInTranscription(name, index, highlight) {
@@ -1061,9 +1129,7 @@ function applySearchTerms() {
 
     var tagsToAdd = [];
     activeTags.forEach( tag => {
-      console.log(tag, contexts.has(inscription.name) ? contexts.get(inscription.name) : "");
       if (hasTag(tag, inscription)) {
-        console.log(tag, inscription);
         shouldDisplay = true;
         tagsToAdd.push(tag);
       }

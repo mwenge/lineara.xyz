@@ -29,6 +29,9 @@ body {
 .concordance-canvas {
   height: left;
 }
+.lexicon {
+  margin-bottom: 2px;
+}
 .concordance-label {
   height: 40px;
   background-color: black;
@@ -322,8 +325,9 @@ dt, dd, font {
   border: 1px solid white;
   border-radius: 10px;
   padding: 3px;
-  opacity: 0.6;
+  opacity: 0.8;
   z-index: 100;
+  right: 0;
 }
 .tip {
   position: fixed;
@@ -538,16 +542,24 @@ dt, dd, font {
 area {
   cursor: pointer;
 }
-.tip-tag {
+.tip-display {
   padding: 3px;
   border: 1px solid white;
   border-radius: 3px;
-  color: white;
+  display: inline-block;
+  margin-left: 5px;
+}
+.tip-tag {
+  padding: 3px;
+  border: 1px solid black;
+  border-radius: 3px;
+  color: black;
   font-size: 0.7em;
   line-height: 0.7em;
-  background-color: black;
+  background-color: white;
   display: inline-block;
   text-transform: uppercase;
+  font-weight: bold;
 }
 .filter-tag {
   cursor: pointer;

@@ -148,14 +148,6 @@ function shouldIncludeWord(word, type, tagsForWord) {
   return false;
 }
 
-function lettersWithImages(parsedInscription) {
-  var splitter = new GraphemeSplitter();
-  var letters = stripErased(parsedInscription);
-  letters = letters.replace(/\n/gu, "");
-  letters = letters.replace(/𐄁/gu, "");
-  return splitter.splitGraphemes(letters);
-}
-
 function isNumber(character) {
   var unicode = character.codePointAt(0);
   if (unicode < 65792 || unicode > 65855) {
