@@ -38674,7 +38674,9 @@ var inscriptions = new Map([
     "facsimileImages": [],
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/KANZa1-Inscription.jpg"
+    ],
     "name": "KANZa1",
     "parsedInscription": "𐘇𐝫𐄁𐝫𐘚\n𐝫\n𐝫",
     "scribe": "",
@@ -48676,7 +48678,9 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb56",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/KNZb56-Facsimile.jpg"
+    ],
     "imageRights": "",
     "imageRightsURL": "",
     "images": [],
@@ -53328,10 +53332,14 @@ var inscriptions = new Map([
     ]
 }],
 ["PK3",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/PK3-Facsimile.jpg"
+    ],
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/PK3-Inscription.jpg"
+    ],
     "name": "PK3",
     "parsedInscription": "𐝫𐘿𐄉\n𐘱𐄑\n𐝫𐄒𐄇\n𐘀𐘙𐄖𐄈\n𐝫𐘠𐄈\n𐝫𐙂𐄉\n𐝫𐄉",
     "scribe": "",
@@ -54495,10 +54503,14 @@ var inscriptions = new Map([
     ]
 }],
 ["SEZf1",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/SEZf1-Facsimile.jpg"
+    ],
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/SEZf1-Inscription.jpg"
+    ],
     "name": "SEZf1",
     "parsedInscription": "𐘀𐙂",
     "scribe": "",
@@ -55496,7 +55508,9 @@ var inscriptions = new Map([
     ]
 }],
 ["TRYZb1",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/TRYZb1-Facsimile.jpg"
+    ],
     "imageRights": "",
     "imageRightsURL": "",
     "images": [],
@@ -59370,7 +59384,8 @@ var inscriptions = new Map([
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
-        "images/ARZf2-Inscription.jpg"
+        "images/ARZf2-Inscription.jpg",
+        "images/ARZf2b-Inscription.jpg"
     ],
     "name": "ARZf2",
     "parsedInscription": "𐘚𐘀𐙁𐘃𐝫",
