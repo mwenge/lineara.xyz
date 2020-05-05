@@ -144,6 +144,7 @@ function showSearch() {
   container.innerHTML = "";
 
   search.style.visibility = "visible";
+  search.value = '';
   search.focus();
   search.addEventListener("keyup", function(event) {
       if (event.keyCode === 13) {
