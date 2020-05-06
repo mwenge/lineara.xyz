@@ -38853,9 +38853,11 @@ var inscriptions = new Map([
 }],
 ["KEZb6",{
     "facsimileImages": [],
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": [],
+    "imageRights": "© John L Caskey",
+    "imageRightsURL": "https://www.degruyter.com/view/journals/kadm/9/2/article-p191.xml",
+    "images": [
+        "images/KEZb6-Inscription.jpg"
+    ],
     "name": "KEZb6",
     "parsedInscription": "𐝫𐘜𐝫",
     "scribe": "",
@@ -38873,9 +38875,11 @@ var inscriptions = new Map([
 }],
 ["KEZb7",{
     "facsimileImages": [],
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": [],
+    "imageRights": "© John L Caskey",
+    "imageRightsURL": "https://www.degruyter.com/view/journals/kadm/9/2/article-p191.xml",
+    "images": [
+        "images/KEZb7-Inscription.jpg"
+    ],
     "name": "KEZb7",
     "parsedInscription": "𐝫𐘢𐝫",
     "scribe": "",
