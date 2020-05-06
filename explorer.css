@@ -549,6 +549,10 @@ area {
   display: inline-block;
   margin-left: 5px;
 }
+.tip-image-display {
+  padding: 0;
+  max-height: 50px;
+}
 .tip-tag {
   padding: 3px;
   border: 1px solid black;
@@ -598,5 +602,6 @@ textarea:focus, input:focus{
 .word-highlight {
 }
 .letter-highlight {
+  opacity: 0.5;
   position: absolute;
 }

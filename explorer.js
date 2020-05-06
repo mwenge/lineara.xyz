@@ -736,7 +736,7 @@ function getWordsAsImage(inscription, targetWord) {
     var letters = lettersWithImages(inscription.parsedInscription);
 
     var span = document.createElement("div");
-    span.className = "tip-display";
+    span.className = "tip-display tip-image-display";
     concordanceItem.appendChild(span);
 
     for (var i = 0; i < imageCoords.length; i++) {
@@ -751,8 +751,8 @@ function getWordsAsImage(inscription, targetWord) {
       }
 
       var canvas = document.createElement('canvas');
-      canvas.height = 40;
-      canvas.width = 40 * (area.width / area.height);
+      canvas.height = 50;
+      canvas.width = 50 * (area.width / area.height);
       var ctx = canvas.getContext('2d', {alpha: false});
       var img = document.getElementById("image-" + imgType + "-" + inscription.name);
       if (!img) {
@@ -864,6 +864,7 @@ function setHighlightLettersInTranscription(name, index, highlight) {
     var elements = element.getElementsByClassName("letter-highlight");
     Array.from(elements).forEach( element => {
       element.style.backgroundColor = highlight;
+      element.style.border = highlight.length ? "0.5px solid black" : "none";
       highlightedElements.push(element);
     });
   }
