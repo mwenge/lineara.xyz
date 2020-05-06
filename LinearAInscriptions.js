@@ -53906,10 +53906,14 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZb?",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/PKZb?-Facsimile.jpg"
+    ],
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/PKZb?-Inscription.jpg"
+    ],
     "name": "PKZb?",
     "parsedInscription": "𐘇𐘰𐘆𐝫\n𐘙𐝁",
     "scribe": "",
@@ -54423,10 +54427,14 @@ var inscriptions = new Map([
     ]
 }],
 ["PYRZb5",{
-    "facsimileImages": [],
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": [],
+    "facsimileImages": [
+        "images/PYRZb5-Facsimile.jpg"
+    ],
+    "imageRights": "© Judith Weingarten & Doug Fulman",
+    "imageRightsURL": "https://bit.ly/3b2hrIF",
+    "images": [
+        "images/PYRZb5-Inscription.jpg"
+    ],
     "name": "PYRZb5",
     "parsedInscription": "𐝫𐘃𐘱𐝫",
     "scribe": "",
@@ -55366,7 +55374,9 @@ var inscriptions = new Map([
     ]
 }],
 ["TIZb1",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/TIZb1-Facsimile.jpg"
+    ],
     "imageRights": "",
     "imageRightsURL": "",
     "images": [],
@@ -55986,7 +55996,9 @@ var inscriptions = new Map([
     "facsimileImages": [],
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/TYWc5-Inscription.jpg"
+    ],
     "name": "TYWc5",
     "parsedInscription": "𐙂",
     "scribe": "",
@@ -60461,7 +60473,9 @@ var inscriptions = new Map([
     "facsimileImages": [],
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/FOZc1-Inscription.jpg"
+    ],
     "name": "FOZc1",
     "parsedInscription": "𐙚𐘳𐘧",
     "scribe": "",
