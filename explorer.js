@@ -34,14 +34,6 @@ result.addEventListener("animationend", function() { result.style.display = "non
 console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
 document.onkeydown = checkKey;
 function checkKey(e) {
-  var search = document.getElementById("search");
-  if (search == document.activeElement) {
-    if (e.key == "Escape") {
-      toggleColor(document.getElementById("search-command"));
-      showSearch();
-    }
-    return;
-  }
   if (e.defaultPrevented) {
     return; // Do nothing if the event was already processed
   }
@@ -58,7 +50,6 @@ function checkKey(e) {
       toggleColor(document.getElementById("help-command"));
       break;
     case "/": // '/' - focus search bar
-      toggleColor(document.getElementById("search-command"));
       showSearch();
       break;
     case "t": // 't' - toggle translation
@@ -85,6 +76,7 @@ function checkKey(e) {
       }
       break;
     case "Escape":
+      hideSearch();
       zoomItem(current);
       break;
     case "z": // 'z' - zoom
@@ -132,14 +124,16 @@ function checkKey(e) {
   e.preventDefault();
 }
 
-function showSearch() {
+function hideSearch() {
+  var element = (document.getElementById("search-command"));
+  element.style.backgroundColor = "black";
   var search = document.getElementById('search');
-  var isVisible = search.style.visibility == "visible";
-  if (isVisible) {
-    search.style.visibility = 'hidden';
-    return;
-  }
+  search.style.visibility = 'hidden';
 
+}
+function showSearch() {
+  var element = (document.getElementById("search-command"));
+  element.style.backgroundColor = "purple";
   var container = document.getElementById("filter-details-container");
   container.innerHTML = "";
 
