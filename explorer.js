@@ -864,7 +864,7 @@ function setHighlightLettersInTranscription(name, index, highlight) {
     var elements = element.getElementsByClassName("letter-highlight");
     Array.from(elements).forEach( element => {
       element.style.backgroundColor = highlight;
-      element.style.border = highlight.length ? "0.5px solid black" : "none";
+      element.style.border = highlight != "" ? "0.5px solid black" : "none";
       highlightedElements.push(element);
     });
   }

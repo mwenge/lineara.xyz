@@ -48805,10 +48805,14 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZd46",{
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/KNZd46-Facsimile.jpg"
+    ],
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/KNZd46-Inscription.jpg"
+    ],
     "name": "KNZd46",
     "parsedInscription": "𐝫𐘫𐝫",
     "scribe": "",
