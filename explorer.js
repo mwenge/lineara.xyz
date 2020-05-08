@@ -292,6 +292,7 @@ var highlightedSearchElements = [];
 function clearHighlights() {
   for (var index in highlightedSearchElements) {
     highlightedSearchElements[index].style.backgroundColor = "";
+    highlightedSearchElements[index].style.border = "none";
   }
   highlightedSearchElements = [];
 }
@@ -902,6 +903,129 @@ function clearHighlight(name, index) {
   }
 }
 
+function hideWordChart() {
+  var wordChart = document.getElementById("word-chart");
+  if (!wordChart) {
+    return;
+  }
+  wordChart.style.visibility = "hidden";
+}
+
+function showWordChart(searchTerm, item) {
+  var wordChart = document.getElementById("word-chart");
+  if (!wordChart) {
+    wordChart = document.createElement("div");
+    wordChart.className = 'word-tip';
+    wordChart.id = 'word-chart';
+    document.body.appendChild(wordChart);
+  }
+
+  return function(e) {
+    wordChart.innerHTML = "";
+
+    var wordCommentElement = document.createElement("div");
+    wordCommentElement.className = "lexicon";
+    var wordDisplay = document.createElement("div");
+    wordDisplay.className = "tip-display";
+    wordDisplay.textContent = searchTerm;
+    wordCommentElement.appendChild(wordDisplay);
+    var transliteratedWordDisplay = document.createElement("div");
+    transliteratedWordDisplay.className = "tip-display";
+    transliteratedWordDisplay.textContent = "";
+    wordCommentElement.appendChild(transliteratedWordDisplay);
+
+    wordChart.appendChild(wordCommentElement);
+
+    var wordCommentElement = document.createElement("div");
+    wordCommentElement.className = "lexicon";
+    wordCommentElement.textContent = lexicon.get(searchTerm);
+
+    if (lexicon.has(searchTerm)) {
+      var wordCommentElement = document.createElement("div");
+      wordCommentElement.className = "lexicon";
+      wordCommentElement.textContent = lexicon.get(searchTerm);
+      wordChart.appendChild(wordCommentElement);
+    }
+    if (ligatures.has(searchTerm)) {
+      var wordCommentElement = document.createElement("div");
+      wordCommentElement.className = "lexicon";
+      wordCommentElement.textContent = 'Ligature: ' + searchTerm + ' = ' + ligatures.get(searchTerm).join(' + ');
+      wordChart.appendChild(wordCommentElement);
+    }
+
+    var wordImages = document.createElement("div");
+    wordImages.className = "lexicon";
+    wordChart.appendChild(wordImages);
+
+    var tagList = document.createElement("div");
+    tagList.className = "lexicon";
+    tagList.textContent = "Tags: ";
+    wordChart.appendChild(tagList);
+
+    var tipText = "";
+    var wordCount = 0;
+    if (wordsInCorpus.has(searchTerm)) {
+      wordCount = wordsInCorpus.get(searchTerm);
+    }
+    switch(wordCount) {
+      case 0:
+        tipText = ""
+        break;
+      case 1:
+        tipText = wordCount + " instances of this word."
+        break;
+      default:
+        tipText = wordCount + " instances of this word."
+    }
+    var wordCommentElement = document.createElement("span");
+    wordCommentElement.className = "tip-text";
+    wordCommentElement.textContent = tipText;
+    wordChart.appendChild(wordCommentElement);
+
+    var tagsAdded = [];
+    for (var inscription of inscriptions.values()) {
+      if (!inscription.element) {
+        continue;
+      }
+      if (inscription.element.style.visibility == "hidden") {
+        continue;
+      }
+      for (var i = 0; i < inscription.words.length; i++) {
+        var word = stripErased(inscription.words[i]);
+        if (word != searchTerm) {
+          continue;
+        }
+        if (transliteratedWordDisplay.textContent == "") {
+          transliteratedWordDisplay.textContent = inscription.transliteratedWords[i];
+        }
+        var wordContainer = document.createElement("div");
+        wordContainer.className = "tip-tag";
+        wordContainer.appendChild(getWordsAsImage(inscription, i));
+        var tag = document.createElement("div");
+        tag.className = "word-image-label";
+        tag.textContent = inscription.name;
+        wordContainer.appendChild(tag);
+        wordImages.appendChild(wordContainer);
+
+        var tagsForWord = inscription.wordTags[i];
+        for (var x of tagsForWord) {
+          if (tagsAdded.includes(x)) {
+            continue;
+          }
+          var tag = document.createElement("div");
+          tag.className = "tip-tag";
+          tag.textContent = x;
+          tagList.appendChild(tag);
+          tagsAdded.push(x);
+        }
+      }
+    }
+    wordChart.style.top = item.getBoundingClientRect().top + "px";
+    wordChart.style.right = document.getElementById("top-right-console").clientWidth + "px";
+    wordChart.style.visibility = "visible";
+  }
+}
+
 function updateSearchTerms(searchTerm) {
   return function(evt) {
     if (!searchTerm.length) {
@@ -919,6 +1043,8 @@ function updateSearchTerms(searchTerm) {
     item.id = "search-for-" + searchTerm;
     item.setAttribute("term", searchTerm);
     item.addEventListener("click", removeFilter);
+    item.addEventListener("mouseover", showWordChart(searchTerm, item));
+    item.addEventListener("mouseout", hideWordChart);
 
     var color = cycleColor();
     item.style.backgroundColor = color;
@@ -1169,6 +1295,7 @@ function applySearchTerms() {
 
 function removeFilter(evt) {
   evt.target.parentElement.removeChild(evt.target);
+  hideWordChart();
   applySearchTerms();
 }
 

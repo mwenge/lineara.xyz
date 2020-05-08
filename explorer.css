@@ -553,6 +553,18 @@ area {
   padding: 0;
   max-height: 50px;
 }
+.word-image-label {
+  padding: 3px;
+  border: 1px solid white;
+  border-radius: 3px;
+  color: white;
+  font-size: 1em;
+  line-height: 1em;
+  background-color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+  opacity: 1;
+}
 .tip-tag {
   padding: 3px;
   border: 1px solid black;
@@ -604,4 +616,8 @@ textarea:focus, input:focus{
 .letter-highlight {
   opacity: 0.5;
   position: absolute;
+}
+#word-chart {
+  position: fixed;
+  max-width: 50%;
 }
