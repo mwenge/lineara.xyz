@@ -124,6 +124,7 @@ function checkKey(e) {
       container.innerHTML = "";
       clearTags();
       applySearchTerms();
+      document.getElementById("clear-command").style.backgroundColor = "black";
       break;
     default:
       return;
@@ -1232,6 +1233,8 @@ function hasTag(tag, inscription) {
 }
 
 function applySearchTerms() {
+  document.getElementById("clear-command").style.backgroundColor = "purple";
+
   var searchTerms = document.getElementById("search-terms");
   var numberOfSearchTerms = searchTerms.children.length;
   var searchTermValues = Array.prototype.slice.call(searchTerms.children)
@@ -1276,6 +1279,7 @@ function applySearchTerms() {
       }
       continue;
     }
+
     var newElement = loadInscription(inscription);
     observer.observe(inscription.element);
     if (!newElement) {
@@ -1582,6 +1586,7 @@ function loadExplorer() {
 
   document.getElementById("search-command").addEventListener("click", sendKey('/'));
   document.getElementById("help-command").addEventListener("click", sendKey('?'));
+  document.getElementById("clear-command").addEventListener("click", sendKey('c'));
 
   for (var i = 0; i < 10; i++) {
     var key = inscriptionsToLoad.next().value;
