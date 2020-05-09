@@ -34,6 +34,14 @@ result.addEventListener("animationend", function() { result.style.display = "non
 console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
 document.onkeydown = checkKey;
 function checkKey(e) {
+  var search = document.getElementById("search");
+  // Keystrokes in search box needed to be ignored.
+  if (search == document.activeElement) {
+    if (e.key == "Escape") {
+      hideSearch();
+    }
+    return;
+  }
   if (e.defaultPrevented) {
     return; // Do nothing if the event was already processed
   }
