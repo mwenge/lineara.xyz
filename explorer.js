@@ -133,6 +133,13 @@ function checkKey(e) {
   e.preventDefault();
 }
 
+function toggleSearch() {
+  if (search.style.visibility == "visible") {
+    hideSearch();
+    return;
+  }
+  showSearch();
+}
 function hideSearch() {
   var element = (document.getElementById("search-command"));
   element.style.backgroundColor = "black";
@@ -1584,7 +1591,7 @@ function loadExplorer() {
     consoleButtons.set(name, new consoleButton(vals[0], vals[1], name));
   });
 
-  document.getElementById("search-command").addEventListener("click", sendKey('/'));
+  document.getElementById("search-command").addEventListener("click", toggleSearch);
   document.getElementById("help-command").addEventListener("click", sendKey('?'));
   document.getElementById("clear-command").addEventListener("click", sendKey('c'));
 
