@@ -6,6 +6,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "QE-RA2-U",
@@ -28,6 +29,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -89,6 +91,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-PA3-NU",
@@ -129,6 +132,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -144,7 +148,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋"
@@ -166,6 +172,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+A",
@@ -185,7 +193,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "OLE+E",
                 "word": "𐜎"
@@ -207,6 +216,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RE-TA-NA",
@@ -214,7 +224,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋"
@@ -236,6 +248,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+A",
@@ -284,6 +298,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
@@ -298,7 +313,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DI-NA",
                 "word": "𐝫𐘆𐘅𐝫"
@@ -344,7 +360,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐘆"
@@ -378,6 +396,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MU-RU",
@@ -398,7 +417,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RU",
                 "word": "𐘘𐝫"
@@ -433,7 +453,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐘆𐝫"
@@ -446,7 +468,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU-PA3-NU",
                 "word": "𐝫𐙂𐘰𐘯"
@@ -468,7 +491,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word also in linear b",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "MA-DI",
                 "word": "𐝫𐙁𐘆"
@@ -489,7 +513,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀𐝫"
@@ -603,6 +628,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*307",
@@ -688,6 +714,7 @@ var wordAnnotations =
                     "transaction term",
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -724,6 +751,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -740,6 +768,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -870,6 +900,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "DA-QE-RA",
@@ -919,6 +950,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -947,6 +980,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word"
                 ],
@@ -1065,6 +1099,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -1086,6 +1121,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -1130,6 +1166,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -1183,6 +1220,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA-NA-TI",
@@ -1203,6 +1241,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
@@ -1223,6 +1262,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TE-TU",
@@ -1243,6 +1283,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -1285,6 +1326,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -1294,6 +1336,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -1344,6 +1387,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA",
@@ -1372,6 +1416,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TE-*301",
@@ -1392,6 +1437,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA-*310-I",
@@ -1435,6 +1481,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -1522,6 +1569,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA-*310-I",
@@ -1552,6 +1600,7 @@ var wordAnnotations =
                     "transaction term",
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -1574,6 +1623,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA-JA-RE",
@@ -1602,6 +1652,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*86+'*188'",
@@ -1636,6 +1687,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "SA-RO",
@@ -1652,6 +1704,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -1668,6 +1721,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -1688,7 +1742,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word also in linear b",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "PA-DE",
                 "word": "𐘂𐘦"
@@ -1724,6 +1779,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306-TU",
@@ -1744,6 +1800,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -1765,6 +1822,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QE-PU",
@@ -1785,6 +1843,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*324-DI-RA",
@@ -1813,6 +1872,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -1842,6 +1902,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "A-RU",
@@ -1872,6 +1933,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -1902,6 +1964,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "PA3",
@@ -1967,6 +2030,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA-DE",
@@ -2007,6 +2071,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306-TU",
@@ -2027,6 +2092,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*324-DI-RA",
@@ -2047,6 +2113,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QE-PU",
@@ -2067,6 +2134,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -2088,6 +2156,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -2110,6 +2179,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -2132,6 +2202,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "KU-NI-SU",
@@ -2152,6 +2223,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -2180,7 +2252,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂"
@@ -2200,6 +2273,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
@@ -2228,6 +2302,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "U-*325-ZA",
@@ -2249,6 +2325,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*301",
@@ -2268,7 +2345,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "U-*325-ZA",
                 "word": "𐘉𐙱𐘍"
@@ -2317,6 +2396,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-RI-DA",
@@ -2337,6 +2417,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "ME-ZA",
@@ -2378,6 +2459,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
@@ -2466,6 +2548,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA-NA-TI",
@@ -2565,6 +2648,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -2606,6 +2690,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+[?]-I",
@@ -2626,6 +2711,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA2",
@@ -2692,6 +2778,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -2714,6 +2802,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -2743,6 +2833,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -2779,6 +2871,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -2801,6 +2895,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -2837,6 +2932,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -2858,6 +2954,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -2892,6 +2989,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -2912,6 +3010,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "E",
@@ -2931,7 +3030,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*560",
                 "word": "𐛢"
@@ -2947,6 +3047,7 @@ var wordAnnotations =
                 "tags": [
                     "weight",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*118",
@@ -2967,6 +3068,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+E",
@@ -2988,6 +3090,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -3030,6 +3133,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-I",
@@ -3059,6 +3163,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -3075,6 +3180,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -3094,7 +3200,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE-ZA",
                 "word": "𐘙𐘍"
@@ -3124,6 +3231,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TE-TU",
@@ -3144,6 +3252,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TE-KI",
@@ -3173,6 +3282,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-*79-NI",
@@ -3193,6 +3303,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-SI-*118",
@@ -3234,6 +3345,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -3263,6 +3375,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "PU-VIN",
@@ -3279,6 +3392,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -3295,6 +3409,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -3316,6 +3432,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -3336,6 +3454,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -3357,6 +3477,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -3378,6 +3500,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -3406,6 +3530,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -3427,6 +3553,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -3447,6 +3575,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -3468,6 +3598,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -3489,6 +3621,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -3509,6 +3643,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -3519,6 +3654,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -3573,6 +3709,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*188",
@@ -3590,6 +3727,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -3625,6 +3763,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -3646,6 +3785,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -3676,6 +3816,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -3698,6 +3839,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*188+KU",
@@ -3726,6 +3868,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "ZE",
@@ -3763,6 +3906,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -3779,6 +3923,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -3800,6 +3945,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -3821,6 +3967,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SI-DA-RE",
@@ -3841,6 +3988,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "PA-SE",
@@ -3849,6 +3997,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+QE",
@@ -3869,6 +4018,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -3891,6 +4041,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -3912,6 +4063,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -3921,6 +4073,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -3943,6 +4096,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -3979,6 +4133,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -3995,6 +4150,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -4016,6 +4172,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -4130,6 +4287,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -4152,6 +4310,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -4195,6 +4354,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -4218,6 +4378,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*188+KU",
@@ -4255,6 +4416,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -4271,6 +4433,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -4292,6 +4455,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -4312,6 +4476,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+E",
@@ -4341,6 +4506,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -4370,6 +4536,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -4465,6 +4632,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "KA-NA",
@@ -4481,6 +4649,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -4502,6 +4671,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -4523,6 +4693,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+NE",
@@ -4544,6 +4715,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+TU",
@@ -4565,6 +4737,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+RI",
@@ -4586,6 +4759,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -4608,6 +4782,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -4629,6 +4804,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
@@ -4649,6 +4825,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
@@ -4669,6 +4846,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "E",
@@ -4781,6 +4959,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -4804,6 +4983,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -4824,7 +5004,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "MI+JA+RU",
                 "word": "𐛚"
@@ -4840,6 +5021,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MU",
@@ -4853,7 +5035,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
                 "word": "𐚻𐝫"
@@ -4866,6 +5049,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
@@ -4899,7 +5083,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "E",
                 "word": "𐘡"
@@ -4969,6 +5154,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "MA-RU-ME",
@@ -5010,6 +5197,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "MA-RU-ME",
@@ -5043,7 +5232,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "MA-RU-ME",
                 "word": "𐙁𐘘𐘋𐝫"
@@ -5058,7 +5249,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*560",
                 "word": "𐛢𐝫"
@@ -5073,6 +5265,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "weight",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*118",
@@ -5177,6 +5370,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "DI-NA-U",
@@ -5231,6 +5426,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -5252,6 +5449,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "A-RI-NI-TA",
@@ -5341,6 +5539,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA",
@@ -5390,6 +5589,8 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -5424,7 +5625,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-TI",
                 "word": "𐘚𐘠"
@@ -5432,6 +5634,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -5453,6 +5657,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -5475,6 +5681,8 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -5496,6 +5704,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "*406VAS+KE",
@@ -5535,6 +5744,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA-TI",
@@ -5616,6 +5826,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*406VAS+KE",
@@ -5631,6 +5842,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -5693,6 +5905,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI+MU",
@@ -5783,6 +5996,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*307",
@@ -5803,6 +6017,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -5838,6 +6054,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*86",
@@ -5859,6 +6076,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -5901,6 +6119,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QE",
@@ -5983,6 +6202,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6005,6 +6226,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6027,6 +6249,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -6055,6 +6278,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -6084,6 +6308,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6136,6 +6361,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6159,6 +6386,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -6175,6 +6404,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -6192,6 +6423,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6214,6 +6447,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -6235,6 +6470,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -6250,6 +6487,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -6284,6 +6522,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA-SE",
@@ -6315,6 +6554,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6337,6 +6578,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -6359,6 +6602,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -6376,6 +6621,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -6393,6 +6640,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6415,7 +6664,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "RE",
                 "word": "𐘙𐝫"
@@ -6435,6 +6686,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -6455,7 +6707,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "JA-*21F",
                 "word": "𐘱𐘐"
@@ -6470,6 +6723,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+QE",
@@ -6490,6 +6744,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -6510,6 +6765,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6532,6 +6788,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -6552,6 +6809,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+TU",
@@ -6574,6 +6832,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -6582,6 +6841,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -6603,6 +6864,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -6624,6 +6886,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6673,6 +6936,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6695,6 +6959,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -6715,6 +6980,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -6743,6 +7010,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -6763,6 +7032,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -6779,7 +7049,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction term",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "U-MI-NA-SI",
                 "word": "𐘉𐘻𐘅𐘤"
@@ -6800,6 +7071,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -6809,6 +7081,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6830,6 +7103,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -6851,6 +7126,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -6872,6 +7149,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6892,7 +7171,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "PU-RA2",
                 "word": "𐘫𐘽"
@@ -6901,6 +7181,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -6920,7 +7202,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "JA-*21F",
                 "word": "𐘱𐘐"
@@ -6929,6 +7212,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -6957,6 +7242,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -6978,6 +7265,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -7013,6 +7302,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "RU-MA-TA",
@@ -7053,7 +7343,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA-JA-RE",
                 "word": "𐘂𐘱𐘙"
@@ -7183,6 +7474,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -7206,6 +7498,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -7215,7 +7508,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗𐝫"
@@ -7250,6 +7545,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -7281,6 +7578,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -7310,6 +7609,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+TA",
@@ -7332,6 +7633,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -7377,6 +7679,8 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -7400,6 +7704,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RO",
@@ -7416,6 +7721,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -7437,6 +7744,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -7460,6 +7769,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -7483,6 +7794,8 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*23M",
@@ -7520,6 +7833,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+TA",
@@ -7794,6 +8109,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "*307",
@@ -7808,6 +8124,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -7823,6 +8140,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -7844,6 +8162,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+NE",
@@ -7865,6 +8185,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -7893,6 +8214,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
@@ -7913,6 +8235,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -7961,6 +8284,8 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -7981,7 +8306,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLE+NE",
                 "word": "𐜍𐝫"
@@ -7996,6 +8323,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -8017,6 +8345,8 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -8038,6 +8368,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -8052,7 +8383,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*401+*304",
                 "word": "𐜫"
@@ -8065,6 +8397,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
@@ -8093,7 +8426,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
                 "word": "𐚹"
@@ -8128,6 +8462,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "E+KA",
@@ -8149,6 +8484,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI+JA+KA",
@@ -8173,6 +8509,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -8269,6 +8606,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -8284,7 +8622,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "MI+JA+KA",
                 "word": "𐛜𐝫"
@@ -8324,7 +8663,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "E",
                 "word": "𐘡"
@@ -8340,6 +8680,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -8390,6 +8731,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -8411,6 +8753,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
@@ -8433,6 +8776,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -8475,6 +8819,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -8498,6 +8843,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -8519,6 +8865,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "E+KA",
@@ -8540,6 +8887,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -8562,6 +8910,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "TI-TI-KU",
@@ -8578,6 +8927,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*326",
@@ -8606,6 +8956,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -8626,6 +8977,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -8647,6 +8999,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+RI",
@@ -8668,6 +9021,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -8689,7 +9043,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+TA",
                 "word": "𐜐𐝫"
@@ -8702,6 +9057,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "E",
@@ -8722,6 +9078,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -8744,6 +9101,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -8768,6 +9126,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -8859,6 +9218,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "MI+JA+I",
@@ -8878,7 +9238,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "KA-KI",
                 "word": "𐘾𐘸"
@@ -8900,7 +9262,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SU",
                 "word": "𐘲𐝫"
@@ -8990,6 +9353,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RO",
@@ -9010,6 +9374,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KA-KI",
@@ -9029,6 +9395,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -9058,6 +9425,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QE",
@@ -9134,6 +9502,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -9156,6 +9525,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "CAP",
@@ -9236,6 +9606,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "TA-I-AROM",
@@ -9258,6 +9629,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-RE-JU",
@@ -9279,7 +9651,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -9313,7 +9686,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "KU-RE",
                 "word": "𐙂𐘙𐝫"
@@ -9328,6 +9702,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -9420,6 +9795,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -9436,6 +9812,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -9473,6 +9851,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -9495,6 +9875,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -9509,7 +9890,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -9586,6 +9968,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*305",
@@ -9602,6 +9985,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -9622,7 +10007,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE",
                 "word": "𐘙"
@@ -9638,6 +10024,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -9740,7 +10128,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐝫𐘳"
@@ -9754,7 +10143,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SI+SE",
                 "word": "𐛉"
@@ -9770,6 +10160,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -9785,6 +10176,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -9805,7 +10198,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋"
@@ -9826,6 +10221,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RO",
@@ -9834,6 +10230,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -9854,7 +10252,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋"
@@ -9889,7 +10289,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -9900,6 +10301,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -9927,6 +10329,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -9968,6 +10371,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -9990,7 +10395,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋𐝫"
@@ -10031,7 +10438,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -10045,7 +10453,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -10066,6 +10475,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "I-QA-*118",
@@ -10083,6 +10493,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -10116,7 +10527,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋"
@@ -10157,7 +10569,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐙋"
@@ -10180,6 +10593,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -10202,6 +10616,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -10229,7 +10644,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐝫𐘱"
@@ -10271,7 +10687,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝𐝫"
@@ -10286,6 +10703,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -10376,7 +10794,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂𐝫"
@@ -10390,7 +10809,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86",
                 "word": "𐝫𐙅"
@@ -10406,6 +10826,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*305",
@@ -10428,7 +10850,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*318",
                 "word": "𐝫𐙪"
@@ -10444,6 +10867,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -10511,6 +10936,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
@@ -10534,6 +10961,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -10568,7 +10997,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*318",
                 "word": "𐙪"
@@ -10584,6 +11014,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -10605,6 +11036,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
@@ -10627,7 +11060,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂𐝫"
@@ -10642,6 +11076,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -10679,6 +11114,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -10702,6 +11139,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -10738,7 +11177,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "MU-RU",
                 "word": "𐝫𐘕𐘘"
@@ -10761,6 +11201,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -10854,6 +11295,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -10882,7 +11324,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "KU-PA3-NA-TU",
                 "word": "𐙂𐘰𐘅𐘹"
@@ -10903,7 +11346,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DU",
                 "word": "𐝫𐘬"
@@ -10923,7 +11367,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end"
+                    "lacuna at end",
+                    "More than one location"
                 ],
                 "transliteratedWord": "U",
                 "word": "𐘉𐝫"
@@ -10937,6 +11382,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PI",
@@ -10958,7 +11404,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word also in linear b",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "KI-DA-RO",
                 "word": "𐘸𐘀𐘁𐝫"
@@ -11060,7 +11507,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "TA-NA-TI",
                 "word": "𐝫𐘳𐘅𐘠"
@@ -11213,6 +11661,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "A-RU",
@@ -11233,6 +11682,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*370",
@@ -11253,6 +11703,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*312",
@@ -11273,6 +11724,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-PA3-NU",
@@ -11314,6 +11766,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -11368,6 +11822,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TU",
@@ -11388,7 +11843,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐘸"
@@ -11439,7 +11896,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐝫𐙂𐝫"
@@ -11462,7 +11920,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐝫𐘳"
@@ -11504,6 +11963,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -11560,6 +12020,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -11588,6 +12049,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -11610,7 +12072,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗"
@@ -11636,6 +12099,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+E",
@@ -11658,6 +12122,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -11689,6 +12154,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -11709,6 +12175,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*OLIV+TU",
@@ -11758,6 +12225,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -11785,7 +12253,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "OLE+DI",
                 "word": "𐝫𐜉"
@@ -11819,7 +12288,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝"
@@ -11835,6 +12305,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -11856,6 +12327,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
@@ -11870,6 +12342,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SE",
@@ -11905,7 +12378,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE",
                 "word": "𐝫𐘙𐝫"
@@ -11954,6 +12428,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*79-DU",
@@ -11976,6 +12451,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -12017,6 +12493,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "SA-MA",
@@ -12033,6 +12510,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -12108,6 +12586,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "NE",
@@ -12124,6 +12603,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -12231,6 +12711,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -12257,7 +12738,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RA",
                 "word": "𐘴𐝫"
@@ -12341,7 +12823,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "KU-RE",
                 "word": "𐝫𐙂𐘙𐝫"
@@ -12398,6 +12881,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-MI-NA-QE",
@@ -12467,7 +12951,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐘸𐝫"
@@ -12511,6 +12996,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RO",
@@ -12553,6 +13039,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*301",
@@ -12573,6 +13060,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SI-RU",
@@ -12594,6 +13082,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "NE",
@@ -12608,7 +13097,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TU",
                 "word": "𐝫𐘹"
@@ -12659,6 +13149,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -12680,7 +13171,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "QE",
                 "word": "𐘿𐝫"
@@ -12714,7 +13206,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚𐝫"
@@ -12756,6 +13249,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -12780,6 +13274,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA",
@@ -12813,7 +13308,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end"
+                    "lacuna at end",
+                    "More than one location"
                 ],
                 "transliteratedWord": "U",
                 "word": "𐘉𐝫"
@@ -12840,6 +13336,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -12902,6 +13399,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -12929,6 +13427,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -12973,6 +13472,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -13038,6 +13538,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -13051,6 +13552,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -13071,7 +13573,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗𐝫"
@@ -13085,6 +13588,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+E",
@@ -13106,6 +13610,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -13169,6 +13674,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+RI",
@@ -13217,6 +13723,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -13260,7 +13767,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "QA2+[?]+RE",
                 "word": "𐚹𐝫"
@@ -13273,7 +13781,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
                 "word": "𐝫𐚻"
@@ -13325,6 +13834,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA+KU",
@@ -13346,7 +13856,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SA-RA",
                 "word": "𐝫𐘞𐘴"
@@ -13362,6 +13873,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -13379,6 +13891,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -13399,7 +13912,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅"
@@ -13408,6 +13922,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -13500,7 +14015,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐘆𐝫"
@@ -13537,6 +14053,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -13552,6 +14069,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -13586,7 +14104,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NU",
                 "word": "𐝫𐘯"
@@ -13637,7 +14156,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐝫𐙂𐝫"
@@ -13752,6 +14272,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "*305",
@@ -13768,6 +14289,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -13824,6 +14346,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -13902,6 +14425,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NA",
@@ -13949,6 +14473,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -14032,6 +14557,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "*79",
@@ -14047,6 +14573,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -14069,6 +14596,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -14090,7 +14618,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳𐝫"
@@ -14119,6 +14648,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -14183,6 +14713,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -14205,7 +14736,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐝫𐘝"
@@ -14221,6 +14753,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -14250,7 +14783,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JU",
                 "word": "𐝫𐘶"
@@ -14266,6 +14800,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -14334,7 +14869,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐘆"
@@ -14356,7 +14893,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word also in linear b",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "MA-DI",
                 "word": "𐝫𐙁𐘆"
@@ -14378,7 +14916,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐝫𐘆"
@@ -14414,7 +14954,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐝫𐘝"
@@ -14430,6 +14971,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -14482,7 +15024,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐝫𐘚"
@@ -14610,6 +15153,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -14646,6 +15190,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -14752,7 +15297,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐝫𐘚"
@@ -14769,6 +15315,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*305",
@@ -14784,6 +15331,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -14840,7 +15388,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TU",
                 "word": "𐝫𐘹𐝫"
@@ -14883,6 +15432,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -14974,6 +15524,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -14989,7 +15540,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "MI+JA+RU",
                 "word": "𐛚"
@@ -15019,6 +15571,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RI-SU-MA",
@@ -15041,7 +15594,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐘸𐝫"
@@ -15104,6 +15658,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*304+[ ]",
@@ -15155,7 +15710,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NU-TI",
                 "word": "𐝫𐘯𐘠"
@@ -15171,6 +15727,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -15213,6 +15770,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -15228,7 +15786,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*307+*387",
                 "word": "𐜠"
@@ -15243,6 +15802,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -15263,6 +15823,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-RI-DA",
@@ -15283,6 +15844,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA3-NI",
@@ -15303,6 +15865,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "U-*325-ZA",
@@ -15323,6 +15886,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-SI-*118",
@@ -15344,6 +15908,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-*79-NI",
@@ -15385,6 +15950,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
@@ -15407,6 +15973,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -15448,6 +16015,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -15469,6 +16037,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QE-KA",
@@ -15490,6 +16059,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA",
@@ -15510,7 +16080,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "TE-TU",
                 "word": "𐘃𐘹𐝫"
@@ -15531,6 +16102,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -15553,6 +16125,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -15573,6 +16146,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "ME-ZA",
@@ -15613,6 +16187,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -15635,6 +16210,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MA-DI",
@@ -15655,6 +16231,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA-*310-I",
@@ -15675,6 +16252,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -15697,6 +16275,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-NI-SU",
@@ -15705,6 +16284,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*584",
@@ -15725,6 +16305,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SA-RU",
@@ -15745,6 +16326,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI-DE-RU",
@@ -15798,6 +16380,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-DU",
@@ -15817,7 +16400,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DA-ME",
                 "word": "𐘀𐘋"
@@ -15825,6 +16409,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*580",
@@ -15845,6 +16430,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -15866,6 +16452,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -15888,6 +16475,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-NI-SU",
@@ -15896,6 +16484,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*584",
@@ -15916,6 +16505,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SA-RU",
@@ -15948,6 +16538,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -15964,6 +16555,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA-KA-RI-TE",
@@ -16024,6 +16616,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI-KI-SE",
@@ -16084,7 +16677,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-RA",
                 "word": "𐘇𐘴𐝫"
@@ -16121,6 +16715,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -16130,6 +16725,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -16150,6 +16746,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE-ZA",
@@ -16170,7 +16767,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝"
@@ -16207,6 +16805,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RO",
@@ -16267,6 +16866,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-PA3-NU",
@@ -16287,6 +16887,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA-JA-RE",
@@ -16348,6 +16949,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -16385,6 +16987,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*307",
@@ -16401,6 +17004,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -16462,6 +17066,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313a",
@@ -16504,6 +17109,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -16526,6 +17132,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -16555,6 +17162,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -16585,6 +17193,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -16620,6 +17229,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -16629,6 +17239,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -16651,6 +17263,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -16671,6 +17285,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -16699,6 +17314,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -16721,6 +17338,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -16741,6 +17360,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -16762,6 +17382,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -16782,6 +17403,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "I-KA",
@@ -16798,6 +17420,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*326",
@@ -16814,6 +17437,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -16838,6 +17462,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -16866,6 +17491,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -16888,6 +17514,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -16909,6 +17536,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -16931,6 +17560,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -16953,6 +17583,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -16975,6 +17606,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -16997,6 +17629,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "E",
@@ -17016,7 +17650,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TE-RI",
                 "word": "𐘃𐘭"
@@ -17031,6 +17666,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -17051,7 +17688,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "E",
                 "word": "𐘡"
@@ -17087,6 +17726,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "TE",
@@ -17108,6 +17748,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-DU",
@@ -17124,6 +17765,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -17146,6 +17788,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -17166,6 +17809,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "head word"
                 ],
                 "transliteratedWord": "PA3-NI-NA",
@@ -17214,7 +17859,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DI-RI-NA",
                 "word": "𐘆𐘭𐘅"
@@ -17285,6 +17931,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-SE",
@@ -17300,6 +17947,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "I-GRA+PA",
@@ -17329,6 +17978,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -17349,7 +17999,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "QA-QA-RU",
                 "word": "𐘌𐘌𐘘"
@@ -17364,6 +18015,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "I-GRA+PA",
@@ -17384,6 +18037,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+[?]-I",
@@ -17459,7 +18113,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DA-RI-DA",
                 "word": "𐘀𐘭𐘀"
@@ -17508,6 +18163,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA3-NI-NA",
@@ -17522,6 +18179,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -17543,6 +18201,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -17575,6 +18234,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -17620,6 +18280,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RO",
@@ -17635,6 +18296,7 @@ var wordAnnotations =
                     "transaction term",
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -17644,6 +18306,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -17666,6 +18329,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*86",
@@ -17686,6 +18350,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TI+A",
@@ -17706,6 +18371,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313b",
@@ -17727,6 +18393,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA",
@@ -17748,6 +18415,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -17770,6 +18438,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -17779,6 +18448,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -17800,6 +18471,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -17862,6 +18535,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -17883,6 +18558,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -17925,6 +18602,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -17950,6 +18629,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "KI-RO",
@@ -17990,6 +18670,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -18051,6 +18732,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SA-RU",
@@ -18072,6 +18754,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -18093,7 +18776,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86",
                 "word": "𐙅"
@@ -18113,7 +18797,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RA",
                 "word": "𐘴𐝫"
@@ -18194,6 +18879,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -18207,6 +18893,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-ME",
@@ -18227,6 +18914,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -18248,6 +18936,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SA-RU",
@@ -18269,6 +18958,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -18290,6 +18980,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI-DE-RU",
@@ -18310,6 +19001,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -18332,6 +19024,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -18353,6 +19046,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SA-RU",
@@ -18403,6 +19097,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-ME",
@@ -18423,6 +19118,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -18445,6 +19141,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -18466,6 +19163,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI-DE-RU",
@@ -18486,6 +19184,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -18522,6 +19221,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-PA-RA-NE",
@@ -18564,6 +19264,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -18728,6 +19429,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -18774,6 +19476,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "A-PA-RA-NE",
@@ -18808,6 +19511,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*516",
@@ -18824,6 +19528,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -18860,6 +19565,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -18881,6 +19587,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -18923,6 +19630,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -18938,7 +19646,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*307+*387",
                 "word": "𐜠"
@@ -18953,6 +19662,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -18973,6 +19683,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -19016,6 +19727,7 @@ var wordAnnotations =
                     "place name",
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA-I-TO",
@@ -19037,6 +19749,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -19078,6 +19791,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MA-DI",
@@ -19099,6 +19813,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "JU",
@@ -19120,6 +19835,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -19140,6 +19856,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*79",
@@ -19161,6 +19878,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA-TI",
@@ -19181,7 +19899,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DE",
                 "word": "𐘦𐝫"
@@ -19214,6 +19933,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -19245,6 +19965,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -19272,7 +19993,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DE",
                 "word": "𐝫𐘦"
@@ -19295,6 +20017,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TU",
@@ -19315,6 +20038,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA-NA-TI",
@@ -19357,6 +20081,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TE-*301",
@@ -19438,6 +20163,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*188",
@@ -19453,6 +20179,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -19497,6 +20224,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -19519,6 +20247,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -19527,7 +20256,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗"
@@ -19548,7 +20278,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝"
@@ -19570,6 +20301,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -19598,7 +20330,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "GRA+QE",
                 "word": "𐛱"
@@ -19646,6 +20379,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-SI-*118",
@@ -19666,6 +20400,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*79-DU",
@@ -19686,6 +20421,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -19708,6 +20444,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -19728,7 +20465,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*304+PA",
                 "word": "𐜝𐝫"
@@ -19750,6 +20488,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TI+A",
@@ -19771,6 +20510,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -19792,6 +20532,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -19813,6 +20554,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313a",
@@ -19834,6 +20576,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -19856,6 +20599,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -19865,6 +20609,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -19895,6 +20640,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -19923,6 +20669,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -19952,6 +20699,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -19980,6 +20728,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -20000,6 +20749,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+NE",
@@ -20029,6 +20779,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+QE",
@@ -20049,6 +20800,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -20069,6 +20822,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -20089,6 +20843,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20111,6 +20867,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -20120,6 +20877,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20142,6 +20900,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20192,6 +20951,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -20238,6 +20999,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -20258,6 +21020,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -20293,6 +21057,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -20322,6 +21087,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*OLIV+TU",
@@ -20344,6 +21110,7 @@ var wordAnnotations =
                     "transaction term",
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -20359,6 +21126,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -20368,6 +21136,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20388,14 +21157,16 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "PA3-NI",
                 "word": "𐘰𐘝"
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -20437,6 +21208,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI-RI-NA",
@@ -20479,6 +21251,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "WI",
@@ -20499,6 +21272,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20521,6 +21295,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -20557,6 +21332,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -20578,6 +21354,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA3",
@@ -20591,7 +21368,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "DA-KU-SE-NE",
                 "word": "𐘀𐙂𐘈𐘗𐝫"
@@ -20621,6 +21400,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20662,6 +21442,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-KU-SE-NE",
@@ -20684,6 +21466,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20827,6 +21610,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20851,6 +21635,7 @@ var wordAnnotations =
                     "transaction term",
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -20880,6 +21665,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20902,6 +21689,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -20917,6 +21705,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20938,6 +21728,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "MI-NU-TE",
@@ -20946,7 +21737,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗"
@@ -20967,6 +21759,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -20996,6 +21790,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -21029,7 +21825,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀𐝫"
@@ -21063,6 +21860,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -21136,6 +21935,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -21177,6 +21977,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "KI-RE-TA-NA",
@@ -21185,6 +21986,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -21307,7 +22109,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JU",
                 "word": "𐘶𐝫"
@@ -21349,7 +22152,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE",
                 "word": "𐝫𐘙"
@@ -21386,6 +22190,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA",
@@ -21407,6 +22212,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -21456,6 +22262,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+E",
@@ -21477,6 +22284,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-PA",
@@ -21498,6 +22306,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -21520,7 +22329,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐝫𐘝"
@@ -21556,6 +22366,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "GRA",
@@ -21570,6 +22381,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RO",
@@ -21623,6 +22435,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -21666,6 +22480,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -21708,6 +22523,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -21730,6 +22547,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*301",
@@ -21780,6 +22598,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QE-KA",
@@ -21834,7 +22653,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐘆"
@@ -21857,7 +22677,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐝫𐘝𐝫"
@@ -21944,7 +22765,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "QE",
                 "word": "𐘿𐝫"
@@ -21957,7 +22779,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐘅𐝫"
@@ -21966,7 +22789,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐝫𐘝"
@@ -22003,6 +22827,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "commodity",
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "*21F",
@@ -22059,7 +22884,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗"
@@ -22169,6 +22995,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "O",
@@ -22207,7 +23034,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "MI",
                 "word": "𐝫𐘻𐝫"
@@ -22248,6 +23076,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -22263,6 +23092,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -22272,6 +23102,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -22294,6 +23125,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -22316,6 +23148,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -22337,6 +23170,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -22359,6 +23193,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -22380,6 +23215,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word"
                 ],
@@ -22415,7 +23251,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -22516,6 +23353,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA-RA-NE",
@@ -22577,7 +23415,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "RI-SU-MA",
                 "word": "𐘭𐘲𐙁𐝫"
@@ -22590,6 +23429,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SU",
@@ -22635,7 +23475,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RU",
                 "word": "𐝫𐘘"
@@ -22651,6 +23492,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA-RA-NE",
@@ -22701,6 +23543,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -22757,6 +23600,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "I",
@@ -22867,6 +23711,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -22895,6 +23740,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -22915,7 +23762,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "PU-RA2",
                 "word": "𐘫𐘽"
@@ -22931,6 +23779,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -22952,6 +23802,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+DI",
@@ -22971,7 +23822,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SI+SE",
                 "word": "𐛉"
@@ -22980,6 +23832,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -23001,6 +23855,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -23022,6 +23877,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -23043,6 +23900,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -23071,6 +23929,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -23094,6 +23954,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -23114,6 +23975,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -23134,6 +23997,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*OLIV+TU",
@@ -23162,6 +24026,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -23184,6 +24050,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -23204,6 +24072,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "QA-NU-MA",
@@ -23213,6 +24082,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -23235,6 +24106,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -23256,6 +24129,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -23265,6 +24139,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -23287,6 +24162,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -23308,6 +24184,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -23329,6 +24206,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "MA-KA-RI-TE",
@@ -23346,6 +24224,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RO",
@@ -23361,7 +24240,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction term",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "U-MI-NA-SI",
                 "word": "𐘉𐘻𐘅𐘤"
@@ -23402,6 +24282,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI-TU",
@@ -23462,6 +24343,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-PA3-NU",
@@ -23583,6 +24465,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -23716,6 +24599,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI-DA-RO",
@@ -23736,6 +24620,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -23757,6 +24642,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-RE-JU",
@@ -23777,6 +24663,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI-KI-SE",
@@ -23798,6 +24685,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "AU",
@@ -23813,6 +24701,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*516",
@@ -23834,6 +24723,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MA-DI",
@@ -23855,6 +24745,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -23875,6 +24767,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA-QA-RU",
@@ -23896,6 +24789,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -23937,6 +24832,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -23978,6 +24875,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -23999,7 +24897,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐘸"
@@ -24020,6 +24920,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number",
                     "head word"
                 ],
@@ -24041,6 +24942,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -24102,6 +25004,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-PA3-NA-TU",
@@ -24123,6 +25026,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -24164,6 +25068,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306-TU",
@@ -24205,6 +25110,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -24226,6 +25132,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -24246,7 +25153,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DA-ME",
                 "word": "𐘀𐘋"
@@ -24254,6 +25162,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*584",
@@ -24274,6 +25183,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -24316,6 +25227,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "I-GRA+PA",
@@ -24336,6 +25248,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RE-TA-NA",
@@ -24344,6 +25257,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*580",
@@ -24364,6 +25278,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -24386,6 +25302,7 @@ var wordAnnotations =
                     "place name",
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA-I-TO",
@@ -24416,6 +25333,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -24446,6 +25364,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -24455,6 +25374,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -24477,6 +25397,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -24499,6 +25420,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -24520,6 +25442,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -24542,6 +25465,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -24611,6 +25535,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-SI-*118",
@@ -24632,7 +25557,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂𐝫"
@@ -24654,6 +25580,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -24674,6 +25601,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TE-KI",
@@ -24694,6 +25622,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA-*310-I",
@@ -24734,6 +25663,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SI-DA-RE",
@@ -24754,6 +25684,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*324-DI-RA",
@@ -24775,6 +25706,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA-DE",
@@ -24795,6 +25727,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-PA3-NU",
@@ -24815,6 +25749,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -24836,6 +25771,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306-TU",
@@ -24857,6 +25793,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DU",
@@ -24877,6 +25814,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-PA3-NU",
@@ -24897,6 +25836,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-RI-DA",
@@ -24918,6 +25858,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -24959,6 +25900,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -24991,6 +25933,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -25046,6 +25989,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA-QA-RU",
@@ -25067,6 +26011,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI",
@@ -25087,6 +26032,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
@@ -25108,6 +26054,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -25130,6 +26077,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PO-TO-KU-RO",
@@ -25166,6 +26114,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -25186,6 +26136,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -25217,6 +26169,8 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -25247,6 +26201,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PU-VIN",
@@ -25256,6 +26211,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -25284,6 +26241,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -25314,6 +26273,8 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -25336,7 +26297,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "SA-RU",
                 "word": "𐘞𐘘"
@@ -25345,6 +26307,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -25365,6 +26329,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -25397,6 +26363,8 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -25427,6 +26395,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -25447,6 +26417,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -25478,6 +26450,8 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -25501,6 +26475,8 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -25510,6 +26486,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -25537,7 +26515,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*308",
                 "word": "𐙜"
@@ -25558,6 +26538,8 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -25589,6 +26571,8 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RO",
@@ -25631,6 +26615,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*312",
@@ -25678,6 +26663,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PI-SA",
@@ -25699,6 +26685,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -25720,6 +26707,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*188-DU",
@@ -25770,6 +26758,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA-NA",
@@ -25827,6 +26816,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -25850,6 +26840,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RO",
@@ -25886,7 +26877,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RA2",
                 "word": "𐝫𐘽𐝫"
@@ -25900,6 +26892,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -25931,7 +26924,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐜋𐝫"
@@ -25945,6 +26939,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
@@ -25976,6 +26971,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -25985,6 +26981,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -26008,6 +27005,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -26077,6 +27075,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -26097,6 +27096,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*582",
@@ -26126,6 +27126,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -26147,6 +27148,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -26182,7 +27184,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*318",
                 "word": "𐙪"
@@ -26229,7 +27232,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end"
+                    "lacuna at end",
+                    "More than one location"
                 ],
                 "transliteratedWord": "U",
                 "word": "𐘉𐝫"
@@ -26277,6 +27281,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "U-*49",
@@ -26297,7 +27302,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PI",
                 "word": "𐘢𐝫"
@@ -26354,6 +27360,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -26388,6 +27395,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "TWE",
@@ -26417,6 +27426,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "commodity",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*21F",
@@ -26445,7 +27455,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "TWE",
                 "word": "𐝫𐙆𐝫"
@@ -26460,6 +27472,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TU",
@@ -26579,6 +27592,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "NE",
@@ -26601,6 +27615,8 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -26610,6 +27626,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -26632,6 +27649,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -26672,6 +27690,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI+MU",
@@ -26693,6 +27713,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*301",
@@ -26713,6 +27734,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI+MU",
@@ -26734,6 +27757,8 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -26756,6 +27781,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "*326",
@@ -26775,7 +27801,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA-RA",
                 "word": "𐘂𐘴"
@@ -26797,6 +27824,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -26824,6 +27852,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA+KU",
@@ -26853,7 +27883,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -26875,6 +27906,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -26897,7 +27930,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐘆𐝫"
@@ -26910,6 +27944,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -26959,6 +27995,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word"
                 ],
@@ -26987,6 +28025,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -27008,7 +28048,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RU",
                 "word": "𐘘𐝫"
@@ -27032,6 +28073,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -27067,6 +28110,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "KI-RE-TA2",
@@ -27076,6 +28120,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -27106,6 +28152,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -27127,6 +28174,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -27155,6 +28203,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -27183,7 +28233,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "OLE+DI",
                 "word": "𐜉"
@@ -27205,6 +28256,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -27229,6 +28281,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -27271,6 +28324,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -27293,6 +28347,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA2",
@@ -27302,7 +28357,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗𐝫"
@@ -27330,7 +28386,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RA2",
                 "word": "𐝫𐘽𐝫"
@@ -27346,6 +28403,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -27371,6 +28429,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SI-CYP",
@@ -27392,6 +28451,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -27413,6 +28473,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -27450,6 +28511,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -27471,7 +28533,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -27497,6 +28560,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "I-QA-*118",
@@ -27506,6 +28570,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -27529,6 +28594,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -27559,6 +28625,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -27602,7 +28669,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐝫𐘝"
@@ -27625,6 +28693,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -27670,7 +28739,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction term",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "PO-TO-KU-RO",
                 "word": "𐘊𐘄𐙂𐘁"
@@ -27700,6 +28770,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -27716,6 +28787,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*904",
@@ -27751,6 +28823,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -27772,6 +28845,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA3",
@@ -27788,6 +28862,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*305",
@@ -27838,6 +28913,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -27855,6 +28931,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -27918,7 +28995,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "MI-TU",
                 "word": "𐝫𐘻𐘹"
@@ -27978,6 +29056,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI",
@@ -28046,7 +29125,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*22F",
                 "word": "𐝫𐘓"
@@ -28179,7 +29259,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA2",
                 "word": "𐝫𐘷"
@@ -28189,6 +29270,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -28209,7 +29291,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗"
@@ -28228,9 +29311,16 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
+                "tags": [
+                    "lacuna at start",
+                    "logogram",
+                    "commodity",
+                    "More than one location",
+                    "assigned number",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "OLE",
+                "word": "𐝫𐙖"
             },
             {
                 "tags": [
@@ -28238,6 +29328,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "2",
                 "word": "𐄈"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -28273,6 +29368,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -28294,6 +29390,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -28344,6 +29441,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "head word",
                     "recurring head word"
                 ],
@@ -28392,6 +29491,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "JE-DI",
@@ -28407,6 +29507,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -28449,6 +29550,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "U-*34-SI",
@@ -28491,6 +29594,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -28506,6 +29611,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
@@ -28522,6 +29628,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -28548,6 +29656,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -28569,6 +29679,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -28590,6 +29702,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -28612,6 +29726,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -28633,6 +29749,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -28655,6 +29773,7 @@ var wordAnnotations =
                     "transaction term",
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA-PA",
@@ -28677,6 +29796,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -28732,7 +29853,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-RI",
                 "word": "𐘇𐘭𐝫"
@@ -28746,7 +29868,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RU-DI",
                 "word": "𐝫𐘘𐘆𐝫"
@@ -28850,7 +29973,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵𐝫"
@@ -28906,7 +30030,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "QE",
                 "word": "𐝫𐘿𐝫"
@@ -28947,6 +30072,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -29003,6 +30129,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RA",
@@ -29040,7 +30167,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐝫𐘝𐝫"
@@ -29067,6 +30195,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -29090,6 +30219,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TI",
@@ -29145,7 +30275,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐘸𐝫"
@@ -29188,7 +30319,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐝫𐙋𐝫"
@@ -29204,6 +30336,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -29232,7 +30365,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐝫𐙂"
@@ -29255,6 +30389,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA",
@@ -29283,6 +30418,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -29311,7 +30447,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅𐝫"
@@ -29361,7 +30498,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐝫𐘝"
@@ -29665,34 +30803,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
                 "word": "𐝫𐘤𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna at end",
-                    "logogram",
-                    "head word elsewhere"
-                ],
-                "transliteratedWord": "SI",
-                "word": "𐘤𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
             },
             {
                 "tags": [],
@@ -29708,13 +30824,25 @@ var wordAnnotations =
                 "word": "𐝫𐄌"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
                 "word": "𐘤𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -29724,6 +30852,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "𐝫",
                 "word": "𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -29742,7 +30875,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐙋"
@@ -29756,6 +30890,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*188",
@@ -29802,7 +30937,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DA-KA",
                 "word": "𐘀𐘾"
@@ -29814,7 +30950,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DA-KA",
                 "word": "𐘀𐘾"
@@ -29826,7 +30963,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DA-KA",
                 "word": "𐘀𐘾"
@@ -29838,7 +30976,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DA-KA",
                 "word": "𐘀𐘾"
@@ -29850,7 +30989,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DA-KA",
                 "word": "𐘀𐘾"
@@ -29862,7 +31002,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-RA2",
                 "word": "𐘚𐘽"
@@ -29874,7 +31015,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-RA2",
                 "word": "𐘚𐘽"
@@ -29886,7 +31028,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-RA2",
                 "word": "𐘚𐘽"
@@ -29898,7 +31041,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-RA2",
                 "word": "𐘚𐘽"
@@ -29910,7 +31054,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-RA2",
                 "word": "𐘚𐘽"
@@ -29922,7 +31067,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-RA2",
                 "word": "𐘚𐘽"
@@ -29934,7 +31080,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-RA2",
                 "word": "𐘚𐘽"
@@ -29946,7 +31093,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-RA2",
                 "word": "𐘚𐘽"
@@ -29958,7 +31106,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "SI-KA",
                 "word": "𐘤𐘾"
@@ -29970,7 +31119,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "SI-KA",
                 "word": "𐘤𐘾"
@@ -29982,7 +31132,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "SI-KA",
                 "word": "𐘤𐘾"
@@ -29994,7 +31145,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "SI-KA",
                 "word": "𐘤𐘾"
@@ -30006,7 +31158,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "SI-KA",
                 "word": "𐘤𐘾"
@@ -30019,6 +31172,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "PA-TA-NE",
@@ -30031,7 +31185,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SI-TU",
                 "word": "𐘤𐘹"
@@ -30083,6 +31238,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -30129,6 +31285,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word"
                 ],
@@ -30149,7 +31306,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I+*301",
                 "word": "𐛁"
@@ -30226,7 +31384,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "SI-KA",
                 "word": "𐘤𐘾"
@@ -30238,7 +31397,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*301-*301",
                 "word": "𐙕𐙕"
@@ -30250,7 +31410,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*301-*301",
                 "word": "𐙕𐙕"
@@ -30262,7 +31423,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀"
@@ -30274,7 +31436,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30286,7 +31449,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30298,7 +31462,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30310,7 +31475,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30322,7 +31488,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30334,7 +31501,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30346,7 +31514,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30358,7 +31527,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30370,7 +31540,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30382,7 +31553,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30394,7 +31566,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30406,7 +31579,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30418,7 +31592,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30430,7 +31605,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30442,7 +31618,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30454,7 +31631,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30466,7 +31644,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30478,7 +31657,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30490,7 +31670,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30502,7 +31683,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30514,7 +31696,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30526,7 +31709,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30538,7 +31722,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30550,7 +31735,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30562,7 +31748,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30574,7 +31761,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30586,7 +31774,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30598,7 +31787,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30610,7 +31800,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30622,7 +31813,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30634,7 +31826,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30646,7 +31839,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30658,7 +31852,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30670,7 +31865,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30682,7 +31878,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30694,7 +31891,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30706,7 +31904,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30718,7 +31917,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30730,7 +31930,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30742,7 +31943,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30754,7 +31956,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30766,7 +31969,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30778,7 +31982,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30790,7 +31995,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30802,7 +32008,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30814,7 +32021,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30826,7 +32034,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30838,7 +32047,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30850,7 +32060,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30862,7 +32073,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30874,7 +32086,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30886,7 +32099,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30898,7 +32112,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30910,7 +32125,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30922,7 +32138,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30934,7 +32151,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30946,7 +32164,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30958,7 +32177,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30970,7 +32190,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30982,7 +32203,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -30994,7 +32216,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31006,7 +32229,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31018,7 +32242,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31030,7 +32255,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31042,7 +32268,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31054,7 +32281,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31066,7 +32294,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31078,7 +32307,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31090,7 +32320,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31102,7 +32333,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31114,7 +32346,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31126,7 +32359,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31138,7 +32372,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31150,7 +32385,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31162,7 +32398,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31174,7 +32411,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31186,7 +32424,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31198,7 +32437,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31210,7 +32450,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31222,7 +32463,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31234,7 +32476,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31246,7 +32489,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31258,7 +32502,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31270,7 +32515,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31282,7 +32528,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31294,7 +32541,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31306,7 +32554,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31318,7 +32567,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -31332,6 +32582,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31346,6 +32597,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31360,6 +32612,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31374,6 +32627,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31388,6 +32642,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31402,6 +32657,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31416,6 +32672,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31430,6 +32687,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31444,6 +32702,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31458,6 +32717,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31472,6 +32732,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31486,6 +32747,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31500,6 +32762,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31514,6 +32777,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31528,6 +32792,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31542,6 +32807,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31556,6 +32822,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31570,6 +32837,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31584,6 +32852,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31598,6 +32867,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31612,6 +32882,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31626,6 +32897,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31640,6 +32912,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31654,6 +32927,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31668,6 +32942,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -31680,6 +32955,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -31692,6 +32968,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -31704,6 +32981,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -31716,7 +32994,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31728,7 +33007,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31740,7 +33020,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31752,7 +33033,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31764,7 +33046,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31776,7 +33059,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31788,7 +33072,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31800,7 +33085,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31812,7 +33098,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31824,7 +33111,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31836,7 +33124,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31848,7 +33137,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31860,7 +33150,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31872,7 +33163,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31884,7 +33176,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31896,7 +33189,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31908,7 +33202,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31920,7 +33215,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31932,7 +33228,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31944,7 +33241,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31956,7 +33254,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31968,7 +33267,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31980,7 +33280,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -31992,7 +33293,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -32004,7 +33306,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -32017,6 +33320,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32030,6 +33334,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32043,6 +33348,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32056,6 +33362,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32069,6 +33376,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32082,6 +33390,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32095,6 +33404,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32108,6 +33418,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32121,6 +33432,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32134,6 +33446,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32147,6 +33460,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32160,6 +33474,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32173,6 +33488,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32186,6 +33502,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32199,6 +33516,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32212,6 +33530,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32225,6 +33544,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32238,6 +33558,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32251,6 +33572,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32264,6 +33586,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32277,6 +33600,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32290,6 +33614,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32303,6 +33628,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32316,6 +33642,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32329,6 +33656,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32342,6 +33670,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32355,6 +33684,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32368,6 +33698,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32381,6 +33712,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32394,6 +33726,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32407,6 +33740,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32420,6 +33754,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32433,6 +33768,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32446,6 +33782,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32459,6 +33796,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32472,6 +33810,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32485,6 +33824,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32498,6 +33838,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32511,6 +33852,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32524,6 +33866,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32537,6 +33880,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32550,6 +33894,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32563,6 +33908,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32576,6 +33922,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32589,6 +33936,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32602,6 +33950,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32615,6 +33964,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32628,6 +33978,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32641,6 +33992,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32654,6 +34006,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32667,6 +34020,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32680,6 +34034,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32693,6 +34048,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32706,6 +34062,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32719,6 +34076,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32732,6 +34090,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32745,6 +34104,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32758,6 +34118,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32771,6 +34132,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32784,6 +34146,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32797,6 +34160,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32810,6 +34174,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32823,6 +34188,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32836,6 +34202,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32849,6 +34216,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32862,6 +34230,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32875,6 +34244,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32888,6 +34258,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32901,6 +34272,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32914,6 +34286,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32927,6 +34300,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32940,6 +34314,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32953,6 +34328,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32966,6 +34342,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32979,6 +34356,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -32992,6 +34370,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33005,6 +34384,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33018,6 +34398,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33031,6 +34412,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33044,6 +34426,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33057,6 +34440,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33070,6 +34454,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33083,6 +34468,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33096,6 +34482,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33109,6 +34496,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33122,6 +34510,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33135,6 +34524,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33148,6 +34538,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33161,6 +34552,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33174,6 +34566,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33187,6 +34580,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33200,6 +34594,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -33213,7 +34608,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33226,7 +34622,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33239,7 +34636,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33252,7 +34650,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33265,7 +34664,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33278,7 +34678,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33291,7 +34692,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33304,7 +34706,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33317,7 +34720,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33330,7 +34734,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33343,7 +34748,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33356,7 +34762,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -33368,7 +34775,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -33380,7 +34788,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -33392,7 +34801,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -33404,7 +34814,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33416,7 +34827,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33428,7 +34840,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33440,7 +34853,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33452,7 +34866,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33464,7 +34879,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33476,7 +34892,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33488,7 +34905,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33500,7 +34918,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33512,7 +34931,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33524,7 +34944,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33536,7 +34957,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33548,7 +34970,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33560,7 +34983,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33572,7 +34996,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33584,7 +35009,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33596,7 +35022,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33608,7 +35035,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33620,7 +35048,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33632,7 +35061,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33644,7 +35074,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33656,7 +35087,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33668,7 +35100,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33680,7 +35113,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33692,7 +35126,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33704,7 +35139,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33716,7 +35152,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33728,7 +35165,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33740,7 +35178,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33752,7 +35191,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33764,7 +35204,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33776,7 +35217,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33788,7 +35230,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33800,7 +35243,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33812,7 +35256,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33824,7 +35269,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33836,7 +35282,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33848,7 +35295,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33860,7 +35308,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33872,7 +35321,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -33886,6 +35336,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -33900,6 +35351,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -33914,6 +35366,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -33928,6 +35381,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -33942,6 +35396,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -33956,6 +35411,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -33970,6 +35426,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -33984,6 +35441,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -33998,6 +35456,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34012,6 +35471,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34026,6 +35486,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34040,6 +35501,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34054,6 +35516,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34068,6 +35531,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34082,6 +35546,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34096,6 +35561,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34110,6 +35576,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34124,6 +35591,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34138,6 +35606,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34152,6 +35621,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34166,6 +35636,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34180,6 +35651,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34194,6 +35666,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34208,6 +35681,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34222,6 +35696,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34236,6 +35711,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34250,6 +35726,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34264,6 +35741,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34278,6 +35756,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34292,6 +35771,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34306,6 +35786,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34320,6 +35801,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34334,6 +35816,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34348,6 +35831,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34362,6 +35846,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34376,6 +35861,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34390,6 +35876,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34404,6 +35891,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34418,6 +35906,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34432,6 +35921,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34446,6 +35936,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34460,6 +35951,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34474,6 +35966,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34488,6 +35981,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34502,6 +35996,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34516,6 +36011,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34530,6 +36026,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34544,6 +36041,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34558,6 +36056,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34572,6 +36071,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34586,6 +36086,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34600,6 +36101,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34614,6 +36116,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34628,6 +36131,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34642,6 +36146,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34656,6 +36161,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34670,6 +36176,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34684,6 +36191,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34698,6 +36206,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34712,6 +36221,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34726,6 +36236,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34740,6 +36251,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34754,6 +36266,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34768,6 +36281,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34782,6 +36296,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34796,6 +36311,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34810,6 +36326,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34824,6 +36341,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34838,6 +36356,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34852,6 +36371,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34866,6 +36386,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34880,6 +36401,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34894,6 +36416,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34908,6 +36431,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34922,6 +36446,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34936,6 +36461,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34950,6 +36476,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34964,6 +36491,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34978,6 +36506,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -34992,6 +36521,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35006,6 +36536,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35020,6 +36551,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35034,6 +36566,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35048,6 +36581,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35062,6 +36596,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35076,6 +36611,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35090,6 +36626,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35104,6 +36641,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35118,6 +36656,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35132,6 +36671,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35146,6 +36686,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35160,6 +36701,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35174,6 +36716,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35188,6 +36731,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35202,6 +36746,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35216,6 +36761,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35230,6 +36776,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35244,6 +36791,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35258,6 +36806,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35272,6 +36821,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35286,6 +36836,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35300,6 +36851,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35314,6 +36866,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35328,6 +36881,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35342,6 +36896,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35356,6 +36911,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35370,6 +36926,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35384,6 +36941,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35398,6 +36956,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35412,6 +36971,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35426,6 +36986,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35440,6 +37001,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35454,6 +37016,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35468,6 +37031,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35482,6 +37046,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35496,6 +37061,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35510,6 +37076,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35524,6 +37091,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35538,6 +37106,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35552,6 +37121,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35566,6 +37136,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35580,6 +37151,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35594,6 +37166,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35608,6 +37181,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35622,6 +37196,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35636,6 +37211,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35650,6 +37226,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35664,6 +37241,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35678,6 +37256,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35692,6 +37271,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35706,6 +37286,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35720,6 +37301,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35734,6 +37316,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35748,6 +37331,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35762,6 +37346,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35776,6 +37361,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35790,6 +37376,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35804,6 +37391,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35818,6 +37406,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35832,6 +37421,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35846,6 +37436,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35860,6 +37451,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35874,6 +37466,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35888,6 +37481,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35902,6 +37496,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35916,6 +37511,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35930,6 +37526,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35944,6 +37541,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35958,6 +37556,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -35971,7 +37570,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35984,7 +37584,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -35997,7 +37598,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36010,7 +37612,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36023,7 +37626,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36036,7 +37640,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36049,7 +37654,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36062,7 +37668,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36075,7 +37682,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36088,7 +37696,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36101,7 +37710,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36114,7 +37724,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36127,7 +37738,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36140,7 +37752,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36153,7 +37766,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36166,7 +37780,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36179,7 +37794,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36192,7 +37808,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36205,7 +37822,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36218,7 +37836,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36231,7 +37850,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36244,7 +37864,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36257,7 +37878,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36270,7 +37892,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36283,7 +37906,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36296,7 +37920,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36309,7 +37934,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36322,7 +37948,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36335,7 +37962,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36348,7 +37976,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36361,7 +37990,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36374,7 +38004,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36387,7 +38018,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36400,7 +38032,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36413,7 +38046,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36426,7 +38060,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36439,7 +38074,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36452,7 +38088,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36465,7 +38102,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36478,7 +38116,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36491,7 +38130,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36504,7 +38144,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36517,7 +38158,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36530,7 +38172,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36543,7 +38186,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36556,7 +38200,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36569,7 +38214,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36582,7 +38228,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36595,7 +38242,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36608,7 +38256,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36621,7 +38270,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36634,7 +38284,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36647,7 +38298,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36660,7 +38312,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36673,7 +38326,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36686,7 +38340,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36699,7 +38354,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36712,7 +38368,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36725,7 +38382,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36738,7 +38396,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36751,7 +38410,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36764,7 +38424,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36777,7 +38438,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36790,7 +38452,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36803,7 +38466,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36816,7 +38480,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36829,7 +38494,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36842,7 +38508,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36855,7 +38522,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36868,7 +38536,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36881,7 +38550,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36894,7 +38564,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36907,7 +38578,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36920,7 +38592,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36933,7 +38606,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36946,7 +38620,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36959,7 +38634,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36972,7 +38648,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36985,7 +38662,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -36998,7 +38676,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37011,7 +38690,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37024,7 +38704,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37037,7 +38718,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37050,7 +38732,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37063,7 +38746,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37076,7 +38760,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37089,7 +38774,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37102,7 +38788,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37115,7 +38802,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37128,7 +38816,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37141,7 +38830,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37154,7 +38844,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37167,7 +38858,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37180,7 +38872,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37193,7 +38886,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37206,7 +38900,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37219,7 +38914,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37232,7 +38928,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37245,7 +38942,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37258,7 +38956,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37271,7 +38970,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37284,7 +38984,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37297,7 +38998,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37310,7 +39012,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37323,7 +39026,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37336,7 +39040,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37349,7 +39054,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37362,7 +39068,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37375,7 +39082,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37388,7 +39096,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37401,7 +39110,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37414,7 +39124,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37427,7 +39138,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37440,7 +39152,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37453,7 +39166,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37466,7 +39180,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37479,7 +39194,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37492,7 +39208,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37505,7 +39222,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37518,7 +39236,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37531,7 +39250,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37544,7 +39264,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37557,7 +39278,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37570,7 +39292,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37583,7 +39306,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37596,7 +39320,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37609,7 +39334,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37622,7 +39348,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37635,7 +39362,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37648,7 +39376,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37661,7 +39390,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37674,7 +39404,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37687,7 +39418,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37700,7 +39432,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37713,7 +39446,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37726,7 +39460,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37739,7 +39474,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37752,7 +39488,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37765,7 +39502,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37778,7 +39516,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37791,7 +39530,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37804,7 +39544,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37817,7 +39558,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37830,7 +39572,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37843,7 +39586,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37856,7 +39600,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37869,7 +39614,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37882,7 +39628,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37895,7 +39642,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37908,7 +39656,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37921,7 +39670,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -37934,7 +39684,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37947,7 +39698,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37960,7 +39712,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37973,7 +39726,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37986,7 +39740,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -37999,7 +39754,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38012,7 +39768,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38025,7 +39782,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38038,7 +39796,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38051,7 +39810,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38064,7 +39824,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38077,7 +39838,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38090,7 +39852,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38103,7 +39866,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38116,7 +39880,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38129,7 +39894,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38142,7 +39908,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38155,7 +39922,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38168,7 +39936,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38181,7 +39950,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38194,7 +39964,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38207,7 +39978,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38220,7 +39992,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38233,7 +40006,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38246,7 +40020,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38259,7 +40034,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38272,7 +40048,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38285,7 +40062,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38298,7 +40076,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38311,7 +40090,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38324,7 +40104,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38337,7 +40118,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38350,7 +40132,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38363,7 +40146,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38376,7 +40160,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38389,7 +40174,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38402,7 +40188,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38415,7 +40202,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38428,7 +40216,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38441,7 +40230,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38454,7 +40244,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38467,7 +40258,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38480,7 +40272,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38493,7 +40286,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38506,7 +40300,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38519,7 +40314,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38532,7 +40328,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38545,7 +40342,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38558,7 +40356,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38571,7 +40370,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38584,7 +40384,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38597,7 +40398,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38610,7 +40412,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38623,7 +40426,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38636,7 +40440,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38649,7 +40454,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38662,7 +40468,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38675,7 +40482,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38688,7 +40496,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38701,7 +40510,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38714,7 +40524,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38727,7 +40538,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38740,7 +40552,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38753,7 +40566,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38766,7 +40580,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38779,7 +40594,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38792,7 +40608,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38805,7 +40622,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38818,7 +40636,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38831,7 +40650,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38844,7 +40664,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38857,7 +40678,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38870,7 +40692,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38883,7 +40706,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38896,7 +40720,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38909,7 +40734,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38922,7 +40748,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38935,7 +40762,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38948,7 +40776,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38961,7 +40790,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38974,7 +40804,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -38987,7 +40818,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39000,7 +40832,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39013,7 +40846,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39026,7 +40860,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39039,7 +40874,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39052,7 +40888,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39065,7 +40902,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39078,7 +40916,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39091,7 +40930,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39104,7 +40944,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39117,7 +40958,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39130,7 +40972,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39143,7 +40986,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39156,7 +41000,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39169,7 +41014,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39182,7 +41028,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39195,7 +41042,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39208,7 +41056,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39221,7 +41070,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39234,7 +41084,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39247,7 +41098,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39260,7 +41112,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39273,7 +41126,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39286,7 +41140,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39299,7 +41154,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39312,7 +41168,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39325,7 +41182,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39338,7 +41196,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39351,7 +41210,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39364,7 +41224,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39377,7 +41238,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39390,7 +41252,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39403,7 +41266,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39416,7 +41280,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39429,7 +41294,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39442,7 +41308,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39455,7 +41322,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39468,7 +41336,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39481,7 +41350,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39494,7 +41364,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39507,7 +41378,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39520,7 +41392,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39533,7 +41406,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39546,7 +41420,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39559,7 +41434,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39572,7 +41448,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39585,7 +41462,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39598,7 +41476,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39611,7 +41490,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39624,7 +41504,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39637,7 +41518,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39650,7 +41532,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39663,7 +41546,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39676,7 +41560,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39689,7 +41574,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39702,7 +41588,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39715,7 +41602,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39728,7 +41616,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39741,7 +41630,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39754,7 +41644,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39767,7 +41658,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39780,7 +41672,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39793,7 +41686,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39806,7 +41700,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39819,7 +41714,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39832,7 +41728,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39845,7 +41742,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39858,7 +41756,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39871,7 +41770,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39884,7 +41784,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39897,7 +41798,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39910,7 +41812,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39923,7 +41826,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39936,7 +41840,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39949,7 +41854,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39962,7 +41868,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39975,7 +41882,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -39988,7 +41896,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40001,7 +41910,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40014,7 +41924,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40027,7 +41938,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40040,7 +41952,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40053,7 +41966,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40066,7 +41980,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40079,7 +41994,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40092,7 +42008,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40105,7 +42022,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40118,7 +42036,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40131,7 +42050,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40144,7 +42064,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40157,7 +42078,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40170,7 +42092,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40183,7 +42106,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40196,7 +42120,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40209,7 +42134,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40222,7 +42148,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40235,7 +42162,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40248,7 +42176,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40261,7 +42190,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40274,7 +42204,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40287,7 +42218,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40300,7 +42232,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40313,7 +42246,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40326,7 +42260,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40339,7 +42274,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40352,7 +42288,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40365,7 +42302,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40378,7 +42316,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40391,7 +42330,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40404,7 +42344,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40417,7 +42358,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40430,7 +42372,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40443,7 +42386,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40456,7 +42400,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40469,7 +42414,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40482,7 +42428,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40495,7 +42442,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40508,7 +42456,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40521,7 +42470,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40534,7 +42484,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40547,7 +42498,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40560,7 +42512,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40573,7 +42526,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40586,7 +42540,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40599,7 +42554,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40612,7 +42568,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40625,7 +42582,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40638,7 +42596,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40651,7 +42610,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40664,7 +42624,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40677,7 +42638,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40690,7 +42652,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40703,7 +42666,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40716,7 +42680,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40729,7 +42694,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40742,7 +42708,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40755,7 +42722,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40768,7 +42736,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40781,7 +42750,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40794,7 +42764,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40807,7 +42778,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40820,7 +42792,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40833,7 +42806,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40846,7 +42820,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -40918,7 +42893,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*370",
                 "word": "𐚞"
@@ -41030,6 +43006,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -41038,7 +43015,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐜙"
@@ -41050,7 +43028,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -41062,7 +43041,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -41075,6 +43055,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word"
                 ],
@@ -41097,6 +43078,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA-SE-JA",
@@ -41122,6 +43104,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -41130,7 +43113,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐘈"
@@ -41143,6 +43127,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -41151,7 +43136,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐘈"
@@ -41184,6 +43170,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "WA-DI-NI",
@@ -41197,6 +43184,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "WA-DI-NI",
@@ -41226,6 +43214,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*188",
@@ -41251,6 +43240,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*79-DI-RA",
@@ -41264,6 +43254,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "*79-DI-RA",
@@ -41285,6 +43276,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*188",
@@ -41298,6 +43290,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "KU-MI-NA-QE",
@@ -41313,7 +43306,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CAP",
                 "word": "𐘒"
@@ -41326,6 +43320,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -41335,7 +43330,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗"
@@ -41348,6 +43344,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -41357,6 +43354,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*304+PA-*303+D",
@@ -41412,6 +43410,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -41420,7 +43419,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐜙"
@@ -41434,6 +43434,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -41472,6 +43473,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -41502,7 +43504,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*22F",
                 "word": "𐘓"
@@ -41515,7 +43518,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -41528,7 +43532,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -41541,6 +43546,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -41550,6 +43556,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*304+PA-*303+D",
@@ -41647,7 +43654,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀"
@@ -41695,6 +43703,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*904",
@@ -41715,6 +43725,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*904",
@@ -41743,6 +43755,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*904",
@@ -41772,6 +43786,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*904",
@@ -41806,7 +43822,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*904",
                 "word": "𐙫"
@@ -41836,7 +43854,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀"
@@ -41848,7 +43867,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀"
@@ -41860,7 +43880,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -41884,7 +43905,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*308",
                 "word": "𐙜"
@@ -41897,6 +43919,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "NE",
@@ -41909,7 +43932,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀"
@@ -41961,6 +43985,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -41991,6 +44016,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "JA-SA-SA-RA-ME",
@@ -42006,7 +44032,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "U-NA-KA-NA-SI",
                 "word": "𐘉𐘅𐘾𐘅𐝫𐘤𐝫"
@@ -42021,7 +44048,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-PI-NA-MA",
                 "word": "𐝫𐘚𐘢𐘅𐙁"
@@ -42041,6 +44069,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI-RU-TE",
@@ -42070,7 +44099,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚𐝫"
@@ -42097,6 +44127,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-TA-I-*301-WA-JA",
@@ -42114,6 +44145,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "AU",
@@ -42198,6 +44230,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "JA-SA-SA-RA-ME",
@@ -42218,6 +44251,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -42261,6 +44295,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -42281,7 +44316,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "U-NA-KA-NA-SI",
                 "word": "𐘉𐘅𐘾𐝫𐘅𐘤"
@@ -42308,7 +44344,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅𐝫"
@@ -42386,6 +44423,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "JA-SA",
@@ -42413,7 +44451,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-TI",
                 "word": "𐘚𐘠𐝫"
@@ -42447,6 +44486,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "SI-RU-TE",
@@ -42475,7 +44515,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-PI-NA-MA",
                 "word": "𐝫𐘚𐘢𐘅𐙁"
@@ -42490,6 +44531,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI-RU-TE",
@@ -42531,7 +44573,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ME",
                 "word": "𐘋"
@@ -42605,6 +44648,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -42621,7 +44665,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐝫𐘚"
@@ -42718,7 +44763,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "B-B",
                 "word": "𐝁𐝁"
@@ -42731,7 +44777,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐘸"
@@ -42776,7 +44823,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PU2",
                 "word": "𐝫𐘜𐝫"
@@ -42790,7 +44838,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PI",
                 "word": "𐝫𐘢𐝫"
@@ -42803,7 +44852,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JE",
                 "word": "𐝫𐘧"
@@ -42817,7 +44867,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*582",
                 "word": "𐛵"
@@ -42859,7 +44910,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝𐝫"
@@ -42914,7 +44966,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TU",
                 "word": "𐘹𐝫"
@@ -42928,7 +44981,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗𐝫"
@@ -42992,6 +45046,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NU",
@@ -43039,6 +45094,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306",
@@ -43059,7 +45115,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗"
@@ -43150,6 +45207,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+E",
@@ -43231,7 +45289,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗𐝫"
@@ -43261,6 +45320,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -43290,6 +45350,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+D",
@@ -43346,6 +45408,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+D",
@@ -43382,7 +45446,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -43410,7 +45476,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐜙𐝫"
@@ -43425,6 +45493,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -43445,6 +45514,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+D",
@@ -43467,6 +45538,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -43489,7 +45561,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂𐝫"
@@ -43503,7 +45576,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE",
                 "word": "𐝫𐘙"
@@ -43518,6 +45592,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*334",
@@ -43538,6 +45613,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+D",
@@ -43559,7 +45636,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PI-SA",
                 "word": "𐘢𐘞𐝫"
@@ -43573,6 +45651,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+D",
@@ -43608,6 +45688,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306",
@@ -43642,6 +45723,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -43672,6 +45755,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "NE",
@@ -43688,7 +45772,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐝫𐘸"
@@ -43696,6 +45781,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*334",
@@ -43715,7 +45801,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐜙"
@@ -43736,7 +45824,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐝫𐘚"
@@ -43744,6 +45833,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+E",
@@ -43779,6 +45869,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313b",
@@ -43799,6 +45891,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+D",
@@ -43860,6 +45954,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIR+*313b",
@@ -43880,6 +45976,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+D",
@@ -43921,7 +46019,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -43943,7 +46042,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "VIR+*313b",
                 "word": "𐛪"
@@ -43964,6 +46065,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+D",
@@ -43979,7 +46082,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "𐝕𐝉𐝫",
                 "word": "𐝕𐝉𐝫"
@@ -44052,7 +46156,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐜙"
@@ -44082,6 +46188,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+D",
@@ -44103,6 +46211,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304+PA",
@@ -44123,6 +46232,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -44180,7 +46290,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE",
                 "word": "𐝫𐘙𐝫"
@@ -44195,6 +46306,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA",
@@ -44215,6 +46327,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+D",
@@ -44237,6 +46350,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -44260,6 +46375,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -44283,6 +46399,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -44306,6 +46423,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -44329,6 +46447,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -44344,6 +46463,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -44366,6 +46487,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*312",
@@ -44386,6 +46508,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -44421,7 +46544,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "VIR+*307",
                 "word": "𐛨𐝫"
@@ -44449,6 +46573,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -44470,7 +46595,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "MI",
                 "word": "𐘻𐝫"
@@ -44483,7 +46609,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-SI",
                 "word": "𐝫𐘚𐘤"
@@ -44497,7 +46624,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐜙"
@@ -44533,6 +46661,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -44557,6 +46687,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -44571,7 +46702,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗"
@@ -44678,6 +46811,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -44734,6 +46869,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -44757,6 +46894,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -44773,7 +46911,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZA",
                 "word": "𐝫𐘍"
@@ -44782,6 +46921,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -44803,6 +46944,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SU",
@@ -44823,6 +46965,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+E",
@@ -44845,6 +46989,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -44867,6 +47013,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306",
@@ -44888,6 +47036,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -44937,6 +47087,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+E",
@@ -44958,6 +47110,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -44979,6 +47132,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -45008,6 +47163,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*301",
@@ -45028,6 +47184,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*306",
@@ -45048,6 +47206,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SI-CYP",
@@ -45071,7 +47230,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -45091,6 +47251,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -45112,6 +47273,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -45147,7 +47309,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*335",
                 "word": "𐙻𐝫"
@@ -45169,6 +47332,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*516",
@@ -45196,6 +47360,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*401+*304",
@@ -45218,7 +47383,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*401+RU",
                 "word": "𐜩"
@@ -45240,7 +47407,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*401+RU",
                 "word": "𐝫𐜩"
@@ -45377,7 +47546,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "transaction term",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DA-I",
                 "word": "𐝫𐘀𐘚𐝫"
@@ -45417,7 +47587,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RA",
                 "word": "𐝫𐘴"
@@ -45451,7 +47622,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗"
@@ -45474,6 +47647,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -45496,6 +47671,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*336",
@@ -45516,7 +47692,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗"
@@ -45540,6 +47718,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -45561,7 +47740,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "VIR+*307",
                 "word": "𐛨"
@@ -45583,7 +47763,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗𐝫"
@@ -45612,7 +47794,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -45634,6 +47817,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -45657,6 +47842,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -45692,7 +47879,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗"
@@ -45722,7 +47910,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐜙𐝫"
@@ -45750,7 +47939,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳𐝫"
@@ -45827,7 +48017,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝𐝫"
@@ -45842,6 +48034,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -45862,6 +48056,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -45903,7 +48098,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*401+[ ]",
                 "word": "𐝫𐜨"
@@ -45944,6 +48140,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131C",
@@ -45965,6 +48163,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -45986,6 +48185,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -46008,6 +48208,8 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131C",
@@ -46074,7 +48276,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+TA",
                 "word": "𐜐"
@@ -46138,7 +48341,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*303+E",
                 "word": "𐜚𐝫"
@@ -46180,6 +48385,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+E",
@@ -46202,6 +48409,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -46240,6 +48448,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -46277,7 +48486,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝"
@@ -46311,7 +48521,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZA",
                 "word": "𐝫𐘍"
@@ -46326,6 +48537,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SU",
@@ -46346,7 +48558,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*303+E",
                 "word": "𐜚𐝫"
@@ -46360,6 +48573,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -46382,7 +48596,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗𐝫"
@@ -46411,6 +48626,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -46427,7 +48643,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -46454,7 +48671,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SU",
                 "word": "𐝫𐘲"
@@ -46504,6 +48722,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -46526,6 +48746,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -46576,6 +48798,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -46599,6 +48822,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -46685,7 +48909,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐝫𐘝𐝫"
@@ -46698,7 +48923,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐝫𐛭"
@@ -46747,7 +48973,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐝫𐘈"
@@ -46762,7 +48989,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*582",
                 "word": "𐛵𐝫"
@@ -46775,7 +49003,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RA",
                 "word": "𐝫𐘴"
@@ -46790,7 +49019,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA2",
                 "word": "𐘷𐝫"
@@ -46817,7 +49047,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction term",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU-PA",
                 "word": "𐙂𐘂𐝫"
@@ -46843,7 +49074,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗"
@@ -46924,6 +49156,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -46958,7 +49191,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*401+[ ]",
                 "word": "𐝫𐜨"
@@ -46997,7 +49231,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*401+RO",
                 "word": "𐜪𐝫"
@@ -47094,7 +49329,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐝫𐜙𐝫"
@@ -47120,6 +49356,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -47148,6 +49385,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+E",
@@ -47169,7 +49407,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝𐝫"
@@ -47252,7 +49491,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗𐝫"
@@ -47281,6 +49521,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -47295,7 +49536,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "MI+JA+RU",
                 "word": "𐛚"
@@ -47317,7 +49559,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅𐝫"
@@ -47344,6 +49587,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word"
                 ],
@@ -47366,7 +49611,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "WI",
                 "word": "𐘣𐝫"
@@ -47379,6 +49625,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*304+[ ]",
@@ -47433,7 +49681,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐜙"
@@ -47499,7 +49748,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+TA",
                 "word": "𐝫𐜐𐝫"
@@ -47728,7 +49978,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*335",
                 "word": "𐝫𐙻𐝫"
@@ -47755,6 +50006,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -47841,6 +50093,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -47910,6 +50163,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -47923,7 +50177,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RA",
                 "word": "𐝫𐘴"
@@ -47938,7 +50193,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*306",
                 "word": "𐙚𐝫"
@@ -47966,7 +50222,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RU",
                 "word": "𐝫𐘘𐝫"
@@ -47981,7 +50238,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐝫𐙂𐝫"
@@ -48024,6 +50282,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA",
@@ -48045,6 +50304,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "JE",
@@ -48065,7 +50325,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "QE",
                 "word": "𐘿𐝫"
@@ -48151,7 +50412,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TU",
                 "word": "𐘹𐝫"
@@ -48255,6 +50517,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "NE",
@@ -48283,6 +50546,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+E",
@@ -48305,6 +50569,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -48381,7 +50646,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+TA",
                 "word": "𐜐"
@@ -48417,7 +50683,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝𐝫"
@@ -48445,7 +50712,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "𐝫𐝕𐝉𐝫",
                 "word": "𐝫𐝕𐝉𐝫"
@@ -48502,7 +50770,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TU",
                 "word": "𐝫𐘹𐝫"
@@ -48515,7 +50784,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZO",
                 "word": "𐝫𐘎"
@@ -48538,7 +50808,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -48605,7 +50876,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -48626,7 +50899,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝𐝫"
@@ -48640,6 +50914,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*303+E",
@@ -48669,6 +50945,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -48682,7 +50959,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*303+E",
                 "word": "𐝫𐜚"
@@ -48705,7 +50984,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -48767,6 +51048,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "I",
@@ -48788,6 +51070,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DI-NA",
@@ -48838,6 +51121,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131C",
@@ -48887,7 +51171,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "MI+JA+RU",
                 "word": "𐛚"
@@ -48981,6 +51266,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
@@ -49007,7 +51293,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+TA",
                 "word": "𐜐"
@@ -49031,7 +51318,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -49052,6 +51340,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -49097,6 +51386,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
@@ -49124,7 +51414,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SU",
                 "word": "𐝫𐘲"
@@ -49145,7 +51436,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*401+RU",
                 "word": "𐝫𐜩"
@@ -49197,7 +51489,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐝫𐘳𐝫"
@@ -49254,7 +51547,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐝫𐘝𐝫"
@@ -49379,7 +51673,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*401+[ ]",
                 "word": "𐝫𐜨"
@@ -49583,6 +51878,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -49610,6 +51907,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -49629,7 +51927,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*304+PA",
                 "word": "𐜝"
@@ -49664,6 +51963,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -49692,6 +51993,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -49778,7 +52080,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -49800,6 +52103,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -49850,6 +52154,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -49873,7 +52178,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -49910,7 +52216,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -50059,7 +52366,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-RA",
                 "word": "𐘇𐘴𐝫"
@@ -50117,6 +52425,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -50185,6 +52494,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MI+JA+I",
@@ -50261,7 +52571,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+RI",
                 "word": "𐝫𐜏"
@@ -50305,7 +52616,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*336",
                 "word": "𐝫𐙼𐝫"
@@ -50378,7 +52690,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*401+RU",
                 "word": "𐜩𐝫"
@@ -50420,7 +52733,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗"
@@ -50444,6 +52758,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*301",
@@ -50464,7 +52779,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*306",
                 "word": "𐙚𐝫"
@@ -50477,7 +52793,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*401+RU",
                 "word": "𐜩𐝫"
@@ -50519,6 +52836,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+TA",
@@ -50540,7 +52858,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*308",
                 "word": "𐙜𐝫"
@@ -50554,6 +52873,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*401+RU",
@@ -50576,7 +52896,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*131C",
                 "word": "𐙏𐝫"
@@ -50591,7 +52912,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐝫𐙘𐝫"
@@ -50606,7 +52928,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -50644,7 +52967,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE-ZA",
                 "word": "𐝫𐘙𐘍"
@@ -50653,7 +52977,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐙗𐝫"
@@ -50668,7 +52994,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -50717,7 +53045,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CYP",
                 "word": "𐝫𐙗𐝫"
@@ -50795,7 +53125,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*306",
                 "word": "𐙚𐝫"
@@ -50823,6 +53154,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -50844,6 +53176,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "QA-NU-MA",
@@ -50859,6 +53192,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*21F-*118",
@@ -50875,6 +53209,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -50951,7 +53286,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐝫𐘱𐝫"
@@ -51051,6 +53387,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -51074,6 +53411,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -51088,6 +53426,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*316",
@@ -51117,6 +53456,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*79",
@@ -51145,6 +53485,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TU",
@@ -51167,7 +53508,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝𐝫"
@@ -51181,6 +53523,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*401+RU",
@@ -51202,7 +53545,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*401+RO",
                 "word": "𐜪𐝫"
@@ -51414,7 +53758,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐘈"
@@ -51491,7 +53836,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅𐝫"
@@ -51616,7 +53962,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐝫𐘁"
@@ -51626,6 +53973,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -51680,6 +54028,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -51688,7 +54037,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DA+RO",
                 "word": "𐚳"
@@ -51701,6 +54051,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "head word",
                     "recurring head word"
                 ],
@@ -51709,7 +54060,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DA+RO",
                 "word": "𐚳"
@@ -51721,7 +54073,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*82",
                 "word": "𐙃"
@@ -51733,7 +54086,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*82",
                 "word": "𐙃"
@@ -51745,7 +54099,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51757,7 +54112,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51769,7 +54125,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51781,7 +54138,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51793,7 +54151,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51805,7 +54164,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZE",
                 "word": "𐘼"
@@ -51818,7 +54178,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -51831,7 +54192,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -51843,7 +54205,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86-RO",
                 "word": "𐙅𐘁"
@@ -51855,7 +54218,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86-RO",
                 "word": "𐙅𐘁"
@@ -51867,7 +54231,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86-RO",
                 "word": "𐙅𐘁"
@@ -51879,7 +54244,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86-RO",
                 "word": "𐙅𐘁"
@@ -51892,7 +54258,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -51951,7 +54318,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -51963,7 +54331,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -51991,6 +54360,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -52015,7 +54385,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*417-VS",
                 "word": "𐚱"
@@ -52027,7 +54398,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*417-VS",
                 "word": "𐚱"
@@ -52039,7 +54411,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52051,7 +54424,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52063,7 +54437,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩"
@@ -52075,7 +54450,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52087,7 +54463,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52099,7 +54476,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52111,7 +54489,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52123,7 +54502,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52135,7 +54515,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52147,7 +54528,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52159,7 +54541,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52171,7 +54554,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52183,7 +54567,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩"
@@ -52195,7 +54580,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩"
@@ -52207,7 +54593,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52219,7 +54606,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52231,7 +54619,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52244,7 +54633,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩𐝫"
@@ -52256,7 +54646,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*322",
                 "word": "𐙮"
@@ -52268,7 +54659,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*322",
                 "word": "𐙮"
@@ -52293,7 +54685,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "VIR+KA",
                 "word": "𐛧"
@@ -52305,7 +54698,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "VIR+KA",
                 "word": "𐛧"
@@ -52317,7 +54711,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "VIR+KA",
                 "word": "𐛧"
@@ -52329,7 +54724,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "VIR+KA",
                 "word": "𐛧"
@@ -52341,7 +54737,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -52353,7 +54750,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -52365,7 +54763,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -52378,7 +54777,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52391,7 +54791,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52404,7 +54805,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52417,7 +54819,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52430,7 +54833,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52443,7 +54847,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52456,7 +54861,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52469,7 +54875,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52482,7 +54889,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52495,7 +54903,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52507,7 +54916,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52519,7 +54929,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52531,7 +54942,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52543,7 +54955,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52555,7 +54968,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52567,7 +54981,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52579,7 +54994,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52591,7 +55007,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -52603,7 +55020,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*805-MI",
                 "word": "𐝥𐘻"
@@ -52615,7 +55033,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*805-MI",
                 "word": "𐝥𐘻"
@@ -52627,7 +55046,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*337+*188",
                 "word": "𐜥"
@@ -52639,7 +55059,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*337+*188",
                 "word": "𐜥"
@@ -52651,7 +55072,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52663,7 +55085,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52675,7 +55098,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52687,7 +55111,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52699,7 +55124,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52711,7 +55137,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52723,7 +55150,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -52736,7 +55164,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "CAP",
                 "word": "𐘒"
@@ -52748,7 +55177,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "MI+*301",
                 "word": "𐛝"
@@ -52773,6 +55203,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*516",
@@ -52786,7 +55217,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*338",
                 "word": "𐙾"
@@ -52799,7 +55231,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*338",
                 "word": "𐙾"
@@ -52813,6 +55246,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*23M",
@@ -52826,6 +55260,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*516",
@@ -52852,7 +55287,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*411-VS",
                 "word": "𐚫"
@@ -52864,7 +55300,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*408-VS",
                 "word": "𐚨"
@@ -52905,7 +55342,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52917,7 +55355,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*86+'*188'",
                 "word": "𐛥"
@@ -52930,7 +55369,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -52942,7 +55382,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*322",
                 "word": "𐙮"
@@ -52954,7 +55395,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "MI+*301",
                 "word": "𐛝"
@@ -52978,7 +55420,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -52991,7 +55434,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "QI",
                 "word": "𐘏"
@@ -53003,7 +55447,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*408-VS",
                 "word": "𐚨"
@@ -53015,7 +55460,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -53027,7 +55473,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -53039,7 +55486,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "VIR+KA",
                 "word": "𐛧"
@@ -53051,7 +55499,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*86+*188",
                 "word": "𐛦"
@@ -53063,7 +55512,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -53076,7 +55526,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*164",
                 "word": "𐙐"
@@ -53088,7 +55539,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -53101,7 +55553,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*408-VS",
                 "word": "𐚨𐝫"
@@ -53113,7 +55566,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -53127,6 +55581,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -53139,7 +55594,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*86+'*188'",
                 "word": "𐛥"
@@ -53151,7 +55607,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -53177,7 +55634,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*408-VS",
                 "word": "𐚨"
@@ -53203,6 +55661,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "WA",
@@ -53216,7 +55675,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝"
@@ -53237,6 +55697,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "E",
@@ -53265,6 +55726,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "E",
@@ -53308,6 +55770,7 @@ var wordAnnotations =
                 "tags": [
                     "weight",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*118",
@@ -53327,7 +55790,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I+*301",
                 "word": "𐛁"
@@ -53452,7 +55916,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅𐝫"
@@ -53508,7 +55973,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*22F",
                 "word": "𐝫𐘓"
@@ -53553,6 +56019,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -53618,6 +56085,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -53703,7 +56171,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-PA",
                 "word": "𐝫𐘇𐘂𐝫"
@@ -53760,6 +56229,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -53787,7 +56257,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂𐝫"
@@ -53842,7 +56313,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "PU-RA",
                 "word": "𐝫𐘫𐘴𐝫"
@@ -53856,7 +56328,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*131C",
                 "word": "𐝫𐙏"
@@ -53913,7 +56386,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -53953,7 +56427,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -53991,7 +56466,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RA2",
                 "word": "𐘽"
@@ -54024,7 +56500,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*21M",
                 "word": "𐘑"
@@ -54050,14 +56527,16 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅"
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "O",
                 "word": "𐘵"
@@ -54093,6 +56572,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -54132,7 +56612,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐘅"
@@ -54177,7 +56658,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-JA",
                 "word": "𐘚𐘱𐝫"
@@ -54217,7 +56699,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐝫𐘱"
@@ -54248,7 +56732,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐝫𐘱"
@@ -54330,7 +56816,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JU",
                 "word": "𐝫𐘶"
@@ -54344,7 +56831,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA-SI",
                 "word": "𐘱𐘤"
@@ -54360,6 +56848,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -54407,6 +56896,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "DI-NA-U",
@@ -54423,6 +56913,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -54467,6 +56958,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -54489,6 +56981,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -54510,6 +57003,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -54524,6 +57018,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -54538,6 +57033,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -54551,7 +57047,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝"
@@ -54602,7 +57099,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "PU-RA",
                 "word": "𐝫𐘫𐘴𐝫"
@@ -54769,6 +57267,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PU",
@@ -55012,6 +57511,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -55072,7 +57572,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "U-NA-KA-NA-SI",
                 "word": "𐘉𐘅𐘾𐘅𐘤"
@@ -55091,7 +57592,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-PI-NA-MA",
                 "word": "𐘚𐘢𐘅𐙁"
@@ -55106,6 +57608,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI-RU-TE",
@@ -55143,7 +57646,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*581",
                 "word": "𐛴"
@@ -55175,7 +57679,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*47",
                 "word": "𐘨"
@@ -55187,7 +57692,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "QE-DE-MI-NU",
                 "word": "𐘿𐘦𐘻𐘯"
@@ -55208,6 +57714,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -55223,7 +57730,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*47",
                 "word": "𐘨"
@@ -55235,7 +57743,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "QE-DE-MI-NU",
                 "word": "𐘿𐘦𐘻𐘯"
@@ -55249,6 +57758,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TI",
@@ -55306,6 +57816,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -55349,6 +57861,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TI",
@@ -55485,6 +57999,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "A-JA",
@@ -55494,6 +58009,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "HIDE+[?]",
@@ -55528,7 +58044,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "HIDE+[?]",
                 "word": "𐝫𐙒𐝫"
@@ -55548,6 +58065,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "HIDE+B",
@@ -55569,7 +58087,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "HIDE+[?]",
                 "word": "𐝫𐙒"
@@ -55590,7 +58109,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "HIDE+B",
                 "word": "𐝫𐜅"
@@ -55612,7 +58132,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "HIDE+[?]",
                 "word": "𐙒𐝫"
@@ -55635,7 +58157,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "HIDE+[?]",
                 "word": "𐝫𐙒𐝫"
@@ -55657,7 +58181,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "HIDE+[?]",
                 "word": "𐝫𐙒"
@@ -55691,7 +58216,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RU",
                 "word": "𐝫𐘘"
@@ -55726,6 +58252,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*412+E",
@@ -55745,7 +58272,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "*659",
                 "word": "𐜱"
@@ -55801,6 +58329,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*412+E",
@@ -55875,6 +58404,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*412+E",
@@ -55895,6 +58425,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*659",
@@ -55966,6 +58497,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*581",
@@ -55986,7 +58518,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "HIDE+[?]",
                 "word": "𐙒"
@@ -56012,6 +58545,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "JA-SA",
@@ -56038,6 +58572,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -56052,6 +58587,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "PU",
@@ -56113,7 +58649,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*401+RO",
                 "word": "𐜪𐝫"
@@ -56129,6 +58666,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -56199,7 +58737,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SU",
                 "word": "𐘲"
@@ -56211,7 +58750,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SI+SE",
                 "word": "𐛉"
@@ -56233,7 +58773,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SU",
                 "word": "𐘲"
@@ -56249,6 +58790,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "place name",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "I-DA",
@@ -56303,6 +58845,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIR+[?]",
@@ -56324,6 +58868,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -56352,6 +58898,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -56373,6 +58921,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -56652,6 +59202,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -56684,6 +59235,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -56699,13 +59251,16 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-JA",
                 "word": "𐝫𐘇𐘱𐝫"
             },
             {
-                "tags": [],
+                "tags": [
+                    "More than one location"
+                ],
                 "transliteratedWord": "≈",
                 "word": "≈"
             },
@@ -56713,7 +59268,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA-SI",
                 "word": "𐝫𐘱𐘤𐝫"
@@ -56727,6 +59283,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "OLE",
@@ -56736,6 +59293,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -56784,6 +59342,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -56844,7 +59403,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*316",
                 "word": "𐙨"
@@ -56873,7 +59434,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐝫𐘱"
@@ -56888,6 +59450,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*316",
@@ -56909,6 +59473,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "CYP",
@@ -56952,6 +59517,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NA",
@@ -56973,7 +59539,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂𐝫"
@@ -56988,6 +59555,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -57132,7 +59700,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐘳"
@@ -57189,6 +59758,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*560",
@@ -57211,6 +59781,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA-RA",
@@ -57235,7 +59806,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐝫𐘂𐝫"
@@ -57298,6 +59870,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -57336,6 +59910,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -57400,7 +59976,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "A-RI",
                 "word": "𐘇𐘭"
@@ -57424,7 +60002,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "A-RI",
                 "word": "𐘇𐘭"
@@ -57535,6 +60115,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA",
@@ -57587,7 +60168,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*131C",
                 "word": "𐝫𐙏"
@@ -57669,6 +60251,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -57691,6 +60274,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -57797,6 +60381,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*316",
@@ -57904,6 +60489,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "HIDE+[?]",
@@ -58020,6 +60606,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -58098,7 +60685,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝"
@@ -58111,7 +60699,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-MI",
                 "word": "𐘇𐘻𐝫"
@@ -58162,7 +60751,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "HIDE+[?]",
                 "word": "𐙒𐝫"
@@ -58217,6 +60807,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "JA-SA",
@@ -58244,6 +60835,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TI",
@@ -58411,6 +61003,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -58499,6 +61092,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -58513,6 +61107,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -58659,6 +61254,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -58780,6 +61376,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TI",
@@ -58832,6 +61429,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -58845,7 +61443,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RU",
                 "word": "𐝫𐘘"
@@ -58853,6 +61452,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "CAPm+KU",
@@ -58873,7 +61474,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word also in linear b",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "MA-DI",
                 "word": "𐙁𐘆"
@@ -58882,6 +61484,8 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -58903,7 +61507,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*22F",
                 "word": "𐘓𐝫"
@@ -58924,6 +61529,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -58944,7 +61550,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU-PA3-NU",
                 "word": "𐙂𐘰𐘯"
@@ -58952,6 +61559,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "AU-SI-RE",
@@ -58994,6 +61602,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -59002,6 +61611,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "CAPm+KU",
@@ -59023,6 +61634,8 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -59044,6 +61657,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*21F",
@@ -59081,6 +61695,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -59102,6 +61718,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*21F",
@@ -59133,6 +61750,8 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22M",
@@ -59154,7 +61773,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TU",
                 "word": "𐘹𐝫"
@@ -59189,6 +61809,8 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -59208,7 +61830,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TE-RI",
                 "word": "𐘃𐘭"
@@ -59217,7 +61840,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*21M",
                 "word": "𐘑𐝫"
@@ -59251,7 +61876,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*21M",
                 "word": "𐘑"
@@ -59263,7 +61890,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "AU-SI-RE",
                 "word": "𐙄𐘤𐘙"
@@ -59283,7 +61911,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*22M",
                 "word": "𐘔"
@@ -59361,6 +61991,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -59427,7 +62058,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -59447,7 +62079,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐘅"
@@ -59461,6 +62094,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -59492,6 +62126,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -59505,7 +62140,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "QI",
                 "word": "𐘏"
@@ -59524,7 +62160,9 @@ var wordAnnotations =
                 "word": "𐙴𐘡"
             },
             {
-                "tags": [],
+                "tags": [
+                    "More than one location"
+                ],
                 "transliteratedWord": "≈",
                 "word": "≈"
             },
@@ -59532,6 +62170,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TI",
@@ -59546,6 +62185,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -59572,6 +62212,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -59660,6 +62301,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -59989,6 +62631,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MA-KA-I-TA",
@@ -60010,6 +62653,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QE",
@@ -60030,6 +62674,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "JA",
@@ -60063,6 +62708,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
@@ -60085,6 +62731,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -60108,6 +62755,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -60153,7 +62801,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NU",
                 "word": "𐝫𐘯"
@@ -60267,7 +62916,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DI",
                 "word": "𐝫𐘆𐝫"
@@ -60281,6 +62931,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -60295,7 +62947,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-PI-NA-MI-NA",
                 "word": "𐘚𐘢𐘅𐘻𐘅"
@@ -60311,6 +62964,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -60369,7 +63024,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE",
                 "word": "𐝫𐘙"
@@ -60411,6 +63067,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -60457,7 +63114,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-PI-NA-MI-NA",
                 "word": "𐘚𐘢𐘅𐘻𐘅𐝫"
@@ -60465,7 +63123,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SI-RU",
                 "word": "𐘤𐘘𐝫"
@@ -60508,6 +63167,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -60540,6 +63200,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -60581,7 +63242,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-NE",
                 "word": "𐝫𐘇𐝫𐝫𐘗"
@@ -60604,7 +63266,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐘱𐝫"
@@ -60636,7 +63299,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚"
@@ -60694,7 +63358,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PU2",
                 "word": "𐘜"
@@ -60707,7 +63372,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE-JA",
                 "word": "𐘙𐘱𐝫"
@@ -60722,6 +63388,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "place name",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "I-DA",
@@ -60751,6 +63418,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -60767,6 +63435,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "I-DA",
@@ -60782,7 +63451,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA-JA",
                 "word": "𐘱𐘱𐝫"
@@ -60824,6 +63494,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -60872,6 +63543,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA",
@@ -60886,6 +63558,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -60938,7 +63611,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐝫𐘳"
@@ -60981,6 +63655,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "JA-SA-SA-RA-ME",
@@ -61041,7 +63716,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐝫𐘚𐝫"
@@ -61162,6 +63838,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "JA-SA-SA-RA-ME",
@@ -61258,6 +63935,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*304",
@@ -61281,6 +63959,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "TI",
@@ -61296,7 +63975,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-SI",
                 "word": "𐝫𐘚𐘤"
@@ -61323,6 +64003,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "JA-SA",
@@ -61330,7 +64011,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SA-RA",
                 "word": "𐘞𐘴"
@@ -61339,6 +64021,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -61392,6 +64075,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -61469,6 +64153,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-TA-I-*301-WA-JA",
@@ -61498,7 +64183,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐘱𐝫"
@@ -61511,6 +64197,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -61559,6 +64246,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-JA",
@@ -61572,6 +64260,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -61589,6 +64278,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI-RU-TE",
@@ -61602,6 +64292,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -61697,6 +64388,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -61713,7 +64405,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA-JA",
                 "word": "𐘱𐘱𐝫"
@@ -61777,6 +64470,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -61791,13 +64485,17 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "MU",
                 "word": "𐘕"
             },
             {
-                "tags": [],
+                "tags": [
+                    "More than one location",
+                    "Repeated in Inscription"
+                ],
                 "transliteratedWord": "≈",
                 "word": "≈"
             },
@@ -61809,14 +64507,18 @@ var wordAnnotations =
                 "word": "𐘮𐘃"
             },
             {
-                "tags": [],
+                "tags": [
+                    "More than one location",
+                    "Repeated in Inscription"
+                ],
                 "transliteratedWord": "≈",
                 "word": "≈"
             },
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝"
@@ -61831,7 +64533,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐝫𐘸𐝫"
@@ -61847,6 +64550,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -61863,6 +64567,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -61877,7 +64582,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CAP",
                 "word": "𐝫𐘒"
@@ -61899,7 +64606,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "CAP",
                 "word": "𐝫𐘒"
@@ -62002,7 +64711,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-NE",
                 "word": "𐘇𐘗𐝫"
@@ -62030,6 +64740,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word"
                 ],
@@ -62046,6 +64757,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -62068,6 +64780,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*171",
@@ -62083,6 +64796,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "ZO",
@@ -62099,6 +64813,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA",
@@ -62118,7 +64833,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JE",
                 "word": "𐘧"
@@ -62193,6 +64909,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -62228,6 +64945,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "JA-SA-SA-RA-ME",
@@ -62255,7 +64973,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-PI-NA-MA",
                 "word": "𐘚𐘢𐝫𐘅𐙁"
@@ -62263,6 +64982,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI-RU-TE",
@@ -62277,7 +64997,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE-JA",
                 "word": "𐝫𐘙𐘱𐝫"
@@ -62321,7 +65042,9 @@ var wordAnnotations =
                 "word": "𐝫𐘗𐘻𐝫"
             },
             {
-                "tags": [],
+                "tags": [
+                    "More than one location"
+                ],
                 "transliteratedWord": "≈",
                 "word": "≈"
             },
@@ -62363,7 +65086,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*309",
                 "word": "𐙝𐝫"
@@ -62463,7 +65188,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*309",
                 "word": "𐙝𐝫"
@@ -62484,6 +65211,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -62621,6 +65349,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -62651,6 +65381,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -62691,6 +65423,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+QIf",
@@ -62719,7 +65453,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗𐝫"
@@ -62732,6 +65468,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -62774,6 +65512,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-DU",
@@ -62798,6 +65537,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -62869,6 +65610,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+QIf",
@@ -62899,7 +65642,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐝫𐙋𐝫"
@@ -62939,6 +65683,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
@@ -62958,7 +65704,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗"
@@ -62989,6 +65737,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -63046,6 +65795,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KI",
@@ -63066,6 +65816,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLE+TU",
@@ -63105,7 +65856,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗"
@@ -63145,6 +65898,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -63165,7 +65919,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐜗"
@@ -63186,7 +65942,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "OLE+NE",
                 "word": "𐝫𐜍"
@@ -63246,7 +66003,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂"
@@ -63284,7 +66042,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-PI-NA-MA",
                 "word": "𐝫𐘚𐘢𐘅𐙁"
@@ -63297,6 +66056,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI-RU-TE",
@@ -63317,6 +66077,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -63353,6 +66114,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -63381,6 +66143,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "ZA",
@@ -63429,7 +66192,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐝫𐘁"
@@ -63438,6 +66202,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -63502,7 +66267,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "E",
                 "word": "𐝫𐘡𐝫"
@@ -63516,7 +66282,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PI",
                 "word": "𐝫𐘢𐝫"
@@ -63532,7 +66299,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐝫𐘈𐝫"
@@ -63643,6 +66411,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QE-SI-*79-E",
@@ -63663,6 +66432,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -63684,6 +66454,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SI-PI-KI",
@@ -63725,6 +66496,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -63762,6 +66534,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -63783,6 +66556,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "*21F-*118",
@@ -63850,7 +66624,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "SA-MI-DA-E",
                 "word": "𐘞𐘻𐘀𐘡𐝫"
@@ -63919,6 +66694,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word"
                 ],
@@ -63940,6 +66716,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SI-PI-KI",
@@ -63968,6 +66745,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "MA-KA-I-TA",
@@ -63997,6 +66775,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*171",
@@ -64043,7 +66822,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "I-SE",
                 "word": "𐘚𐘈𐝫"
@@ -64058,6 +66839,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -64080,6 +66863,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -64100,7 +66885,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I",
                 "word": "𐘚𐝫"
@@ -64134,7 +66920,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭𐝫"
@@ -64189,7 +66976,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐙋𐝫"
@@ -64206,7 +66995,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘𐝫"
@@ -64222,7 +67012,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "I-SE",
                 "word": "𐘚𐘈𐝫"
@@ -64243,6 +67035,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -64272,6 +67066,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIN+RA",
@@ -64318,7 +67113,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -64461,6 +67258,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word also in linear b",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -64505,6 +67303,7 @@ var wordAnnotations =
                     "transaction term",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "KI-RA",
@@ -64540,6 +67339,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NI",
@@ -64580,7 +67380,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-RI-NI-TA",
                 "word": "𐘇𐘭𐘝𐘳"
@@ -64595,7 +67396,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "B-B",
                 "word": "𐝁𐝁"
@@ -64658,6 +67461,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-I-PI-TA",
@@ -64701,7 +67505,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "B-B",
                 "word": "𐝁𐝁"
@@ -64714,7 +67520,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NU-TI",
                 "word": "𐝫𐘯𐘠"
@@ -64734,7 +67541,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ZA",
                 "word": "𐘍𐝫"
@@ -64747,7 +67555,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RA",
                 "word": "𐝫𐘴"
@@ -64755,6 +67564,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "QI+SI",
@@ -64798,6 +67609,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "QI+SI",
@@ -64842,6 +67655,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "QI+SI",
@@ -64878,6 +67693,8 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -64906,6 +67723,8 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -64948,7 +67767,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂𐝫"
@@ -65049,6 +67869,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DA-I-PI-TA",
@@ -65069,6 +67890,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "DU-RE-ZA-SE",
@@ -65109,7 +67931,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DU-RE-ZA-SE",
                 "word": "𐘬𐘙𐘍𐘈"
@@ -65118,6 +67941,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131B",
@@ -65138,6 +67962,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "U-*49",
@@ -65198,6 +68023,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -65279,6 +68105,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "PA-JA-RE",
@@ -65321,6 +68148,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "TA",
@@ -65340,7 +68168,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DU",
                 "word": "𐘬"
@@ -65376,6 +68205,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*516",
@@ -65396,7 +68226,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭𐝫"
@@ -65418,6 +68250,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "VIN",
@@ -65471,6 +68305,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "JU",
@@ -65493,6 +68328,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -65535,7 +68372,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction term",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU-PA",
                 "word": "𐙂𐘂"
@@ -65549,7 +68387,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -65585,6 +68425,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -65627,6 +68468,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*516",
@@ -65660,7 +68502,9 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐛭"
@@ -65716,6 +68560,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RA",
@@ -65736,7 +68581,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction term",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU-PA",
                 "word": "𐙂𐘂"
@@ -65751,6 +68597,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -65800,7 +68648,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂𐝫"
@@ -65822,6 +68671,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TI",
@@ -65843,6 +68693,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RU",
@@ -65891,7 +68742,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TU",
                 "word": "𐝫𐘹𐝫"
@@ -65913,7 +68765,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐘂𐝫"
@@ -65935,6 +68788,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -65956,6 +68810,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RU",
@@ -66039,6 +68894,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -66209,6 +69065,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-VIN",
@@ -66222,6 +69079,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "QE-SI-*79-E",
@@ -66295,6 +69153,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -66316,6 +69175,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SI-PI-KI",
@@ -66364,6 +69224,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SA-MI-DA-E",
@@ -66404,6 +69265,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
                     "head word"
                 ],
                 "transliteratedWord": "KA-DI",
@@ -66420,6 +69282,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -66454,6 +69318,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-RO",
@@ -66470,6 +69335,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -66491,6 +69358,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "VIN+RA",
@@ -66527,6 +69395,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -66555,7 +69424,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐝫𐘂"
@@ -66576,7 +69446,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SU",
                 "word": "𐝫𐘲"
@@ -66688,6 +69559,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "GRA+PA",
@@ -66717,6 +69589,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -66744,6 +69617,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -66751,7 +69625,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "B-B",
                 "word": "𐝁𐝁"
@@ -66765,6 +69640,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -66822,7 +69698,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "𐝕𐝉𐝫",
                 "word": "𐝕𐝉𐝫"
@@ -66906,7 +69783,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "DU-RE-ZA-SE",
                 "word": "𐝫𐘬𐘙𐘍𐘈𐝫"
@@ -66915,7 +69793,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "MI",
                 "word": "𐝫𐘻𐝫"
@@ -66968,6 +69847,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "SI-TU",
@@ -67029,6 +69909,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction term",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU-RA",
@@ -67064,7 +69945,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ME",
                 "word": "𐝫𐘋𐝫"
@@ -67113,6 +69995,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
@@ -67128,6 +70011,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -67178,7 +70062,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "transaction sign",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "PA",
                 "word": "𐝫𐘂𐝫"
@@ -67224,6 +70109,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -67261,6 +70147,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "place name",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -67277,7 +70164,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐝫𐘸𐝫"
@@ -67343,7 +70231,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "ME",
                 "word": "𐘋"
@@ -67372,7 +70261,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*22F",
                 "word": "𐝫𐘓𐝫"
@@ -67385,7 +70276,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*22M",
                 "word": "𐘔"
@@ -67419,7 +70311,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RA",
                 "word": "𐘴𐝫"
@@ -67443,7 +70336,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*22F",
                 "word": "𐘓"
@@ -67490,7 +70385,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location",
+                    "Repeated in Inscription"
                 ],
                 "transliteratedWord": "*22F",
                 "word": "𐘓"
@@ -67566,6 +70463,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -67577,6 +70475,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -67620,7 +70519,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐝫𐘳𐝫"
@@ -67675,6 +70575,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "SI-TE",
@@ -67705,6 +70606,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -67740,7 +70642,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐝫𐘸𐝫"
@@ -67769,6 +70672,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -67879,7 +70783,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "GRA+PA",
                 "word": "𐝫𐛭"
@@ -67929,6 +70834,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
@@ -67953,6 +70859,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -68050,7 +70957,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DU",
                 "word": "𐝫𐘬"
@@ -68100,7 +71008,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐝫𐘱𐝫"
@@ -68168,7 +71077,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐘁"
@@ -68181,7 +71091,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐙕"
@@ -68194,6 +71105,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -68207,6 +71119,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "head word"
                 ],
                 "transliteratedWord": "A-TI-KA-A-DU-KO-MI",
@@ -68220,6 +71134,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-TI-KA-A-DU-KO-MI",
@@ -68234,6 +71150,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -68270,6 +71187,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A-SE",
@@ -68311,6 +71229,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TI-TI-KU",
@@ -68353,7 +71272,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RU-DI",
                 "word": "𐘘𐘆𐝫"
@@ -68367,6 +71287,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word",
                     "recurring head word"
@@ -68421,6 +71342,7 @@ var wordAnnotations =
                 "tags": [
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TE",
@@ -68435,7 +71357,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐝫𐘱𐝫"
@@ -68483,7 +71406,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-PI-NA-MA",
                 "word": "𐘚𐘢𐘅𐙁𐝫"
@@ -68542,7 +71466,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "QA",
                 "word": "𐝫𐘌"
@@ -68562,7 +71487,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "uses to prefix (I-/J-)",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-DA-MA-TE",
                 "word": "𐘚𐘀𐙁𐘃"
@@ -68576,7 +71502,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "uses to prefix (I-/J-)",
-                    "word"
+                    "word",
+                    "Confined to location"
                 ],
                 "transliteratedWord": "I-DA-MA-TE",
                 "word": "𐘚𐘀𐙁𐘃𐝫"
@@ -68590,6 +71517,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -68597,7 +71525,9 @@ var wordAnnotations =
                 "word": "𐘮"
             },
             {
-                "tags": [],
+                "tags": [
+                    "More than one location"
+                ],
                 "transliteratedWord": "≈",
                 "word": "≈"
             },
@@ -68636,7 +71566,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "QA",
                 "word": "𐘌𐝫"
@@ -68651,7 +71582,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KI",
                 "word": "𐝫𐘸𐝫"
@@ -68685,7 +71617,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-RA",
                 "word": "𐘇𐘴𐝫"
@@ -68727,6 +71660,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -68756,7 +71690,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-PA",
                 "word": "𐘇𐘂𐝫"
@@ -68798,6 +71733,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -68825,6 +71761,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -68863,6 +71800,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA3",
@@ -68903,6 +71841,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "NA",
@@ -68936,7 +71875,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "transaction term",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU-RA",
                 "word": "𐙂𐘴"
@@ -68945,6 +71885,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131B",
@@ -69062,6 +72003,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -69092,6 +72035,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "OLIV",
@@ -69122,7 +72066,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*131B",
                 "word": "𐙎"
@@ -69156,6 +72101,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*317",
@@ -69199,6 +72146,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -69222,6 +72171,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "transaction sign",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -69243,6 +72193,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "Confined to location",
+                    "Repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*317",
@@ -69262,7 +72214,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*312",
                 "word": "𐙢"
@@ -69285,6 +72238,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "KU",
@@ -69314,6 +72268,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -69344,6 +72300,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -69367,6 +72325,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -69408,6 +72368,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -69431,6 +72393,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -69490,7 +72453,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TA",
                 "word": "𐝫𐘳"
@@ -69506,6 +72470,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -69526,6 +72491,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -69543,6 +72509,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "JU",
@@ -69656,6 +72623,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "RE",
@@ -69675,7 +72643,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end"
+                    "lacuna at end",
+                    "More than one location"
                 ],
                 "transliteratedWord": "U",
                 "word": "𐘉𐝫"
@@ -69827,6 +72796,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "GRA",
@@ -69849,6 +72819,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131B",
@@ -69869,6 +72840,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -69912,7 +72884,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "KU",
                 "word": "𐙂𐝫"
@@ -69926,7 +72899,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "TE-RI",
                 "word": "𐝫𐘃𐘭𐝫"
@@ -69979,6 +72953,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
                     "assigned number"
                 ],
                 "transliteratedWord": "*308",
@@ -70018,13 +72993,16 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "transaction sign",
+                    "More than one location",
                     "head word"
                 ],
                 "transliteratedWord": "SA",
                 "word": "𐘞"
             },
             {
-                "tags": [],
+                "tags": [
+                    "More than one location"
+                ],
                 "transliteratedWord": "≈",
                 "word": "≈"
             },
@@ -70043,7 +73021,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*306-TA-JE",
                 "word": "𐙚𐘳𐘧"
@@ -70089,7 +73068,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*301+*311",
                 "word": "𐜈"
@@ -70130,7 +73110,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "I-JA",
                 "word": "𐘚𐘱"
@@ -70170,7 +73151,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "JA",
                 "word": "𐘱"
@@ -70185,6 +73167,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -70192,26 +73175,34 @@ var wordAnnotations =
                 "word": "𐙍𐝫"
             },
             {
-                "tags": [],
+                "tags": [
+                    "More than one location",
+                    "Repeated in Inscription"
+                ],
                 "transliteratedWord": "≈",
                 "word": "≈"
             },
             {
                 "tags": [
                     "logogram",
-                    "commodity"
+                    "commodity",
+                    "More than one location"
                 ],
                 "transliteratedWord": "NI",
                 "word": "𐘝"
             },
             {
-                "tags": [],
+                "tags": [
+                    "More than one location",
+                    "Repeated in Inscription"
+                ],
                 "transliteratedWord": "≈",
                 "word": "≈"
             },
             {
                 "tags": [
-                    "logogram"
+                    "logogram",
+                    "More than one location"
                 ],
                 "transliteratedWord": "VIN+RA",
                 "word": "𐛿"
@@ -70249,7 +73240,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "*306-TA-JE",
                 "word": "𐙚𐘳𐘧"
@@ -70277,6 +73269,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI",
@@ -70291,6 +73285,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "transaction sign",
+                    "More than one location",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -70313,6 +73308,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "More than one location",
+                    "Repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -70334,7 +73331,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀𐝫"
@@ -70370,7 +73368,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐝫𐘈𐝫"
@@ -70451,7 +73450,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "DA",
                 "word": "𐘀𐝫"
@@ -70459,7 +73459,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign"
+                    "transaction sign",
+                    "More than one location"
                 ],
                 "transliteratedWord": "RE",
                 "word": "𐘙"
@@ -70519,6 +73520,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
+                    "More than one location",
                     "assigned number",
                     "head word"
                 ],
@@ -70572,6 +73574,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SI-TE",
@@ -70596,7 +73599,8 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "A-MI",
                 "word": "𐘇𐘻"
@@ -70609,6 +73613,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "More than one location",
                     "head word",
                     "recurring head word"
                 ],
@@ -70622,7 +73627,8 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word"
+                    "word",
+                    "More than one location"
                 ],
                 "transliteratedWord": "U-NA-KA-NA-SI",
                 "word": "𐘉𐘅𐘾𐘅𐘤"

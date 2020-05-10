@@ -1008,7 +1008,8 @@ function showWordChart(searchTerm, item) {
       }
       for (var i = 0; i < inscription.words.length; i++) {
         var word = stripErased(inscription.words[i]);
-        if (word != searchTerm) {
+        var transliteratedWord = stripErased(inscription.transliteratedWords[i]);
+        if (word != searchTerm && transliteratedWord != searchTerm) {
           continue;
         }
         if (transliteratedWordDisplay.textContent == "") {
