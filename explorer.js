@@ -1357,6 +1357,14 @@ function consoleButton(button, metadata, activeMetadataName) {
       x.addEventListener("click", toggleMetadatum(''));
     });
   }
+
+  document.addEventListener("click", function (e) {
+    var container = document.getElementById("filter-details-container");
+    container.style.visibility = "hidden";
+    container.showing = "";
+    hideMap();
+  });
+
   button.addEventListener("click", function (event) { 
     metadata = metadata.filter(function(item, pos, self) {
           return self.indexOf(item) == pos;
@@ -1411,6 +1419,7 @@ function consoleButton(button, metadata, activeMetadataName) {
       }
       container.appendChild(item);
     }
+    event.stopPropagation();
   });
 
   function hideMap() {
