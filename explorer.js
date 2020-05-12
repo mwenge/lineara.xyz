@@ -124,7 +124,6 @@ function checkKey(e) {
       container.innerHTML = "";
       clearTags();
       applySearchTerms();
-      document.getElementById("clear-command").style.backgroundColor = "black";
       break;
     default:
       return;
@@ -1241,7 +1240,6 @@ function hasTag(tag, inscription) {
 }
 
 function applySearchTerms() {
-  document.getElementById("clear-command").style.backgroundColor = "purple";
 
   var searchTerms = document.getElementById("search-terms");
   var numberOfSearchTerms = searchTerms.children.length;
@@ -1249,6 +1247,11 @@ function applySearchTerms() {
                          .map(x => stripErased(x.textContent));
   var numberOfTags = activeTags.length + consoleButtons.get('activeWordTags').currentActiveTags().length;
   var hasSearchTerm = (numberOfSearchTerms + numberOfTags > 0)
+  if (!hasSearchTerm) {
+    document.getElementById("clear-command").style.backgroundColor = "black";
+  } else {
+    document.getElementById("clear-command").style.backgroundColor = "purple";
+  }
   clearHighlights();
 
   for (var inscription of inscriptions.values()) {

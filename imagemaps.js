@@ -1080,7 +1080,6 @@ var inscriptionCoordinates = [
 {"areas":[{"coords":{"x":24,"y":40,"width":79,"height":92}}],"img":"images/HTWa1739-Inscription.jpg"},
 {"areas":[{"coords":{"x":24,"y":46,"width":80,"height":84}}],"img":"images/HTWa1789-Facsimile.jpg"},
 {"areas":[{"coords":{"x":24,"y":47,"width":69,"height":90}}],"img":"images/HTWa1444-Inscription.jpg"},
-{"areas":[{"coords":{"x":24,"y":48,"width":41,"height":56}},{"coords":{"x":68,"y":49,"width":34,"height":54}},{"coords":{"x":95,"y":43,"width":30,"height":49}},{"coords":{"x":127,"y":32,"width":37,"height":54}}],"img":"images/ZAWc2-Facsimile.jpg"},
 {"areas":[{"coords":{"x":24,"y":49,"width":51,"height":101}}],"img":"images/HTWa1239-Inscription.jpg"},
 {"areas":[{"coords":{"x":24,"y":49,"width":77,"height":85}}],"img":"images/HTWa1461-Facsimile.jpg"},
 {"areas":[{"coords":{"x":24,"y":5,"width":79,"height":79}}],"img":"images/HTWa1057-Inscription.jpg"},
