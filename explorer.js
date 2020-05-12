@@ -630,7 +630,7 @@ function loadInscription(inscription) {
       span.id = inscription.name + "-transcription-" + i;
       span.addEventListener("mouseover", highlightWords(inscription.name, i));
       span.addEventListener("mouseout", clearHighlight(inscription.name, i));
-      span.addEventListener("click", updateSearchTerms(span.textContent));
+      span.addEventListener("click", updateSearchTerms("\"" + span.textContent + "\""));
     }
     transcript.appendChild(span);
   }
@@ -706,7 +706,7 @@ function populateText(inscription, type, words) {
       span.id = inscription.name + "-" + type + "-" + i;
       span.addEventListener("mouseover", highlightWords(inscription.name, i));
       span.addEventListener("mouseout", clearHighlight(inscription.name, i));
-      span.addEventListener("click", updateSearchTerms(inscription.words[i]));
+      span.addEventListener("click", updateSearchTerms("\"" + inscription.words[i] + "\"));
     }
     transcript.appendChild(span);
   }
