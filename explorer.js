@@ -943,6 +943,7 @@ function showWordChart(searchTerm, item) {
     var wordDisplay = document.createElement("div");
     wordDisplay.className = "tip-display";
     wordDisplay.textContent = searchTerm;
+    searchTerm = searchTerm.replace(/\"/g, "");
     wordCommentElement.appendChild(wordDisplay);
     var transliteratedWordDisplay = document.createElement("div");
     transliteratedWordDisplay.className = "tip-display";
