@@ -9,7 +9,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "head word"
                 ],
-                "transliteratedWord": "QE-RA2-U",
+                "transliteratedWord": "QE-RA₂-U",
                 "word": "𐘿𐘽𐘉"
             },
             {
@@ -96,7 +96,7 @@ var wordAnnotations =
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
-                "transliteratedWord": "KU-PA3-NU",
+                "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
             },
             {
@@ -177,7 +177,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+A",
                 "word": "𐝫𐜊"
@@ -253,7 +254,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+A",
                 "word": "𐝫𐜊"
@@ -340,7 +342,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "QE-RA2-JA",
+                "transliteratedWord": "QE-RA₂-JA",
                 "word": "𐘿𐘽𐘱𐝫"
             },
             {
@@ -401,7 +403,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "MU-RU",
                 "word": "𐘕𐘘"
@@ -439,7 +442,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "SI-TU-RA2-RE",
+                "transliteratedWord": "SI-TU-RA₂-RE",
                 "word": "𐝫𐘤𐘹𐘽𐘙"
             },
             {
@@ -476,7 +479,7 @@ var wordAnnotations =
                     "word",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "KU-PA3-NU",
+                "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐝫𐙂𐘰𐘯"
             },
             {
@@ -870,7 +873,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "O-RA2-DI-NE",
+                "transliteratedWord": "O-RA₂-DI-NE",
                 "word": "𐘵𐘽𐘆𐘗"
             },
             {
@@ -1000,6 +1003,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word"
                 ],
                 "transliteratedWord": "WA-DU-NI-MI",
@@ -1147,7 +1151,7 @@ var wordAnnotations =
                     "assigned number",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "PA3-NI-NA",
+                "transliteratedWord": "PA₃-NI-NA",
                 "word": "𐘰𐘝𐘅"
             },
             {
@@ -1246,7 +1250,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TA-NA-TI",
                 "word": "𐘳𐘅𐘠"
@@ -1267,7 +1272,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -1288,7 +1294,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TE-TU",
                 "word": "𐘃𐘹"
@@ -1387,7 +1394,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "PA3-KA-RA-TI",
+                "transliteratedWord": "PA₃-KA-RA-TI",
                 "word": "𐘰𐘾𐘴𐘠"
             },
             {
@@ -1444,7 +1451,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TE-*301",
                 "word": "𐘃𐙕"
@@ -1465,7 +1473,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA-*310-I",
                 "word": "𐘌𐙠𐘚"
@@ -1536,7 +1545,7 @@ var wordAnnotations =
                     "assigned number",
                     "head word"
                 ],
-                "transliteratedWord": "SU-PU2-*188",
+                "transliteratedWord": "SU-PU₂-*188",
                 "word": "𐘲𐘜𐙓"
             },
             {
@@ -1581,7 +1590,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "PA3-*188",
+                "transliteratedWord": "PA₃-*188",
                 "word": "𐘰𐙓"
             },
             {
@@ -1600,7 +1609,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA-*310-I",
                 "word": "𐘌𐙠𐘚"
@@ -1810,7 +1820,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*306-TU",
                 "word": "𐙚𐘹"
@@ -1853,7 +1864,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QE-PU",
                 "word": "𐘿𐘫"
@@ -1874,7 +1886,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*324-DI-RA",
                 "word": "𐙰𐘆𐘴"
@@ -1933,7 +1946,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "A-RU",
                 "word": "𐘇𐘘"
@@ -1993,11 +2007,10 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign",
                     "Appears at 2 find sites",
                     "head word"
                 ],
-                "transliteratedWord": "PA3",
+                "transliteratedWord": "PA₃",
                 "word": "𐘰"
             },
             {
@@ -2105,7 +2118,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*306-TU",
                 "word": "𐙚𐘹"
@@ -2126,7 +2140,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*324-DI-RA",
                 "word": "𐙰𐘆𐘴"
@@ -2147,7 +2162,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QE-PU",
                 "word": "𐘿𐘫"
@@ -2307,7 +2323,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -2452,7 +2469,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "ME-ZA",
                 "word": "𐘋𐘍"
@@ -2495,7 +2513,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -2587,7 +2606,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TA-NA-TI",
                 "word": "𐘳𐘅𐘠"
@@ -2733,7 +2753,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "VIR+[?]-I",
                 "word": "𐙇𐘚"
@@ -2754,9 +2775,10 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
-                "transliteratedWord": "TA2",
+                "transliteratedWord": "TA₂",
                 "word": "𐘷"
             },
             {
@@ -2790,7 +2812,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "RU-RA2",
+                "transliteratedWord": "RU-RA₂",
                 "word": "𐘘𐘽"
             },
             {
@@ -3003,7 +3025,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -3039,7 +3062,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
                 "word": "𐚻"
@@ -3097,7 +3121,8 @@ var wordAnnotations =
                     "weight",
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*118",
                 "word": "𐙈"
@@ -3118,7 +3143,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*303+E",
                 "word": "𐜚"
@@ -3184,7 +3210,8 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-I",
                 "word": "𐘀𐘚"
@@ -3283,7 +3310,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TE-TU",
                 "word": "𐘃𐘹"
@@ -3304,7 +3332,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TE-KI",
                 "word": "𐘃𐘸"
@@ -3334,7 +3363,8 @@ var wordAnnotations =
                     "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "KU-*79-NI",
                 "word": "𐙂𐙀𐘝"
@@ -3355,7 +3385,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-SI-*118",
                 "word": "𐘀𐘤𐙈"
@@ -3531,7 +3562,8 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -3576,7 +3608,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "A-PU2-NA-DU",
+                "transliteratedWord": "A-PU₂-NA-DU",
                 "word": "𐘇𐘜𐘅𐘬"
             },
             {
@@ -3653,7 +3685,8 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -3895,7 +3928,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*188+KU",
                 "word": "𐜇"
@@ -4025,7 +4059,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "SI-DA-RE",
                 "word": "𐘤𐘀𐘙"
@@ -4055,7 +4090,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "GRA+QE",
                 "word": "𐛱"
@@ -4099,7 +4135,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -4118,12 +4155,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -4442,7 +4478,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*188+KU",
                 "word": "𐜇"
@@ -4571,7 +4608,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -4760,7 +4798,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+NE",
                 "word": "𐜍"
@@ -4782,7 +4821,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+TU",
                 "word": "𐜖"
@@ -4804,7 +4844,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+RI",
                 "word": "𐜏"
@@ -4892,7 +4933,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
                 "word": "𐚺"
@@ -5189,12 +5231,11 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "adjective for placename",
                     "word",
                     "Only instance of word",
                     "head word"
                 ],
-                "transliteratedWord": "KU-PA3-RI-JA",
+                "transliteratedWord": "KU-PA₃-RI-JA",
                 "word": "𐙂𐘰𐘭𐘱"
             },
             {
@@ -5229,7 +5270,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "MA-RU-ME",
                 "word": "𐙁𐘘𐘋"
@@ -5272,7 +5314,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "MA-RU-ME",
                 "word": "𐙁𐘘𐘋"
@@ -5341,7 +5384,8 @@ var wordAnnotations =
                     "weight",
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*118",
                 "word": "𐝫𐙈"
@@ -5567,7 +5611,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "*79-JU-PU2",
+                "transliteratedWord": "*79-JU-PU₂",
                 "word": "𐝫𐙀𐘶𐘜"
             },
             {
@@ -5830,7 +5874,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TA-TI",
                 "word": "𐘳𐘠"
@@ -5995,7 +6040,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "KI+MU",
                 "word": "𐛖"
@@ -6213,7 +6259,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 3 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QE",
                 "word": "𐝫𐘿"
@@ -6825,7 +6872,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "GRA+QE",
                 "word": "𐛱"
@@ -6911,7 +6959,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+TU",
                 "word": "𐜖"
@@ -6931,12 +6980,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -7063,7 +7111,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -7173,12 +7222,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -7278,7 +7326,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "PU-RA2",
+                "transliteratedWord": "PU-RA₂",
                 "word": "𐘫𐘽"
             },
             {
@@ -7606,12 +7654,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -7744,7 +7791,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
                 "word": "𐚻"
@@ -8059,7 +8107,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "*815-QA-PA3",
+                "transliteratedWord": "*815-QA-PA₃",
                 "word": "𐚢𐘌𐘰"
             },
             {
@@ -8102,7 +8150,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "*416-VS-KA-RO-PA3",
+                "transliteratedWord": "*416-VS-KA-RO-PA₃",
                 "word": "𐝫𐚰𐘾𐘁𐘰"
             },
             {
@@ -8191,7 +8239,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "*815-SU-PA3-RA",
+                "transliteratedWord": "*815-SU-PA₃-RA",
                 "word": "𐚢𐘲𐘰𐘴"
             },
             {
@@ -8244,12 +8292,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -8286,7 +8333,8 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+NE",
                 "word": "𐜍"
@@ -8308,7 +8356,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
                 "word": "𐚻"
@@ -8489,12 +8538,11 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -8507,7 +8555,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Appears at 2 find sites"
+                    "Appears at 2 find sites",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*401+*304",
                 "word": "𐜫"
@@ -8521,7 +8570,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
                 "word": "𐚺"
@@ -8586,7 +8636,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "E+KA",
                 "word": "𐛆"
@@ -8608,7 +8659,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "MI+JA+KA",
                 "word": "𐛜"
@@ -8731,12 +8783,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -8860,7 +8911,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
                 "word": "𐚻"
@@ -8947,12 +8999,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign",
                     "Appears at 2 find sites",
                     "assigned number",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "PA3",
+                "transliteratedWord": "PA₃",
                 "word": "𐘰"
             },
             {
@@ -8995,7 +9046,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "E+KA",
                 "word": "𐛆"
@@ -9018,6 +9070,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 4 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PU",
@@ -9130,7 +9183,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+RI",
                 "word": "𐜏"
@@ -9209,7 +9263,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
                 "word": "𐚻"
@@ -9560,7 +9615,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 3 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QE",
                 "word": "𐝫𐘿"
@@ -9769,7 +9825,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "KU-RE-JU",
                 "word": "𐝫𐙂𐘙𐘶"
@@ -10133,7 +10190,8 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -10172,7 +10230,8 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -11093,7 +11152,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
                 "word": "𐚺"
@@ -11193,7 +11253,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+RE+PU",
                 "word": "𐚺"
@@ -11233,6 +11294,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "Appears at 10 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -11483,7 +11545,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "KU-PA3-NA-TU",
+                "transliteratedWord": "KU-PA₃-NA-TU",
                 "word": "𐙂𐘰𐘅𐘹"
             },
             {
@@ -11539,7 +11601,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 3 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "PI",
                 "word": "𐝫𐘢"
@@ -11655,7 +11718,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "RA2-DU",
+                "transliteratedWord": "RA₂-DU",
                 "word": "𐝫𐘽𐘬𐝫"
             },
             {
@@ -11825,7 +11888,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "A-RU",
                 "word": "𐘇𐘘"
@@ -11890,7 +11954,7 @@ var wordAnnotations =
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
-                "transliteratedWord": "KU-PA3-NU",
+                "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
             },
             {
@@ -11911,7 +11975,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "TU-SU-PU2",
+                "transliteratedWord": "TU-SU-PU₂",
                 "word": "𐘹𐘲𐘜"
             },
             {
@@ -11987,7 +12051,8 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TU",
                 "word": "𐘹"
@@ -12288,7 +12353,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -12320,7 +12386,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐝫𐙋"
@@ -12341,7 +12408,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*OLIV+TU",
                 "word": "𐛺"
@@ -12596,7 +12664,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*79-DU",
                 "word": "𐝫𐙀𐘬"
@@ -13068,7 +13137,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "KI-MI-RA2",
+                "transliteratedWord": "KI-MI-RA₂",
                 "word": "𐝫𐘸𐘻𐘽𐝫"
             },
             {
@@ -13211,7 +13280,8 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐝫𐙕"
@@ -13232,7 +13302,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "SI-RU",
                 "word": "𐘤𐘘"
@@ -13646,6 +13717,7 @@ var wordAnnotations =
                     "transaction sign",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*305",
@@ -13762,7 +13834,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+E",
                 "word": "𐝫𐜎"
@@ -14517,7 +14590,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "SU-PU2",
+                "transliteratedWord": "SU-PU₂",
                 "word": "𐘲𐘜𐝫"
             },
             {
@@ -14531,6 +14604,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*79",
@@ -15545,7 +15619,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "DA-PA3",
+                "transliteratedWord": "DA-PA₃",
                 "word": "𐘀𐘰𐝫"
             },
             {
@@ -15627,6 +15701,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*79",
@@ -15766,7 +15841,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "RI-SU-MA",
                 "word": "𐝫𐘭𐘲𐙁"
@@ -16043,7 +16119,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
                 ],
-                "transliteratedWord": "PA3-NI",
+                "transliteratedWord": "PA₃-NI",
                 "word": "𐘰𐘝"
             },
             {
@@ -16083,7 +16159,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-SI-*118",
                 "word": "𐘀𐘤𐙈"
@@ -16105,7 +16182,8 @@ var wordAnnotations =
                     "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "KU-*79-NI",
                 "word": "𐙂𐙀𐘝"
@@ -16148,7 +16226,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -16217,7 +16296,7 @@ var wordAnnotations =
                     "assigned number",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "KI-RE-TA2",
+                "transliteratedWord": "KI-RE-TA₂",
                 "word": "𐘸𐘙𐘷"
             },
             {
@@ -16236,7 +16315,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QE-KA",
                 "word": "𐘿𐘾"
@@ -16345,7 +16425,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "ME-ZA",
                 "word": "𐘋𐘍"
@@ -16388,6 +16469,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "WA-DU-NI-MI",
@@ -16431,7 +16513,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA-*310-I",
                 "word": "𐘌𐙠𐘚"
@@ -16484,7 +16567,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*584",
                 "word": "𐛷"
@@ -16526,7 +16610,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DI-DE-RU",
                 "word": "𐘆𐘦𐘘"
@@ -16549,7 +16634,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "QA-RA2-WA",
+                "transliteratedWord": "QA-RA₂-WA",
                 "word": "𐘌𐘽𐘮"
             },
             {
@@ -16610,7 +16695,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*580",
                 "word": "𐛳"
@@ -16685,7 +16771,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*584",
                 "word": "𐛷"
@@ -16820,7 +16907,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DI-KI-SE",
                 "word": "𐘆𐘸𐘈"
@@ -17036,7 +17124,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "KU-PA3-PA3",
+                "transliteratedWord": "KU-PA₃-PA₃",
                 "word": "𐙂𐘰𐘰"
             },
             {
@@ -17078,7 +17166,7 @@ var wordAnnotations =
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
-                "transliteratedWord": "KU-PA3-NU",
+                "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
             },
             {
@@ -17185,7 +17273,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "head word"
                 ],
-                "transliteratedWord": "A-SA-RA2",
+                "transliteratedWord": "A-SA-RA₂",
                 "word": "𐘇𐘞𐘽"
             },
             {
@@ -17281,7 +17369,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "VIR+*313a",
                 "word": "𐛩"
@@ -17443,12 +17532,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -17524,7 +17612,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "SI-RU-MA-RI-TA2",
+                "transliteratedWord": "SI-RU-MA-RI-TA₂",
                 "word": "𐘤𐘘𐙁𐘭𐘷"
             },
             {
@@ -17600,7 +17688,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -17680,7 +17769,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -18006,7 +18096,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -18030,7 +18121,7 @@ var wordAnnotations =
                     "word repeated in Inscription",
                     "head word"
                 ],
-                "transliteratedWord": "PA3-NI-NA",
+                "transliteratedWord": "PA₃-NI-NA",
                 "word": "𐘰𐘝𐘅"
             },
             {
@@ -18045,7 +18136,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "GRA-PA3",
+                "transliteratedWord": "GRA-PA₃",
                 "word": "𐙉𐘰"
             },
             {
@@ -18170,7 +18261,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "I-GRA+PA",
                 "word": "𐘚𐛭"
@@ -18197,13 +18289,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -18238,7 +18329,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "I-GRA+PA",
                 "word": "𐘚𐛭"
@@ -18259,7 +18351,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "VIR+[?]-I",
                 "word": "𐙇𐘚"
@@ -18392,7 +18485,7 @@ var wordAnnotations =
                     "word repeated in Inscription",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "PA3-NI-NA",
+                "transliteratedWord": "PA₃-NI-NA",
                 "word": "𐘰𐘝𐘅𐝫"
             },
             {
@@ -18406,6 +18499,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA-SE-JA",
@@ -18576,7 +18670,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TI+A",
                 "word": "𐛃"
@@ -18661,12 +18756,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -18899,6 +18993,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA-TA-NE",
@@ -19213,7 +19308,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DI-DE-RU",
                 "word": "𐘆𐘦𐘘"
@@ -19237,7 +19333,7 @@ var wordAnnotations =
                     "assigned number",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "QE-RA2-U",
+                "transliteratedWord": "QE-RA₂-U",
                 "word": "𐘿𐘽𐘉"
             },
             {
@@ -19396,7 +19492,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DI-DE-RU",
                 "word": "𐘆𐘦𐘘"
@@ -19420,7 +19517,7 @@ var wordAnnotations =
                     "assigned number",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "QE-RA2-U",
+                "transliteratedWord": "QE-RA₂-U",
                 "word": "𐘿𐘽𐘉"
             },
             {
@@ -19927,6 +20024,7 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*327",
@@ -19971,7 +20069,8 @@ var wordAnnotations =
                     "word also in linear b",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "PA-I-TO",
                 "word": "𐘂𐘚𐘄"
@@ -20058,7 +20157,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "JU",
                 "word": "𐘶"
@@ -20123,7 +20223,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TA-TI",
                 "word": "𐘳𐘠"
@@ -20179,6 +20280,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "Appears at 10 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -20207,12 +20309,11 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             }
         ]
@@ -20283,7 +20384,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TA-NA-TI",
                 "word": "𐘳𐘅𐘠"
@@ -20327,7 +20429,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TE-*301",
                 "word": "𐘃𐙕"
@@ -20493,12 +20596,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -20579,7 +20681,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "GRA+QE",
                 "word": "𐛱"
@@ -20629,7 +20732,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-SI-*118",
                 "word": "𐘀𐘤𐙈"
@@ -20650,7 +20754,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*79-DU",
                 "word": "𐙀𐘬"
@@ -20694,7 +20799,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "VIR+KA",
                 "word": "𐝫𐛧"
@@ -20738,7 +20844,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TI+A",
                 "word": "𐛃"
@@ -20804,7 +20911,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "VIR+*313a",
                 "word": "𐛩"
@@ -20846,12 +20954,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -20999,7 +21106,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+NE",
                 "word": "𐜍"
@@ -21030,7 +21138,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "GRA+QE",
                 "word": "𐛱"
@@ -21115,12 +21224,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -21196,7 +21304,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "KU-PA3",
+                "transliteratedWord": "KU-PA₃",
                 "word": "𐙂𐘰𐝫"
             },
             {
@@ -21205,7 +21313,8 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+U",
                 "word": "𐝫𐜋"
@@ -21252,7 +21361,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -21340,7 +21450,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*OLIV+TU",
                 "word": "𐛺"
@@ -21376,12 +21487,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -21412,7 +21522,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "PA3-NI",
+                "transliteratedWord": "PA₃-NI",
                 "word": "𐘰𐘝"
             },
             {
@@ -21506,7 +21616,8 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "WI",
                 "word": "𐘣"
@@ -21574,7 +21685,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "head word"
                 ],
-                "transliteratedWord": "U-TA2",
+                "transliteratedWord": "U-TA₂",
                 "word": "𐘉𐘷"
             },
             {
@@ -21609,11 +21720,10 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign",
                     "Appears at 2 find sites",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "PA3",
+                "transliteratedWord": "PA₃",
                 "word": "𐘰"
             },
             {
@@ -21701,7 +21811,8 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "word repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-KU-SE-NE",
                 "word": "𐘀𐙂𐘈𐘗"
@@ -21949,12 +22060,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -22357,7 +22467,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "RA2-TI",
+                "transliteratedWord": "RA₂-TI",
                 "word": "𐝫𐘽𐘠"
             },
             {
@@ -22532,7 +22642,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*303+E",
                 "word": "𐜚"
@@ -22708,6 +22819,7 @@ var wordAnnotations =
                     "Appears at 4 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
@@ -22796,6 +22908,7 @@ var wordAnnotations =
                     "Appears at 4 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
@@ -22869,7 +22982,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QE-KA",
                 "word": "𐝫𐘿𐘾"
@@ -23356,7 +23470,7 @@ var wordAnnotations =
                     "head word",
                     "recurring head word"
                 ],
-                "transliteratedWord": "KI-RI-TA2",
+                "transliteratedWord": "KI-RI-TA₂",
                 "word": "𐘸𐘭𐘷"
             },
             {
@@ -23366,12 +23480,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -23493,6 +23606,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word"
                 ],
                 "transliteratedWord": "SA-VIN",
@@ -23636,7 +23750,8 @@ var wordAnnotations =
                     "word also in linear b",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "PA-RA-NE",
                 "word": "𐘂𐘴𐘗"
@@ -23777,7 +23892,8 @@ var wordAnnotations =
                     "word also in linear b",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "PA-RA-NE",
                 "word": "𐘂𐘴𐘗"
@@ -23855,7 +23971,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "DU-PA3-NA",
+                "transliteratedWord": "DU-PA₃-NA",
                 "word": "𐘬𐘰𐘅"
             },
             {
@@ -24059,7 +24175,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "PU-RA2",
+                "transliteratedWord": "PU-RA₂",
                 "word": "𐘫𐘽"
             },
             {
@@ -24293,7 +24409,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*OLIV+TU",
                 "word": "𐛺"
@@ -24348,7 +24465,8 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -24404,7 +24522,8 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -24459,7 +24578,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -24580,7 +24700,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "MI-TU",
                 "word": "𐘻𐘹"
@@ -24645,7 +24766,7 @@ var wordAnnotations =
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
-                "transliteratedWord": "KU-PA3-NU",
+                "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
             },
             {
@@ -24909,7 +25030,8 @@ var wordAnnotations =
                     "word also in linear b",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "KI-DA-RO",
                 "word": "𐘸𐘀𐘁"
@@ -24952,7 +25074,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "KU-RE-JU",
                 "word": "𐙂𐘙𐘶"
@@ -24973,7 +25096,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DI-KI-SE",
                 "word": "𐘆𐘸𐘈"
@@ -25233,6 +25357,7 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word"
                 ],
                 "transliteratedWord": "*327",
@@ -25320,7 +25445,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
                 ],
-                "transliteratedWord": "KU-PA3-NA-TU",
+                "transliteratedWord": "KU-PA₃-NA-TU",
                 "word": "𐙂𐘰𐘅𐘹"
             },
             {
@@ -25383,7 +25508,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*306-TU",
                 "word": "𐙚𐘹"
@@ -25478,7 +25604,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*584",
                 "word": "𐛷"
@@ -25544,7 +25671,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "I-GRA+PA",
                 "word": "𐘚𐛭"
@@ -25574,7 +25702,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*580",
                 "word": "𐛳"
@@ -25619,7 +25748,8 @@ var wordAnnotations =
                     "word also in linear b",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "PA-I-TO",
                 "word": "𐘂𐘚𐘄"
@@ -25653,7 +25783,7 @@ var wordAnnotations =
                     "head word",
                     "recurring head word"
                 ],
-                "transliteratedWord": "KI-RI-TA2",
+                "transliteratedWord": "KI-RI-TA₂",
                 "word": "𐘸𐘭𐘷"
             },
             {
@@ -25679,12 +25809,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -25855,7 +25984,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-SI-*118",
                 "word": "𐘀𐘤𐙈"
@@ -25921,7 +26051,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TE-KI",
                 "word": "𐘃𐘸"
@@ -25942,7 +26073,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA-*310-I",
                 "word": "𐘌𐙠𐘚"
@@ -25984,7 +26116,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "SI-DA-RE",
                 "word": "𐘤𐘀𐘙"
@@ -26005,7 +26138,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*324-DI-RA",
                 "word": "𐙰𐘆𐘴"
@@ -26051,7 +26185,7 @@ var wordAnnotations =
                     "word repeated in Inscription",
                     "assigned number"
                 ],
-                "transliteratedWord": "KU-PA3-NU",
+                "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
             },
             {
@@ -26071,6 +26205,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA-TA-NE",
@@ -26092,7 +26227,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*306-TU",
                 "word": "𐙚𐘹"
@@ -26138,7 +26274,7 @@ var wordAnnotations =
                     "word repeated in Inscription",
                     "assigned number"
                 ],
-                "transliteratedWord": "KU-PA3-NU",
+                "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
             },
             {
@@ -26272,7 +26408,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "*306-KI-TA2",
+                "transliteratedWord": "*306-KI-TA₂",
                 "word": "𐝫𐙚𐘸𐘷"
             },
             {
@@ -26357,7 +26493,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -26992,7 +27129,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "PI-SA",
                 "word": "𐘢𐘞"
@@ -27211,7 +27349,7 @@ var wordAnnotations =
                     "word",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "RA2",
+                "transliteratedWord": "RA₂",
                 "word": "𐝫𐘽𐝫"
             },
             {
@@ -27225,6 +27363,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 3 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -27271,7 +27410,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+MI",
                 "word": "𐝫𐜗"
@@ -27300,12 +27440,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐝫𐘞𐘽"
             },
             {
@@ -27401,7 +27540,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "RE-TA2",
+                "transliteratedWord": "RE-TA₂",
                 "word": "𐝫𐘙𐘷"
             },
             {
@@ -27459,7 +27598,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -27617,7 +27757,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "U-*49",
                 "word": "𐝫𐘉𐘪"
@@ -27697,6 +27838,7 @@ var wordAnnotations =
                     "transaction sign",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*305",
@@ -27732,7 +27874,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TWE",
                 "word": "𐙆"
@@ -28030,7 +28173,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "KI+MU",
                 "word": "𐛖"
@@ -28074,7 +28218,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "KI+MU",
                 "word": "𐛖"
@@ -28140,7 +28285,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Appears at 2 find sites"
+                    "Appears at 2 find sites",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "PA-RA",
                 "word": "𐘂𐘴"
@@ -28456,7 +28602,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "head word"
                 ],
-                "transliteratedWord": "KI-RE-TA2",
+                "transliteratedWord": "KI-RE-TA₂",
                 "word": "𐘸𐘙𐘷"
             },
             {
@@ -28496,7 +28642,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -28602,6 +28749,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 3 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE+KI",
@@ -28689,12 +28837,11 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA2",
+                "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
             },
             {
@@ -28733,7 +28880,7 @@ var wordAnnotations =
                     "word",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "RA2",
+                "transliteratedWord": "RA₂",
                 "word": "𐝫𐘽𐝫"
             },
             {
@@ -28774,7 +28921,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "SI-CYP",
                 "word": "𐘤𐙗"
@@ -28940,6 +29088,7 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 7 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -28970,7 +29119,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -29038,7 +29188,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐝫𐙋"
@@ -29190,11 +29341,10 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "transaction sign",
                     "Appears at 2 find sites",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "PA3",
+                "transliteratedWord": "PA₃",
                 "word": "𐘰"
             },
             {
@@ -29407,7 +29557,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 3 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "MI",
                 "word": "𐝫𐘻"
@@ -29613,7 +29764,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "TA2",
+                "transliteratedWord": "TA₂",
                 "word": "𐝫𐘷"
             },
             {
@@ -29668,6 +29819,7 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 7 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -29769,7 +29921,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "KA-RA2",
+                "transliteratedWord": "KA-RA₂",
                 "word": "𐝫𐘾𐘽𐝫"
             },
             {
@@ -30430,6 +30582,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 4 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MA",
@@ -31364,7 +31517,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "I-RA2",
+                "transliteratedWord": "I-RA₂",
                 "word": "𐘚𐘽"
             }
         ]
@@ -31377,7 +31530,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "I-RA2",
+                "transliteratedWord": "I-RA₂",
                 "word": "𐘚𐘽"
             }
         ]
@@ -31390,7 +31543,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "I-RA2",
+                "transliteratedWord": "I-RA₂",
                 "word": "𐘚𐘽"
             }
         ]
@@ -31403,7 +31556,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "I-RA2",
+                "transliteratedWord": "I-RA₂",
                 "word": "𐘚𐘽"
             }
         ]
@@ -31416,7 +31569,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "I-RA2",
+                "transliteratedWord": "I-RA₂",
                 "word": "𐘚𐘽"
             }
         ]
@@ -31429,7 +31582,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "I-RA2",
+                "transliteratedWord": "I-RA₂",
                 "word": "𐘚𐘽"
             }
         ]
@@ -31442,7 +31595,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "I-RA2",
+                "transliteratedWord": "I-RA₂",
                 "word": "𐘚𐘽"
             }
         ]
@@ -31455,7 +31608,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly"
                 ],
-                "transliteratedWord": "I-RA2",
+                "transliteratedWord": "I-RA₂",
                 "word": "𐘚𐘽"
             }
         ]
@@ -31532,6 +31685,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
+                    "always assigned number",
                     "head word"
                 ],
                 "transliteratedWord": "PA-TA-NE",
@@ -44003,7 +44157,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "PA-TA-DA-DU-PU2-RE",
+                "transliteratedWord": "PA-TA-DA-DU-PU₂-RE",
                 "word": "𐘂𐘳𐘀𐘬𐘜𐘙𐝫"
             }
         ]
@@ -45243,7 +45397,7 @@ var wordAnnotations =
                     "word",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "PU2",
+                "transliteratedWord": "PU₂",
                 "word": "𐝫𐘜𐝫"
             }
         ]
@@ -45514,7 +45668,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*306",
                 "word": "𐝫𐙚"
@@ -45630,7 +45785,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*303+E",
                 "word": "𐜚"
@@ -45778,7 +45934,8 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐝫𐜙"
@@ -45925,7 +46082,8 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*21M",
                 "word": "𐝫𐘑"
@@ -46024,7 +46182,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*334",
                 "word": "𐙺"
@@ -46084,7 +46243,8 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*303+D",
                 "word": "𐝫𐜙"
@@ -46121,7 +46281,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*306",
                 "word": "𐙚"
@@ -46214,7 +46375,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*334",
                 "word": "𐙺"
@@ -46266,7 +46428,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*303+E",
                 "word": "𐜚"
@@ -46841,7 +47004,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -46950,7 +47114,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
                 "word": "𐚻"
@@ -47413,7 +47578,8 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*303+E",
                 "word": "𐜚"
@@ -47461,7 +47627,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*306",
                 "word": "𐙚"
@@ -47537,7 +47704,8 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*303+E",
                 "word": "𐜚"
@@ -47635,7 +47803,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*306",
                 "word": "𐙚"
@@ -47656,7 +47825,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "SI-CYP",
                 "word": "𐘤𐙗"
@@ -47810,7 +47980,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*401+*304",
                 "word": "𐜫"
@@ -48124,7 +48295,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*336",
                 "word": "𐙼"
@@ -48665,7 +48837,8 @@ var wordAnnotations =
                     "word",
                     "Appears at 3 find sites",
                     "word repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*131C",
                 "word": "𐙏"
@@ -48846,7 +49019,8 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*303+E",
                 "word": "𐜚"
@@ -49482,7 +49656,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "TA2",
+                "transliteratedWord": "TA₂",
                 "word": "𐘷𐝫"
             },
             {
@@ -51543,7 +51717,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DI-NA",
                 "word": "𐝫𐘆𐘅"
@@ -51619,7 +51794,7 @@ var wordAnnotations =
                     "logogram",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "TA2-CYP",
+                "transliteratedWord": "TA₂-CYP",
                 "word": "𐘷𐙗𐝫"
             },
             {
@@ -53239,7 +53414,8 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*301",
                 "word": "𐝫𐙕"
@@ -53317,7 +53493,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+TA",
                 "word": "𐝫𐜐"
@@ -53911,7 +54088,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*316",
                 "word": "𐝫𐙨"
@@ -53970,7 +54148,8 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "TU",
                 "word": "𐘹"
@@ -56277,7 +56456,8 @@ var wordAnnotations =
                     "weight",
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*118",
                 "word": "𐙈"
@@ -56375,7 +56555,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "PO-DI-PA3",
+                "transliteratedWord": "PO-DI-PA₃",
                 "word": "𐝫𐘊𐘆𐘰"
             },
             {
@@ -56987,7 +57167,7 @@ var wordAnnotations =
                     "word",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "RA2",
+                "transliteratedWord": "RA₂",
                 "word": "𐘽"
             }
         ]
@@ -57416,7 +57596,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "NA-A-PA3",
+                "transliteratedWord": "NA-A-PA₃",
                 "word": "𐝫𐘅𐘇𐘰"
             }
         ]
@@ -57493,6 +57673,7 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 7 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "OLE",
@@ -58644,7 +58825,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "HIDE+B",
                 "word": "𐜅"
@@ -58832,7 +59014,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*412+E",
                 "word": "𐜰"
@@ -58911,7 +59094,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*412+E",
                 "word": "𐜰"
@@ -58988,7 +59172,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*412+E",
                 "word": "𐝫𐜰"
@@ -59299,7 +59484,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "PA3-SI-*47",
+                "transliteratedWord": "PA₃-SI-*47",
                 "word": "𐝫𐘰𐘤𐘨"
             }
         ]
@@ -59812,6 +59997,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "Appears at 10 find sites",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "A",
@@ -60264,7 +60450,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "SE-SA-PA3",
+                "transliteratedWord": "SE-SA-PA₃",
                 "word": "𐘈𐘞𐘰"
             },
             {
@@ -60379,7 +60565,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*560",
                 "word": "𐝫𐛢"
@@ -60402,7 +60589,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "PA-RA",
                 "word": "𐘂𐘴"
@@ -60642,7 +60830,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "I-DA-PA3-I-SA-RI",
+                "transliteratedWord": "I-DA-PA₃-I-SA-RI",
                 "word": "𐘚𐘀𐘰𐘚𐘞𐘭"
             }
         ]
@@ -60906,7 +61094,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -61014,7 +61203,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*316",
                 "word": "𐝫𐙨"
@@ -61807,7 +61997,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "A-PA3",
+                "transliteratedWord": "A-PA₃",
                 "word": "𐝫𐘇𐘰𐝫"
             },
             {
@@ -61828,7 +62018,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "JA-KI-PA3",
+                "transliteratedWord": "JA-KI-PA₃",
                 "word": "𐘱𐘸𐘰𐝫"
             },
             {
@@ -61912,7 +62102,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐙘"
@@ -62113,7 +62304,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "CAPm+KU",
                 "word": "𐚾"
@@ -62212,14 +62404,15 @@ var wordAnnotations =
                     "word",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "KU-PA3-NU",
+                "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
             },
             {
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "AU-SI-RE",
                 "word": "𐙄𐘤𐘙"
@@ -62273,7 +62466,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "CAPm+KU",
                 "word": "𐚾"
@@ -62554,7 +62748,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "AU-SI-RE",
                 "word": "𐙄𐘤𐘙"
@@ -62872,7 +63067,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "E-TA2-QE",
+                "transliteratedWord": "E-TA₂-QE",
                 "word": "𐘡𐘷𐘿"
             }
         ]
@@ -62931,7 +63126,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "WA-PI-TI-NA-RA2",
+                "transliteratedWord": "WA-PI-TI-NA-RA₂",
                 "word": "𐘮𐘢𐘠𐘅𐘽"
             }
         ]
@@ -63074,7 +63269,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "TA2-TA-RE",
+                "transliteratedWord": "TA₂-TA-RE",
                 "word": "𐘷𐘳𐘙"
             },
             {
@@ -63107,7 +63302,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "TA2-TI-TE",
+                "transliteratedWord": "TA₂-TI-TE",
                 "word": "𐘷𐘠𐘃"
             },
             {
@@ -63321,7 +63516,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "MA-KA-I-TA",
                 "word": "𐙁𐘾𐘚𐘳"
@@ -63343,7 +63539,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 3 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QE",
                 "word": "𐝫𐘿"
@@ -63398,7 +63595,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -63509,7 +63707,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "PA3-E",
+                "transliteratedWord": "PA₃-E",
                 "word": "𐘰𐘡"
             },
             {
@@ -63521,11 +63719,10 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "uses from suffix (-TE/-TI)",
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "JA-DI-KI-TE-TE-*307-PU2-RE",
+                "transliteratedWord": "JA-DI-KI-TE-TE-*307-PU₂-RE",
                 "word": "𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙"
             },
             {
@@ -64039,11 +64236,10 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "uses from suffix (-TE/-TI)",
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "JA-DI-KI-TE-TE-DU-PU2-RE",
+                "transliteratedWord": "JA-DI-KI-TE-TE-DU-PU₂-RE",
                 "word": "𐝫𐘱𐘆𐘸𐘃𐘃𐘬𐘜𐘙𐝫"
             }
         ]
@@ -64073,7 +64269,7 @@ var wordAnnotations =
                     "word",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "PU2",
+                "transliteratedWord": "PU₂",
                 "word": "𐘜"
             },
             {
@@ -64196,7 +64392,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "head word"
                 ],
-                "transliteratedWord": "A-PA3-DI",
+                "transliteratedWord": "A-PA₃-DI",
                 "word": "𐘇𐘰𐘆𐝫"
             },
             {
@@ -64670,7 +64866,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*304",
                 "word": "𐝫𐙘"
@@ -65071,7 +65268,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "PA3-NI-WI",
+                "transliteratedWord": "PA₃-NI-WI",
                 "word": "𐘰𐘝𐘣"
             }
         ]
@@ -65101,7 +65298,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "JA-WA-PA3",
+                "transliteratedWord": "JA-WA-PA₃",
                 "word": "𐘱𐘮𐘰𐝫"
             }
         ]
@@ -65500,6 +65697,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 4 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word"
                 ],
                 "transliteratedWord": "MA",
@@ -65517,6 +65715,7 @@ var wordAnnotations =
                     "logogram",
                     "Appears at 4 find sites",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PU",
@@ -65539,7 +65738,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*171",
                 "word": "𐙑"
@@ -65555,7 +65755,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "ZO",
                 "word": "𐘎"
@@ -65777,7 +65978,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "PI-MI-TA-TI-RA2",
+                "transliteratedWord": "PI-MI-TA-TI-RA₂",
                 "word": "𐘢𐘻𐘳𐘠𐘽"
             }
         ]
@@ -65790,7 +65991,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "DU-MI-TA-TI-RA2",
+                "transliteratedWord": "DU-MI-TA-TI-RA₂",
                 "word": "𐘬𐘻𐘳𐘠𐘽"
             }
         ]
@@ -66206,7 +66407,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+QIf",
                 "word": "𐜌"
@@ -66395,7 +66597,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+QIf",
                 "word": "𐜌"
@@ -66603,7 +66806,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLE+TU",
                 "word": "𐜖"
@@ -66936,7 +67140,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "ZA",
                 "word": "𐘍"
@@ -67209,7 +67414,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QE-SI-*79-E",
                 "word": "𐘿𐘤𐙀𐘡"
@@ -67231,6 +67437,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*28B-NU-MA-RE",
@@ -67252,7 +67459,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "SI-PI-KI",
                 "word": "𐘤𐘢𐘸"
@@ -67497,6 +67705,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word"
                 ],
                 "transliteratedWord": "*28B-NU-MA-RE",
@@ -67518,7 +67727,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "SI-PI-KI",
                 "word": "𐘤𐘢𐘸"
@@ -67547,7 +67757,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "MA-KA-I-TA",
                 "word": "𐙁𐘾𐘚𐘳"
@@ -67578,7 +67789,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*171",
                 "word": "𐙑"
@@ -67644,7 +67856,8 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 4 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐝫𐙋"
@@ -67668,7 +67881,8 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 4 find sites",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐝫𐙋"
@@ -67718,7 +67932,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "PU2-RA2",
+                "transliteratedWord": "PU₂-RA₂",
                 "word": "𐝫𐘜𐘽"
             },
             {
@@ -67915,7 +68129,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "*312-TA2",
+                "transliteratedWord": "*312-TA₂",
                 "word": "𐙢𐘷"
             },
             {
@@ -68279,7 +68493,8 @@ var wordAnnotations =
                     "word also in linear b",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-I-PI-TA",
                 "word": "𐘀𐘚𐘢𐘳"
@@ -68384,7 +68599,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QI+SI",
                 "word": "𐚽"
@@ -68430,7 +68646,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QI+SI",
                 "word": "𐚽"
@@ -68477,7 +68694,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QI+SI",
                 "word": "𐚽"
@@ -68697,7 +68915,8 @@ var wordAnnotations =
                     "word also in linear b",
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "DA-I-PI-TA",
                 "word": "𐘀𐘚𐘢𐘳"
@@ -68791,7 +69010,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "U-*49",
                 "word": "𐘉𐘪"
@@ -68920,7 +69140,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "RA2-RO-RE",
+                "transliteratedWord": "RA₂-RO-RE",
                 "word": "𐘽𐘁𐘙"
             },
             {
@@ -69027,7 +69247,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "head word"
                 ],
-                "transliteratedWord": "DI-DI-KO-RA-ME-TA2",
+                "transliteratedWord": "DI-DI-KO-RA-ME-TA₂",
                 "word": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷"
             },
             {
@@ -69143,7 +69363,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "JU",
                 "word": "𐘶"
@@ -69265,7 +69486,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "OLIV",
                 "word": "𐝫𐙋"
@@ -69537,7 +69759,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "RU",
                 "word": "𐘘"
@@ -69654,7 +69877,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 5 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "RU",
                 "word": "𐘘"
@@ -69918,6 +70142,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Appears at 2 find sites",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-VIN",
@@ -69932,7 +70157,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "QE-SI-*79-E",
                 "word": "𐘿𐘤𐙀𐘡"
@@ -70010,6 +70236,7 @@ var wordAnnotations =
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "always assigned number",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*28B-NU-MA-RE",
@@ -70031,7 +70258,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "SI-PI-KI",
                 "word": "𐘤𐘢𐘸"
@@ -70081,7 +70309,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "SA-MI-DA-E",
                 "word": "𐘞𐘻𐘀𐘡"
@@ -72125,7 +72354,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "PU2-RE-JA",
+                "transliteratedWord": "PU₂-RE-JA",
                 "word": "𐝫𐘜𐘙𐘱"
             },
             {
@@ -72311,7 +72540,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "I-KU-PA3-NA-TU-NA-TE",
+                "transliteratedWord": "I-KU-PA₃-NA-TU-NA-TE",
                 "word": "𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫"
             },
             {
@@ -72692,11 +72921,10 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "transaction sign",
                     "Appears at 2 find sites",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "PA3",
+                "transliteratedWord": "PA₃",
                 "word": "𐝫𐘰𐝫"
             },
             {
@@ -73002,7 +73230,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*317",
                 "word": "𐙩"
@@ -73095,7 +73324,8 @@ var wordAnnotations =
                     "logogram",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*317",
                 "word": "𐙩"
@@ -73967,7 +74197,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "MI-DA-MA-RA2",
+                "transliteratedWord": "MI-DA-MA-RA₂",
                 "word": "𐘻𐘀𐙁𐘽"
             },
             {
@@ -74489,7 +74719,7 @@ var wordAnnotations =
                     "word",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "PA3-PU2",
+                "transliteratedWord": "PA₃-PU₂",
                 "word": "𐘰𐘜"
             }
         ]
