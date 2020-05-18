@@ -1351,7 +1351,7 @@ const config = {
 var tagColors = {};
 function consoleButton(button, metadata, activeMetadataName) {
   var activeMetadata = [];
-  if (activeMetadataName == "activeFindspots") {
+  if (activeMetadataName == "activeFindsites") {
     document.querySelectorAll('area').forEach( x =>  {
       x.addEventListener("mouseenter", showPin);
       x.addEventListener("mouseleave", hidePin);
@@ -1393,7 +1393,7 @@ function consoleButton(button, metadata, activeMetadataName) {
         document.getElementById("word-tag-container").appendChild(item);
       }
     }
-    if (activeMetadataName == "activeFindspots") {
+    if (activeMetadataName == "activeFindsites") {
       showMap();
     } else {
       hideMap();
@@ -1424,14 +1424,14 @@ function consoleButton(button, metadata, activeMetadataName) {
   });
 
   function hideMap() {
-    var findspots = document.getElementById("findspots");
-    findspots.style.visibility = "hidden";
-    Array.prototype.map.call(findspots.getElementsByClassName("pin"), x => x.style.visibility = "hidden");
+    var findsites = document.getElementById("findsites");
+    findsites.style.visibility = "hidden";
+    Array.prototype.map.call(findsites.getElementsByClassName("pin"), x => x.style.visibility = "hidden");
   }
 
   function toggleMetadatum(datum) {
     return function(event) {
-      if (activeMetadataName == "activeFindspots") {
+      if (activeMetadataName == "activeFindsites") {
         datum = event.target.alt;
       }
       if (activeMetadata.includes(datum)) {
@@ -1443,7 +1443,7 @@ function consoleButton(button, metadata, activeMetadataName) {
         }
       }
 
-      if (activeMetadataName == "activeFindspots") {
+      if (activeMetadataName == "activeFindsites") {
         var pin = document.getElementById("pin-" + datum);
         pin.style.visibility = activeMetadata.includes(datum) ? "visible" : "hidden";
       }
@@ -1525,10 +1525,10 @@ function consoleButton(button, metadata, activeMetadataName) {
   }
 
   function showMap() {
-    var findspots = document.getElementById('findspots');
-    var isVisible = findspots.style.visibility == "visible";
+    var findsites = document.getElementById('findsites');
+    var isVisible = findsites.style.visibility == "visible";
     if (isVisible) {
-      findspots.style.visibility = 'hidden';
+      findsites.style.visibility = 'hidden';
       Array.prototype.map.call(document.getElementsByClassName("pin"), x => x.style.visibility = "hidden");
       return;
     }
@@ -1544,7 +1544,7 @@ function consoleButton(button, metadata, activeMetadataName) {
     var container = document.getElementById("filter-details-container");
     container.innerHTML = "";
 
-    var container = document.getElementById("findspots");
+    var container = document.getElementById("findsites");
     container.style.visibility = "visible";
   }
 }
@@ -1598,7 +1598,7 @@ function loadExplorer() {
     [document.getElementById("tags-command"), Array.from(tags.values()).flat(), 'activeTagValues'],
     [document.getElementById("scribes-command"), scribes, 'activeScribes'],
     [document.getElementById("supports-command"), supports, 'activeSupports'],
-    [document.getElementById("findspots-command"), [], 'activeFindspots'],
+    [document.getElementById("findsites-command"), [], 'activeFindsites'],
   ];
   buttonsToAdd.forEach( vals => {
     var name = vals[2];

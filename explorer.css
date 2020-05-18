@@ -497,7 +497,7 @@ dt, dd, font {
 .filter-command-container:hover .filter-label {
   visibility: visible;
 }
-#findspots {
+#findsites {
   z-index: 2000;
   position: relative;
 }
@@ -511,7 +511,7 @@ dt, dd, font {
   box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
 }
 
-#filter-details-container, #search-container, #findspots {
+#filter-details-container, #search-container, #findsites {
   position: fixed;
   left: 50%; /* horizontally centre */
   transform: translateX(-50%); /* horizontally centre */
