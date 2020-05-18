@@ -272,6 +272,7 @@ input:focus::placeholder { color:transparent; }
   right: auto;
   z-index: 100;
   display: inline-block;
+  max-width: 80%;
 }
 .tag {
   padding: 2px;
@@ -281,7 +282,7 @@ input:focus::placeholder { color:transparent; }
   opacity: 0.5;
   font-size: 12px;
   background-color: gray;
-  display: inline;
+  display: inline-block;
 }
 .search-term, .tag:hover, .item > span, .zoomed-close-window .imagerights-label:hover {
   cursor: pointer;

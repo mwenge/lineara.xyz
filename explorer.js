@@ -646,7 +646,6 @@ function loadInscription(inscription) {
   var tagContainer = document.createElement("div");
   tagContainer.className = 'tag-container';
   item.appendChild(tagContainer);
-  inscription.tagContainer = tagContainer;
 
   var tagsToAdd = [[[inscription.support], 'activeSupports'],
                    [[inscription.scribe], 'activeScribes'],
@@ -665,10 +664,16 @@ function loadInscription(inscription) {
       label.style.backgroundColor = tagColors[tag];
       label.textContent = tag;
       label.addEventListener("click", consoleButtons.get(activeMetadataName).toggleMetadatum(tag));
-      inscription.tagContainer.appendChild(label);
+      tagContainer.appendChild(label);
     });
   });
-
+  var paddingFactor = Math.ceil(tagsToAdd.length / 2);
+  var paddingToAdd = 20 * paddingFactor;
+  // Apply padding to image item so that the tags fit and item separators display properly
+  var imageContainer = item.getElementsByClassName("item-shell")[0];
+  if (imageContainer) {
+    imageContainer.style.paddingBottom = paddingToAdd + "px";
+  }
 
   var label = document.createElement("div");
   label.className = "label";
