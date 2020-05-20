@@ -333,6 +333,7 @@ function addWordImagesToChart(img, image, inscription, type, container) {
           item.appendChild(label);
           container.appendChild(item);
 
+          // Add the word to the filter
           var filterItem = document.createElement("div");
           filterItem.className = 'charts-filter-tag';
           filterItem.textContent = word;
