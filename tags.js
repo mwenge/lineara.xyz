@@ -114,6 +114,18 @@ var tagValues = [
   ["ZA6a", "violation of grain-cyperus, oil, olive, figs, wine word order"],
   ["ZA6b", "uses grain-cyperus, oil, olive, figs, wine word order"],
   ["ZA11a", "uses grain-cyperus, oil, olive, figs, wine word order"],
+];
+
+var tags = new Map();
+for (var tag of tagValues) {
+  if (tags.has(tag[0])) {
+    tags.get(tag[0]).push(tag[1]);
+    continue;
+  }
+  tags.set(tag[0], [tag[1]]);
+}
+
+var findSpotValues = [
   ["HT1", "Portico 11 and Room 13"],
   ["HT2", "Portico 11 and Room 13"],
   ["HT3", "Portico 11 and Room 13"],
@@ -217,48 +229,6 @@ var tagValues = [
   ["HT81", "Villa Magazine"],
   ["HT82", "Villa Magazine"],
   ["HT84", "Villa Magazine"],
-  ["HT85a", "Casa del Lebete"],
-  ["HT85b", "Casa del Lebete"],
-  ["HT86a", "Casa del Lebete"],
-  ["HT86b", "Casa del Lebete"],
-  ["HT87", "Casa del Lebete"],
-  ["HT88", "Casa del Lebete"],
-  ["HT89", "Casa del Lebete"],
-  ["HT90", "Casa del Lebete"],
-  ["HT91", "Casa del Lebete"],
-  ["HT92", "Casa del Lebete"],
-  ["HT93a", "Casa del Lebete"],
-  ["HT93b", "Casa del Lebete"],
-  ["HT94a", "Casa del Lebete"],
-  ["HT94b", "Casa del Lebete"],
-  ["HT95a", "Casa del Lebete"],
-  ["HT95b", "Casa del Lebete"],
-  ["HT96a", "Casa del Lebete"],
-  ["HT96b", "Casa del Lebete"],
-  ["HT97a", "Casa del Lebete"],
-  ["HT97b", "Casa del Lebete"],
-  ["HT98a", "Casa del Lebete"],
-  ["HT98b", "Casa del Lebete"],
-  ["HT99a", "Casa del Lebete"],
-  ["HT99b", "Casa del Lebete"],
-  ["HT100", "Casa del Lebete"],
-  ["HT101", "Casa del Lebete"],
-  ["HT102", "Casa del Lebete"],
-  ["HT103", "Casa del Lebete"],
-  ["HT104", "Casa del Lebete"],
-  ["HT105", "Casa del Lebete"],
-  ["HT106", "Casa del Lebete"],
-  ["HT107", "Casa del Lebete"],
-  ["HT108", "Casa del Lebete"],
-  ["HT109", "Casa del Lebete"],
-  ["HT110a", "Casa del Lebete"],
-  ["HT110b", "Casa del Lebete"],
-  ["HT111a", "Casa del Lebete"],
-  ["HT111b", "Casa del Lebete"],
-  ["HT112a", "Casa del Lebete"],
-  ["HT112b", "Casa del Lebete"],
-  ["HT113", "Casa del Lebete"],
-  ["HT113ter", "Casa del Lebete"],
   ["HT85a", "Casa Room 7"],
   ["HT85b", "Casa Room 7"],
   ["HT86a", "Casa Room 7"],
@@ -301,18 +271,6 @@ var tagValues = [
   ["HT112b", "Casa Room 7"],
   ["HT113", "Casa Room 7"],
   ["HT113ter", "Casa Room 7"],
-  ["HT114a", "Casa del Lebete"],
-  ["HT114b", "Casa del Lebete"],
-  ["HT115a", "Casa del Lebete"],
-  ["HT115b", "Casa del Lebete"],
-  ["HT116a", "Casa del Lebete"],
-  ["HT116b", "Casa del Lebete"],
-  ["HT117a", "Casa del Lebete"],
-  ["HT117b", "Casa del Lebete"],
-  ["HT118", "Casa del Lebete"],
-  ["HT119", "Casa del Lebete"],
-  ["HT120", "Casa del Lebete"],
-  ["HT121", "Casa del Lebete"],
   ["HT114a", "Casa Room 9"],
   ["HT114b", "Casa Room 9"],
   ["HT115a", "Casa Room 9"],
@@ -337,10 +295,6 @@ var tagValues = [
   ["HT127b", "Casa del Lebete"],
   ["HT128a", "Casa del Lebete"],
   ["HT128b", "Casa del Lebete"],
-  ["HT129", "Casa del Lebete"],
-  ["HT130", "Casa del Lebete"],
-  ["HT131a", "Casa del Lebete"],
-  ["HT131b", "Casa del Lebete"],
   ["HT129", "Casa Room 9"],
   ["HT130", "Casa Room 9"],
   ["HT131a", "Casa Room 9"],
@@ -1230,10 +1184,11 @@ var tagValues = [
   ["HTWa1859", "Portico 11 and Room 13"],
   ["HTWa1860", "Portico 11 and Room 13"],
   ["HTWa1861", "Portico 11 and Room 13"],
+  ["HTZb158a", "Villa Magazine Room 5"],
+  ["HTZb158b", "Villa Magazine Room 5"],
 ];
 
-var tags = new Map();
-for (var tag of tagValues) {
+for (var tag of findSpotValues) {
   if (tags.has(tag[0])) {
     tags.get(tag[0]).push(tag[1]);
     continue;
@@ -1648,3 +1603,44 @@ function loadAnnotations() {
   wordtags = collectedWordTags.filter((v, i, a) => a.indexOf(v) === i);
 }
 
+var grasses = ["𐙉", "𐛟","𐛬","𐛭","𐛮","𐛯","𐛱","𐛲","𐜠𐛱","𐙗","𐜙","𐜙","𐜚","𐜚","𐜛"];
+var oilProducts = ["𐙖", "𐙜", "𐙘", "𐜉","𐜉","𐜊","𐜋","𐜋","𐜌","𐜍","𐜍","𐜎","𐜎","𐜏","𐜏",
+                      "𐜐","𐜐","𐜑","𐜒","𐜓","𐜓","𐜔","𐜕","𐜖","𐜗","𐜗","𐜘"];
+var MIProducts = ["𐘻","𐛚","𐛜","𐛜","𐛛","𐛙","𐛝"];
+var vineProducts = ["𐙍","𐛾","𐙍","𐛽","𐙍","𐘞𐙍","𐛼","𐜀","𐜂", "𐛻","𐛿","𐜁","𐘋𐙍","𐙍𐘻"];
+var QAProducts = ["𐚻","𐚹", "𐚻","𐚼","𐚹","𐚺","𐚻","𐚹","𐚻"];
+var olive = ["𐙋"];
+var figs = ["𐘝"];
+var bronze = ["𐙈"];
+
+var magazineRooms = new Map();
+magazineRooms.set("57", {"x":61, "y":354, "width":58, "height":91});
+magazineRooms.set("7a", {"x":372, "y":359, "width":41, "height":117});
+magazineRooms.set("7", {"x":36, "y":486, "width":105, "height":23});
+magazineRooms.set("17", {"x":477, "y":378, "width":106, "height":104});
+magazineRooms.set("61", {"x":701, "y":445, "width":78, "height":87});
+magazineRooms.set("8", {"x":711, "y":374, "width":72, "height":53});
+magazineRooms.set("5", {"x":848, "y":314, "width":97, "height":137});
+magazineRooms.set("findspot", {"x":699, "y":315, "width":33, "height":16});
+magazineRooms.set("59", {"x":657, "y":193, "width":130, "height":117});
+magazineRooms.set("58", {"x":415, "y":132, "width":140, "height":148});
+
+var magazineRoomForProduct = new Map();
+grasses.forEach(x => magazineRoomForProduct.set(x, "58"));
+oilProducts.forEach(x => magazineRoomForProduct.set(x, "8"));
+MIProducts.forEach(x => magazineRoomForProduct.set(x, "5"));
+vineProducts.forEach(x => magazineRoomForProduct.set(x, "61"));
+QAProducts.forEach(x => magazineRoomForProduct.set(x, "17"));
+olive.forEach(x => magazineRoomForProduct.set(x, "58"));
+figs.forEach(x => magazineRoomForProduct.set(x, "58"));
+bronze.forEach(x => magazineRoomForProduct.set(x, "7a"));
+
+var porticoRooms = new Map();
+porticoRooms.set("findspot", {"x":280, "y":122, "width":75, "height":50});
+
+var mainPlanRooms = new Map();
+mainPlanRooms.set("9", {"x":613, "y":2322, "width":87, "height":93});
+
+var casaDelLebeteRooms = new Map();
+casaDelLebeteRooms.set("9", {"x":145, "y":126, "width":27, "height":32});
+casaDelLebeteRooms.set("7", {"x":170, "y":75, "width":17, "height":41});

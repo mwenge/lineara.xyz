@@ -80,7 +80,7 @@ function checkKey(e) {
     case "y": // 'y' - show commentary for inscription currently hovered over
       var current = getInscriptionHoveredOver();
       if (current) {
-        showCommentaryForInscription(current.id);
+        showInscriptionApparatus(current.id);
       }
       break;
     case "Escape":
@@ -175,80 +175,220 @@ commentaries["HT123+124a"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4O
 commentaries["HT95a"] = "https://docs.google.com/document/d/e/2PACX-1vTBHvxagDkbtGQrRGB7S2D79hzuAuBISJLLkmoTFChHB0VD0pgsucIg0Bysq9N9TfAn6OzmrycYooHK/pub?embedded=true";
 commentaries["HT95b"] = "https://docs.google.com/document/d/e/2PACX-1vTBHvxagDkbtGQrRGB7S2D79hzuAuBISJLLkmoTFChHB0VD0pgsucIg0Bysq9N9TfAn6OzmrycYooHK/pub?embedded=true";
 
-function showCommentaryForInscription(inscription) {
+function showInscriptionApparatus(inscription) {
   return function(e) {
-    if (!commentaries[inscription]) {
-      showYoungerCommentaryForInscription(inscription);
-      return;
-    }
-
     var inscriptionElement = document.getElementById(inscription);
-    var commentBox = document.getElementById("mycomment-box-" + inscription);
-    if (commentBox) {
+    var apparatusBox = document.getElementById("apparatus-box-" + inscription);
+    if (apparatusBox) {
       document.body.offsetTop;
-      commentBox.style.top = inscriptionElement.offsetHeight + "px";
-      if (commentBox.style.display == "block") {
-        commentBox.style.display = "none";
+      apparatusBox.style.top = inscriptionElement.offsetHeight + "px";
+      if (apparatusBox.style.display == "block") {
+        apparatusBox.style.display = "none";
         return;
       }
-      commentBox.style.display = "block";
+      apparatusBox.style.display = "block";
       return;
     }
 
-    var commentBox = document.createElement("iframe")
-    commentBox.className = 'comment-box';
-    commentBox.id = 'mycomment-box-' + inscription;
-    commentBox.style.top = inscriptionElement.offsetHeight + "px";
-    commentBox.src = commentaries[inscription];
-    commentBox.height = "400px";
-    commentBox.addEventListener("click", makeHideElements([commentBox]));
-    inscriptionElement.appendChild(commentBox);
-    commentBox.style.display = "block";
-  }
-}
+    var apparatusBox = document.createElement("div")
+    apparatusBox.className = 'apparatus-box';
+    apparatusBox.id = 'apparatus-box-' + inscription;
+    apparatusBox.style.top = inscriptionElement.offsetHeight + "px";
+    apparatusBox.height = "400px";
+    apparatusBox.addEventListener("click", makeHideElements([apparatusBox]));
+    apparatusBox.style.display = "block";
 
-function showYoungerCommentaryForInscription(inscription) {
-  var inscriptionElement = document.getElementById(inscription);
+    var findSpots = [
+      {
+        "imageName": "./images/Hagia-Triada-Royal-Villa-Magazine.jpg" ,
+        "tag": "Villa Magazine" ,
+        "title": "Hagia Triada Villa Magazine Area",
+        "roomMap": magazineRooms,
+        "productMap": magazineRoomForProduct,
+        "findSpot": "59"
+      },
+      {
+        "imageName": "./images/Hagia-Triada-Portico.jpg" ,
+        "tag": "Portico 11 and Room 13" ,
+        "title": "Hagia Triada Villa Portico Area",
+        "roomMap": porticoRooms,
+        "productMap": null,
+        "findSpot": "findspot"
+      },
+      {
+        "imageName": "./images/Hagia-Triada-Royal-Villa-Magazine.jpg" ,
+        "tag": "Villa Magazine Room 5" ,
+        "title": "Hagia Triada Villa Magazine Area",
+        "roomMap": magazineRooms,
+        "productMap": magazineRoomForProduct,
+        "findSpot": "5"
+      },
+      {
+        "imageName": "./images/Hagia-Triada-Plan.jpg" ,
+        "tag": "Corridor 9 and Vestibule 26" ,
+        "title": "Hagia Triada",
+        "roomMap": mainPlanRooms,
+        "productMap": null,
+        "findSpot": "9"
+      },
+      {
+        "imageName": "./images/CasaDelLebete.jpg" ,
+        "tag": "Casa Room 9" ,
+        "title": "Hagia Triada 'Casa del Lebete'",
+        "roomMap": casaDelLebeteRooms,
+        "productMap": null,
+        "findSpot": "9"
+      },
+      {
+        "imageName": "./images/CasaDelLebete.jpg" ,
+        "tag": "Casa Room 7" ,
+        "title": "Hagia Triada 'Casa del Lebete'",
+        "roomMap": casaDelLebeteRooms,
+        "productMap": null,
+        "findSpot": "7"
+      },
+      {
+        "imageName": "./images/CasaDelLebete.jpg" ,
+        "tag": "Casa del Lebete" ,
+        "title": "Hagia Triada 'Casa del Lebete'",
+        "roomMap": casaDelLebeteRooms,
+        "productMap": null,
+        "findSpot": null
+      },
+    ];
+    findSpots.forEach(f => appendFindspotAnimation(inscription, f));
 
-  var commentBox = document.getElementById("comment-box-" + inscription);
-  if (commentBox) {
-    document.body.offsetTop;
-    commentBox.style.top = inscriptionElement.offsetHeight + "px";
-    if (commentBox.style.display == "block") {
-      commentBox.style.display = "none";
-      return;
+    appendYoungerCommentaryForInscription(inscription);
+    appendCommentaryForInscription(inscription);
+
+    inscriptionElement.appendChild(apparatusBox);
+
+
+    function appendFindspotAnimation(inscription, config) {
+      if (!tags.has(inscription)) {
+        return;
+      }
+      var tagValues = tags.get(inscription);
+      if (!tagValues.includes(config.tag)) {
+        return;
+      }
+
+      var commentBox = document.createElement("div")
+      commentBox.className = 'comment-box';
+      apparatusBox.appendChild(commentBox);
+
+      var img = document.createElement("img");
+      img.src = config.imageName;
+      img.addEventListener("load", animateProductAllocation());
+      commentBox.appendChild(img);
+
+      var title = document.createElement("div");
+      title.className = "tip-tag findspot-title";
+      title.textContent = config.title;
+      commentBox.appendChild(title);
+
+      function animateProductAllocation() {
+        return function (e) {
+          if (!config.findSpot) {
+            return;
+          }
+          var area = config.roomMap.get(config.findSpot);
+          var roomElement = document.createElement("div");
+          roomElement.className = "room-highlight";
+          roomElement.style.width = ((area.width / img.naturalWidth) * 100) + '%';
+          roomElement.style.height = ((area.height / img.naturalHeight) * 100) + '%';
+          roomElement.style.top = ((area.y / img.naturalHeight) * 100) + '%';
+          roomElement.style.left = ((area.x / img.naturalWidth) * 100) + '%';
+          commentBox.appendChild(roomElement);
+
+          var product = document.createElement("div");
+          product.textContent = "📍 Findspot";
+          product.className = "findspot-tag";
+          roomElement.appendChild(product);
+
+          if (!config.productMap) {
+            return;
+          }
+          var inscriptionData = inscriptions.get(inscription);
+
+          for (var i = 0; i < inscriptionData.words.length; i++) {
+            var word = stripErased(inscriptionData.words[i]);
+            if (!config.productMap.has(word)) {
+              continue;
+            }
+            var room = config.productMap.get(word);
+            var area = config.roomMap.get(room);
+
+            var roomID = inscription + "-room-" + room;
+            var productContainer = document.getElementById(roomID);
+            if (!productContainer) {
+              var roomElement = document.createElement("div");
+              roomElement.className = "room-highlight";
+              roomElement.style.width = ((area.width / img.naturalWidth) * 100) + '%';
+              roomElement.style.height = ((area.height / img.naturalHeight) * 100) + '%';
+              roomElement.style.top = ((area.y / img.naturalHeight) * 100) + '%';
+              roomElement.style.left = ((area.x / img.naturalWidth) * 100) + '%';
+              commentBox.appendChild(roomElement);
+              var productContainer = document.createElement("div");
+              productContainer.className = "product-container";
+              productContainer.id = inscription + "-room-" + room;
+              roomElement.appendChild(productContainer);
+            }
+            var product = document.createElement("div");
+            product.id = inscription + "-product-" + i;
+            product.textContent = word;
+            product.className = "product-tag";
+            product.addEventListener("mouseover", highlightWords(inscription, i));
+            product.addEventListener("mouseout", clearHighlight(inscription, i));
+            productContainer.appendChild(product);
+          }
+        }
+      }
     }
-    commentBox.style.display = "block";
-    return;
+
+    function appendCommentaryForInscription(inscription) {
+      if (!commentaries[inscription]) {
+        return;
+      }
+
+      var commentBox = document.createElement("iframe")
+      commentBox.className = 'comment-box';
+      commentBox.id = 'mycomment-box-' + inscription;
+      commentBox.src = commentaries[inscription];
+      commentBox.height = "400px";
+      commentBox.addEventListener("click", makeHideElements([commentBox]));
+      apparatusBox.appendChild(commentBox);
+    }
+
+    function appendYoungerCommentaryForInscription(inscription) {
+      var commentBox = document.createElement("div")
+      commentBox.className = 'comment-box';
+      commentBox.id = 'comment-box-' + inscription;
+      commentBox.addEventListener("click", makeHideElements([commentBox]));
+      apparatusBox.appendChild(commentBox);
+
+      inscription = inscription.replace(/[a-z]$/g, "");
+      var commentaries = ["commentary/" + inscription + ".html"]
+      commentBox.innerHTML = "";
+      var failures = 0;
+      commentaries.forEach( commentary => {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onloadend = function() {
+            if (xhttp.status == 404) {
+              failures++;
+            } else {
+              commentBox.innerHTML += xhttp.responseText;
+              commentBox.style.display = "block";
+            }
+            if (failures >= commentaries.length) {
+              commentBox.style.display = "none";
+            }
+        };
+        xhttp.open("GET", commentary, true);
+        xhttp.send();
+      });
+    }
   }
-
-  var commentBox = document.createElement("div")
-  commentBox.className = 'comment-box';
-  commentBox.id = 'comment-box-' + inscription;
-  commentBox.style.top = inscriptionElement.offsetHeight + "px";
-  commentBox.addEventListener("click", makeHideElements([commentBox]));
-  inscriptionElement.appendChild(commentBox);
-
-  inscription = inscription.replace(/[a-z]$/g, "");
-  var commentaries = ["commentary/" + inscription + ".html"]
-  commentBox.innerHTML = "";
-  var failures = 0;
-  commentaries.forEach( commentary => {
-    var xhttp = new XMLHttpRequest();
-    xhttp.onloadend = function() {
-        if (xhttp.status == 404) {
-          failures++;
-        } else {
-          commentBox.innerHTML += xhttp.responseText;
-          commentBox.style.display = "block";
-        }
-        if (failures >= commentaries.length) {
-          commentBox.style.display = "none";
-        }
-    };
-    xhttp.open("GET", commentary, true);
-    xhttp.send();
-  });
 }
 
 function getInscriptionHoveredOver() {
@@ -603,7 +743,7 @@ function loadInscription(inscription) {
   var item = document.createElement("div");
   item.className = 'item-container';
   item.id = inscription.name;
-  item.addEventListener("click", showCommentaryForInscription(inscription.name));
+  item.addEventListener("click", showInscriptionApparatus(inscription.name));
   item.addEventListener("dblclick", makeZoomItem(item));
 
   inscription.images.forEach( image => {
@@ -888,10 +1028,13 @@ function setHighlightLettersInTranscription(name, index, highlight) {
 
 function highlightWords(name, index) {
   return function(e) {
-    var items = ["transcription", "translation", "transliteration"];
+    var items = ["transcription", "translation", "transliteration", "product"];
     for (var i = 0; i < items.length; i++) {
       var item = items[i];
       var element = document.getElementById(name + "-" + item + "-" + index);
+      if (!element) {
+        continue;
+      }
       if (item == "transcription") {
         addWordTip(element.textContent, name, index);
       }
@@ -910,10 +1053,13 @@ function clearHighlight(name, index) {
     if (tip) {
       tip.style.display = "none";
     }
-    var items = ["transcription", "transliteration", "translation"];
+    var items = ["transcription", "transliteration", "translation", "product"];
     for (var i = 0; i < items.length; i++) {
       var item = items[i];
       var element = document.getElementById(name + "-" + item + "-" + index);
+      if (!element) {
+        continue;
+      }
       if (highlightedSearchElements.includes(element)) {
         continue;
       }
