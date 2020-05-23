@@ -255,6 +255,30 @@ function showInscriptionApparatus(inscription) {
         "productMap": null,
         "findSpot": null
       },
+      {
+        "imageName": "./images/Malia-Plan2.jpg" ,
+        "tag": "Malia Palace Room III 8" ,
+        "title": "Malia Palace",
+        "roomMap": maliaRooms,
+        "productMap": null,
+        "findSpot": "8"
+      },
+      {
+        "imageName": "./images/Malia-Plan2.jpg" ,
+        "tag": "Malia South NW Corridor" ,
+        "title": "Malia Palace",
+        "roomMap": maliaRooms,
+        "productMap": null,
+        "findSpot": "NW"
+      },
+      {
+        "imageName": "./images/Malia-Plan2.jpg" ,
+        "tag": "Bastion E" ,
+        "title": "Malia Palace",
+        "roomMap": maliaRooms,
+        "productMap": null,
+        "findSpot": "E"
+      },
     ];
     findSpots.forEach(f => appendFindspotAnimation(inscription, f));
 

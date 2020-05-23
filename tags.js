@@ -216,4 +216,6 @@ casaDelLebeteRooms.set("7", {"x":170, "y":75, "width":17, "height":41});
 
 var maliaRooms = new Map();
 maliaRooms.set("8",{"x":625, "y":1216, "width":114, "height":102});
+maliaRooms.set("NW",{"x":1193, "y":773, "width":134, "height":106});
+maliaRooms.set("E", {"x":1933, "y":1014, "width":114, "height":75});
 
