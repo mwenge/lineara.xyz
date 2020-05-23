@@ -265,11 +265,8 @@ function showInscriptionApparatus(inscription) {
 
 
     function appendFindspotAnimation(inscription, config) {
-      if (!tags.has(inscription)) {
-        return;
-      }
-      var tagValues = tags.get(inscription);
-      if (!tagValues.includes(config.tag)) {
+      var findspot = inscriptions.get(inscription).findspot;
+      if (findspot != config.tag) {
         return;
       }
 
@@ -302,7 +299,7 @@ function showInscriptionApparatus(inscription) {
           commentBox.appendChild(roomElement);
 
           var product = document.createElement("div");
-          product.textContent = "📍 Findspot";
+          product.textContent = "📍";
           product.className = "findspot-tag";
           roomElement.appendChild(product);
 
@@ -789,6 +786,7 @@ function loadInscription(inscription) {
 
   var tagsToAdd = [[[inscription.support], 'activeSupports'],
                    [[inscription.scribe], 'activeScribes'],
+                   [[inscription.findspot], 'activeFindspots'],
                    [contexts.get(inscription.name), 'activeContexts'],
                    [tags.get(inscription.name), 'activeTagValues']]  
                   .filter(w => w[0] != undefined && w[0] != "");
@@ -1386,6 +1384,7 @@ function hasTag(tag, inscription) {
       (tags.has(inscription.name) && tags.get(inscription.name).includes(tag)) ||
       (contexts.has(inscription.name) && contexts.get(inscription.name).includes(tag)) ||
       inscription.support.includes(tag) ||
+      inscription.findspot == tag ||
       inscription.name.substr(0, 2) == tag ||
       inscription.scribe == tag
       );
@@ -1740,6 +1739,10 @@ let observer = new IntersectionObserver(function(entries, self) {
 
 var consoleButtons = new Map();
 function loadExplorer() {
+  var supports = [];
+  var scribes = [];
+  var findspots = [];
+
   loadInscriptionLevelTags();
   loadAnnotations();
 
@@ -1749,6 +1752,7 @@ function loadExplorer() {
     [document.getElementById("tags-command"), Array.from(tags.values()).flat(), 'activeTagValues'],
     [document.getElementById("scribes-command"), scribes, 'activeScribes'],
     [document.getElementById("supports-command"), supports, 'activeSupports'],
+    [document.getElementById("findspots-command"), findspots, 'activeFindspots'],
     [document.getElementById("findsites-command"), [], 'activeFindsites'],
   ];
   buttonsToAdd.forEach( vals => {
@@ -1764,6 +1768,38 @@ function loadExplorer() {
     var key = inscriptionsToLoad.next().value;
     var visibleInscription = loadInscription(inscriptions.get(key));
     observer.observe(visibleInscription);
+  }
+
+  function loadInscriptionLevelTags() {
+    for (var inscription of inscriptions.values()) {
+      for (var item of [[supports, inscription.support],
+                        [scribes, inscription.scribe],
+                        [findspots, inscription.findspot],
+                        ]) {
+        var tag = item[1];
+        if (!tag) {
+          continue;
+        }
+        if (item[0].includes(tag)) {
+          continue;
+        }
+        item[0].push(tag);
+      }
+    }
+  }
+
+  var wordtags = [];
+  function loadAnnotations() {
+    var collectedWordTags = [];
+    for (var annotation of wordAnnotations) {
+      var inscription = inscriptions.get(annotation.name);
+      inscription.wordTags = [];
+      for (var word of annotation.tagsForWords) {
+        inscription.wordTags.push(word.tags);
+        collectedWordTags.push(...word.tags);
+      }
+    }
+    wordtags = collectedWordTags.filter((v, i, a) => a.indexOf(v) === i);
   }
 }
 
