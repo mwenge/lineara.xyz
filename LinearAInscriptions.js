@@ -1,5 +1,6 @@
 var inscriptions = new Map([
 ["HT1",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT1-Facsimile.jpg"
     ],
@@ -73,6 +74,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT2",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT2-Facsimile.jpg"
     ],
@@ -152,6 +154,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT3",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT3-Facsimile.jpg"
     ],
@@ -273,6 +276,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT4",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT4-Facsimile.jpg"
     ],
@@ -328,6 +332,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT5",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT5-Facsimile.jpg"
     ],
@@ -389,6 +394,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT6a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT6a-Facsimile.jpg"
     ],
@@ -519,6 +525,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT6b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT6b-Facsimile.jpg"
     ],
@@ -610,6 +617,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT7a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT7a-Facsimile.jpg"
     ],
@@ -686,6 +694,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT7b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT7b-Facsimile.jpg"
     ],
@@ -723,6 +732,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT8a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT8a-Facsimile.jpg"
     ],
@@ -814,6 +824,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT8b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT8b-Facsimile.jpg"
     ],
@@ -911,6 +922,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT9a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT9a-Facsimile.jpg"
     ],
@@ -1041,6 +1053,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT9b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT9b-Facsimile.jpg"
     ],
@@ -1162,6 +1175,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT10a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT10a-Facsimile.jpg"
     ],
@@ -1280,6 +1294,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT10b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT10b-Facsimile.jpg"
     ],
@@ -1359,6 +1374,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT11a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT11a-Facsimile.jpg"
     ],
@@ -1444,6 +1460,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT11b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT11b-Facsimile.jpg"
     ],
@@ -1538,6 +1555,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT12",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT12-Facsimile.jpg"
     ],
@@ -1656,6 +1674,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT13",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT13-Facsimile.jpg"
     ],
@@ -1765,6 +1784,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT14",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT14-Facsimile.jpg"
     ],
@@ -1889,6 +1909,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT15",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT15-Facsimile.jpg"
     ],
@@ -1956,6 +1977,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT16",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT16-Facsimile.jpg"
     ],
@@ -2026,6 +2048,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT17",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT17-Facsimile.jpg"
     ],
@@ -2084,6 +2107,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT18",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT18-Facsimile.jpg"
     ],
@@ -2154,6 +2178,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT19",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT19-Facsimile.jpg"
     ],
@@ -2218,6 +2243,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT20",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT20-Facsimile.jpg"
     ],
@@ -2306,6 +2332,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT21",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT21-Facsimile.jpg"
     ],
@@ -2391,6 +2418,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT22",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT22-Facsimile.jpg"
     ],
@@ -2440,6 +2468,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT23a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT23a-Facsimile.jpg"
     ],
@@ -2591,6 +2620,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT23b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT23b-Facsimile.jpg"
     ],
@@ -2679,6 +2709,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT24a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT24a-Facsimile.jpg"
     ],
@@ -2758,6 +2789,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT24b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT24b-Facsimile.jpg"
     ],
@@ -2810,6 +2842,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT25a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT25a-Facsimile.jpg"
     ],
@@ -2922,6 +2955,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT25b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT25b-Facsimile.jpg"
     ],
@@ -2998,6 +3032,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT26a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT26a-Facsimile.jpg"
     ],
@@ -3068,6 +3103,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT26b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT26b-Facsimile.jpg"
     ],
@@ -3156,6 +3192,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT27a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT27a-Facsimile.jpg"
     ],
@@ -3319,6 +3356,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT27b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT27b-Facsimile.jpg"
     ],
@@ -3470,6 +3508,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT28a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT28a-Facsimile.jpg"
     ],
@@ -3630,6 +3669,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT28b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT28b-Facsimile.jpg"
     ],
@@ -3754,6 +3794,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT29",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT29-Facsimile.jpg"
     ],
@@ -3848,6 +3889,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT30",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT30-Facsimile.jpg"
     ],
@@ -4017,6 +4059,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT31",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT31-Facsimile.jpg"
     ],
@@ -4141,6 +4184,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT32",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT32-Facsimile.jpg"
     ],
@@ -4265,6 +4309,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT33",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT33-Facsimile.jpg"
     ],
@@ -4368,6 +4413,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT34",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT34-Facsimile.jpg"
     ],
@@ -4525,6 +4571,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT35",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT35-Facsimile.jpg"
     ],
@@ -4631,6 +4678,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT36",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT36-Facsimile.jpg"
     ],
@@ -4689,6 +4737,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT37",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT37-Facsimile.jpg"
     ],
@@ -4804,6 +4853,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT38",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT38-Facsimile.jpg"
     ],
@@ -4892,6 +4942,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT39",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT39-Facsimile.jpg"
     ],
@@ -4983,6 +5034,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT40",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT40-Facsimile.jpg"
     ],
@@ -5056,6 +5108,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT41a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT41a-Facsimile.jpg"
     ],
@@ -5144,6 +5197,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT41b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT41b-Facsimile.jpg"
     ],
@@ -5181,6 +5235,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT42+59",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT42+59-Facsimile.jpg"
     ],
@@ -5311,6 +5366,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT43",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT43-Facsimile.jpg"
     ],
@@ -5357,6 +5413,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT44a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT44a-Facsimile.jpg"
     ],
@@ -5445,6 +5502,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT44b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT44b-Facsimile.jpg"
     ],
@@ -5515,6 +5573,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT45a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT45a-Facsimile.jpg"
     ],
@@ -5582,6 +5641,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT45b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT45b-Facsimile.jpg"
     ],
@@ -5709,6 +5769,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT46a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT46a-Facsimile.jpg"
     ],
@@ -5755,6 +5816,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT46b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT46b-Facsimile.jpg"
     ],
@@ -5801,6 +5863,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT47a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT47a-Facsimile.jpg"
     ],
@@ -5883,6 +5946,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT47b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT47b-Facsimile.jpg"
     ],
@@ -5914,6 +5978,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT49a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT49a-Facsimile.jpg"
     ],
@@ -6107,6 +6172,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT49b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT49b-Facsimile.jpg"
     ],
@@ -6171,6 +6237,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT50a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT50a-Facsimile.jpg"
     ],
@@ -6274,6 +6341,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT50b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT50b-Facsimile.jpg"
     ],
@@ -6326,6 +6394,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT51a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT51a-Facsimile.jpg"
     ],
@@ -6399,6 +6468,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT51b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT51b-Facsimile.jpg"
     ],
@@ -6454,6 +6524,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT52a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT52a-Facsimile.jpg"
     ],
@@ -6512,6 +6583,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT52b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT52b-Facsimile.jpg"
     ],
@@ -6558,6 +6630,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT53a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT53a-Facsimile.jpg"
     ],
@@ -6625,6 +6698,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT53b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT53b-Facsimile.jpg"
     ],
@@ -6680,6 +6754,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT54a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT54a-Facsimile.jpg"
     ],
@@ -6729,6 +6804,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT54b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT54b-Facsimile.jpg"
     ],
@@ -6778,6 +6854,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT55a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT55a-Facsimile.jpg"
     ],
@@ -6860,6 +6937,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT55b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT55b-Facsimile.jpg"
     ],
@@ -6921,6 +6999,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT56a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT56a-Facsimile.jpg"
     ],
@@ -6976,6 +7055,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT56b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT56b-Facsimile.jpg"
     ],
@@ -7022,6 +7102,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT57a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT57a-Facsimile.jpg"
     ],
@@ -7071,6 +7152,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT57b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT57b-Facsimile.jpg"
     ],
@@ -7111,6 +7193,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT58",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT58-Facsimile.jpg"
     ],
@@ -7187,6 +7270,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT60",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT60-Facsimile.jpg"
     ],
@@ -7266,6 +7350,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT61",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT61-Facsimile.jpg"
     ],
@@ -7306,6 +7391,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT62+73",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT62+73-Facsimile.jpg"
     ],
@@ -7496,6 +7582,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT63",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT63-Facsimile.jpg"
     ],
@@ -7566,6 +7653,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT64",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT64-Facsimile.jpg"
     ],
@@ -7639,6 +7727,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT65",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT65-Facsimile.jpg"
     ],
@@ -7673,6 +7762,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT66",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT66-Facsimile.jpg"
     ],
@@ -7743,6 +7833,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT67",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT67-Facsimile.jpg"
     ],
@@ -7798,6 +7889,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT68",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT68-Facsimile.jpg"
     ],
@@ -7844,6 +7936,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT69",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT69-Facsimile.jpg"
     ],
@@ -7908,6 +8001,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT70",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT70-Facsimile.jpg"
     ],
@@ -7975,6 +8069,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT72",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT72-Facsimile.jpg"
     ],
@@ -8015,6 +8110,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT74",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT74-Facsimile.jpg"
     ],
@@ -8061,6 +8157,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT75",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT75-Facsimile.jpg"
     ],
@@ -8098,6 +8195,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT78",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT78-Facsimile.jpg"
     ],
@@ -8147,6 +8245,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT79+83",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT79+83-Facsimile.jpg"
     ],
@@ -8235,6 +8334,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT80",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT80-Facsimile.jpg"
     ],
@@ -8278,6 +8378,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT81",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT81-Facsimile.jpg"
     ],
@@ -8336,6 +8437,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT82",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT82-Facsimile.jpg"
     ],
@@ -8385,6 +8487,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT84",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT84-Facsimile.jpg"
     ],
@@ -8434,6 +8537,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT85a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT85a-Facsimile.jpg"
     ],
@@ -8546,6 +8650,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT85b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT85b-Facsimile.jpg"
     ],
@@ -8673,6 +8778,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT86a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT86a-Facsimile.jpg"
     ],
@@ -8776,6 +8882,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT86b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT86b-Facsimile.jpg"
     ],
@@ -8831,6 +8938,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT87",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT87-Facsimile.jpg"
     ],
@@ -8925,6 +9033,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT88",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT88-Facsimile.jpg"
     ],
@@ -9052,6 +9161,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT89",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT89-Facsimile.jpg"
     ],
@@ -9170,6 +9280,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT90",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT90-Facsimile.jpg"
     ],
@@ -9264,6 +9375,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT91",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT91-Facsimile.jpg"
     ],
@@ -9409,6 +9521,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT92",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT92-Facsimile.jpg"
     ],
@@ -9461,6 +9574,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT93a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT93a-Facsimile.jpg"
     ],
@@ -9663,6 +9777,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT93b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT93b-Facsimile.jpg"
     ],
@@ -9697,6 +9812,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT94a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT94a-Facsimile.jpg"
     ],
@@ -9848,6 +9964,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT94b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT94b-Facsimile.jpg"
     ],
@@ -9966,6 +10083,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT95a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT95a-Facsimile.jpg"
     ],
@@ -10051,6 +10169,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT95b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT95b-Facsimile.jpg"
     ],
@@ -10145,6 +10264,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT96a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT96a-Facsimile.jpg"
     ],
@@ -10281,6 +10401,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT96b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT96b-Facsimile.jpg"
     ],
@@ -10363,6 +10484,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT97a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT97a-Facsimile.jpg"
     ],
@@ -10520,6 +10642,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT97b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT97b-Facsimile.jpg"
     ],
@@ -10545,6 +10668,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT98a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT98a-Facsimile.jpg"
     ],
@@ -10633,6 +10757,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT98b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT98b-Facsimile.jpg"
     ],
@@ -10682,6 +10807,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT99a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT99a-Facsimile.jpg"
     ],
@@ -10755,6 +10881,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT99b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT99b-Facsimile.jpg"
     ],
@@ -10810,6 +10937,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT100",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT100-Facsimile.jpg"
     ],
@@ -10961,6 +11089,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT101",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT101-Facsimile.jpg"
     ],
@@ -11118,6 +11247,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT102",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT102-Facsimile.jpg"
     ],
@@ -11221,6 +11351,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT103",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT103-Facsimile.jpg"
     ],
@@ -11312,6 +11443,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT104",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT104-Facsimile.jpg"
     ],
@@ -11388,6 +11520,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT105",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT105-Facsimile.jpg"
     ],
@@ -11443,6 +11576,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT106",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT106-Facsimile.jpg"
     ],
@@ -11528,6 +11662,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT107",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT107-Facsimile.jpg"
     ],
@@ -11583,6 +11718,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT108",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT108-Facsimile.jpg"
     ],
@@ -11671,6 +11807,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT109",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT109-Facsimile.jpg"
     ],
@@ -11738,6 +11875,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT110a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT110a-Facsimile.jpg"
     ],
@@ -11802,6 +11940,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT110b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT110b-Facsimile.jpg"
     ],
@@ -11905,6 +12044,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT111a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT111a-Facsimile.jpg"
     ],
@@ -11981,6 +12121,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT111b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT111b-Facsimile.jpg"
     ],
@@ -12051,6 +12192,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT112a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT112a-Facsimile.jpg"
     ],
@@ -12094,6 +12236,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT112b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT112b-Facsimile.jpg"
     ],
@@ -12140,6 +12283,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT113",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT113-Facsimile.jpg"
     ],
@@ -12195,6 +12339,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT113ter",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT113ter-Facsimile.jpg"
     ],
@@ -12232,6 +12377,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT114a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT114a-Facsimile.jpg"
     ],
@@ -12305,6 +12451,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT114b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT114b-Facsimile.jpg"
     ],
@@ -12333,6 +12480,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT115a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT115a-Facsimile.jpg"
     ],
@@ -12454,6 +12602,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT115b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT115b-Facsimile.jpg"
     ],
@@ -12566,6 +12715,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT116a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT116a-Facsimile.jpg"
     ],
@@ -12756,6 +12906,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT116b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT116b-Facsimile.jpg"
     ],
@@ -12805,6 +12956,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT117a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT117a-Facsimile.jpg"
     ],
@@ -13004,6 +13156,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT117b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT117b-Facsimile.jpg"
     ],
@@ -13050,6 +13203,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT118",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT118-Facsimile.jpg"
     ],
@@ -13165,6 +13319,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT119",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT119-Facsimile.jpg"
     ],
@@ -13274,6 +13429,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT120",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT120-Facsimile.jpg"
     ],
@@ -13374,6 +13530,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT121",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT121-Facsimile.jpg"
     ],
@@ -13453,6 +13610,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT122a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT122a-Facsimile.jpg"
     ],
@@ -13646,6 +13804,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT122b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT122b-Facsimile.jpg"
     ],
@@ -13746,6 +13905,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT123+124a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT123+124a-Facsimile.jpg"
     ],
@@ -13951,6 +14111,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT123+124b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT123+124b-Facsimile.jpg"
     ],
@@ -14081,6 +14242,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT125a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT125a-Facsimile.jpg"
     ],
@@ -14163,6 +14325,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT125b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT125b-Facsimile.jpg"
     ],
@@ -14242,6 +14405,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT126a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT126a-Facsimile.jpg"
     ],
@@ -14342,6 +14506,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT126b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT126b-Facsimile.jpg"
     ],
@@ -14421,6 +14586,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT127a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT127a-Facsimile.jpg"
     ],
@@ -14464,6 +14630,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT127b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT127b-Facsimile.jpg"
     ],
@@ -14570,6 +14737,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT128a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT128a-Facsimile.jpg"
     ],
@@ -14676,6 +14844,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT128b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT128b-Facsimile.jpg"
     ],
@@ -14740,6 +14909,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT129",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT129-Facsimile.jpg"
     ],
@@ -14837,6 +15007,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT130",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT130-Facsimile.jpg"
     ],
@@ -14931,6 +15102,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT131a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT131a-Facsimile.jpg"
     ],
@@ -15013,6 +15185,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT131b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT131b-Facsimile.jpg"
     ],
@@ -15080,6 +15253,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT132",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT132-Facsimile.jpg"
     ],
@@ -15156,6 +15330,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT133",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT133-Facsimile.jpg"
     ],
@@ -15193,6 +15368,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT135a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT135a-Facsimile.jpg"
     ],
@@ -15263,6 +15439,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT135b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT135b-Facsimile.jpg"
     ],
@@ -15303,6 +15480,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT136",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT136a-Facsimile.jpg",
         "images/HT136b-Facsimile.jpg"
@@ -15345,6 +15523,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT136a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT136a-Facsimile.jpg"
     ],
@@ -15376,6 +15555,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT136b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT136b-Facsimile.jpg"
     ],
@@ -15413,6 +15593,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT137",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT137-Facsimile.jpg"
     ],
@@ -15474,6 +15655,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT139",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT139-Facsimile.jpg"
     ],
@@ -15529,6 +15711,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT140",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT140-Facsimile.jpg"
     ],
@@ -15701,6 +15884,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT141",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT141-Facsimile.jpg"
     ],
@@ -15750,6 +15934,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT142",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT142-Facsimile.jpg"
     ],
@@ -15799,6 +15984,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT144",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT144-Facsimile.jpg"
     ],
@@ -15839,6 +16025,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT146",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT146-Facsimile.jpg"
     ],
@@ -15900,6 +16087,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT147",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT147-Facsimile.jpg"
     ],
@@ -15952,6 +16140,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154.",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154.-Facsimile.jpg"
     ],
@@ -16016,6 +16205,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154a-Facsimile.jpg"
     ],
@@ -16077,6 +16267,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154b-Facsimile.jpg"
     ],
@@ -16105,6 +16296,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154c",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154c-Facsimile.jpg"
     ],
@@ -16145,6 +16337,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154e",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154e-Facsimile.jpg"
     ],
@@ -16188,6 +16381,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154g",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154g-Facsimile.jpg"
     ],
@@ -16222,6 +16416,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154ja",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154ja-Facsimile.jpg"
     ],
@@ -16265,6 +16460,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154jb",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154jb-Facsimile.jpg"
     ],
@@ -16302,6 +16498,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154k",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154k-Facsimile.jpg"
     ],
@@ -16345,6 +16542,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154l",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154l-Facsimile.jpg"
     ],
@@ -16376,6 +16574,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154m",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154m-Facsimile.jpg"
     ],
@@ -16407,6 +16606,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HT154n",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HT154n-Facsimile.jpg"
     ],
@@ -16462,6 +16662,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTW231a",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -16483,6 +16684,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTW231b",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -16504,6 +16706,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTW231c",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -16531,6 +16734,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTW231d-f",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -16546,6 +16750,7 @@ var inscriptions = new Map([
     "words": []
 }],
 ["HTWa1001",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1001-Facsimile.jpg"
     ],
@@ -16571,6 +16776,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1002",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1002-Facsimile.jpg"
     ],
@@ -16596,6 +16802,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1003",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1003-Facsimile.jpg"
     ],
@@ -16621,6 +16828,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1004",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1004-Facsimile.jpg"
     ],
@@ -16646,6 +16854,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1005",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1005-Facsimile.jpg"
     ],
@@ -16671,6 +16880,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1006",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1006-Facsimile.jpg"
     ],
@@ -16696,6 +16906,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1007",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1007-Facsimile.jpg"
     ],
@@ -16721,6 +16932,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1008",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1008-Facsimile.jpg"
     ],
@@ -16746,6 +16958,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1009",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1009-Facsimile.jpg"
     ],
@@ -16771,6 +16984,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1010",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1010-Facsimile.jpg"
     ],
@@ -16796,6 +17010,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1011",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1011-Facsimile.jpg"
     ],
@@ -16821,6 +17036,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1012",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1012-Facsimile.jpg"
     ],
@@ -16846,6 +17062,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1013",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1013-Facsimile.jpg"
     ],
@@ -16871,6 +17088,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1014",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1014-Facsimile.jpg"
     ],
@@ -16896,6 +17114,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1015",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1015-Facsimile.jpg"
     ],
@@ -16921,6 +17140,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1016",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1016-Facsimile.jpg"
     ],
@@ -16946,6 +17166,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1017",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1017-Facsimile.jpg"
     ],
@@ -16971,6 +17192,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1018",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1018-Facsimile.jpg"
     ],
@@ -16996,6 +17218,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1019",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1019-Facsimile.jpg",
         "images/HTWa1019a-Facsimile.jpg"
@@ -17029,6 +17252,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1020",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1020-Facsimile.jpg"
     ],
@@ -17066,6 +17290,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1021",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1021-Facsimile.jpg"
     ],
@@ -17106,6 +17331,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1021bis",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1021bis-Facsimile.jpg"
     ],
@@ -17134,6 +17360,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1022",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1022-Facsimile.jpg"
     ],
@@ -17159,6 +17386,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1023",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1023-Facsimile.jpg"
     ],
@@ -17184,6 +17412,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1024",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1024-Facsimile.jpg"
     ],
@@ -17209,6 +17438,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1025",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1025-Facsimile.jpg"
     ],
@@ -17234,6 +17464,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1026",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1026-Facsimile.jpg"
     ],
@@ -17259,6 +17490,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1027",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1027-Facsimile.jpg"
     ],
@@ -17284,6 +17516,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1028",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1028-Facsimile.jpg"
     ],
@@ -17310,6 +17543,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1029",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1029-Facsimile.jpg"
     ],
@@ -17336,6 +17570,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1030",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1030-Facsimile.jpg",
         "images/HTWa1030a-Facsimile.jpg"
@@ -17363,6 +17598,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1031",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1031-Facsimile.jpg"
     ],
@@ -17388,6 +17624,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1032",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1032-Facsimile.jpg"
     ],
@@ -17413,6 +17650,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1033",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1033-Facsimile.jpg"
     ],
@@ -17438,6 +17676,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1034",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1034-Facsimile.jpg"
     ],
@@ -17463,6 +17702,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1035",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1035-Facsimile.jpg"
     ],
@@ -17488,6 +17728,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1036",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1036-Facsimile.jpg"
     ],
@@ -17513,6 +17754,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1037",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1037-Facsimile.jpg"
     ],
@@ -17538,6 +17780,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1038",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1038-Facsimile.jpg"
     ],
@@ -17563,6 +17806,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1039",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1039-Facsimile.jpg"
     ],
@@ -17588,6 +17832,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1040",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1040-Facsimile.jpg"
     ],
@@ -17613,6 +17858,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1041",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1041-Facsimile.jpg"
     ],
@@ -17638,6 +17884,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1042",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1042-Facsimile.jpg"
     ],
@@ -17663,6 +17910,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1043",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1043-Facsimile.jpg"
     ],
@@ -17688,6 +17936,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1044",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1044-Facsimile.jpg"
     ],
@@ -17713,6 +17962,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1045",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1045-Facsimile.jpg"
     ],
@@ -17738,6 +17988,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1046",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1046-Facsimile.jpg"
     ],
@@ -17763,6 +18014,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1047",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1047-Facsimile.jpg"
     ],
@@ -17788,6 +18040,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1048",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1048-Facsimile.jpg"
     ],
@@ -17813,6 +18066,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1049",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1049-Facsimile.jpg"
     ],
@@ -17838,6 +18092,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1050",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1050-Facsimile.jpg"
     ],
@@ -17863,6 +18118,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1051",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1051-Facsimile.jpg"
     ],
@@ -17888,6 +18144,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1052",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1052-Facsimile.jpg"
     ],
@@ -17913,6 +18170,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1053",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1053-Facsimile.jpg"
     ],
@@ -17938,6 +18196,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1054",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1054-Facsimile.jpg"
     ],
@@ -17963,6 +18222,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1055",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1055-Facsimile.jpg"
     ],
@@ -17988,6 +18248,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1056",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1056-Facsimile.jpg"
     ],
@@ -18013,6 +18274,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1057",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1057-Facsimile.jpg"
     ],
@@ -18038,6 +18300,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1058",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1058-Facsimile.jpg"
     ],
@@ -18063,6 +18326,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1059",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1059-Facsimile.jpg"
     ],
@@ -18088,6 +18352,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1060",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1060-Facsimile.jpg"
     ],
@@ -18113,6 +18378,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1061",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1061-Facsimile.jpg"
     ],
@@ -18138,6 +18404,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1062",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1062-Facsimile.jpg"
     ],
@@ -18163,6 +18430,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1063",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1063-Facsimile.jpg"
     ],
@@ -18188,6 +18456,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1064",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1064-Facsimile.jpg"
     ],
@@ -18213,6 +18482,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1065",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1065-Facsimile.jpg"
     ],
@@ -18238,6 +18508,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1066",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1066-Facsimile.jpg"
     ],
@@ -18263,6 +18534,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1067",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1067-Facsimile.jpg"
     ],
@@ -18288,6 +18560,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1068",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1068-Facsimile.jpg"
     ],
@@ -18313,6 +18586,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1069",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1069-Facsimile.jpg"
     ],
@@ -18338,6 +18612,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1070",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1070-Facsimile.jpg"
     ],
@@ -18363,6 +18638,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1073",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1073-Facsimile.jpg"
     ],
@@ -18388,6 +18664,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1074",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1074-Facsimile.jpg"
     ],
@@ -18413,6 +18690,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1075",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1075-Facsimile.jpg"
     ],
@@ -18438,6 +18716,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1076",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1076-Facsimile.jpg"
     ],
@@ -18463,6 +18742,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1077",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1077-Facsimile.jpg"
     ],
@@ -18488,6 +18768,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1078",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1078-Facsimile.jpg"
     ],
@@ -18513,6 +18794,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1079",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1079-Facsimile.jpg"
     ],
@@ -18538,6 +18820,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1080",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1080-Facsimile.jpg"
     ],
@@ -18563,6 +18846,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1081",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1081-Facsimile.jpg"
     ],
@@ -18588,6 +18872,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1082",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1082-Facsimile.jpg"
     ],
@@ -18613,6 +18898,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1083",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1083-Facsimile.jpg"
     ],
@@ -18638,6 +18924,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1084",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1084-Facsimile.jpg"
     ],
@@ -18663,6 +18950,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1085",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1085-Facsimile.jpg"
     ],
@@ -18688,6 +18976,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1086",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1086-Facsimile.jpg"
     ],
@@ -18713,6 +19002,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1087",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1087-Facsimile.jpg"
     ],
@@ -18738,6 +19028,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1088",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1088-Facsimile.jpg"
     ],
@@ -18763,6 +19054,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1089",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1089-Facsimile.jpg"
     ],
@@ -18788,6 +19080,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1090",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1090-Facsimile.jpg"
     ],
@@ -18813,6 +19106,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1091",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1091-Facsimile.jpg"
     ],
@@ -18838,6 +19132,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1092",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1092-Facsimile.jpg"
     ],
@@ -18863,6 +19158,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1093",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1093-Facsimile.jpg"
     ],
@@ -18888,6 +19184,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1094",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1094-Facsimile.jpg"
     ],
@@ -18913,6 +19210,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1095",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1095-Facsimile.jpg"
     ],
@@ -18938,6 +19236,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1096",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1096-Facsimile.jpg"
     ],
@@ -18963,6 +19262,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1097",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1097-Facsimile.jpg"
     ],
@@ -18988,6 +19288,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1098",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1098-Facsimile.jpg"
     ],
@@ -19013,6 +19314,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1099",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1099-Facsimile.jpg"
     ],
@@ -19038,6 +19340,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1100",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1100-Facsimile.jpg"
     ],
@@ -19063,6 +19366,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1101",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1101-Facsimile.jpg"
     ],
@@ -19088,6 +19392,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1102",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1102-Facsimile.jpg"
     ],
@@ -19113,6 +19418,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1103",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1103-Facsimile.jpg"
     ],
@@ -19138,6 +19444,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1104",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1104-Facsimile.jpg"
     ],
@@ -19163,6 +19470,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1105",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1105-Facsimile.jpg"
     ],
@@ -19188,6 +19496,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1106",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1106-Facsimile.jpg"
     ],
@@ -19213,6 +19522,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1107",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1107-Facsimile.jpg"
     ],
@@ -19238,6 +19548,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1108",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1108-Facsimile.jpg"
     ],
@@ -19263,6 +19574,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1109",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1109-Facsimile.jpg"
     ],
@@ -19288,6 +19600,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1110",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1110-Facsimile.jpg"
     ],
@@ -19313,6 +19626,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1111",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1111-Facsimile.jpg"
     ],
@@ -19338,6 +19652,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1112",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1112-Facsimile.jpg"
     ],
@@ -19363,6 +19678,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1113",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1113-Facsimile.jpg"
     ],
@@ -19388,6 +19704,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1114",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1114-Facsimile.jpg"
     ],
@@ -19413,6 +19730,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1115",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1115-Facsimile.jpg"
     ],
@@ -19438,6 +19756,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1116",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1116-Facsimile.jpg"
     ],
@@ -19463,6 +19782,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1117",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1117-Facsimile.jpg"
     ],
@@ -19488,6 +19808,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1118",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1118-Facsimile.jpg"
     ],
@@ -19513,6 +19834,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1119",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1119-Facsimile.jpg"
     ],
@@ -19538,6 +19860,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1120",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1120-Facsimile.jpg"
     ],
@@ -19563,6 +19886,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1121",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1121-Facsimile.jpg"
     ],
@@ -19588,6 +19912,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1122",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1122-Facsimile.jpg"
     ],
@@ -19613,6 +19938,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1123",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1123-Facsimile.jpg"
     ],
@@ -19638,6 +19964,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1124",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1124-Facsimile.jpg"
     ],
@@ -19663,6 +19990,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1125",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1125-Facsimile.jpg"
     ],
@@ -19688,6 +20016,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1126",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1126-Facsimile.jpg"
     ],
@@ -19713,6 +20042,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1127",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1127-Facsimile.jpg"
     ],
@@ -19738,6 +20068,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1128",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1128-Facsimile.jpg"
     ],
@@ -19763,6 +20094,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1129",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1129-Facsimile.jpg"
     ],
@@ -19788,6 +20120,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1130",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1130-Facsimile.jpg"
     ],
@@ -19813,6 +20146,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1131",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1131-Facsimile.jpg"
     ],
@@ -19838,6 +20172,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1132",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1132-Facsimile.jpg"
     ],
@@ -19863,6 +20198,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1133",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1133-Facsimile.jpg"
     ],
@@ -19888,6 +20224,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1134",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1134-Facsimile.jpg"
     ],
@@ -19913,6 +20250,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1135",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1135-Facsimile.jpg"
     ],
@@ -19938,6 +20276,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1136",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1136-Facsimile.jpg"
     ],
@@ -19963,6 +20302,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1137",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1137-Facsimile.jpg"
     ],
@@ -19988,6 +20328,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1138",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1138-Facsimile.jpg"
     ],
@@ -20013,6 +20354,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1139",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1139-Facsimile.jpg"
     ],
@@ -20038,6 +20380,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1140",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1140-Facsimile.jpg"
     ],
@@ -20063,6 +20406,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1141",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1141-Facsimile.jpg"
     ],
@@ -20088,6 +20432,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1142",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1142-Facsimile.jpg"
     ],
@@ -20113,6 +20458,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1143",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1143-Facsimile.jpg"
     ],
@@ -20138,6 +20484,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1144",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1144-Facsimile.jpg"
     ],
@@ -20163,6 +20510,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1145",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1145-Facsimile.jpg"
     ],
@@ -20188,6 +20536,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1146",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20209,6 +20558,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1147",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20230,6 +20580,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1148",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20251,6 +20602,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1149",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20272,6 +20624,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1150",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20293,6 +20646,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1151",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20314,6 +20668,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1152",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20335,6 +20690,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1153",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20356,6 +20712,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1154",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20377,6 +20734,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1155",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20398,6 +20756,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1156",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20419,6 +20778,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1157",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20440,6 +20800,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1158",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20461,6 +20822,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1159",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20482,6 +20844,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1160",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20503,6 +20866,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1161",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20524,6 +20888,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1162",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20545,6 +20910,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1163",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20566,6 +20932,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1164",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20587,6 +20954,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1165",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20608,6 +20976,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1166",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20629,6 +20998,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1167",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20650,6 +21020,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1168",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20671,6 +21042,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1169",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20692,6 +21064,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1170",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
@@ -20713,6 +21086,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1171",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1171-Facsimile.jpg"
     ],
@@ -20738,6 +21112,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1172",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1172-Facsimile.jpg"
     ],
@@ -20763,6 +21138,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1173",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1173-Facsimile.jpg"
     ],
@@ -20788,6 +21164,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1174",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1174-Facsimile.jpg"
     ],
@@ -20813,6 +21190,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1175",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1175-Facsimile.jpg"
     ],
@@ -20838,6 +21216,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1176",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1176-Facsimile.jpg"
     ],
@@ -20863,6 +21242,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1177",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1177-Facsimile.jpg"
     ],
@@ -20888,6 +21268,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1178",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1178-Facsimile.jpg"
     ],
@@ -20913,6 +21294,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1179",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1179-Facsimile.jpg"
     ],
@@ -20938,6 +21320,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1180",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1180-Facsimile.jpg"
     ],
@@ -20963,6 +21346,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1181",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1181-Facsimile.jpg"
     ],
@@ -20988,6 +21372,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1182",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1182-Facsimile.jpg"
     ],
@@ -21013,6 +21398,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1183",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1183-Facsimile.jpg"
     ],
@@ -21038,6 +21424,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1184",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1184-Facsimile.jpg"
     ],
@@ -21063,6 +21450,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1185",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1185-Facsimile.jpg"
     ],
@@ -21088,6 +21476,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1186",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1186-Facsimile.jpg"
     ],
@@ -21113,6 +21502,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1187",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1187-Facsimile.jpg"
     ],
@@ -21138,6 +21528,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1188",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1188-Facsimile.jpg"
     ],
@@ -21163,6 +21554,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1189",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1189-Facsimile.jpg"
     ],
@@ -21188,6 +21580,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1190",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1190-Facsimile.jpg"
     ],
@@ -21213,6 +21606,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1191",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1191-Facsimile.jpg"
     ],
@@ -21238,6 +21632,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1192",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1192-Facsimile.jpg"
     ],
@@ -21263,6 +21658,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1193",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1193-Facsimile.jpg"
     ],
@@ -21288,6 +21684,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1194",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1194-Facsimile.jpg"
     ],
@@ -21313,6 +21710,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1195",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1195-Facsimile.jpg"
     ],
@@ -21338,6 +21736,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1196",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1196-Facsimile.jpg"
     ],
@@ -21363,6 +21762,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1197",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1197-Facsimile.jpg"
     ],
@@ -21388,6 +21788,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1198",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1198-Facsimile.jpg"
     ],
@@ -21413,6 +21814,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1199",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1199-Facsimile.jpg"
     ],
@@ -21438,6 +21840,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1200",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1200-Facsimile.jpg"
     ],
@@ -21463,6 +21866,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1201",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1201-Facsimile.jpg"
     ],
@@ -21488,6 +21892,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1202",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1202-Facsimile.jpg"
     ],
@@ -21513,6 +21918,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1203",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1203-Facsimile.jpg"
     ],
@@ -21538,6 +21944,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1204",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1204-Facsimile.jpg"
     ],
@@ -21563,6 +21970,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1205",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1205-Facsimile.jpg"
     ],
@@ -21588,6 +21996,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1206",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1206-Facsimile.jpg"
     ],
@@ -21613,6 +22022,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1207",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1207-Facsimile.jpg"
     ],
@@ -21638,6 +22048,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1208",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1208-Facsimile.jpg"
     ],
@@ -21663,6 +22074,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1209",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1209-Facsimile.jpg"
     ],
@@ -21688,6 +22100,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1210",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1210-Facsimile.jpg"
     ],
@@ -21713,6 +22126,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1211",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1211-Facsimile.jpg"
     ],
@@ -21738,6 +22152,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1212",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1212-Facsimile.jpg"
     ],
@@ -21763,6 +22178,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1213",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1213-Facsimile.jpg"
     ],
@@ -21788,6 +22204,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1214",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1214-Facsimile.jpg"
     ],
@@ -21813,6 +22230,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1215",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1215-Facsimile.jpg"
     ],
@@ -21838,6 +22256,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1216",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1216-Facsimile.jpg"
     ],
@@ -21863,6 +22282,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1217",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1217-Facsimile.jpg"
     ],
@@ -21888,6 +22308,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1218",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1218-Facsimile.jpg"
     ],
@@ -21913,6 +22334,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1219",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1219-Facsimile.jpg"
     ],
@@ -21938,6 +22360,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1220",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1220-Facsimile.jpg"
     ],
@@ -21963,6 +22386,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1221",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1221-Facsimile.jpg"
     ],
@@ -21988,6 +22412,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1222",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1222-Facsimile.jpg"
     ],
@@ -22013,6 +22438,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1223",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1223-Facsimile.jpg"
     ],
@@ -22038,6 +22464,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1224",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1224-Facsimile.jpg"
     ],
@@ -22063,6 +22490,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1225",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1225-Facsimile.jpg"
     ],
@@ -22088,6 +22516,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1226",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1226-Facsimile.jpg"
     ],
@@ -22113,6 +22542,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1227",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1227-Facsimile.jpg"
     ],
@@ -22138,6 +22568,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1228",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1228-Facsimile.jpg"
     ],
@@ -22163,6 +22594,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1229",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1229-Facsimile.jpg"
     ],
@@ -22188,6 +22620,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1230",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1230-Facsimile.jpg"
     ],
@@ -22213,6 +22646,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1231",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1231-Facsimile.jpg"
     ],
@@ -22238,6 +22672,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1232",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1232-Facsimile.jpg"
     ],
@@ -22263,6 +22698,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1233",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1233-Facsimile.jpg"
     ],
@@ -22288,6 +22724,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1234",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1234-Facsimile.jpg"
     ],
@@ -22313,6 +22750,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1235",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1235-Facsimile.jpg"
     ],
@@ -22338,6 +22776,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1236",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1236-Facsimile.jpg"
     ],
@@ -22363,6 +22802,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1237",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1237-Facsimile.jpg"
     ],
@@ -22388,6 +22828,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1238",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1238-Facsimile.jpg"
     ],
@@ -22413,6 +22854,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1239",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1239-Facsimile.jpg"
     ],
@@ -22438,6 +22880,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1240",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1240-Facsimile.jpg"
     ],
@@ -22463,6 +22906,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1241",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1241-Facsimile.jpg"
     ],
@@ -22488,6 +22932,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1242",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1242-Facsimile.jpg"
     ],
@@ -22513,6 +22958,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1243",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1243-Facsimile.jpg"
     ],
@@ -22538,6 +22984,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1244",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1244-Facsimile.jpg"
     ],
@@ -22563,6 +23010,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1245",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1245-Facsimile.jpg"
     ],
@@ -22588,6 +23036,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1246",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1246-Facsimile.jpg"
     ],
@@ -22613,6 +23062,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1247",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1247-Facsimile.jpg"
     ],
@@ -22638,6 +23088,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1248",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1248-Facsimile.jpg"
     ],
@@ -22663,6 +23114,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1249",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1249-Facsimile.jpg"
     ],
@@ -22688,6 +23140,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1250",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1250-Facsimile.jpg"
     ],
@@ -22713,6 +23166,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1251",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1251-Facsimile.jpg"
     ],
@@ -22738,6 +23192,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1252",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1252-Facsimile.jpg"
     ],
@@ -22763,6 +23218,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1253",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1253-Facsimile.jpg"
     ],
@@ -22788,6 +23244,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1254",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1254-Facsimile.jpg"
     ],
@@ -22813,6 +23270,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1255",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1255-Facsimile.jpg"
     ],
@@ -22838,6 +23296,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1256",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1256-Facsimile.jpg"
     ],
@@ -22863,6 +23322,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1257",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1257-Facsimile.jpg"
     ],
@@ -22888,6 +23348,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1258",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1258-Facsimile.jpg"
     ],
@@ -22913,6 +23374,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1259",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1259-Facsimile.jpg"
     ],
@@ -22938,6 +23400,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1260",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1260-Facsimile.jpg"
     ],
@@ -22963,6 +23426,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1261",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1261-Facsimile.jpg"
     ],
@@ -22988,6 +23452,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1262",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1262-Facsimile.jpg"
     ],
@@ -23013,6 +23478,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1263",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1263-Facsimile.jpg"
     ],
@@ -23038,6 +23504,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1264",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1264-Facsimile.jpg"
     ],
@@ -23063,6 +23530,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1265",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1265-Facsimile.jpg"
     ],
@@ -23088,6 +23556,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1266",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1266-Facsimile.jpg"
     ],
@@ -23113,6 +23582,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1267",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1267-Facsimile.jpg"
     ],
@@ -23138,6 +23608,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1268",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1268-Facsimile.jpg"
     ],
@@ -23163,6 +23634,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1269",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1269-Facsimile.jpg"
     ],
@@ -23188,6 +23660,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1270",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1270-Facsimile.jpg"
     ],
@@ -23213,6 +23686,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1271",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1271-Facsimile.jpg"
     ],
@@ -23238,6 +23712,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1272",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1272-Facsimile.jpg"
     ],
@@ -23263,6 +23738,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1273",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1273-Facsimile.jpg"
     ],
@@ -23288,6 +23764,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1274",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1274-Facsimile.jpg"
     ],
@@ -23313,6 +23790,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1275",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1275-Facsimile.jpg"
     ],
@@ -23338,6 +23816,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1276",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1276-Facsimile.jpg"
     ],
@@ -23363,6 +23842,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1277",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1277-Facsimile.jpg"
     ],
@@ -23388,6 +23868,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1278",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1278-Facsimile.jpg"
     ],
@@ -23413,6 +23894,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1279",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1279-Facsimile.jpg"
     ],
@@ -23438,6 +23920,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1280",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1280-Facsimile.jpg"
     ],
@@ -23463,6 +23946,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1281",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1281-Facsimile.jpg"
     ],
@@ -23488,6 +23972,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1282",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1282-Facsimile.jpg"
     ],
@@ -23513,6 +23998,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1283",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1283-Facsimile.jpg"
     ],
@@ -23538,6 +24024,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1284",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1284-Facsimile.jpg"
     ],
@@ -23563,6 +24050,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1285",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1285-Facsimile.jpg"
     ],
@@ -23588,6 +24076,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1286",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1286-Facsimile.jpg"
     ],
@@ -23613,6 +24102,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1287",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1287-Facsimile.jpg"
     ],
@@ -23638,6 +24128,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1288",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1288-Facsimile.jpg"
     ],
@@ -23663,6 +24154,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1289",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1289-Facsimile.jpg"
     ],
@@ -23688,6 +24180,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1290",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1290-Facsimile.jpg"
     ],
@@ -23713,6 +24206,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1291",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1291-Facsimile.jpg"
     ],
@@ -23738,6 +24232,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1292",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1292-Facsimile.jpg"
     ],
@@ -23763,6 +24258,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1293",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1293-Facsimile.jpg"
     ],
@@ -23788,6 +24284,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1294",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1294-Facsimile.jpg"
     ],
@@ -23813,6 +24310,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1295",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1295-Facsimile.jpg"
     ],
@@ -23838,6 +24336,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1296",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1296-Facsimile.jpg"
     ],
@@ -23863,6 +24362,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1297",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1297-Facsimile.jpg"
     ],
@@ -23888,6 +24388,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1298",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1298-Facsimile.jpg"
     ],
@@ -23913,6 +24414,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1299",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1299-Facsimile.jpg"
     ],
@@ -23938,6 +24440,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1300",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1300-Facsimile.jpg"
     ],
@@ -23963,6 +24466,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1301",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1301-Facsimile.jpg"
     ],
@@ -23988,6 +24492,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1302",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1302-Facsimile.jpg"
     ],
@@ -24013,6 +24518,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1303",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1303-Facsimile.jpg"
     ],
@@ -24038,6 +24544,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1304",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1304-Facsimile.jpg"
     ],
@@ -24063,6 +24570,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1305",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1305-Facsimile.jpg"
     ],
@@ -24088,6 +24596,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1306",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1306-Facsimile.jpg"
     ],
@@ -24113,6 +24622,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1307",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1307-Facsimile.jpg"
     ],
@@ -24138,6 +24648,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1308",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1308-Facsimile.jpg"
     ],
@@ -24163,6 +24674,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1309",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1309-Facsimile.jpg"
     ],
@@ -24188,6 +24700,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1310",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1310-Facsimile.jpg"
     ],
@@ -24213,6 +24726,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1311",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1311-Facsimile.jpg"
     ],
@@ -24238,6 +24752,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1312",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1312-Facsimile.jpg"
     ],
@@ -24263,6 +24778,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1313",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1313-Facsimile.jpg"
     ],
@@ -24288,6 +24804,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1314",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1314-Facsimile.jpg"
     ],
@@ -24313,6 +24830,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1315",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1315-Facsimile.jpg"
     ],
@@ -24338,6 +24856,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1316",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1316-Facsimile.jpg"
     ],
@@ -24363,6 +24882,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1317",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1317-Facsimile.jpg"
     ],
@@ -24388,6 +24908,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1318",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1318-Facsimile.jpg"
     ],
@@ -24413,6 +24934,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1319",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1319-Facsimile.jpg"
     ],
@@ -24438,6 +24960,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1320",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1320-Facsimile.jpg"
     ],
@@ -24463,6 +24986,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1321",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1321-Facsimile.jpg"
     ],
@@ -24488,6 +25012,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1322",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1322-Facsimile.jpg"
     ],
@@ -24513,6 +25038,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1323",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1323-Facsimile.jpg"
     ],
@@ -24538,6 +25064,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1324",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1324-Facsimile.jpg"
     ],
@@ -24563,6 +25090,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1325",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1325-Facsimile.jpg"
     ],
@@ -24588,6 +25116,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1326",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1326-Facsimile.jpg"
     ],
@@ -24613,6 +25142,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1327",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1327-Facsimile.jpg"
     ],
@@ -24638,6 +25168,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1328",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1328-Facsimile.jpg"
     ],
@@ -24663,6 +25194,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1329",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1329-Facsimile.jpg"
     ],
@@ -24688,6 +25220,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1330",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1330-Facsimile.jpg"
     ],
@@ -24713,6 +25246,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1331",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1331-Facsimile.jpg"
     ],
@@ -24738,6 +25272,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1332",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1332-Facsimile.jpg"
     ],
@@ -24763,6 +25298,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1333",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1333-Facsimile.jpg"
     ],
@@ -24788,6 +25324,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1334",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1334-Facsimile.jpg"
     ],
@@ -24813,6 +25350,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1335",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1335-Facsimile.jpg"
     ],
@@ -24838,6 +25376,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1336",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1336-Facsimile.jpg"
     ],
@@ -24863,6 +25402,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1337",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1337-Facsimile.jpg"
     ],
@@ -24888,6 +25428,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1338",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1338-Facsimile.jpg"
     ],
@@ -24913,6 +25454,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1339",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1339-Facsimile.jpg"
     ],
@@ -24938,6 +25480,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1340",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1340-Facsimile.jpg"
     ],
@@ -24963,6 +25506,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1341",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1341-Facsimile.jpg"
     ],
@@ -24988,6 +25532,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1342",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1342-Facsimile.jpg"
     ],
@@ -25013,6 +25558,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1343",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1343-Facsimile.jpg"
     ],
@@ -25038,6 +25584,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1344",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1344-Facsimile.jpg"
     ],
@@ -25063,6 +25610,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1345",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1345-Facsimile.jpg"
     ],
@@ -25088,6 +25636,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1346",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1346-Facsimile.jpg"
     ],
@@ -25113,6 +25662,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1347",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1347-Facsimile.jpg"
     ],
@@ -25138,6 +25688,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1348",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1348-Facsimile.jpg"
     ],
@@ -25163,6 +25714,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1349",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1349-Facsimile.jpg"
     ],
@@ -25188,6 +25740,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1350",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1350-Facsimile.jpg"
     ],
@@ -25213,6 +25766,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1351",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1351-Facsimile.jpg"
     ],
@@ -25238,6 +25792,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1352",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1352-Facsimile.jpg"
     ],
@@ -25263,6 +25818,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1353",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1353-Facsimile.jpg"
     ],
@@ -25288,6 +25844,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1354",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1354-Facsimile.jpg"
     ],
@@ -25313,6 +25870,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1355",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1355-Facsimile.jpg"
     ],
@@ -25338,6 +25896,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1356",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1356-Facsimile.jpg"
     ],
@@ -25363,6 +25922,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1357",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1357-Facsimile.jpg"
     ],
@@ -25388,6 +25948,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1358",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1358-Facsimile.jpg"
     ],
@@ -25413,6 +25974,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1359",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1359-Facsimile.jpg"
     ],
@@ -25438,6 +26000,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1360",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1360-Facsimile.jpg"
     ],
@@ -25463,6 +26026,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1361",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1361-Facsimile.jpg"
     ],
@@ -25488,6 +26052,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1362",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1362-Facsimile.jpg"
     ],
@@ -25513,6 +26078,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1363",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1363-Facsimile.jpg"
     ],
@@ -25538,6 +26104,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1364",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1364-Facsimile.jpg"
     ],
@@ -25563,6 +26130,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1365",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1365-Facsimile.jpg"
     ],
@@ -25588,6 +26156,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1366",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1366-Facsimile.jpg"
     ],
@@ -25613,6 +26182,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1367",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1367-Facsimile.jpg"
     ],
@@ -25638,6 +26208,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1368",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1368-Facsimile.jpg"
     ],
@@ -25663,6 +26234,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1369",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1369-Facsimile.jpg"
     ],
@@ -25688,6 +26260,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1370",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1370-Facsimile.jpg"
     ],
@@ -25713,6 +26286,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1371",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1371-Facsimile.jpg"
     ],
@@ -25738,6 +26312,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1372",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1372-Facsimile.jpg"
     ],
@@ -25763,6 +26338,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1373",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1373-Facsimile.jpg"
     ],
@@ -25788,6 +26364,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1374",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1374-Facsimile.jpg"
     ],
@@ -25813,6 +26390,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1375",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1375-Facsimile.jpg"
     ],
@@ -25838,6 +26416,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1376",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1376-Facsimile.jpg"
     ],
@@ -25863,6 +26442,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1377",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1377-Facsimile.jpg"
     ],
@@ -25888,6 +26468,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1378",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1378-Facsimile.jpg"
     ],
@@ -25913,6 +26494,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1379",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1379-Facsimile.jpg"
     ],
@@ -25938,6 +26520,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1380",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1380-Facsimile.jpg"
     ],
@@ -25963,6 +26546,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1381",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1381-Facsimile.jpg"
     ],
@@ -25988,6 +26572,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1382",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1382-Facsimile.jpg"
     ],
@@ -26013,6 +26598,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1383",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1383-Facsimile.jpg"
     ],
@@ -26038,6 +26624,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1384",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1384-Facsimile.jpg"
     ],
@@ -26063,6 +26650,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1385",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1385-Facsimile.jpg"
     ],
@@ -26088,6 +26676,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1386",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1386-Facsimile.jpg"
     ],
@@ -26113,6 +26702,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1387",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1387-Facsimile.jpg"
     ],
@@ -26138,6 +26728,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1388",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1388-Facsimile.jpg"
     ],
@@ -26163,6 +26754,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1389",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1389-Facsimile.jpg"
     ],
@@ -26188,6 +26780,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1390",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1390-Facsimile.jpg"
     ],
@@ -26213,6 +26806,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1391",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1391-Facsimile.jpg"
     ],
@@ -26238,6 +26832,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1392",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1392-Facsimile.jpg"
     ],
@@ -26263,6 +26858,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1393",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1393-Facsimile.jpg"
     ],
@@ -26288,6 +26884,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1394",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1394-Facsimile.jpg"
     ],
@@ -26313,6 +26910,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1395",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1395-Facsimile.jpg"
     ],
@@ -26338,6 +26936,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1396",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1396-Facsimile.jpg"
     ],
@@ -26363,6 +26962,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1397",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1397-Facsimile.jpg"
     ],
@@ -26388,6 +26988,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1398",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1398-Facsimile.jpg"
     ],
@@ -26413,6 +27014,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1399",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1399-Facsimile.jpg"
     ],
@@ -26438,6 +27040,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1400",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1400-Facsimile.jpg"
     ],
@@ -26463,6 +27066,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1401",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1401-Facsimile.jpg"
     ],
@@ -26488,6 +27092,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1402",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1402-Facsimile.jpg"
     ],
@@ -26513,6 +27118,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1403",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1403-Facsimile.jpg"
     ],
@@ -26538,6 +27144,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1404",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1404-Facsimile.jpg"
     ],
@@ -26563,6 +27170,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1405",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1405-Facsimile.jpg"
     ],
@@ -26588,6 +27196,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1406",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1406-Facsimile.jpg"
     ],
@@ -26613,6 +27222,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1407",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1407-Facsimile.jpg"
     ],
@@ -26638,6 +27248,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1408",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1408-Facsimile.jpg"
     ],
@@ -26663,6 +27274,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1409",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1409-Facsimile.jpg"
     ],
@@ -26688,6 +27300,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1410",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1410-Facsimile.jpg"
     ],
@@ -26713,6 +27326,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1411",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1411-Facsimile.jpg"
     ],
@@ -26738,6 +27352,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1412",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1412-Facsimile.jpg"
     ],
@@ -26763,6 +27378,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1413",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1413-Facsimile.jpg"
     ],
@@ -26788,6 +27404,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1414",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1414-Facsimile.jpg"
     ],
@@ -26813,6 +27430,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1415",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1415-Facsimile.jpg"
     ],
@@ -26838,6 +27456,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1416",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1416-Facsimile.jpg"
     ],
@@ -26863,6 +27482,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1417",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1417-Facsimile.jpg"
     ],
@@ -26888,6 +27508,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1418",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1418-Facsimile.jpg"
     ],
@@ -26913,6 +27534,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1419",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1419-Facsimile.jpg"
     ],
@@ -26938,6 +27560,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1420",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1420-Facsimile.jpg"
     ],
@@ -26963,6 +27586,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1421",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1421-Facsimile.jpg"
     ],
@@ -26988,6 +27612,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1422",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1422-Facsimile.jpg"
     ],
@@ -27013,6 +27638,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1423",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1423-Facsimile.jpg"
     ],
@@ -27038,6 +27664,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1424",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1424-Facsimile.jpg"
     ],
@@ -27063,6 +27690,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1425",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1425-Facsimile.jpg"
     ],
@@ -27088,6 +27716,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1426",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1426-Facsimile.jpg"
     ],
@@ -27113,6 +27742,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1427",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1427-Facsimile.jpg"
     ],
@@ -27138,6 +27768,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1428",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1428-Facsimile.jpg"
     ],
@@ -27163,6 +27794,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1429",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1429-Facsimile.jpg"
     ],
@@ -27188,6 +27820,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1430",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1430-Facsimile.jpg"
     ],
@@ -27213,6 +27846,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1431",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1431-Facsimile.jpg"
     ],
@@ -27238,6 +27872,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1432",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1432-Facsimile.jpg"
     ],
@@ -27263,6 +27898,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1433",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1433-Facsimile.jpg"
     ],
@@ -27288,6 +27924,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1434",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1434-Facsimile.jpg"
     ],
@@ -27313,6 +27950,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1435",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1435-Facsimile.jpg"
     ],
@@ -27338,6 +27976,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1436",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1436-Facsimile.jpg"
     ],
@@ -27363,6 +28002,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1437",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1437-Facsimile.jpg"
     ],
@@ -27388,6 +28028,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1438",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1438-Facsimile.jpg"
     ],
@@ -27413,6 +28054,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1439",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1439-Facsimile.jpg"
     ],
@@ -27438,6 +28080,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1440",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1440-Facsimile.jpg"
     ],
@@ -27463,6 +28106,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1441",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1441-Facsimile.jpg"
     ],
@@ -27488,6 +28132,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1442",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1442-Facsimile.jpg"
     ],
@@ -27513,6 +28158,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1443",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1443-Facsimile.jpg"
     ],
@@ -27538,6 +28184,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1444",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1444-Facsimile.jpg"
     ],
@@ -27563,6 +28210,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1445",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1445-Facsimile.jpg"
     ],
@@ -27588,6 +28236,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1446",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1446-Facsimile.jpg"
     ],
@@ -27613,6 +28262,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1447",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1447-Facsimile.jpg"
     ],
@@ -27638,6 +28288,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1448",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1448-Facsimile.jpg"
     ],
@@ -27663,6 +28314,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1449",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1449-Facsimile.jpg"
     ],
@@ -27688,6 +28340,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1450",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1450-Facsimile.jpg"
     ],
@@ -27713,6 +28366,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1451",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1451-Facsimile.jpg"
     ],
@@ -27738,6 +28392,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1452",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1452-Facsimile.jpg"
     ],
@@ -27763,6 +28418,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1453",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1453-Facsimile.jpg"
     ],
@@ -27788,6 +28444,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1454",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1454-Facsimile.jpg"
     ],
@@ -27813,6 +28470,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1455",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1455-Facsimile.jpg"
     ],
@@ -27838,6 +28496,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1456",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1456-Facsimile.jpg"
     ],
@@ -27863,6 +28522,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1457",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1457-Facsimile.jpg"
     ],
@@ -27888,6 +28548,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1458",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1458-Facsimile.jpg"
     ],
@@ -27913,6 +28574,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1459",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1459-Facsimile.jpg"
     ],
@@ -27938,6 +28600,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1460",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1460-Facsimile.jpg"
     ],
@@ -27963,6 +28626,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1461",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1461-Facsimile.jpg"
     ],
@@ -27988,6 +28652,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1462",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1462-Facsimile.jpg"
     ],
@@ -28013,6 +28678,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1463",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1463-Facsimile.jpg"
     ],
@@ -28038,6 +28704,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1464",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1464-Facsimile.jpg"
     ],
@@ -28063,6 +28730,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1465",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1465-Facsimile.jpg"
     ],
@@ -28088,6 +28756,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1466",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1466-Facsimile.jpg"
     ],
@@ -28113,6 +28782,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1467",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1467-Facsimile.jpg"
     ],
@@ -28138,6 +28808,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1468",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1468-Facsimile.jpg"
     ],
@@ -28163,6 +28834,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1469",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1469-Facsimile.jpg"
     ],
@@ -28188,6 +28860,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1470",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1470-Facsimile.jpg"
     ],
@@ -28213,6 +28886,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1471",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1471-Facsimile.jpg"
     ],
@@ -28238,6 +28912,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1472",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1472-Facsimile.jpg"
     ],
@@ -28263,6 +28938,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1473",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1473-Facsimile.jpg"
     ],
@@ -28288,6 +28964,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1474",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1474-Facsimile.jpg"
     ],
@@ -28313,6 +28990,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1475",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1475-Facsimile.jpg"
     ],
@@ -28338,6 +29016,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1476",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1476-Facsimile.jpg"
     ],
@@ -28363,6 +29042,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1477",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1477-Facsimile.jpg"
     ],
@@ -28388,6 +29068,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1478",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1478-Facsimile.jpg"
     ],
@@ -28413,6 +29094,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1479",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1479-Facsimile.jpg"
     ],
@@ -28438,6 +29120,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1480",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1480-Facsimile.jpg"
     ],
@@ -28463,6 +29146,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1481",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1481-Facsimile.jpg"
     ],
@@ -28488,6 +29172,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1482",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1482-Facsimile.jpg"
     ],
@@ -28513,6 +29198,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1483",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1483-Facsimile.jpg"
     ],
@@ -28538,6 +29224,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1484",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1484-Facsimile.jpg"
     ],
@@ -28563,6 +29250,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1485",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1485-Facsimile.jpg"
     ],
@@ -28588,6 +29276,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1486",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1486-Facsimile.jpg"
     ],
@@ -28613,6 +29302,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1487",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1487-Facsimile.jpg"
     ],
@@ -28638,6 +29328,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1488",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1488-Facsimile.jpg"
     ],
@@ -28663,6 +29354,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1489",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1489-Facsimile.jpg"
     ],
@@ -28688,6 +29380,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1490",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1490-Facsimile.jpg"
     ],
@@ -28713,6 +29406,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1491",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1491-Facsimile.jpg"
     ],
@@ -28738,6 +29432,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1492",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1492-Facsimile.jpg"
     ],
@@ -28763,6 +29458,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1493",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1493-Facsimile.jpg"
     ],
@@ -28788,6 +29484,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1494",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1494-Facsimile.jpg"
     ],
@@ -28813,6 +29510,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1495",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1495-Facsimile.jpg"
     ],
@@ -28838,6 +29536,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1496",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1496-Facsimile.jpg"
     ],
@@ -28863,6 +29562,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1497",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1497-Facsimile.jpg"
     ],
@@ -28888,6 +29588,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1498",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1498-Facsimile.jpg"
     ],
@@ -28913,6 +29614,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1499",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1499-Facsimile.jpg"
     ],
@@ -28938,6 +29640,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1500",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1500-Facsimile.jpg"
     ],
@@ -28963,6 +29666,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1501",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1501-Facsimile.jpg"
     ],
@@ -28988,6 +29692,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1502",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1502-Facsimile.jpg"
     ],
@@ -29013,6 +29718,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1503",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1503-Facsimile.jpg"
     ],
@@ -29038,6 +29744,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1504",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1504-Facsimile.jpg"
     ],
@@ -29063,6 +29770,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1505",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1505-Facsimile.jpg"
     ],
@@ -29088,6 +29796,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1506",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1506-Facsimile.jpg"
     ],
@@ -29113,6 +29822,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1507",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1507-Facsimile.jpg"
     ],
@@ -29138,6 +29848,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1508",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1508-Facsimile.jpg"
     ],
@@ -29163,6 +29874,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1509",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1509-Facsimile.jpg"
     ],
@@ -29188,6 +29900,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1510",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1510-Facsimile.jpg"
     ],
@@ -29213,6 +29926,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1511",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1511-Facsimile.jpg"
     ],
@@ -29238,6 +29952,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1512",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1512-Facsimile.jpg"
     ],
@@ -29263,6 +29978,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1513",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1513-Facsimile.jpg"
     ],
@@ -29288,6 +30004,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1514",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1514-Facsimile.jpg"
     ],
@@ -29313,6 +30030,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1515",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1515-Facsimile.jpg"
     ],
@@ -29338,6 +30056,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1516",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1516-Facsimile.jpg"
     ],
@@ -29363,6 +30082,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1517",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1517-Facsimile.jpg"
     ],
@@ -29388,6 +30108,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1518",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1518-Facsimile.jpg"
     ],
@@ -29413,6 +30134,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1519",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1519-Facsimile.jpg"
     ],
@@ -29438,6 +30160,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1520",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1520-Facsimile.jpg"
     ],
@@ -29463,6 +30186,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1521",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1521-Facsimile.jpg"
     ],
@@ -29488,6 +30212,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1522",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1522-Facsimile.jpg"
     ],
@@ -29513,6 +30238,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1523",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1523-Facsimile.jpg"
     ],
@@ -29538,6 +30264,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1524",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1524-Facsimile.jpg"
     ],
@@ -29563,6 +30290,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1525",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1525-Facsimile.jpg"
     ],
@@ -29588,6 +30316,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1526",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1526-Facsimile.jpg"
     ],
@@ -29613,6 +30342,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1527",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1527-Facsimile.jpg"
     ],
@@ -29638,6 +30368,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1528",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1528-Facsimile.jpg"
     ],
@@ -29663,6 +30394,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1529",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1529-Facsimile.jpg"
     ],
@@ -29688,6 +30420,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1530",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1530-Facsimile.jpg"
     ],
@@ -29713,6 +30446,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1531",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1531-Facsimile.jpg"
     ],
@@ -29738,6 +30472,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1532",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1532-Facsimile.jpg"
     ],
@@ -29763,6 +30498,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1533",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1533-Facsimile.jpg"
     ],
@@ -29788,6 +30524,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1534",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1534-Facsimile.jpg"
     ],
@@ -29813,6 +30550,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1535",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1535-Facsimile.jpg"
     ],
@@ -29838,6 +30576,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1536",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1536-Facsimile.jpg"
     ],
@@ -29863,6 +30602,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1537",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1537-Facsimile.jpg"
     ],
@@ -29888,6 +30628,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1538",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1538-Facsimile.jpg"
     ],
@@ -29913,6 +30654,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1539",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1539-Facsimile.jpg"
     ],
@@ -29938,6 +30680,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1540",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1540-Facsimile.jpg"
     ],
@@ -29963,6 +30706,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1541",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1541-Facsimile.jpg"
     ],
@@ -29988,6 +30732,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1542",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1542-Facsimile.jpg"
     ],
@@ -30013,6 +30758,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1543",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1543-Facsimile.jpg"
     ],
@@ -30038,6 +30784,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1544",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1544-Facsimile.jpg"
     ],
@@ -30063,6 +30810,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1545",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1545-Facsimile.jpg"
     ],
@@ -30088,6 +30836,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1546",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1546-Facsimile.jpg"
     ],
@@ -30113,6 +30862,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1547",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1547-Facsimile.jpg"
     ],
@@ -30138,6 +30888,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1548",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1548-Facsimile.jpg"
     ],
@@ -30163,6 +30914,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1549",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1549-Facsimile.jpg"
     ],
@@ -30188,6 +30940,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1550",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1550-Facsimile.jpg"
     ],
@@ -30213,6 +30966,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1551",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1551-Facsimile.jpg"
     ],
@@ -30238,6 +30992,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1552",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1552-Facsimile.jpg"
     ],
@@ -30263,6 +31018,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1553",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1553-Facsimile.jpg"
     ],
@@ -30288,6 +31044,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1554",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1554-Facsimile.jpg"
     ],
@@ -30313,6 +31070,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1555",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1555-Facsimile.jpg"
     ],
@@ -30338,6 +31096,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1556",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1556-Facsimile.jpg"
     ],
@@ -30363,6 +31122,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1557",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1557-Facsimile.jpg"
     ],
@@ -30388,6 +31148,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1558",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1558-Facsimile.jpg"
     ],
@@ -30413,6 +31174,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1559",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1559-Facsimile.jpg"
     ],
@@ -30438,6 +31200,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1560",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1560-Facsimile.jpg"
     ],
@@ -30463,6 +31226,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1561",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1561-Facsimile.jpg"
     ],
@@ -30488,6 +31252,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1562",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1562-Facsimile.jpg"
     ],
@@ -30513,6 +31278,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1563",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1563-Facsimile.jpg"
     ],
@@ -30538,6 +31304,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1564",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1564-Facsimile.jpg"
     ],
@@ -30563,6 +31330,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1565",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1565-Facsimile.jpg"
     ],
@@ -30588,6 +31356,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1566",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1566-Facsimile.jpg"
     ],
@@ -30613,6 +31382,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1567",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1567-Facsimile.jpg"
     ],
@@ -30638,6 +31408,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1568",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1568-Facsimile.jpg"
     ],
@@ -30663,6 +31434,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1569",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1569-Facsimile.jpg"
     ],
@@ -30688,6 +31460,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1570",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1570-Facsimile.jpg"
     ],
@@ -30713,6 +31486,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1571",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1571-Facsimile.jpg"
     ],
@@ -30738,6 +31512,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1572",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1572-Facsimile.jpg"
     ],
@@ -30763,6 +31538,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1573",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1573-Facsimile.jpg"
     ],
@@ -30788,6 +31564,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1574",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1574-Facsimile.jpg"
     ],
@@ -30813,6 +31590,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1575",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1575-Facsimile.jpg"
     ],
@@ -30838,6 +31616,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1576",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1576-Facsimile.jpg"
     ],
@@ -30863,6 +31642,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1577",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1577-Facsimile.jpg"
     ],
@@ -30888,6 +31668,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1578",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1578-Facsimile.jpg"
     ],
@@ -30913,6 +31694,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1579",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1579-Facsimile.jpg"
     ],
@@ -30938,6 +31720,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1580",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1580-Facsimile.jpg"
     ],
@@ -30963,6 +31746,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1581",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1581-Facsimile.jpg"
     ],
@@ -30988,6 +31772,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1582",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1582-Facsimile.jpg"
     ],
@@ -31013,6 +31798,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1583",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1583-Facsimile.jpg"
     ],
@@ -31038,6 +31824,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1584",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1584-Facsimile.jpg"
     ],
@@ -31063,6 +31850,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1585",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1585-Facsimile.jpg"
     ],
@@ -31088,6 +31876,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1586",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1586-Facsimile.jpg"
     ],
@@ -31113,6 +31902,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1587",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1587-Facsimile.jpg"
     ],
@@ -31138,6 +31928,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1588",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1588-Facsimile.jpg"
     ],
@@ -31163,6 +31954,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1589",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1589-Facsimile.jpg"
     ],
@@ -31188,6 +31980,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1590",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1590-Facsimile.jpg"
     ],
@@ -31213,6 +32006,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1591",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1591-Facsimile.jpg"
     ],
@@ -31238,6 +32032,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1592",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1592-Facsimile.jpg"
     ],
@@ -31263,6 +32058,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1593",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1593-Facsimile.jpg"
     ],
@@ -31288,6 +32084,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1594",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1594-Facsimile.jpg"
     ],
@@ -31313,6 +32110,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1595",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1595-Facsimile.jpg"
     ],
@@ -31338,6 +32136,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1596",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1596-Facsimile.jpg"
     ],
@@ -31363,6 +32162,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1597",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1597-Facsimile.jpg"
     ],
@@ -31388,6 +32188,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1598",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1598-Facsimile.jpg"
     ],
@@ -31413,6 +32214,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1599",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1599-Facsimile.jpg"
     ],
@@ -31438,6 +32240,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1600",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1600-Facsimile.jpg"
     ],
@@ -31463,6 +32266,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1601",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1601-Facsimile.jpg"
     ],
@@ -31488,6 +32292,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1602",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1602-Facsimile.jpg"
     ],
@@ -31513,6 +32318,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1603",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1603-Facsimile.jpg"
     ],
@@ -31538,6 +32344,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1604",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1604-Facsimile.jpg"
     ],
@@ -31563,6 +32370,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1605",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1605-Facsimile.jpg"
     ],
@@ -31588,6 +32396,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1606",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1606-Facsimile.jpg"
     ],
@@ -31613,6 +32422,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1607",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1607-Facsimile.jpg"
     ],
@@ -31638,6 +32448,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1608",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1608-Facsimile.jpg"
     ],
@@ -31663,6 +32474,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1609",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1609-Facsimile.jpg"
     ],
@@ -31688,6 +32500,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1610",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1610-Facsimile.jpg"
     ],
@@ -31713,6 +32526,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1611",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1611-Facsimile.jpg"
     ],
@@ -31738,6 +32552,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1612",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1612-Facsimile.jpg"
     ],
@@ -31763,6 +32578,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1613",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1613-Facsimile.jpg"
     ],
@@ -31788,6 +32604,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1614",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1614-Facsimile.jpg"
     ],
@@ -31813,6 +32630,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1615",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1615-Facsimile.jpg"
     ],
@@ -31838,6 +32656,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1616",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1616-Facsimile.jpg"
     ],
@@ -31863,6 +32682,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1618",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1618-Facsimile.jpg"
     ],
@@ -31888,6 +32708,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1619",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1619-Facsimile.jpg"
     ],
@@ -31913,6 +32734,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1620",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
@@ -31936,6 +32758,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1621",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1621-Facsimile.jpg"
     ],
@@ -31961,6 +32784,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1622",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1622-Facsimile.jpg"
     ],
@@ -31986,6 +32810,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1623",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1623-Facsimile.jpg"
     ],
@@ -32011,6 +32836,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1624",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1624-Facsimile.jpg"
     ],
@@ -32036,6 +32862,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1625",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1625-Facsimile.jpg"
     ],
@@ -32061,6 +32888,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1626",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1626-Facsimile.jpg"
     ],
@@ -32086,6 +32914,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1627",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1627-Facsimile.jpg"
     ],
@@ -32111,6 +32940,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1628",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1628-Facsimile.jpg"
     ],
@@ -32136,6 +32966,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1629",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1629-Facsimile.jpg"
     ],
@@ -32161,6 +32992,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1630",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1630-Facsimile.jpg"
     ],
@@ -32186,6 +33018,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1631",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1631-Facsimile.jpg"
     ],
@@ -32211,6 +33044,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1632",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1632-Facsimile.jpg"
     ],
@@ -32236,6 +33070,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1633",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1633-Facsimile.jpg"
     ],
@@ -32261,6 +33096,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1634",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1634-Facsimile.jpg"
     ],
@@ -32286,6 +33122,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1635",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1635-Facsimile.jpg"
     ],
@@ -32311,6 +33148,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1636",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1636-Facsimile.jpg"
     ],
@@ -32336,6 +33174,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1637",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1637-Facsimile.jpg"
     ],
@@ -32361,6 +33200,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1638",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1638-Facsimile.jpg"
     ],
@@ -32386,6 +33226,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1639",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1639-Facsimile.jpg"
     ],
@@ -32411,6 +33252,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1640",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1640-Facsimile.jpg"
     ],
@@ -32436,6 +33278,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1641",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1641-Facsimile.jpg"
     ],
@@ -32461,6 +33304,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1642",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1642-Facsimile.jpg"
     ],
@@ -32486,6 +33330,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1643",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1643-Facsimile.jpg"
     ],
@@ -32511,6 +33356,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1644",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1644-Facsimile.jpg"
     ],
@@ -32536,6 +33382,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1645",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1645-Facsimile.jpg"
     ],
@@ -32561,6 +33408,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1646",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1646-Facsimile.jpg"
     ],
@@ -32586,6 +33434,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1647",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1647-Facsimile.jpg"
     ],
@@ -32611,6 +33460,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1648",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1648-Facsimile.jpg"
     ],
@@ -32636,6 +33486,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1649",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1649-Facsimile.jpg"
     ],
@@ -32661,6 +33512,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1650",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1650-Facsimile.jpg"
     ],
@@ -32686,6 +33538,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1651",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1651-Facsimile.jpg"
     ],
@@ -32711,6 +33564,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1652",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1652-Facsimile.jpg"
     ],
@@ -32736,6 +33590,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1653",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1653-Facsimile.jpg"
     ],
@@ -32761,6 +33616,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1654",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1654-Facsimile.jpg"
     ],
@@ -32786,6 +33642,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1655",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1655-Facsimile.jpg"
     ],
@@ -32811,6 +33668,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1656",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1656-Facsimile.jpg"
     ],
@@ -32836,6 +33694,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1657",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1657-Facsimile.jpg"
     ],
@@ -32861,6 +33720,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1658",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1658-Facsimile.jpg"
     ],
@@ -32886,6 +33746,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1659",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1659-Facsimile.jpg"
     ],
@@ -32911,6 +33772,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1660",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1660-Facsimile.jpg"
     ],
@@ -32936,6 +33798,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1661",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1661-Facsimile.jpg"
     ],
@@ -32961,6 +33824,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1662",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1662-Facsimile.jpg"
     ],
@@ -32986,6 +33850,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1664",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1664-Facsimile.jpg"
     ],
@@ -33011,6 +33876,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1665",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1665-Facsimile.jpg"
     ],
@@ -33036,6 +33902,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1666",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1666-Facsimile.jpg"
     ],
@@ -33061,6 +33928,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1667",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1667-Facsimile.jpg"
     ],
@@ -33086,6 +33954,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1668",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1668-Facsimile.jpg"
     ],
@@ -33111,6 +33980,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1669",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1669-Facsimile.jpg"
     ],
@@ -33136,6 +34006,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1670",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1670-Facsimile.jpg"
     ],
@@ -33161,6 +34032,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1671",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1671-Facsimile.jpg"
     ],
@@ -33186,6 +34058,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1672",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1672-Facsimile.jpg"
     ],
@@ -33211,6 +34084,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1673",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1673-Facsimile.jpg"
     ],
@@ -33236,6 +34110,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1674",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1674-Facsimile.jpg"
     ],
@@ -33261,6 +34136,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1675",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1675-Facsimile.jpg"
     ],
@@ -33286,6 +34162,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1676",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1676-Facsimile.jpg"
     ],
@@ -33311,6 +34188,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1677",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1677-Facsimile.jpg"
     ],
@@ -33336,6 +34214,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1678",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1678-Facsimile.jpg"
     ],
@@ -33361,6 +34240,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1679",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1679-Facsimile.jpg"
     ],
@@ -33386,6 +34266,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1680",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1680-Facsimile.jpg"
     ],
@@ -33411,6 +34292,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1681",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1681-Facsimile.jpg"
     ],
@@ -33436,6 +34318,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1682",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1682-Facsimile.jpg"
     ],
@@ -33461,6 +34344,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1683",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1683-Facsimile.jpg"
     ],
@@ -33486,6 +34370,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1684",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1684-Facsimile.jpg"
     ],
@@ -33511,6 +34396,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1685",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1685-Facsimile.jpg"
     ],
@@ -33536,6 +34422,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1686",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1686-Facsimile.jpg"
     ],
@@ -33561,6 +34448,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1687",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1687-Facsimile.jpg"
     ],
@@ -33586,6 +34474,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1688",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1688-Facsimile.jpg"
     ],
@@ -33611,6 +34500,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1689",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1689-Facsimile.jpg"
     ],
@@ -33636,6 +34526,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1690",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1690-Facsimile.jpg"
     ],
@@ -33661,6 +34552,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1691",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1691-Facsimile.jpg"
     ],
@@ -33686,6 +34578,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1692",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1692-Facsimile.jpg"
     ],
@@ -33711,6 +34604,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1693",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1693-Facsimile.jpg"
     ],
@@ -33736,6 +34630,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1694",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1694-Facsimile.jpg"
     ],
@@ -33761,6 +34656,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1695",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1695-Facsimile.jpg"
     ],
@@ -33786,6 +34682,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1696",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1696-Facsimile.jpg"
     ],
@@ -33811,6 +34708,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1697",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1697-Facsimile.jpg"
     ],
@@ -33836,6 +34734,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1698",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1698-Facsimile.jpg"
     ],
@@ -33861,6 +34760,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1699",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1699-Facsimile.jpg"
     ],
@@ -33886,6 +34786,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1700",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1700-Facsimile.jpg"
     ],
@@ -33911,6 +34812,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1701",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1701-Facsimile.jpg"
     ],
@@ -33936,6 +34838,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1702",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1702-Facsimile.jpg"
     ],
@@ -33961,6 +34864,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1703",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1703-Facsimile.jpg"
     ],
@@ -33986,6 +34890,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1704",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1704-Facsimile.jpg"
     ],
@@ -34011,6 +34916,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1705",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1705-Facsimile.jpg"
     ],
@@ -34036,6 +34942,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1706",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1706-Facsimile.jpg"
     ],
@@ -34061,6 +34968,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1707",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1707-Facsimile.jpg"
     ],
@@ -34086,6 +34994,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1708",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1708-Facsimile.jpg"
     ],
@@ -34111,6 +35020,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1709",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1709-Facsimile.jpg"
     ],
@@ -34136,6 +35046,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1710",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1710-Facsimile.jpg"
     ],
@@ -34161,6 +35072,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1711",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1711-Facsimile.jpg"
     ],
@@ -34186,6 +35098,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1712",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1712-Facsimile.jpg"
     ],
@@ -34211,6 +35124,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1713",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1713-Facsimile.jpg"
     ],
@@ -34236,6 +35150,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1714",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1714-Facsimile.jpg"
     ],
@@ -34261,6 +35176,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1715",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1715-Facsimile.jpg"
     ],
@@ -34286,6 +35202,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1716",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1716-Facsimile.jpg"
     ],
@@ -34311,6 +35228,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1717",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1717-Facsimile.jpg"
     ],
@@ -34336,6 +35254,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1718",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1718-Facsimile.jpg"
     ],
@@ -34361,6 +35280,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1719",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1719-Facsimile.jpg"
     ],
@@ -34386,6 +35306,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1720",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1720-Facsimile.jpg"
     ],
@@ -34411,6 +35332,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1721",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1721-Facsimile.jpg"
     ],
@@ -34436,6 +35358,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1722",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1722-Facsimile.jpg"
     ],
@@ -34461,6 +35384,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1723",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1723-Facsimile.jpg"
     ],
@@ -34486,6 +35410,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1724",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1724-Facsimile.jpg"
     ],
@@ -34511,6 +35436,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1725",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1725-Facsimile.jpg"
     ],
@@ -34536,6 +35462,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1726",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1726-Facsimile.jpg"
     ],
@@ -34561,6 +35488,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1727",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1727-Facsimile.jpg"
     ],
@@ -34586,6 +35514,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1728",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1728-Facsimile.jpg"
     ],
@@ -34611,6 +35540,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1729",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1729-Facsimile.jpg"
     ],
@@ -34636,6 +35566,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1730",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1730-Facsimile.jpg"
     ],
@@ -34661,6 +35592,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1731",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1731-Facsimile.jpg"
     ],
@@ -34686,6 +35618,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1732",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1732-Facsimile.jpg"
     ],
@@ -34711,6 +35644,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1733",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1733-Facsimile.jpg"
     ],
@@ -34736,6 +35670,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1734",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1734-Facsimile.jpg"
     ],
@@ -34761,6 +35696,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1735",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1735-Facsimile.jpg"
     ],
@@ -34786,6 +35722,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1736",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1736-Facsimile.jpg"
     ],
@@ -34811,6 +35748,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1737",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1737-Facsimile.jpg"
     ],
@@ -34836,6 +35774,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1738",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1738-Facsimile.jpg"
     ],
@@ -34861,6 +35800,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1739",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1739-Facsimile.jpg"
     ],
@@ -34886,6 +35826,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1740",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1740-Facsimile.jpg"
     ],
@@ -34911,6 +35852,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1741",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1741-Facsimile.jpg"
     ],
@@ -34936,6 +35878,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1742",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1742-Facsimile.jpg"
     ],
@@ -34961,6 +35904,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1743",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1743-Facsimile.jpg"
     ],
@@ -34986,6 +35930,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1744",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1744-Facsimile.jpg"
     ],
@@ -35011,6 +35956,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1745",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1745-Facsimile.jpg"
     ],
@@ -35036,6 +35982,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1746",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1746-Facsimile.jpg"
     ],
@@ -35061,6 +36008,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1747",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1747-Facsimile.jpg"
     ],
@@ -35086,6 +36034,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1748",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1748-Facsimile.jpg"
     ],
@@ -35111,6 +36060,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1749",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1749-Facsimile.jpg"
     ],
@@ -35136,6 +36086,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1750",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1750-Facsimile.jpg"
     ],
@@ -35161,6 +36112,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1751",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1751-Facsimile.jpg"
     ],
@@ -35186,6 +36138,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1752",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1752-Facsimile.jpg"
     ],
@@ -35211,6 +36164,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1753",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1753-Facsimile.jpg"
     ],
@@ -35236,6 +36190,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1754",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1754-Facsimile.jpg"
     ],
@@ -35261,6 +36216,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1755",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1755-Facsimile.jpg"
     ],
@@ -35286,6 +36242,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1756",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1756-Facsimile.jpg"
     ],
@@ -35311,6 +36268,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1757",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1757-Facsimile.jpg"
     ],
@@ -35336,6 +36294,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1758",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1758-Facsimile.jpg"
     ],
@@ -35361,6 +36320,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1759",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1759-Facsimile.jpg"
     ],
@@ -35386,6 +36346,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1760",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1760-Facsimile.jpg"
     ],
@@ -35411,6 +36372,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1761",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1761-Facsimile.jpg"
     ],
@@ -35436,6 +36398,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1762",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1762-Facsimile.jpg"
     ],
@@ -35461,6 +36424,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1763",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1763-Facsimile.jpg"
     ],
@@ -35486,6 +36450,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1764",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1764-Facsimile.jpg"
     ],
@@ -35511,6 +36476,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1765",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1765-Facsimile.jpg"
     ],
@@ -35536,6 +36502,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1766",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1766-Facsimile.jpg"
     ],
@@ -35561,6 +36528,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1767",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1767-Facsimile.jpg"
     ],
@@ -35586,6 +36554,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1768",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1768-Facsimile.jpg"
     ],
@@ -35611,6 +36580,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1769",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1769-Facsimile.jpg"
     ],
@@ -35636,6 +36606,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1770",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1770-Facsimile.jpg"
     ],
@@ -35661,6 +36632,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1771",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1771-Facsimile.jpg"
     ],
@@ -35686,6 +36658,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1772",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1772-Facsimile.jpg"
     ],
@@ -35711,6 +36684,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1773",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1773-Facsimile.jpg"
     ],
@@ -35736,6 +36710,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1774",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1774-Facsimile.jpg"
     ],
@@ -35761,6 +36736,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1775",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1775-Facsimile.jpg"
     ],
@@ -35786,6 +36762,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1776",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1776-Facsimile.jpg"
     ],
@@ -35811,6 +36788,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1777",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1777-Facsimile.jpg"
     ],
@@ -35836,6 +36814,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1778",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1778-Facsimile.jpg"
     ],
@@ -35861,6 +36840,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1779",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1779-Facsimile.jpg"
     ],
@@ -35886,6 +36866,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1780",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1780-Facsimile.jpg"
     ],
@@ -35911,6 +36892,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1781",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1781-Facsimile.jpg"
     ],
@@ -35936,6 +36918,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1782",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1782-Facsimile.jpg"
     ],
@@ -35961,6 +36944,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1783",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1783-Facsimile.jpg"
     ],
@@ -35986,6 +36970,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1784",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1784-Facsimile.jpg"
     ],
@@ -36011,6 +36996,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1785",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1785-Facsimile.jpg"
     ],
@@ -36036,6 +37022,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1786",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1786-Facsimile.jpg"
     ],
@@ -36061,6 +37048,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1787",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1787-Facsimile.jpg"
     ],
@@ -36086,6 +37074,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1788",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1788-Facsimile.jpg"
     ],
@@ -36111,6 +37100,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1789",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1789-Facsimile.jpg"
     ],
@@ -36136,6 +37126,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1790",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1790-Facsimile.jpg"
     ],
@@ -36161,6 +37152,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1791",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1791-Facsimile.jpg"
     ],
@@ -36186,6 +37178,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1792",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1792-Facsimile.jpg"
     ],
@@ -36211,6 +37204,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1793",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1793-Facsimile.jpg"
     ],
@@ -36236,6 +37230,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1794",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1794-Facsimile.jpg"
     ],
@@ -36261,6 +37256,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1795",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1795-Facsimile.jpg"
     ],
@@ -36286,6 +37282,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1796",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1796-Facsimile.jpg"
     ],
@@ -36311,6 +37308,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1797",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1797-Facsimile.jpg"
     ],
@@ -36336,6 +37334,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1798",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1798-Facsimile.jpg"
     ],
@@ -36361,6 +37360,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1799",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1799-Facsimile.jpg"
     ],
@@ -36386,6 +37386,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1800",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1800-Facsimile.jpg"
     ],
@@ -36411,6 +37412,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1801",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1801-Facsimile.jpg"
     ],
@@ -36436,6 +37438,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1802",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1802-Facsimile.jpg"
     ],
@@ -36461,6 +37464,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1803",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1803-Facsimile.jpg"
     ],
@@ -36486,6 +37490,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1804",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1804-Facsimile.jpg"
     ],
@@ -36511,6 +37516,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1805",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1805-Facsimile.jpg"
     ],
@@ -36536,6 +37542,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1806",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1806-Facsimile.jpg"
     ],
@@ -36561,6 +37568,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1807",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1807-Facsimile.jpg"
     ],
@@ -36586,6 +37594,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1808",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1808-Facsimile.jpg"
     ],
@@ -36611,6 +37620,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1809",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1809-Facsimile.jpg"
     ],
@@ -36636,6 +37646,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1810",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1810-Facsimile.jpg"
     ],
@@ -36661,6 +37672,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1811",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1811-Facsimile.jpg"
     ],
@@ -36686,6 +37698,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1812",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1812-Facsimile.jpg"
     ],
@@ -36711,6 +37724,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1813",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1813-Facsimile.jpg"
     ],
@@ -36736,6 +37750,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1814",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1814-Facsimile.jpg"
     ],
@@ -36761,6 +37776,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1815",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1815-Facsimile.jpg"
     ],
@@ -36786,6 +37802,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1816",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1816-Facsimile.jpg"
     ],
@@ -36811,6 +37828,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1817",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1817-Facsimile.jpg"
     ],
@@ -36836,6 +37854,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1818",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1818-Facsimile.jpg"
     ],
@@ -36861,6 +37880,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1819",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1819-Facsimile.jpg"
     ],
@@ -36886,6 +37906,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1820",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1820-Facsimile.jpg"
     ],
@@ -36911,6 +37932,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1821",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1821-Facsimile.jpg"
     ],
@@ -36936,6 +37958,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1822",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1822-Facsimile.jpg"
     ],
@@ -36961,6 +37984,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1823",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1823-Facsimile.jpg"
     ],
@@ -36986,6 +38010,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1824",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1824-Facsimile.jpg"
     ],
@@ -37011,6 +38036,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1825",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1825-Facsimile.jpg"
     ],
@@ -37036,6 +38062,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1826",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1826-Facsimile.jpg"
     ],
@@ -37061,6 +38088,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1827",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1827-Facsimile.jpg"
     ],
@@ -37086,6 +38114,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1828",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1828-Facsimile.jpg"
     ],
@@ -37111,6 +38140,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1829",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1829-Facsimile.jpg"
     ],
@@ -37136,6 +38166,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1830",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1830-Facsimile.jpg"
     ],
@@ -37161,6 +38192,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1831",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1831-Facsimile.jpg"
     ],
@@ -37186,6 +38218,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1832",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1832-Facsimile.jpg"
     ],
@@ -37211,6 +38244,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1833",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1833-Facsimile.jpg"
     ],
@@ -37236,6 +38270,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1834",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1834-Facsimile.jpg"
     ],
@@ -37261,6 +38296,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1835",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1835-Facsimile.jpg"
     ],
@@ -37286,6 +38322,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1836",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1836-Facsimile.jpg"
     ],
@@ -37311,6 +38348,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1837",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1837-Facsimile.jpg"
     ],
@@ -37336,6 +38374,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1838",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1838-Facsimile.jpg"
     ],
@@ -37361,6 +38400,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1839",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1839-Facsimile.jpg"
     ],
@@ -37386,6 +38426,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1840",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1840-Facsimile.jpg"
     ],
@@ -37411,6 +38452,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1841",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1841-Facsimile.jpg"
     ],
@@ -37436,6 +38478,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1842",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1842-Facsimile.jpg"
     ],
@@ -37461,6 +38504,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1843",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1843-Facsimile.jpg"
     ],
@@ -37486,6 +38530,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1844",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1844-Facsimile.jpg"
     ],
@@ -37511,6 +38556,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1845+1733",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1845+1733-Facsimile.jpg"
     ],
@@ -37536,6 +38582,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1846",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1846-Facsimile.jpg"
     ],
@@ -37561,6 +38608,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1847",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1847-Facsimile.jpg"
     ],
@@ -37586,6 +38634,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1848",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1848-Facsimile.jpg"
     ],
@@ -37611,6 +38660,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1849",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1849-Facsimile.jpg"
     ],
@@ -37636,6 +38686,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1850",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1850-Facsimile.jpg"
     ],
@@ -37661,6 +38712,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1851",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1851-Facsimile.jpg"
     ],
@@ -37686,6 +38738,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1852",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1852-Facsimile.jpg"
     ],
@@ -37711,6 +38764,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1853",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1853-Facsimile.jpg"
     ],
@@ -37736,6 +38790,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1854",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1854-Facsimile.jpg"
     ],
@@ -37761,6 +38816,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1855",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1855-Facsimile.jpg"
     ],
@@ -37786,6 +38842,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1856",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1856-Facsimile.jpg"
     ],
@@ -37811,6 +38868,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1857",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1857-Facsimile.jpg"
     ],
@@ -37836,6 +38894,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1858",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1858-Facsimile.jpg"
     ],
@@ -37861,6 +38920,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1859",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1859-Facsimile.jpg"
     ],
@@ -37886,6 +38946,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1860",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1860-Facsimile.jpg"
     ],
@@ -37911,6 +38972,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWa1861",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWa1861-Facsimile.jpg"
     ],
@@ -37936,6 +38998,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWb229",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -37960,6 +39023,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWb2001",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWb2001-Facsimile.jpg"
     ],
@@ -37985,6 +39049,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWb2002",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWb2002-Facsimile.jpg"
     ],
@@ -38010,6 +39075,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3001",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3001-Facsimile.jpg"
     ],
@@ -38038,6 +39104,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3002",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3002-Facsimile.jpg"
     ],
@@ -38063,6 +39130,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3003",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3003-Facsimile.jpg"
     ],
@@ -38088,6 +39156,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3004",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3004a-Facsimile.jpg",
         "images/HTWc3004b-Facsimile.jpg"
@@ -38118,6 +39187,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3005",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3005-Facsimile.jpg"
     ],
@@ -38146,6 +39216,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3006",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3006a-Facsimile.jpg",
         "images/HTWc3006b-Facsimile.jpg"
@@ -38176,6 +39247,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3007",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3007-Facsimile.jpg"
     ],
@@ -38201,6 +39273,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3008",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3008a-Facsimile.jpg",
         "images/HTWc3008b-Facsimile.jpg"
@@ -38231,6 +39304,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3009",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3009a-Facsimile.jpg",
         "images/HTWc3009b-Facsimile.jpg"
@@ -38261,6 +39335,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3010",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3010-Facsimile.jpg"
     ],
@@ -38286,6 +39361,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3011",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3011-Facsimile.jpg"
     ],
@@ -38311,6 +39387,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3012",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3012a-Facsimile.jpg",
         "images/HTWc3012b-Facsimile.jpg"
@@ -38341,6 +39418,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3013",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3013-Facsimile.jpg"
     ],
@@ -38366,6 +39444,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3014",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3014a-Facsimile.jpg",
         "images/HTWc3014b-Facsimile.jpg"
@@ -38399,6 +39478,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3015",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3015a-Facsimile.jpg",
         "images/HTWc3015b-Facsimile.jpg"
@@ -38429,6 +39509,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3016",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3016-Facsimile.jpg"
     ],
@@ -38457,6 +39538,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3017",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3017-Facsimile.jpg"
     ],
@@ -38494,6 +39576,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc<3018>",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc<3018>-Facsimile.jpg"
     ],
@@ -38522,6 +39605,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3019",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3019-Facsimile.jpg"
     ],
@@ -38550,6 +39634,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3021",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3021-Facsimile.jpg"
     ],
@@ -38575,6 +39660,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3022(?)",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3022(?)-Facsimile.jpg"
     ],
@@ -38600,6 +39686,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWc3023",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3023-Facsimile.jpg"
     ],
@@ -38619,6 +39706,7 @@ var inscriptions = new Map([
     "words": []
 }],
 ["HTWc3024",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWc3024-Facsimile.jpg"
     ],
@@ -38650,6 +39738,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWd1617",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWd1617-Facsimile.jpg"
     ],
@@ -38675,6 +39764,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWd1663",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWd1663-Facsimile.jpg"
     ],
@@ -38700,6 +39790,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTWeWc3020",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTWeWc3020a-Facsimile.jpg",
         "images/HTWeWc3020b-Facsimile.jpg"
@@ -38730,6 +39821,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZb158a",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTZb158a-Facsimile.jpg"
     ],
@@ -38758,6 +39850,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZb158b",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTZb158b-Facsimile.jpg"
     ],
@@ -38783,6 +39876,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZb159",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTZb159-Facsimile.jpg"
     ],
@@ -38808,6 +39902,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZb160",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTZb160-Facsimile.jpg"
     ],
@@ -38833,6 +39928,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZb161",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTZb161-Facsimile.jpg"
     ],
@@ -38858,6 +39954,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZb162",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -38879,6 +39976,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZb162bis",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -38900,6 +39998,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZd155",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTZd155-Facsimile.jpg"
     ],
@@ -38931,6 +40030,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZd157+156",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTZd157+156-Facsimile.jpg"
     ],
@@ -39013,6 +40113,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZf163",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39034,6 +40135,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZf164",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39055,6 +40157,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZf165",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39076,6 +40179,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZf166",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39097,6 +40201,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZf167",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39118,6 +40223,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZf168",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39145,6 +40251,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZf169",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39166,6 +40273,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZg163",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTZg163-Facsimile.jpg"
     ],
@@ -39191,6 +40299,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa<1>",{
+    "context": "",
     "facsimileImages": [
         "images/IOZa<1>-Facsimile.jpg"
     ],
@@ -39214,6 +40323,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa2",{
+    "context": "",
     "facsimileImages": [
         "images/IOZa2-Facsimile.jpg"
     ],
@@ -39287,6 +40397,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa3",{
+    "context": "",
     "facsimileImages": [
         "images/IOZa3-Facsimile.jpg"
     ],
@@ -39321,6 +40432,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa4",{
+    "context": "",
     "facsimileImages": [
         "images/IOZa4-Facsimile.jpg"
     ],
@@ -39346,6 +40458,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa5",{
+    "context": "",
     "facsimileImages": [
         "images/IOZa5-Facsimile.jpg"
     ],
@@ -39377,6 +40490,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa6",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/IOZa6-Facsimile.jpg"
     ],
@@ -39417,6 +40531,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa7",{
+    "context": "LMI",
     "facsimileImages": [
         "images/IOZa7-Facsimile.jpg"
     ],
@@ -39448,6 +40563,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa8",{
+    "context": "LMI",
     "facsimileImages": [
         "images/IOZa8-Facsimile.jpg"
     ],
@@ -39473,6 +40589,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa9",{
+    "context": "",
     "facsimileImages": [
         "images/IOZa9-Facsimile.jpg"
     ],
@@ -39507,6 +40624,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZb10",{
+    "context": "LMI",
     "facsimileImages": [
         "images/IOZb10-Facsimile.jpg"
     ],
@@ -39532,6 +40650,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa11",{
+    "context": "",
     "facsimileImages": [
         "images/IOZa11-Facsimile.jpg"
     ],
@@ -39576,6 +40695,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa12",{
+    "context": "LMI",
     "facsimileImages": [
         "images/IOZa12-Facsimile.jpg"
     ],
@@ -39617,6 +40737,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa13",{
+    "context": "",
     "facsimileImages": [
         "images/IOZa13-Facsimile.jpg"
     ],
@@ -39643,6 +40764,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa14",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39672,6 +40794,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa15",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39699,6 +40822,7 @@ var inscriptions = new Map([
     ]
 }],
 ["IOZa16",{
+    "context": "",
     "facsimileImages": [
         "images/IOZa16-Facsimile.jpg"
     ],
@@ -39742,6 +40866,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KAZf1",{
+    "context": "",
     "facsimileImages": [
         "images/KAZf1-Facsimile.jpg"
     ],
@@ -39770,6 +40895,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KAMZb1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39797,6 +40923,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KANZa1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -39838,6 +40965,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KE1",{
+    "context": "MMIII",
     "facsimileImages": [
         "images/KE1-Facsimile.jpg"
     ],
@@ -39875,6 +41003,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KEWc2",{
+    "context": "MMIII",
     "facsimileImages": [
         "images/KEWc2-Facsimile.jpg"
     ],
@@ -39906,6 +41035,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KEZb3",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KEZb3-Facsimile.jpg"
     ],
@@ -39931,6 +41061,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KEZb4",{
+    "context": "MMIII",
     "facsimileImages": [
         "images/KEZb4-Facsimile.jpg"
     ],
@@ -39959,6 +41090,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KEZb5",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KEZb5-Facsimile.jpg"
     ],
@@ -39984,6 +41116,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KEZb6",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "© John L Caskey",
@@ -40007,6 +41140,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KEZb7",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "© John L Caskey",
@@ -40030,6 +41164,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH1",{
+    "context": "",
     "facsimileImages": [
         "images/KH1-Facsimile.jpg"
     ],
@@ -40085,6 +41220,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH2",{
+    "context": "",
     "facsimileImages": [
         "images/KH2-Facsimile.jpg"
     ],
@@ -40143,6 +41279,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH3",{
+    "context": "",
     "facsimileImages": [
         "images/KH3-Facsimile.jpg"
     ],
@@ -40183,6 +41320,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH4",{
+    "context": "",
     "facsimileImages": [
         "images/KH4-Facsimile.jpg"
     ],
@@ -40238,6 +41376,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH5",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH5-Facsimile.jpg"
     ],
@@ -40335,6 +41474,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH6",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH6-Facsimile.jpg"
     ],
@@ -40516,6 +41656,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH7a",{
+    "context": "",
     "facsimileImages": [
         "images/KH7a-Facsimile.jpg"
     ],
@@ -40685,6 +41826,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH7b",{
+    "context": "",
     "facsimileImages": [
         "images/KH7b-Facsimile.jpg"
     ],
@@ -40767,6 +41909,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH8",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH8-Facsimile.jpg"
     ],
@@ -40885,6 +42028,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH9",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH9-Facsimile.jpg"
     ],
@@ -40997,6 +42141,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH10",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH10-Facsimile.jpg"
     ],
@@ -41070,6 +42215,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH11",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH11-Facsimile.jpg"
     ],
@@ -41221,6 +42367,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH12",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH12-Facsimile.jpg"
     ],
@@ -41327,6 +42474,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH13",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH13-Facsimile.jpg"
     ],
@@ -41406,6 +42554,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH14",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH14-Facsimile.jpg"
     ],
@@ -41506,6 +42655,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH15",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH15-Facsimile.jpg"
     ],
@@ -41552,6 +42702,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH16",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH16-Facsimile.jpg"
     ],
@@ -41613,6 +42764,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH17",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH17-Facsimile.jpg"
     ],
@@ -41680,6 +42832,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH18",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH18-Facsimile.jpg"
     ],
@@ -41765,6 +42918,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH19",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH19-Facsimile.jpg"
     ],
@@ -41808,6 +42962,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH20",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH20-Facsimile.jpg"
     ],
@@ -41881,6 +43036,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH21",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH21-Facsimile.jpg"
     ],
@@ -41936,6 +43092,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH22",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH22-Facsimile.jpg"
     ],
@@ -41997,6 +43154,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH23",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH23-Facsimile.jpg"
     ],
@@ -42034,6 +43192,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH24",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH24-Facsimile.jpg"
     ],
@@ -42074,6 +43233,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH25",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH25-Facsimile.jpg"
     ],
@@ -42117,6 +43277,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH26",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH26-Facsimile.jpg"
     ],
@@ -42181,6 +43342,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH27",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH27-Facsimile.jpg"
     ],
@@ -42221,6 +43383,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH28",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH28-Facsimile.jpg"
     ],
@@ -42264,6 +43427,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH29",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH29-Facsimile.jpg"
     ],
@@ -42334,6 +43498,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH30",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH30-Facsimile.jpg"
     ],
@@ -42374,6 +43539,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH31",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH31-Facsimile.jpg"
     ],
@@ -42435,6 +43601,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH32",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH32-Facsimile.jpg"
     ],
@@ -42472,6 +43639,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH33",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH33-Facsimile.jpg"
     ],
@@ -42521,6 +43689,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH34",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH34-Facsimile.jpg"
     ],
@@ -42567,6 +43736,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH35",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH35-Facsimile.jpg"
     ],
@@ -42616,6 +43786,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH36",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH36-Facsimile.jpg"
     ],
@@ -42662,6 +43833,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH37",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH37-Facsimile.jpg"
     ],
@@ -42708,6 +43880,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH38",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH38-Facsimile.jpg"
     ],
@@ -42760,6 +43933,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH39",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH39-Facsimile.jpg"
     ],
@@ -42797,6 +43971,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH40",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH40-Facsimile.jpg"
     ],
@@ -42834,6 +44009,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH41",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH41-Facsimile.jpg"
     ],
@@ -42871,6 +44047,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH42",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH42-Facsimile.jpg"
     ],
@@ -42908,6 +44085,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH43",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH43-Facsimile.jpg"
     ],
@@ -42948,6 +44126,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH44",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH44-Facsimile.jpg"
     ],
@@ -42991,6 +44170,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH45",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH45-Facsimile.jpg"
     ],
@@ -43028,6 +44208,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH46",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH46-Facsimile.jpg"
     ],
@@ -43077,6 +44258,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH47",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH47-Facsimile.jpg"
     ],
@@ -43132,6 +44314,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH49",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH49-Facsimile.jpg"
     ],
@@ -43175,6 +44358,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH50",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH50-Facsimile.jpg"
     ],
@@ -43242,6 +44426,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH51",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH51-Facsimile.jpg"
     ],
@@ -43288,6 +44473,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH52",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH52-Facsimile.jpg"
     ],
@@ -43331,6 +44517,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH53",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH53-Facsimile.jpg"
     ],
@@ -43371,6 +44558,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH54",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH54-Facsimile.jpg"
     ],
@@ -43420,6 +44608,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH55",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH55-Facsimile.jpg"
     ],
@@ -43478,6 +44667,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH56",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH56-Facsimile.jpg"
     ],
@@ -43515,6 +44705,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH57",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH57-Facsimile.jpg"
     ],
@@ -43570,6 +44761,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH58",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH58-Facsimile.jpg"
     ],
@@ -43658,6 +44850,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH59",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH59-Facsimile.jpg"
     ],
@@ -43713,6 +44906,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH60",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH60-Facsimile.jpg"
     ],
@@ -43780,6 +44974,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH61",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH61-Facsimile.jpg"
     ],
@@ -43859,6 +45054,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH62",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH62-Facsimile.jpg"
     ],
@@ -43890,6 +45086,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH63",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH63-Facsimile.jpg"
     ],
@@ -43939,6 +45136,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH64",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH64-Facsimile.jpg"
     ],
@@ -43982,6 +45180,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH65",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH65-Facsimile.jpg"
     ],
@@ -44019,6 +45218,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH66",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH66-Facsimile.jpg"
     ],
@@ -44050,6 +45250,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH67",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH67-Facsimile.jpg"
     ],
@@ -44093,6 +45294,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH68+71",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH68+71-Facsimile.jpg"
     ],
@@ -44139,6 +45341,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH69",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH69-Facsimile.jpg"
     ],
@@ -44176,6 +45379,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH70",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH70-Facsimile.jpg"
     ],
@@ -44213,6 +45417,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH72",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH72-Facsimile.jpg"
     ],
@@ -44250,6 +45455,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH73",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH73-Facsimile.jpg"
     ],
@@ -44329,6 +45535,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH74",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH74-Facsimile.jpg"
     ],
@@ -44372,6 +45579,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH75",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH75-Facsimile.jpg"
     ],
@@ -44427,6 +45635,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH76",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH76-Facsimile.jpg"
     ],
@@ -44476,6 +45685,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH77",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH77-Facsimile.jpg"
     ],
@@ -44510,6 +45720,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH78",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH78-Facsimile.jpg"
     ],
@@ -44547,6 +45758,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH79",{
+    "context": "",
     "facsimileImages": [
         "images/KH79-Facsimile.jpg"
     ],
@@ -44584,6 +45796,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH79+89",{
+    "context": "",
     "facsimileImages": [
         "images/KH79+89-Facsimile.jpg"
     ],
@@ -44633,6 +45846,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH80",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH80-Facsimile.jpg"
     ],
@@ -44670,6 +45884,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH81",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH81-Facsimile.jpg"
     ],
@@ -44728,6 +45943,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH82",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH82-Facsimile.jpg"
     ],
@@ -44789,6 +46005,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH83",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH83-Facsimile.jpg"
     ],
@@ -44841,6 +46058,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH84",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH84-Facsimile.jpg"
     ],
@@ -44902,6 +46120,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH85",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH85-Facsimile.jpg"
     ],
@@ -44978,6 +46197,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH86",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH86-Facsimile.jpg"
     ],
@@ -45042,6 +46262,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH87",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH87-Facsimile.jpg"
     ],
@@ -45100,6 +46321,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH88",{
+    "context": "",
     "facsimileImages": [
         "images/KH88-Facsimile.jpg"
     ],
@@ -45155,6 +46377,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH90",{
+    "context": "",
     "facsimileImages": [
         "images/KH90-Facsimile.jpg"
     ],
@@ -45207,6 +46430,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH91",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KH91-Facsimile.jpg"
     ],
@@ -45319,6 +46543,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH92",{
+    "context": "",
     "facsimileImages": [
         "images/KH92-Facsimile.jpg"
     ],
@@ -45377,6 +46602,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH93",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -45400,6 +46626,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH94",{
+    "context": "",
     "facsimileImages": [
         "images/KH94-Facsimile.jpg"
     ],
@@ -45449,6 +46676,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH95",{
+    "context": "",
     "facsimileImages": [
         "images/KH95-Facsimile.jpg"
     ],
@@ -45483,6 +46711,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH96",{
+    "context": "",
     "facsimileImages": [
         "images/KH96-Facsimile.jpg"
     ],
@@ -45520,6 +46749,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH97a",{
+    "context": "",
     "facsimileImages": [
         "images/KH97a-Facsimile.jpg"
     ],
@@ -45557,6 +46787,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH97b",{
+    "context": "",
     "facsimileImages": [
         "images/KH97b-Facsimile.jpg"
     ],
@@ -45594,6 +46825,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH99",{
+    "context": "",
     "facsimileImages": [
         "images/KH99-Facsimile.jpg"
     ],
@@ -45631,6 +46863,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH100",{
+    "context": "LMIIIA",
     "facsimileImages": [
         "images/KH100-Facsimile.jpg"
     ],
@@ -45680,6 +46913,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH101",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -45695,6 +46929,7 @@ var inscriptions = new Map([
     "words": []
 }],
 ["KHWa1001",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1001g-Facsimile.jpg"
     ],
@@ -45723,6 +46958,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1002",{
+    "context": "",
     "facsimileImages": [
         "images/KHWa1002g-Facsimile.jpg"
     ],
@@ -45751,6 +46987,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1003",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1003-Facsimile.jpg"
     ],
@@ -45776,6 +47013,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1004",{
+    "context": "",
     "facsimileImages": [
         "images/KHWa1004-Facsimile.jpg"
     ],
@@ -45801,6 +47039,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1005",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1005-Facsimile.jpg"
     ],
@@ -45826,6 +47065,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1006",{
+    "context": "",
     "facsimileImages": [
         "images/KHWa1006-Facsimile.jpg"
     ],
@@ -45851,6 +47091,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1007",{
+    "context": "",
     "facsimileImages": [
         "images/KHWa1007-Facsimile.jpg"
     ],
@@ -45876,6 +47117,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1008",{
+    "context": "",
     "facsimileImages": [
         "images/KHWa1008-Facsimile.jpg"
     ],
@@ -45901,6 +47143,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1009",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1009-Facsimile.jpg"
     ],
@@ -45926,6 +47169,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1010",{
+    "context": "",
     "facsimileImages": [
         "images/KHWa1010-Facsimile.jpg"
     ],
@@ -45951,6 +47195,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1011",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1011-Facsimile.jpg"
     ],
@@ -45976,6 +47221,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1012",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1012-Facsimile.jpg"
     ],
@@ -46001,6 +47247,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1013",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1013a-Facsimile.jpg",
         "images/KHWa1013g-Facsimile.jpg"
@@ -46028,6 +47275,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1014",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1014-Facsimile.jpg"
     ],
@@ -46053,6 +47301,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1015",{
+    "context": "",
     "facsimileImages": [
         "images/KHWa1015-Facsimile.jpg"
     ],
@@ -46078,6 +47327,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1016",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1016a-Facsimile.jpg",
         "images/KHWa1016g-Facsimile.jpg"
@@ -46105,6 +47355,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1017",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1017-Facsimile.jpg"
     ],
@@ -46130,6 +47381,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1018",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1018-Facsimile.jpg"
     ],
@@ -46155,6 +47407,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1019",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1019-Facsimile.jpg"
     ],
@@ -46180,6 +47433,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWa1020",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWa1020-Facsimile.jpg"
     ],
@@ -46208,6 +47462,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2001",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2001-Facsimile.jpg"
     ],
@@ -46233,6 +47488,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2002",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2002-Facsimile.jpg"
     ],
@@ -46258,6 +47514,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2003",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2003-Facsimile.jpg"
     ],
@@ -46283,6 +47540,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2004",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2004-Facsimile.jpg"
     ],
@@ -46308,6 +47566,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2005",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2005-Facsimile.jpg"
     ],
@@ -46333,6 +47592,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2006",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2006-Facsimile.jpg"
     ],
@@ -46358,6 +47618,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2007",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2007-Facsimile.jpg"
     ],
@@ -46383,6 +47644,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2008",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2008-Facsimile.jpg"
     ],
@@ -46408,6 +47670,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2009",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2009-Facsimile.jpg"
     ],
@@ -46433,6 +47696,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2010",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2010-Facsimile.jpg"
     ],
@@ -46458,6 +47722,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2011",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2011-Facsimile.jpg"
     ],
@@ -46483,6 +47748,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2012",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2012-Facsimile.jpg"
     ],
@@ -46508,6 +47774,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2013",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2013-Facsimile.jpg"
     ],
@@ -46533,6 +47800,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2014",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2014-Facsimile.jpg"
     ],
@@ -46558,6 +47826,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2015",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2015-Facsimile.jpg"
     ],
@@ -46583,6 +47852,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2016",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2016-Facsimile.jpg"
     ],
@@ -46608,6 +47878,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2017",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2017-Facsimile.jpg"
     ],
@@ -46633,6 +47904,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2018",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2018-Facsimile.jpg"
     ],
@@ -46658,6 +47930,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2019",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2019-Facsimile.jpg"
     ],
@@ -46683,6 +47956,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2020",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2020-Facsimile.jpg"
     ],
@@ -46708,6 +47982,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2021",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2021-Facsimile.jpg"
     ],
@@ -46733,6 +48008,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2022",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2022-Facsimile.jpg"
     ],
@@ -46758,6 +48034,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2023",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2023-Facsimile.jpg"
     ],
@@ -46783,6 +48060,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2024",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2024-Facsimile.jpg"
     ],
@@ -46808,6 +48086,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2025",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2025-Facsimile.jpg"
     ],
@@ -46833,6 +48112,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2026",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2026-Facsimile.jpg"
     ],
@@ -46858,6 +48138,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2027",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2027-Facsimile.jpg"
     ],
@@ -46883,6 +48164,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2028",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2028-Facsimile.jpg"
     ],
@@ -46908,6 +48190,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2029",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2029-Facsimile.jpg"
     ],
@@ -46933,6 +48216,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2030",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2030-Facsimile.jpg"
     ],
@@ -46958,6 +48242,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2031",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2031-Facsimile.jpg"
     ],
@@ -46983,6 +48268,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2032",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2032-Facsimile.jpg"
     ],
@@ -47008,6 +48294,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2033",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2033-Facsimile.jpg"
     ],
@@ -47033,6 +48320,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2034",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2034-Facsimile.jpg"
     ],
@@ -47058,6 +48346,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2035",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2035-Facsimile.jpg"
     ],
@@ -47083,6 +48372,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2036",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2036-Facsimile.jpg"
     ],
@@ -47108,6 +48398,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2037",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2037-Facsimile.jpg"
     ],
@@ -47133,6 +48424,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2038",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2038-Facsimile.jpg"
     ],
@@ -47158,6 +48450,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2039",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2039-Facsimile.jpg"
     ],
@@ -47183,6 +48476,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2040",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2040-Facsimile.jpg"
     ],
@@ -47208,6 +48502,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2041",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2041-Facsimile.jpg"
     ],
@@ -47233,6 +48528,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2042",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2042-Facsimile.jpg"
     ],
@@ -47258,6 +48554,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2043",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2043-Facsimile.jpg"
     ],
@@ -47283,6 +48580,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2044",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2044-Facsimile.jpg"
     ],
@@ -47308,6 +48606,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2045",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2045-Facsimile.jpg"
     ],
@@ -47333,6 +48632,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2046",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2046-Facsimile.jpg"
     ],
@@ -47358,6 +48658,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2047",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2047-Facsimile.jpg"
     ],
@@ -47383,6 +48684,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2048",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2048-Facsimile.jpg"
     ],
@@ -47408,6 +48710,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2049",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2049-Facsimile.jpg"
     ],
@@ -47433,6 +48736,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2050",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2050-Facsimile.jpg"
     ],
@@ -47458,6 +48762,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2051",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2051-Facsimile.jpg"
     ],
@@ -47483,6 +48788,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2052",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2052-Facsimile.jpg"
     ],
@@ -47508,6 +48814,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2053",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2053-Facsimile.jpg"
     ],
@@ -47533,6 +48840,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2054",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2054-Facsimile.jpg"
     ],
@@ -47558,6 +48866,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2055",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2055-Facsimile.jpg"
     ],
@@ -47583,6 +48892,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2056",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2056-Facsimile.jpg"
     ],
@@ -47608,6 +48918,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2057",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2057-Facsimile.jpg"
     ],
@@ -47633,6 +48944,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2058",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2058-Facsimile.jpg"
     ],
@@ -47658,6 +48970,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2092",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2092-Facsimile.jpg"
     ],
@@ -47683,6 +48996,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2091",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2091-Facsimile.jpg"
     ],
@@ -47708,6 +49022,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2059",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2059-Facsimile.jpg"
     ],
@@ -47733,6 +49048,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2060",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2060-Facsimile.jpg"
     ],
@@ -47758,6 +49074,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2061",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2061-Facsimile.jpg"
     ],
@@ -47783,6 +49100,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2062",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2062-Facsimile.jpg"
     ],
@@ -47808,6 +49126,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2063",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2063-Facsimile.jpg"
     ],
@@ -47833,6 +49152,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2064",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2064-Facsimile.jpg"
     ],
@@ -47858,6 +49178,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2065",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2065-Facsimile.jpg"
     ],
@@ -47883,6 +49204,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2066",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2066-Facsimile.jpg"
     ],
@@ -47908,6 +49230,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2067",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2067-Facsimile.jpg"
     ],
@@ -47933,6 +49256,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2068",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2068-Facsimile.jpg"
     ],
@@ -47958,6 +49282,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2069",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2069-Facsimile.jpg"
     ],
@@ -47983,6 +49308,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2070",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2070a-Facsimile.jpg",
         "images/KHWc2070b-Facsimile.jpg"
@@ -48010,6 +49336,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2074",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -48031,6 +49358,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2079",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -48052,6 +49380,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2084",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2084-Facsimile.jpg"
     ],
@@ -48077,6 +49406,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2088",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -48098,6 +49428,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2089",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -48119,6 +49450,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2095",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -48140,6 +49472,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2097",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2097-Facsimile.jpg"
     ],
@@ -48165,6 +49498,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2096",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2096-Facsimile.jpg"
     ],
@@ -48190,6 +49524,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2098",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2098-Facsimile.jpg"
     ],
@@ -48215,6 +49550,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2099",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2099-Facsimile.jpg"
     ],
@@ -48240,6 +49576,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2100",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2100-Facsimile.jpg"
     ],
@@ -48265,6 +49602,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2101",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2101-Facsimile.jpg"
     ],
@@ -48290,6 +49628,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2102",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2102-Facsimile.jpg"
     ],
@@ -48315,6 +49654,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2103",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2103-Facsimile.jpg"
     ],
@@ -48340,6 +49680,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2104",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2104-Facsimile.jpg"
     ],
@@ -48365,6 +49706,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2105",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2105-Facsimile.jpg"
     ],
@@ -48390,6 +49732,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2106",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2106-Facsimile.jpg"
     ],
@@ -48415,6 +49758,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2109",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2109-Facsimile.jpg"
     ],
@@ -48440,6 +49784,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2110",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2110-Facsimile.jpg"
     ],
@@ -48465,6 +49810,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2111",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2111-Facsimile.jpg"
     ],
@@ -48490,6 +49836,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2113",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2113-Facsimile.jpg"
     ],
@@ -48515,6 +49862,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2114",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2114-Facsimile.jpg"
     ],
@@ -48540,6 +49888,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2115",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2115-Facsimile.jpg"
     ],
@@ -48565,6 +49914,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2117",{
+    "context": "LMIIIA",
     "facsimileImages": [
         "images/KHWc2117-Facsimile.jpg",
         "images/KHWc2117a-Facsimile.jpg"
@@ -48598,6 +49948,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2118",{
+    "context": "",
     "facsimileImages": [
         "images/KHWc2118-Facsimile.jpg"
     ],
@@ -48623,6 +49974,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2121",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -48644,6 +49996,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2122",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/KHWc2122-Facsimile.jpg"
     ],
@@ -48669,6 +50022,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2123",{
+    "context": "Geometric",
     "facsimileImages": [
         "images/KHWc2123-Facsimile.jpg"
     ],
@@ -48694,6 +50048,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHWc2124",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -48715,6 +50070,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KHZb98",{
+    "context": "MMIII",
     "facsimileImages": [
         "images/KHZb98-Facsimile.jpg"
     ],
@@ -48740,6 +50096,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN1a",{
+    "context": "",
     "facsimileImages": [
         "images/KN1a-Facsimile.jpg"
     ],
@@ -48771,6 +50128,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN1b",{
+    "context": "",
     "facsimileImages": [
         "images/KN1b-Facsimile.jpg"
     ],
@@ -48802,6 +50160,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN2",{
+    "context": "",
     "facsimileImages": [
         "images/KN2-Facsimile.jpg"
     ],
@@ -48854,6 +50213,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN22a",{
+    "context": "",
     "facsimileImages": [
         "images/KN22a-Facsimile.jpg"
     ],
@@ -48888,6 +50248,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN22b",{
+    "context": "",
     "facsimileImages": [
         "images/KN22b-Facsimile.jpg"
     ],
@@ -48916,6 +50277,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN22c",{
+    "context": "",
     "facsimileImages": [
         "images/KN22c-Facsimile.jpg"
     ],
@@ -48959,6 +50321,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN28a",{
+    "context": "",
     "facsimileImages": [
         "images/KN28a-Facsimile.jpg"
     ],
@@ -49023,6 +50386,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN28b",{
+    "context": "",
     "facsimileImages": [
         "images/KN28b-Facsimile.jpg"
     ],
@@ -49084,6 +50448,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN32a",{
+    "context": "",
     "facsimileImages": [
         "images/KN32a-Facsimile.jpg"
     ],
@@ -49127,6 +50492,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN32b",{
+    "context": "",
     "facsimileImages": [
         "images/KN32b-Facsimile.jpg"
     ],
@@ -49182,6 +50548,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KN54",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -49224,6 +50591,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWa40",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -49248,6 +50616,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWa50",{
+    "context": "",
     "facsimileImages": [
         "images/KNWa50-Facsimile.jpg"
     ],
@@ -49273,6 +50642,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWb33",{
+    "context": "",
     "facsimileImages": [
         "images/KNWb33a-Facsimile.jpg",
         "images/KNWb33b-Facsimile.jpg"
@@ -49306,6 +50676,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWb50",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -49329,6 +50700,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWb51",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -49350,6 +50722,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc3",{
+    "context": "MMIIIB",
     "facsimileImages": [
         "images/KNWc3-Facsimile.jpg"
     ],
@@ -49375,6 +50748,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc23",{
+    "context": "",
     "facsimileImages": [
         "images/KNWc23-Facsimile.jpg"
     ],
@@ -49398,6 +50772,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc26",{
+    "context": "",
     "facsimileImages": [
         "images/KNWc26a-Facsimile.jpg",
         "images/KNWc26b-Facsimile.jpg"
@@ -49428,6 +50803,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc29",{
+    "context": "MMIIIB",
     "facsimileImages": [
         "images/KNWc29-Facsimile.jpg"
     ],
@@ -49453,6 +50829,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc30",{
+    "context": "MMIIIB",
     "facsimileImages": [
         "images/KNWc30-Facsimile.jpg"
     ],
@@ -49478,6 +50855,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc42",{
+    "context": "",
     "facsimileImages": [
         "images/KNWc42-Facsimile.jpg"
     ],
@@ -49504,6 +50882,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc43",{
+    "context": "",
     "facsimileImages": [
         "images/KNWc43-Facsimile.jpg"
     ],
@@ -49530,6 +50909,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNWc48",{
+    "context": "",
     "facsimileImages": [
         "images/KNWc48-Facsimile.jpg"
     ],
@@ -49553,6 +50933,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZa10",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/KNZa10-Facsimile.jpg"
     ],
@@ -49608,6 +50989,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZa17",{
+    "context": "",
     "facsimileImages": [
         "images/KNZa17-Facsimile.jpg"
     ],
@@ -49636,6 +51018,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZa18",{
+    "context": "",
     "facsimileImages": [
         "images/KNZa18-Facsimile.jpg"
     ],
@@ -49685,6 +51068,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZa19",{
+    "context": "",
     "facsimileImages": [
         "images/KNZa19-Facsimile.jpg"
     ],
@@ -49725,6 +51109,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb4",{
+    "context": "",
     "facsimileImages": [
         "images/KNZb4-Facsimile.jpg"
     ],
@@ -49762,6 +51147,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb5",{
+    "context": "MMIIIB",
     "facsimileImages": [
         "images/KNZb5-Facsimile.jpg"
     ],
@@ -49790,6 +51176,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb20",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/KNZb20-Facsimile.jpg"
     ],
@@ -49815,6 +51202,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb<27>",{
+    "context": "MMIIIB",
     "facsimileImages": [
         "images/KNZb<27>-Facsimile.jpg"
     ],
@@ -49849,6 +51237,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb34",{
+    "context": "",
     "facsimileImages": [
         "images/KNZb34-Facsimile.jpg"
     ],
@@ -49874,6 +51263,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb35",{
+    "context": "",
     "facsimileImages": [
         "images/KNZb35-Facsimile.jpg"
     ],
@@ -49914,6 +51304,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb<36>",{
+    "context": "",
     "facsimileImages": [
         "images/KNZb<36>-Facsimile.jpg"
     ],
@@ -49937,6 +51328,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb<37>",{
+    "context": "",
     "facsimileImages": [
         "images/KNZb<37>-Facsimile.jpg"
     ],
@@ -49960,6 +51352,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb<38>",{
+    "context": "",
     "facsimileImages": [
         "images/KNZb<38>-Facsimile.jpg"
     ],
@@ -49983,6 +51376,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb<39>",{
+    "context": "",
     "facsimileImages": [
         "images/KNZb<39>-Facsimile.jpg"
     ],
@@ -50006,6 +51400,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb40",{
+    "context": "",
     "facsimileImages": [
         "images/KNZb40-Facsimile.jpg"
     ],
@@ -50037,6 +51432,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb52",{
+    "context": "LMIA",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -50058,6 +51454,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb54",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -50079,6 +51476,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZb56",{
+    "context": "",
     "facsimileImages": [
         "images/KNZb56-Facsimile.jpg"
     ],
@@ -50102,6 +51500,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZc6",{
+    "context": "",
     "facsimileImages": [
         "images/KNZc6-Facsimile.jpg"
     ],
@@ -50148,6 +51547,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZc7",{
+    "context": "",
     "facsimileImages": [
         "images/KNZc7-Facsimile.jpg"
     ],
@@ -50205,6 +51605,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZd46",{
+    "context": "",
     "facsimileImages": [
         "images/KNZd46-Facsimile.jpg"
     ],
@@ -50230,6 +51631,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZe16",{
+    "context": "",
     "facsimileImages": [
         "images/KNZe16-Facsimile.jpg"
     ],
@@ -50255,6 +51657,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZe44",{
+    "context": "",
     "facsimileImages": [
         "images/KNZe44-Facsimile.jpg"
     ],
@@ -50280,6 +51683,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZe45",{
+    "context": "",
     "facsimileImages": [
         "images/KNZe45-Facsimile.jpg"
     ],
@@ -50303,6 +51707,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZe49",{
+    "context": "",
     "facsimileImages": [
         "images/KNZe49-Facsimile.jpg"
     ],
@@ -50326,6 +51731,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZe56",{
+    "context": "",
     "facsimileImages": [
         "images/KNZe56-Facsimile.jpg"
     ],
@@ -50351,6 +51757,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZf13",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/KNZf13-Facsimile.jpg"
     ],
@@ -50376,6 +51783,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZf31",{
+    "context": "",
     "facsimileImages": [
         "images/KNZf31a-Facsimile.jpg"
     ],
@@ -50452,6 +51860,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZg<21>",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/KNZg<21>-Facsimile.jpg"
     ],
@@ -50477,6 +51886,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KNZg55",{
+    "context": "LMI",
     "facsimileImages": [
         "images/KNZg55-Facsimile.jpg"
     ],
@@ -50500,6 +51910,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KOZa1",{
+    "context": "",
     "facsimileImages": [
         "images/KOZa1-Facsimile.jpg"
     ],
@@ -50567,6 +51978,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KO(?)Zf2",{
+    "context": "",
     "facsimileImages": [
         "images/KO(?)Zf2-Facsimile.jpg"
     ],
@@ -50592,6 +52004,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KYZa2",{
+    "context": "",
     "facsimileImages": [
         "images/KYZa2-Facsimile.jpg"
     ],
@@ -50617,6 +52030,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KYZg1",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/KYZg1-Facsimile.jpg"
     ],
@@ -50642,6 +52056,7 @@ var inscriptions = new Map([
     ]
 }],
 ["LAZb1(bis)",{
+    "context": "",
     "facsimileImages": [
         "images/LAZb1(bis)-Facsimile.jpg"
     ],
@@ -50667,6 +52082,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA1a",{
+    "context": "",
     "facsimileImages": [
         "images/MA1a-Facsimile.jpg"
     ],
@@ -50704,6 +52120,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA1b",{
+    "context": "",
     "facsimileImages": [
         "images/MA1b-Facsimile.jpg"
     ],
@@ -50741,6 +52158,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA1c",{
+    "context": "",
     "facsimileImages": [
         "images/MA1c-Facsimile.jpg"
     ],
@@ -50766,6 +52184,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA2a",{
+    "context": "",
     "facsimileImages": [
         "images/MA2a-Facsimile.jpg"
     ],
@@ -50794,6 +52213,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA2b",{
+    "context": "",
     "facsimileImages": [
         "images/MA2b-Facsimile.jpg"
     ],
@@ -50846,6 +52266,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA2c",{
+    "context": "",
     "facsimileImages": [
         "images/MA2c-Facsimile.jpg"
     ],
@@ -50883,6 +52304,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA4a",{
+    "context": "",
     "facsimileImages": [
         "images/MA4a-Facsimile.jpg"
     ],
@@ -50938,6 +52360,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA4b",{
+    "context": "",
     "facsimileImages": [
         "images/MA4b-Facsimile.jpg"
     ],
@@ -50975,6 +52398,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA6a",{
+    "context": "",
     "facsimileImages": [
         "images/MA6a-Facsimile.jpg"
     ],
@@ -51012,6 +52436,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA6b",{
+    "context": "",
     "facsimileImages": [
         "images/MA6b-Facsimile.jpg"
     ],
@@ -51040,6 +52465,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA6c",{
+    "context": "",
     "facsimileImages": [
         "images/MA6c-Facsimile.jpg"
     ],
@@ -51086,6 +52512,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA6d",{
+    "context": "",
     "facsimileImages": [
         "images/MA6d-Facsimile.jpg"
     ],
@@ -51114,6 +52541,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA9",{
+    "context": "MMIII",
     "facsimileImages": [
         "images/MA9a-Facsimile.jpg"
     ],
@@ -51139,6 +52567,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA10a",{
+    "context": "",
     "facsimileImages": [
         "images/MA10a-Facsimile.jpg"
     ],
@@ -51191,6 +52620,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA10b",{
+    "context": "",
     "facsimileImages": [
         "images/MA10b-Facsimile.jpg"
     ],
@@ -51258,6 +52688,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA10c",{
+    "context": "",
     "facsimileImages": [
         "images/MA10c-Facsimile.jpg"
     ],
@@ -51301,6 +52732,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MA10d",{
+    "context": "",
     "facsimileImages": [
         "images/MA10d-Facsimile.jpg"
     ],
@@ -51332,6 +52764,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MAWc<5>",{
+    "context": "",
     "facsimileImages": [
         "images/MAWc<5>-Facsimile.jpg"
     ],
@@ -51366,6 +52799,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MAWc7",{
+    "context": "MMIIIB",
     "facsimileImages": [
         "images/MAWc7-Facsimile.jpg"
     ],
@@ -51391,6 +52825,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MAZb??",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51412,6 +52847,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MAZb8",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/MAZb8-Facsimile.jpg"
     ],
@@ -51437,6 +52873,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MAZe11",{
+    "context": "",
     "facsimileImages": [
         "images/MAZe11-Facsimile.jpg"
     ],
@@ -51462,6 +52899,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MARGWa1-26",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51483,6 +52921,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MI2",{
+    "context": "LBI",
     "facsimileImages": [
         "images/MI2-Facsimile.jpg"
     ],
@@ -51547,6 +52986,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MIZb1",{
+    "context": "",
     "facsimileImages": [
         "images/MIZb1-Facsimile.jpg"
     ],
@@ -51572,6 +53012,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MIZb3",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51587,6 +53028,7 @@ var inscriptions = new Map([
     "words": []
 }],
 ["MILZb1",{
+    "context": "",
     "facsimileImages": [
         "images/MILZb1-Facsimile.jpg"
     ],
@@ -51612,6 +53054,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MOZb2?",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51627,6 +53070,7 @@ var inscriptions = new Map([
     "words": []
 }],
 ["MOZb3?",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51642,6 +53086,7 @@ var inscriptions = new Map([
     "words": []
 }],
 ["MOZf1",{
+    "context": "",
     "facsimileImages": [
         "images/MOZf1-Facsimile.jpg"
     ],
@@ -51668,6 +53113,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MYZa2",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51689,6 +53135,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MYZf1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51710,6 +53157,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MYZf2",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51733,6 +53181,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MYZg1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51754,6 +53203,7 @@ var inscriptions = new Map([
     ]
 }],
 ["NEZa1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51775,6 +53225,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PA1",{
+    "context": "",
     "facsimileImages": [
         "images/PA1-Facsimile.jpg"
     ],
@@ -51803,6 +53254,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PE1",{
+    "context": "",
     "facsimileImages": [
         "images/PE1-Facsimile.jpg"
     ],
@@ -51870,6 +53322,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PE2",{
+    "context": "",
     "facsimileImages": [
         "images/PE2-Facsimile.jpg"
     ],
@@ -51967,6 +53420,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PEWs",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -51991,6 +53445,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PEWy5",{
+    "context": "",
     "facsimileImages": [
         "images/PEWy5-Facsimile.jpg"
     ],
@@ -52022,6 +53477,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZb",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -52043,6 +53499,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZb3",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/PEZb3-Facsimile.jpg"
     ],
@@ -52068,6 +53525,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZb7",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -52100,6 +53558,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZb8",{
+    "context": "LMIB",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -52121,6 +53580,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZc4",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/PEZc4-Facsimile.jpg"
     ],
@@ -52152,6 +53612,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZg5",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/PEZg5-Facsimile.jpg"
     ],
@@ -52186,6 +53647,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PEZg6",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -52231,6 +53693,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PETSWc",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -52246,6 +53709,7 @@ var inscriptions = new Map([
     "words": []
 }],
 ["PH1a",{
+    "context": "",
     "facsimileImages": [
         "images/PH1a-Facsimile.jpg"
     ],
@@ -52310,6 +53774,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH1b",{
+    "context": "",
     "facsimileImages": [
         "images/PH1b-Facsimile.jpg"
     ],
@@ -52359,6 +53824,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH2",{
+    "context": "",
     "facsimileImages": [
         "images/PH2-Facsimile.jpg"
     ],
@@ -52420,6 +53886,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH3a",{
+    "context": "",
     "facsimileImages": [
         "images/PH3a-Facsimile.jpg"
     ],
@@ -52508,6 +53975,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH3b",{
+    "context": "",
     "facsimileImages": [
         "images/PH3b-Facsimile.jpg"
     ],
@@ -52569,6 +54037,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH6",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PH6-Facsimile.jpg"
     ],
@@ -52621,6 +54090,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH7a",{
+    "context": "",
     "facsimileImages": [
         "images/PH7a-Facsimile.jpg"
     ],
@@ -52670,6 +54140,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH7b",{
+    "context": "",
     "facsimileImages": [
         "images/PH7b-Facsimile.jpg"
     ],
@@ -52731,6 +54202,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH8a",{
+    "context": "",
     "facsimileImages": [
         "images/PH8a-Facsimile.jpg"
     ],
@@ -52822,6 +54294,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH8b",{
+    "context": "",
     "facsimileImages": [
         "images/PH8b-Facsimile.jpg"
     ],
@@ -52868,6 +54341,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH9a",{
+    "context": "",
     "facsimileImages": [
         "images/PH9a-Facsimile.jpg"
     ],
@@ -52896,6 +54370,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH9b",{
+    "context": "",
     "facsimileImages": [
         "images/PH9b-Facsimile.jpg"
     ],
@@ -52927,6 +54402,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH10",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PH10-Facsimile.jpg"
     ],
@@ -52958,6 +54434,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH11",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PH11-Facsimile.jpg"
     ],
@@ -52995,6 +54472,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH12a",{
+    "context": "",
     "facsimileImages": [
         "images/PH12a-Facsimile.jpg"
     ],
@@ -53026,6 +54504,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH12b",{
+    "context": "",
     "facsimileImages": [
         "images/PH12b-Facsimile.jpg"
     ],
@@ -53057,6 +54536,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH12c",{
+    "context": "",
     "facsimileImages": [
         "images/PH12c-Facsimile.jpg"
     ],
@@ -53082,6 +54562,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH13a",{
+    "context": "",
     "facsimileImages": [
         "images/PH13a-Facsimile.jpg"
     ],
@@ -53110,6 +54591,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH13b",{
+    "context": "",
     "facsimileImages": [
         "images/PH13b-Facsimile.jpg"
     ],
@@ -53135,6 +54617,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH13c",{
+    "context": "",
     "facsimileImages": [
         "images/PH13c-Facsimile.jpg"
     ],
@@ -53163,6 +54646,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH14a",{
+    "context": "",
     "facsimileImages": [
         "images/PH14a-Facsimile.jpg"
     ],
@@ -53191,6 +54675,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH14b",{
+    "context": "",
     "facsimileImages": [
         "images/PH14b-Facsimile.jpg"
     ],
@@ -53216,6 +54701,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH15a",{
+    "context": "",
     "facsimileImages": [
         "images/PH15a-Facsimile.jpg"
     ],
@@ -53247,6 +54733,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH15b",{
+    "context": "",
     "facsimileImages": [
         "images/PH15b-Facsimile.jpg"
     ],
@@ -53275,6 +54762,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH16a",{
+    "context": "",
     "facsimileImages": [
         "images/PH16a-Facsimile.jpg"
     ],
@@ -53312,6 +54800,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH16b",{
+    "context": "",
     "facsimileImages": [
         "images/PH16b-Facsimile.jpg"
     ],
@@ -53349,6 +54838,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH17a",{
+    "context": "",
     "facsimileImages": [
         "images/PH17a-Facsimile.jpg"
     ],
@@ -53374,6 +54864,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH17b",{
+    "context": "",
     "facsimileImages": [
         "images/PH17b-Facsimile.jpg"
     ],
@@ -53399,6 +54890,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH18a",{
+    "context": "",
     "facsimileImages": [
         "images/PH18a-Facsimile.jpg"
     ],
@@ -53430,6 +54922,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH18b",{
+    "context": "",
     "facsimileImages": [
         "images/PH18b-Facsimile.jpg"
     ],
@@ -53461,6 +54954,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH19",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PH19b-Facsimile.jpg"
     ],
@@ -53492,6 +54986,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH22a",{
+    "context": "",
     "facsimileImages": [
         "images/PH22a-Facsimile.jpg"
     ],
@@ -53517,6 +55012,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH22b",{
+    "context": "",
     "facsimileImages": [
         "images/PH22b-Facsimile.jpg"
     ],
@@ -53542,6 +55038,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH24",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PH24-Facsimile.jpg"
     ],
@@ -53567,6 +55064,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH25",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PH25-Facsimile.jpg"
     ],
@@ -53607,6 +55105,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH26",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PH26-Facsimile.jpg"
     ],
@@ -53635,6 +55134,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH27",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PH27-Facsimile.jpg"
     ],
@@ -53678,6 +55178,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH28a",{
+    "context": "",
     "facsimileImages": [
         "images/PH28a-Facsimile.jpg"
     ],
@@ -53727,6 +55228,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH28b",{
+    "context": "",
     "facsimileImages": [
         "images/PH28b-Facsimile.jpg"
     ],
@@ -53785,6 +55287,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH29a",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -53820,6 +55323,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH29b",{
+    "context": "",
     "facsimileImages": [
         "images/PH29b-Facsimile.jpg"
     ],
@@ -53851,6 +55355,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH30",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PH30-Facsimile.jpg"
     ],
@@ -53891,6 +55396,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH(?)31a",{
+    "context": "",
     "facsimileImages": [
         "images/PH(?)31a-Facsimile.jpg"
     ],
@@ -54015,6 +55521,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH(?)31b",{
+    "context": "",
     "facsimileImages": [
         "images/PH(?)31b-Facsimile.jpg"
     ],
@@ -54136,6 +55643,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWa32",{
+    "context": "MMIII",
     "facsimileImages": [
         "images/PHWa32-Facsimile.jpg"
     ],
@@ -54161,6 +55669,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWb33",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWb33-Facsimile.jpg"
     ],
@@ -54186,6 +55695,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWb34",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWb34-Facsimile.jpg"
     ],
@@ -54211,6 +55721,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWb35",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWb35-Facsimile.jpg"
     ],
@@ -54236,6 +55747,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWb36",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWb36-Facsimile.jpg"
     ],
@@ -54261,6 +55773,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWb55",{
+    "context": "MMII",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -54282,6 +55795,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWc37",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWc37-Facsimile.jpg"
     ],
@@ -54310,6 +55824,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWc38",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWc38-Facsimile.jpg"
     ],
@@ -54335,6 +55850,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWc39",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWc39-Facsimile.jpg"
     ],
@@ -54363,6 +55879,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWc40",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWc40a-Facsimile.jpg",
         "images/PHWc40b-Facsimile.jpg"
@@ -54393,6 +55910,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWc41",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWc41-Facsimile.jpg"
     ],
@@ -54424,6 +55942,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWc43",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWc43-Facsimile.jpg"
     ],
@@ -54449,6 +55968,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWc44",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWc44-Facsimile.jpg"
     ],
@@ -54474,6 +55994,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWc46",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWc46-Facsimile.jpg"
     ],
@@ -54505,6 +56026,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWc52",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWc52-Facsimile.jpg"
     ],
@@ -54530,6 +56052,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWg45",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWg45-Facsimile.jpg"
     ],
@@ -54555,6 +56078,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWy42",{
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWy42-Facsimile.jpg"
     ],
@@ -54580,6 +56104,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHZb4",{
+    "context": "",
     "facsimileImages": [
         "images/PHZb4-Facsimile.jpg"
     ],
@@ -54611,6 +56136,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHZb5",{
+    "context": "",
     "facsimileImages": [
         "images/PHZb5-Facsimile.jpg"
     ],
@@ -54636,6 +56162,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHZb<47>",{
+    "context": "MMIII",
     "facsimileImages": [
         "images/PHZb<47>-Facsimile.jpg"
     ],
@@ -54661,6 +56188,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHZb48",{
+    "context": "MMIII",
     "facsimileImages": [
         "images/PHZb48-Facsimile.jpg"
     ],
@@ -54689,6 +56217,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PK1",{
+    "context": "LMI",
     "facsimileImages": [
         "images/PK1a-Facsimile.jpg",
         "images/PK1b-Facsimile.jpg"
@@ -54869,6 +56398,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PK3",{
+    "context": "",
     "facsimileImages": [
         "images/PK3-Facsimile.jpg"
     ],
@@ -54945,6 +56475,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa4",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa4-Facsimile.jpg"
     ],
@@ -54970,6 +56501,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa8",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa8-Facsimile.jpg"
     ],
@@ -55028,6 +56560,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa9",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa9-Facsimile.jpg"
     ],
@@ -55065,6 +56598,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa10",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa10-Facsimile.jpg"
     ],
@@ -55102,6 +56636,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa11",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa11-Facsimile.jpg"
     ],
@@ -55199,6 +56734,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa12",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa12-Facsimile.jpg"
     ],
@@ -55266,6 +56802,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa14",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa14-Facsimile.jpg"
     ],
@@ -55303,6 +56840,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa15",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa15-Facsimile.jpg"
     ],
@@ -55328,6 +56866,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa16",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa16-Facsimile.jpg"
     ],
@@ -55365,6 +56904,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa17",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa17-Facsimile.jpg"
     ],
@@ -55396,6 +56936,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa18",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa18-Facsimile.jpg"
     ],
@@ -55433,6 +56974,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa20",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa20-Facsimile.jpg"
     ],
@@ -55456,6 +56998,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZb?",{
+    "context": "",
     "facsimileImages": [
         "images/PKZb?-Facsimile.jpg"
     ],
@@ -55490,6 +57033,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZb19",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -55513,6 +57057,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZb21",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -55536,6 +57081,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZb23",{
+    "context": "",
     "facsimileImages": [
         "images/PKZb23-Facsimile.jpg"
     ],
@@ -55559,6 +57105,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZb24",{
+    "context": "",
     "facsimileImages": [
         "images/PKZb24-Facsimile.jpg"
     ],
@@ -55582,6 +57129,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZb25",{
+    "context": "",
     "facsimileImages": [
         "images/PKZb25-Facsimile.jpg"
     ],
@@ -55605,6 +57153,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZc13",{
+    "context": "",
     "facsimileImages": [
         "images/PKZc13-Facsimile.jpg"
     ],
@@ -55630,6 +57179,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZg22",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -55651,6 +57201,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PLZf1",{
+    "context": "",
     "facsimileImages": [
         "images/PLZf1-Facsimile.jpg"
     ],
@@ -55721,6 +57272,7 @@ var inscriptions = new Map([
     ]
 }],
 ["POZc1",{
+    "context": "LMIIIA",
     "facsimileImages": [
         "images/POZc1-Facsimile.jpg"
     ],
@@ -55749,6 +57301,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PRZa1",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/PRZa1-Facsimile.jpg"
     ],
@@ -55786,6 +57339,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PSZa2",{
+    "context": "",
     "facsimileImages": [
         "images/PSZa2-Facsimile.jpg"
     ],
@@ -55833,6 +57387,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PSIZa1",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/PSIZa1-Facsimile.jpg"
     ],
@@ -55858,6 +57413,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PSIZa2",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/PSIZa2-Facsimile.jpg"
     ],
@@ -55884,6 +57440,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PSIZb1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -55905,6 +57462,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PYR1",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/PYR1-Facsimile.jpg"
     ],
@@ -55936,6 +57494,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PYR2",{
+    "context": "",
     "facsimileImages": [
         "images/PYR2-Facsimile.jpg"
     ],
@@ -55964,6 +57523,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PYRWc4",{
+    "context": "",
     "facsimileImages": [
         "images/PYRWc4-Facsimile.jpg"
     ],
@@ -55995,6 +57555,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PYRZb5",{
+    "context": "LMI",
     "facsimileImages": [
         "images/PYRZb5-Facsimile.jpg"
     ],
@@ -56020,6 +57581,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SAMWa1",{
+    "context": "MMII",
     "facsimileImages": [
         "images/SAMWa1-Facsimile.jpg"
     ],
@@ -56057,6 +57619,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SAMWe4",{
+    "context": "",
     "facsimileImages": [
         "images/SAMWe4-Facsimile.jpg"
     ],
@@ -56082,6 +57645,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SEZf1",{
+    "context": "",
     "facsimileImages": [
         "images/SEZf1-Facsimile.jpg"
     ],
@@ -56107,6 +57671,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SIZg1",{
+    "context": "",
     "facsimileImages": [
         "images/SIZg1-Facsimile.jpg"
     ],
@@ -56138,6 +57703,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SKZb1",{
+    "context": "",
     "facsimileImages": [
         "images/SKZb1-Facsimile.jpg"
     ],
@@ -56163,6 +57729,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SKOZc1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56193,6 +57760,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa1",{
+    "context": "MMIIIB",
     "facsimileImages": [
         "images/SYZa1-Facsimile.jpg"
     ],
@@ -56230,6 +57798,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa2",{
+    "context": "LMI",
     "facsimileImages": [
         "images/SYZa2-Facsimile.jpg"
     ],
@@ -56274,6 +57843,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa3",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/SYZa3-Facsimile.jpg"
     ],
@@ -56305,6 +57875,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa4",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/SYZa4-Facsimile.jpg"
     ],
@@ -56342,6 +57913,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa5",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56371,6 +57943,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa6",{
+    "context": "MMIIIA",
     "facsimileImages": [
         "images/SYZa6-Facsimile.jpg"
     ],
@@ -56394,6 +57967,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZβ7",{
+    "context": "",
     "facsimileImages": [
         "images/SYZβ7-Facsimile.jpg"
     ],
@@ -56417,6 +57991,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa8",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/SYZa8-Facsimile.jpg"
     ],
@@ -56448,6 +58023,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa9",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/SYZa9-Facsimile.jpg"
     ],
@@ -56473,6 +58049,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa10",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/SYZa10-Facsimile.jpg"
     ],
@@ -56498,6 +58075,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa11",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/SYZa11-Facsimile.jpg"
     ],
@@ -56526,6 +58104,7 @@ var inscriptions = new Map([
     ]
 }],
 ["SYZa12",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/SYZa12-Facsimile.jpg"
     ],
@@ -56554,6 +58133,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TELZb1",{
+    "context": "",
     "facsimileImages": [
         "images/TELZb1-Facsimile.jpg"
     ],
@@ -56589,6 +58169,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEfr.1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56610,6 +58191,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEfr.2",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56631,6 +58213,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEfr.3",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56652,6 +58235,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEtab.4",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56687,6 +58271,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEtab.5",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56713,6 +58298,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEtab.6",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56745,6 +58331,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb1",{
+    "context": "",
     "facsimileImages": [
         "images/THEZb1-Facsimile.jpg"
     ],
@@ -56770,6 +58357,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb2",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/THEZb2-Facsimile.jpg"
     ],
@@ -56795,6 +58383,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb3",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/THEZb3-Facsimile.jpg"
     ],
@@ -56820,6 +58409,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb4",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/THEZb4-Facsimile.jpg"
     ],
@@ -56845,6 +58435,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb5",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56898,6 +58489,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb6",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56919,6 +58511,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb7",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -56942,6 +58535,7 @@ var inscriptions = new Map([
     ]
 }],
 ["THEZb13",{
+    "context": "",
     "facsimileImages": [
         "images/THEZb13-Facsimile.jpg"
     ],
@@ -56976,6 +58570,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TIZb1",{
+    "context": "",
     "facsimileImages": [
         "images/TIZb1-Facsimile.jpg"
     ],
@@ -56999,6 +58594,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TLZa1",{
+    "context": "",
     "facsimileImages": [
         "images/TLZa1-Facsimile.jpg"
     ],
@@ -57054,6 +58650,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TRAZb1",{
+    "context": "",
     "facsimileImages": [
         "images/TRAZb1-Facsimile.jpg"
     ],
@@ -57079,6 +58676,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TROZg1",{
+    "context": "",
     "facsimileImages": [
         "images/TROZg1-Facsimile.jpg"
     ],
@@ -57102,6 +58700,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TROZg2",{
+    "context": "",
     "facsimileImages": [
         "images/TROZg2-Facsimile.jpg"
     ],
@@ -57125,6 +58724,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TRYZb1",{
+    "context": "",
     "facsimileImages": [
         "images/TRYZb1-Facsimile.jpg"
     ],
@@ -57154,6 +58754,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TY2",{
+    "context": "",
     "facsimileImages": [
         "images/TY2-Facsimile.jpg"
     ],
@@ -57293,6 +58894,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TY3a",{
+    "context": "",
     "facsimileImages": [
         "images/TY3a-Facsimile.jpg"
     ],
@@ -57519,6 +59121,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TY3b",{
+    "context": "",
     "facsimileImages": [
         "images/TY3b-Facsimile.jpg"
     ],
@@ -57604,6 +59207,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TYWc5",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -57627,6 +59231,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TYZb4",{
+    "context": "",
     "facsimileImages": [
         "images/TYZb4-Facsimile.jpg"
     ],
@@ -57652,6 +59257,7 @@ var inscriptions = new Map([
     ]
 }],
 ["TYZg1",{
+    "context": "LMI",
     "facsimileImages": [
         "images/TYZg1-Facsimile.jpg"
     ],
@@ -57677,6 +59283,7 @@ var inscriptions = new Map([
     ]
 }],
 ["VRYZa1",{
+    "context": "",
     "facsimileImages": [
         "images/VRYZa1-Facsimile.jpg"
     ],
@@ -57711,6 +59318,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA1a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA1a-Facsimile.jpg"
     ],
@@ -57772,6 +59380,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA1b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA1b-Facsimile.jpg"
     ],
@@ -57815,6 +59424,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA4a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA4a-Facsimile.jpg"
     ],
@@ -57951,6 +59561,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA4b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA4b-Facsimile.jpg"
     ],
@@ -57985,6 +59596,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA5a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA5a-Facsimile.jpg"
     ],
@@ -58064,6 +59676,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA5b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA5b-Facsimile.jpg"
     ],
@@ -58113,6 +59726,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA6a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA6a-Facsimile.jpg"
     ],
@@ -58240,6 +59854,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA6b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA6b-Facsimile.jpg"
     ],
@@ -58328,6 +59943,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA7a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA7a-Facsimile.jpg"
     ],
@@ -58377,6 +59993,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA7b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA7b-Facsimile.jpg"
     ],
@@ -58414,6 +60031,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA8",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ZA8-Facsimile.jpg"
     ],
@@ -58524,6 +60142,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA9",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ZA9-Facsimile.jpg"
     ],
@@ -58633,6 +60252,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA10a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA10a-Facsimile.jpg"
     ],
@@ -58724,6 +60344,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA10b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA10b-Facsimile.jpg"
     ],
@@ -58863,6 +60484,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA11a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA11a-Facsimile.jpg"
     ],
@@ -58990,6 +60612,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA11b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA11b-Facsimile.jpg"
     ],
@@ -59081,6 +60704,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA12a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA12a-Facsimile.jpg"
     ],
@@ -59139,6 +60763,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA12b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA12b-Facsimile.jpg"
     ],
@@ -59200,6 +60825,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA13",{
+    "context": "",
     "facsimileImages": [
         "images/ZA13-Facsimile.jpg"
     ],
@@ -59237,6 +60863,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA14",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ZA14-Facsimile.jpg"
     ],
@@ -59337,6 +60964,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA15a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA15a-Facsimile.jpg"
     ],
@@ -59446,6 +61074,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA15b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA15b-Facsimile.jpg"
     ],
@@ -59510,6 +61139,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA16",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ZA16-Facsimile.jpg"
     ],
@@ -59571,6 +61201,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA17",{
+    "context": "",
     "facsimileImages": [
         "images/ZA17-Facsimile.jpg"
     ],
@@ -59608,6 +61239,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA18a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA18a-Facsimile.jpg"
     ],
@@ -59690,6 +61322,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA18b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA18b-Facsimile.jpg"
     ],
@@ -59730,6 +61363,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA19",{
+    "context": "",
     "facsimileImages": [
         "images/ZA19-Facsimile.jpg"
     ],
@@ -59767,6 +61401,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA20",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ZA20-Facsimile.jpg"
     ],
@@ -59861,6 +61496,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA21a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA21a-Facsimile.jpg"
     ],
@@ -59964,6 +61600,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA21b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA21b-Facsimile.jpg"
     ],
@@ -60025,6 +61662,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA22",{
+    "context": "",
     "facsimileImages": [
         "images/ZA22-Facsimile.jpg"
     ],
@@ -60110,6 +61748,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA23",{
+    "context": "",
     "facsimileImages": [
         "images/ZA23-Facsimile.jpg"
     ],
@@ -60153,6 +61792,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA24a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA24a-Facsimile.jpg"
     ],
@@ -60193,6 +61833,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA24b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA24b-Facsimile.jpg"
     ],
@@ -60224,6 +61865,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA25",{
+    "context": "",
     "facsimileImages": [
         "images/ZA25-Facsimile.jpg"
     ],
@@ -60255,6 +61897,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA26a",{
+    "context": "",
     "facsimileImages": [
         "images/ZA26a-Facsimile.jpg"
     ],
@@ -60313,6 +61956,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA26b",{
+    "context": "",
     "facsimileImages": [
         "images/ZA26b-Facsimile.jpg"
     ],
@@ -60347,6 +61991,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA27",{
+    "context": "",
     "facsimileImages": [
         "images/ZA27-Facsimile.jpg"
     ],
@@ -60393,6 +62038,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA28",{
+    "context": "",
     "facsimileImages": [
         "images/ZA28-Facsimile.jpg"
     ],
@@ -60433,6 +62079,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA29",{
+    "context": "",
     "facsimileImages": [
         "images/ZA29-Facsimile.jpg"
     ],
@@ -60479,6 +62126,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA30",{
+    "context": "",
     "facsimileImages": [
         "images/ZA30-Facsimile.jpg"
     ],
@@ -60522,6 +62170,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA31",{
+    "context": "",
     "facsimileImages": [
         "images/ZA31-Facsimile.jpg"
     ],
@@ -60562,6 +62211,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA32",{
+    "context": "",
     "facsimileImages": [
         "images/ZA32-Facsimile.jpg"
     ],
@@ -60599,6 +62249,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZA33",{
+    "context": "",
     "facsimileImages": [
         "images/ZA33-Facsimile.jpg"
     ],
@@ -60636,6 +62287,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAWa36",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -60659,6 +62311,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAWa38",{
+    "context": "",
     "facsimileImages": [
         "images/ZAWa38-Facsimile.jpg"
     ],
@@ -60684,6 +62337,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAWb37",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -60707,6 +62361,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAWc2",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ZAWc2-Facsimile.jpg"
     ],
@@ -60738,6 +62393,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAZb3",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ZAZb3-Facsimile.jpg"
     ],
@@ -60796,6 +62452,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAZb34",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ZAZb34-Facsimile.jpg"
     ],
@@ -60833,6 +62490,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAZg34",{
+    "context": "",
     "facsimileImages": [
         "images/ZAZg34-Facsimile.jpg"
     ],
@@ -60859,6 +62517,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZAZg35",{
+    "context": "LMIA",
     "facsimileImages": [
         "images/ZAZg35-Facsimile.jpg"
     ],
@@ -60890,6 +62549,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ZOZA1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -60905,6 +62565,7 @@ var inscriptions = new Map([
     "words": []
 }],
 ["ANZb1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -60926,6 +62587,7 @@ var inscriptions = new Map([
     ]
 }],
 ["APZa<3>",{
+    "context": "",
     "facsimileImages": [
         "images/APZa<3>-Facsimile.jpg"
     ],
@@ -60951,6 +62613,7 @@ var inscriptions = new Map([
     ]
 }],
 ["APZa1",{
+    "context": "",
     "facsimileImages": [
         "images/APZa1-Facsimile.jpg"
     ],
@@ -60979,6 +62642,7 @@ var inscriptions = new Map([
     ]
 }],
 ["APZa2",{
+    "context": "",
     "facsimileImages": [
         "images/APZa2-Facsimile.jpg"
     ],
@@ -61037,6 +62701,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARZf1",{
+    "context": "",
     "facsimileImages": [
         "images/ARZf1-Facsimile.jpg"
     ],
@@ -61063,6 +62728,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARZf2",{
+    "context": "",
     "facsimileImages": [
         "images/ARZf2-Facsimile.jpg"
     ],
@@ -61089,6 +62755,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARGZg1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -61116,6 +62783,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH1a",{
+    "context": "",
     "facsimileImages": [
         "images/ARKH1a-Facsimile.jpg"
     ],
@@ -61207,6 +62875,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH1af",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -61240,6 +62909,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH1b",{
+    "context": "",
     "facsimileImages": [
         "images/ARKH1b-Facsimile.jpg"
     ],
@@ -61301,6 +62971,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH2",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ARKH2-Facsimile.jpg"
     ],
@@ -61377,6 +63048,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH3a",{
+    "context": "",
     "facsimileImages": [
         "images/ARKH3a-Facsimile.jpg"
     ],
@@ -61501,6 +63173,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH3b",{
+    "context": "",
     "facsimileImages": [
         "images/ARKH3b-Facsimile.jpg"
     ],
@@ -61583,6 +63256,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH4a",{
+    "context": "",
     "facsimileImages": [
         "images/ARKH4a-Facsimile.jpg"
     ],
@@ -61671,6 +63345,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH4b",{
+    "context": "",
     "facsimileImages": [
         "images/ARKH4b-Facsimile.jpg"
     ],
@@ -61759,6 +63434,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH5",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ARKH5-Facsimile.jpg"
     ],
@@ -61826,6 +63502,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH6",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ARKH6-Facsimile.jpg"
     ],
@@ -61869,6 +63546,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKH7",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/ARKH7-Facsimile.jpg"
     ],
@@ -61915,6 +63593,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKHZb10",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -61942,6 +63621,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKHZc8",{
+    "context": "MMIA",
     "facsimileImages": [
         "images/ARKHZc8-Facsimile.jpg"
     ],
@@ -61967,6 +63647,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARKHZf9",{
+    "context": "LMI",
     "facsimileImages": [
         "images/ARKHZf9-Facsimile.jpg"
     ],
@@ -62001,6 +63682,7 @@ var inscriptions = new Map([
     ]
 }],
 ["ARMZg1",{
+    "context": "MMII",
     "facsimileImages": [
         "images/ARMZg1-Facsimile.jpg"
     ],
@@ -62026,6 +63708,7 @@ var inscriptions = new Map([
     ]
 }],
 ["CR(?)Zf1",{
+    "context": "",
     "facsimileImages": [
         "images/CR(?)Zf1-Facsimile.jpg"
     ],
@@ -62075,6 +63758,7 @@ var inscriptions = new Map([
     ]
 }],
 ["CRZf5",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -62096,6 +63780,7 @@ var inscriptions = new Map([
     ]
 }],
 ["CRZg3",{
+    "context": "",
     "facsimileImages": [
         "images/CRZg3-Facsimile.jpg"
     ],
@@ -62133,6 +63818,7 @@ var inscriptions = new Map([
     ]
 }],
 ["CRZg4",{
+    "context": "",
     "facsimileImages": [
         "images/CRZg4-Facsimile.jpg"
     ],
@@ -62164,6 +63850,7 @@ var inscriptions = new Map([
     ]
 }],
 ["FOZc1",{
+    "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
@@ -62187,6 +63874,7 @@ var inscriptions = new Map([
     ]
 }],
 ["GO2r",{
+    "context": "",
     "facsimileImages": [
         "images/GO2r-Facsimile.jpg"
     ],
@@ -62263,6 +63951,7 @@ var inscriptions = new Map([
     ]
 }],
 ["GO2v",{
+    "context": "",
     "facsimileImages": [
         "images/GO2v-Facsimile.jpg"
     ],
@@ -62330,6 +64019,7 @@ var inscriptions = new Map([
     ]
 }],
 ["GOWc1a",{
+    "context": "",
     "facsimileImages": [
         "images/GOWc1a-Facsimile.jpg"
     ],
@@ -62355,6 +64045,7 @@ var inscriptions = new Map([
     ]
 }],
 ["GOWc1b",{
+    "context": "",
     "facsimileImages": [
         "images/GOWc1b-Facsimile.jpg"
     ],
@@ -62383,6 +64074,7 @@ var inscriptions = new Map([
     ]
 }],
 ["GOWc3",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/GOWc3-Facsimile.jpg"
     ],
@@ -62411,6 +64103,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MILZb2",{
+    "context": "",
     "facsimileImages": [
         "images/MILZb2-Facsimile.jpg"
     ],
@@ -62436,6 +64129,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MILZb3",{
+    "context": "",
     "facsimileImages": [
         "images/MILZb3-Facsimile.jpg"
     ],
@@ -62461,6 +64155,7 @@ var inscriptions = new Map([
     ]
 }],
 ["MILZb4",{
+    "context": "",
     "facsimileImages": [
         "images/MILZb4-Facsimile.jpg"
     ],
@@ -62486,6 +64181,7 @@ var inscriptions = new Map([
     ]
 }],
 ["KH102",{
+    "context": "LMIIIA",
     "facsimileImages": [
         "images/KH102-Facsimile.jpg"
     ],
@@ -62511,6 +64207,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PKZa27",{
+    "context": "",
     "facsimileImages": [
         "images/PKZa27-Facsimile.jpg"
     ],
@@ -62542,6 +64239,7 @@ var inscriptions = new Map([
     ]
 }],
 ["HTZf(HM767)",{
+    "context": "LMIB",
     "facsimileImages": [
         "images/HTZf(HM767)-Facsimile.jpg"
     ],
@@ -62567,6 +64265,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PH54",{
+    "context": "",
     "facsimileImages": [
         "images/PH54-Facsimile.jpg"
     ],
