@@ -1831,7 +1831,13 @@ function loadExplorer() {
         collectedWordTags.push(...word.tags);
       }
     }
+
+    // Dedupe the list
     wordtags = collectedWordTags.filter((v, i, a) => a.indexOf(v) === i);
+
+    // Filter out the site names
+    var sites = Array.from(inscriptions.values()).map(x => x.site).filter((v, i, a) => a.indexOf(v) === i);
+    wordtags = wordtags.filter((v, i, a) => !sites.includes(v));
   }
 }
 
