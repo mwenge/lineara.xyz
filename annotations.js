@@ -160,6 +160,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -185,6 +186,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -209,6 +211,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly"
                 ],
@@ -242,6 +245,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -267,6 +271,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -320,8 +325,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "head word elsewhere"
@@ -340,7 +345,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DI-NA",
@@ -452,7 +457,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
                     "Phaistos",
                     "Zakros",
@@ -561,7 +566,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "GO",
+                    "Gournia",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DA",
@@ -821,7 +826,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -843,12 +848,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -1045,12 +1050,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -1283,7 +1288,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -1472,6 +1477,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -1529,7 +1535,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -1815,7 +1821,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -1874,7 +1880,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -1896,13 +1902,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -2474,7 +2480,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -2555,7 +2561,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -2977,7 +2983,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -3053,11 +3059,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -3083,11 +3089,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -3122,11 +3128,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -3168,11 +3174,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -3239,6 +3245,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
@@ -3263,9 +3270,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -3305,8 +3312,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -3395,13 +3403,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐜚"
             },
             {
@@ -3421,12 +3430,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -3448,6 +3457,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word",
                     "assigned number"
@@ -3473,7 +3483,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -3508,13 +3518,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -3537,7 +3547,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -3563,7 +3573,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "RE-ZA",
@@ -3774,7 +3784,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -3796,7 +3806,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -3823,6 +3833,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -3847,6 +3858,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -3872,9 +3884,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
@@ -3937,7 +3949,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -3964,6 +3976,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -3988,6 +4001,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -4013,9 +4027,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
@@ -4080,7 +4094,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -4256,7 +4270,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -4316,7 +4330,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -4362,7 +4376,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -4384,13 +4398,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -4469,6 +4483,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
@@ -4492,6 +4507,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -4519,9 +4535,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -4557,7 +4573,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -4585,12 +4601,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -4635,7 +4651,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -4657,13 +4673,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -4836,7 +4852,7 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 4 find sites",
@@ -4886,7 +4902,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -4960,7 +4976,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -4982,7 +4998,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -5008,6 +5024,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -5031,6 +5048,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
@@ -5063,9 +5081,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -5221,7 +5239,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -5245,8 +5263,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -5270,6 +5289,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -5295,6 +5315,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -5320,8 +5341,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -5345,8 +5367,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -5371,13 +5394,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -5400,6 +5423,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
@@ -5422,6 +5446,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
@@ -5572,7 +5597,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -5599,10 +5624,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -5627,8 +5652,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -5646,8 +5672,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TE",
+                    "Khania",
+                    "Tel Haror",
                     "Appears at 3 find sites",
                     "head word elsewhere"
                 ],
@@ -5663,8 +5689,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -5678,6 +5705,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
@@ -6212,7 +6240,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -6319,7 +6347,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -6347,7 +6375,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -6550,7 +6578,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -6744,7 +6772,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -6809,10 +6837,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites",
                     "assigned number"
                 ],
@@ -6859,7 +6887,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites",
                     "assigned number",
@@ -6954,7 +6982,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -7009,7 +7037,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -7043,12 +7071,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -7080,13 +7108,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -7126,6 +7154,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word"
                 ],
@@ -7172,13 +7201,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -7198,7 +7227,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -7248,10 +7277,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -7276,13 +7305,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -7301,12 +7330,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -7359,6 +7388,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word"
                 ],
@@ -7404,10 +7434,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -7433,13 +7463,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -7460,7 +7490,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -7511,10 +7541,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription"
                 ],
@@ -7575,6 +7605,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
@@ -7598,6 +7629,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -7621,6 +7653,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -7647,6 +7680,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -7670,6 +7704,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -7705,6 +7740,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -7730,12 +7766,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -7759,13 +7795,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -7821,7 +7857,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -7849,9 +7885,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -7875,6 +7911,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -7908,6 +7945,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -7983,7 +8021,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -8009,6 +8047,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -8034,12 +8073,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -8064,13 +8103,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -8105,12 +8144,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -8144,13 +8183,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -8183,6 +8222,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -8208,13 +8248,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -8438,12 +8478,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "assigned number",
                     "head word",
@@ -8480,7 +8520,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -8519,12 +8559,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -8559,13 +8599,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -8597,8 +8637,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -8623,8 +8664,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -8675,8 +8717,8 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
-                    "GO",
+                    "Khania",
+                    "Gournia",
                     "Appears at 3 find sites",
                     "word repeated in Inscription",
                     "assigned number",
@@ -8721,7 +8763,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -8747,12 +8789,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -8779,13 +8821,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -8812,8 +8854,8 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
-                    "GO",
+                    "Khania",
+                    "Gournia",
                     "Appears at 3 find sites",
                     "word repeated in Inscription",
                     "head word elsewhere"
@@ -8853,8 +8895,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -9186,8 +9229,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -9211,6 +9255,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -9237,8 +9282,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -9269,6 +9315,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
@@ -9291,8 +9338,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -9369,6 +9417,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -9388,10 +9437,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites",
                     "assigned number"
                 ],
@@ -9456,7 +9505,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "always assigned number"
                 ],
@@ -9471,6 +9520,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
@@ -9503,6 +9553,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly"
                 ],
@@ -9563,6 +9614,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
@@ -9713,6 +9765,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly"
                 ],
@@ -9775,7 +9828,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -9832,8 +9885,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -9857,6 +9911,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
@@ -9881,8 +9936,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -10002,8 +10058,8 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Knossos",
-                    "MI",
-                    "TH",
+                    "Milos",
+                    "Thera",
                     "Appears at 4 find sites",
                     "assigned number",
                     "always assigned number",
@@ -10080,7 +10136,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -10103,8 +10159,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -10127,8 +10184,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -10152,8 +10210,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -10178,8 +10237,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "OLE+TA",
@@ -10217,8 +10277,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -10244,13 +10305,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -10373,8 +10434,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "head word"
                 ],
@@ -10422,8 +10484,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "MY",
+                    "Khania",
+                    "Mycenae",
                     "Zakros",
                     "Appears at 4 find sites"
                 ],
@@ -10564,12 +10626,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -10604,7 +10666,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites",
                     "assigned number",
@@ -10714,8 +10776,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Appears at 3 find sites",
                     "assigned number"
                 ],
@@ -10853,7 +10915,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -11019,7 +11081,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -11041,7 +11103,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -11087,7 +11149,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -11135,7 +11197,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -11237,9 +11299,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
@@ -11266,10 +11328,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites"
                 ],
                 "transliteratedWord": "RE",
@@ -11287,9 +11349,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
@@ -11402,10 +11464,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -11424,7 +11486,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "MY",
+                    "Mycenae",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "SI+SE",
@@ -11446,7 +11508,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -11466,6 +11528,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -11492,6 +11555,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -11526,6 +11590,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -11552,6 +11617,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -11592,7 +11658,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -11608,10 +11674,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -11642,6 +11708,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -11690,6 +11757,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -11718,6 +11786,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -11769,10 +11838,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -11789,8 +11858,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -11834,7 +11904,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -11852,6 +11922,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word",
                     "assigned number",
@@ -11875,6 +11946,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites"
@@ -11898,6 +11970,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word",
                     "assigned number"
@@ -11949,12 +12022,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -11979,13 +12052,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -12016,14 +12089,14 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites"
                 ],
                 "transliteratedWord": "JA",
@@ -12070,12 +12143,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -12092,13 +12165,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -12192,7 +12265,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -12341,6 +12414,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -12369,7 +12443,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -12450,6 +12524,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -12478,7 +12553,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -12498,12 +12573,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -12547,7 +12622,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -12577,7 +12652,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -12742,11 +12817,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word",
                     "recurring head word"
@@ -12842,7 +12917,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "KE",
+                    "Kea",
                     "Zakros",
                     "Appears at 3 find sites",
                     "assigned number",
@@ -13186,7 +13261,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -13256,9 +13331,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -13319,7 +13394,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -13346,9 +13421,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -13406,7 +13481,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -13437,10 +13512,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -13486,11 +13561,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -13549,7 +13624,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -13582,6 +13657,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -13609,6 +13685,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites"
@@ -13637,6 +13714,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
@@ -13662,9 +13740,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -13777,6 +13855,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -13809,6 +13888,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly"
                 ],
@@ -13846,12 +13926,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -13873,7 +13953,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -13900,8 +13980,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "head word elsewhere"
@@ -13919,9 +13999,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 4 find sites",
                     "assigned number"
                 ],
@@ -13962,10 +14042,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites"
                 ],
                 "transliteratedWord": "RE",
@@ -14043,12 +14123,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -14115,7 +14195,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -14198,7 +14278,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -14219,7 +14299,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -14334,10 +14414,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -14369,7 +14449,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -14589,9 +14669,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -14686,7 +14766,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -14737,7 +14817,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -14757,7 +14837,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -14816,7 +14896,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -14844,7 +14924,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites"
                 ],
@@ -14885,10 +14965,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -15024,6 +15104,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -15120,12 +15201,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -15245,7 +15326,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -15263,6 +15344,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -15287,6 +15369,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites"
@@ -15303,6 +15386,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
@@ -15397,8 +15481,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -15421,6 +15506,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word"
                 ],
@@ -15451,13 +15537,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -15503,6 +15589,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly"
                 ],
@@ -15518,8 +15605,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "QA2+[?]+PU",
@@ -15574,6 +15662,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
@@ -15599,7 +15688,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "SA",
+                    "Samothrace",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "SA-RA",
@@ -15621,7 +15710,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -15644,13 +15733,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -15675,7 +15764,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -15689,7 +15778,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -15831,11 +15920,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -15853,7 +15942,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -15896,7 +15985,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites"
                 ],
@@ -15951,7 +16040,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -16097,7 +16186,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -16163,7 +16252,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number",
@@ -16248,7 +16337,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -16303,7 +16392,7 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 4 find sites",
@@ -16393,7 +16482,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "head word"
                 ],
@@ -16411,7 +16500,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -16464,10 +16553,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -16502,10 +16591,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites",
                     "assigned number"
                 ],
@@ -16599,12 +16688,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -16626,7 +16715,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -16682,7 +16771,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -16848,12 +16937,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -16875,7 +16964,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -16937,10 +17026,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -17225,10 +17314,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -17265,11 +17354,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -17333,7 +17422,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -17382,7 +17471,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number",
@@ -17497,8 +17586,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -17556,9 +17646,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -17604,6 +17694,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word"
                 ],
@@ -17628,7 +17719,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "head word elsewhere"
                 ],
@@ -17703,7 +17794,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -17751,7 +17842,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Tylissos",
                     "Appears at 3 find sites",
                     "head word",
@@ -17787,7 +17878,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -18069,7 +18160,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -18118,11 +18209,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -18423,7 +18514,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Tylissos",
                     "Appears at 3 find sites",
                     "head word elsewhere"
@@ -18747,7 +18838,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites"
                 ],
@@ -18789,7 +18880,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Tylissos",
                     "Appears at 3 find sites",
                     "head word",
@@ -18802,7 +18893,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -18825,7 +18916,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -18849,12 +18940,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -19254,7 +19345,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -19287,12 +19378,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -19325,13 +19416,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -19381,7 +19472,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -19410,12 +19501,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -19438,6 +19529,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
@@ -19471,7 +19563,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -19500,12 +19592,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -19528,6 +19620,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -19553,9 +19646,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -19616,7 +19709,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -19646,9 +19739,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -19680,6 +19773,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -19706,6 +19800,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -19730,6 +19825,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -19784,12 +19880,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -19814,13 +19910,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -19887,6 +19983,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -19957,7 +20054,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -19984,7 +20081,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Tylissos",
                     "Appears at 3 find sites",
                     "head word elsewhere"
@@ -20004,7 +20101,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -20032,9 +20129,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -20482,7 +20579,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -20520,11 +20617,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -20600,7 +20697,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -20673,7 +20770,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -20697,10 +20794,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -20762,7 +20859,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -20788,12 +20885,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -20861,7 +20958,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -20887,12 +20984,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -20938,12 +21035,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -21155,7 +21252,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -21245,7 +21342,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -21402,7 +21499,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Tylissos",
                     "Appears at 3 find sites",
                     "head word",
@@ -21659,7 +21756,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -21841,12 +21938,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -21933,7 +22030,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "head word elsewhere"
@@ -21953,7 +22050,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -21994,6 +22091,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -22019,12 +22117,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -22103,7 +22201,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -22295,9 +22393,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -22323,7 +22421,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "head word elsewhere"
                 ],
@@ -22405,12 +22503,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -22501,7 +22599,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -22678,13 +22776,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -22733,7 +22831,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Tylissos",
                     "Appears at 3 find sites",
                     "head word",
@@ -22769,7 +22867,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -22794,12 +22892,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -22823,13 +22921,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -22860,6 +22958,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "always assigned number"
@@ -22983,7 +23082,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -23008,7 +23107,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*304+PA",
@@ -23056,9 +23155,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -23168,7 +23267,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -23202,12 +23301,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -23238,13 +23337,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -23275,6 +23374,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -23306,6 +23406,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -23329,6 +23430,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -23364,6 +23466,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
@@ -23387,6 +23490,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -23411,6 +23515,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -23434,6 +23539,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -23472,7 +23578,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -23500,10 +23606,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -23561,6 +23667,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -23613,9 +23720,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -23639,6 +23746,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -23766,7 +23874,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -23801,8 +23909,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -23896,7 +24005,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -23988,12 +24097,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -24351,7 +24460,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -24396,7 +24505,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -24435,7 +24544,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -24459,12 +24568,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -24497,12 +24606,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -24540,7 +24649,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "GO",
+                    "Gournia",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DA",
@@ -24576,12 +24685,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -24662,7 +24771,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -24721,7 +24830,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -24905,10 +25014,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites"
                 ],
                 "transliteratedWord": "RE",
@@ -24947,10 +25056,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -25032,13 +25141,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐜚"
             },
             {
@@ -25058,7 +25168,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -25110,12 +25220,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -25153,7 +25263,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -25173,7 +25283,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -25233,8 +25343,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "logogram repeated in Inscription",
@@ -25283,12 +25393,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -25333,8 +25443,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "logogram repeated in Inscription",
@@ -25362,7 +25472,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -25505,12 +25615,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -25602,7 +25712,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites"
                 ],
@@ -25620,7 +25730,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -25635,12 +25745,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -25741,7 +25851,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -25858,7 +25968,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -25900,8 +26010,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -25972,7 +26083,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -26000,10 +26111,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -26030,12 +26141,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -26059,13 +26170,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -26090,8 +26201,8 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
-                    "GO",
+                    "Khania",
+                    "Gournia",
                     "Appears at 3 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -26114,6 +26225,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Zakros",
                     "Appears at 2 find sites",
@@ -26158,10 +26270,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -26178,6 +26290,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word"
                 ],
@@ -26358,8 +26471,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "MY",
+                    "Khania",
+                    "Mycenae",
                     "Zakros",
                     "Appears at 4 find sites",
                     "assigned number"
@@ -26409,7 +26522,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
                     "Phaistos",
                     "Zakros",
@@ -26487,7 +26600,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -26554,10 +26667,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites",
                     "assigned number"
@@ -26685,7 +26798,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -26721,7 +26834,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -26766,7 +26879,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -26793,6 +26906,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
@@ -26816,7 +26930,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "MY",
+                    "Mycenae",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "SI+SE",
@@ -26827,7 +26941,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -26854,6 +26968,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -26879,6 +26994,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -26940,7 +27056,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -26970,10 +27086,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -26997,6 +27113,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -27055,7 +27172,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -27084,9 +27201,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
@@ -27112,7 +27229,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "head word elsewhere"
                 ],
@@ -27124,7 +27241,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -27153,9 +27270,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "logogram repeated in Inscription",
@@ -27195,7 +27312,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -27223,9 +27340,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -27251,10 +27368,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -27820,7 +27937,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "head word elsewhere"
@@ -27869,9 +27986,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -27921,9 +28038,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -27973,9 +28090,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -28051,9 +28168,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -28104,7 +28221,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -28201,7 +28318,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "assigned number",
@@ -28373,8 +28490,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -28479,8 +28597,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -28551,6 +28670,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word",
                     "assigned number"
@@ -28585,7 +28705,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -28613,10 +28733,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -28643,12 +28763,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -28672,13 +28792,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -28703,8 +28823,8 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
-                    "GO",
+                    "Khania",
+                    "Gournia",
                     "Appears at 3 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -28805,7 +28925,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -29217,7 +29337,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -29444,8 +29564,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -29558,8 +29679,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -29655,8 +29777,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -29753,8 +29876,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -29863,8 +29987,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -29972,7 +30097,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -30025,7 +30150,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -30271,6 +30396,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -30308,6 +30434,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites"
@@ -30324,6 +30451,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -30370,7 +30498,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -30399,10 +30527,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -30477,8 +30605,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -30503,7 +30632,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -30535,9 +30664,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -30563,12 +30692,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -30737,7 +30866,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "KE",
+                    "Kea",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -30916,7 +31045,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -31044,7 +31173,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -31110,7 +31239,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -31183,7 +31312,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -31309,7 +31438,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -31343,6 +31472,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -31378,8 +31508,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -31404,6 +31535,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -31445,6 +31577,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -31499,6 +31632,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -31532,6 +31666,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -31558,7 +31693,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
                     "Phaistos",
                     "Zakros",
@@ -31586,6 +31721,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -31636,7 +31772,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -31673,9 +31809,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -31701,12 +31837,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -31739,7 +31875,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -31774,6 +31910,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly"
                 ],
@@ -31797,6 +31934,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -31827,10 +31965,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -31877,12 +32015,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -31918,7 +32056,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -31997,7 +32135,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -32022,12 +32160,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -32051,13 +32189,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -32097,12 +32235,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -32127,7 +32265,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -32169,7 +32307,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -32198,10 +32336,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -32237,9 +32375,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -32288,12 +32426,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -32344,6 +32482,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word"
                 ],
@@ -32557,7 +32696,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Tylissos",
                     "Appears at 3 find sites",
                     "head word",
@@ -32582,7 +32721,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -32595,6 +32734,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Only instance of word",
                     "assigned number"
@@ -32720,8 +32860,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "assigned number",
@@ -32935,7 +33076,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "TA₂",
@@ -32947,7 +33088,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -32973,6 +33114,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites"
@@ -32999,10 +33141,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -33062,7 +33204,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -33089,10 +33231,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -33218,6 +33360,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -33312,11 +33455,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -33335,8 +33478,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "head word elsewhere"
@@ -33356,11 +33499,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -33389,6 +33532,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -33415,11 +33559,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -33443,6 +33587,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -33470,11 +33615,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -33498,6 +33643,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -33548,6 +33694,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -33733,7 +33880,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -33793,7 +33940,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites"
                 ],
@@ -33839,8 +33986,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "assigned number",
@@ -33903,7 +34050,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -33945,12 +34092,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -33979,7 +34126,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "head word",
@@ -34009,7 +34156,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "head word elsewhere"
@@ -34069,9 +34216,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -34142,7 +34289,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -34177,7 +34324,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -34205,10 +34352,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -34241,7 +34388,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -34277,7 +34424,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -34333,12 +34480,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -34646,12 +34793,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -34682,12 +34829,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -35180,7 +35327,7 @@ var wordAnnotations =
                     "assigned number",
                     "head word"
                 ],
-                "transliteratedWord": "*304+PA-*303+D",
+                "transliteratedWord": "*304+PA-CYP+D",
                 "word": "𐜝𐜙"
             },
             {
@@ -35327,7 +35474,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "GO",
+                    "Gournia",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DA",
@@ -35342,7 +35489,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35359,7 +35506,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35376,7 +35523,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35393,7 +35540,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35410,7 +35557,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35427,7 +35574,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35444,7 +35591,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35461,7 +35608,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35478,7 +35625,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35495,7 +35642,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35512,7 +35659,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35529,7 +35676,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35546,7 +35693,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35563,7 +35710,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35580,7 +35727,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35597,7 +35744,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35614,7 +35761,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35631,7 +35778,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35648,7 +35795,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35665,7 +35812,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35682,7 +35829,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35699,7 +35846,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35716,7 +35863,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35733,7 +35880,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35750,7 +35897,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35767,7 +35914,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35784,7 +35931,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35801,7 +35948,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35818,7 +35965,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35835,7 +35982,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35852,7 +35999,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35869,7 +36016,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35886,7 +36033,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35903,7 +36050,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35920,7 +36067,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35937,7 +36084,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35954,7 +36101,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35971,7 +36118,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -35988,7 +36135,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36005,7 +36152,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36022,7 +36169,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36039,7 +36186,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36056,7 +36203,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36073,7 +36220,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36090,7 +36237,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36107,7 +36254,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36124,7 +36271,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36141,7 +36288,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36158,7 +36305,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36175,7 +36322,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36192,7 +36339,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36209,7 +36356,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36226,7 +36373,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36243,7 +36390,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36260,7 +36407,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36277,7 +36424,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36294,7 +36441,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36311,7 +36458,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36328,7 +36475,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36345,7 +36492,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36362,7 +36509,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36379,7 +36526,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36396,7 +36543,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36413,7 +36560,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36430,7 +36577,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36447,7 +36594,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36464,7 +36611,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36481,7 +36628,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36498,7 +36645,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36515,7 +36662,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36532,7 +36679,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36549,7 +36696,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36566,7 +36713,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36583,7 +36730,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36600,7 +36747,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36617,7 +36764,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36634,7 +36781,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36651,7 +36798,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36668,7 +36815,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36685,7 +36832,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36702,7 +36849,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36719,7 +36866,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36736,7 +36883,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36753,7 +36900,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36770,7 +36917,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36787,7 +36934,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36804,7 +36951,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36821,7 +36968,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -36843,7 +36990,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -36867,7 +37014,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -36891,7 +37038,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -36915,7 +37062,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -36939,7 +37086,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -36963,7 +37110,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -36987,7 +37134,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37011,7 +37158,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37035,7 +37182,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37059,7 +37206,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37083,7 +37230,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37107,7 +37254,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37131,7 +37278,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37155,7 +37302,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37179,7 +37326,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37203,7 +37350,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37227,7 +37374,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37251,7 +37398,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37275,7 +37422,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37299,7 +37446,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37323,7 +37470,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37347,7 +37494,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37371,7 +37518,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37395,7 +37542,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37419,7 +37566,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -37437,12 +37584,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -37460,12 +37607,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -37483,12 +37630,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -37508,10 +37655,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37528,10 +37675,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37548,10 +37695,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37568,10 +37715,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37588,10 +37735,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37608,10 +37755,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37628,10 +37775,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37648,10 +37795,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37668,10 +37815,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37688,10 +37835,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37708,10 +37855,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37728,10 +37875,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37748,10 +37895,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37768,10 +37915,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37788,10 +37935,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37808,10 +37955,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37828,10 +37975,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37848,10 +37995,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37868,10 +38015,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37888,10 +38035,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37908,10 +38055,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37928,10 +38075,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37948,10 +38095,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37968,10 +38115,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -37988,10 +38135,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -38007,12 +38154,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38028,12 +38175,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38049,12 +38196,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38070,12 +38217,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38091,12 +38238,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38112,12 +38259,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38133,12 +38280,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38154,12 +38301,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38175,12 +38322,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38196,12 +38343,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38217,12 +38364,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38238,12 +38385,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38259,12 +38406,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38280,12 +38427,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38301,12 +38448,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38322,12 +38469,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38343,12 +38490,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38364,12 +38511,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38385,12 +38532,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38406,12 +38553,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38427,12 +38574,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38448,12 +38595,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38469,12 +38616,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38490,12 +38637,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38511,12 +38658,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38532,12 +38679,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38553,12 +38700,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38574,12 +38721,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38595,12 +38742,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38616,12 +38763,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38637,12 +38784,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38658,12 +38805,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38679,12 +38826,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38700,12 +38847,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38721,12 +38868,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38742,12 +38889,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38763,12 +38910,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38784,12 +38931,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38805,12 +38952,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38826,12 +38973,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38847,12 +38994,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38868,12 +39015,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38889,12 +39036,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38910,12 +39057,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38931,12 +39078,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38952,12 +39099,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38973,12 +39120,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -38994,12 +39141,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39015,12 +39162,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39036,12 +39183,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39057,12 +39204,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39078,12 +39225,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39099,12 +39246,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39120,12 +39267,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39141,12 +39288,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39162,12 +39309,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39183,12 +39330,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39204,12 +39351,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39225,12 +39372,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39246,12 +39393,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39267,12 +39414,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39288,12 +39435,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39309,12 +39456,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39330,12 +39477,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39351,12 +39498,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39372,12 +39519,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39393,12 +39540,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39414,12 +39561,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39435,12 +39582,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39456,12 +39603,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39477,12 +39624,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39498,12 +39645,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39519,12 +39666,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39540,12 +39687,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39561,12 +39708,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39582,12 +39729,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39603,12 +39750,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39624,12 +39771,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39645,12 +39792,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39666,12 +39813,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39687,12 +39834,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39708,12 +39855,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39729,12 +39876,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39750,12 +39897,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39771,12 +39918,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39792,12 +39939,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39813,12 +39960,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39834,12 +39981,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39855,12 +40002,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39876,12 +40023,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39897,12 +40044,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39918,12 +40065,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -39940,10 +40087,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -39961,10 +40108,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -39982,10 +40129,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -40003,10 +40150,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -40024,10 +40171,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -40045,10 +40192,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -40066,10 +40213,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -40087,10 +40234,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -40108,10 +40255,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -40129,10 +40276,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -40150,10 +40297,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -40171,10 +40318,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -40191,7 +40338,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -40207,7 +40354,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -40223,7 +40370,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -40239,7 +40386,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40254,7 +40401,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40269,7 +40416,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40284,7 +40431,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40299,7 +40446,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40314,7 +40461,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40329,7 +40476,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40344,7 +40491,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40359,7 +40506,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40374,7 +40521,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40389,7 +40536,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40404,7 +40551,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40419,7 +40566,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40434,7 +40581,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40449,7 +40596,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40464,7 +40611,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40479,7 +40626,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40494,7 +40641,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40509,7 +40656,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40524,7 +40671,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40539,7 +40686,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40554,7 +40701,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40569,7 +40716,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40584,7 +40731,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40599,7 +40746,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40614,7 +40761,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40629,7 +40776,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40644,7 +40791,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40659,7 +40806,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40674,7 +40821,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40689,7 +40836,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40704,7 +40851,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40719,7 +40866,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40734,7 +40881,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40749,7 +40896,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40764,7 +40911,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40779,7 +40926,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40794,7 +40941,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40809,7 +40956,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40824,7 +40971,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -40840,11 +40987,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -40861,11 +41008,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -40882,11 +41029,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -40903,11 +41050,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -40924,11 +41071,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -40945,11 +41092,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -40966,11 +41113,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -40987,11 +41134,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41008,11 +41155,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41029,11 +41176,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41050,11 +41197,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41071,11 +41218,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41092,11 +41239,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41113,11 +41260,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41134,11 +41281,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41155,11 +41302,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41176,11 +41323,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41197,11 +41344,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41218,11 +41365,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41239,11 +41386,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41260,11 +41407,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41281,11 +41428,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41302,11 +41449,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41323,11 +41470,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41344,11 +41491,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41365,11 +41512,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41386,11 +41533,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41407,11 +41554,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41428,11 +41575,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41449,11 +41596,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41470,11 +41617,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41491,11 +41638,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41512,11 +41659,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41533,11 +41680,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41554,11 +41701,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41575,11 +41722,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41596,11 +41743,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41617,11 +41764,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41638,11 +41785,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41659,11 +41806,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41680,11 +41827,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41701,11 +41848,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41722,11 +41869,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41743,11 +41890,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41764,11 +41911,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41785,11 +41932,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41806,11 +41953,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41827,11 +41974,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41848,11 +41995,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41869,11 +42016,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41890,11 +42037,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41911,11 +42058,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41932,11 +42079,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41953,11 +42100,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41974,11 +42121,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -41995,11 +42142,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42016,11 +42163,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42037,11 +42184,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42058,11 +42205,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42079,11 +42226,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42100,11 +42247,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42121,11 +42268,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42142,11 +42289,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42163,11 +42310,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42184,11 +42331,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42205,11 +42352,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42226,11 +42373,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42247,11 +42394,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42268,11 +42415,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42289,11 +42436,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42310,11 +42457,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42331,11 +42478,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42352,11 +42499,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42373,11 +42520,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42394,11 +42541,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42415,11 +42562,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42436,11 +42583,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42457,11 +42604,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42478,11 +42625,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42499,11 +42646,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42520,11 +42667,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42541,11 +42688,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42562,11 +42709,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42583,11 +42730,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42604,11 +42751,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42625,11 +42772,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42646,11 +42793,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42667,11 +42814,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42688,11 +42835,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42709,11 +42856,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42730,11 +42877,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42751,11 +42898,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42772,11 +42919,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42793,11 +42940,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42814,11 +42961,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42835,11 +42982,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42856,11 +43003,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42877,11 +43024,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42898,11 +43045,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42919,11 +43066,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42940,11 +43087,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42961,11 +43108,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -42982,11 +43129,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43003,11 +43150,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43024,11 +43171,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43045,11 +43192,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43066,11 +43213,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43087,11 +43234,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43108,11 +43255,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43129,11 +43276,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43150,11 +43297,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43171,11 +43318,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43192,11 +43339,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43213,11 +43360,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43234,11 +43381,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43255,11 +43402,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43276,11 +43423,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43297,11 +43444,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43318,11 +43465,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43339,11 +43486,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43360,11 +43507,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43381,11 +43528,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43402,11 +43549,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43423,11 +43570,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43444,11 +43591,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43465,11 +43612,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43486,11 +43633,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43507,11 +43654,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43528,11 +43675,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43549,11 +43696,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43570,11 +43717,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43591,11 +43738,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43612,11 +43759,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43633,11 +43780,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43654,11 +43801,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43675,11 +43822,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43696,11 +43843,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43717,11 +43864,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43738,11 +43885,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43759,11 +43906,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43780,11 +43927,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43801,11 +43948,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43822,11 +43969,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43843,11 +43990,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43864,11 +44011,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43885,11 +44032,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43906,11 +44053,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43927,11 +44074,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43948,11 +44095,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -43969,7 +44116,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -43988,7 +44135,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44007,7 +44154,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44026,7 +44173,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44045,7 +44192,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44064,7 +44211,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44083,7 +44230,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44102,7 +44249,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44121,7 +44268,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44140,7 +44287,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44159,7 +44306,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44178,7 +44325,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44197,7 +44344,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44216,7 +44363,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44235,7 +44382,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44254,7 +44401,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44273,7 +44420,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44292,7 +44439,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44311,7 +44458,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44330,7 +44477,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44349,7 +44496,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44368,7 +44515,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44387,7 +44534,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44406,7 +44553,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44425,7 +44572,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44444,7 +44591,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44463,7 +44610,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44482,7 +44629,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44501,7 +44648,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44520,7 +44667,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44539,7 +44686,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44558,7 +44705,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44577,7 +44724,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44596,7 +44743,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44615,7 +44762,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44634,7 +44781,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44653,7 +44800,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44672,7 +44819,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44691,7 +44838,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44710,7 +44857,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44729,7 +44876,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44748,7 +44895,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44767,7 +44914,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44786,7 +44933,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44805,7 +44952,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44824,7 +44971,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44843,7 +44990,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44862,7 +45009,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44881,7 +45028,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44900,7 +45047,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44919,7 +45066,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44938,7 +45085,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44957,7 +45104,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44976,7 +45123,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -44995,7 +45142,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45014,7 +45161,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45033,7 +45180,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45052,7 +45199,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45071,7 +45218,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45090,7 +45237,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45109,7 +45256,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45128,7 +45275,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45147,7 +45294,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45166,7 +45313,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45185,7 +45332,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45204,7 +45351,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45223,7 +45370,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45242,7 +45389,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45261,7 +45408,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45280,7 +45427,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45299,7 +45446,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45318,7 +45465,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45337,7 +45484,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45356,7 +45503,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45375,7 +45522,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45394,7 +45541,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45413,7 +45560,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45432,7 +45579,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45451,7 +45598,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45470,7 +45617,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45489,7 +45636,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45508,7 +45655,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45527,7 +45674,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45546,7 +45693,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45565,7 +45712,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45584,7 +45731,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45603,7 +45750,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45622,7 +45769,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45641,7 +45788,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45660,7 +45807,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45679,7 +45826,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45698,7 +45845,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45717,7 +45864,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45736,7 +45883,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45755,7 +45902,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45774,7 +45921,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45793,7 +45940,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45812,7 +45959,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45831,7 +45978,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45850,7 +45997,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45869,7 +46016,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45888,7 +46035,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45907,7 +46054,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45926,7 +46073,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45945,7 +46092,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45964,7 +46111,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -45983,7 +46130,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46002,7 +46149,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46021,7 +46168,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46040,7 +46187,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46059,7 +46206,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46078,7 +46225,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46097,7 +46244,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46116,7 +46263,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46135,7 +46282,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46154,7 +46301,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46173,7 +46320,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46192,7 +46339,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46211,7 +46358,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46230,7 +46377,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46249,7 +46396,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46268,7 +46415,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46287,7 +46434,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46306,7 +46453,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46325,7 +46472,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46344,7 +46491,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46363,7 +46510,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46382,7 +46529,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46401,7 +46548,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46420,7 +46567,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46439,7 +46586,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46458,7 +46605,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46477,7 +46624,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46496,7 +46643,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46515,7 +46662,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46534,7 +46681,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46553,7 +46700,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46572,7 +46719,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46591,7 +46738,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46610,7 +46757,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46629,7 +46776,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46648,7 +46795,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46667,7 +46814,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46686,7 +46833,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46705,7 +46852,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46724,7 +46871,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46743,7 +46890,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46762,7 +46909,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46781,7 +46928,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46800,7 +46947,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46819,7 +46966,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -46838,7 +46985,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -46856,7 +47003,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -46874,7 +47021,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -46892,7 +47039,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -46910,7 +47057,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -46928,7 +47075,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -46946,7 +47093,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -46964,7 +47111,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -46982,7 +47129,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47000,7 +47147,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47018,7 +47165,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47036,7 +47183,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47054,7 +47201,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47072,7 +47219,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47090,7 +47237,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47108,7 +47255,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47126,7 +47273,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47144,7 +47291,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47162,7 +47309,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47180,7 +47327,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47198,7 +47345,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47216,7 +47363,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47234,7 +47381,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47252,7 +47399,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47270,7 +47417,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47288,7 +47435,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47306,7 +47453,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47324,7 +47471,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47342,7 +47489,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47360,7 +47507,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47378,7 +47525,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47396,7 +47543,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47414,7 +47561,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47432,7 +47579,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47450,7 +47597,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47468,7 +47615,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47486,7 +47633,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47504,7 +47651,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47522,7 +47669,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47540,7 +47687,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47558,7 +47705,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47576,7 +47723,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47594,7 +47741,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47612,7 +47759,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47630,7 +47777,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47648,7 +47795,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47666,7 +47813,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47684,7 +47831,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47702,7 +47849,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47720,7 +47867,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47738,7 +47885,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47756,7 +47903,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47774,7 +47921,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47792,7 +47939,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47810,7 +47957,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47828,7 +47975,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47846,7 +47993,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47864,7 +48011,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47882,7 +48029,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47900,7 +48047,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47918,7 +48065,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47936,7 +48083,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47954,7 +48101,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47972,7 +48119,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -47990,7 +48137,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48008,7 +48155,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48026,7 +48173,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48044,7 +48191,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48062,7 +48209,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48080,7 +48227,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48098,7 +48245,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48116,7 +48263,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48134,7 +48281,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48152,7 +48299,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48170,7 +48317,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48188,7 +48335,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48206,7 +48353,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48224,7 +48371,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48242,7 +48389,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48260,7 +48407,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48278,7 +48425,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48296,7 +48443,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48314,7 +48461,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48332,7 +48479,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48350,7 +48497,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48368,7 +48515,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48386,7 +48533,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48404,7 +48551,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48422,7 +48569,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48440,7 +48587,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48458,7 +48605,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48476,7 +48623,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48494,7 +48641,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48512,7 +48659,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48530,7 +48677,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48548,7 +48695,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48566,7 +48713,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48584,7 +48731,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48602,7 +48749,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48620,7 +48767,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48638,7 +48785,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48656,7 +48803,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48674,7 +48821,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48692,7 +48839,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48710,7 +48857,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48728,7 +48875,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48746,7 +48893,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48764,7 +48911,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48782,7 +48929,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48800,7 +48947,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48818,7 +48965,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48836,7 +48983,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48854,7 +49001,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48872,7 +49019,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48890,7 +49037,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48908,7 +49055,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48926,7 +49073,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48944,7 +49091,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48962,7 +49109,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48980,7 +49127,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -48998,7 +49145,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49016,7 +49163,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49034,7 +49181,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49052,7 +49199,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49070,7 +49217,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49088,7 +49235,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49106,7 +49253,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49124,7 +49271,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49142,7 +49289,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49160,7 +49307,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49178,7 +49325,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49196,7 +49343,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49214,7 +49361,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49232,7 +49379,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49250,7 +49397,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49268,7 +49415,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49286,7 +49433,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49304,7 +49451,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49322,7 +49469,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49340,7 +49487,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49358,7 +49505,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49376,7 +49523,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49394,7 +49541,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49412,7 +49559,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49430,7 +49577,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49448,7 +49595,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49466,7 +49613,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49484,7 +49631,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49502,7 +49649,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49520,7 +49667,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49538,7 +49685,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49556,7 +49703,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49574,7 +49721,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49592,7 +49739,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49610,7 +49757,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49628,7 +49775,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49646,7 +49793,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49664,7 +49811,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49682,7 +49829,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49700,7 +49847,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49718,7 +49865,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49736,7 +49883,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49754,7 +49901,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49772,7 +49919,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49790,7 +49937,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49808,7 +49955,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49826,7 +49973,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49844,7 +49991,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49862,7 +50009,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49880,7 +50027,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49898,7 +50045,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49916,7 +50063,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49934,7 +50081,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49952,7 +50099,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49970,7 +50117,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -49988,7 +50135,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50006,7 +50153,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50024,7 +50171,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50042,7 +50189,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50060,7 +50207,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50078,7 +50225,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50096,7 +50243,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50114,7 +50261,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50132,7 +50279,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50150,7 +50297,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50168,7 +50315,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50186,7 +50333,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50204,7 +50351,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50222,7 +50369,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50240,7 +50387,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50258,7 +50405,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50276,7 +50423,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50294,7 +50441,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50312,7 +50459,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50330,7 +50477,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50348,7 +50495,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50366,7 +50513,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50384,7 +50531,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50402,7 +50549,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50420,7 +50567,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50438,7 +50585,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50456,7 +50603,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50474,7 +50621,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50492,7 +50639,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50510,7 +50657,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50528,7 +50675,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50546,7 +50693,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50564,7 +50711,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50582,7 +50729,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50600,7 +50747,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50618,7 +50765,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50636,7 +50783,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50654,7 +50801,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50672,7 +50819,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50690,7 +50837,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50708,7 +50855,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50726,7 +50873,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50744,7 +50891,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50762,7 +50909,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50780,7 +50927,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50798,7 +50945,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50816,7 +50963,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50834,7 +50981,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50852,7 +50999,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -50870,7 +51017,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -51080,11 +51227,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             }
         ]
@@ -51096,7 +51244,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -51113,7 +51261,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -51194,9 +51342,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "SE",
@@ -51222,9 +51370,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "SE",
@@ -51415,8 +51563,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Appears at 3 find sites"
                 ],
                 "transliteratedWord": "CAP",
@@ -51443,7 +51591,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -51473,7 +51621,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "*304+PA-*303+D",
+                "transliteratedWord": "*304+PA-CYP+D",
                 "word": "𐜝𐜙"
             }
         ]
@@ -51520,7 +51668,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "*303+D-*304+PA",
+                "transliteratedWord": "CYP+D-*304+PA",
                 "word": "𐜙𐜝"
             }
         ]
@@ -51533,11 +51681,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word",
                     "recurring head word"
@@ -51548,11 +51696,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             }
         ]
@@ -51565,7 +51714,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -51608,7 +51757,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -51665,7 +51814,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -51684,7 +51833,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -51715,7 +51864,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "*304+PA-*303+D",
+                "transliteratedWord": "*304+PA-CYP+D",
                 "word": "𐜝𐜙"
             }
         ]
@@ -51824,7 +51973,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "GO",
+                    "Gournia",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DA",
@@ -52039,7 +52188,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "GO",
+                    "Gournia",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DA",
@@ -52054,7 +52203,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "GO",
+                    "Gournia",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DA",
@@ -52070,10 +52219,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -52102,8 +52251,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites"
                 ],
@@ -52119,7 +52269,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -52137,7 +52287,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "GO",
+                    "Gournia",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DA",
@@ -52193,10 +52343,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word",
                     "recurring head word"
@@ -52231,9 +52381,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "PL",
-                    "Pseira",
-                    "TL",
+                    "Platanos",
+                    "Psykhro",
+                    "Troullos",
                     "Palaikastro",
                     "Appears at 5 find sites",
                     "head word elsewhere"
@@ -52253,7 +52403,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Appears at 3 find sites"
                 ],
@@ -52272,9 +52422,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Iouktas",
-                    "KO",
-                    "TL",
-                    "VR",
+                    "Kophinas",
+                    "Troullos",
+                    "Vrysinas",
                     "Apodoulou",
                     "Appears at 5 find sites"
                 ],
@@ -52297,10 +52447,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Syme",
-                    "TL",
-                    "VR",
+                    "Troullos",
+                    "Vrysinas",
                     "Appears at 5 find sites",
                     "head word elsewhere"
                 ],
@@ -52336,10 +52486,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -52369,10 +52519,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word elsewhere"
                 ],
@@ -52489,9 +52639,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "PL",
-                    "Pseira",
-                    "TL",
+                    "Platanos",
+                    "Psykhro",
+                    "Troullos",
                     "Palaikastro",
                     "Appears at 5 find sites",
                     "head word elsewhere"
@@ -52515,10 +52665,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word",
                     "recurring head word"
@@ -52568,9 +52718,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "PL",
-                    "Pseira",
-                    "TL",
+                    "Platanos",
+                    "Psykhro",
+                    "Troullos",
                     "Palaikastro",
                     "Appears at 5 find sites",
                     "head word",
@@ -52595,7 +52745,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Appears at 3 find sites"
                 ],
@@ -52629,7 +52779,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -52720,7 +52870,7 @@ var wordAnnotations =
                     "Iouktas",
                     "Malia",
                     "Phaistos",
-                    "SA",
+                    "Samothrace",
                     "Appears at 4 find sites",
                     "head word elsewhere"
                 ],
@@ -52791,10 +52941,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Syme",
-                    "TL",
-                    "VR",
+                    "Troullos",
+                    "Vrysinas",
                     "Appears at 5 find sites",
                     "head word"
                 ],
@@ -52828,9 +52978,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Iouktas",
-                    "KO",
-                    "TL",
-                    "VR",
+                    "Kophinas",
+                    "Troullos",
+                    "Vrysinas",
                     "Apodoulou",
                     "Appears at 5 find sites"
                 ],
@@ -52848,10 +52998,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Syme",
-                    "TL",
-                    "VR",
+                    "Troullos",
+                    "Vrysinas",
                     "Appears at 5 find sites",
                     "head word elsewhere"
                 ],
@@ -52930,7 +53080,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KA",
+                    "Kardamoutsa",
                     "Only instance of word",
                     "head word"
                 ],
@@ -52952,7 +53102,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KA",
+                    "Kamilari",
                     "Only instance of word",
                     "head word"
                 ],
@@ -52982,12 +53132,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -53011,10 +53161,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -53059,7 +53209,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word also in linear b",
                     "word",
-                    "KE",
+                    "Kea",
                     "Only instance of word",
                     "head word"
                 ],
@@ -53116,7 +53266,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KE",
+                    "Kea",
                     "Zakros",
                     "Appears at 2 find sites"
                 ],
@@ -53133,9 +53283,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -53159,7 +53309,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KE",
+                    "Kea",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "JA-SI-E",
@@ -53173,7 +53323,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "KE",
+                    "commodity",
+                    "Kea",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "VIN+RA",
@@ -53189,7 +53340,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "KE",
+                    "Kea",
                     "Palaikastro",
                     "Appears at 2 find sites"
                 ],
@@ -53207,7 +53358,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "KE",
+                    "Kea",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -53223,8 +53374,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "JE",
@@ -53241,7 +53392,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*582",
@@ -53286,12 +53437,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -53349,7 +53500,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -53368,7 +53519,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -53393,10 +53544,10 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
-                "transliteratedWord": "*306-*303+E",
+                "transliteratedWord": "*306-CYP+E",
                 "word": "𐙚𐜚𐝫"
             },
             {
@@ -53437,7 +53588,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -53473,7 +53624,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "head word"
                 ],
@@ -53489,7 +53640,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number"
@@ -53514,7 +53665,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -53566,7 +53717,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "head word"
                 ],
@@ -53583,7 +53734,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-RA-U-DA",
@@ -53604,7 +53755,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "WI-SA-SA-NE",
@@ -53613,13 +53764,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐜚"
             },
             {
@@ -53637,7 +53789,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "commodity",
+                    "Khania",
                     "Only instance of word",
                     "assigned number"
                 ],
@@ -53659,7 +53812,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "WI-NA-DU",
@@ -53675,7 +53828,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*301-NA",
@@ -53696,7 +53849,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "KU-PA-*79",
@@ -53708,7 +53861,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -53741,12 +53894,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -53777,14 +53930,15 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐝫𐜙"
             },
             {
@@ -53804,7 +53958,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "DI-SI",
@@ -53820,7 +53974,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "TE-NU-RE",
@@ -53835,7 +53989,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "KI-SA-NE",
@@ -53844,13 +53998,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -53870,7 +54025,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*347",
@@ -53888,7 +54043,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -53912,7 +54067,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "RI-TA-JE",
@@ -53922,12 +54077,13 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙𐝫"
             },
             {
@@ -53941,7 +54097,7 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 4 find sites",
@@ -53966,13 +54122,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -53993,8 +54150,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TE",
+                    "Khania",
+                    "Tel Haror",
                     "Appears at 3 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -54020,7 +54177,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -54040,10 +54197,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites"
                 ],
                 "transliteratedWord": "RE",
@@ -54059,7 +54216,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number"
@@ -54082,13 +54239,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -54109,7 +54267,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "PI-SA",
@@ -54124,14 +54282,15 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐝫𐜙"
             },
             {
@@ -54150,7 +54309,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "AU-RE-TE",
@@ -54166,7 +54325,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number"
@@ -54204,7 +54363,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -54239,7 +54398,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -54261,9 +54420,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -54275,7 +54434,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number"
@@ -54298,12 +54457,13 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -54325,10 +54485,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -54338,13 +54498,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐜚"
             },
             {
@@ -54363,7 +54524,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "E-NA-SI",
@@ -54380,7 +54541,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -54403,13 +54564,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -54428,7 +54590,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "I-JA-PA-ME",
@@ -54444,7 +54606,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "TA-TA",
@@ -54465,7 +54627,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "QA-TI-KI",
@@ -54475,7 +54637,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -54498,13 +54660,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -54523,7 +54686,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "SE-*305",
@@ -54547,7 +54710,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -54567,7 +54730,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "KO-E",
@@ -54577,7 +54740,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription"
                 ],
@@ -54600,13 +54763,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -54620,7 +54784,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 2 find sites"
                 ],
@@ -54689,7 +54853,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "U-TA-I-SE",
@@ -54698,12 +54862,13 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -54724,7 +54889,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "PA-NA-TU",
@@ -54733,13 +54898,14 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -54759,7 +54925,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -54782,12 +54948,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -54810,11 +54976,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "commodity",
+                    "Khania",
                     "Only instance of word",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+K",
+                "transliteratedWord": "CYP+K",
                 "word": "𐜛"
             },
             {
@@ -54850,10 +55017,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites"
                 ],
                 "transliteratedWord": "RE",
@@ -54870,10 +55037,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -54897,12 +55064,13 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -54923,12 +55091,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -54955,7 +55123,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -54984,9 +55152,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -55014,7 +55182,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -55041,7 +55209,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -55062,12 +55230,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -55093,7 +55261,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -55116,8 +55284,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -55140,7 +55309,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "head word"
                 ],
@@ -55158,7 +55327,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "VIR+*307",
@@ -55188,12 +55357,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -55217,8 +55386,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -55234,8 +55404,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
-                    "PY",
+                    "Khania",
+                    "Pyrgos",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "I-SI",
@@ -55251,11 +55421,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -55290,7 +55461,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -55319,13 +55490,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -55343,7 +55514,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -55383,7 +55554,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "SI+TA2-*304",
@@ -55456,7 +55627,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -55484,7 +55655,7 @@ var wordAnnotations =
                 "tags": [
                     "uses to prefix (I-/J-)",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "I-PA-SA-JA",
@@ -55500,7 +55671,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "QA-*118",
@@ -55514,7 +55685,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-KI-PI-E-TE",
@@ -55525,7 +55696,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -55555,7 +55726,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Tylissos",
                     "Appears at 3 find sites",
                     "head word",
@@ -55575,7 +55746,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 2 find sites"
                 ],
@@ -55587,7 +55758,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -55613,8 +55784,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "MY",
+                    "Khania",
+                    "Mycenae",
                     "Zakros",
                     "Appears at 4 find sites",
                     "assigned number"
@@ -55637,14 +55808,15 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐜚"
             },
             {
@@ -55665,13 +55837,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -55696,7 +55868,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -55722,7 +55894,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -55747,7 +55919,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "assigned number"
                 ],
@@ -55770,7 +55942,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-TO-*349-TO-I",
@@ -55779,14 +55951,15 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐜚"
             },
             {
@@ -55806,12 +55979,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -55835,13 +56008,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -55865,7 +56038,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-TA-*350",
@@ -55876,7 +56049,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -55900,7 +56073,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -55925,7 +56098,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -55953,7 +56126,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -55975,8 +56148,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -56000,8 +56174,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -56039,7 +56214,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*335",
@@ -56063,7 +56238,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "head word elsewhere"
@@ -56094,7 +56269,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -56120,7 +56295,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription"
                 ],
@@ -56145,7 +56320,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription"
                 ],
@@ -56221,7 +56396,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-SE-RE-ZA",
@@ -56249,7 +56424,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*304-CYP",
@@ -56290,7 +56465,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DA-I",
@@ -56333,7 +56508,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -56355,7 +56530,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-MA-JA",
@@ -56373,7 +56548,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -56400,7 +56575,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription",
@@ -56426,7 +56601,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number"
@@ -56451,7 +56626,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -56479,12 +56654,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -56508,7 +56683,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "VIR+*307",
@@ -56533,7 +56708,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -56567,7 +56742,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -56592,12 +56767,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -56624,12 +56799,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -56669,7 +56844,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -56694,7 +56869,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "U-TA-I-SI",
@@ -56704,11 +56879,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙𐝫"
             },
             {
@@ -56736,10 +56912,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -56821,12 +56997,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription"
                 ],
@@ -56844,12 +57020,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
@@ -56873,12 +57049,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -56925,7 +57101,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*401+[ ]",
@@ -56953,7 +57129,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "I-KU-PI",
@@ -56969,7 +57145,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "commodity",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 3 find sites",
@@ -56996,7 +57172,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -57023,12 +57199,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -57044,7 +57220,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "DA+*301",
@@ -57054,7 +57230,7 @@ var wordAnnotations =
                 "tags": [
                     "commodity",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 3 find sites",
@@ -57081,7 +57257,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "RO+RO[",
@@ -57096,7 +57272,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*306-VIR+*307",
@@ -57131,8 +57307,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "OLE+TA",
@@ -57183,7 +57360,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-SI-KI-RA",
@@ -57200,12 +57377,13 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐜚𐝫"
             },
             {
@@ -57231,7 +57409,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "DU-RE-ZA",
@@ -57247,14 +57425,15 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐜚"
             },
             {
@@ -57275,12 +57454,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -57321,7 +57500,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -57363,12 +57542,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -57391,7 +57570,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*306-QE-DU",
@@ -57406,7 +57585,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 2 find sites"
                 ],
@@ -57424,8 +57603,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "MY",
+                    "Khania",
+                    "Mycenae",
                     "Zakros",
                     "Appears at 4 find sites",
                     "assigned number"
@@ -57449,11 +57628,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐜚𐝫"
             },
             {
@@ -57466,12 +57646,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -57497,7 +57677,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -57529,7 +57709,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Tylissos",
                     "Appears at 3 find sites",
                     "head word",
@@ -57550,7 +57730,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -57581,8 +57761,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "MY",
+                    "Khania",
+                    "Mycenae",
                     "Zakros",
                     "Appears at 4 find sites"
                 ],
@@ -57635,7 +57815,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -57664,7 +57844,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -57721,7 +57901,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -57750,12 +57930,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -57845,12 +58025,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -57865,8 +58045,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -57920,9 +58101,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "SE",
@@ -57940,7 +58121,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*582",
@@ -57956,7 +58137,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -57975,7 +58156,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "TA₂",
@@ -58005,7 +58186,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -58035,7 +58216,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -58119,12 +58300,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -58161,7 +58342,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*401+[ ]",
@@ -58202,8 +58383,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
-                    "MI",
+                    "Khania",
+                    "Milos",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*401+RO",
@@ -58245,7 +58426,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "head word"
                 ],
@@ -58304,11 +58485,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐝫𐜙𐝫"
             },
             {
@@ -58333,12 +58515,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -58371,12 +58553,13 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐝫𐜚"
             },
             {
@@ -58397,12 +58580,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -58488,7 +58671,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -58520,11 +58703,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -58541,8 +58724,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -58568,7 +58752,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -58600,7 +58784,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -58627,7 +58811,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "WI",
@@ -58642,7 +58826,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -58700,11 +58884,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
-                "transliteratedWord": "*303+D",
+                "transliteratedWord": "CYP+D",
                 "word": "𐜙"
             },
             {
@@ -58754,7 +58939,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word also in linear b",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "head word"
                 ],
@@ -58771,8 +58956,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "OLE+TA",
@@ -58816,7 +59002,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "SI-NA",
@@ -58859,7 +59045,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "KA-TA-RE",
@@ -58903,7 +59089,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*307+*301[",
@@ -58932,7 +59118,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "assigned number"
                 ],
@@ -58955,7 +59141,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "WI+ZE[",
@@ -59013,7 +59199,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*335",
@@ -59042,12 +59228,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -59139,13 +59325,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -59190,7 +59376,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "QA-NE",
@@ -59219,12 +59405,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -59241,7 +59427,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -59259,7 +59445,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*306",
@@ -59290,7 +59476,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
                     "Phaistos",
                     "Zakros",
@@ -59311,7 +59497,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -59359,10 +59545,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -59387,8 +59573,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -59412,7 +59598,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites"
                 ],
@@ -59466,7 +59652,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "assigned number"
                 ],
@@ -59504,7 +59690,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -59564,7 +59750,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "TA-U",
@@ -59593,7 +59779,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-ME-AROM",
@@ -59616,7 +59802,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -59648,12 +59834,13 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐝫𐜚"
             },
             {
@@ -59674,7 +59861,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -59756,8 +59943,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "OLE+TA",
@@ -59796,12 +59984,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -59831,7 +60019,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 2 find sites"
                 ],
@@ -59892,7 +60080,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -59909,8 +60097,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZO",
@@ -59936,7 +60124,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -60007,7 +60195,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -60033,12 +60221,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -60053,13 +60241,14 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
                     "assigned number"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐝫𐜚"
             },
             {
@@ -60087,12 +60276,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -60111,12 +60300,13 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription"
                 ],
-                "transliteratedWord": "*303+E",
+                "transliteratedWord": "CYP+E",
                 "word": "𐝫𐜚"
             },
             {
@@ -60139,7 +60329,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -60164,7 +60354,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-*301",
@@ -60208,10 +60398,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites",
                     "assigned number"
@@ -60236,7 +60426,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -60275,7 +60465,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "RA-KI-TA-NA-SI",
@@ -60291,7 +60481,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "commodity",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 3 find sites",
@@ -60317,7 +60507,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "TA₂-CYP",
@@ -60347,8 +60537,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "MI+JA+RU",
@@ -60444,8 +60635,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "head word elsewhere"
@@ -60475,8 +60666,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "OLE+TA",
@@ -60503,7 +60695,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -60527,7 +60719,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -60578,8 +60770,8 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "head word elsewhere"
@@ -60611,8 +60803,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "MY",
+                    "Khania",
+                    "Mycenae",
                     "Zakros",
                     "Appears at 4 find sites"
                 ],
@@ -60636,7 +60828,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*401+RU",
@@ -60691,10 +60883,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -60756,12 +60948,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -60888,7 +61080,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*401+[ ]",
@@ -61094,12 +61286,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -61132,12 +61324,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -61160,7 +61352,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*304+PA",
@@ -61197,12 +61389,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -61236,12 +61428,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -61259,7 +61451,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "JA-DA-SU",
@@ -61274,7 +61466,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "SI-*805-MI",
@@ -61335,7 +61527,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -61360,12 +61552,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -61418,12 +61610,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -61450,7 +61642,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -61491,7 +61683,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -61586,7 +61778,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "𐝫𐘂𐘀𐝫",
@@ -61616,7 +61808,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "MI-NA",
@@ -61632,7 +61824,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word also in linear b",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "PA-TA",
@@ -61650,7 +61842,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites"
                 ],
@@ -61666,7 +61858,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "PA-DA-NI",
@@ -61713,10 +61905,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -61788,8 +61980,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "head word elsewhere"
                 ],
@@ -61868,8 +62061,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "OLE+RI",
@@ -61893,7 +62087,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*315",
@@ -61917,7 +62111,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*336",
@@ -61967,7 +62161,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-DI-NE",
@@ -61994,7 +62188,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*401+RU",
@@ -62039,7 +62233,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -62066,7 +62260,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -62092,7 +62286,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*306",
@@ -62107,7 +62301,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*401+RU",
@@ -62150,8 +62344,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -62176,8 +62371,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites"
                 ],
@@ -62193,7 +62389,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
                 ],
@@ -62218,7 +62414,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "commodity",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 3 find sites"
@@ -62238,9 +62434,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites"
                 ],
@@ -62259,7 +62455,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites"
                 ],
@@ -62301,7 +62497,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "RE-ZA",
@@ -62313,7 +62509,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -62333,7 +62529,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -62344,7 +62540,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "𐝀𐝁𐝁",
@@ -62359,7 +62555,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "PI-NU",
@@ -62391,7 +62587,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
@@ -62473,7 +62669,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*306",
@@ -62503,8 +62699,8 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
-                    "GO",
+                    "Khania",
+                    "Gournia",
                     "Appears at 3 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -62528,7 +62724,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "head word"
                 ],
@@ -62545,7 +62741,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 2 find sites",
                     "head word elsewhere"
@@ -62565,12 +62761,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -62592,7 +62788,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "assigned number"
                 ],
@@ -62652,14 +62848,14 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites"
                 ],
                 "transliteratedWord": "JA",
@@ -62675,7 +62871,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "MA-TA-RI-TA",
@@ -62763,7 +62959,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -62792,13 +62988,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -62814,7 +63010,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 2 find sites",
                     "assigned number",
@@ -62848,7 +63044,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites",
                     "head word elsewhere"
                 ],
@@ -62879,7 +63075,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -62908,12 +63104,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -62928,7 +63124,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "assigned number"
                 ],
@@ -62952,8 +63148,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
-                    "MI",
+                    "Khania",
+                    "Milos",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*401+RO",
@@ -62981,7 +63177,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "head word"
                 ],
@@ -62996,7 +63192,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "KU-NI-TE",
@@ -63019,7 +63215,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "assigned number"
                 ],
@@ -63107,7 +63303,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "QA-PU",
@@ -63135,7 +63331,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "I-ZA",
@@ -63178,9 +63374,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "SE",
@@ -63231,7 +63427,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "𐝫𐝈𐝀𐝀",
@@ -63247,7 +63443,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "RE-A-JA",
@@ -63265,7 +63461,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -63298,7 +63494,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "SE-I",
@@ -63342,7 +63538,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "PA-RI-DE",
@@ -63357,7 +63553,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-SI-*118",
@@ -63374,7 +63570,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word also in linear b",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "KU-KA",
@@ -63389,7 +63585,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word",
                     "head word"
                 ],
@@ -63406,7 +63602,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -63420,13 +63616,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -63442,7 +63638,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "KE",
@@ -63484,7 +63680,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "head word",
                     "recurring head word"
@@ -63495,7 +63691,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "DA+RO",
@@ -63509,7 +63705,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly",
                     "head word",
                     "recurring head word"
@@ -63520,7 +63716,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "DA+RO",
@@ -63534,7 +63730,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*82",
@@ -63548,7 +63744,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*82",
@@ -63563,7 +63759,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -63578,7 +63774,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -63593,7 +63789,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -63608,7 +63804,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -63623,7 +63819,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -63638,7 +63834,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "ZE",
@@ -63654,7 +63850,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -63672,7 +63868,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -63688,7 +63884,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86-RO",
@@ -63702,7 +63898,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86-RO",
@@ -63716,7 +63912,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86-RO",
@@ -63730,7 +63926,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86-RO",
@@ -63746,7 +63942,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -63762,7 +63958,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*371",
@@ -63812,7 +64008,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -63828,7 +64024,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -63859,7 +64055,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -63877,7 +64073,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "KA-NA-NI-TI",
@@ -63891,7 +64087,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*417-VS",
@@ -63905,7 +64101,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*417-VS",
@@ -63919,7 +64115,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -63933,7 +64129,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -63947,7 +64143,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*409-VS",
@@ -63961,7 +64157,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -63975,7 +64171,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -63989,7 +64185,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64003,7 +64199,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64017,7 +64213,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64031,7 +64227,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64045,7 +64241,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64059,7 +64255,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64073,7 +64269,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64087,7 +64283,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*409-VS",
@@ -64101,7 +64297,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*409-VS",
@@ -64115,7 +64311,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64129,7 +64325,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64143,7 +64339,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64158,7 +64354,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*409-VS",
@@ -64172,7 +64368,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*322",
@@ -64186,7 +64382,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*322",
@@ -64201,7 +64397,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "GAL",
@@ -64216,7 +64412,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -64231,7 +64427,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -64246,7 +64442,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -64261,7 +64457,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -64276,7 +64472,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -64292,7 +64488,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -64308,7 +64504,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -64324,7 +64520,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64339,7 +64535,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64354,7 +64550,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64369,7 +64565,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64384,7 +64580,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64399,7 +64595,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64414,7 +64610,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64429,7 +64625,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64444,7 +64640,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64459,7 +64655,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64473,8 +64669,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "Arkhalkhori",
+                    "Khania",
+                    "Armenoi",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*301+*311",
@@ -64488,8 +64684,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "Arkhalkhori",
+                    "Khania",
+                    "Armenoi",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*301+*311",
@@ -64503,8 +64699,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "Arkhalkhori",
+                    "Khania",
+                    "Armenoi",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*301+*311",
@@ -64518,8 +64714,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "Arkhalkhori",
+                    "Khania",
+                    "Armenoi",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*301+*311",
@@ -64533,8 +64729,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "Arkhalkhori",
+                    "Khania",
+                    "Armenoi",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*301+*311",
@@ -64548,8 +64744,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "Arkhalkhori",
+                    "Khania",
+                    "Armenoi",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*301+*311",
@@ -64563,8 +64759,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "Arkhalkhori",
+                    "Khania",
+                    "Armenoi",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*301+*311",
@@ -64578,8 +64774,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "Arkhalkhori",
+                    "Khania",
+                    "Armenoi",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*301+*311",
@@ -64593,7 +64789,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*805-MI",
@@ -64607,7 +64803,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*805-MI",
@@ -64621,7 +64817,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*337+*188",
@@ -64635,7 +64831,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*337+*188",
@@ -64649,7 +64845,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86+*188",
@@ -64663,7 +64859,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86+*188",
@@ -64677,7 +64873,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86+*188",
@@ -64691,7 +64887,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86+*188",
@@ -64705,7 +64901,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86+*188",
@@ -64719,7 +64915,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86+*188",
@@ -64733,7 +64929,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86+*188",
@@ -64749,8 +64945,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Appears at 3 find sites"
                 ],
                 "transliteratedWord": "CAP",
@@ -64764,7 +64960,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "commodity",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "MI+*301",
@@ -64778,7 +64975,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*805-*351",
@@ -64793,7 +64990,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "head word elsewhere"
@@ -64810,7 +65007,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*338",
@@ -64825,7 +65022,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*338",
@@ -64841,8 +65038,8 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
-                    "GO",
+                    "Khania",
+                    "Gournia",
                     "Appears at 3 find sites",
                     "head word elsewhere"
                 ],
@@ -64858,7 +65055,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "head word elsewhere"
@@ -64888,7 +65085,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*411-VS",
@@ -64902,7 +65099,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*408-VS",
@@ -64945,7 +65142,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64960,7 +65157,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*86+'*188'",
@@ -64975,7 +65172,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -64989,7 +65186,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*322",
@@ -65003,7 +65200,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "commodity",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "MI+*301",
@@ -65017,7 +65215,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "VIR+[?]-*352-JA",
@@ -65032,7 +65230,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -65048,7 +65246,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 2 find sites"
                 ],
@@ -65063,7 +65261,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*408-VS",
@@ -65078,7 +65276,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -65094,7 +65292,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -65110,7 +65308,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "VIR+KA",
@@ -65124,7 +65322,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*86+*188",
@@ -65139,7 +65337,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -65155,7 +65353,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*164",
@@ -65169,8 +65367,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "Arkhalkhori",
+                    "Khania",
+                    "Armenoi",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*301+*311",
@@ -65185,7 +65383,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*408-VS",
@@ -65200,7 +65398,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -65217,7 +65415,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -65236,7 +65434,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*86+'*188'",
@@ -65251,7 +65449,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -65280,7 +65478,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Unique to find site, occurs repeatedly"
                 ],
                 "transliteratedWord": "*408-VS",
@@ -65294,7 +65492,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*810-PI-KA",
@@ -65310,7 +65508,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -65329,12 +65527,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -65603,7 +65801,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -65716,7 +65914,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -65791,7 +65989,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -65950,7 +66148,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -65986,7 +66184,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -66064,7 +66262,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "commodity",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 3 find sites"
@@ -66126,7 +66324,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -66175,7 +66373,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -66260,7 +66458,7 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 4 find sites"
@@ -66294,7 +66492,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -66307,7 +66505,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Appears at 3 find sites"
                 ],
@@ -66350,7 +66548,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -66401,7 +66599,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -66456,7 +66654,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Knossos",
-                    "CR",
+                    "Crete",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "I-JA",
@@ -66501,14 +66699,14 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites",
                     "logogram repeated in Inscription"
                 ],
@@ -66543,14 +66741,14 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites",
                     "logogram repeated in Inscription"
                 ],
@@ -66679,12 +66877,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -66757,13 +66955,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -66786,6 +66984,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Knossos",
                     "Only instance of word"
                 ],
@@ -66814,10 +67013,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -66845,12 +67044,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -66874,13 +67073,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -66897,13 +67096,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -66920,13 +67119,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -66943,12 +67142,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -67195,8 +67394,8 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Knossos",
-                    "MI",
-                    "TH",
+                    "Milos",
+                    "Thera",
                     "Appears at 4 find sites",
                     "head word elsewhere"
                 ],
@@ -67476,10 +67675,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word",
                     "recurring head word"
@@ -67495,7 +67694,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KO",
+                    "Kophinas",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "TU-RU-SA",
@@ -67511,7 +67710,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KO",
+                    "Kophinas",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "DU-*314-RE",
@@ -67527,7 +67726,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KO",
+                    "Kophinas",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "I-DA-A",
@@ -67549,7 +67748,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Appears at 3 find sites"
                 ],
@@ -67572,9 +67771,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
-                    "TL",
-                    "VR",
+                    "Kophinas",
+                    "Troullos",
+                    "Vrysinas",
                     "Apodoulou",
                     "Appears at 5 find sites"
                 ],
@@ -67592,10 +67791,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Syme",
-                    "TL",
-                    "VR",
+                    "Troullos",
+                    "Vrysinas",
                     "Appears at 5 find sites",
                     "head word elsewhere"
                 ],
@@ -67610,7 +67809,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KO",
+                    "Kophinas",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-RA-KO-KU-*79-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA",
@@ -67625,7 +67824,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
-                    "KY",
+                    "Kythera",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "DA-MA-TE",
@@ -67639,7 +67838,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KY",
+                    "Kythera",
                     "Malia",
                     "Appears at 2 find sites"
                 ],
@@ -67654,7 +67853,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "LA",
+                    "Larani",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "JA-TI-TU-KU",
@@ -67766,7 +67965,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "head word elsewhere"
@@ -67834,7 +68033,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "logogram repeated in Inscription",
@@ -67887,7 +68086,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "logogram repeated in Inscription",
@@ -68276,7 +68475,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
                     "Phaistos",
                     "Zakros",
@@ -68586,7 +68785,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KY",
+                    "Kythera",
                     "Malia",
                     "Appears at 2 find sites",
                     "assigned number"
@@ -68643,7 +68842,7 @@ var wordAnnotations =
                     "Iouktas",
                     "Malia",
                     "Phaistos",
-                    "SA",
+                    "Samothrace",
                     "Appears at 4 find sites",
                     "head word elsewhere"
                 ],
@@ -68674,11 +68873,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -68696,8 +68895,8 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Knossos",
-                    "MI",
-                    "TH",
+                    "Milos",
+                    "Thera",
                     "Appears at 4 find sites",
                     "head word"
                 ],
@@ -68726,7 +68925,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "MI",
+                    "Milos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "DU-KA",
@@ -68763,8 +68962,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
-                    "MI",
+                    "Khania",
+                    "Milos",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*401+RO",
@@ -68782,11 +68981,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -68810,7 +69009,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "MI",
+                    "Milos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "KI-RU",
@@ -68829,7 +69028,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "MI",
+                    "Miletos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "PA₃-SI-*47",
@@ -68851,7 +69050,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "MO",
+                    "Mokhilos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*333-SA-MU",
@@ -68866,8 +69065,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "MY",
+                    "Khania",
+                    "Mycenae",
                     "Zakros",
                     "Appears at 4 find sites"
                 ],
@@ -68883,7 +69082,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "MY",
+                    "Mycenae",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "SI+SE",
@@ -68896,7 +69095,7 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "MY",
+                    "Mycenae",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "𐁁",
@@ -68911,8 +69110,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "MY",
+                    "Khania",
+                    "Mycenae",
                     "Zakros",
                     "Appears at 4 find sites"
                 ],
@@ -68930,7 +69129,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "place name",
                     "word",
-                    "NE",
+                    "Nerokurou",
                     "Palaikastro",
                     "Zakros",
                     "Appears at 3 find sites",
@@ -68947,7 +69146,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "PA",
+                    "Papourou",
                     "Only instance of word",
                     "assigned number",
                     "head word"
@@ -68995,7 +69194,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -69022,8 +69221,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -69059,7 +69259,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -69086,8 +69286,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -69392,12 +69593,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -69438,12 +69639,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -69476,10 +69677,10 @@ var wordAnnotations =
                 "tags": [
                     "Petras",
                     "Phaistos",
-                    "TE",
-                    "TR",
+                    "Tel Haror",
+                    "Trypiti",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 6 find sites"
                 ],
                 "transliteratedWord": "≈",
@@ -69507,10 +69708,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -69581,7 +69782,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -69651,7 +69852,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription"
@@ -69685,14 +69886,14 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites"
                 ],
                 "transliteratedWord": "JA",
@@ -69708,7 +69909,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 2 find sites",
                     "logogram repeated in Inscription",
@@ -69734,7 +69935,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -69782,7 +69983,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -69810,7 +70011,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -69830,12 +70031,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -69993,10 +70194,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -70116,7 +70317,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -70186,12 +70387,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -70233,12 +70434,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -70463,10 +70664,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -70525,7 +70726,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "commodity",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 3 find sites"
@@ -70615,7 +70816,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -70643,9 +70844,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -70757,7 +70958,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 2 find sites",
                     "assigned number",
@@ -71004,7 +71205,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -71097,12 +71298,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -71118,7 +71319,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Phaistos",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "A-MI",
@@ -71241,7 +71442,7 @@ var wordAnnotations =
                     "Iouktas",
                     "Malia",
                     "Phaistos",
-                    "SA",
+                    "Samothrace",
                     "Appears at 4 find sites",
                     "head word elsewhere"
                 ],
@@ -71274,7 +71475,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "head word elsewhere"
@@ -71455,13 +71656,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word",
                     "recurring head word"
@@ -71560,7 +71761,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -71580,12 +71781,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -71743,9 +71944,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -71876,7 +72077,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "head word elsewhere"
@@ -71934,12 +72135,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -71959,7 +72160,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
                     "Phaistos",
                     "Zakros",
@@ -72008,7 +72209,7 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 4 find sites",
@@ -72061,7 +72262,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -72181,7 +72382,7 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 4 find sites",
@@ -72337,7 +72538,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -72417,7 +72618,7 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 4 find sites",
@@ -72459,7 +72660,7 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 4 find sites",
@@ -72589,7 +72790,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -72670,7 +72871,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -72698,7 +72899,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -72717,13 +72918,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word",
@@ -72757,13 +72958,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -72779,7 +72980,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Appears at 2 find sites"
                 ],
@@ -72805,10 +73006,10 @@ var wordAnnotations =
                 "tags": [
                     "Petras",
                     "Phaistos",
-                    "TE",
-                    "TR",
+                    "Tel Haror",
+                    "Trypiti",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 6 find sites"
                 ],
                 "transliteratedWord": "≈",
@@ -72822,7 +73023,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "head word elsewhere"
@@ -72840,13 +73041,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -72877,13 +73078,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -72984,12 +73185,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word",
                     "recurring head word"
@@ -73370,7 +73571,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites",
                     "assigned number",
@@ -73395,14 +73596,14 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites",
                     "assigned number"
                 ],
@@ -73467,7 +73668,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "assigned number",
@@ -73494,7 +73695,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -73548,7 +73749,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites"
                 ],
@@ -73693,12 +73894,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -73734,12 +73935,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -73806,10 +74007,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites"
                 ],
                 "transliteratedWord": "RE",
@@ -73857,12 +74058,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -73976,10 +74177,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word",
                     "recurring head word"
@@ -74016,12 +74217,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -74068,7 +74269,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Palaikastro",
-                    "TH",
+                    "Thera",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "A-NE",
@@ -74098,14 +74299,14 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites"
                 ],
                 "transliteratedWord": "JA",
@@ -74145,10 +74346,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -74214,7 +74415,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KE",
+                    "Kea",
                     "Palaikastro",
                     "Appears at 2 find sites"
                 ],
@@ -74231,7 +74432,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Palaikastro",
-                    "TR",
+                    "Traostalos",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "RE-JA",
@@ -74247,7 +74448,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "place name",
                     "word",
-                    "NE",
+                    "Nerokurou",
                     "Palaikastro",
                     "Zakros",
                     "Appears at 3 find sites",
@@ -74285,7 +74486,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -74306,7 +74507,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
-                    "NE",
+                    "Nerokurou",
                     "Palaikastro",
                     "Zakros",
                     "Appears at 3 find sites",
@@ -74375,10 +74576,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites",
                     "assigned number"
                 ],
@@ -74433,11 +74634,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "head word elsewhere"
                 ],
@@ -74454,13 +74655,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -74522,10 +74723,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -74543,7 +74744,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "PL",
+                    "Platanos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "WI-TE-JA-MU",
@@ -74559,7 +74760,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "PL",
+                    "Platanos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "U-QE-TI",
@@ -74576,9 +74777,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "PL",
-                    "Pseira",
-                    "TL",
+                    "Platanos",
+                    "Psykhro",
+                    "Troullos",
                     "Palaikastro",
                     "Appears at 5 find sites",
                     "head word elsewhere"
@@ -74596,7 +74797,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "PL",
+                    "Platanos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "TA-NU-NI-KI-NA",
@@ -74612,7 +74813,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "PL",
+                    "Platanos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "NI-NU-NI",
@@ -74648,10 +74849,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -74673,7 +74874,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "PO",
+                    "Poros Herakleiou",
                     "Only instance of word",
                     "head word"
                 ],
@@ -74695,7 +74896,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "PR",
+                    "Prassa",
                     "Only instance of word",
                     "head word"
                 ],
@@ -74712,7 +74913,7 @@ var wordAnnotations =
                     "place name",
                     "word also in linear b",
                     "word",
-                    "PR",
+                    "Prassa",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "SE-TO-I-JA",
@@ -74726,7 +74927,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "PR",
+                    "Prassa",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-SA-SA-*802-ME",
@@ -74741,7 +74942,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Pseira",
+                    "Psykhro",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "RE-I-KE",
@@ -74755,7 +74956,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Pseira",
+                    "Psykhro",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "TA-NA-I-*301-TI",
@@ -74772,7 +74973,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Pseira",
+                    "Psykhro",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "𐄌-JA-TI",
@@ -74789,9 +74990,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "PL",
-                    "Pseira",
-                    "TL",
+                    "Platanos",
+                    "Psykhro",
+                    "Troullos",
                     "Palaikastro",
                     "Appears at 5 find sites",
                     "head word elsewhere"
@@ -74815,7 +75016,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Pseira",
+                    "Psykhro",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*188-DU-SE",
@@ -74850,7 +75051,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Pseira",
+                    "Psykhro",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*188-A-I",
@@ -74864,7 +75065,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "PY",
+                    "Pyrgos",
                     "Only instance of word",
                     "head word"
                 ],
@@ -74874,7 +75075,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "PY",
+                    "Pyrgos",
                     "Only instance of word",
                     "assigned number"
                 ],
@@ -74899,9 +75100,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites",
                     "assigned number",
@@ -74932,7 +75133,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "head word"
@@ -74951,8 +75152,8 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Kharnia",
-                    "PY",
+                    "Khania",
+                    "Pyrgos",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "I-SI",
@@ -74968,7 +75169,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "PY",
+                    "Pyrgos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "TE-JA",
@@ -74985,7 +75186,7 @@ var wordAnnotations =
                     "Iouktas",
                     "Malia",
                     "Phaistos",
-                    "SA",
+                    "Samothrace",
                     "Appears at 4 find sites",
                     "head word"
                 ],
@@ -74996,7 +75197,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "SA",
+                    "Samothrace",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "SA-RA",
@@ -75011,7 +75212,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -75045,7 +75246,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "SA",
+                    "Samothrace",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*800",
@@ -75059,7 +75260,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "SE",
+                    "Selakanos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "DA-KU",
@@ -75074,12 +75275,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -75101,7 +75302,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "SI",
+                    "Sitia",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "DA-*118",
@@ -75116,7 +75317,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "SK",
+                    "Skhinia",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-MA-RA-NE",
@@ -75138,7 +75339,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "SK",
+                    "Skoteino Cave",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "NA-TU-*301-NE",
@@ -75154,7 +75355,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "SK",
+                    "Skoteino Cave",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "QA-KI-TI",
@@ -75170,10 +75371,10 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word elsewhere"
                 ],
@@ -75208,14 +75409,14 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites"
                 ],
                 "transliteratedWord": "JA",
@@ -75230,10 +75431,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word",
                     "recurring head word"
@@ -75305,10 +75506,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word",
                     "recurring head word"
@@ -75330,10 +75531,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Syme",
-                    "TL",
-                    "VR",
+                    "Troullos",
+                    "Vrysinas",
                     "Appears at 5 find sites",
                     "head word elsewhere"
                 ],
@@ -75349,10 +75550,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word",
                     "recurring head word"
@@ -75462,10 +75663,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word",
                     "recurring head word"
@@ -75557,12 +75758,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -75582,8 +75783,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TE",
+                    "Khania",
+                    "Tel Haror",
                     "Appears at 3 find sites",
                     "head word"
                 ],
@@ -75594,10 +75795,10 @@ var wordAnnotations =
                 "tags": [
                     "Petras",
                     "Phaistos",
-                    "TE",
-                    "TR",
+                    "Tel Haror",
+                    "Trypiti",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 6 find sites"
                 ],
                 "transliteratedWord": "≈",
@@ -75606,7 +75807,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "TE",
+                    "Tel Haror",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "WA-TE",
@@ -75616,10 +75817,10 @@ var wordAnnotations =
                 "tags": [
                     "Petras",
                     "Phaistos",
-                    "TE",
-                    "TR",
+                    "Tel Haror",
+                    "Trypiti",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 6 find sites"
                 ],
                 "transliteratedWord": "≈",
@@ -75630,12 +75831,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -75653,9 +75854,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -75676,10 +75877,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -75700,10 +75901,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -75723,8 +75924,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
                 ],
@@ -75750,8 +75951,8 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Appears at 3 find sites",
                     "logogram repeated in Inscription"
                 ],
@@ -75782,7 +75983,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "TH",
+                    "Thera",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "TE-ME-DA-I",
@@ -75811,7 +76012,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "TH",
+                    "Thera",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*801",
@@ -75836,7 +76037,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "TH",
+                    "Thera",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "SI-NI",
@@ -75850,7 +76051,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "TH",
+                    "Thera",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-RE-SA-NA",
@@ -75866,7 +76067,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Palaikastro",
-                    "TH",
+                    "Thera",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "A-NE",
@@ -75883,7 +76084,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word also in linear b",
                     "word",
-                    "TH",
+                    "Thera",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-RE",
@@ -75898,8 +76099,8 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "assigned number",
@@ -75921,8 +76122,8 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Knossos",
-                    "MI",
-                    "TH",
+                    "Milos",
+                    "Thera",
                     "Appears at 4 find sites",
                     "assigned number",
                     "always assigned number",
@@ -75947,7 +76148,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "TH",
+                    "Thera",
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
@@ -75966,8 +76167,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Appears at 2 find sites",
                     "assigned number",
                     "always assigned number"
@@ -75987,10 +76188,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -76014,8 +76215,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "JE",
@@ -76029,7 +76230,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "TH",
+                    "Thera",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-JE",
@@ -76043,7 +76244,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "TH",
+                    "Thera",
                     "Only instance of word",
                     "assigned number",
                     "head word"
@@ -76061,7 +76262,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "TH",
+                    "Thera",
                     "Only instance of word",
                     "assigned number"
                 ],
@@ -76085,7 +76286,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "TI",
+                    "Tiryns",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "*301-SI",
@@ -76100,10 +76301,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Syme",
-                    "TL",
+                    "Troullos",
                     "Appears at 5 find sites",
                     "head word",
                     "recurring head word"
@@ -76121,7 +76322,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "TL",
+                    "Troullos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "O-SU-QA-RE",
@@ -76143,9 +76344,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "PL",
-                    "Pseira",
-                    "TL",
+                    "Platanos",
+                    "Psykhro",
+                    "Troullos",
                     "Palaikastro",
                     "Appears at 5 find sites",
                     "head word elsewhere"
@@ -76169,7 +76370,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "TL",
+                    "Troullos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "U-NA-KA-NA",
@@ -76179,9 +76380,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
-                    "TL",
-                    "VR",
+                    "Kophinas",
+                    "Troullos",
+                    "Vrysinas",
                     "Apodoulou",
                     "Appears at 5 find sites"
                 ],
@@ -76192,10 +76393,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Syme",
-                    "TL",
-                    "VR",
+                    "Troullos",
+                    "Vrysinas",
                     "Appears at 5 find sites",
                     "head word elsewhere"
                 ],
@@ -76213,7 +76414,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Palaikastro",
-                    "TR",
+                    "Traostalos",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "RE-JA",
@@ -76227,7 +76428,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "TR",
+                    "Troy",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "PI-MI-TA-TI-RA₂",
@@ -76241,7 +76442,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "TR",
+                    "Troy",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "DU-MI-TA-TI-RA₂",
@@ -76257,7 +76458,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "TR",
+                    "Trypiti",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "NE-MI",
@@ -76267,10 +76468,10 @@ var wordAnnotations =
                 "tags": [
                     "Petras",
                     "Phaistos",
-                    "TE",
-                    "TR",
+                    "Tel Haror",
+                    "Trypiti",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 6 find sites"
                 ],
                 "transliteratedWord": "≈",
@@ -76281,7 +76482,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "TR",
+                    "Trypiti",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "MI-NE",
@@ -76456,7 +76657,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Tylissos",
@@ -76610,6 +76811,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -76645,6 +76847,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -76691,6 +76894,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Tylissos",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -76724,6 +76928,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -76740,6 +76945,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -76787,7 +76993,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Tylissos",
                     "Appears at 3 find sites",
                     "head word elsewhere"
@@ -76814,6 +77020,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -76840,6 +77047,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Tylissos",
                     "Only instance of word",
                     "assigned number"
@@ -76872,6 +77080,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Tylissos",
                     "Only instance of word",
                     "assigned number"
@@ -76894,6 +77103,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Tylissos",
                     "Unique to find site, occurs repeatedly",
                     "logogram repeated in Inscription",
@@ -76975,6 +77185,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -76999,6 +77210,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -77036,10 +77248,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -77103,9 +77315,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -77130,6 +77342,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -77176,6 +77389,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -77221,6 +77435,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -77246,6 +77461,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites",
@@ -77271,6 +77487,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Appears at 2 find sites"
@@ -77337,7 +77554,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -77385,9 +77602,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Iouktas",
-                    "KO",
-                    "TL",
-                    "VR",
+                    "Kophinas",
+                    "Troullos",
+                    "Vrysinas",
                     "Apodoulou",
                     "Appears at 5 find sites"
                 ],
@@ -77403,10 +77620,10 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Syme",
-                    "TL",
-                    "VR",
+                    "Troullos",
+                    "Vrysinas",
                     "Appears at 5 find sites",
                     "head word elsewhere"
                 ],
@@ -77429,7 +77646,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "head word",
@@ -77471,12 +77688,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -77506,7 +77723,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
@@ -77562,7 +77779,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -77575,7 +77792,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -77664,7 +77881,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "KE",
+                    "Kea",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -77684,9 +77901,9 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "SE",
@@ -77939,13 +78156,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word elsewhere"
                 ],
@@ -77968,7 +78185,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 2 find sites",
                     "head word"
@@ -78205,7 +78422,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "TH",
+                    "Thera",
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
@@ -78334,10 +78551,10 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Iouktas",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Palaikastro",
-                    "PL",
+                    "Platanos",
                     "Zakros",
                     "Appears at 7 find sites"
                 ],
@@ -78376,8 +78593,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -78460,9 +78678,9 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 5 find sites"
                 ],
@@ -78506,8 +78724,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -78541,8 +78760,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -78564,6 +78784,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Zakros",
                     "Only instance of word",
                     "assigned number"
@@ -78595,8 +78816,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -78843,12 +79065,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites",
                     "assigned number"
                 ],
@@ -78911,7 +79133,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KE",
+                    "Kea",
                     "Zakros",
                     "Appears at 2 find sites",
                     "word repeated in Inscription"
@@ -79030,7 +79252,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KE",
+                    "Kea",
                     "Zakros",
                     "Appears at 2 find sites",
                     "word repeated in Inscription"
@@ -79070,7 +79292,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 2 find sites"
                 ],
@@ -79087,7 +79309,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -79326,7 +79548,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -79746,10 +79968,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -79814,7 +80036,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "head word elsewhere"
@@ -79838,8 +80060,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -79868,13 +80091,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -79961,13 +80184,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -79992,6 +80215,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Zakros",
                     "Only instance of word",
                     "assigned number"
@@ -80016,7 +80240,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -80033,8 +80257,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -80127,7 +80352,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "head word elsewhere"
@@ -80166,8 +80391,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -80232,7 +80458,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -80257,7 +80483,7 @@ var wordAnnotations =
                     "transaction term",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -80274,8 +80500,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -80331,7 +80558,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -80361,7 +80588,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "head word elsewhere"
@@ -80386,7 +80613,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
                     "Phaistos",
                     "Zakros",
@@ -80442,7 +80669,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -80469,7 +80696,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -80499,7 +80726,7 @@ var wordAnnotations =
                     "Malia",
                     "Phaistos",
                     "Palaikastro",
-                    "PY",
+                    "Pyrgos",
                     "Zakros",
                     "Appears at 6 find sites",
                     "assigned number",
@@ -80524,7 +80751,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
                     "Phaistos",
                     "Zakros",
@@ -80617,7 +80844,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
@@ -80804,6 +81031,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Zakros",
                     "Appears at 2 find sites",
@@ -80867,6 +81095,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Zakros",
                     "Only instance of word"
                 ],
@@ -81044,13 +81273,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -81108,13 +81337,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -81138,8 +81367,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 2 find sites",
                     "assigned number"
                 ],
@@ -81178,12 +81408,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -81215,7 +81445,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -81242,8 +81472,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "MY",
+                    "Khania",
+                    "Mycenae",
                     "Zakros",
                     "Appears at 4 find sites"
                 ],
@@ -81361,8 +81591,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites",
@@ -81396,7 +81627,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -81428,6 +81659,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
                     "Tylissos",
                     "Zakros",
@@ -81440,7 +81672,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "KE",
+                    "Kea",
                     "Zakros",
                     "Appears at 2 find sites"
                 ],
@@ -81519,7 +81751,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 2 find sites"
                 ],
@@ -81619,8 +81851,9 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -81838,8 +82071,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "head word elsewhere"
@@ -81862,7 +82095,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -81921,7 +82154,7 @@ var wordAnnotations =
                     "transaction sign",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
@@ -81974,12 +82207,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -82023,7 +82256,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "place name",
                     "word",
-                    "NE",
+                    "Nerokurou",
                     "Palaikastro",
                     "Zakros",
                     "Appears at 3 find sites",
@@ -82045,9 +82278,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -82209,7 +82442,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Appears at 3 find sites"
                 ],
@@ -82376,7 +82609,7 @@ var wordAnnotations =
                 "tags": [
                     "place name",
                     "word",
-                    "NE",
+                    "Nerokurou",
                     "Palaikastro",
                     "Zakros",
                     "Appears at 3 find sites",
@@ -82392,7 +82625,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -82442,10 +82675,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -82504,7 +82737,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Zakros",
-                    "MI",
+                    "Miletos",
                     "Appears at 2 find sites",
                     "head word"
                 ],
@@ -82582,9 +82815,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -82737,8 +82970,9 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Petras",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -82792,8 +83026,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
-                    "TH",
+                    "Khania",
+                    "Thera",
                     "Zakros",
                     "Appears at 4 find sites",
                     "head word elsewhere"
@@ -82825,7 +83059,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -82982,14 +83216,14 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites"
                 ],
                 "transliteratedWord": "JA",
@@ -83060,7 +83294,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -83078,7 +83312,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Appears at 4 find sites"
@@ -83095,12 +83329,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "head word elsewhere"
                 ],
@@ -83149,13 +83383,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word",
@@ -83312,7 +83546,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -83379,7 +83613,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -83400,14 +83634,14 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites"
                 ],
                 "transliteratedWord": "JA",
@@ -83462,9 +83696,9 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Iouktas",
-                    "KO",
-                    "TL",
-                    "VR",
+                    "Kophinas",
+                    "Troullos",
+                    "Vrysinas",
                     "Apodoulou",
                     "Appears at 5 find sites"
                 ],
@@ -83587,7 +83821,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -83601,10 +83835,10 @@ var wordAnnotations =
                 "tags": [
                     "Petras",
                     "Phaistos",
-                    "TE",
-                    "TR",
+                    "Tel Haror",
+                    "Trypiti",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 6 find sites"
                 ],
                 "transliteratedWord": "≈",
@@ -83612,6 +83846,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "commodity",
                     "word",
                     "Arkhalkhori",
                     "Only instance of word"
@@ -83669,9 +83904,9 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "KE",
-                    "Kharnia",
-                    "TH",
+                    "Kea",
+                    "Khania",
+                    "Thera",
                     "Tylissos",
                     "Zakros",
                     "Arkhalkhori",
@@ -83711,7 +83946,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites"
                 ],
@@ -83758,7 +83993,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 4 find sites",
@@ -83839,12 +84074,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -83877,12 +84112,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -83971,7 +84206,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Iouktas",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
@@ -84154,7 +84389,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -84312,7 +84547,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -84346,7 +84581,7 @@ var wordAnnotations =
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SA",
+                    "Samothrace",
                     "Zakros",
                     "AN",
                     "Arkhalkhori",
@@ -84397,7 +84632,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites"
                 ],
@@ -84423,7 +84658,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -84460,7 +84695,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -84499,7 +84734,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -84529,10 +84764,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -84579,10 +84814,10 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Petras",
-                    "TH",
+                    "Thera",
                     "Tylissos",
                     "Arkhalkhori",
                     "Appears at 7 find sites",
@@ -84611,13 +84846,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -84682,10 +84917,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Phaistos",
-                    "PL",
-                    "TH",
+                    "Platanos",
+                    "Thera",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 7 find sites"
@@ -84705,10 +84940,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites",
                     "assigned number"
                 ],
@@ -84731,12 +84966,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -84883,10 +85118,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites",
                     "assigned number"
                 ],
@@ -85075,7 +85310,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Zakros",
                     "Arkhalkhori",
@@ -85126,12 +85361,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "Haghia Triada",
-                    "KA",
-                    "Kharnia",
+                    "Kannia",
+                    "Khania",
                     "Petras",
                     "Phaistos",
                     "Palaikastro",
-                    "SI",
+                    "Sitia",
                     "Syme",
                     "Zakros",
                     "Arkhalkhori",
@@ -85183,7 +85418,7 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Tylissos",
                     "Arkhalkhori",
@@ -85258,8 +85493,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Arkhalkhori",
                     "Appears at 3 find sites",
                     "assigned number"
@@ -85313,10 +85549,10 @@ var wordAnnotations =
                 "tags": [
                     "Petras",
                     "Phaistos",
-                    "TE",
-                    "TR",
+                    "Tel Haror",
+                    "Trypiti",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 6 find sites"
                 ],
                 "transliteratedWord": "≈",
@@ -85341,7 +85577,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Arkhalkhori",
-                    "FO",
+                    "Fourni",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*306-TA-JE",
@@ -85393,8 +85629,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Kharnia",
-                    "Arkhalkhori",
+                    "Khania",
+                    "Armenoi",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*301+*311",
@@ -85408,7 +85644,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "CR",
+                    "Crete",
                     "Only instance of word",
                     "head word"
                 ],
@@ -85425,7 +85661,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "CR",
+                    "Crete",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "KA-NI-JA-MI",
@@ -85442,7 +85678,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Knossos",
-                    "CR",
+                    "Crete",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "I-JA",
@@ -85458,7 +85694,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "CR",
+                    "Crete",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "QA-KI-SE-NU-TI",
@@ -85474,7 +85710,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "CR",
+                    "Crete",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-TA-DE",
@@ -85489,14 +85725,14 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Syme",
                     "Zakros",
                     "Apodoulou",
-                    "CR",
+                    "Crete",
                     "Appears at 9 find sites"
                 ],
                 "transliteratedWord": "JA",
@@ -85513,13 +85749,13 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 8 find sites",
                     "head word",
                     "recurring head word"
@@ -85531,10 +85767,10 @@ var wordAnnotations =
                 "tags": [
                     "Petras",
                     "Phaistos",
-                    "TE",
-                    "TR",
+                    "Tel Haror",
+                    "Trypiti",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 6 find sites"
                 ],
                 "transliteratedWord": "≈",
@@ -85545,12 +85781,12 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
-                    "TE",
+                    "Tel Haror",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 7 find sites"
                 ],
                 "transliteratedWord": "NI",
@@ -85560,10 +85796,10 @@ var wordAnnotations =
                 "tags": [
                     "Petras",
                     "Phaistos",
-                    "TE",
-                    "TR",
+                    "Tel Haror",
+                    "Trypiti",
                     "Arkhalkhori",
-                    "CR",
+                    "Crete",
                     "Appears at 6 find sites"
                 ],
                 "transliteratedWord": "≈",
@@ -85572,8 +85808,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
+                    "commodity",
                     "Zakros",
-                    "CR",
+                    "Crete",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "VIN+RA",
@@ -85587,7 +85824,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "CR",
+                    "Crete",
                     "Only instance of word",
                     "head word"
                 ],
@@ -85603,7 +85840,7 @@ var wordAnnotations =
                 "tags": [
                     "word also in linear b",
                     "word",
-                    "CR",
+                    "Crete",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-RO-TE",
@@ -85618,7 +85855,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Arkhalkhori",
-                    "FO",
+                    "Fourni",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*306-TA-JE",
@@ -85648,12 +85885,12 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "head word elsewhere"
@@ -85671,11 +85908,11 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Malia",
-                    "MI",
+                    "Milos",
                     "Palaikastro",
-                    "GO",
+                    "Gournia",
                     "Appears at 6 find sites",
                     "assigned number",
                     "head word elsewhere"
@@ -85700,12 +85937,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Knossos",
                     "Phaistos",
                     "Palaikastro",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 7 find sites",
                     "logogram repeated in Inscription",
                     "assigned number",
@@ -85731,7 +85968,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "GO",
+                    "Gournia",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DA",
@@ -85745,7 +85982,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "GO",
+                    "Gournia",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "SI-DA-RO",
@@ -85772,9 +86009,9 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Zakros",
-                    "GO",
+                    "Gournia",
                     "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "SE",
@@ -85858,7 +86095,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Haghia Triada",
-                    "GO",
+                    "Gournia",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "DA",
@@ -85869,10 +86106,10 @@ var wordAnnotations =
                     "logogram",
                     "transaction sign",
                     "Haghia Triada",
-                    "Kharnia",
+                    "Khania",
                     "Palaikastro",
                     "Arkhalkhori",
-                    "GO",
+                    "Gournia",
                     "Appears at 5 find sites"
                 ],
                 "transliteratedWord": "RE",
@@ -85890,7 +86127,7 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "GO",
+                    "Gournia",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "SE-SI",
@@ -85922,7 +86159,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "GO",
+                    "Gournia",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "A-SA-SU-MA-I-SE",
@@ -85938,8 +86175,8 @@ var wordAnnotations =
                     "commodity",
                     "word",
                     "Haghia Triada",
-                    "Kharnia",
-                    "GO",
+                    "Khania",
+                    "Gournia",
                     "Appears at 3 find sites",
                     "assigned number",
                     "head word"
@@ -85962,7 +86199,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "GO",
+                    "Gournia",
                     "Only instance of word",
                     "head word"
                 ],
@@ -85972,7 +86209,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "GO",
+                    "Gournia",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "𐄑,𐄈",
@@ -85986,7 +86223,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "MI",
+                    "Miletos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "PA₃-PU₂",
@@ -86001,7 +86238,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Zakros",
-                    "MI",
+                    "Miletos",
                     "Appears at 2 find sites",
                     "head word elsewhere"
                 ],
@@ -86016,7 +86253,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "MI",
+                    "Miletos",
                     "Only instance of word"
                 ],
                 "transliteratedWord": "RE-*86",
@@ -86031,7 +86268,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Phaistos",
-                    "Kharnia",
+                    "Khania",
                     "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "A-MI",
@@ -86046,9 +86283,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "PL",
-                    "Pseira",
-                    "TL",
+                    "Platanos",
+                    "Psykhro",
+                    "Troullos",
                     "Palaikastro",
                     "Appears at 5 find sites",
                     "head word",
@@ -86066,7 +86303,7 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Iouktas",
-                    "KO",
+                    "Kophinas",
                     "Palaikastro",
                     "Appears at 3 find sites"
                 ],

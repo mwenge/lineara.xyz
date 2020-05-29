@@ -198,96 +198,99 @@ function showInscriptionApparatus(inscription) {
     apparatusBox.addEventListener("click", makeHideElements([apparatusBox]));
     apparatusBox.style.display = "block";
 
-    var findSpots = [
-      {
-        "imageName": "./images/Hagia-Triada-Royal-Villa-Magazine.jpg" ,
-        "tag": "Villa Magazine" ,
-        "title": "Hagia Triada Villa Magazine Area",
-        "roomMap": magazineRooms,
-        "productMap": magazineRoomForProduct,
-        "findSpot": "59"
-      },
-      {
-        "imageName": "./images/Hagia-Triada-Portico.jpg" ,
-        "tag": "Portico 11 and Room 13" ,
-        "title": "Hagia Triada Villa Portico Area",
-        "roomMap": porticoRooms,
-        "productMap": null,
-        "findSpot": "findspot"
-      },
-      {
-        "imageName": "./images/Hagia-Triada-Royal-Villa-Magazine.jpg" ,
-        "tag": "Villa Magazine Room 5" ,
-        "title": "Hagia Triada Villa Magazine Area",
-        "roomMap": magazineRooms,
-        "productMap": magazineRoomForProduct,
-        "findSpot": "5"
-      },
-      {
-        "imageName": "./images/Hagia-Triada-Plan.jpg" ,
-        "tag": "Corridor 9 and Vestibule 26" ,
-        "title": "Hagia Triada",
-        "roomMap": mainPlanRooms,
-        "productMap": null,
-        "findSpot": "9"
-      },
-      {
-        "imageName": "./images/CasaDelLebete.jpg" ,
-        "tag": "Casa Room 9" ,
-        "title": "Hagia Triada 'Casa del Lebete'",
-        "roomMap": casaDelLebeteRooms,
-        "productMap": null,
-        "findSpot": "9"
-      },
-      {
-        "imageName": "./images/CasaDelLebete.jpg" ,
-        "tag": "Casa Room 7" ,
-        "title": "Hagia Triada 'Casa del Lebete'",
-        "roomMap": casaDelLebeteRooms,
-        "productMap": null,
-        "findSpot": "7"
-      },
-      {
-        "imageName": "./images/CasaDelLebete.jpg" ,
-        "tag": "Casa del Lebete" ,
-        "title": "Hagia Triada 'Casa del Lebete'",
-        "roomMap": casaDelLebeteRooms,
-        "productMap": null,
-        "findSpot": null
-      },
-      {
-        "imageName": "./images/Malia-Plan2.jpg" ,
-        "tag": "Malia Palace Room III 8" ,
-        "title": "Malia Palace",
-        "roomMap": maliaRooms,
-        "productMap": null,
-        "findSpot": "8"
-      },
-      {
-        "imageName": "./images/Malia-Plan2.jpg" ,
-        "tag": "Malia South NW Corridor" ,
-        "title": "Malia Palace",
-        "roomMap": maliaRooms,
-        "productMap": null,
-        "findSpot": "NW"
-      },
-      {
-        "imageName": "./images/Malia-Plan2.jpg" ,
-        "tag": "Bastion E" ,
-        "title": "Malia Palace",
-        "roomMap": maliaRooms,
-        "productMap": null,
-        "findSpot": "E"
-      },
-    ];
-    findSpots.forEach(f => appendFindspotAnimation(inscription, f));
 
+    appendFindSpots();
     appendYoungerCommentaryForInscription(inscription);
     appendCommentaryForInscription(inscription);
 
     inscriptionElement.appendChild(apparatusBox);
 
 
+    function appendFindSpots() {
+      var findSpots = [
+        {
+          "imageName": "./images/Hagia-Triada-Royal-Villa-Magazine.jpg" ,
+          "tag": "Villa Magazine" ,
+          "title": "Hagia Triada Villa Magazine Area",
+          "roomMap": magazineRooms,
+          "productMap": magazineRoomForProduct,
+          "findSpot": "59"
+        },
+        {
+          "imageName": "./images/Hagia-Triada-Portico.jpg" ,
+          "tag": "Portico 11 and Room 13" ,
+          "title": "Hagia Triada Villa Portico Area",
+          "roomMap": porticoRooms,
+          "productMap": null,
+          "findSpot": "findspot"
+        },
+        {
+          "imageName": "./images/Hagia-Triada-Royal-Villa-Magazine.jpg" ,
+          "tag": "Villa Magazine Room 5" ,
+          "title": "Hagia Triada Villa Magazine Area",
+          "roomMap": magazineRooms,
+          "productMap": magazineRoomForProduct,
+          "findSpot": "5"
+        },
+        {
+          "imageName": "./images/Hagia-Triada-Plan.jpg" ,
+          "tag": "Corridor 9 and Vestibule 26" ,
+          "title": "Hagia Triada",
+          "roomMap": mainPlanRooms,
+          "productMap": null,
+          "findSpot": "9"
+        },
+        {
+          "imageName": "./images/CasaDelLebete.jpg" ,
+          "tag": "Casa Room 9" ,
+          "title": "Hagia Triada 'Casa del Lebete'",
+          "roomMap": casaDelLebeteRooms,
+          "productMap": null,
+          "findSpot": "9"
+        },
+        {
+          "imageName": "./images/CasaDelLebete.jpg" ,
+          "tag": "Casa Room 7" ,
+          "title": "Hagia Triada 'Casa del Lebete'",
+          "roomMap": casaDelLebeteRooms,
+          "productMap": null,
+          "findSpot": "7"
+        },
+        {
+          "imageName": "./images/CasaDelLebete.jpg" ,
+          "tag": "Casa del Lebete" ,
+          "title": "Hagia Triada 'Casa del Lebete'",
+          "roomMap": casaDelLebeteRooms,
+          "productMap": null,
+          "findSpot": null
+        },
+        {
+          "imageName": "./images/Malia-Plan2.jpg" ,
+          "tag": "Malia Palace Room III 8" ,
+          "title": "Malia Palace",
+          "roomMap": maliaRooms,
+          "productMap": null,
+          "findSpot": "8"
+        },
+        {
+          "imageName": "./images/Malia-Plan2.jpg" ,
+          "tag": "Malia South NW Corridor" ,
+          "title": "Malia Palace",
+          "roomMap": maliaRooms,
+          "productMap": null,
+          "findSpot": "NW"
+        },
+        {
+          "imageName": "./images/Malia-Plan2.jpg" ,
+          "tag": "Bastion E" ,
+          "title": "Malia Palace",
+          "roomMap": maliaRooms,
+          "productMap": null,
+          "findSpot": "E"
+        },
+      ];
+      findSpots.forEach(f => appendFindspotAnimation(inscription, f));
+    }
     function appendFindspotAnimation(inscription, config) {
       var findspot = inscriptions.get(inscription).findspot;
       if (findspot != config.tag) {
@@ -372,20 +375,25 @@ function showInscriptionApparatus(inscription) {
         return;
       }
 
-      var commentBox = document.createElement("iframe")
+      var commentBox = document.createElement("div")
       commentBox.className = 'comment-box';
       commentBox.id = 'mycomment-box-' + inscription;
-      commentBox.src = commentaries[inscription];
-      commentBox.height = "400px";
-      commentBox.addEventListener("click", makeHideElements([commentBox]));
+      commentBox.addEventListener("click", makeHideElements([apparatusBox]));
       apparatusBox.appendChild(commentBox);
+
+      var iframe = document.createElement("iframe")
+      iframe.src = commentaries[inscription];
+      iframe.height = "400px";
+      iframe.style.width = "100%";
+      iframe.addEventListener("click", makeHideElements([iframe]));
+      commentBox.appendChild(iframe);
     }
 
     function appendYoungerCommentaryForInscription(inscription) {
       var commentBox = document.createElement("div")
       commentBox.className = 'comment-box';
       commentBox.id = 'comment-box-' + inscription;
-      commentBox.addEventListener("click", makeHideElements([commentBox]));
+      commentBox.addEventListener("click", makeHideElements([apparatusBox]));
       apparatusBox.appendChild(commentBox);
 
       inscription = inscription.replace(/[a-z]$/g, "");

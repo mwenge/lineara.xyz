@@ -398,7 +398,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT6a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -529,7 +529,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT6b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -621,7 +621,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT7a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -698,7 +698,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT7b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -736,7 +736,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT8a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -828,7 +828,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT8b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -926,7 +926,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT9a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -1057,7 +1057,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT9b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -1179,7 +1179,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT10a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -1298,7 +1298,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT10b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -1378,7 +1378,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT11a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -1464,7 +1464,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT11b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -2472,7 +2472,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT23a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -2624,7 +2624,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT23b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -2713,7 +2713,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT24a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Corridor 9 and Vestibule 26",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -2793,7 +2793,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT24b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Corridor 9 and Vestibule 26",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -2846,7 +2846,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT25a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -2959,7 +2959,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT25b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -3036,7 +3036,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT26a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -3107,7 +3107,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT26b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -3196,7 +3196,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT27a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -3360,7 +3360,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT27b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -3512,7 +3512,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT28a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -3673,7 +3673,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT28b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5112,7 +5112,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT41a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5201,7 +5201,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT41b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5417,7 +5417,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT44a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5506,7 +5506,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT44b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5577,7 +5577,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT45a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5645,7 +5645,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT45b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5773,7 +5773,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT46a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5820,7 +5820,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT46b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5867,7 +5867,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT47a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5950,7 +5950,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT47b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -5982,7 +5982,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT49a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6176,7 +6176,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT49b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6241,7 +6241,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT50a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6345,7 +6345,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT50b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6398,7 +6398,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT51a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6472,7 +6472,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT51b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6528,7 +6528,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT52a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6587,7 +6587,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT52b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6634,7 +6634,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT53a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6702,7 +6702,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT53b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6758,7 +6758,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT54a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6808,7 +6808,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT54b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6858,7 +6858,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT55a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -6941,7 +6941,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT55b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -7003,7 +7003,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT56a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -7059,7 +7059,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT56b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -7106,7 +7106,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT57a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -7156,7 +7156,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT57b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -8541,7 +8541,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT85a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -8654,7 +8654,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT85b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -8782,7 +8782,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT86a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -8886,7 +8886,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT86b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -9578,7 +9578,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT93a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -9781,7 +9781,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT93b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -9816,7 +9816,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT94a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -9968,7 +9968,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT94b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -10087,7 +10087,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT95a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -10173,7 +10173,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT95b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -10268,7 +10268,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT96a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -10405,7 +10405,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT96b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -10488,7 +10488,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT97a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -10646,7 +10646,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT97b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -10672,7 +10672,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT98a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -10761,7 +10761,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT98b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -10811,7 +10811,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT99a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -10885,7 +10885,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT99b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -11879,7 +11879,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT110a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -11944,7 +11944,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT110b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12048,7 +12048,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT111a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12125,7 +12125,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT111b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12196,7 +12196,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT112a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12240,7 +12240,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT112b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12343,7 +12343,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT113ter-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 7",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [
@@ -12381,7 +12381,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT114a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12455,7 +12455,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT114b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12484,7 +12484,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT115a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12606,7 +12606,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT115b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12719,7 +12719,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT116a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12910,7 +12910,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT116b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -12960,7 +12960,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT117a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -13160,7 +13160,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT117b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -13614,7 +13614,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT122a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -13808,7 +13808,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT122b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -13909,7 +13909,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT123+124a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [
@@ -14115,7 +14115,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT123+124b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [
@@ -14246,7 +14246,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT125a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -14329,7 +14329,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT125b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -14409,7 +14409,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT126a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -14510,7 +14510,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT126b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -14590,7 +14590,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT127a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -14634,7 +14634,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT127b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -14741,7 +14741,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT128a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -14848,7 +14848,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT128b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -15106,7 +15106,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT131a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -15189,7 +15189,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT131b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -15372,7 +15372,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT135a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -15443,7 +15443,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT135b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16209,7 +16209,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16271,7 +16271,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16300,7 +16300,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154c-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16341,7 +16341,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154e-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16385,7 +16385,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154g-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16420,7 +16420,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154ja-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16464,7 +16464,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154jb-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16502,7 +16502,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154k-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16546,7 +16546,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154l-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16578,7 +16578,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154m-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -16610,7 +16610,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HT154n-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -17335,7 +17335,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTWa1021bis-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [
@@ -39825,7 +39825,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTZb158a-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine Room 5",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -39854,7 +39854,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/HTZb158b-Facsimile.jpg"
     ],
-    "findspot": "",
+    "findspot": "Villa Magazine Room 5",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52086,7 +52086,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA1a-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52124,7 +52124,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA1b-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52162,7 +52162,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA1c-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52188,7 +52188,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA2a-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52217,7 +52217,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA2b-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52270,7 +52270,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA2c-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52308,7 +52308,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA4a-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52364,7 +52364,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA4b-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52402,7 +52402,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA6a-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52440,7 +52440,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA6b-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52469,7 +52469,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA6c-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
@@ -52516,7 +52516,7 @@ var inscriptions = new Map([
     "facsimileImages": [
         "images/MA6d-Facsimile.jpg"
     ],
-    "findspot": "Malia Palace Room III 8",
+    "findspot": "",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
