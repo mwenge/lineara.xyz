@@ -163,6 +163,133 @@ function showSearch() {
   }); 
 }
 
+function autocomplete(inp) {
+  /*the autocomplete function takes two arguments,
+    the text field element and an array of possible autocompleted values:*/
+  var currentFocus;
+  var splitter = new GraphemeSplitter();
+  /*execute a function when someone writes in the text field:*/
+  inp.addEventListener("input", function(e) {
+    var a, i, val = this.value;
+    /*close any already open lists of autocompleted values*/
+    closeAllLists();
+
+    this.parentNode.style.visibility = "visible";
+
+    if (!val) { return false;}
+    currentFocus = -1;
+    /*create a DIV element that will contain the items (values):*/
+    a = document.createElement("div");
+    a.setAttribute("id", this.id + "autocomplete-list");
+    a.setAttribute("class", "autocomplete-items");
+    /*append the DIV element as a child of the autocomplete container:*/
+    this.parentNode.appendChild(a);
+
+    var text = event.target.value;
+    var syllables = text.split('-');
+    var textInGlyphs = syllables.map(syllable => syllableToGlyph.has(syllable)
+                                      ? syllableToGlyph.get(syllable) : "").join('');
+    var accumulatedOffset = 0;
+    if (textInGlyphs == "") {
+      return;
+    }
+
+    addEntry(this, a, textInGlyphs, wordsInCorpus.has(textInGlyphs) ? wordsInCorpus.get(textInGlyphs) : 0);
+    wordsInCorpus.forEach( (value, key, map) => {
+      if (key.includes(textInGlyphs) && key != textInGlyphs) {
+        addEntry(this, a, key, value);
+      }
+    });
+
+    function addEntry(e, a, key, value) {
+      /*create a DIV element for each matching element:*/
+      var b = document.createElement("div");
+      b.className = "autocomplete-item"
+
+      var glyphsInText = splitter.splitGraphemes(key).map(glyph => glyphToSyllable.has(glyph)
+                                        ? glyphToSyllable.get(glyph) : "").join('-');
+
+      b.innerHTML = "<div class=\"autocomplete-item-left\">" + key + "</div>";
+      b.innerHTML += "<div class=\"autocomplete-item-right\">" + glyphsInText
+                    + " (" + value + ") </div>";
+      /*insert a input field that will hold the current array item's value:*/
+      b.innerHTML += "<input type='hidden' value='" + key  + "'>";
+      /*execute a function when someone clicks on the item value (DIV element):*/
+      b.addEventListener("click", function(e) {
+        /*insert the value for the autocomplete text field:*/
+        inp.value = this.getElementsByTagName("input")[0].value;
+        inp.focus();
+        /*close the list of autocompleted values,
+          (or any other open lists of autocompleted values:*/
+        closeAllLists();
+      });
+      a.appendChild(b);
+      if (b.previousSibling) {
+        accumulatedOffset += b.previousSibling.offsetHeight; 
+      } else {
+        accumulatedOffset += e.parentNode.offsetHeight; 
+      }
+      b.style.top = "-" + accumulatedOffset + "px"; 
+    }
+  });
+  /*execute a function presses a key on the keyboard:*/
+  inp.addEventListener("keydown", function(e) {
+    var x = document.getElementById(this.id + "autocomplete-list");
+    if (x) x = x.getElementsByClassName("autocomplete-item");
+    if (e.keyCode == 38) {
+      /*If the arrow DOWN key is pressed,
+        increase the currentFocus variable:*/
+      currentFocus++;
+      /*and and make the current item more visible:*/
+      addActive(x);
+    } else if (e.keyCode == 40) { //up
+      /*If the arrow UP key is pressed,
+        decrease the currentFocus variable:*/
+      currentFocus--;
+      /*and and make the current item more visible:*/
+      addActive(x);
+    } else if (e.keyCode == 13) {
+      /*If the ENTER key is pressed, prevent the form from being submitted,*/
+      e.preventDefault();
+      if (currentFocus > -1) {
+        /*and simulate a click on the "active" item:*/
+        if (x) x[currentFocus].click();
+      }
+    }
+  });
+  function addActive(x) {
+    /*a function to classify an item as "active":*/
+    if (!x) return false;
+    /*start by removing the "active" class on all items:*/
+    removeActive(x);
+    if (currentFocus >= x.length) currentFocus = 0;
+    if (currentFocus < 0) currentFocus = (x.length - 1);
+    /*add class "autocomplete-active":*/
+    x[currentFocus].classList.add("autocomplete-active");
+  }
+  function removeActive(x) {
+    /*a function to remove the "active" class from all autocomplete items:*/
+    for (var i = 0; i < x.length; i++) {
+      x[i].classList.remove("autocomplete-active");
+    }
+  }
+  function closeAllLists(elmnt) {
+    /*close all autocomplete lists in the document,
+      except the one passed as an argument:*/
+    var x = document.getElementsByClassName("autocomplete-items");
+    for (var i = 0; i < x.length; i++) {
+      if (elmnt != x[i] && elmnt != inp) {
+        x[i].parentNode.removeChild(x[i]);
+      }
+    }
+  }
+  /*execute a function when someone clicks in the document:*/
+  document.addEventListener("click", function (e) {
+    closeAllLists(e.target);
+  });
+}
+
+
 function closeZoomedWindow(e) {
   zoomItem(null);
   e.stopPropagation();
@@ -1795,6 +1922,7 @@ function loadExplorer() {
   document.getElementById("search-command").addEventListener("click", toggleSearch);
   document.getElementById("help-command").addEventListener("click", sendKey('?'));
   document.getElementById("clear-command").addEventListener("click", sendKey('c'));
+  autocomplete(document.getElementById("search"));
 
   for (var i = 0; i < 10; i++) {
     var key = inscriptionsToLoad.next().value;
