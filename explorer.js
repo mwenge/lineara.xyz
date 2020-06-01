@@ -946,6 +946,7 @@ function loadInscription(inscription) {
   var tagsToAdd = [[[inscription.support], 'activeSupports'],
                    [[inscription.scribe], 'activeScribes'],
                    [[inscription.findspot], 'activeFindspots'],
+                   [[inscription.site], 'activeFindspots'],
                    [contexts.get(inscription.name), 'activeContexts'],
                    [tags.get(inscription.name), 'activeTagValues']]  
                   .filter(w => w[0] != undefined && w[0] != "");
@@ -1544,6 +1545,7 @@ function hasTag(tag, inscription) {
       (contexts.has(inscription.name) && contexts.get(inscription.name).includes(tag)) ||
       inscription.support.includes(tag) ||
       inscription.findspot == tag ||
+      inscription.site == tag ||
       inscription.name.substr(0, 2) == tag ||
       inscription.scribe == tag
       );
