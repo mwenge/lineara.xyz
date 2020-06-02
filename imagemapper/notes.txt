@@ -24,5 +24,7 @@ ZA21a - extra '2' last line
 PE1 - missing fraction third line
 HT42+59 - TE on last line seems wrong.
 LAZb1(bis) - Inscription appears twice not once
+ZA14 - should be ligature
+ZA21a - missing last '2'
 
 
