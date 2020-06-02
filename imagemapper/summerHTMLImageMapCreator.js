@@ -383,14 +383,18 @@ var summerHtmlImageMapCreator = (function() {
                     break;
                 
                 case KEYS.N:
-                    app.saveInLocalStorage();
-                    app.clear()
-                    app.loadNextImage();
+                    if (state.appMode === 'editing' && state.selectedArea) {
+                      app.saveInLocalStorage();
+                      app.clear()
+                      app.loadNextImage();
+                    }
     
                     break;
                 
                 case KEYS.O:
-                    app.download();
+                    if (state.appMode === 'editing' && state.selectedArea) {
+                      app.download();
+                    }
     
                     break;
 
