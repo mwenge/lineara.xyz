@@ -466,7 +466,7 @@ a:link, a:visited {
     margin: 0 auto;
     overflow-wrap: break-word;
 }
-#from_html_wrapper {
+#from_imagemap_wrapper, #from_html_wrapper {
     display: none;
     width: 500px;
     border-radius: 5px;
@@ -478,22 +478,22 @@ a:link, a:visited {
     z-index: 1002;
     color: #FFF;
 }
-#from_html_wrapper .close_button {
+#from_imagemap_wrapper, #from_html_wrapper .close_button {
     background: #000 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAACbgAAAm4Bt/774AAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAABKSURBVAiZdc2xDYAwAAPBA0ViiQxKR6hgCMZjCSpTEAkavnxL7yHJgRPNQ0MtXS6Y+jBjlUSSLS9bEqMfSm/O2D+pq6Bi/ZxfqDfkbiIp0Zzd1AAAAABJRU5ErkJggg==) 50% 50% no-repeat;
     box-shadow: 0 0 1px #EEE inset;
     border-radius: 2px;
 }
-#from_html_form {
+#from_imagemap_form, #from_html_form {
     padding: 20px;
 }
-#from_html_form h5 {
+#from_imagemap_form, #from_html_form h5 {
     margin-bottom: 15px;
 }
-#from_html_form label {
+#from_imagemap_form, #from_html_form label {
     display: block;
     font-size: 12px;
 }
-#from_html_form textarea {
+#from_imagemap_form, #from_html_form textarea {
     border: 0px;
     border-radius: 3px;
     background: #FFF;

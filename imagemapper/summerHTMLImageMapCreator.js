@@ -631,7 +631,9 @@ var summerHtmlImageMapCreator = (function() {
             addObject : function(object) {
                 state.areas.push(object);
                 document.getElementById("rects").textContent = state.areas.length;
-                document.getElementById("inscription").children[state.areas.length - 1].style.color = "red";
+                if (document.getElementById("inscription").children[state.areas.length -1]) {
+                  document.getElementById("inscription").children[state.areas.length - 1].style.color = "red";
+                }
                 return this;
             },
             getNewArea : function() {
@@ -1030,6 +1032,24 @@ var summerHtmlImageMapCreator = (function() {
            .resetNewArea();
         
         return area;
+    };
+
+    /**
+     * Creates new areas from html-string with <area /> elements
+     * 
+     * @param htmlStr {string}
+     * @returns {Array} - array with areas
+     */
+    Area.createAreasFromJSONImageMap = function(imagemap) {
+        console.log(imagemap);
+        for (var area of imagemap) {
+            Area.fromJSON({
+                type : "rectangle",
+                coords : area["coords"],
+                attributes : null
+            });
+        }
+        return true;
     };
 
     /**
@@ -2463,6 +2483,45 @@ var summerHtmlImageMapCreator = (function() {
         };
     })();
 
+    /* Load areas from html code */
+    var from_imagemap_form = (function() {
+        var form = utils.id('from_imagemap_wrapper'),
+            code_input = utils.id('imagemap_code_input'),
+            load_button = utils.id('load_imagemap_code_button'),
+            close_button = form.querySelector('.close_button');
+        
+        function load(e) {
+            var image = "images/" + code_input.value + ".jpg";
+            if (!coordinates.has(image)) {
+              return;
+            }
+            console.log(image);
+            if (Area.createAreasFromJSONImageMap(coordinates.get(image))) {
+                app.loadImage(image);
+                hide();
+            }
+                
+            e.preventDefault();
+        }
+        
+        function hide() {
+            utils.hide(form);
+        }
+        
+        load_button.addEventListener('click', load, false);
+        
+        close_button.addEventListener('click', hide, false);
+        
+        return {
+            show : function() {
+                code_input.value = '';
+                utils.show(form);
+            },
+            hide : hide
+        };
+    })();
+
+
 
     /* Load areas from html code */
     var from_html_form = (function() {
@@ -2738,6 +2797,7 @@ var summerHtmlImageMapCreator = (function() {
             edit = utils.id('edit'),
             clear = utils.id('clear'),
             from_html = utils.id('from_html'),
+            from_imagemap = utils.id('from_imagemap'),
             to_html = utils.id('to_html'),
             preview = utils.id('preview'),
             new_image = utils.id('new_image'),
@@ -2792,6 +2852,13 @@ var summerHtmlImageMapCreator = (function() {
                     .hidePreview();
                 deselectAll();
             }
+            
+            e.preventDefault();
+        }
+        
+        function onFromImageMapButtonClick(e) {
+            // Load areas from html
+            from_imagemap_form.show();
             
             e.preventDefault();
         }
@@ -2874,6 +2941,7 @@ var summerHtmlImageMapCreator = (function() {
         polygon.addEventListener('click', onShapeButtonClick, false);
         clear.addEventListener('click', onClearButtonClick, false);
         from_html.addEventListener('click', onFromHtmlButtonClick, false);
+        from_imagemap.addEventListener('click', onFromImageMapButtonClick, false);
         to_html.addEventListener('click', onToHtmlButtonClick, false);
         preview.addEventListener('click', onPreviewButtonClick, false);
         edit.addEventListener('click', onEditButtonClick, false);
