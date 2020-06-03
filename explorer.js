@@ -489,7 +489,7 @@ function showInscriptionApparatus(inscription) {
             product.id = inscription + "-product-" + i;
             product.textContent = word;
             product.className = "product-tag";
-            product.addEventListener("mouseover", highlightWords(inscription, i));
+            product.addEventListener("mouseenter", highlightWords(inscription, i));
             product.addEventListener("mouseout", clearHighlight(inscription, i));
             productContainer.appendChild(product);
           }
@@ -774,7 +774,7 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, i
       highlight.style.top = ((area.y / img.naturalHeight) * 100) + '%';
       highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
       highlight.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, name));
-      highlight.addEventListener("mouseover", highlightWords(name, currentWord));
+      highlight.addEventListener("mouseenter", highlightWords(name, currentWord));
       highlight.addEventListener("mouseout", clearHighlight(name, currentWord));
       wordContainer.appendChild(highlight);
     }
@@ -924,7 +924,7 @@ function loadInscription(inscription) {
 
       var searchTerm = stripErased(word);
       span.id = inscription.name + "-transcription-" + i;
-      span.addEventListener("mouseover", highlightWords(inscription.name, i));
+      span.addEventListener("mouseenter", highlightWords(inscription.name, i));
       span.addEventListener("mouseout", clearHighlight(inscription.name, i));
       span.addEventListener("click", updateSearchTerms("\"" + span.textContent + "\""));
     }
@@ -1007,7 +1007,7 @@ function populateText(inscription, type, words) {
       span.className = getClassNameForWord(inscription.words[i]);
       span.classList.add("word-frequency-none");
       span.id = inscription.name + "-" + type + "-" + i;
-      span.addEventListener("mouseover", highlightWords(inscription.name, i));
+      span.addEventListener("mouseenter", highlightWords(inscription.name, i));
       span.addEventListener("mouseout", clearHighlight(inscription.name, i));
       span.addEventListener("click", updateSearchTerms("\"" + inscription.words[i] + "\""));
     }
@@ -1369,7 +1369,7 @@ function updateSearchTerms(searchTerm) {
     item.id = "search-for-" + searchTerm;
     item.setAttribute("term", searchTerm);
     item.addEventListener("click", removeFilter);
-    item.addEventListener("mouseover", showWordChart(searchTerm, item));
+    item.addEventListener("mouseenter", showWordChart(searchTerm, item));
     item.addEventListener("mouseout", hideWordChart);
 
     var color = cycleColor();
