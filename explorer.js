@@ -775,6 +775,7 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, i
       highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
       highlight.addEventListener("mousemove", makeMoveLens(lens, img, itemZoom, imageToAdd, name));
       highlight.addEventListener("mouseenter", highlightWords(name, currentWord));
+      highlight.addEventListener("mouseenter", paintHighlightOnZoomImage(itemZoom, img, wordContainer));
       highlight.addEventListener("mouseout", clearHighlight(name, currentWord));
       wordContainer.appendChild(highlight);
     }
@@ -1182,6 +1183,32 @@ function setHighlightLettersInTranscription(name, index, highlight) {
     });
   }
   return highlightedElements;
+}
+
+function paintHighlightOnZoomImage(itemZoom, img, element ) {
+  return function(e) {
+    var canvas = document.createElement('canvas');
+    var ctx = canvas.getContext('2d', {alpha: false});
+
+    var imageWidth = img.naturalWidth;
+    var imageHeight = img.naturalHeight;
+    canvas.width = imageWidth;
+    canvas.height = imageHeight;
+    ctx.drawImage(img, 0, 0, imageWidth, imageHeight);
+
+    for (var index in element.children) {
+      var highlight = element.children.item(index);
+      var x = (imageWidth * parseFloat(highlight.style.left)) / 100
+      var y = (imageHeight * parseFloat(highlight.style.top)) / 100
+      var width = (imageWidth * parseFloat(highlight.style.width)) / 100
+      var height = (imageHeight * parseFloat(highlight.style.height)) / 100
+      ctx.fillStyle = "rgba(255, 255, 0, 0.2)";
+      ctx.fillRect(x, y, width, height);
+    }
+    var dataURI = canvas.toDataURL();
+    console.log("updating");
+    itemZoom.style.backgroundImage = "url('" + dataURI + "')";
+  }
 }
 
 function highlightWords(name, index) {
