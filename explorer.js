@@ -1210,7 +1210,7 @@ function paintHighlightOnZoomImage(itemZoom, img, element ) {
       ctx.fillStyle = "rgba(255, 255, 0, 0.2)";
       ctx.fillRect(x, y, width, height);
       ctx.fillStyle = "black";
-      ctx.lineWidth = 1;
+      ctx.lineWidth = 0.2;
       ctx.strokeRect(x, y, width, height);
     }
     var dataURI = canvas.toDataURL();
