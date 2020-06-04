@@ -782,8 +782,8 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, lens, i
 
     // Highlight any search terms in the image
     var searchTerms = document.getElementById("search-terms");
-    for (index in searchTerms.children) {
-      var searchElement = searchTerms.children.item(index);
+    for (var i = 0; i < searchTerms.children.length; i++) {
+      var searchElement = searchTerms.children[i];
       if (!searchElement) {
         continue;
       }
@@ -1196,14 +1196,22 @@ function paintHighlightOnZoomImage(itemZoom, img, element ) {
     canvas.height = imageHeight;
     ctx.drawImage(img, 0, 0, imageWidth, imageHeight);
 
-    for (var index in element.children) {
-      var highlight = element.children.item(index);
-      var x = (imageWidth * parseFloat(highlight.style.left)) / 100
-      var y = (imageHeight * parseFloat(highlight.style.top)) / 100
-      var width = (imageWidth * parseFloat(highlight.style.width)) / 100
-      var height = (imageHeight * parseFloat(highlight.style.height)) / 100
+    for (var i = 0; i < element.children.length; i++) {
+      var highlight = element.children[i];
+      console.log(highlight);
+      if (highlight.tagName != "DIV") {
+        continue;
+      }
+      console.log("paint");
+      var x = Math.floor((imageWidth * parseFloat(highlight.style.left)) / 100)
+      var y = Math.floor((imageHeight * parseFloat(highlight.style.top)) / 100)
+      var width = Math.floor((imageWidth * parseFloat(highlight.style.width)) / 100)
+      var height = Math.floor((imageHeight * parseFloat(highlight.style.height)) / 100)
       ctx.fillStyle = "rgba(255, 255, 0, 0.2)";
       ctx.fillRect(x, y, width, height);
+      ctx.fillStyle = "black";
+      ctx.lineWidth = 1;
+      ctx.strokeRect(x, y, width, height);
     }
     var dataURI = canvas.toDataURL();
     console.log("updating");
@@ -1220,14 +1228,15 @@ function highlightWords(name, index) {
       if (!element) {
         continue;
       }
-      if (item == "transcription") {
-        addWordTip(element.textContent, name, index);
-      }
       if (element.style.backgroundColor) {
         continue;
       }
-      setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.5)");
       element.style.backgroundColor = "yellow";
+    }
+    setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.5)");
+    if (e.target.className != "letter-highlight") {
+      var element = document.getElementById(name + "-transcription-" + index);
+      addWordTip(element.textContent, name, index);
     }
   }
 }
@@ -1248,9 +1257,9 @@ function clearHighlight(name, index) {
       if (highlightedSearchElements.includes(element)) {
         continue;
       }
-      setHighlightLettersInTranscription(name, index, "");
       element.style.backgroundColor = "";
     }
+    setHighlightLettersInTranscription(name, index, "");
   }
 }
 
@@ -1636,8 +1645,8 @@ function applySearchTerms() {
       inscription.element.style.display = "flex";
     }
 
-    for (var index in searchTerms.children) {
-      var searchElement = searchTerms.children.item(index);
+    for (var i = 0; i < searchTerms.children.length; i++) {
+      var searchElement = searchTerms.children[i];
       if (!searchElement) {
         continue;
       }
