@@ -447,6 +447,10 @@ var toggleFacsimiles = function(e) {
 var filterDetailsContainer = null;
 var activeTags = [];
 function initializeChart() {
+  var supports = [];
+  var scribes = [];
+  var findspots = [];
+
   loadInscriptionLevelTags();
   loadAnnotations();
 
@@ -455,5 +459,43 @@ function initializeChart() {
   container.type = "letter";
   for (var inscription of inscriptions.values()) {
     loadWords(inscription, "letter", container);
+  }
+
+  function loadInscriptionLevelTags() {
+    for (var inscription of inscriptions.values()) {
+      for (var item of [[supports, inscription.support],
+                        [scribes, inscription.scribe],
+                        [findspots, inscription.findspot],
+                        ]) {
+        var tag = item[1];
+        if (!tag) {
+          continue;
+        }
+        if (item[0].includes(tag)) {
+          continue;
+        }
+        item[0].push(tag);
+      }
+    }
+  }
+
+  var wordtags = [];
+  function loadAnnotations() {
+    var collectedWordTags = [];
+    for (var annotation of wordAnnotations) {
+      var inscription = inscriptions.get(annotation.name);
+      inscription.wordTags = [];
+      for (var word of annotation.tagsForWords) {
+        inscription.wordTags.push(word.tags);
+        collectedWordTags.push(...word.tags);
+      }
+    }
+
+    // Dedupe the list
+    wordtags = collectedWordTags.filter((v, i, a) => a.indexOf(v) === i);
+
+    // Filter out the site names
+    var sites = Array.from(inscriptions.values()).map(x => x.site).filter((v, i, a) => a.indexOf(v) === i);
+    wordtags = wordtags.filter((v, i, a) => !sites.includes(v));
   }
 }
