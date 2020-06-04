@@ -183,7 +183,7 @@ function autocomplete(inp) {
     a.setAttribute("id", this.id + "autocomplete-list");
     a.setAttribute("class", "autocomplete-items");
     /*append the DIV element as a child of the autocomplete container:*/
-    this.parentNode.appendChild(a);
+    this.parentNode.insertBefore(a, document.getElementById("search"));
 
     var text = event.target.value;
     var syllables = text.split('-');
@@ -224,12 +224,6 @@ function autocomplete(inp) {
         closeAllLists();
       });
       a.appendChild(b);
-      if (b.previousSibling) {
-        accumulatedOffset += b.previousSibling.offsetHeight; 
-      } else {
-        accumulatedOffset += e.parentNode.offsetHeight; 
-      }
-      b.style.top = "-" + accumulatedOffset + "px"; 
     }
   });
   /*execute a function presses a key on the keyboard:*/

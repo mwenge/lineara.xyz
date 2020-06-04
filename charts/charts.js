@@ -270,6 +270,7 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
       var imgToAdd = document.createElement('img');
       if (cachedImages.has(image)) {
         imgToAdd.src = cachedImages.get(image)[i];
+        span.appendChild(imgToAdd);
       } else {
         var canvas = document.createElement('canvas');
         canvas.height = 40;
@@ -280,10 +281,9 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
         if (dataURI == "data:,") {
           console.log(inscription.name);
         }
-        imgToAdd.src = dataURI;
         imagesToCache[i] = dataURI;
+        span.appendChild(canvas);
       }
-      span.appendChild(imgToAdd);
     }
     if (!cachedImages.has(image)) {
       cachedImages.set(image, imagesToCache);
