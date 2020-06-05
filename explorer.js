@@ -1192,23 +1192,20 @@ function paintHighlightOnZoomImage(itemZoom, img, element ) {
 
     for (var i = 0; i < element.children.length; i++) {
       var highlight = element.children[i];
-      console.log(highlight);
       if (highlight.tagName != "DIV") {
         continue;
       }
-      console.log("paint");
       var x = Math.floor((imageWidth * parseFloat(highlight.style.left)) / 100)
       var y = Math.floor((imageHeight * parseFloat(highlight.style.top)) / 100)
       var width = Math.floor((imageWidth * parseFloat(highlight.style.width)) / 100)
       var height = Math.floor((imageHeight * parseFloat(highlight.style.height)) / 100)
-      ctx.fillStyle = "rgba(255, 255, 0, 0.2)";
+      ctx.fillStyle = highlight.style.backgroundColor;
       ctx.fillRect(x, y, width, height);
       ctx.fillStyle = "black";
       ctx.lineWidth = 0.2;
       ctx.strokeRect(x, y, width, height);
     }
     var dataURI = canvas.toDataURL();
-    console.log("updating");
     itemZoom.style.backgroundImage = "url('" + dataURI + "')";
   }
 }
@@ -1226,8 +1223,8 @@ function highlightWords(name, index) {
         continue;
       }
       element.style.backgroundColor = "yellow";
+      setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.5)");
     }
-    setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.5)");
     if (e.target.className != "letter-highlight") {
       var element = document.getElementById(name + "-transcription-" + index);
       addWordTip(element.textContent, name, index);
@@ -1252,8 +1249,8 @@ function clearHighlight(name, index) {
         continue;
       }
       element.style.backgroundColor = "";
+      setHighlightLettersInTranscription(name, index, "");
     }
-    setHighlightLettersInTranscription(name, index, "");
   }
 }
 
