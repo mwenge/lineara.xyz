@@ -8,6 +8,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "QE-RA₂-U",
@@ -55,7 +56,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*79-SU",
                 "word": "𐙀𐘲"
@@ -77,7 +79,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-DI-ZA-KE",
                 "word": "𐘆𐘆𐘍𐘥"
@@ -100,7 +103,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
@@ -122,7 +126,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RA-NA-RE",
                 "word": "𐘇𐘴𐘅𐘙"
@@ -435,7 +440,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MU-RU",
                 "word": "𐘕𐘘"
@@ -477,7 +483,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-TU-RA₂-RE",
                 "word": "𐝫𐘤𐘹𐘽𐘙"
@@ -613,7 +620,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-RI-TE",
                 "word": "𐝫𐘬𐘭𐘃"
@@ -652,7 +660,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA-PI-SI-DI",
                 "word": "𐝫𐘳𐘢𐘤𐘆"
@@ -878,7 +887,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PI-TA-JA",
                 "word": "𐘢𐘳𐘱"
@@ -924,7 +934,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-*321",
                 "word": "𐙁𐙭"
@@ -946,7 +957,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "O-RA₂-DI-NE",
                 "word": "𐘵𐘽𐘆𐘗"
@@ -968,7 +980,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-PA-QE",
                 "word": "𐘾𐘂𐘿"
@@ -1020,7 +1033,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QE-PI-TA",
                 "word": "𐘿𐘢𐘳"
@@ -1090,6 +1104,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "WA-DU-NI-MI",
@@ -1120,7 +1135,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RA-TI-SE",
                 "word": "𐘴𐘠𐘈"
@@ -1142,7 +1158,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-RI-RE-I",
                 "word": "𐙁𐘭𐘙𐘚"
@@ -1164,7 +1181,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-DA-MA",
                 "word": "𐘬𐘀𐙁"
@@ -1186,7 +1204,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-KI",
                 "word": "𐘀𐘸"
@@ -1219,6 +1238,7 @@ var wordAnnotations =
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-MA",
@@ -1242,6 +1262,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA₃-NI-NA",
@@ -1308,7 +1329,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "I-RU-JA",
                 "word": "𐘚𐘘𐘱"
@@ -1330,7 +1352,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-JA",
                 "word": "𐘬𐘱"
@@ -1353,7 +1376,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA-NA-TI",
                 "word": "𐘳𐘅𐘠"
@@ -1377,7 +1401,8 @@ var wordAnnotations =
                     "Palaikastro",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -1400,7 +1425,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TE-TU",
                 "word": "𐘃𐘹"
@@ -1423,6 +1449,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word",
                     "recurring head word"
                 ],
@@ -1446,7 +1473,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RU-*329",
                 "word": "𐘀𐘘𐙵"
@@ -1505,7 +1533,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA₃-KA-RA-TI",
                 "word": "𐘰𐘾𐘴𐘠"
@@ -1571,7 +1600,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TE-*301",
                 "word": "𐘃𐙕"
@@ -1594,7 +1624,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-*310-I",
                 "word": "𐘌𐙠𐘚"
@@ -1617,7 +1648,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-KI-RA",
                 "word": "𐘤𐘸𐘴"
@@ -1642,6 +1674,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RE-TA-NA",
@@ -1666,6 +1699,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "SU-PU₂-*188",
@@ -1712,7 +1746,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA₃-*188",
                 "word": "𐘰𐙓"
@@ -1735,7 +1770,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-*310-I",
                 "word": "𐘌𐙠𐘚"
@@ -1792,7 +1828,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Zakros",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-JA-RE",
                 "word": "𐘂𐘱𐘙"
@@ -1859,6 +1896,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "SA-RO",
@@ -1932,7 +1970,8 @@ var wordAnnotations =
                     "word also in linear b",
                     "word",
                     "Haghia Triada",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-DE",
                 "word": "𐘂𐘦"
@@ -1971,7 +2010,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*306-TU",
                 "word": "𐙚𐘹"
@@ -1995,6 +2035,7 @@ var wordAnnotations =
                     "Knossos",
                     "Appears at 2 find sites",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "DI-NA-U",
@@ -2018,7 +2059,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QE-PU",
                 "word": "𐘿𐘫"
@@ -2041,7 +2083,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*324-DI-RA",
                 "word": "𐙰𐘆𐘴"
@@ -2072,6 +2115,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TA-I-AROM",
@@ -2103,7 +2147,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RU",
                 "word": "𐘇𐘘"
@@ -2240,7 +2285,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-DE",
                 "word": "𐘂𐘦"
@@ -2262,7 +2308,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-SI",
                 "word": "𐘇𐘤"
@@ -2285,7 +2332,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*306-TU",
                 "word": "𐙚𐘹"
@@ -2308,7 +2356,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*324-DI-RA",
                 "word": "𐙰𐘆𐘴"
@@ -2331,7 +2380,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QE-PU",
                 "word": "𐘿𐘫"
@@ -2354,6 +2404,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "TA-I-AROM",
@@ -2378,6 +2429,7 @@ var wordAnnotations =
                     "Knossos",
                     "Appears at 2 find sites",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "DI-NA-U",
@@ -2427,6 +2479,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "KU-NI-SU",
@@ -2451,6 +2504,7 @@ var wordAnnotations =
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-MA",
@@ -2508,7 +2562,8 @@ var wordAnnotations =
                     "Palaikastro",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -2539,7 +2594,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "word repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "U-*325-ZA",
                 "word": "𐘉𐙱𐘍"
@@ -2587,7 +2643,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "word repeated in Inscription"
+                    "word repeated in Inscription",
+                    "place name"
                 ],
                 "transliteratedWord": "U-*325-ZA",
                 "word": "𐘉𐙱𐘍"
@@ -2610,7 +2667,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*305-RU",
                 "word": "𐙙𐘘"
@@ -2640,7 +2698,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RI-DA",
                 "word": "𐘀𐘭𐘀"
@@ -2663,7 +2722,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "ME-ZA",
                 "word": "𐘋𐘍"
@@ -2686,6 +2746,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "U-TI",
@@ -2710,7 +2771,8 @@ var wordAnnotations =
                     "Palaikastro",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -2732,7 +2794,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA-RI-NA",
                 "word": "𐘳𐘭𐘅"
@@ -2754,7 +2817,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*312-TA",
                 "word": "𐙢𐘳"
@@ -2784,7 +2848,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-SA-RU",
                 "word": "𐘾𐘞𐘘"
@@ -2807,7 +2872,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA-NA-TI",
                 "word": "𐘳𐘅𐘠"
@@ -2869,7 +2935,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-RO-NA",
                 "word": "𐘾𐘁𐘅"
@@ -2891,7 +2958,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*322-RI",
                 "word": "𐙮𐘭"
@@ -2939,7 +3007,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-SU-JA",
                 "word": "𐘇𐘲𐘱"
@@ -2962,7 +3031,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "VIR+[?]-I",
                 "word": "𐙇𐘚"
@@ -3037,7 +3107,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*86-KA",
                 "word": "𐙅𐘾"
@@ -3574,7 +3645,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Khania",
-                    "Appears at 2 find sites"
+                    "Appears at 2 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "RE-ZA",
                 "word": "𐘙𐘍"
@@ -3607,7 +3679,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TE-TU",
                 "word": "𐘃𐘹"
@@ -3630,7 +3703,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TE-KI",
                 "word": "𐘃𐘸"
@@ -3662,7 +3736,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-*79-NI",
                 "word": "𐙂𐙀𐘝"
@@ -3685,7 +3760,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-SI-*118",
                 "word": "𐘀𐘤𐙈"
@@ -3707,7 +3783,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "I-DU-NE-SI",
                 "word": "𐘚𐘬𐘗𐘤"
@@ -4114,7 +4191,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-AROM-A",
                 "word": "𐘬𐙌𐘇"
@@ -4136,7 +4214,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*586",
                 "word": "𐛹"
@@ -4240,6 +4319,7 @@ var wordAnnotations =
                     "Knossos",
                     "Appears at 2 find sites",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "DI-NA-U",
@@ -4430,6 +4510,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RO",
@@ -4453,7 +4534,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-DA-RE",
                 "word": "𐘤𐘀𐘙"
@@ -4563,6 +4645,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -4705,6 +4788,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RO",
@@ -4735,7 +4819,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-ME-DI",
                 "word": "𐘬𐘋𐘆"
@@ -4787,7 +4872,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-MA-JU",
                 "word": "𐙂𐙁𐘶"
@@ -4850,7 +4936,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Knossos",
@@ -4879,7 +4964,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-RE-JU",
                 "word": "𐘞𐘙𐘶"
@@ -5166,7 +5252,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*585",
                 "word": "𐛸"
@@ -5496,7 +5583,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*21F-RI-TU-QA",
                 "word": "𐘐𐘭𐘹𐘌"
@@ -5519,7 +5607,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-SA-ME",
                 "word": "𐘞𐘞𐘋"
@@ -5565,7 +5654,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KO-RU",
                 "word": "𐘺𐘘"
@@ -5974,7 +6064,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI+ME-KI-*118",
                 "word": "𐛋𐙈"
@@ -6004,7 +6095,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*539-*118",
                 "word": "𐛒𐙈"
@@ -6072,7 +6164,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RU-NI",
                 "word": "𐝫𐘘𐘝"
@@ -6094,7 +6187,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "U-RE-WI",
                 "word": "𐘉𐘙𐘣"
@@ -6119,6 +6213,7 @@ var wordAnnotations =
                     "Appears at 2 find sites",
                     "word repeated in Inscription",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "DI-NA-U",
@@ -6142,7 +6237,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Zakros",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RI-NI-TA",
                 "word": "𐘇𐘭𐘝𐘳"
@@ -6180,7 +6276,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*79-JU-PU₂",
                 "word": "𐝫𐙀𐘶𐘜"
@@ -6218,7 +6315,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "I-KI-RA",
                 "word": "𐝫𐘚𐘸𐘴"
@@ -6475,7 +6573,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA-TI",
                 "word": "𐘳𐘠"
@@ -6497,7 +6596,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MI-KI-SE-NA",
                 "word": "𐘻𐘸𐘈𐘅"
@@ -6607,7 +6707,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RO-NI",
                 "word": "𐝫𐘁𐘝"
@@ -6629,7 +6730,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-U-*79-NI",
                 "word": "𐘾𐘉𐙀𐘝"
@@ -6865,7 +6967,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "I-MI-SA-RA",
                 "word": "𐝫𐘚𐘻𐘞𐘴"
@@ -6961,7 +7064,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-RA-DI",
                 "word": "𐝫𐘞𐘴𐘆"
@@ -7732,6 +7836,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -7826,7 +7931,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "VIR+KA-VIN",
                 "word": "𐛧𐙍"
@@ -8011,6 +8117,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -8294,6 +8401,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "RU-MA-TA",
@@ -8337,7 +8445,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Zakros",
-                    "Appears at 2 find sites"
+                    "Appears at 2 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-JA-RE",
                 "word": "𐘂𐘱𐘙"
@@ -8361,7 +8470,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-JA-I",
                 "word": "𐝫𐘆𐘱𐘚"
@@ -8383,7 +8493,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-*323-MI",
                 "word": "𐘞𐙯𐘻"
@@ -8413,7 +8524,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KI-TA",
                 "word": "𐝫𐘸𐘳"
@@ -8435,7 +8547,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RE-DA-I",
                 "word": "𐘇𐘙𐘀𐘚"
@@ -8457,7 +8570,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-DU-MA-NE",
                 "word": "𐘾𐘬𐙁𐘗"
@@ -8509,6 +8623,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -8694,7 +8809,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-RA-RA",
                 "word": "𐘞𐘴𐘴"
@@ -8715,12 +8831,10 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Gournia",
                     "Appears at 3 find sites",
-                    "word repeated in Inscription",
                     "assigned number",
                     "head word elsewhere"
                 ],
@@ -8852,12 +8966,10 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Gournia",
                     "Appears at 3 find sites",
-                    "word repeated in Inscription",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*23M",
@@ -9015,7 +9127,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*815-QA-PA₃",
                 "word": "𐚢𐘌𐘰"
@@ -9037,7 +9150,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*415-VS-SU-PU",
                 "word": "𐚯𐘲𐘫"
@@ -9060,7 +9174,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*416-VS-KA-RO-PA₃",
                 "word": "𐝫𐚰𐘾𐘁𐘰"
@@ -9131,7 +9246,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*815",
                 "word": "𐚢"
@@ -9153,7 +9269,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*815-SU-PA₃-RA",
                 "word": "𐚢𐘲𐘰𐘴"
@@ -9175,7 +9292,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*815-PA-TA-QE",
                 "word": "𐚢𐘂𐘳𐘿"
@@ -9214,6 +9332,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -9489,6 +9608,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -9749,6 +9869,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -10350,7 +10471,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*307+*387-GRA+QE",
                 "word": "𐜠𐛱"
@@ -10380,7 +10502,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-*79-WA",
                 "word": "𐘬𐙀𐘮"
@@ -10460,7 +10583,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "word repeated in Inscription"
+                    "word repeated in Inscription",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-KI",
                 "word": "𐘾𐘸"
@@ -10559,7 +10683,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KI-*310-RE",
                 "word": "𐘸𐙠𐘙"
@@ -10606,7 +10731,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "word repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-KI",
                 "word": "𐘾𐘸"
@@ -10729,7 +10855,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*403-VS",
                 "word": "𐚣"
@@ -10801,7 +10928,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*554-*118",
                 "word": "𐛞𐙈"
@@ -10867,6 +10995,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "TA-I-AROM",
@@ -10892,7 +11021,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-RE-JU",
                 "word": "𐝫𐙂𐘙𐘶"
@@ -10935,7 +11065,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-MA-TI",
                 "word": "𐝫𐘞𐙁𐘠"
@@ -11259,7 +11390,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QE-TU",
                 "word": "𐝫𐘿𐘹"
@@ -11394,7 +11526,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-JA",
                 "word": "𐘂𐘱"
@@ -11582,6 +11715,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RO",
@@ -12855,7 +12989,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PA₃-NA-TU",
                 "word": "𐙂𐘰𐘅𐘹"
@@ -13099,7 +13234,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RI",
                 "word": "𐝫𐘭"
@@ -13195,7 +13331,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-RA",
                 "word": "𐝫𐘤𐘴"
@@ -13218,7 +13355,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RU",
                 "word": "𐘇𐘘"
@@ -13287,7 +13425,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
@@ -13309,7 +13448,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TU-SU-PU₂",
                 "word": "𐘹𐘲𐘜"
@@ -14003,7 +14143,8 @@ var wordAnnotations =
                     "Zakros",
                     "Gournia",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐝫𐘈"
@@ -14100,7 +14241,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*79-DU",
                 "word": "𐝫𐙀𐘬"
@@ -14174,6 +14316,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Zakros",
                     "Appears at 2 find sites",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "SA-MA",
@@ -14795,7 +14938,8 @@ var wordAnnotations =
                     "Palaikastro",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-RU",
                 "word": "𐘤𐘘"
@@ -14942,7 +15086,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RI-JA",
                 "word": "𐝫𐘭𐘱"
@@ -15768,7 +15913,8 @@ var wordAnnotations =
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
-                    "Appears at 6 find sites"
+                    "Appears at 6 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅"
@@ -15987,7 +16133,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Khania",
                     "Palaikastro",
-                    "Appears at 3 find sites"
+                    "Appears at 3 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "NU",
                 "word": "𐝫𐘯"
@@ -16215,7 +16362,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-TI",
                 "word": "𐘾𐘠"
@@ -16342,7 +16490,8 @@ var wordAnnotations =
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 6 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅"
@@ -16390,7 +16539,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Knossos",
@@ -16993,7 +17141,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-*118-SA",
                 "word": "𐝫𐘌𐙈𐘞"
@@ -17622,7 +17771,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RI-SU-MA",
                 "word": "𐝫𐘭𐘲𐙁"
@@ -17905,7 +18055,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RI-DA",
                 "word": "𐘀𐘭𐘀"
@@ -17927,7 +18078,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA₃-NI",
                 "word": "𐘰𐘝"
@@ -17949,7 +18101,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "U-*325-ZA",
                 "word": "𐘉𐙱𐘍"
@@ -17972,7 +18125,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-SI-*118",
                 "word": "𐘀𐘤𐙈"
@@ -17996,7 +18150,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-*79-NI",
                 "word": "𐙂𐙀𐘝"
@@ -18019,7 +18174,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TE-KE",
                 "word": "𐘃𐘥"
@@ -18043,7 +18199,8 @@ var wordAnnotations =
                     "Palaikastro",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -18115,6 +18272,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RE-TA₂",
@@ -18138,7 +18296,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QE-KA",
                 "word": "𐘿𐘾"
@@ -18263,7 +18422,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "ME-ZA",
                 "word": "𐘋𐘍"
@@ -18285,7 +18445,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RE-DI-SE",
                 "word": "𐘙𐘆𐘈"
@@ -18309,6 +18470,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "WA-DU-NI-MI",
@@ -18333,7 +18495,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-DI",
                 "word": "𐙁𐘆"
@@ -18356,7 +18519,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-*310-I",
                 "word": "𐘌𐙠𐘚"
@@ -18402,6 +18566,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-NI-SU",
@@ -18413,7 +18578,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*584",
                 "word": "𐛷"
@@ -18435,7 +18601,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-RU",
                 "word": "𐘞𐘘"
@@ -18458,7 +18625,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-DE-RU",
                 "word": "𐘆𐘦𐘘"
@@ -18480,7 +18648,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-RA₂-WA",
                 "word": "𐘌𐘽𐘮"
@@ -18538,7 +18707,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-ME",
                 "word": "𐘀𐘋"
@@ -18572,6 +18742,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MI-NU-TE",
@@ -18618,6 +18789,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-NI-SU",
@@ -18629,7 +18801,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*584",
                 "word": "𐛷"
@@ -18651,7 +18824,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-RU",
                 "word": "𐘞𐘘"
@@ -18687,6 +18861,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word",
                     "recurring head word"
                 ],
@@ -18727,7 +18902,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PI-TA-KE-SI",
                 "word": "𐘢𐘳𐘥𐘤"
@@ -18749,7 +18925,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "JA-RE-MI",
                 "word": "𐘱𐘙𐘻"
@@ -18772,7 +18949,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-KI-SE",
                 "word": "𐘆𐘸𐘈"
@@ -18794,7 +18972,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QE-SU-PU",
                 "word": "𐘿𐘲𐘫"
@@ -18816,7 +18995,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-RU-KU",
                 "word": "𐙂𐘘𐙂"
@@ -18858,7 +19038,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-TU",
                 "word": "𐝫𐘇𐘹"
@@ -18918,7 +19099,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Khania",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RE-ZA",
                 "word": "𐘙𐘍"
@@ -18963,7 +19145,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KI-KI-NA",
                 "word": "𐘸𐘸𐘅"
@@ -19009,7 +19192,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PA₃-PA₃",
                 "word": "𐙂𐘰𐘰"
@@ -19031,7 +19215,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-JU",
                 "word": "𐘾𐘶"
@@ -19054,7 +19239,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
@@ -19077,7 +19263,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Zakros",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-JA-RE",
                 "word": "𐘂𐘱𐘙"
@@ -19099,7 +19286,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-MA-RO",
                 "word": "𐘞𐙁𐘁"
@@ -19121,7 +19309,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-TA-RE",
                 "word": "𐘀𐘳𐘙"
@@ -19251,7 +19440,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-I-MI",
                 "word": "𐙁𐘚𐘻"
@@ -19297,7 +19487,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA-RA",
                 "word": "𐘳𐘴"
@@ -19462,6 +19653,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -19674,6 +19866,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "I-KA",
@@ -20158,6 +20351,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "word repeated in Inscription",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "PA₃-NI-NA",
@@ -20212,7 +20406,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-RI-NA",
                 "word": "𐘆𐘭𐘅"
@@ -20259,7 +20454,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KI-DI-NI",
                 "word": "𐘸𐘆𐘝"
@@ -20340,6 +20536,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -20361,7 +20558,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-QA-RU",
                 "word": "𐘌𐘌𐘘"
@@ -20403,7 +20601,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "VIR+[?]-I",
                 "word": "𐙇𐘚"
@@ -20425,7 +20624,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DE-JU-KU",
                 "word": "𐘦𐘶𐙂"
@@ -20484,7 +20684,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RI-DA",
                 "word": "𐘀𐘭𐘀"
@@ -20494,7 +20695,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*406-VS",
                 "word": "𐚦"
@@ -20558,6 +20760,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA-SE-JA",
@@ -20849,6 +21052,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -20936,7 +21140,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*318-*306",
                 "word": "𐙪𐙚"
@@ -21092,7 +21297,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TU-MA",
                 "word": "𐘹𐙁"
@@ -21116,6 +21322,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA-TA-NE",
@@ -21138,7 +21345,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DE-DI",
                 "word": "𐘦𐘆"
@@ -21160,7 +21368,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KE-KI-RU",
                 "word": "𐘥𐘸𐘘"
@@ -21182,7 +21391,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-RU",
                 "word": "𐘞𐘘"
@@ -21272,7 +21482,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DE-ME-TE",
                 "word": "𐝫𐘦𐘋𐘃"
@@ -21362,7 +21573,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-ME",
                 "word": "𐘀𐘋"
@@ -21385,6 +21597,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MI-NU-TE",
@@ -21407,7 +21620,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-RU",
                 "word": "𐘞𐘘"
@@ -21431,6 +21645,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-NI-SU",
@@ -21454,7 +21669,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-DE-RU",
                 "word": "𐘆𐘦𐘘"
@@ -21477,6 +21693,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "QE-RA₂-U",
@@ -21525,7 +21742,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-RU",
                 "word": "𐘞𐘘"
@@ -21577,7 +21795,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-ME",
                 "word": "𐘀𐘋"
@@ -21600,6 +21819,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "MI-NU-TE",
@@ -21624,6 +21844,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KU-NI-SU",
@@ -21647,7 +21868,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-DE-RU",
                 "word": "𐘆𐘦𐘘"
@@ -21670,6 +21892,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "QE-RA₂-U",
@@ -21784,7 +22007,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RU-SA",
                 "word": "𐘘𐘞"
@@ -21806,7 +22030,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*323-*317",
                 "word": "𐙯𐙩"
@@ -21857,7 +22082,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*323-*344",
                 "word": "𐙯𐚄"
@@ -21915,7 +22141,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TE-NI",
                 "word": "𐘃𐘝"
@@ -22249,7 +22476,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-NU-TI",
                 "word": "𐘾𐘯𐘠"
@@ -22274,7 +22502,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-I-TO",
                 "word": "𐘂𐘚𐘄"
@@ -22320,7 +22549,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NA-TI",
                 "word": "𐘅𐘠"
@@ -22344,7 +22574,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-DI",
                 "word": "𐙁𐘆"
@@ -22447,7 +22678,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA-TI",
                 "word": "𐘳𐘠"
@@ -22546,6 +22778,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -22626,7 +22859,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA-NA-TI",
                 "word": "𐘳𐘅𐘠"
@@ -22649,7 +22883,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-RE-DI-NA",
                 "word": "𐘆𐘙𐘆𐘅"
@@ -22673,7 +22908,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TE-*301",
                 "word": "𐘃𐙕"
@@ -22696,7 +22932,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RO-KE",
                 "word": "𐘁𐘥"
@@ -22719,7 +22956,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-RI-*310-I",
                 "word": "𐘾𐘭𐙠𐘚"
@@ -22808,7 +23046,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RU-NE-TE",
                 "word": "𐘀𐘘𐘗𐘃"
@@ -22857,6 +23096,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -22991,6 +23231,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "SI+SE-NI",
@@ -23014,7 +23255,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-SI-*118",
                 "word": "𐘀𐘤𐙈"
@@ -23037,7 +23279,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*79-DU",
                 "word": "𐙀𐘬"
@@ -23060,6 +23303,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "RU-MA-TA",
@@ -23257,6 +23501,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -23568,6 +23813,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -23864,6 +24110,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -23901,7 +24148,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "PA₃-NI",
                 "word": "𐘰𐘝"
@@ -23938,7 +24186,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "VIR+[?]-GRA+PA",
                 "word": "𐝫𐙇𐛭"
@@ -23960,7 +24209,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-RI-NA",
                 "word": "𐘆𐘭𐘅"
@@ -23983,7 +24233,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-*79",
                 "word": "𐙁𐙀"
@@ -24031,6 +24282,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "I-KA",
@@ -24198,7 +24450,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-KU-NA",
                 "word": "𐘀𐙂𐘅"
@@ -24222,7 +24475,8 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "word repeated in Inscription",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-KU-SE-NE",
                 "word": "𐘀𐙂𐘈𐘗"
@@ -24317,7 +24571,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-KU-SE-NE-TI",
                 "word": "𐘀𐙂𐘈𐘗𐘠"
@@ -24348,7 +24603,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "I-DU-TI",
                 "word": "𐘚𐘬𐘠"
@@ -24379,7 +24635,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-DA-SU-TI",
                 "word": "𐘂𐘀𐘲𐘠"
@@ -24489,6 +24746,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -24534,6 +24792,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "MI-NU-TE",
@@ -24821,6 +25080,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "KI-RE-TA-NA",
@@ -24858,7 +25118,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*583",
                 "word": "𐛶"
@@ -24892,7 +25153,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-NA-RO",
                 "word": "𐘆𐘅𐘁"
@@ -24944,7 +25206,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RA₂-TI",
                 "word": "𐝫𐘽𐘠"
@@ -25111,7 +25374,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RA-JU",
                 "word": "𐘇𐘴𐘶"
@@ -25287,7 +25551,8 @@ var wordAnnotations =
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐝫𐘁"
@@ -25529,7 +25794,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QE-KA",
                 "word": "𐝫𐘿𐘾"
@@ -25567,7 +25833,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-RU",
                 "word": "𐝫𐘌𐘘"
@@ -25787,7 +26054,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
@@ -26073,6 +26339,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -26199,7 +26466,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Gournia",
@@ -26307,7 +26573,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RI-TA-MA-NU-WI",
                 "word": "𐘭𐘳𐙁𐘯𐘣"
@@ -26343,7 +26610,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NA-*21F-NE-MI-NA",
                 "word": "𐘅𐘐𐘗𐘻𐘅"
@@ -26365,7 +26633,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SE-KU-TU",
                 "word": "𐘈𐙂𐘹"
@@ -26390,7 +26659,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-RA-NE",
                 "word": "𐘂𐘴𐘗"
@@ -26412,7 +26682,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-SE-JA",
                 "word": "𐘇𐘈𐘱"
@@ -26435,7 +26706,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-PO-RU",
                 "word": "𐘾𐘊𐘘"
@@ -26545,7 +26817,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-RA-NE",
                 "word": "𐘂𐘴𐘗"
@@ -26629,7 +26902,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-PA₃-NA",
                 "word": "𐘬𐘰𐘅"
@@ -26696,7 +26970,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*306-TU-JA",
                 "word": "𐙚𐘹𐘱"
@@ -27457,7 +27732,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "U-SU",
                 "word": "𐘉𐘲"
@@ -27480,7 +27756,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MI-TU",
                 "word": "𐘻𐘹"
@@ -27502,7 +27779,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-RA-MU",
                 "word": "𐙂𐘴𐘕"
@@ -27524,7 +27802,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-RU",
                 "word": "𐙁𐘘"
@@ -27547,7 +27826,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
@@ -27569,7 +27849,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TU-JU-MA",
                 "word": "𐘹𐘶𐙁"
@@ -27591,7 +27872,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "U-DI-MI",
                 "word": "𐘉𐘆𐘻"
@@ -27613,7 +27895,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MI-RU-TA-RA-RE",
                 "word": "𐘻𐘘𐘳𐘴𐘙"
@@ -27635,7 +27918,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TE-JA-RE",
                 "word": "𐘃𐘱𐘙"
@@ -27657,7 +27941,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NA-DA-RE",
                 "word": "𐘅𐘀𐘙"
@@ -27738,7 +28023,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-KU-DA-RA",
                 "word": "𐙂𐙂𐘀𐘴"
@@ -27760,7 +28046,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KO-SA-I-TI",
                 "word": "𐘺𐘞𐘚𐘠"
@@ -27782,7 +28069,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-MI-NU",
                 "word": "𐘀𐘻𐘯"
@@ -27804,7 +28092,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-NE-KU-TI",
                 "word": "𐘀𐘗𐙂𐘠"
@@ -27828,7 +28117,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KI-DA-RO",
                 "word": "𐘸𐘀𐘁"
@@ -27850,6 +28140,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word",
                     "recurring head word"
                 ],
@@ -27874,7 +28165,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-RE-JU",
                 "word": "𐙂𐘙𐘶"
@@ -27897,7 +28189,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-KI-SE",
                 "word": "𐘆𐘸𐘈"
@@ -27964,7 +28257,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-DI",
                 "word": "𐙁𐘆"
@@ -28016,7 +28310,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-QA-RU",
                 "word": "𐘌𐘌𐘘"
@@ -28068,7 +28363,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RI-SU",
                 "word": "𐘇𐘭𐘲"
@@ -28120,7 +28416,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RI-RU-MA",
                 "word": "𐘭𐘘𐙁"
@@ -28249,7 +28546,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RI-MI-SI",
                 "word": "𐘭𐘻𐘤"
@@ -28271,7 +28569,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KO-JA",
                 "word": "𐘺𐘱"
@@ -28293,7 +28592,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PA₃-NA-TU",
                 "word": "𐙂𐘰𐘅𐘹"
@@ -28344,7 +28644,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "JA-*345",
                 "word": "𐘱𐚅"
@@ -28367,7 +28668,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*306-TU",
                 "word": "𐙚𐘹"
@@ -28389,7 +28691,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*327-JU",
                 "word": "𐙳𐘶"
@@ -28459,7 +28762,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-ME",
                 "word": "𐘀𐘋"
@@ -28470,7 +28774,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*584",
                 "word": "𐛷"
@@ -28566,6 +28871,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KI-RE-TA-NA",
@@ -28629,7 +28935,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-I-TO",
                 "word": "𐘂𐘚𐘄"
@@ -28695,6 +29002,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -28821,7 +29129,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Gournia",
@@ -28902,7 +29209,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-SI-*118",
                 "word": "𐘀𐘤𐙈"
@@ -28977,7 +29285,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TE-KI",
                 "word": "𐘃𐘸"
@@ -29000,7 +29309,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-*310-I",
                 "word": "𐘌𐙠𐘚"
@@ -29022,7 +29332,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "JA-MI-DA-RE",
                 "word": "𐘱𐘻𐘀𐘙"
@@ -29045,7 +29356,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-DA-RE",
                 "word": "𐘤𐘀𐘙"
@@ -29068,7 +29380,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*324-DI-RA",
                 "word": "𐙰𐘆𐘴"
@@ -29091,7 +29404,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-DE",
                 "word": "𐘂𐘦"
@@ -29115,7 +29429,8 @@ var wordAnnotations =
                     "Phaistos",
                     "Appears at 2 find sites",
                     "word repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
@@ -29139,6 +29454,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA-TA-NE",
@@ -29162,7 +29478,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*306-TU",
                 "word": "𐙚𐘹"
@@ -29210,7 +29527,8 @@ var wordAnnotations =
                     "Phaistos",
                     "Appears at 2 find sites",
                     "word repeated in Inscription",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
@@ -29232,7 +29550,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RI-DA",
                 "word": "𐘀𐘭𐘀"
@@ -29280,7 +29599,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-DA",
                 "word": "𐙂𐘀"
@@ -29381,7 +29701,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RA-JU-U-DE-ZA",
                 "word": "𐝫𐘇𐘴𐘶𐘉𐘦𐘍"
@@ -29403,7 +29724,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-QA-RU",
                 "word": "𐘌𐘌𐘘"
@@ -29451,7 +29773,8 @@ var wordAnnotations =
                     "Palaikastro",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -29742,7 +30065,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Haghia Triada",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-RU",
                 "word": "𐘞𐘘"
@@ -30076,6 +30400,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "*188-*308",
@@ -30153,7 +30478,8 @@ var wordAnnotations =
                     "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PI-SA",
                 "word": "𐘢𐘞"
@@ -30229,7 +30555,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TU-PA-DI-DA",
                 "word": "𐘹𐘂𐘆𐘀"
@@ -30269,7 +30596,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-DU",
                 "word": "𐝫𐘤𐘬"
@@ -30292,7 +30620,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-MA-I-NA",
                 "word": "𐘬𐙁𐘚𐘅"
@@ -30630,7 +30959,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
+                    "commodity",
                     "Haghia Triada",
                     "Khania",
                     "Appears at 2 find sites",
@@ -30844,7 +31173,8 @@ var wordAnnotations =
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "U-*49",
                 "word": "𐝫𐘉𐘪"
@@ -30994,7 +31324,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
@@ -31123,7 +31452,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*304+PA-DA-*47-KU",
                 "word": "𐝫𐜝𐘀𐘨𐙂"
@@ -31413,7 +31743,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-RA",
                 "word": "𐘂𐘴"
@@ -31762,6 +32093,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "KI-RE-TA₂",
@@ -32045,6 +32377,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-RA₂",
@@ -32598,7 +32931,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
@@ -32936,7 +33268,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
@@ -33432,7 +33763,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*86-SI-*118-KA",
                 "word": "𐙅𐘤𐙈𐘾"
@@ -33965,7 +34297,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RI-*305",
                 "word": "𐘭𐙙"
@@ -34014,7 +34347,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RI-KA-TA",
                 "word": "𐘭𐘾𐘳"
@@ -35201,6 +35535,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "always assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "PA-TA-NE",
@@ -35216,7 +35551,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Zakros",
-                    "Appears at 2 find sites"
+                    "Appears at 2 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-TU",
                 "word": "𐘤𐘹"
@@ -35325,6 +35661,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "*304+PA-CYP+D",
@@ -51280,6 +51617,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "PA-SE-JA",
@@ -51303,6 +51641,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "PA-SE-JA",
@@ -51619,6 +51958,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*304+PA-CYP+D",
@@ -51794,7 +52134,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
@@ -51862,6 +52201,7 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*304+PA-CYP+D",
@@ -53376,7 +53716,8 @@ var wordAnnotations =
                     "word",
                     "Khania",
                     "Thera",
-                    "Appears at 2 find sites"
+                    "Appears at 2 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "JE",
                 "word": "𐝫𐘧"
@@ -53390,7 +53731,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
+                    "commodity",
                     "Haghia Triada",
                     "Khania",
                     "Appears at 2 find sites"
@@ -53591,7 +53932,8 @@ var wordAnnotations =
                     "Khania",
                     "Palaikastro",
                     "Appears at 3 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NU",
                 "word": "𐝫𐘯"
@@ -54095,7 +54437,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Knossos",
@@ -57144,12 +57485,10 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word",
                     "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 3 find sites",
-                    "word repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*131C",
@@ -57229,12 +57568,10 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 3 find sites",
-                    "word repeated in Inscription",
                     "assigned number",
                     "always assigned number"
                 ],
@@ -58104,7 +58441,8 @@ var wordAnnotations =
                     "Khania",
                     "Zakros",
                     "Gournia",
-                    "Appears at 4 find sites"
+                    "Appears at 4 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "SE",
                 "word": "𐝫𐘈"
@@ -58119,7 +58457,7 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
+                    "commodity",
                     "Haghia Triada",
                     "Khania",
                     "Appears at 2 find sites"
@@ -59120,7 +59458,8 @@ var wordAnnotations =
                     "word",
                     "Khania",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*560-RE",
                 "word": "𐝫𐛢𐘙"
@@ -59576,7 +59915,8 @@ var wordAnnotations =
                     "Khania",
                     "Thera",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "JE",
                 "word": "𐝫𐘧"
@@ -59654,7 +59994,8 @@ var wordAnnotations =
                     "word",
                     "Khania",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-I-SI",
                 "word": "𐝫𐘤𐘚𐘤"
@@ -60429,7 +60770,8 @@ var wordAnnotations =
                     "Khania",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-NA",
                 "word": "𐝫𐘆𐘅"
@@ -60480,7 +60822,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word",
                     "Khania",
                     "Knossos",
                     "Phaistos",
@@ -62413,7 +62754,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "commodity",
-                    "word",
                     "Khania",
                     "Knossos",
                     "Phaistos",
@@ -62697,7 +63037,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Gournia",
@@ -62744,6 +63083,7 @@ var wordAnnotations =
                     "Khania",
                     "Zakros",
                     "Appears at 2 find sites",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*21F-*118",
@@ -62790,7 +63130,8 @@ var wordAnnotations =
                     "word",
                     "Khania",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PU-DE",
                 "word": "𐘫𐘦"
@@ -63217,7 +63558,8 @@ var wordAnnotations =
                     "word",
                     "Khania",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NA-KI",
                 "word": "𐝫𐘅𐘸"
@@ -63605,7 +63947,8 @@ var wordAnnotations =
                     "Khania",
                     "Phaistos",
                     "Zakros",
-                    "Appears at 4 find sites"
+                    "Appears at 4 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐝫𐘁"
@@ -65036,7 +65379,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Gournia",
@@ -65618,7 +65960,8 @@ var wordAnnotations =
                     "word",
                     "Knossos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RU-NA",
                 "word": "𐝫𐘘𐘅"
@@ -65744,7 +66087,8 @@ var wordAnnotations =
                     "word",
                     "Knossos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PO-DI-PA₃",
                 "word": "𐝫𐘊𐘆𐘰"
@@ -65861,7 +66205,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
@@ -66261,7 +66604,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word",
                     "Khania",
                     "Knossos",
                     "Phaistos",
@@ -66456,7 +66798,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Knossos",
@@ -66496,7 +66837,8 @@ var wordAnnotations =
                     "Knossos",
                     "Phaistos",
                     "Arkhalkhori",
-                    "Appears at 6 find sites"
+                    "Appears at 6 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅"
@@ -66938,6 +67280,7 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Knossos",
                     "Appears at 2 find sites",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "DI-NA-U",
@@ -67840,7 +68183,8 @@ var wordAnnotations =
                     "word",
                     "Kythera",
                     "Malia",
-                    "Appears at 2 find sites"
+                    "Appears at 2 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "*581",
                 "word": "𐛴"
@@ -67984,7 +68328,8 @@ var wordAnnotations =
                     "word",
                     "Malia",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-RA",
                 "word": "𐝫𐘬𐘴"
@@ -68007,7 +68352,8 @@ var wordAnnotations =
                     "word",
                     "Malia",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RE-TI",
                 "word": "𐝫𐘙𐘠"
@@ -68060,7 +68406,8 @@ var wordAnnotations =
                     "word",
                     "Malia",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "JA-KU",
                 "word": "𐘱𐙂"
@@ -68106,7 +68453,8 @@ var wordAnnotations =
                     "word",
                     "Malia",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "U-NA-NA",
                 "word": "𐝫𐘉𐘅𐘅"
@@ -68129,7 +68477,8 @@ var wordAnnotations =
                     "word",
                     "Malia",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "JA-MA-U-TI",
                 "word": "𐝫𐘱𐙁𐘉𐘠"
@@ -68152,6 +68501,7 @@ var wordAnnotations =
                     "Malia",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "TA-HIDE+B",
@@ -68540,7 +68890,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Malia",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "*659",
                 "word": "𐜱"
@@ -68706,7 +69057,8 @@ var wordAnnotations =
                     "word",
                     "Malia",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*659",
                 "word": "𐜱"
@@ -68788,7 +69140,8 @@ var wordAnnotations =
                     "Kythera",
                     "Malia",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*581",
                 "word": "𐛴"
@@ -69149,6 +69502,7 @@ var wordAnnotations =
                     "Papourou",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "A-KU-JU-PA-*118",
@@ -69349,7 +69703,8 @@ var wordAnnotations =
                     "word",
                     "Petras",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RU-PI-*305-MI",
                 "word": "𐘘𐘢𐝫𐙙𐘻"
@@ -69379,7 +69734,8 @@ var wordAnnotations =
                     "word",
                     "Petras",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-*325-ZA",
                 "word": "𐘇𐙱𐘍"
@@ -69403,7 +69759,8 @@ var wordAnnotations =
                     "word",
                     "Petras",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RI-PA",
                 "word": "𐘇𐘭𐘂"
@@ -69427,7 +69784,8 @@ var wordAnnotations =
                     "word",
                     "Petras",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-QA-DA",
                 "word": "𐘌𐘌𐘀"
@@ -69451,7 +69809,8 @@ var wordAnnotations =
                     "word",
                     "Petras",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TO-ME",
                 "word": "𐘄𐘋"
@@ -69474,7 +69833,8 @@ var wordAnnotations =
                     "word",
                     "Petras",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TO-*49-RE",
                 "word": "𐘄𐘪𐘙"
@@ -69511,6 +69871,7 @@ var wordAnnotations =
                     "Petras",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "GRA-TI-E",
@@ -69534,6 +69895,7 @@ var wordAnnotations =
                     "Petras",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "OLE-*307",
@@ -69619,7 +69981,8 @@ var wordAnnotations =
                     "word",
                     "Petras",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "JA-WA-PI",
                 "word": "𐘱𐘮𐘢"
@@ -69988,7 +70351,8 @@ var wordAnnotations =
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 6 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅"
@@ -70069,6 +70433,7 @@ var wordAnnotations =
                     "Phaistos",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "A-SE-TU-*21F",
@@ -70091,7 +70456,8 @@ var wordAnnotations =
                     "word",
                     "Phaistos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RA-O-DI-KI",
                 "word": "𐘴𐘵𐘆𐘸"
@@ -70113,7 +70479,8 @@ var wordAnnotations =
                     "word",
                     "Phaistos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PI-RU-E-JU",
                 "word": "𐘢𐘘𐘡𐘶"
@@ -70135,7 +70502,8 @@ var wordAnnotations =
                     "word",
                     "Phaistos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SE-SA-PA₃",
                 "word": "𐘈𐘞𐘰"
@@ -70172,7 +70540,8 @@ var wordAnnotations =
                     "word",
                     "Phaistos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*556",
                 "word": "𐝫𐛠"
@@ -70216,7 +70585,8 @@ var wordAnnotations =
                     "word",
                     "Phaistos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*557",
                 "word": "𐝫𐛡"
@@ -70238,7 +70608,8 @@ var wordAnnotations =
                     "word",
                     "Phaistos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*563",
                 "word": "𐛣"
@@ -70291,7 +70662,8 @@ var wordAnnotations =
                     "Phaistos",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-RA",
                 "word": "𐘂𐘴"
@@ -70725,7 +71097,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word",
                     "Khania",
                     "Knossos",
                     "Phaistos",
@@ -71014,6 +71385,7 @@ var wordAnnotations =
                     "Phaistos",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "*317-QE-*353",
@@ -71038,7 +71410,8 @@ var wordAnnotations =
                     "word",
                     "Phaistos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*412-VS-VIN",
                 "word": "𐝫𐚬𐙍"
@@ -72199,7 +72572,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Phaistos",
-                    "Appears at 2 find sites"
+                    "Appears at 2 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-DI",
                 "word": "𐙁𐘆"
@@ -72207,13 +72581,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 4 find sites",
-                    "word repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -72235,7 +72607,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
@@ -72289,7 +72660,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Phaistos",
-                    "Appears at 2 find sites"
+                    "Appears at 2 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PA₃-NU",
                 "word": "𐙂𐘰𐘯"
@@ -72300,7 +72672,8 @@ var wordAnnotations =
                     "Phaistos",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "AU-SI-RE",
                 "word": "𐙄𐘤𐘙"
@@ -72380,13 +72753,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Knossos",
                     "Phaistos",
                     "Appears at 4 find sites",
-                    "word repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*21M",
@@ -72407,7 +72778,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
@@ -72447,13 +72817,11 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites",
-                    "word repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -72474,7 +72842,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Phaistos",
                     "Appears at 2 find sites",
@@ -72510,11 +72877,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Phaistos",
                     "Zakros",
                     "Appears at 2 find sites",
-                    "word repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22M",
@@ -72557,7 +72922,8 @@ var wordAnnotations =
                     "word",
                     "Phaistos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NE-*22M",
                 "word": "𐝫𐘗𐘔"
@@ -72577,13 +72943,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites",
-                    "word repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -72616,13 +72980,11 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Knossos",
                     "Phaistos",
-                    "Appears at 4 find sites",
-                    "word repeated in Inscription"
+                    "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "*21M",
                 "word": "𐘑𐝫"
@@ -72658,13 +73020,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Knossos",
                     "Phaistos",
-                    "Appears at 4 find sites",
-                    "word repeated in Inscription"
+                    "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "*21M",
                 "word": "𐘑"
@@ -72679,7 +73039,8 @@ var wordAnnotations =
                     "word",
                     "Phaistos",
                     "Unique to find site, occurs repeatedly",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "AU-SI-RE",
                 "word": "𐙄𐘤𐘙"
@@ -72701,11 +73062,9 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Phaistos",
                     "Zakros",
-                    "Appears at 2 find sites",
-                    "word repeated in Inscription"
+                    "Appears at 2 find sites"
                 ],
                 "transliteratedWord": "*22M",
                 "word": "𐘔"
@@ -73211,7 +73570,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NE-TI",
                 "word": "𐝫𐘗𐘠"
@@ -73233,7 +73593,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-QA",
                 "word": "𐘾𐘌"
@@ -73267,7 +73628,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-DU-ZA",
                 "word": "𐘇𐘬𐘍"
@@ -73289,7 +73651,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA₂-TA-RE",
                 "word": "𐘷𐘳𐘙"
@@ -73323,7 +73686,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA₂-TI-TE",
                 "word": "𐘷𐘠𐘃"
@@ -73345,7 +73709,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "O-KA-MI-ZA-SI-I-NA",
                 "word": "𐘵𐘾𐘻𐘍𐘤𐘚𐘅"
@@ -73379,7 +73744,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "O-TE-JA",
                 "word": "𐘵𐘃𐘱"
@@ -73413,7 +73779,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RA-NA-TU-SU",
                 "word": "𐘴𐘅𐘹𐘲"
@@ -73435,7 +73802,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NI-MI",
                 "word": "𐘝𐘻"
@@ -73469,7 +73837,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TU-SU",
                 "word": "𐘹𐘲"
@@ -73491,7 +73860,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-TI-ZA-I-TE",
                 "word": "𐙁𐘠𐘍𐘚𐘃"
@@ -73525,7 +73895,8 @@ var wordAnnotations =
                     "word",
                     "Palaikastro",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-TE-TI",
                 "word": "𐙁𐘃𐘠"
@@ -73549,7 +73920,8 @@ var wordAnnotations =
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-KA-I-TA",
                 "word": "𐙁𐘾𐘚𐘳"
@@ -73642,7 +74014,8 @@ var wordAnnotations =
                     "Palaikastro",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-RE",
                 "word": "𐘀𐘙"
@@ -73751,7 +74124,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Khania",
                     "Palaikastro",
-                    "Appears at 3 find sites"
+                    "Appears at 3 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "NU",
                 "word": "𐝫𐘯"
@@ -75077,7 +75451,8 @@ var wordAnnotations =
                     "word",
                     "Pyrgos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*806-VIN",
                 "word": "𐝦𐙍"
@@ -75454,7 +75829,8 @@ var wordAnnotations =
                     "word",
                     "Syme",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "JA-SU-MA-TU-OLIV",
                 "word": "𐘱𐘲𐙁𐘹𐙋"
@@ -76247,6 +76623,7 @@ var wordAnnotations =
                     "Thera",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "QI-VIN+TE",
@@ -76264,7 +76641,8 @@ var wordAnnotations =
                     "word",
                     "Thera",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-A-SI-TE",
                 "word": "𐘾𐘇𐘤𐝫𐘃"
@@ -76499,6 +76877,7 @@ var wordAnnotations =
                     "Tylissos",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "*309B-*34-PU-PI",
@@ -76544,7 +76923,8 @@ var wordAnnotations =
                     "word",
                     "Tylissos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*309B-KI-PU",
                 "word": "𐙞𐘸𐘫"
@@ -76597,7 +76977,8 @@ var wordAnnotations =
                     "word",
                     "Tylissos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*309-JU-KI",
                 "word": "𐙝𐘶𐘸"
@@ -76707,7 +77088,8 @@ var wordAnnotations =
                     "word",
                     "Tylissos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*309C-RU-KA",
                 "word": "𐙟𐘘𐘾"
@@ -76729,7 +77111,8 @@ var wordAnnotations =
                     "word",
                     "Tylissos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*309-RI-WA-JU",
                 "word": "𐙝𐘭𐘮𐘶"
@@ -76752,7 +77135,8 @@ var wordAnnotations =
                     "word",
                     "Tylissos",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*309B-RI-JU",
                 "word": "𐝫𐙞𐘭𐘶"
@@ -77782,7 +78166,8 @@ var wordAnnotations =
                     "Khania",
                     "Phaistos",
                     "Zakros",
-                    "Appears at 4 find sites"
+                    "Appears at 4 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "RO",
                 "word": "𐝫𐘁"
@@ -77951,7 +78336,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-TI-RU",
                 "word": "𐘇𐘠𐘘"
@@ -78003,7 +78389,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TU-ME-SE",
                 "word": "𐝫𐘹𐘋𐘈"
@@ -78026,7 +78413,8 @@ var wordAnnotations =
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QE-SI-*79-E",
                 "word": "𐘿𐘤𐙀𐘡"
@@ -78050,6 +78438,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*28B-NU-MA-RE",
@@ -78073,7 +78462,8 @@ var wordAnnotations =
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-PI-KI",
                 "word": "𐘤𐘢𐘸"
@@ -78119,6 +78509,7 @@ var wordAnnotations =
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "KA-DI",
@@ -78188,6 +78579,7 @@ var wordAnnotations =
                     "Khania",
                     "Zakros",
                     "Appears at 2 find sites",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "*21F-*118",
@@ -78219,7 +78611,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KI-NI-MA",
                 "word": "𐘸𐘝𐙁"
@@ -78241,7 +78634,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "O-TA-NI-ZA-SE",
                 "word": "𐘵𐘳𐘝𐘍𐘈"
@@ -78336,6 +78730,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "*28B-NU-MA-RE",
@@ -78359,7 +78754,8 @@ var wordAnnotations =
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-PI-KI",
                 "word": "𐘤𐘢𐘸"
@@ -78391,7 +78787,8 @@ var wordAnnotations =
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-KA-I-TA",
                 "word": "𐙁𐘾𐘚𐘳"
@@ -78902,6 +79299,7 @@ var wordAnnotations =
                     "Zakros",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "U-JU",
@@ -78924,7 +79322,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RA-TU",
                 "word": "𐘇𐘴𐘹"
@@ -79095,7 +79494,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-TU-KO-RE",
                 "word": "𐙂𐘹𐘺𐘙"
@@ -79117,7 +79517,8 @@ var wordAnnotations =
                     "word",
                     "Haghia Triada",
                     "Zakros",
-                    "Appears at 2 find sites"
+                    "Appears at 2 find sites",
+                    "place name"
                 ],
                 "transliteratedWord": "A-RI-NI-TA",
                 "word": "𐘇𐘭𐘝𐘳"
@@ -79151,7 +79552,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TA-I-NU-MA-PA",
                 "word": "𐘳𐘚𐘯𐙁𐘂"
@@ -79174,7 +79576,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-KA-I-SE",
                 "word": "𐙁𐘾𐘚𐘈"
@@ -79206,7 +79609,8 @@ var wordAnnotations =
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-I-PI-TA",
                 "word": "𐘀𐘚𐘢𐘳"
@@ -79459,13 +79863,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites",
-                    "word repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -79495,13 +79897,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
                     "Appears at 4 find sites",
-                    "word repeated in Inscription",
                     "assigned number"
                 ],
                 "transliteratedWord": "*22F",
@@ -79525,6 +79925,7 @@ var wordAnnotations =
                     "Zakros",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "TA-NA-TE",
@@ -79574,7 +79975,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-KU-MI-NA",
                 "word": "𐘇𐙂𐘻𐘅"
@@ -79596,7 +79998,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-TA-NA-TE",
                 "word": "𐘇𐘳𐘅𐘃"
@@ -79618,7 +80021,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-MI-DA-U",
                 "word": "𐘇𐘻𐘀𐘉"
@@ -79640,7 +80044,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-DU-KU-MI-NA",
                 "word": "𐘇𐘬𐙂𐘻𐘅"
@@ -79664,7 +80069,8 @@ var wordAnnotations =
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DA-I-PI-TA",
                 "word": "𐘀𐘚𐘢𐘳"
@@ -79686,7 +80092,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-RE-ZA-SE",
                 "word": "𐘬𐘙𐘍𐘈"
@@ -79709,6 +80116,7 @@ var wordAnnotations =
                     "Zakros",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "WA-*362",
@@ -79730,7 +80138,8 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Zakros",
-                    "Unique to find site, occurs repeatedly"
+                    "Unique to find site, occurs repeatedly",
+                    "place name"
                 ],
                 "transliteratedWord": "DU-RE-ZA-SE",
                 "word": "𐘬𐘙𐘍𐘈"
@@ -79738,7 +80147,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 2 find sites",
@@ -79766,7 +80174,8 @@ var wordAnnotations =
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "U-*49",
                 "word": "𐘉𐘪"
@@ -79788,7 +80197,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-ZA",
                 "word": "𐙁𐘍"
@@ -79810,7 +80220,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MA-KI-DE-TE",
                 "word": "𐙁𐘸𐘦𐘃"
@@ -79834,6 +80245,7 @@ var wordAnnotations =
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "SA-MA",
@@ -79856,7 +80268,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-DE",
                 "word": "𐘇𐘦"
@@ -79878,7 +80291,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-MI-TA",
                 "word": "𐘇𐘻𐘳"
@@ -79900,7 +80314,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RA₂-RO-RE",
                 "word": "𐘽𐘁𐘙"
@@ -79923,7 +80338,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Zakros",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-JA-RE",
                 "word": "𐘂𐘱𐘙"
@@ -79945,7 +80361,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KA-KU-NE-TE",
                 "word": "𐘾𐙂𐘗𐘃"
@@ -80125,7 +80542,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "E-KU-RU",
                 "word": "𐝫𐘡𐙂𐘘"
@@ -80824,6 +81242,7 @@ var wordAnnotations =
                     "Zakros",
                     "Only instance of word",
                     "assigned number",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "ME-KI-DI",
@@ -80848,6 +81267,7 @@ var wordAnnotations =
                     "Zakros",
                     "Appears at 2 find sites",
                     "assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*21F-*118",
@@ -80870,7 +81290,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PU-NI-KA-*363",
                 "word": "𐘫𐘝𐘾𐚗"
@@ -80892,7 +81313,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QA-TI-JU",
                 "word": "𐘌𐘠𐘶"
@@ -80914,7 +81336,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "KU-PI",
                 "word": "𐙂𐘢"
@@ -80958,7 +81381,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "PA-NU-QE",
                 "word": "𐘂𐘯𐘿"
@@ -81052,7 +81476,8 @@ var wordAnnotations =
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "QE-SI-*79-E",
                 "word": "𐘿𐘤𐙀𐘡"
@@ -81075,7 +81500,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "I-TI-NI-SA",
                 "word": "𐘚𐘠𐘝𐘞"
@@ -81112,7 +81538,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "MI-ZA-SE",
                 "word": "𐘻𐘍𐘈"
@@ -81136,6 +81563,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
                     "always assigned number",
+                    "place name",
                     "head word elsewhere"
                 ],
                 "transliteratedWord": "*28B-NU-MA-RE",
@@ -81159,7 +81587,8 @@ var wordAnnotations =
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-PI-KI",
                 "word": "𐘤𐘢𐘸"
@@ -81189,7 +81618,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "JA-SA-MU",
                 "word": "𐘱𐘞𐘕"
@@ -81212,7 +81642,8 @@ var wordAnnotations =
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SA-MI-DA-E",
                 "word": "𐘞𐘻𐘀𐘡"
@@ -81234,7 +81665,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*363-KE-MA-SE",
                 "word": "𐚗𐘥𐙁𐘈"
@@ -81256,6 +81688,7 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Unique to find site, occurs repeatedly",
+                    "place name",
                     "head word"
                 ],
                 "transliteratedWord": "KA-DI",
@@ -81890,7 +82323,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-TE-TU",
                 "word": "𐘤𐘃𐘹"
@@ -81913,7 +82347,8 @@ var wordAnnotations =
                     "Haghia Triada",
                     "Zakros",
                     "Appears at 2 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "SI-TU",
                 "word": "𐘤𐘹"
@@ -81935,7 +82370,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "TE-AROM",
                 "word": "𐘃𐙌"
@@ -81957,7 +82393,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "RU-MA-TA-SE",
                 "word": "𐘘𐙁𐘳𐘈"
@@ -82384,13 +82821,11 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
-                    "Appears at 4 find sites",
-                    "word repeated in Inscription"
+                    "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "*22F",
                 "word": "𐝫𐘓𐝫"
@@ -82403,7 +82838,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Phaistos",
                     "Zakros",
                     "Appears at 2 find sites"
@@ -82468,13 +82902,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
-                    "Appears at 4 find sites",
-                    "word repeated in Inscription"
+                    "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "*22F",
                 "word": "𐘓"
@@ -82523,13 +82955,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
                     "Zakros",
-                    "Appears at 4 find sites",
-                    "word repeated in Inscription"
+                    "Appears at 4 find sites"
                 ],
                 "transliteratedWord": "*22F",
                 "word": "𐘓"
@@ -82770,7 +83200,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
@@ -82849,7 +83278,6 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Knossos",
                     "Phaistos",
@@ -82920,7 +83348,8 @@ var wordAnnotations =
                     "word",
                     "Zakros",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DI-KI",
                 "word": "𐝫𐘆𐘸"
@@ -83847,7 +84276,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Arkhalkhori",
                     "Only instance of word"
                 ],
@@ -84211,7 +84639,8 @@ var wordAnnotations =
                     "Phaistos",
                     "Arkhalkhori",
                     "Appears at 6 find sites",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "NA",
                 "word": "𐝫𐘅"
@@ -84257,7 +84686,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 2 find sites",
@@ -84283,7 +84711,8 @@ var wordAnnotations =
                     "word",
                     "Arkhalkhori",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-SI-DA-TO-I",
                 "word": "𐘇𐘤𐘀𐘄𐘚"
@@ -84305,7 +84734,8 @@ var wordAnnotations =
                     "word",
                     "Arkhalkhori",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*79-*301-SE-DE-*21F-*118",
                 "word": "𐙀𐙕𐘈𐘦𐘐𐙈"
@@ -84327,7 +84757,8 @@ var wordAnnotations =
                     "word",
                     "Arkhalkhori",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-SU-PU-WA",
                 "word": "𐘇𐘲𐘫𐘮"
@@ -84460,7 +84891,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 2 find sites"
@@ -85038,7 +85468,8 @@ var wordAnnotations =
                     "word",
                     "Arkhalkhori",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "*47-TE",
                 "word": "𐝫𐘨𐘃"
@@ -85161,7 +85592,8 @@ var wordAnnotations =
                     "word",
                     "Arkhalkhori",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "DE-MI",
                 "word": "𐝫𐘦𐘻"
@@ -85206,7 +85638,8 @@ var wordAnnotations =
                     "word",
                     "Arkhalkhori",
                     "Only instance of word",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
                 "transliteratedWord": "A-KI-RO",
                 "word": "𐘇𐘸𐘁"
@@ -85336,7 +85769,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Zakros",
                     "Arkhalkhori",
                     "Appears at 2 find sites",
@@ -86173,7 +86605,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "word",
                     "Haghia Triada",
                     "Khania",
                     "Gournia",
