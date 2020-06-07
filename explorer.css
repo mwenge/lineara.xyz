@@ -485,6 +485,7 @@ dt, dd, font {
   text-align: center;
   border: 2px white solid;
   display: inline-block;
+  user-select: none;
 }
 .navigation-command {
   background-color: rgb(51, 0, 17);
