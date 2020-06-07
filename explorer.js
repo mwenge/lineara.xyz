@@ -168,6 +168,9 @@ function autocomplete(inp) {
     the text field element and an array of possible autocompleted values:*/
   var currentFocus;
   var splitter = new GraphemeSplitter();
+  var searchHints = Array.from(inscriptions.values()).map(x => x.site).filter((v, i, a) => a.indexOf(v) === i);
+  searchHints = searchHints.concat(Array.from(inscriptions.values()).map(x => x.name));
+
   /*execute a function when someone writes in the text field:*/
   inp.addEventListener("input", function(e) {
     var a, i, val = this.value;
@@ -186,6 +189,14 @@ function autocomplete(inp) {
     this.parentNode.insertBefore(a, document.getElementById("search"));
 
     var text = event.target.value;
+    if (text.length > 2) {
+      searchHints.forEach( hint => {
+        if (hint.includes(text)) {
+          addEntry(this, a, hint, "");
+        }
+      });
+    }
+
     var syllables = text.split('-');
     var textInGlyphs = syllables.map(syllable => syllableToGlyph.has(syllable)
                                       ? syllableToGlyph.get(syllable) : "").join('');
@@ -210,8 +221,10 @@ function autocomplete(inp) {
                                         ? glyphToSyllable.get(glyph) : "").join('-');
 
       b.innerHTML = "<div class=\"autocomplete-item-left\">" + key + "</div>";
-      b.innerHTML += "<div class=\"autocomplete-item-right\">" + glyphsInText
-                    + " (" + value + ") </div>";
+      if (value) {
+        b.innerHTML += "<div class=\"autocomplete-item-right\">" + glyphsInText
+                      + " (" + value + ") </div>";
+      }
       /*insert a input field that will hold the current array item's value:*/
       b.innerHTML += "<input type='hidden' value='" + key  + "'>";
       /*execute a function when someone clicks on the item value (DIV element):*/
