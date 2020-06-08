@@ -75,6 +75,10 @@ input:focus::placeholder { color:transparent; }
   height: 100%;
   object-fit: contain;
   mix-blend-mode: multiply;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid black;
+
 }
 .img-wrapper > img {
   width: 100%;

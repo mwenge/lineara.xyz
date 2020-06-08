@@ -66,7 +66,6 @@ function checkKey(e) {
       break;
     case "w": // 'w' - highlight words according to frequency
       updateDisplayOfWordFrequency(document, true);
-      toggleColor(document.getElementById("word-command"));
       break;
     case "i": // 'i' - copy image of inscription to clipboard
       var current = getInscriptionHoveredOver();
@@ -1452,6 +1451,7 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
     return (containsRegEx || containsTerm ||
         inscription.transcription.includes(searchTerm) ||
         inscription.name.includes(searchTerm) ||
+        inscription.site.includes(searchTerm) ||
         inscription.words.includes(searchTerm) ||
         inscription.words.map(x => stripErased(x)).includes(searchTerm)
         );
@@ -1555,8 +1555,13 @@ function highlightMatchingWordTags(inscription, wordTags, activeWordTags) {
         i++;
         continue;
       }
-      var translation = document.getElementById(inscription.name + "-translation-" + i);
       var highlightColor = tagColors[activeWordTags[j]];
+      var translation = document.getElementById(inscription.name + "-translation-" + i);
+      if (!translation) {
+        console.log(inscription.name);
+        i++;
+        continue;
+      }
       translation.style.backgroundColor = highlightColor;
       var transliteration = document.getElementById(inscription.name + "-transliteration-" + i);
       transliteration.style.backgroundColor = highlightColor;
