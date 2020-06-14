@@ -1,15 +1,21 @@
 var zip = (...rows) => [...rows[0]].map((_,c) => rows.map(row => row[c]));
 
 function createNodes() {
-	var nodeList =  transactions.map(x => x.words).flat()
-    .map(x => ["sender", "recipient"].includes(x.description) ? x.transliteratedWord : "")
-    .filter((v, i, a) => v != "" && a.indexOf(v) === i); // Removes empty and duplicate elements
-	nodeList = (nodeList.concat(transactions.map(x => x.transactions).flat()
-    .map(x => ["sender", "recipient"].includes(x.description) ? x.transliteratedWord : ""))
-    .filter((v, i, a) => v != "" && a.indexOf(v) === i));
+  // Add senders and recipients
+	var masterList =  transactions.map(x => x.words).flat()
+    .map(x => ["sender", "recipient"].includes(x.description) ?
+      ({ group : x.transactionID.substring(0, 2), label: x.transliteratedWord }) : "");
+	masterList = masterList.concat(transactions.map(x => x.transactions).flat()
+    .map(x => ["sender", "recipient"].includes(x.description) ?
+      ({ group : x.transactionID.substring(0, 2), label: x.transliteratedWord }) : ""));
+
+  var nodeList = masterList.map(x => x.label)
+    .filter((v, i, a) => v != undefined && a.indexOf(v) === i);
+
+  var groupForNode =  new Map(masterList.map(x => [x.label, x.group]));
 
   var nodes = zip(nodeList, [...Array(nodeList.length).keys()])
-    .map(function(x) { return { 'id' : x[1], 'label' : x[0] }});
+    .map(function(x) { return { 'id' : x[1], 'label' : x[0], 'group': groupForNode.get(x[0]) }});
 
   var nodeLookup =  new Map(nodes.map(x => [x.label, x.id]));
   return { nodes: nodes, nodeLookup: nodeLookup};
@@ -53,12 +59,12 @@ function draw() {
   // create some nodes
   var nodeInfo = createNodes();
   var nodes = nodeInfo.nodes;
+  console.log(nodes);
   var nodeLookup = nodeInfo.nodeLookup;
   var normalizedTransactions = createEdges(nodeLookup);
 
   var edges = Array.from(normalizedTransactions.values())
     .map((x) => ({ from: x.from, to: x.to, label: x.label}));
-  console.log(edges);
 
   // create a network
   var container = document.getElementById("mynetwork");
@@ -72,7 +78,8 @@ function draw() {
       size: 16
     },
     layout: {
-      randomSeed: 34
+      randomSeed: 34,
+      improvedLayout: false,
     },
     physics: {
       forceAtlas2Based: {
