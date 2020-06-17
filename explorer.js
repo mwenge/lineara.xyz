@@ -332,6 +332,7 @@ function showInscriptionApparatus(inscription) {
     apparatusBox.style.display = "block";
 
 
+    appendNotesForInscription(inscription);
     appendFindSpots();
     appendYoungerCommentaryForInscription(inscription);
     appendCommentaryForInscription(inscription);
@@ -520,6 +521,35 @@ function showInscriptionApparatus(inscription) {
       iframe.style.width = "100%";
       iframe.addEventListener("click", makeHideElements([iframe]));
       commentBox.appendChild(iframe);
+    }
+
+    function appendNotesForInscription(inscription) {
+      var commentBox = document.createElement("div")
+      commentBox.className = 'comment-box';
+      commentBox.id = 'comment-box-' + inscription;
+      commentBox.addEventListener("click", makeHideElements([apparatusBox]));
+      apparatusBox.appendChild(commentBox);
+
+      inscription = inscription.replace(/[a-z]$/g, "");
+      var commentaries = ["notes/" + inscription]
+      commentBox.innerHTML = "";
+      var failures = 0;
+      commentaries.forEach( commentary => {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onloadend = function() {
+            if (xhttp.status == 404) {
+              failures++;
+            } else {
+              commentBox.innerHTML += xhttp.responseText;
+              commentBox.style.display = "block";
+            }
+            if (failures >= commentaries.length) {
+              commentBox.style.display = "none";
+            }
+        };
+        xhttp.open("GET", commentary, true);
+        xhttp.send();
+      });
     }
 
     function appendYoungerCommentaryForInscription(inscription) {

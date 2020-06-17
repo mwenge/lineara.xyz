@@ -1,14 +1,14 @@
 #mynetwork {
-  width: 900px;
-  height: 900px;
+  width: 100%;
+  height: 100%;
   border: 1px solid lightgray;
 }
 #loadingBar {
   position: absolute;
   top: 0px;
   left: 0px;
-  width: 902px;
-  height: 902px;
+  width: 100%;
+  height: 100%;
   background-color: rgba(200, 200, 200, 0.8);
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
@@ -19,8 +19,8 @@
 }
 #wrapper {
   position: relative;
-  width: 900px;
-  height: 900px;
+  width: 100%;
+  height: 100%;
 }
 
 #text {
