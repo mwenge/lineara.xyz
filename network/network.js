@@ -48,15 +48,18 @@ function createEdges(nodeLookup) {
     }
     if (description == "quantity") {
       normalizedTransactions.get(tranID).quantity = name;
-      normalizedTransactions.get(tranID).width = name;
+      normalizedTransactions.get(tranID).width = Math.log2(parseInt(name));
     }
   }
 
   var normalizedTransactions = new Map();
 	transactions.map(x => x.words.concat(x.transactions)).flat()
     .map(x => createEdge(x));
-  return normalizedTransactions;
 
+  var edges = Array.from(normalizedTransactions.values())
+    .map((x) => ({ from: x.from, to: x.to, label: x.label, title: x.title + ' ' + x.quantity, width: x.width}));
+
+  return edges;
 }
 
 function draw() {
@@ -65,10 +68,7 @@ function draw() {
   var nodes = nodeInfo.nodes;
   console.log(nodes);
   var nodeLookup = nodeInfo.nodeLookup;
-  var normalizedTransactions = createEdges(nodeLookup);
-
-  var edges = Array.from(normalizedTransactions.values())
-    .map((x) => ({ from: x.from, to: x.to, label: x.label, title: x.title}));
+  var edges = createEdges(nodeLookup);
 
   // create a network
   var container = document.getElementById("mynetwork");
