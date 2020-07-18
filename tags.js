@@ -5,6 +5,7 @@ var tagValues = [
   ["ARZf2", "libation formula"],
   ["CR(?)Zf1", "religious objects"],
   ["HT102", "wrong total"],
+  ["HT94a", "wrong total"],
   ["HT117", "longest text"],
   ["HT118", "wrong total"],
   ["HT119", "wrong total"],
