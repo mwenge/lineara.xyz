@@ -65794,6 +65794,33 @@ var inscriptions = new Map([
         "𐄑,𐄈"
     ]
 }],
+["HSZg1",{
+    "context": "",
+    "facsimileImages": [
+        "images/HSZg1-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "images": [
+        "images/HSZg1-Inscription.jpg"
+    ],
+    "name": "HSZg1",
+    "parsedInscription": "𐘇𐙁",
+    "scribe": "",
+    "site": "Haghios Stehanos",
+    "support": "stone object",
+    "transcription": "𐘇𐙁",
+    "translatedWords": [
+        "A-MA"
+    ],
+    "transliteratedWords": [
+        "A-MA"
+    ],
+    "words": [
+        "𐘇𐙁"
+    ]
+}],
 ["MILZb2",{
     "context": "",
     "facsimileImages": [
@@ -71193,7 +71220,7 @@ var wordsInCorpus = new Map([
 ["𐄂𐘚𐘬𐘣", 1],
 ["𐘨", 2],
 ["𐘿𐘦𐘻𐘯", 2],
-["𐘇𐙁", 2],
+["𐘇𐙁", 3],
 ["𐘬𐘴", 1],
 ["𐘙𐘠", 1],
 ["𐘱𐙂", 1],
