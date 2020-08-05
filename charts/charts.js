@@ -205,7 +205,7 @@ function toggleMetadatum(event, datum) {
   event.stopPropagation();
 }
 
-function addLetterImagesToConcorance(img, image, inscription, container) {
+function addLetterImagesToChart(img, image, inscription, container) {
   return function (e) {
     if (!coordinates.has(image)) {
       return;
@@ -220,11 +220,6 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
     var item = null;
     var span = null;
     var letters = lettersWithImages(inscription.parsedInscription);
-    if (inscription.name == "TLZa1" || inscription.name == "HTWa1464") {
-      console.log(letters);
-    }
-    var addedLabels = [];
-    var concordanceItem = null;
     for (var i = 0; i < imageCoords.length; i++) {
       var area = imageCoords[i].coords;
       var word = letters[i];
@@ -235,16 +230,20 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
 
       item = document.getElementById(word);
       if (!item) {
+        var d1 = document.createElement("div");
+        d1.className = 'concordance-item-wrapper';
+        container.appendChild(d1);
+        
         var item = document.createElement("div");
-        item.className = 'item-container concordance-item-container';
+        item.className = 'concordance-item-container';
         item.id = word;
         item.name = word;
+        d1.appendChild(item);
 
         var label = document.createElement("div");
-        label.className = "label concordance-container-label";
-        label.textContent = word;
-        item.appendChild(label);
-        container.appendChild(item);
+        label.className = "concordance-container-label";
+        label.textContent = word + " in the Linear A corpus";
+        d1.appendChild(label);
 
         var filterItem = document.createElement("div");
         filterItem.className = 'charts-filter-tag';
@@ -254,39 +253,29 @@ function addLetterImagesToConcorance(img, image, inscription, container) {
         filterItem.style.color = "white";
         filterDetailsContainer.appendChild(filterItem);
       }
-      concordanceItem = document.createElement("div");
-      concordanceItem.className = "concordance-item";
-      item.appendChild(concordanceItem);
-      if (!addedLabels.includes(word)) {
-        span = document.createElement("span");
-        span.className = "concordance-label";
-        span.textContent = inscription.name;
-        concordanceItem.appendChild(span);
-        addedLabels.push(word);
-      }
-      span = document.createElement("span");
-      concordanceItem.appendChild(span);
+      var d1 = document.createElement("div");
+      d1.className = "inscription-container";
 
-      var imgToAdd = document.createElement('img');
-      if (cachedImages.has(image)) {
-        imgToAdd.src = cachedImages.get(image)[i];
-        span.appendChild(imgToAdd);
-      } else {
-        var canvas = document.createElement('canvas');
-        canvas.height = 40;
-        canvas.width = 40 * (area.width / area.height);
-        var ctx = canvas.getContext('2d', {alpha: false});
-        ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
-        var dataURI = canvas.toDataURL();
-        if (dataURI == "data:,") {
-          console.log(inscription.name);
-        }
-        imagesToCache[i] = dataURI;
-        span.appendChild(canvas);
-      }
-    }
-    if (!cachedImages.has(image)) {
-      cachedImages.set(image, imagesToCache);
+      var imageContainer = document.createElement("div");
+      imageContainer.className = "concordance-item";
+      d1.appendChild(imageContainer);
+
+      var span = document.createElement("div");
+      span.className = "concordance-label";
+      span.textContent = inscription.name;
+      d1.appendChild(span);
+
+      item.appendChild(d1);
+      
+      span = document.createElement("span");
+      imageContainer.appendChild(span);
+
+      var canvas = document.createElement('canvas');
+      canvas.height = 50;
+      canvas.width = 50 * (area.width / area.height);
+      var ctx = canvas.getContext('2d', {alpha: false});
+      ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
+      span.appendChild(canvas);
     }
   };
 }
@@ -306,7 +295,7 @@ function addWordImagesToChart(img, image, inscription, type, container) {
     var currentWord = 0;
     var prevWord = -1;
     var item = null;
-    var span = null;
+    var imageSpan = null;
     var letters = lettersWithImages(inscription.parsedInscription);
     for (var i = 0; i < imageCoords.length; i++) {
       var area = imageCoords[i].coords;
@@ -322,18 +311,21 @@ function addWordImagesToChart(img, image, inscription, type, container) {
       if (currentWord != prevWord) {
         item = document.getElementById(type + "-" + word);
         if (!item) {
+          var d1 = document.createElement("div");
+          d1.className = 'concordance-item-wrapper';
+          container.appendChild(d1);
+          
           var item = document.createElement("div");
-          item.className = 'item-container concordance-item-container';
+          item.className = 'concordance-item-container concordance-item-word-container';
           item.id = type + "-" + word;
-          item.name = word;
+          item.name = type + "-" + word;
+          d1.appendChild(item);
 
           var label = document.createElement("div");
-          label.className = "label concordance-container-label";
-          label.textContent = word;
-          item.appendChild(label);
-          container.appendChild(item);
+          label.className = "concordance-container-label";
+          label.textContent = word + " in the Linear A corpus";
+          d1.appendChild(label);
 
-          // Add the word to the filter
           var filterItem = document.createElement("div");
           filterItem.className = 'charts-filter-tag';
           filterItem.textContent = word;
@@ -342,35 +334,30 @@ function addWordImagesToChart(img, image, inscription, type, container) {
           filterItem.style.color = "white";
           filterDetailsContainer.appendChild(filterItem);
         }
-        var concordanceItem = document.createElement("div");
-        concordanceItem.className = "concordance-item";
-        var span = document.createElement("span");
+        var d1 = document.createElement("div");
+        d1.className = "inscription-container";
+
+        var imageContainer = document.createElement("div");
+        imageContainer.className = "concordance-item";
+        d1.appendChild(imageContainer);
+        imageSpan = document.createElement("span");
+        imageContainer.appendChild(imageSpan);
+
+        var span = document.createElement("div");
         span.className = "concordance-label";
         span.textContent = inscription.name;
-        concordanceItem.appendChild(span);
-        span = document.createElement("span");
-        concordanceItem.appendChild(span);
-        item.appendChild(concordanceItem);
+        d1.appendChild(span);
+
+        item.appendChild(d1);
       }
       prevWord = currentWord;
 
-      var imgToAdd = document.createElement('img');
-      if (cachedImages.has(image)) {
-        imgToAdd.src = cachedImages.get(image)[i];
-      } else {
-        var canvas = document.createElement('canvas');
-        canvas.height = 40;
-        canvas.width = 40 * (area.width / area.height);
-        var ctx = canvas.getContext('2d', {alpha: false});
-        ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
-        var dataURI = canvas.toDataURL();
-        imgToAdd.src = dataURI;
-        imagesToCache[i] = dataURI;
-      }
-      span.appendChild(imgToAdd);
-    }
-    if (!cachedImages.has(image)) {
-      cachedImages.set(image, imagesToCache);
+      var canvas = document.createElement('canvas');
+      canvas.height = 40;
+      canvas.width = 40 * (area.width / area.height);
+      var ctx = canvas.getContext('2d', {alpha: false});
+      ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
+      imageSpan.appendChild(canvas);
     }
   };
 }
@@ -384,20 +371,12 @@ function loadWords(inscription, type, container) {
     imagesToLoad = imagesToLoad.concat(inscription.images);
   }
   imagesToLoad.forEach( image => {
-    if (cachedImages.has(image)) {
-      if (["word", "number", "ideogram"].includes(type)) {
-        addWordImagesToChart(img, image, inscription, type, container)();
-      } else if (["letter"].includes(type)) {
-        addLetterImagesToConcorance(img, image, inscription, container)();
-      }
-    } else {
-      var img = new Image();
-      img.src = "../" + encodeURIComponent(image);
-      if (["word", "number", "ideogram"].includes(type)) {
-        img.addEventListener("load", addWordImagesToChart(img, image, inscription, type, container));
-      } else if (["letter"].includes(type)) {
-        img.addEventListener("load", addLetterImagesToConcorance(img, image, inscription, container));
-      }
+    var img = new Image();
+    img.src = "../" + encodeURIComponent(image);
+    if (["word", "number", "ideogram"].includes(type)) {
+      img.addEventListener("load", addWordImagesToChart(img, image, inscription, type, container));
+    } else if (["letter"].includes(type)) {
+      img.addEventListener("load", addLetterImagesToChart(img, image, inscription, container));
     }
   });
 }

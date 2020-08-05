@@ -13,18 +13,35 @@ body {
   border-radius: 10px;
   box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
 }
-.concordance-item-container {
-  max-width: 800px;
+.concordance-item-wrapper {
   float: left;
-  display: inline-block;
   margin: 10px;
+  min-width: 150px;
   border-radius: 10px;
   box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
+  padding: 20px;
+  font-family: Times New Roman;
+}
+.concordance-item-container {
+  max-width: 800px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 60px);
   padding: 10px;
+  box-sizing: border-box;
+  grid-gap: 1px;
+}
+.concordance-item-word-container {
+  max-width: none;
+  grid-template-columns: repeat(5, 1fr);
+}
+.inscription-container {
+  padding: 5px;
+  background-color: white;
+  box-shadow:0 0 0 1px black;
 }
 .concordance-item {
-  display: inline;
   height: 50px;
+  text-align: center;
 }
 .concordance-canvas {
   height: left;
@@ -33,16 +50,9 @@ body {
   margin-bottom: 2px;
 }
 .concordance-label {
-  height: 40px;
-  background-color: black;
-  padding: 2px;
-  color: white;
-  opacity: 0.5;
   font-size: 10px;
-  writing-mode: tb-rl;
-  transform: rotate(-180deg);
-  margin-left: 5px;
-  margin-right: 5px;
+  font-weight: bold;
+  text-align: center;
 }
 .zoomed-item-container {
   position: fixed;
@@ -273,6 +283,7 @@ input:focus::placeholder { color:transparent; }
 }
 .concordance-container-label {
   font-size: 1.5em;
+  text-align: center;
 }
 .copyright-label {
   border-bottom-right-radius: 0px;
