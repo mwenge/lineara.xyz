@@ -50,9 +50,10 @@ body {
   margin-bottom: 2px;
 }
 .concordance-label {
+  font-family: 'Merriweather', serif;
   font-size: 10px;
-  font-weight: bold;
   text-align: center;
+  margin-top: 5px;
 }
 .zoomed-item-container {
   position: fixed;
@@ -282,7 +283,7 @@ input:focus::placeholder { color:transparent; }
   display: none;
 }
 .concordance-container-label {
-  font-size: 1.5em;
+  font-size: 1em;
   text-align: center;
 }
 .copyright-label {

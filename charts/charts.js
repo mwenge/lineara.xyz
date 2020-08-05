@@ -126,6 +126,11 @@ function wordIndexForLetterIndex(name, index, from) {
   return 0;
 }
 
+function lettersInWord(word) {
+  var splitter = new GraphemeSplitter();
+  return splitter.countGraphemes(word);
+}
+
 // Chart
 function shouldIncludeWord(word, type, tagsForWord) {
   if (word == '—') {
@@ -316,7 +321,11 @@ function addWordImagesToChart(img, image, inscription, type, container) {
           container.appendChild(d1);
           
           var item = document.createElement("div");
-          item.className = 'concordance-item-container concordance-item-word-container';
+          item.className = 'concordance-item-container';
+          if (lettersInWord(word) > 1) {
+            item.className += " concordance-item-word-container";
+          }
+
           item.id = type + "-" + word;
           item.name = type + "-" + word;
           d1.appendChild(item);
