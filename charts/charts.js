@@ -276,8 +276,15 @@ function addLetterImagesToChart(img, image, inscription, container) {
       imageContainer.appendChild(span);
 
       var canvas = document.createElement('canvas');
-      canvas.height = 50;
-      canvas.width = 50 * (area.width / area.height);
+      var w = area.width;
+      var h = area.height;
+      if (h > w) {
+        canvas.height = 50;
+        canvas.width = 50 * w / h;
+      } else {
+        canvas.width = 50;
+        canvas.height = 50 * h / w;
+      }
       var ctx = canvas.getContext('2d', {alpha: false});
       ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
       span.appendChild(canvas);
