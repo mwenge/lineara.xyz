@@ -2,7 +2,7 @@
 
 var CACHE_NAME = 'LinearB';
 var urlsToCache = [
-  'LinearBInscriptions.js',
+  'LinearAInscriptions.js',
 ];
 
 self.addEventListener('install', function(event) {
