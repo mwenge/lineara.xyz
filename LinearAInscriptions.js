@@ -65989,6 +65989,55 @@ var inscriptions = new Map([
         "𐘠𐙁"
     ]
 }],
+["ZO1",{
+    "context": "",
+    "facsimileImages": [
+        "images/ZO1-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "© Archaeological Society of Athens",
+    "imageRightsURL": "https://chronique.efa.gr/?kroute=report&id=8566#true-4",
+    "images": [
+        "images/ZO1-Inscription.jpg"
+    ],
+    "name": "ZO1",
+    "parsedInscription": "𐚩𐄚𐄐𐄍",
+    "scribe": "",
+    "site": "",
+    "support": "tablet",
+    "transcription": "𐚩𐄚𐄐𐄍",
+    "translatedWords": [
+        "*409-VS",
+        "217"
+    ],
+    "transliteratedWords": [
+        "*409-VS",
+        "217"
+    ],
+    "words": [
+        "𐚩",
+        "𐄚𐄐𐄍"
+    ]
+}],
+["ZOZa1",{
+    "context": "",
+    "facsimileImages": [],
+    "findspot": "",
+    "imageRights": "© Archaeological Society of Athens",
+    "imageRightsURL": "https://chronique.efa.gr/?kroute=report&id=4430#true-9",
+    "images": [
+        "images/ZOZa1-Inscription.jpg"
+    ],
+    "name": "ZOZa1",
+    "parsedInscription": "",
+    "scribe": "",
+    "site": "",
+    "support": "stone vessel",
+    "transcription": "",
+    "translatedWords": [],
+    "transliteratedWords": [],
+    "words": []
+}],
 ["PH54",{
     "context": "",
     "facsimileImages": [
@@ -70365,6 +70414,7 @@ var wordsInCorpus = new Map([
 ["𐙫", 5],
 ["𐘀𐘾", 5],
 ["𐝇𐝉", 5],
+["𐚩", 5],
 ["𐘚𐘀", 5],
 ["𐜎", 4],
 ["𐘸𐘙𐘳𐘅", 4],
@@ -70407,7 +70457,6 @@ var wordsInCorpus = new Map([
 ["𐘍", 4],
 ["𐙨", 4],
 ["𐙅𐘁", 4],
-["𐚩", 4],
 ["𐚨", 4],
 ["𐙎", 4],
 ["𐘿𐘽𐘉", 3],
@@ -71643,6 +71692,7 @@ var wordsInCorpus = new Map([
 ["𐘰𐘜", 1],
 ["𐘙𐙅", 1],
 ["𐘠𐙁", 1],
+["𐄚𐄐𐄍", 1],
 ["𐘚𐘞𐘭𐘥", 1],
 ]);
 var ligatures = new Map([

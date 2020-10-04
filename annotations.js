@@ -64499,7 +64499,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Khania",
-                    "Unique to find site, occurs repeatedly"
+                    "ZO",
+                    "Appears at 2 find sites",
+                    "head word elsewhere"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩"
@@ -64639,7 +64641,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Khania",
-                    "Unique to find site, occurs repeatedly"
+                    "ZO",
+                    "Appears at 2 find sites",
+                    "head word elsewhere"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩"
@@ -64653,7 +64657,9 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Khania",
-                    "Unique to find site, occurs repeatedly"
+                    "ZO",
+                    "Appears at 2 find sites",
+                    "head word elsewhere"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩"
@@ -64710,7 +64716,9 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Khania",
-                    "Unique to find site, occurs repeatedly"
+                    "ZO",
+                    "Appears at 2 find sites",
+                    "head word elsewhere"
                 ],
                 "transliteratedWord": "*409-VS",
                 "word": "𐚩𐝫"
@@ -86791,6 +86799,35 @@ var wordAnnotations =
                 "word": "𐘠𐙁"
             }
         ]
+    },
+    {
+        "name": "ZO1",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "word",
+                    "Khania",
+                    "ZO",
+                    "Appears at 2 find sites",
+                    "head word"
+                ],
+                "transliteratedWord": "*409-VS",
+                "word": "𐚩"
+            },
+            {
+                "tags": [
+                    "word",
+                    "ZO",
+                    "Only instance of word"
+                ],
+                "transliteratedWord": "217",
+                "word": "𐄚𐄐𐄍"
+            }
+        ]
+    },
+    {
+        "name": "ZOZa1",
+        "tagsForWords": []
     },
     {
         "name": "PH54",
