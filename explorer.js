@@ -1694,16 +1694,32 @@ function searchForWord(evt, name, index) {
   searchBox.dispatchEvent(new InputEvent("input"));
 }
 
-function shuffleArray(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
+function shuffleImagesToFront(array) {
+  
+  function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
   }
-  return array;
+  const hasImage = function(x) { return inscriptions.get(x).facsimileImages.length > 0; }
+  const hasLetterMaps = function(x) { 
+    var imgs = inscriptions.get(x).facsimileImages;
+    if (!imgs.length) {
+      return false;
+    }
+    return imgs.some(v => coordinates.has(v));
+  }
+  let a1 = shuffle(array.filter((v, i, a) => hasLetterMaps(v)));
+  a1 = a1.concat(shuffle(array.filter((v, i, a) => hasImage(v))));
+  a1 = a1.concat(shuffle(array.filter((v, i, a) => !hasImage(v))));
+  
+  return a1;
 }
 
 // Shuffle the inscriptions so we display a different group at the top every time
-var inscriptionsToLoad = shuffleArray(Array.from(inscriptions.keys()))[Symbol.iterator]();
+var inscriptionsToLoad = shuffleImagesToFront(Array.from(inscriptions.keys()))[Symbol.iterator]();
 // create config object: rootMargin and threshold
 // are two properties exposed by the interface
 const config = {

@@ -297,7 +297,6 @@ input:focus::placeholder { color:transparent; }
   border-bottom-right-radius: 0px;
 }
 .tag-container {
-  padding: 2px;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -305,6 +304,7 @@ input:focus::placeholder { color:transparent; }
   z-index: 100;
   display: inline-block;
   max-width: 80%;
+  line-height: 13px;
 }
 .tag {
   padding: 2px;
@@ -312,7 +312,7 @@ input:focus::placeholder { color:transparent; }
   border-radius: 2px;
   color: black;
   opacity: 0.5;
-  font-size: 12px;
+  font-size: 10px;
   background-color: gray;
   display: inline-block;
 }
@@ -353,7 +353,7 @@ dt, dd, font {
 .word-tip {
   max-width: 50%;
   position: absolute;
-  font-size: 14px;
+  font-size: 12px;
   color: white;
   background-color: black;
   border: 1px solid white;
