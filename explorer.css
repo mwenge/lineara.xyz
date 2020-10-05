@@ -351,7 +351,7 @@ dt, dd, font {
   font-size: 12px;
 }
 .word-tip {
-  max-width: 50%;
+  max-width: 66%;
   position: absolute;
   font-size: 12px;
   color: white;

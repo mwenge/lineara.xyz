@@ -717,7 +717,7 @@ function addImageToItem(item, imageToAdd, inscription, imageType) {
 
   var itemZoom = document.createElement("div");
   itemZoom.className = 'item-zoom';
-  itemShell.appendChild(itemZoom);
+  item.appendChild(itemZoom);
 
   var label = document.createElement("div");
   label.className = 'label';
@@ -1244,7 +1244,8 @@ function highlightWords(name, index) {
       element.style.backgroundColor = "yellow";
       setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.5)");
     }
-    if (e.target.className != "letter-highlight") {
+    var inscription = inscriptions.get(name);
+    if (inscription.support != "nodule" || (e.target.className != "letter-highlight") ) {
       var element = document.getElementById(name + "-transcription-" + index);
       addWordTip(element.textContent, name, index);
     }
