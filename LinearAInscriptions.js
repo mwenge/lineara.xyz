@@ -15659,20 +15659,18 @@ var inscriptions = new Map([
         "𐄈"
     ]
 }],
-["HT136",{
+["HT136a",{
     "context": "LMIB",
     "facsimileImages": [
-        "images/HT136a-Facsimile.jpg",
-        "images/HT136b-Facsimile.jpg"
+        "images/HT136a-Facsimile.jpg"
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [
-        "images/HT136a-Inscription.jpg",
-        "images/HT136b-Inscription.jpg"
+        "images/HT136a-Inscription.jpg"
     ],
-    "name": "HT136",
+    "name": "HT136a",
     "parsedInscription": "𐝫𐘓𐄒𐝫\n𐝫𐄑𐄉𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -15699,39 +15697,6 @@ var inscriptions = new Map([
         "𐄒𐝫",
         "\n",
         "𐝫𐄑𐄉𐝫",
-        "\n",
-        "𐝫"
-    ]
-}],
-["HT136a",{
-    "context": "LMIB",
-    "facsimileImages": [
-        "images/HT136a-Facsimile.jpg"
-    ],
-    "findspot": "Casa del Lebete",
-    "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
-    "images": [
-        "images/HT136a-Inscription.jpg"
-    ],
-    "name": "HT136a",
-    "parsedInscription": "𐝫\n𐝫",
-    "scribe": "",
-    "site": "Haghia Triada",
-    "support": "tablet",
-    "transcription": "𐝫\n𐝫",
-    "translatedWords": [
-        "𐝫",
-        "\n",
-        "𐝫"
-    ],
-    "transliteratedWords": [
-        "𐝫",
-        "\n",
-        "𐝫"
-    ],
-    "words": [
-        "𐝫",
         "\n",
         "𐝫"
     ]
@@ -70276,7 +70241,7 @@ var sequences = new Map([
 ],
 ]);
 var wordsInCorpus = new Map([
-["", 2735],
+["", 2732],
 ["𐄁", 465],
 ["𐄇", 309],
 ["𐙕", 238],

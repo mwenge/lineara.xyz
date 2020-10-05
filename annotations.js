@@ -30277,7 +30277,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "HT136",
+        "name": "HT136a",
         "tagsForWords": [
             {
                 "tags": [
@@ -30309,34 +30309,6 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "23",
                 "word": "𐝫𐄑𐄉𐝫"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            }
-        ]
-    },
-    {
-        "name": "HT136a",
-        "tagsForWords": [
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
             },
             {
                 "tags": [],
