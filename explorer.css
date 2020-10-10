@@ -316,8 +316,9 @@ input:focus::placeholder { color:transparent; }
   background-color: gray;
   display: inline-block;
 }
-.search-term, .tag:hover, .item > span, .zoomed-close-window .imagerights-label:hover {
-  cursor: pointer;
+.letter-highlight:hover, .search-term, .tag:hover, 
+.item > span, .zoomed-close-window .imagerights-label:hover {
+cursor: pointer;
 }
 .image-label {
   position: fixed;
@@ -351,7 +352,6 @@ dt, dd, font {
   font-size: 12px;
 }
 .word-tip {
-  max-width: 66%;
   position: absolute;
   font-size: 12px;
   color: white;

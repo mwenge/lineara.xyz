@@ -749,7 +749,6 @@ function addImageToItem(item, imageToAdd, inscription, imageType) {
   itemShell.appendChild(inscriptionImage);
 
   itemZoom.style.backgroundImage = "url('" + img.src + "')";
-  img.addEventListener("mousemove", makeMoveLens(img, itemZoom, imageToAdd, inscription.name));
   itemShell.addEventListener("mousemove", showCopyright(copyright));
   itemShell.addEventListener("mouseout", makeHideElements([itemZoom, copyright]));
   function showCopyright() {
@@ -791,9 +790,8 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, itemZoo
       highlight.style.height = ((area.height / img.naturalHeight) * 100) + '%';
       highlight.style.top = ((area.y / img.naturalHeight) * 100) + '%';
       highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
-      highlight.addEventListener("mousemove", makeMoveLens(img, itemZoom, imageToAdd, name));
       highlight.addEventListener("mouseenter", highlightWords(name, currentWord));
-      highlight.addEventListener("mouseenter", paintHighlightOnZoomImage(itemZoom, img, wordContainer));
+      highlight.addEventListener("click", updateSearchTerms("\"" + inscriptions.get(name).words[currentWord] + "\""));
       highlight.addEventListener("mouseout", clearHighlight(name, currentWord));
       wordContainer.appendChild(highlight);
     }
@@ -1244,11 +1242,8 @@ function highlightWords(name, index) {
       element.style.backgroundColor = "yellow";
       setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.5)");
     }
-    var inscription = inscriptions.get(name);
-    if (inscription.support != "nodule" || (e.target.className != "letter-highlight") ) {
-      var element = document.getElementById(name + "-transcription-" + index);
-      addWordTip(element.textContent, name, index);
-    }
+    var element = document.getElementById(name + "-transcription-" + index);
+    addWordTip(element.textContent, name, index);
   }
 }
 
