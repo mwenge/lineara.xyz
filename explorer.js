@@ -196,7 +196,7 @@ function autocomplete(inp) {
       });
     }
 
-    var syllables = text.split('-');
+    var syllables = text.toUpperCase().split('-');
     var textInGlyphs = syllables.map(syllable => syllableToGlyph.has(syllable)
                                       ? syllableToGlyph.get(syllable) : "").join('');
     var accumulatedOffset = 0;
@@ -212,6 +212,9 @@ function autocomplete(inp) {
     });
 
     function addEntry(e, a, key, value) {
+      if (a.children.length > 10) {
+        return;
+      }
       /*create a DIV element for each matching element:*/
       var b = document.createElement("div");
       b.className = "autocomplete-item"
@@ -1995,6 +1998,7 @@ function loadExplorer() {
     var visibleInscription = loadInscription(inscriptions.get(key));
     observer.observe(visibleInscription);
   }
+  showSearch();
 
   function loadInscriptionLevelTags() {
     for (var inscription of inscriptions.values()) {
