@@ -2022,7 +2022,6 @@ function loadExplorer() {
   function loadAnnotations() {
     var collectedWordTags = [];
     for (var annotation of wordAnnotations) {
-      console.log(annotation.name);
       var inscription = inscriptions.get(annotation.name);
       inscription.wordTags = [];
       for (var word of annotation.tagsForWords) {
