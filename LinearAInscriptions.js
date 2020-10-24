@@ -14,7 +14,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘿𐘽𐘉𐄁\n𐘸𐘁𐄙𐄘𐄍\n𐙀𐘲𐄖\n𐘆𐘆𐘍𐘥𐄔𐄈\n𐙂𐘰𐘯𐄙𐄏\n𐘇𐘴𐘅𐘙𐄙𐄋",
     "scribe": "HT Scribe 21",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘿𐘽𐘉𐄁𐘸𐘁𐄙𐄘\n𐄍𐙀𐘲𐄖𐘆𐘆\n𐘍𐘥𐄔𐄈𐙂𐘰𐘯𐄙\n𐄏𐘇𐘴𐘅𐘙𐄙𐄋",
     "translatedWords": [
         "QE-RA₂-U",
@@ -89,7 +89,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘾𐘘𐄁𐜋𐄑𐝫\n𐝫𐜊𐄐𐄍\n𐜎𐄉𐝫\n𐝫𐘸𐘙𐘳𐘅𐜋𐄔𐄊𐝫\n𐝫𐜊𐄓𐄍\n𐄇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘾𐘘𐄁𐜋𐄑𐝫\n𐝫𐜊𐄐𐄍𐜎𐄉𐝫\n𐝫𐘸𐘙𐘳𐘅𐜋𐄔𐄊𐝫\n𐝫𐜊𐄓𐄍\n𐄇",
     "translatedWords": [
         "A-KA-RU",
@@ -170,7 +170,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙁𐝫\n𐝫𐘆𐘅𐝫𐄈\n𐘿𐘽𐘱𐝫\n𐝫𐄈\n𐘆𐄈𐝫\n𐝫𐄊\n𐘕𐘘𐄇\n𐘘𐝫\n𐝫𐘤𐘹𐘽𐘙𐄋\n𐘆𐝫\n𐝫𐙂𐘰𐘯𐄉𐝫\n𐝫𐙁𐘆𐄈𐝫\n𐘀𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙁𐝫𐘆𐘅𐝫\n𐝫𐄈𐘿𐘽𐘱𐝫\n𐝫𐄈𐘆𐄈𐝫\n𐄊𐘕𐘘𐄇𐘘𐝫\n𐝫𐘤𐘹𐘽𐘙𐄋𐘆𐝫\n𐝫𐙂𐘰𐘯𐄉𐝫\n𐝫𐙁𐘆𐄈𐘀𐝫",
     "translatedWords": [
         "𐝫",
@@ -293,7 +293,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙚𐘠𐘾𐘇𐘙𐝫\n𐝫𐘬𐘭𐘃𐄈\n𐘂𐘙𐝫\n𐝫𐘳𐘢𐘤𐘆𐄇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙚𐘠𐘾𐘇𐘙\n𐝫𐘬𐘭𐘃𐄈𐘂𐘙\n𐝫𐘳𐘢𐘤𐘆𐄇",
     "translatedWords": [
         "𐝫",
@@ -350,7 +350,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙛𐝫\n𐝫𐙁𐘤𐄒𐝫\n𐝫𐘣𐘬𐄐𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 1",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙛𐝫\n𐝫𐙁𐘤𐄒𐝫\n𐝫𐘣𐘬𐄐𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -413,7 +413,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘂𐄁\n𐘀𐘳𐘴𐄁𐘃𐄁𐘝𐄐𐄋\n𐘢𐘳𐘱𐄑𐄊\n𐛑𐝓\n𐙁𐙭𐄐\n𐘵𐘽𐘆𐘗𐄈\n𐘾𐘂𐘿𐄋𐝕\n𐘀𐘿𐘴𐄁\n𐘿𐘢𐘳𐄑𐄈𐝕\n𐘝𐄐𐄋𐝆",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐘂𐄁𐘀𐘳𐘴\n𐄁𐘃𐄁𐘝𐄐𐄋𐘢𐘳𐘱\n𐄑𐄊𐛑𐝓𐙁𐙭\n𐄐𐘵𐘽𐘆𐘗𐄈𐘾\n𐘂𐘿𐄋𐝕\n𐘀𐘿𐘴𐄁𐘿𐘢𐘳\n𐄑𐄈𐝕𐘝𐄐𐄋𐝆",
     "translatedWords": [
         "\"summary account?\"",
@@ -545,7 +545,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮𐘬𐘝𐘻𐄉𐝅\n𐘴𐘠𐘈𐄇\n𐙁𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃\n𐘞𐙁𐄒𐄋\n𐘰𐘝𐘅𐄐𐄍𐝆",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘮𐘬𐘝𐘻\n𐄉𐝅𐝢𐘠𐘈𐄇𐙁\n𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃𐘞𐙁𐄒\n𐄋𐘰𐘝𐘅𐄐𐄍𐝆",
     "translatedWords": [
         "WA-DU-NI-MI",
@@ -638,7 +638,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘿𐘠𐄁𐙇\n𐘚𐘘𐘱𐄉\n𐘬𐘱𐄊\n𐘳𐘅𐘠𐄇\n𐘀𐘙𐄇\n𐘃𐘹𐄇",
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘿𐘠𐄁𐙇\n𐘚𐘘𐘱𐄉\n𐘬𐘱𐄊\n𐘳𐘅𐘠𐄇𐘀𐘙\n𐄇𐘃𐘹𐄇",
     "translatedWords": [
         "QE-TI",
@@ -716,7 +716,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘐𐘹𐘗𐄇\n𐘀𐘘𐙵𐄈",
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘐𐘹𐘗𐄇\n𐘀𐘘𐙵𐄈",
     "translatedWords": [
         "*21F-TU-NE",
@@ -755,7 +755,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘧𐘆𐜓𐄐\n𐘰𐘾𐘴𐘠𐄇𐝆\n𐘂𐄉𐝆\n𐘃𐙕𐄈\n𐘌𐙠𐘚𐝕\n𐘤𐘸𐘴𐝃\n𐘸𐘙𐘳𐘅𐝆",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘧𐘆𐜓𐄐𐘰\n𐘾𐘴𐘠𐄇𐝆𐘂𐄉𐝆\n𐘃𐙕𐄈𐘌𐙠𐘚\n𐝕𐘤𐘸𐘴𐝃\n𐘸𐘙𐘳𐘅𐝆",
     "translatedWords": [
         "JE-DI",
@@ -848,7 +848,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘲𐘜𐙓𐄇\n—\n𐄋\n𐘰𐙓𐄈\n𐘌𐙠𐘚𐄇𐝃𐝄\n𐘾𐘂𐝆\n𐘂𐘱𐘙𐄇𐝄\n𐛥𐝆\n𐝆",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘲𐘜𐙓𐄇\n—\n𐄋𐘰𐙓𐄈𐘌𐙠\n𐘚𐄇𐝃𐝄𐘾𐘂𐝆\n𐘂𐘱𐘙𐄇𐝄𐛥𐝆\n𐝆",
     "translatedWords": [
         "SU-PU₂-*188",
@@ -947,7 +947,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝕\n𐙚𐘹𐄐\n𐘆𐘅𐘉𐄊\n𐘿𐘫𐄈\n𐙰𐘆𐘴𐄈𐝆\n𐘳𐘚𐙌𐄈𐝆\n𐘇𐘘𐄊𐝃\n𐙂𐘁𐄒𐄇𐝕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝕𐙚𐘹\n𐄐𐘆𐘅𐘉𐄊𐘿𐘫\n𐄈𐙰𐘆𐘴𐄈𐝆𐘳\n𐘚𐙌𐄈𐝆𐘇𐘘\n𐄊𐝃𐙂𐘁𐄒𐄇𐝆𐝃",
     "translatedWords": [
         "SA-RO",
@@ -1079,7 +1079,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘰𐄁\n𐘮𐘱𐘢𐝫\n—\n𐘾𐙙𐄁\n𐘂𐘦𐄉\n𐘇𐘤𐄉\n𐙚𐘹𐄎\n𐙰𐘆𐘴𐄈\n𐘿𐘫𐄈\n𐘳𐘚𐙌𐄈\n𐘆𐘅𐘉𐄊\n𐙂𐘁𐄑𐄊",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘰𐄁𐘮𐘱𐘢𐝫\n—\n𐘾𐙙𐄁𐘂𐘦𐄉𐘇𐘤\n𐄉𐙚𐘹𐄎𐙰𐘆𐘴𐄈\n𐘿𐘫𐄈𐘳𐘚𐙌𐄈\n𐘆𐘅𐘉𐄊\n𐙂𐘁𐄑𐄊",
     "translatedWords": [
         "PA₃",
@@ -1202,7 +1202,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂𐘝𐘲𐄁\n𐘞𐙁𐄊\n𐄁𐘂𐄁\n𐘀𐘙𐄐𐄌𐝆\n𐘉𐙱𐘍𐄊\n𐙕𐄌\n𐘉𐙱𐘍𐄐𐄊𐝫\n𐙙𐘘𐄈𐝆\n𐘀𐘭𐘀𐄎\n𐘋𐘍𐄉",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙂𐘝𐘲𐄁𐘞𐙁𐄊𐄁\n𐘉𐙱𐘍𐄊\n𐘂𐄁𐘀𐘙𐄐𐄌𐝆𐙕\n𐄌𐘉𐙱𐘍𐄐𐄊𐝫𐙙𐘘\n𐄈𐝆𐘀𐘭𐘀𐄎𐘋𐘍𐄉",
     "translatedWords": [
         "Kunisu (a place)",
@@ -1322,7 +1322,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘉𐘠𐄇\n𐘀𐘙𐄈\n𐘳𐘭𐘅𐄐𐄋\n𐙢𐘳𐄌𐝆\n𐘾𐘞𐘘𐄌\n𐘳𐘅𐘠𐄏𐝃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘉𐘠𐄇𐘀𐘙𐄈𐘳\n𐘭𐘅𐄐𐄋𐙢𐘳𐄌𐝆\n𐘾𐘞𐘘𐄌\n𐘳𐘅𐘠𐄏𐝃",
     "translatedWords": [
         "U-TI",
@@ -1403,7 +1403,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘘𐘴𐝫𐄁𐝫𐄉\n𐘾𐘁𐘅𐄈\n𐙮𐘭𐄇\n𐙂𐘁𐄐\n𐘇𐘲𐘱𐄇\n𐙇𐘚𐄉\n𐘷𐄐𐄋",
     "scribe": "HT Scribe 24",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘘𐘴𐝫𐄁𐝫\n𐄉𐘾𐘁𐘅𐄈𐘇\n𐙮𐘭𐄇𐙂𐘁𐄐𐘇\n𐘲𐘱𐄇𐙇𐘚\n𐄉𐘷𐄐𐄋",
     "translatedWords": [
         "A-RU-RA",
@@ -1490,7 +1490,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘦𐘯\n𐘘𐘽\n𐙅𐘾𐄓\n𐘾𐄒\n𐘾𐄔\n𐘘𐙀𐘅𐘾𐄒\n𐘞𐘿𐘭𐄁𐘾𐄒\n𐙂𐘁𐄙𐄗",
     "scribe": "HT Scribe 24",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘦𐘯𐘘𐘽\n𐙅𐘾𐄓𐘾𐄒\n𐘾𐄔𐘘𐙀𐘅\n𐘾𐄒𐘞𐘿𐘭𐄁\n𐘾𐄒𐙂𐘁\n𐄙𐄗",
     "translatedWords": [
         "DE-NU",
@@ -1586,7 +1586,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘌𐘠𐘀𐘃𐄁𐜉𐄋\n𐙘𐄋\n𐘿𐘹𐘗𐄁𐚻𐄇\n𐘡𐄒\n𐛢𐄁𐙈𐄋\n𐜚𐄉\n𐘝𐄇\n𐚼𐝇\n𐘀𐘚𐄔",
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘌𐘠𐘀𐘃𐄁\n𐜉𐄋𐙘𐄋\n𐘿𐘹𐘗𐄁𐚻𐄇\n𐘡𐄒𐛢𐄁𐙈\n𐄋𐜚𐄉𐘝𐄇\n𐚼𐝇𐘀𐘚𐄔",
     "translatedWords": [
         "QA-TI-DA-TE",
@@ -1706,7 +1706,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘉𐘦𐘳𐙍𐄁𐘃𐄁\n𐘙𐘍𐄋𐝫𐝆𐝫\n𐘃𐘹𐄔𐄌\n𐘃𐘸𐄑𐄍𐝆\n𐙂𐙀𐘝𐄐𐄎\n𐘀𐘤𐙈𐄐𐄏\n𐘚𐘬𐘗𐘤𐄋\n𐙂𐘁𐄙𐄒𐝆",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐘉𐘦𐘳\n𐙍𐄁𐘃𐄁𐘙𐘍𐄋𐝫𐝆𐝫\n𐘃𐘹𐄔𐄌𐘃𐘸\n𐄑𐄍𐝆𐙂𐙀𐘝𐄐𐄎\n𐘀𐘤𐙈𐄐𐄏𐘚𐘬\n𐘗𐘤𐄋\n𐙂𐘁𐄙𐄒𐝆",
     "translatedWords": [
         "KA-U-DE-TA",
@@ -1817,7 +1817,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘫𐙍𐄁𐘃𐄁𐙉𐄒\n𐜗𐄉\n𐜉𐄉\n𐙘𐄏\n𐙋𐄐𐄉\n𐘇𐘜𐘅𐘬𐙉𐄓𐄋\n𐜗𐄋\n𐜉𐄊\n𐙘𐄌\n𐙋𐄐𐄊",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘫𐙍𐄁𐘃𐄁𐙉𐄒𐜗𐄉\n𐜉𐄉𐙘𐄏𐙋𐄐𐄉\n𐘇𐘜𐘅𐘬𐙉𐄓𐄋\n𐜗𐄋𐜉𐄊𐙘𐄌\n𐙋𐄐𐄊",
     "translatedWords": [
         "PU-VIN",
@@ -1943,7 +1943,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘉𐘟𐘤𐙉\n𐘬𐙌𐘇𐄞𐄗𐄊\n𐛹𐄝𐄖\n𐙓𐄁𐘸𐘁𐄜\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘉𐘟𐘤𐙉𐘬𐙌𐘇\n𐄞𐄗𐄊𐛹\n𐄝𐄖\n𐙓𐄁𐘸𐘁𐄜\n𐝫",
     "translatedWords": [
         "U-*34-SI",
@@ -2012,7 +2012,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐙂𐘂𐄁\n𐘆𐘅𐘉𐝄\n𐄁𐘮𐝁\n𐜇𐝃𐝄\n𐘞𐘊𐘼𐝇",
     "scribe": "HT Scribe 10",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐙂𐘂𐄁𐘆\n𐘅𐘉𐝄𐄁𐘮\n𐝁𐜇𐝃𐝄\n𐘞𐘊𐘼𐝇",
     "translatedWords": [
         "KA-KU-PA",
@@ -2084,7 +2084,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘴󽇫𐘠𐄁𐘃𐄁𐙍𐄒𐄍\n𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
     "scribe": "HT Scribe 18",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍\n𐄒𐄍𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
     "translatedWords": [
         "RA-󽇫-TI",
@@ -2144,7 +2144,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘂𐘈𐛱𐄑\n𐜓𐄈\n𐙘𐄉\n𐘞𐘽𐙉𐄐\n𐘝𐄐",
     "scribe": "HT Scribe 20",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘂𐘈𐛱𐄑𐜓𐄈\n𐙘𐄉𐘞𐘽𐙉𐄐𐘝\n𐄐",
     "translatedWords": [
         "PA-SE",
@@ -2216,7 +2216,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍𐄒\n𐘞𐘁𐄋𐝆\n𐘬𐘋𐘆𐄓𐄉𐝆",
     "scribe": "HT Scribe 18",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘴𐙐𐘠𐄁𐘃𐄁\n𐙍𐄒𐘞𐘁\n𐄋𐝆𐘬𐘋𐘆\n𐄓𐄉𐝆",
     "translatedWords": [
         "RA-*164-TI",
@@ -2282,7 +2282,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘂𐘁𐘲𐄁\n𐙂𐙁𐘶𐝃\n𐘿𐙂𐘙𐄁𐘆𐝆\n𐘑𐝄\n𐘞𐘙𐘶𐝄\n𐘮𐝃\n𐜇𐝆",
     "scribe": "HT Scribe 10",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘂𐘁𐘲𐄁𐙂\n𐙁𐘶𐝃𐘿𐙂\n𐘙𐄁𐘆𐝆𐘑𐝄\n𐘞𐘙𐘶𐝄𐘮\n𐝃𐜇𐝆",
     "translatedWords": [
         "PA-RO-SU",
@@ -2372,7 +2372,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘢𐘳𐘾𐘈𐄁𐘃𐄁𐙉𐄙𐄕𐄇\n𐜋𐄐𐄇\n𐜎𐄉𐝕\n𐙘𐄍𐝕\n𐙋𐄇𐝃",
     "scribe": "HT Scribe 22",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘢𐘳𐘾𐘈𐄁𐘃𐄁\n𐙉𐄙𐄕𐄇𐜋𐄐\n𐄇𐜎𐄉𐝕𐙘𐄍𐝕\n𐙋𐄇𐝃",
     "translatedWords": [
         "PI-TA-KA-SE",
@@ -2459,7 +2459,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐛸𐄚𐄒\n—\n𐜣𐄙𐄐𐄉",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐛸𐄚𐄒\n—\n𐜣𐄙𐄐𐄉",
     "translatedWords": [
         "𐝫",
@@ -2510,7 +2510,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘅𐄁𐙗𐝁\n𐙜𐝅\n𐜍𐝅\n𐜖𐝅\n𐜏𐝅\n𐛚𐝅\n𐙍𐄐\n𐚹𐄐\n𐚺𐄐\n𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇\n𐘞𐘞𐘋𐝇\n𐛊𐄐\n𐘺𐘘𐄇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐘅𐄁𐙗𐝁𐙜𐝅𐜍𐝅\n𐜖𐝅𐜏𐝅𐛚𐝅𐙍\n𐄐𐚹𐄐𐚺𐄐𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇𐘞𐘞\n𐘋𐝇𐛊𐄐𐘺𐘘𐄇",
     "translatedWords": [
         "KA-NA",
@@ -2663,7 +2663,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘝𐘴𐙗𐝁\n𐙖𐝫𐝁\n𐛚\n𐝫𐘕𐝫\n𐚻𐝫\n𐚹𐄇\n𐝫\n𐘡𐄍𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘝𐘴𐙗𐝁𐙖𐝫𐝁\n𐛚𐝫𐘕𐝫𐚻𐝫𐚹𐄇\n𐝫𐘡𐄍𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "NI-RA",
@@ -2753,7 +2753,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌\n𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆\n𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐙁𐘘𐘋\n𐘘𐘚𐘺𐛢𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐛢𐝫\n𐘘𐘚𐘺𐛢𐝫",
     "translatedWords": [
         "KU-PA₃-RI-JA",
@@ -2834,7 +2834,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙈𐄇𐝕\n𐛋𐙈𐄇𐝕\n𐛒𐙈𐄇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙈𐄇𐝕𐛋\n𐙈𐄇𐝕𐛒𐙈𐄇",
     "translatedWords": [
         "talent",
@@ -2888,7 +2888,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄇\n𐘆𐘅𐘉𐝫\n𐝫𐘘𐘝𐄇\n𐘉𐘙𐘣𐄇\n𐘆𐘅𐘉𐄇\n𐘇𐘭𐘝𐘳𐄇\n𐘹𐘿𐘯𐝫\n𐝫𐙀𐘶𐘜𐄇\n𐘬𐘘𐘣𐝫\n𐝫𐘚𐘸𐘴𐄇\n𐘂𐄇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄇𐘆𐘅𐘉𐝫\n𐝫𐘘𐘝𐄇𐘉𐘙𐘣𐄇𐘆𐘅𐘉\n𐄇𐘇𐘭𐘝𐘳𐄇𐘹𐘿𐘯𐝫\n𐝫𐙀𐘶𐘜𐄇𐘬𐘘𐘣𐝫\n𐝫𐘚𐘸𐘴𐄇𐘂𐄇",
     "translatedWords": [
         "𐝫",
@@ -3002,7 +3002,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐙂𐘁𐄐𐄌\n𐘣𐘃𐘁𐄁𐘚𐘠𐙇𐄑𐄎\n𐙇𐄑𐄊\n𐙂𐘁𐄔𐄈",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐙂𐘁𐄐𐄌𐘣𐘃𐘁𐄁𐘚\n𐘠𐙇𐄑𐄎𐙇𐄑𐄊\n𐙂𐘁𐄔𐄈",
     "translatedWords": [
         "𐝫",
@@ -3080,7 +3080,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜮𐄁\n𐙢𐘃𐘃𐄁\n𐘳𐘠𐄑𐄇\n𐘻𐘸𐘈𐘅𐄐𐄋\n𐘉𐘯𐘐𐄋𐝫\n𐝫",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐜮𐄁𐙢𐘃𐘃𐄁\n𐘳𐘠𐄑𐄇𐘻𐘸\n𐘈𐘅𐄐𐄋𐘉𐘯\n𐘐𐄋𐝫\n𐝫",
     "translatedWords": [
         "*406VAS+KE",
@@ -3152,7 +3152,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐄁𐜮𐄁𐙇𐄏\n𐝫𐘁𐘝𐄉\n𐘾𐘉𐙀𐘝𐄊\n𐛖𐄐𐄈\n𐘚𐙜𐄈𐝫\n𐙓𐙅𐄍𐝫\n𐝫",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐄁𐜮𐄁𐙇𐄏\n𐝫𐘁𐘝𐄉𐘾𐘉\n𐙀𐘝𐄊𐛖𐄐𐄈\n𐘚𐙜𐄈𐝫𐙓𐙅𐄍𐝫\n𐝫",
     "translatedWords": [
         "𐄁",
@@ -3242,7 +3242,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘠𐘝𐘳𐄁𐙛𐄁\n𐙇𐄘\n𐝫𐄔\n𐙅𐄔𐄇\n𐘙𐄑\n𐝫𐘚𐘻𐘞𐘴𐄓𐄉\n𐝫𐘿𐄑𐄇\n𐘸𐘀𐝫\n𐝫𐘸𐙠𐄁𐙂𐙙𐝫\n𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝕𐝁\n𐘝𐄐𐝁\n𐙍𐄍",
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘠𐘝𐘳𐄁𐙛𐄁𐙇𐄘\n𐝫𐄔𐙅𐄔𐄇𐘙𐄑𐝫\n𐘚𐘻𐘞𐘴𐄓𐄉𐝫\n𐘿𐄑𐄇𐘸𐘀𐝫𐘸\n𐙠𐄁𐙂𐙙𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝆𐝃𐝁𐘝𐄐𐝁𐙍𐄍",
     "translatedWords": [
         "TI-NI-TA",
@@ -3407,7 +3407,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐄁𐙉𐄁𐘞𐄇\n𐘙𐄐𐄊\n𐙍𐄁𐘤𐄁\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊\n𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊\n𐘙𐝫𐄓",
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐙉𐄁𐘞𐄇𐘙𐄐𐄊𐙍𐘤\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊𐘙𐝫𐄓",
     "translatedWords": [
         "MI-DA",
@@ -3560,7 +3560,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘤𐘱𐘾𐄁\n𐘱𐘐𐄁𐛱𐄋\n𐜋𐄈\n𐜓𐝆\n𐜗𐄇\n𐜖𐝉\n𐘞𐘽𐜉𐄇\n𐘝𐄈\n𐙍𐄉\n𐛧𐙍𐄌\n𐘇𐘘𐘀𐘴𐙉𐄋\n𐙘𐄈\n𐜉𐄉\n𐘚𐘳𐘱𐜉𐄐",
     "scribe": "HT Scribe 13",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘤𐘱𐘾𐄁𐘱𐘐𐄁𐛱\n𐄋𐜋𐄈𐜓𐝆𐜗𐄇𐜖\n𐝉𐘞𐘽𐜉𐄇𐘝𐄈\n𐙍𐄉𐛧𐙍𐄌\n𐘇𐘘𐘀𐘴𐙉𐄋𐙘𐄈\n𐜉𐄉𐘚𐘳𐘱𐜉𐄐",
     "translatedWords": [
         "A-SI-JA-KA",
@@ -3722,7 +3722,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻𐘅𐘤𐄁\n𐘞𐘽𐙉𐄑\n𐜉𐄋\n𐘝𐄈\n𐙍𐄊\n𐘫𐘽𐘝𐄌\n𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉\n𐙍𐄉\n𐝫𐝃",
     "scribe": "HT Scribe 13",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻𐄁\n𐘅𐘤𐘞𐘽𐙉𐄑𐜉\n𐄋𐘝𐄈𐙍𐄊𐘫𐘽\n𐘝𐄌𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉𐙍𐄉\n𐝫𐝃𐝫",
     "translatedWords": [
         "A-SI-JA-KA",
@@ -3848,7 +3848,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐄇\n𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇\n𐝫𐄁𐝫𐘸𐘳𐄈\n𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐝫𐄇𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇𐝫𐄁𐝫𐘸𐘳\n𐄈𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
     "translatedWords": [
         "RU-MA-TA",
@@ -3944,7 +3944,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐄊\n𐘞𐘽𐙗𐝫\n𐝫𐄐𐄊𐝆\n𐘝𐄍𐝂\n𐙍𐄎𐝆\n𐜐𐝓\n𐚻𐝂\n𐘞𐘴𐘴𐝆\n𐘖𐄇\n𐘸𐘁𐄁𐙗𐄎\n𐘝𐝓\n𐙍𐝆\n𐘖𐄇𐝫\n𐝫𐝂\n𐜐𐝂\n𐝫",
     "scribe": "HT Scribe 1",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘤𐄊𐘞𐘽𐙗𐝫\n𐝫𐄐𐄊𐝆𐘝𐄍𐝂𐙍𐄎𐝆\n𐜐𐝓𐚻𐝂𐘞𐘴𐘴𐝆\n𐘖𐄇𐘸𐘁𐄁𐙗𐄎𐘝𐝓\n𐙍𐝆𐘖𐄇𐝫𐝂𐜐𐝂\n𐝫",
     "translatedWords": [
         "SI",
@@ -4115,7 +4115,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋\n𐚢𐘌𐘰𐄐\n𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐\n𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐\n𐘸𐘦𐙁𐙯𐘅\n𐚢𐄜\n𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
     "scribe": "HT Scribe 12",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋𐚢𐘌𐘰𐄐𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐𐘸𐘦𐙁𐙯𐘅\n𐝫𐚢𐝫𐄜𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
     "translatedWords": [
         "𐄁",
@@ -4241,7 +4241,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙛\n𐘞𐘽𐄁𐙜𐝆\n𐜍𐝆𐝇\n𐚻𐄇𐝇\n𐚹𐄇\n𐛚𐄇\n𐘲𐘙𐄁𐄙𐄎\n𐘆𐄕𐄋\n𐜍𐝫\n𐝫𐘙𐄙𐄊\n𐘆𐄔𐄉",
     "scribe": "HT Scribe 1",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙛𐘞𐘽𐄁𐙜𐝆𐜍𐝆𐝇\n𐚻𐄇𐝇𐚹𐄇𐛚𐄇\n𐘲𐘙𐄁𐄙𐄎𐘆𐄕𐄋\n𐜍𐝫𐘙𐄙𐄊𐘆𐄔𐄉",
     "translatedWords": [
         "*307",
@@ -4367,7 +4367,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃\n𐚹𐝉𐝋𐝫\n𐝫𐄉\n𐛆𐝃𐝉\n𐛜𐝂\n𐙙𐄘\n𐜦𐄙\n𐛐𐄙",
     "scribe": "HT Scribe 1",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃𐚹𐝉𐝋𐝫\n𐝫𐄉𐛆𐝃𐝉𐛜𐝂\n𐙙𐄘𐜦𐄙𐛐𐄙",
     "translatedWords": [
         "SA-RA₂",
@@ -4472,7 +4472,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘶𐘃𐄁𐘤𐛀𐄁\n𐘞𐘽𐄁𐛜𐝫\n𐝫\n𐝫𐝁\n𐘡𐄁𐙉𐄚𐝫\n𐝫𐛅𐄈𐝅𐝇\n𐚻𐝀\n𐚹𐝃\n𐛛𐄚𐄓𐄋\n𐛂𐄙\n𐘰𐄖\n𐘸𐘁𐄒𐄍\n𐛆𐝇\n𐘫𐝄",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘀𐘶𐘃𐄁𐘤𐛀𐄁𐘞𐘽𐄁\n𐛜𐝫𐝁\n𐘡𐄁𐙉𐄚𐝫𐛅𐄈𐝅𐝇\n𐚻𐝀𐚹𐝃\n𐛛𐄚𐄓𐄋\n𐛂𐄙𐘰𐄖𐘸𐘁𐄒𐄍\n𐛆𐝇𐘫𐝄",
     "translatedWords": [
         "DA-JU-TE",
@@ -4631,7 +4631,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘠𐘠𐙂𐄁𐙲𐄁\n𐘚𐙂𐘳𐙗𐄇\n𐛚𐝁\n𐜏𐝁\n𐙜𐝁\n𐜐𐝫\n𐘡𐄋\n𐚻𐝇\n𐙍𐝂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘠𐘠𐙂𐄁𐙲𐄁𐘚𐙂𐘳\n𐙗𐄇𐛚𐝁𐜏𐝁𐙜𐝁\n𐜐𐝫𐘡𐄋𐚻𐝇\n𐙍𐝂",
     "translatedWords": [
         "TI-TI-KU",
@@ -4739,7 +4739,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘧𐘆𐜠𐛱𐄑𐄓𐄊𐝆\n𐘬𐙀𐘮𐄍𐝆\n𐝫\n𐄌",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘧𐘆𐜠𐛱𐄑\n𐄓𐄊𐝆𐘬𐙀𐘮\n𐄍𐝆\n𐝫\n𐄌",
     "translatedWords": [
         "JE-DI",
@@ -4799,7 +4799,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛛𐄁\n𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐝫\n𐝫𐄌\n𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁\n𐘾𐘸𐄐𐄇\n𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐛛𐄁𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐄌𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁𐘾𐘸𐄐𐄇𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍",
     "translatedWords": [
         "liquid?",
@@ -4916,7 +4916,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇\n𐙄𐄇\n𐘒𐄉\n𐛞𐙈𐄉\n𐛎𐄈\n𐛏𐄇",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇𐙄𐄇𐘒𐄉𐛞\n𐙈𐄉𐛎𐄈𐛏𐄇",
     "translatedWords": [
         "𐝫",
@@ -5006,7 +5006,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳𐘚𐙌𐄐𐝫\n𐝫𐙂𐘙𐘶𐄎\n𐙂𐝫\n𐝫𐘞𐙁𐘠𐄐\n𐙂𐘙𐝫\n𐝫𐙂𐘁𐜯𐄙\n𐝫𐛤𐄈𐝫\n𐛍𐝫\n𐝫",
     "scribe": "HT Scribe 12",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘳𐘚𐙌𐄐𐝫\n𐝫𐙂𐘙𐘶𐄎𐙂𐝫\n𐝫𐘞𐙁𐘠𐄐𐙂𐘙𐝫\n𐝫𐙂𐘁𐜯𐄙\n𐝫𐛤𐄈𐝫𐛍𐝫\n𐝫",
     "translatedWords": [
         "TA-I-AROM",
@@ -5099,7 +5099,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘯𐘬𐙷𐄁𐘃𐄁𐙉𐄚𐄍\n𐘸𐘀𐘳𐄁𐙉𐝫𐄙𐄒𐄊\n𐙂𐘁𐝫\n𐙂𐝫\n𐝫",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘯𐘬𐙷𐄁𐘃𐄁𐙉𐄚𐄍\n𐘸𐘀𐘳𐄁𐙉𐝫𐄙𐄒𐄊\n𐙂𐘁𐝫\n𐙂𐝫\n𐝫",
     "translatedWords": [
         "NU-DU-*331",
@@ -5174,7 +5174,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘿𐘹𐄐\n𐙙𐄁𐙘𐄐\n𐘙𐄁𐙘𐄐\n𐘻𐘀𐘝𐄁𐘂𐘱𐄈𐝂𐝂",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘿𐘹𐄐\n𐙙𐄁𐙘𐄐𐘙𐄁𐙘𐄐\n𐘻𐘀𐘝𐄁𐘂𐘱𐄈𐝂𐝂",
     "translatedWords": [
         "𐝫",
@@ -5264,7 +5264,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n—",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n—",
     "translatedWords": [
         "𐝫",
@@ -5303,7 +5303,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎\n𐜋𐝫𐄍\n𐘞𐘁𐜓𐄎\n𐜋𐄈𐝫\n𐝫𐄈\n𐙂𐝫𐝫𐙖𐝫\n𐝫\n𐜗𐄈\n𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓𐝫𐝕\n𐜋𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎𐜋𐝫\n𐝫𐄍𐘞𐘁𐜓𐄎𐜋𐄈𐝫\n𐝫𐄈𐙂𐝫𐙖𐝫\n𐝫\n𐜗𐄈𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓\n𐝫𐝕𐜋𐝫",
     "translatedWords": [
         "TA",
@@ -5435,7 +5435,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙁𐘤𐘬𐄁𐘂𐚂𐘚𐄁𐘚𐄁𐛭𐄋𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙁𐘤𐘬𐄁𐘂\n𐚂𐘚𐄁𐘚𐄁𐛭𐄋𐝫",
     "translatedWords": [
         "MA-SI-DU",
@@ -5483,7 +5483,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘌𐙈𐄁𐙉𐝫\n𐜒𐄉\n𐜋𐄋𐝫\n𐜑𐄋\n𐙋𐄇𐝫\n𐝫𐘝𐄇\n𐙍𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘚𐘌𐙈𐄁𐙉𐝫\n𐜒𐄉𐜋𐄋𐝫\n𐜑𐄋𐙋𐄇𐝫\n𐝫𐘝𐄇𐙍𐝫\n𐝫",
     "translatedWords": [
         "I-QA-*118",
@@ -5573,7 +5573,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐄁𐘃𐛵𐝫\n𐝫𐄋\n𐘝𐝫\n𐝫𐙍𐄖𐄋\n𐝫𐄐𐄎\n𐝫𐄐\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘱𐄁𐘃𐛵𐝫\n𐝫𐄋𐘝𐝫\n𐝫𐙍𐄖𐄋\n𐝫𐄐𐄎\n𐝫𐄐\n𐝫",
     "translatedWords": [
         "JA",
@@ -5645,7 +5645,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐝉\n𐘂𐝫\n𐝫𐙅𐄁𐙙𐄈𐝫\n𐝫𐙪𐄁𐙙𐄈",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐝉𐘂𐝫\n𐝫𐙅𐄁𐙙𐄈𐝫\n𐝫𐙪𐄁𐙙𐄈",
     "translatedWords": [
         "𐝫",
@@ -5714,7 +5714,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n—\n𐝫𐄎𐝂𐝂\n𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍\n𐚺𐝉\n𐘂𐝫𐄁𐝫𐘇𐄑𐝁\n𐄁𐙂𐝃\n𐙂𐝃",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n—\n𐝫𐄎𐝓𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍𐚺𐝉𐘂𐝫𐄁𐝫𐘇𐄑\n𐝁𐄁𐙂𐝃\n𐙂𐝃",
     "translatedWords": [
         "𐝫",
@@ -5843,7 +5843,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘕𐘘𐄇𐝫\n𐝫𐙂𐘁𐄓𐄉𐝆",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘕𐘘𐄇𐝫\n𐝫𐙂𐘁𐄓𐄉𐝆",
     "translatedWords": [
         "𐝫",
@@ -5891,7 +5891,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄐𐄌𐝆\n𐝫𐄈𐄊",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄐𐄌𐝆\n𐝫𐄈𐄊",
     "translatedWords": [
         "𐝫",
@@ -5939,7 +5939,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐝫𐝫𐛗𐄁\n𐙂𐘰𐘅𐘹𐄑𐝫\n𐝫𐘬𐄑𐝫\n𐘉𐝫\n𐝫𐘢𐄐\n𐘸𐘀𐘁𐝫𐝫\n𐝫𐄋\n𐝫𐘻𐘯𐘻",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐝫𐛗𐄁𐙂𐘰\n𐘅𐘹𐄑𐝫\n𐝫𐘬𐄑𐝫𐘉𐝫𐘢\n𐄐𐘸𐘀𐘁𐝫\n𐝫𐄋\n𐝫𐘻𐘯𐘻",
     "translatedWords": [
         "KA",
@@ -6023,7 +6023,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘴𐘅𐘙𐝫\n𐝫",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘴𐘅𐘙𐝫\n𐝫",
     "translatedWords": [
         "RA-NA-RE",
@@ -6056,7 +6056,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫\n𐝫𐘭𐄇\n𐘲𐘸𐝫\n𐝫𐄇\n𐘠𐘬𐘝𐄇𐝫\n𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇\n𐚞𐄇\n𐙢𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘲𐘜𐄇\n𐘸𐄇\n—\n𐝫𐄋\n𐘹𐄊\n𐘸𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫𐘭𐄇𐘲𐘸𐝫\n𐝫𐄇𐘠𐘬𐘝𐄇𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇𐚞𐄇𐙢𐄇𐙂\n𐘰𐘯𐄇𐘹𐘲𐘜𐄇𐘸𐄇\n—\n𐝫𐄋𐘹𐄊𐘸𐄇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -6251,7 +6251,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙂𐝫\n𐝫𐘚𐘸𐝫𐝫𐘳\n—\n𐝫\n𐝫𐘾𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙂𐝫\n𐝫𐘚𐘸𐝫𐘳\n—\n𐝫\n𐝫𐘾𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -6317,7 +6317,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n—\n𐝫𐙉𐝫\n𐝫𐝃\n𐜓𐝃\n𐜗\n𐝆\n𐜎𐝆\n𐙘𐄇𐝆𐝫\n𐝫𐙋𐄉\n𐛺𐝃𐝄",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n—\n𐝫𐙉𐝫\n𐝫𐝃𐜓𐝃𐜗\n𐝫𐝆𐜎𐝆𐙘𐄇𐝆\n𐝫𐙋𐄉𐛺𐝃𐝄",
     "translatedWords": [
         "𐝫",
@@ -6422,7 +6422,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐜓\n𐝫\n𐝫𐜉𐄇𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐜓\n𐝫\n𐝫𐜉𐄇𐝫",
     "translatedWords": [
         "𐝫",
@@ -6476,7 +6476,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄋\n𐘝𐄁𐘃𐄁\n𐙁𐝫\n𐝫𐘈𐄕𐄊\n𐘠𐘝𐝫\n𐝫𐘙𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄋𐘝𐄁𐘃𐄁𐙁𐝫\n𐝫𐘈𐄕𐄊𐘠𐘝𐝫\n𐝫𐘙𐝫\n𐝫",
     "translatedWords": [
         "5",
@@ -6551,7 +6551,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙂𐘋𐘳𐄐𐄈𐝫\n𐝫𐙀𐘬𐝆𐝄\n𐘤𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙂𐘋𐘳𐄐𐄈𐝫\n𐝫𐙀𐘬𐝆𐝄𐘤𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "KU-ME-TA",
@@ -6608,7 +6608,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘞𐙁𐄁𐘃𐄁𐝫\n𐝫𐄊\n𐘆𐘾𐘸𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 23",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘞𐙁𐄁𐘃𐄁𐝫\n𐝫𐄊𐘆𐘾𐘸𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "SA-MA",
@@ -6668,7 +6668,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘗𐄁𐙉𐄚𐄇𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 23",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘗𐄁𐙉𐄚𐄇𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "NE",
@@ -6716,7 +6716,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘞𐘗𐝫\n𐝫\n𐝫𐄓\n𐝫𐙖𐝫\n𐝫𐄙\n𐘴𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘞𐘗𐝫\n𐝫\n𐝫𐄓𐝫𐙖𐝫\n𐝫𐄙𐘴𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -6785,7 +6785,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄐𐄎𐝫\n𐝫\n𐝫𐙂𐘙𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄐𐄎𐝫\n𐝫\n𐝫𐙂𐘙𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -6842,7 +6842,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘻𐘅𐘿𐝫\n𐝫𐘸𐘻𐘽𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐙂𐘻𐘅𐘿𐝫\n𐝫𐘸𐘻𐘽𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -6893,7 +6893,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄊\n𐘸𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄊𐘸𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -6944,7 +6944,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘸𐘁𐄁\n𐙁𐘙𐄇𐝫\n𐝫𐙕𐄇\n𐘤𐘘𐄇\n𐘗𐝫\n𐝫𐘹𐄇𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘸𐘁𐄁𐙁𐘙𐄇𐝫\n𐝫𐙕𐄇𐘤𐘘𐄇𐘗𐝫\n𐝫𐘹𐄇𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "\"owed\"",
@@ -7028,7 +7028,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘃𐄇\n𐘿𐝫\n𐝫𐘭𐘱𐄇\n𐘚𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘃𐄇𐘿𐝫\n𐝫𐘭𐘱𐄇𐘚𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "TE",
@@ -7091,7 +7091,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙓𐄁\n𐘞𐝫\n𐝫𐄐𐄇𐝆\n𐘉𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙓𐄁𐘞𐝫\n𐝫𐄐𐄇𐝆𐘉𐝫\n𐝫",
     "translatedWords": [
         "*188",
@@ -7148,7 +7148,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜓𐄑𐝫\n—\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐜓𐄑𐝫\n—\n𐝫\n𐝫",
     "translatedWords": [
         "olive oil",
@@ -7196,7 +7196,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘿𐘴𐝫\n𐝫𐄇\n𐘇𐝫\n𐝫𐝄𐝫\n𐝫",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘀𐘿𐘴𐝫\n𐝫𐄇𐘇𐝫\n𐝫𐝄𐝫\n𐝫",
     "translatedWords": [
         "DA-QE-RA",
@@ -7247,7 +7247,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙙𐄎\n𐝫\n𐝫",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙙𐄎\n𐝫\n𐝫",
     "translatedWords": [
         "*305",
@@ -7289,7 +7289,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘿𐘠𐘴𐘬𐄁𐙇𐝫\n𐜋𐄐𐄏\n𐜗𐝫\n𐝫𐜎𐄉\n𐙋𐄓𐄇\n𐝫𐘉𐘸𐝫\n𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘿𐘠𐘴𐘬𐄁𐙇𐝫\n𐜋𐄐𐄏𐜗𐝫\n𐝫𐜎𐄉𐙋𐄓𐄇\n𐝫𐘉𐘸𐝫\n𐝫",
     "translatedWords": [
         "QE-TI-RA-DU",
@@ -7367,7 +7367,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐜏𐝇\n𐛙\n𐝫𐝇\n𐙍𐝇\n𐝃𐄋\n𐚹𐝫\n𐝫𐚻𐝉𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐜏𐝇𐛙𐝫\n𐝇𐙍𐝇𐝃𐄋𐚹𐝫\n𐝫𐚻𐝉𐝫",
     "translatedWords": [
         "𐝫",
@@ -7448,7 +7448,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫\n𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃𐘾𐙂𐄊𐝫",
     "translatedWords": [
         "𐝫",
@@ -7490,7 +7490,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫\n𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃\n𐘾𐙂𐄊𐝫\n𐝫𐄐𐄎\n𐘛𐘠𐝫𐄁𐄌\n𐘆𐝫\n𐝫𐄊𐝃\n𐘾𐝫\n𐝫𐙇𐝫𐝫𐄊\n𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n𐝫𐙂𐝫\n𐝫𐄁𐝫𐄇𐝫\n𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫\n𐝫𐄐𐄎𐘛𐘠𐝫𐄁𐝫𐄌𐘆𐝫\n𐝫𐄊𐝃𐘾𐝫\n𐝫𐙇𐝫𐄊𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n𐝫𐙂𐝫\n𐝫𐄇𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "translatedWords": [
         "SA-RA",
@@ -7682,7 +7682,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙙𐄁𐘃𐄇\n𐘾𐘠𐄇\n𐘲𐘜𐝫\n𐝫𐙀𐄈\n𐝫\n𐝫",
     "scribe": "HT Scribe 23",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙙𐄁𐘃𐄇𐘾𐘠𐄇𐘲𐘜\n𐝫𐙀𐄈\n𐝫\n𐝫",
     "translatedWords": [
         "*305",
@@ -7754,7 +7754,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙂𐙀𐘅𐝫\n𐝫𐘅𐄈\n𐘘𐙁𐝫\n𐝫𐄉\n𐘑𐄌\n𐝫\n𐝫",
     "scribe": "HT Scribe 21",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙂𐙀𐘅\n𐝫𐘅𐄈𐘘𐙁\n𐝫𐄉𐘑𐄌\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -7829,7 +7829,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐜤𐝇𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐜤𐝇𐝫",
     "translatedWords": [
         "𐝫",
@@ -7865,7 +7865,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙀𐄁𐙇𐄁𐝫\n𐝫𐘆𐄈\n𐘳𐝫\n𐝫𐘳𐘻𐝫\n𐝫𐘙𐄇\n𐝫",
     "scribe": "HT Scribe 21",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙀𐄁𐙇𐄁𐝫\n𐝫𐘆𐄈𐘳𐝫\n𐝫𐘳𐘻𐝫\n𐝫𐘙𐄇\n𐝫",
     "translatedWords": [
         "*79",
@@ -7937,7 +7937,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄜𐄑𐝫\n𐝫𐘝𐄁𐘃𐄜𐝫",
     "scribe": "HT Scribe 23",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄜𐄑𐝫\n𐝫𐘝𐄁𐘃𐄜𐝫",
     "translatedWords": [
         "𐝫",
@@ -7994,7 +7994,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄁𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
     "translatedWords": [
         "𐄁",
@@ -8042,7 +8042,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄋\n𐘆𐄎𐝫\n𐝫𐙁𐘆𐄊𐝫\n𐝫𐘆𐄐𐄈𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄋𐘆𐄎𐝫\n𐝫𐙁𐘆𐄊𐝫\n𐝫𐘆𐄐𐄈𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -8108,7 +8108,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘝𐄁𐘃𐄒𐝫\n𐝫𐘌𐙈𐘞𐄈𐝃𐝫\n𐝫𐘚𐄉𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘝𐄁𐘃𐄒𐝫\n𐝫𐘌𐙈𐘞𐄈𐝃\n𐝫𐘚𐄉𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "figs",
@@ -8177,7 +8177,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐙇𐝫𐄁𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘤𐙇𐝫𐄁𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "SI-VIR+[?]",
@@ -8219,7 +8219,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄑𐝫\n𐝫",
     "scribe": "HT Scribe 24",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄑𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -8267,7 +8267,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘘𐝫\n—\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐘘𐝫\n—\n𐝫",
     "translatedWords": [
         "KA-RU",
@@ -8306,7 +8306,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n—\n𐝫𐘕𐙢𐝫\n—\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n—\n𐝫𐘕𐙢𐝫\n—\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -8357,7 +8357,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘚𐄁𐙙𐝫\n𐝫𐘾𐄁\n𐘀𐘰𐝫\n𐝫𐘹𐘂𐘭𐄇𐝫\n𐝫𐘹𐝫𐄁𐝫𐄉\n𐝫𐙂𐘝𐝫\n𐝫𐙀𐄉\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘚𐄁𐙙𐝫𐘾𐄁𐘀𐘰\n𐝫𐘹𐘂𐘭𐄇𐝫𐘹𐝫𐄁𐝫𐄉\n𐝫𐙂𐘝𐝫𐙀𐄉\n𐝫",
     "translatedWords": [
         "I",
@@ -8447,7 +8447,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘶𐘴𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 13",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘶𐘴𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -8492,7 +8492,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘈𐄁𐛚𐄁𐝅𐝫\n𐝫𐘭𐘲𐙁𐝋\n𐘸𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘈𐄁𐛚𐄁𐝅𐝫\n𐝫𐘭𐘲𐙁𐝋𐘸𐝫\n𐝫",
     "translatedWords": [
         "A-SE",
@@ -8552,7 +8552,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐛮𐝇𐝫\n𐜜𐝃𐝫\n𐝫",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐛮𐝇𐝫\n𐜜𐝃𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -8603,7 +8603,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘐𐘱𐘬𐝫\n𐝫𐘯𐘠𐄁𐙇𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘐𐘱𐘬𐝫\n𐝫𐘯𐘠𐄁𐙇𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "*21F-JA-DU",
@@ -8654,7 +8654,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘬𐄁𐜠𐄁𐙇𐄁\n𐘀𐘭𐘀𐄐𐄈\n𐘰𐘝𐄐𐄈\n𐘉𐙱𐘍𐄌\n𐘀𐘤𐙈𐄑𐄊\n𐙂𐙀𐘝𐄋\n𐘃𐘥𐄉\n𐘀𐘙𐄊\n𐙂𐘁𐝫𐝫𐄕𐄌",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘬𐄁𐜠𐄁𐙇𐄁\n𐘀𐘭𐘀𐄐𐄈𐘰𐘝𐄐𐄈\n𐘉𐙱𐘍𐄌𐘀𐘤\n𐙈𐄑𐄊𐙂𐙀𐘝𐄋\n𐘃𐘥𐄉𐘀𐘙𐄊\n𐙂𐘁𐝫𐄕𐄌",
     "translatedWords": [
         "\"assessment\"?",
@@ -8768,7 +8768,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘸𐘴𐘱𐄁\n𐘸𐘙𐘷𐄇\n𐘿𐘾𐄇\n𐘂𐄇\n𐘃𐘹𐝫𐄇\n𐘾𐄇\n𐘆𐄇\n𐘋𐘍𐄇\n𐘙𐘆𐘈𐄇\n𐘮𐘬𐘝𐘻𐄇\n𐙁𐘆𐄇\n𐘌𐙠𐘚𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘸𐘸𐘴𐘱𐄁𐘸𐘙\n𐘷𐄇𐘿𐘾𐄇𐘂𐄇𐘃𐘹\n𐝫𐄇𐘾𐄇𐘆𐄇𐘋𐘍𐄇\n𐘙𐘆𐘈𐄇𐘮𐘬𐘝\n𐘻𐄇𐙁𐘆𐄇𐘌𐙠\n𐘚𐄇",
     "translatedWords": [
         "KI-KI-RA-JA",
@@ -8897,7 +8897,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦𐘘𐄑\n𐘌𐘽𐘮𐄐\n—\n𐘇𐘬𐄁\n𐘀𐘋𐛳𐄑\n𐘻𐘯𐘃𐄑",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘾𐘘𐄁𐙂𐘝\n𐘲𐛷𐄑𐘞𐘘𐄑\n𐘆𐘦𐘘𐄑𐘌𐘽𐘮𐄐\n—\n𐘇𐘬𐄁𐘀𐘋𐛳𐄑\n𐘻𐘯𐘃𐄑",
     "translatedWords": [
         "A-KA-RU",
@@ -9002,7 +9002,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘾𐘘𐄁𐙂𐘝\n𐘲𐛷𐄑𐘞𐘘𐄑\n𐘆𐘦",
     "translatedWords": [
         "A-KA-RU",
@@ -9059,7 +9059,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘐𐘹𐘗𐄁𐙁𐘾𐘭𐘃𐄁\n𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇\n𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇\n𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘐𐘹𐘗𐄁𐙁𐘾\n𐘭𐘃𐄁𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇",
     "translatedWords": [
         "*21F-TU-NE",
@@ -9155,7 +9155,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘬𐛧𐄑\n𐘙𐘍𐄌\n𐘝𐄁𐘸𐘸𐘅𐄍\n𐘸𐘁𐄁\n𐙂𐘰𐘰𐄇\n𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘱𐘙𐄇\n𐘞𐙁𐘁𐄇\n𐘀𐘳𐘙𐄇\n𐙂𐘁𐄌",
     "scribe": "HT Scribe 7",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘬𐛧𐄑𐘙𐘍\n𐄌𐘝𐄁𐘸𐘸𐘅𐄍\n𐘸𐘁𐄁𐙂𐘰𐘰𐄇𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇𐘂𐘱𐘙𐄇𐘞𐙁\n𐘁𐄇𐘀𐘳𐘙𐄇𐙂𐘁𐄌",
     "translatedWords": [
         "\"assessment\"?",
@@ -9284,7 +9284,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈\n𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉\n𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝕\n𐘝𐄈𐝃\n𐙍𐄌𐝫",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝆𐝃𐘝𐄈𐝃𐙍𐄌𐝫",
     "translatedWords": [
         "A-SA-RA₂",
@@ -9404,7 +9404,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐙂𐘭𐘅\n𐘞𐘽𐙉𐄑\n𐘝𐄐\n𐜉𐄉\n𐘤𐘘𐙁𐘭𐘷𐙉𐄇\n𐘝𐄇\n𐜗𐄇\n𐙘𐄇",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘚𐙂𐘭𐘅𐘞𐘽𐙉\n𐄑𐘝𐄐𐜉𐄉𐘤\n𐘘𐙁𐘭𐘷𐙉𐄇𐘝\n𐄇𐜗𐄇𐙘𐄇",
     "translatedWords": [
         "I-KU-RI-NA",
@@ -9500,7 +9500,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘾𐄁𐙲𐄁𐙉𐝎\n𐙘𐝀\n𐄁𐜓𐝀\n𐜋𐝀\n𐜗𐝀\n𐙋𐝀\n𐘝𐝀\n𐙍𐝀\n𐘡𐄋\n𐘃𐘭𐄁𐜗𐝀\n𐘡𐄉𐝫\n𐝫",
     "scribe": "HT Scribe 15",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘚𐘾𐄁𐙲𐄁𐙉𐝎\n𐙘𐝀𐄁𐜓𐝀𐜋\n𐝀𐜗𐝀𐙋𐝀𐘝𐝀\n𐙍𐝀𐘡𐄋\n𐘃𐘭𐄁𐜗𐝀𐘡𐄉𐝫\n𐝫",
     "translatedWords": [
         "I-KA",
@@ -9647,7 +9647,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃𐄁\n𐘇𐘬𐄁𐙉𐄞𐄗\n𐙘𐄐𐄈",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘃𐄁𐘇𐘬𐄁𐙉𐄞\n𐄗𐙘𐄐𐄈",
     "translatedWords": [
         "TE",
@@ -9701,7 +9701,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈\n𐘆𐘭𐘅𐄁𐚴𐄓𐄉𐝆\n𐘸𐘆𐘝𐄋𐝆𐝅\n𐘇𐘈𐄁𐘚𐛭𐄑𐄌𐝕\n𐘞𐘽𐄑\n𐘌𐘌𐘘𐄁𐘚𐛭𐄋\n𐙇𐘚𐄌\n𐘦𐘶𐙂𐄇𐝆\n𐘵𐘠𐝫𐄁𐄉\n𐘀𐘭𐘀𐚦𐄈\n𐚃𐄈\n𐘰𐘝𐘅𐝫\n𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫\n𐝫𐘾𐄊",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈𐘆\n𐘭𐘅𐄁𐚴𐄓𐄉𐝆𐘸𐘆\n𐘝𐄋𐝆𐝅𐘇𐘈𐄁𐘚\n𐛭𐄑𐄌𐝆𐝃𐘞𐘽𐄑𐘌𐘌\n𐘘𐄁𐘚𐛭𐄋𐙇𐘚\n𐄌𐘦𐘶𐙂𐄇𐝆𐘵𐘠\n𐝫𐄁𐝫𐄉𐘀𐘭𐘀𐚦𐄈𐚃𐄈\n𐘰𐘝𐘅𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫𐘾𐄊",
     "translatedWords": [
         "PA₃-NI-NA",
@@ -9905,7 +9905,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄙𐄕𐄋𐝅\n𐘸𐘁𐝫",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄙𐄕𐄋𐝅𐘸𐘁\n𐝫",
     "translatedWords": [
         "165",
@@ -9941,7 +9941,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘂𐙇𐄕𐄈\n𐙅𐄑\n𐛃𐄍\n𐛪𐄐𐄎\n𐘳𐄊\n𐙂𐘁𐄙𐄐\n𐘞𐘽𐙗𐄋\n𐘝𐄉𐝅\n𐝫𐄈\n𐙪𐙚𐄐𐄇\n𐙗𐝂𐝂\n𐘝𐝂𐝂\n𐝫𐄐𐄊𐝆\n𐘝𐝂",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐘂𐙇𐄕𐄈𐙅𐄑\n𐛃𐄍𐛪𐄐𐄎𐘳𐄊\n𐙂𐘁𐄙𐄐𐘞𐘽𐙗𐄋𐘝𐄉𐝅\n𐝫𐄈𐙪𐙚𐄐𐄇𐙗𐝓𐘝𐝓\n𐝫𐄐𐄊𐝆𐘝𐝂",
     "translatedWords": [
         "\"summary account?\"",
@@ -10094,7 +10094,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘁𐄁\n𐘹𐙁𐄇\n𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇\n𐘥𐘸𐘘𐄇\n𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁\n𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘸𐘁𐄁𐘹𐙁𐄇𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇𐘥𐘸𐘘𐄇𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
     "translatedWords": [
         "\"owed\"",
@@ -10214,7 +10214,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘬𐙁𐘳𐄁𐙉\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐘞𐘘𐄑\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄍",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘀𐘬𐙁𐘳𐄁𐙉\n𐘀𐘋𐄐𐘻𐘯𐘃𐄐\n𐘞𐘘𐄑𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄍",
     "translatedWords": [
         "\"grain contributions\"",
@@ -10301,7 +10301,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘘𐄐\n𐝫𐄁𐝫\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄐",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘬𐄁𐘞𐘘𐄐\n𐝫𐄁𐝫𐘀𐘋𐄐𐘻\n𐘯𐘃𐄐𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄐",
     "translatedWords": [
         "\"assessment\"?",
@@ -10397,7 +10397,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘠𐘠𐙂𐘝𐄁𐘇𐘂𐘴𐘗𐄁𐘇𐙌𐘃𐄁\n𐘤𐘻𐘳𐙉𐄋\n𐘘𐘞𐄊\n𐙯𐙩𐄇\n𐘢𐘳𐘴𐄁𐄇\n𐙯𐚄𐄇\n—\n𐝫𐙂𐙁𐘁𐄁𐄁𐘃𐘝𐄑\n𐝫𐘝𐄈\n—\n𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘚𐘠𐘠𐙂𐘝𐄁𐘇𐘂\n𐘴𐘗𐄁𐘇𐙌𐘃𐄁𐘤𐘻\n𐘳𐙉𐄋𐘘𐘞𐄊𐙯𐙩𐄇\n𐘢𐘳𐘴𐄁𐄇𐙯𐚄𐄇\n—\n𐝫𐙂𐙁𐘁𐄁𐄁𐘃𐘝𐄑\n𐝫𐘝𐄈\n—\n𐝫",
     "translatedWords": [
         "I-TI-TI-KU-NI",
@@ -10535,7 +10535,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘂𐘴𐘗𐄁\n𐘌𐙈𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝕\n𐜋𐄊\n𐘝𐄈𐝇\n𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘂𐘴𐘗𐄁𐘌𐙈\n𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝕\n𐜋𐄊𐘝𐄈𐝇\n𐝫",
     "translatedWords": [
         "A-PA-RA-NE",
@@ -10619,7 +10619,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈\n𐙳𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋\n𐘂𐘚𐘄𐄌\n𐘆𐄊\n𐘅𐘠𐄊\n𐙁𐘆𐄋\n𐘶𐄐𐄋\n𐘸𐄉\n𐙀𐝫𐄋\n𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫\n𐝫𐘇𐄋\n𐝫",
     "scribe": "HT Scribe 7",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈𐙳\n𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋𐘂𐘚𐘄𐄌\n𐘆𐄊𐘅𐘠𐄊𐙁𐘆𐄋𐘶\n𐄐𐄋𐘸𐄉𐙀𐝫𐄋𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫𐘇𐄋\n𐝫",
     "translatedWords": [
         "KA-RU",
@@ -10778,7 +10778,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘞𐘽",
     "scribe": "HT Scribe 7",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘞𐙸𐝃",
     "translatedWords": [
         "SA-RA₂"
@@ -10805,7 +10805,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇\n𐘳𐘅𐘠𐝕\n𐘆𐘙𐘆𐘅𐝆\n𐘃𐙕𐝕\n𐘁𐘥𐝆\n𐘾𐘭𐙠𐘚𐝃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇𐘳𐘅𐘠𐝕𐘆\n𐘙𐘆𐘅𐝆𐘃𐙕𐝕\n𐘁𐘥𐝆𐘾𐘭𐙠𐘚\n𐝃",
     "translatedWords": [
         "𐝫",
@@ -10895,7 +10895,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝕\n𐘀𐘘𐘗𐘃𐝇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝕𐘀𐘘𐘗𐘃𐝇",
     "translatedWords": [
         "𐝫",
@@ -10946,7 +10946,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫\n𐙍𐄇𐝅\n𐛱\n𐝫",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘬𐄁𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫𐙍𐄇𐝅𐛱\n𐝫",
     "translatedWords": [
         "\"assessment\"?",
@@ -11021,7 +11021,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛉𐘝𐄌\n𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇\n𐘘𐙁𐘳𐄇",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐛉𐘝𐄌𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇𐘘𐙁𐘳\n𐄇",
     "translatedWords": [
         "SI+SE-NI",
@@ -11078,7 +11078,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐛧𐄔𐄎\n𐜝𐝫𐝫\n𐛃𐄐𐄈\n𐘸𐄈\n𐙙𐄋\n𐛩𐄐𐄌\n𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃\n𐘝𐄈𐝂𐝂\n𐙍𐄈𐝆\n𐜋𐄈𐝅\n𐜗𐄉\n𐜍𐝕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐛧𐄔𐄎𐜝\n𐝫𐛃𐄐𐄈𐘸𐄈𐙙𐄋𐛩\n𐄐𐄌𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃𐘝𐄈𐝓𐙍𐄈𐝆\n𐜋𐄈𐝅𐜗𐄉𐜍𐝕",
     "translatedWords": [
         "VIR+KA",
@@ -11231,7 +11231,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎\n𐜗𐄎\n𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇\n𐙖𐄐\n𐚸𐄉\n𐙂𐘰𐝫𐝫𐜋𐄈\n—\n𐝫𐄑\n𐙘𐄉\n𐜓𐄈𐝫\n𐝫𐄉\n𐙋𐄇𐝃\n𐛺𐄇",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎𐜗𐄎𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇𐜋𐙖𐄐𐚸𐄉\n𐙂𐘰𐝫𐜋𐄈\n—\n𐝫𐄑𐙘𐄉𐜓𐄈\n𐝫𐄉𐙋𐄇𐝃𐛺𐄇",
     "translatedWords": [
         "*79-*22F-DI",
@@ -11390,7 +11390,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘂\n𐘞𐘽𐙉𐄡𐄖𐄌\n𐘰𐘝𐛭𐄒𐄉𐝫\n𐝫𐙇𐛭𐄒𐄉\n𐘆𐘭𐘅𐄐\n𐙁𐙀𐄉\n𐘣𐄐\n𐘚𐘾𐄋\n𐙂𐘁𐄢𐄕",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐘂𐘞𐘽𐙉𐄡\n𐄖𐄌𐘰𐘝𐛭𐄒𐄉𐝫\n𐙇𐛭𐄒𐄉𐘆𐘭𐘅𐄐𐙁\n𐙀𐄉𐘣𐄐𐘚𐘾𐄋\n𐙂𐘁𐄢𐄕",
     "translatedWords": [
         "\"summary account?\"",
@@ -11498,7 +11498,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘉𐘷𐄁𐘝𐄓\n𐘰\n𐘀𐙂𐘈𐘗𐝫𐝫𐄌𐝆\n𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇\n𐘀𐙂𐘈𐘗𐄇\n𐘸𐘴𐄋𐝆",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘉𐘷𐄁𐘝𐄓\n𐘰𐘀𐙂𐘈𐘗\n𐝫𐄌𐝆𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇𐘀𐙂𐘈\n𐘗𐄇𐘸𐝢𐄋𐝆",
     "translatedWords": [
         "U-TA₂",
@@ -11591,7 +11591,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳𐘂𐄁𐚷𐄁\n𐘀𐙂𐘈𐘗𐘠𐄓𐄋𐝆\n𐘚𐘬𐘠𐄑𐝆\n𐘂𐘀𐘲𐘠𐄑𐄏\n𐙂𐘁𐄘𐄋",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘳𐘂𐄁𐚷𐄁𐘀𐙂\n𐘈𐘗𐘠𐄓𐄋𐝆𐘚\n𐘬𐘠𐄑𐝆𐘂𐘀\n𐘲𐘠𐄑𐄏\n𐙂𐘁𐄘𐄋",
     "translatedWords": [
         "TA-PA",
@@ -11669,7 +11669,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘂𐝫\n𐝫\n𐝫𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐘂𐝫\n𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋",
     "translatedWords": [
         "\"summary account?\"",
@@ -11726,7 +11726,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆\n𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
     "scribe": "HT Scribe 19",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
     "translatedWords": [
         "MI-NU-TE",
@@ -11813,7 +11813,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄉𐝫\n𐝫\n𐘃𐄗𐄌\n𐙸𐄍",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄉𐝫\n𐘃𐄗𐄌𐙸𐄍",
     "translatedWords": [
         "𐝫",
@@ -11870,7 +11870,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘙𐘳𐘅𐙇𐄇\n𐛶𐄖\n—\n𐘆𐘅𐘁𐄈\n𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐\n𐘶𐝫\n𐝫",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘸𐘙𐘳𐘅𐙇𐄇𐛶𐄖\n—\n𐘆𐘅𐘁𐄈𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐𐘶𐝫\n𐝫",
     "translatedWords": [
         "KI-RE-TA-NA",
@@ -11960,7 +11960,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘙𐄊𐝫\n𐝫\n𐝫𐘳𐄊\n𐙂𐘁𐄙𐄑𐄏\n𐘇𐘴𐘶𐄙𐄑𐄉",
     "scribe": "HT Scribe 7",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘙𐄊𐝫\n𐝫𐘳𐄊\n𐝫𐙂𐘁𐄙𐄑𐄏\n𐝫𐘇𐘴𐘶𐄙𐄑𐄉",
     "translatedWords": [
         "𐝫",
@@ -12029,7 +12029,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐘬𐘟𐙂𐘻𐜚𐄑\n𐙂𐘂𐄇\n𐙂𐘁𐄙𐝫\n𐝫𐘝𐄐𐄋𐝫\n𐝫𐄕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘤𐘬𐘟𐙂𐘻\n𐜚𐄑𐙂𐘂𐄇\n𐙂𐘁𐄙𐝫\n𐝫𐘝𐄐𐄋𐝫\n𐝫𐄕",
     "translatedWords": [
         "SI-DU-*34-KU-MI",
@@ -12095,7 +12095,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙉𐝫\n𐝫𐘁𐄑\n𐜧𐄉𐝫\n𐝫𐄇\n𐙁𐄋𐝆\n𐝫𐄈\n𐘝𐄇𐝆𐝫\n𐝫𐄇\n𐙁𐄈\n𐙕𐝕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙉𐝫𐘁𐄑𐜧\n𐄉𐝫𐄇𐙁𐄋𐝆\n𐝫𐄈𐘝𐄇𐝆\n𐝫𐄇𐙁𐄈𐙕𐝕",
     "translatedWords": [
         "grain",
@@ -12200,7 +12200,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘿𐘾𐄎\n𐘌𐘞𐝫\n𐝫𐘌𐘘𐄎\n𐘆𐄐𐄊𐝫\n𐝫𐘝𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘿𐘾𐄎𐘌𐘞𐝫\n𐝫𐘌𐘘𐄎𐘆𐄐𐄊𐝫\n𐝫𐘝𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -12278,7 +12278,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄐𐄎\n𐘞𐘆𐄊𐝫\n𐝫𐄉\n𐘿𐝫\n𐘅𐝫𐝫𐘝𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄐𐄎𐘞𐘆𐄊𐝫\n𐝫𐄉𐘿𐝫\n𐝫𐘝𐄇𐝫𐘅𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -12350,7 +12350,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘐𐝫\n𐝫𐘹𐘂𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘐𐝫\n𐝫𐘹𐘂𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "ewe",
@@ -12395,7 +12395,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙗𐄌𐝫\n𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙗𐄌𐝫\n𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "cyperus",
@@ -12443,7 +12443,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘴𐘭𐘦𐝫\n𐝫𐘣𐘞𐄁𐝫𐝫𐄐𐄐𐄐\n𐘵𐄈𐝆\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘴𐘭𐘦𐝫\n𐝫𐘣𐘞𐄁𐝫𐄐𐄐𐄐\n𐘵𐄈𐝆\n𐝫",
     "translatedWords": [
         "RA-RI-DE",
@@ -12500,7 +12500,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘻𐝫\n𐝫𐄊𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘻𐝫\n𐝫𐄊𐝫\n𐝫",
     "translatedWords": [
         "liquid?",
@@ -12539,7 +12539,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘭𐘷\n𐘞𐘽𐙉𐄐\n𐙖𐄍\n𐘝𐄇\n𐙍𐄇\n𐘖𐄉",
     "scribe": "HT Scribe 4",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘸𐘭𐘷𐘞\n𐘽𐙉𐄐𐙖𐄍\n𐘝𐄇𐙍𐄇𐘖\n𐄉",
     "translatedWords": [
         "KI-RI-TA₂",
@@ -12614,7 +12614,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘞𐙍𐄏",
     "scribe": "HT Scribe 4",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘞𐙍𐄏",
     "translatedWords": [
         "wine",
@@ -12644,7 +12644,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘨𐘯𐘴𐘱𐄁𐘚𐄁𐛯\n𐘭𐘳𐙁𐘯𐘣𐄈\n𐙕𐘉𐘴\n𐘅𐘐𐘗𐘻𐘅𐄇\n𐘈𐙂𐘹𐝆\n𐘂𐘴𐘗𐄇\n𐘇𐘈𐘱𐝂𐝂𐝂𐝂\n𐘾𐘊𐘘𐄇\n𐘭𐘲𐙁𐝫\n𐘲𐄈𐝂𐝫\n𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘨𐘯𐘴𐘱𐄁𐘚𐄁𐛯𐘭𐘳𐙁\n𐘯𐘣𐄈𐙕𐘉𐘴𐘅𐘐\n𐘗𐘻𐘅𐄇𐘈𐙂𐘹𐝆\n𐘂𐘴𐘗𐄇𐘇𐘈𐘱𐝂𐝂𐝂𐝂\n𐘾𐘊𐘘𐄇\n𐘭𐘲𐙁𐝫\n𐘲𐄈𐝂𐝫\n𐝫",
     "translatedWords": [
         "*47-NU-RA-JA",
@@ -12767,7 +12767,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇𐜞𐄇𐙂𐘳𐝫",
     "translatedWords": [
         "RU",
@@ -12881,7 +12881,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘉𐘳𐘁𐄁𐘃𐄁\n𐙂𐘂𐘱𐙉𐄐𐄌\n𐘫𐘽𐄁𐙉𐄓\n𐜉𐄋\n𐛉𐙉𐄐𐄌\n𐜓𐄇\n𐜗𐄌\n𐙋𐄉\n𐘢𐘟𐘃𐙉𐄋\n𐙖𐝫𐄋\n𐜗𐄇\n𐛺𐄈\n𐘤𐘸𐘗𐙉𐄐𐄈\n𐙘𐄐𐄈\n𐘌𐘯𐙁𐙉𐄑\n𐙘𐄉",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘉𐘳𐘁𐄁𐘃𐄁𐙂𐘂𐘱𐙉\n𐄐𐄌𐘫𐘽𐄁𐙉𐄓𐜉𐄋\n𐛉𐙉𐄐𐄌𐜓𐄇𐜗𐄌\n𐙋𐄉𐘢𐘟𐘃𐙉𐄋\n𐙖𐝫𐄋𐜗𐄇𐛺𐄈𐘤𐘸\n𐘗𐙉𐄐𐄈𐙘𐄐𐄈𐘌𐘯𐙁\n𐙉𐄑𐙘𐄉",
     "translatedWords": [
         "U-TA-RO",
@@ -13073,7 +13073,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂𐘁𐙉𐄙𐝫\n𐙘𐄐𐄋\n𐙖𐄐𐄍",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙂𐘁𐙉𐄙𐝫𐙘𐄐𐄋\n𐙖𐄐𐄍",
     "translatedWords": [
         "\"total\"",
@@ -13124,7 +13124,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙁𐘾𐘭𐘃𐄁𐘸𐘁𐄁𐘉𐘻𐘅𐘤𐄁\n𐘉𐘲𐄇\n𐘻𐘹𐄇\n𐙂𐘴𐘕𐄇\n𐙁𐘘𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘶𐙁𐄇\n𐘉𐘆𐘻𐄇\n𐘻𐘘𐘳𐘴𐘙𐄇\n𐘃𐘱𐘙𐄇\n𐘅𐘀𐘙𐄇\n𐙂𐘁𐄐\n—\n𐘞𐘳𐄁\n𐙂𐙂𐘀𐘴𐄇\n𐘺𐘞𐘚𐘠𐄇\n𐘀𐘻𐘯𐄇\n𐘀𐘗𐙂𐘠𐄇\n𐘸𐘀𐘁𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙁𐘾𐘭𐘃𐄁𐘸𐘁𐄁𐘉𐘻\n𐘅𐘤𐄁𐘉𐘲𐄇𐘻𐘹𐄇𐙂\n𐘴𐘕𐄇𐙁𐘘𐄇𐙂𐘰𐘯𐄇𐘹\n𐘶𐙁𐄇𐘉𐘆𐘻𐄇𐘻𐘘𐘳\n𐘴𐘙𐄇𐘃𐘱𐘙𐄇𐘅𐘀𐘙𐄇\n𐙂𐘁𐄐\n—\n𐘞𐘳𐄁𐙂𐙂𐘀𐘴𐄇𐘺𐘞𐘚\n𐘠𐄇𐘀𐘻𐘯𐄇𐘀𐘗𐙂\n𐘠𐄇𐘸𐘀𐘁𐄇",
     "translatedWords": [
         "MA-KA-RI-TE",
@@ -13325,7 +13325,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘐𐘹𐘗𐄁\n𐙂𐘙𐘶𐄇\n𐘆𐘸𐘈𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘐𐘹𐘗𐄁𐙂𐘙𐘶𐄇\n𐘆𐘸𐘈𐄇",
     "translatedWords": [
         "*21F-TU-NE",
@@ -13373,7 +13373,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙄𐄁𐛀𐄁\n𐙁𐘆𐄐𐄋\n𐘸𐄐\n𐘌𐘌𐘘𐄌\n𐘸𐄊\n𐘇𐘭𐘲𐄊\n𐘸𐄇\n𐘭𐘘𐙁𐄐\n𐙂𐘁𐄒\n𐘸𐄐𐄋𐝫",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙄𐄁𐛀𐄁𐙁𐘆\n𐄐𐄋𐘸𐄐𐘌𐘌\n𐘘𐄌𐘸𐄊𐘇𐘭𐘲\n𐄊𐘸𐄇𐘭𐘘𐙁𐄐\n𐙂𐘁𐄒𐘸𐄐𐄋𐝫",
     "translatedWords": [
         "pig",
@@ -13490,7 +13490,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙳𐄒𐄊\n𐙇𐄕𐄍\n𐘭𐘻𐘤𐄐𐄉\n𐘺𐘱𐄐\n𐙂𐘰𐘅𐘹𐄍\n𐘠𐄍\n𐘱𐚅𐄐\n𐙚𐘹𐄈\n𐙳𐘶𐄎\n𐙂𐘁𐄙𐄕",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙳𐄒𐄊𐙇𐄕𐄍\n𐘭𐘻𐘤𐄐𐄉𐘺𐘱𐄐\n𐙂𐘰𐘅𐘹𐄍𐘠𐄍\n𐘱𐚅𐄐𐙚𐘹𐄈𐙳𐘶\n𐄎𐙂𐘁𐄙𐄕",
     "translatedWords": [
         "*327",
@@ -13601,7 +13601,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘿𐘴𐄁\n𐘀𐘋𐛷𐄖𐄊\n𐛭𐄕𐄈𐝆𐝀\n𐘀𐘉𐘪𐄁𐘚𐛭𐄑\n𐘸𐘙𐘳𐘅𐛳𐄕\n𐛭𐄓𐄎\n𐘂𐘚𐘄𐄉𐝂",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘀𐘿𐘴𐄁𐘀𐘋\n𐛷𐄖𐄊𐛭\n𐄕𐄈𐝆𐝀𐘀𐘉\n𐘪𐄁𐘚𐛭𐄑𐘸\n𐘙𐘳𐘅𐛳𐄕\n𐛭𐄓𐄎𐘂𐘚𐘄𐄉𐝂",
     "translatedWords": [
         "DA-QE-RA",
@@ -13703,7 +13703,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘭𐘷𐜘𐄐\n𐘞𐘽𐙉𐄋\n𐙖𐄊\n𐘝𐄈\n𐙍𐄉\n𐘖𐄉",
     "scribe": "HT Scribe 4",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘸𐘭𐘷𐜘𐄐\n𐘞𐘽𐙉𐄋𐙖𐄊\n𐘝𐄈𐙍𐄉𐘖\n𐄉",
     "translatedWords": [
         "KI-RI-TA₂",
@@ -13784,7 +13784,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈𐝫\n𐝫𐄈\n𐘀𐘤𐙈𐄈\n𐘂𐝫𐄁𐝫\n𐝫𐘆𐄇\n𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉\n𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇\n𐙰𐘆𐘴𐄇\n𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘳𐘗𐄇\n𐙚𐘹𐄇\n𐝫𐘬𐄇\n𐙂𐘰𐘯𐄇\n𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇\n𐙂𐘀𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈\n𐝫𐄈𐘀𐘤𐙈𐄈𐘂\n𐝫𐄁𐝫𐘆𐄇𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇𐙰𐘆𐘴𐄇𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇𐘂𐘳𐘗𐄇𐙚𐘹𐄇\n𐝫𐘬𐄇𐙂𐘰𐘯𐄇𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇𐙂𐘀𐄇",
     "translatedWords": [
         "RA-RI",
@@ -13979,7 +13979,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘧𐘆𐄁𐚆𐄁𐙇𐝫\n𐝫𐙚𐘸𐘷𐄍𐝫\n𐝫𐘇𐘴𐘶𐘉𐘦𐘍𐄈\n𐘌𐘌𐘘𐄈\n𐘆𐄈\n𐘀𐘙𐄈\n𐙂𐘁𐄕𐄋\n𐘊𐘄𐙂𐘁𐄘𐄍",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘧𐘆𐄁𐚆𐄁𐙇𐝫\n𐙚𐘸𐘷𐄍𐝫\n𐝫𐘇𐘴𐘶𐘉𐘦𐘍𐄈𐘌𐘌\n𐘘𐄈𐘆𐄈𐘀𐘙𐄈\n𐙂𐘁𐄕𐄋\n𐘊𐘄𐙂𐘁𐄘𐄍",
     "translatedWords": [
         "JE-DI",
@@ -14081,7 +14081,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃\n𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆\n𐙜𐄎𐝕\n𐘸𐘁𐝎\n𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫\n𐝫𐘸𐘁𐝕\n𐘀𐘹𐙋𐄐𐄋\n𐙜𐄊𐝃\n𐘸𐘁𐝕\n𐙂𐘁𐙋𐄘𐄉𐝆\n𐙜𐄁\n𐙂𐘁𐝫𐄑𐄋𐝅\n𐘸𐘁𐄌𐝫",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆𐙜𐄎\n𐝕𐘸𐘁𐝎𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫𐘸𐘁𐝆𐝃\n𐘀𐘹𐙋𐄐𐄋𐙜𐄊𐝃\n𐘸𐘁𐝕𐙂𐘁𐙋\n𐄘𐄉𐝆𐙜𐄁𐙂𐘁𐝫𐄑\n𐄋𐝅𐘸𐘁𐄌𐝫",
     "translatedWords": [
         "KI-TA-I",
@@ -14288,7 +14288,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙓𐙜𐄐𐄇𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁𐘢𐘞𐄊𐙓\n𐄇𐙓𐘬𐄐𐘹𐘂𐘆𐘀\n𐝆𐝉𐘾𐘅𐝫𐘤𐘬\n𐝀𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑𐘸𐘁𐄋",
     "translatedWords": [
         "*188-*308",
@@ -14420,7 +14420,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘽𐝫\n𐝫𐜓𐄇𐝂\n𐜋𐝫\n𐝫𐜗𐄇𐝆𐝫\n𐝫𐘞𐘽𐙉𐄈\n𐙖𐝫𐄇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘽𐝫\n𐜓𐄇𐝂𐜋𐝫\n𐜗𐄇𐝆𐝫\n𐘞𐘽𐙉𐄈𐙖𐝫𐄇",
     "translatedWords": [
         "𐝫",
@@ -14504,7 +14504,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄑\n𐝫𐘙𐘷𐛭𐄑\n𐛵𐄍𐝆\n𐙘𐄐\n𐘝𐄑𐄉",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄑\n𐝫𐘙𐘷𐛭𐄑\n𐛵𐄍𐝆𐙘𐄐\n𐘝𐄑𐄉",
     "translatedWords": [
         "𐝫",
@@ -14585,7 +14585,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇\n𐘉𐝫\n𐝫𐝆\n𐘤𐘆𐘱𐄇𐝫\n𐝫𐘉𐘪𐄇\n𐘢𐝫\n𐝫𐄕𐄈𐝫\n𐝫𐄈𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇𐘉𐝫\n𐝆𐘤𐘆𐘱𐄇𐝫\n𐘉𐘪𐄇𐘢𐝫\n𐄕𐄈𐝫\n𐄈𐝫\n𐝫",
     "translatedWords": [
         "DA-NA-SI",
@@ -14687,7 +14687,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙙𐄉\n𐝫𐄌\n𐙆𐄊\n𐄁𐘐𐝫\n𐝫\n𐝫𐙆𐝫\n𐝫𐘹𐄌\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙙𐄉\n𐝫𐄌𐙆𐄊𐄁𐘐𐝫\n𐝫𐙆\n𐝫𐘹𐄌\n𐝫",
     "translatedWords": [
         "*305",
@@ -14768,7 +14768,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
     "translatedWords": [
         "𐝫",
@@ -14813,7 +14813,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘗𐄐𐄉𐝫\n𐙂𐘁𐙛𐄙𐄔𐄌\n𐙂𐄖𐄈\n𐛫𐄑𐄊\n𐛖𐄐𐄋\n𐙕𐄐𐄇\n𐛖𐄐𐄊\n𐙂𐘁𐄚𐄘𐄈",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘗𐄐𐄉𐝫\n𐙂𐘁𐙛𐄙𐄔𐄌𐙂\n𐄖𐄈𐛫𐄑𐄊𐛖𐄐𐄋\n𐙕𐄐𐄇𐛖𐄐𐄊\n𐙂𐘁𐄚𐄘𐄈",
     "translatedWords": [
         "𐝫",
@@ -14921,7 +14921,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙲𐄁\n𐘂𐘴\n𐘹𐘘𐘯𐘈𐘋𐙉𐝫𐄐\n𐘮𐘹𐙁𐘙𐛲𐄐𐄈𐝫\n𐝫𐘻𐘳𐛭𐝆𐝫\n𐛲𐄌\n𐘆𐝫\n𐛲𐄊\n𐙁𐘭𐝫\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙲𐄁𐘂𐘴𐘹𐘘𐘯𐘈𐘋\n𐙉𐝫𐄐𐘮𐘹𐙁𐘙𐛲𐄐𐄈\n𐝫𐘻𐘳𐛭𐝆𐝫𐛲𐄌𐘆\n𐝫𐛲𐄊𐙁𐘭\n𐝫",
     "translatedWords": [
         "*326",
@@ -15029,7 +15029,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛲𐄌\n𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐛲𐄌𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫",
     "translatedWords": [
         "grain",
@@ -15095,7 +15095,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘙𐘷𐙉𐄒𐄉𐝆𐝁\n𐙘𐄐\n𐘝𐄑𐄈\n𐘹𐘐𐘭𐘅𐙉𐄓𐝆\n𐜉𐄇𐝫\n𐝫𐜓𐄌\n𐝫𐙖𐝫\n𐝫",
     "scribe": "HT Scribe 15",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘸𐘙𐘷𐙉𐄒𐄉𐝆𐝁\n𐙘𐄐𐘝𐄑𐄈𐘹𐘐𐘭𐘅\n𐙉𐄓𐝆𐜉𐄇𐝫\n𐝫𐜓𐄌𐙖𐝫\n𐝫",
     "translatedWords": [
         "KI-RE-TA₂",
@@ -15194,7 +15194,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘤𐄉\n𐘞𐘽𐙗𐝫\n𐝫\n𐝫𐘽𐝫\n𐝫𐙂𐘁𐝫\n—\n𐘤𐙗𐄎\n𐘝𐄌\n𐙍𐄉",
     "scribe": "HT Scribe 19",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘤𐄉\n𐘞𐘽𐙗𐝫\n𐝫𐘽𐝫\n𐝫𐙂𐘁𐝫\n—\n𐘤𐙗𐄎𐘝\n𐄌𐙍𐄉",
     "translatedWords": [
         "𐝫",
@@ -15290,7 +15290,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘝𐄕𐄈\n𐙂𐝫\n𐝫𐄛𐄔𐄉\n𐘚𐘌𐙈𐙉𐄔𐄎𐝫\n𐝫𐙖𐄐𐄈𐝆\n𐙘𐄐𐄈𐝕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘝𐄕𐄈𐙂𐝫\n𐝫𐄛𐄔𐄉𐘚𐘌\n𐝫𐙈𐙉𐄔𐄎\n𐝫𐙖𐄐𐄈𐝆𐙘𐄐𐄈𐝆𐝃",
     "translatedWords": [
         "𐝫",
@@ -15374,7 +15374,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘝𐄒𐝫\n𐝫𐙋𐄈\n𐛼𐝫\n—\n𐘊𐘄𐙂𐘁𐝫𐄜𐄔𐄈𐝆𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘝𐄒𐝫\n𐝫𐙋𐄈𐛼𐝫\n—\n𐘊𐘄𐙂𐘁𐝫𐄜\n𐄔𐄈𐝆𐝫",
     "translatedWords": [
         "𐝫",
@@ -15443,7 +15443,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘈𐄁𐙫𐄋\n𐘌𐘙𐘄𐄁𐘓𐄑𐄍\n𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘈𐄁𐙫𐄋𐘌𐘙\n𐘄𐄁𐘐𐄑𐄍𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "A-SE",
@@ -15521,7 +15521,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘬𐄁𐘃𐛬𐄔𐄋",
     "scribe": "HT Scribe 22",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘬𐄁𐘃𐛬\n𐄔𐄋",
     "translatedWords": [
         "\"assessment\"?",
@@ -15560,7 +15560,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘗𐘻𐘅𐄐𐝫\n𐝫𐘻𐘹𐄁\n𐘻𐘾𐝫\n𐝫𐄇\n𐘅𐘐𐘗𐝫\n𐝫𐘻𐄈",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘗𐘻𐘅𐄐𐝫\n𐝫𐘻𐘹𐄁𐘻𐘾\n𐝫𐄇𐘅𐘐𐘗\n𐝫𐘻𐄈",
     "translatedWords": [
         "𐝫",
@@ -15632,7 +15632,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈\n𐘐𐄒𐝫",
     "translatedWords": [
         "𐝫",
@@ -15674,7 +15674,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘓𐄒𐝫\n𐝫𐄑𐄉𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐄑𐄉𐝫\n𐝫",
     "translatedWords": [
         "she-goat",
@@ -15716,7 +15716,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄑𐄊𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄑𐄊\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -15755,7 +15755,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘷𐙉𐝫𐄉𐝫\n𐜗𐄌𐝫\n𐝫𐙖𐄈\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘷𐙉𐝫𐄉𐜗𐄌𐝫\n𐝫𐙖𐄈𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -15818,7 +15818,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘫𐙁𐙂𐝫\n𐝫𐙉𐝫𐄇\n𐙖𐝆\n𐝫𐘾𐘽𐝫\n𐝫",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘫𐙁𐙂\n𐝫𐙉𐝫𐄇𐙖𐝆\n𐝫𐘾𐘽\n𐝫",
     "translatedWords": [
         "PU-MA-KU",
@@ -15875,7 +15875,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘉𐘟𐘤𐄁\n𐙅𐘤𐘝𐄁𐄇𐝫\n𐘧𐘆𐄁𐜓𐄇𐝆\n𐄁\n𐘉𐘟𐘤𐝫𐄁𐝫\n𐙅𐘤𐙈𐘾𐄉\n𐘾𐝫\n𐝫𐙁𐝫\n𐝫𐘾𐝫\n𐝫𐄊\n𐜋𐄉\n𐘾𐄇\n𐜋𐄇\n𐝫𐘾𐄇\n𐜋𐄈\n𐘾𐘂𐝆𐝫\n𐝫𐜋𐄌𐝆",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘉𐘟𐘤𐄁𐙅𐘤𐘝𐄁𐄇𐝫𐘧𐘆𐄁\n𐜓𐄇𐝆𐄁𐘉𐘟𐘤𐝫𐄁𐝫𐙅𐘤𐙈𐘾𐄉\n𐘾𐝫𐙁𐝫𐘾𐝫𐄊\n𐜋𐄉𐘾𐄇𐜋𐄇\n𐝫𐘾𐄇𐜋𐄈𐘾𐘂𐝆\n𐝫𐜋𐄌𐝆",
     "translatedWords": [
         "U-*34-SI",
@@ -16049,7 +16049,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄇\n𐘇𐘭𐝫\n𐝫𐘘𐘆𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐄇𐘇𐘭𐝫\n𐝫𐘘𐘆𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -16100,7 +16100,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -16151,7 +16151,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐘵𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄁𐘵𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐄁",
@@ -16193,7 +16193,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘿𐝫𐝫𐄒\n𐘭𐙙𐄒\n𐙁𐄒\n𐘭𐘾𐘳𐄒",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘿𐝫𐄒\n𐘭𐙙𐄒𐙁𐄒\n𐘭𐘾𐘳𐄒",
     "translatedWords": [
         "𐝫",
@@ -16256,7 +16256,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘴𐝅\n𐝫𐝆\n𐝫𐘝𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘴𐝅\n𐝫𐝆\n𐝫𐘝𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -16310,7 +16310,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛀𐄁\n𐘠𐝫\n𐝫𐄙\n𐝫𐄍𐝫\n𐝫𐄓𐝫\n𐘸𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐛀𐄁𐘠𐝫𐄙𐝫\n𐝫𐄍𐝫𐄓𐝫\n𐘸𐝫\n𐝫",
     "translatedWords": [
         "*516",
@@ -16376,7 +16376,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘹𐘋𐘂𐘱𐝫\n𐝫𐙋𐝫\n𐝫𐙉𐝫\n𐝫\n𐝫𐙂𐄌𐝫\n𐝫𐘳𐄌",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘹𐘋𐘂𐘱\n𐝫𐙋𐝫𐙉𐝫\n𐝫\n𐝫𐙂𐄌𐝫𐘳𐄌",
     "translatedWords": [
         "TU-ME-PA-JA",
@@ -16439,7 +16439,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐙉",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄁𐙉",
     "translatedWords": [
         "𐄁",
@@ -16469,7 +16469,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘅𐝫\n𐝫𐄈𐝆𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐘅𐝫\n𐄈𐝆𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -16511,7 +16511,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘝𐄐𐄊𐝫\n𐝫𐄉𐝃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘝𐄐𐄊𐝫\n𐄉𐝃",
     "translatedWords": [
         "𐝫",
@@ -16556,7 +16556,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄌𐝆𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄌𐝆𐝫",
     "translatedWords": [
         "𐝫",
@@ -16592,7 +16592,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘯𐘃𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘯𐘃𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -16637,7 +16637,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -16676,7 +16676,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄈\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄈\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -16721,7 +16721,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄈𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄈𐝫",
     "translatedWords": [
         "𐝫",
@@ -16754,7 +16754,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -16787,7 +16787,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘤𐝫\n𐝫𐄌\n𐘤𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘤𐝫\n𐝫𐄌𐘤𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -16840,7 +16840,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙋",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙋",
     "translatedWords": [
         "olives"
@@ -16863,7 +16863,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙓",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙓",
     "translatedWords": [
         "*188"
@@ -16886,7 +16886,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄁𐝫",
     "translatedWords": [
         "𐝫",
@@ -16915,7 +16915,7 @@ var inscriptions = new Map([
     "parsedInscription": "",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
@@ -16936,7 +16936,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘾",
     "scribe": "HT Wa Scribe 50",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘀𐘾",
     "translatedWords": [
         "DA-KA"
@@ -16963,7 +16963,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘾",
     "scribe": "HT Wa Scribe 50",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "DA-KA"
@@ -16990,7 +16990,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘾",
     "scribe": "HT Wa Scribe 50",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "DA-KA"
@@ -17017,7 +17017,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘾",
     "scribe": "HT Wa Scribe 50",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "DA-KA"
@@ -17044,7 +17044,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘾",
     "scribe": "HT Wa Scribe 51",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "DA-KA"
@@ -17071,7 +17071,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 52",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘚𐘽",
     "translatedWords": [
         "I-RA₂"
@@ -17098,7 +17098,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘽",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I-RA₂"
@@ -17125,7 +17125,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 53",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I-RA₂"
@@ -17152,7 +17152,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 53",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I-RA₂"
@@ -17179,7 +17179,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 53",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I-RA₂"
@@ -17206,7 +17206,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 52",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I-RA₂"
@@ -17233,7 +17233,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 52",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I-RA₂"
@@ -17260,7 +17260,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 53",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I-RA₂"
@@ -17287,7 +17287,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐘾",
     "scribe": "HT Wa Scribe 54",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘤𐘾",
     "translatedWords": [
         "SI-KA"
@@ -17314,7 +17314,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐘾",
     "scribe": "HT Wa Scribe 54",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI-KA"
@@ -17341,7 +17341,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI-KA"
@@ -17368,7 +17368,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐘾",
     "scribe": "HT Wa Scribe 51",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI-KA"
@@ -17395,7 +17395,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐘾",
     "scribe": "HT Wa Scribe 54",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI-KA"
@@ -17424,7 +17424,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘂𐘳𐘗\n𐘤𐘹",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘂𐘳𐘗\n𐘤𐘹",
     "translatedWords": [
         "PA-TA-NE",
@@ -17457,7 +17457,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜝𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐜝𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
     "translatedWords": [
         "*304+PA-KU-PA",
@@ -17496,7 +17496,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙓𐘬𐄁\n𐝕\n𐛉𐛔",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙓𐘬𐄁\n𐝕\n𐛉𐛔",
     "translatedWords": [
         "*188-DU",
@@ -17538,7 +17538,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜝𐜙𐄉",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐜝𐝧𐄉",
     "translatedWords": [
         "*304+PA-CYP+D",
@@ -17568,7 +17568,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛁",
     "scribe": "HT Wa Scribe 55",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐛁",
     "translatedWords": [
         "I+*301"
@@ -17595,7 +17595,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐝃",
     "translatedWords": [
         "¹⁄₄"
@@ -17622,7 +17622,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "¹⁄₄"
@@ -17649,7 +17649,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝆𐙕",
     "scribe": "HT Wa Scribe 57",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐝆𐙕",
     "translatedWords": [
         "*905-*301"
@@ -17676,7 +17676,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝃𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐝃𐙕",
     "translatedWords": [
         "E-*301"
@@ -17703,7 +17703,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘾𐘤",
     "translatedWords": [
         "KA-SI"
@@ -17731,7 +17731,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘤𐘾",
     "translatedWords": [
         "SI-KA"
@@ -17759,7 +17759,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙕𐙕",
     "translatedWords": [
         "*301-*301"
@@ -17788,7 +17788,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕𐙕",
     "scribe": "HT Wa Scribe 58",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301-*301"
@@ -17815,7 +17815,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘀",
     "translatedWords": [
         "DA"
@@ -17842,7 +17842,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘁",
     "translatedWords": [
         "RO"
@@ -17869,7 +17869,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘁",
     "translatedWords": [
         "RO"
@@ -17896,7 +17896,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "HT Wa Scribe 34",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -17923,7 +17923,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -17950,7 +17950,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -17977,7 +17977,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18004,7 +18004,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18031,7 +18031,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18058,7 +18058,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18085,7 +18085,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "HT Wa Scribe 60",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18112,7 +18112,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18139,7 +18139,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18166,7 +18166,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18193,7 +18193,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "HT Wa Scribe 59",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18220,7 +18220,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18247,7 +18247,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "HT Wa Scribe 61",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18274,7 +18274,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "HT Wa Scribe 62",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18301,7 +18301,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18328,7 +18328,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18355,7 +18355,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18382,7 +18382,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18409,7 +18409,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18436,7 +18436,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18463,7 +18463,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18490,7 +18490,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18517,7 +18517,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18544,7 +18544,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18571,7 +18571,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18598,7 +18598,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18625,7 +18625,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18652,7 +18652,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18679,7 +18679,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18706,7 +18706,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18733,7 +18733,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18760,7 +18760,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18787,7 +18787,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18814,7 +18814,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18841,7 +18841,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18868,7 +18868,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18895,7 +18895,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18922,7 +18922,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18949,7 +18949,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -18976,7 +18976,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19003,7 +19003,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19030,7 +19030,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19057,7 +19057,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19084,7 +19084,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19111,7 +19111,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19138,7 +19138,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19165,7 +19165,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19192,7 +19192,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19219,7 +19219,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19246,7 +19246,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19273,7 +19273,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19300,7 +19300,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19327,7 +19327,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19354,7 +19354,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19381,7 +19381,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19408,7 +19408,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19435,7 +19435,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19462,7 +19462,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19489,7 +19489,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19516,7 +19516,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19543,7 +19543,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19570,7 +19570,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19597,7 +19597,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19624,7 +19624,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19651,7 +19651,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19678,7 +19678,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19705,7 +19705,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19732,7 +19732,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19759,7 +19759,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19786,7 +19786,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19813,7 +19813,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19840,7 +19840,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19867,7 +19867,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19894,7 +19894,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19921,7 +19921,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19948,7 +19948,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -19975,7 +19975,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -20002,7 +20002,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -20029,7 +20029,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -20056,7 +20056,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -20083,7 +20083,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -20110,7 +20110,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -20137,7 +20137,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -20164,7 +20164,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -20191,7 +20191,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -20218,7 +20218,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 55",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘃 𐘃¹¹²³",
     "translatedWords": [
         "TE"
@@ -20245,7 +20245,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 56",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20272,7 +20272,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20299,7 +20299,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 57",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20326,7 +20326,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20353,7 +20353,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20380,7 +20380,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20407,7 +20407,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20434,7 +20434,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 58",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20461,7 +20461,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20488,7 +20488,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20515,7 +20515,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20542,7 +20542,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 59",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20569,7 +20569,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20596,7 +20596,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20623,7 +20623,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20650,7 +20650,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20677,7 +20677,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20704,7 +20704,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20731,7 +20731,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 60",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20758,7 +20758,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20785,7 +20785,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20812,7 +20812,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20839,7 +20839,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 59",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20862,7 +20862,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TE"
@@ -20885,7 +20885,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇",
     "scribe": "HT Wa Scribe 61",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘇 𐘇¹¹⁴⁸",
     "translatedWords": [
         "A"
@@ -20908,7 +20908,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇",
     "scribe": "HT Wa Scribe 62",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "A"
@@ -20931,7 +20931,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "A"
@@ -20954,7 +20954,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘚",
     "translatedWords": [
         "I"
@@ -20977,7 +20977,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21000,7 +21000,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21023,7 +21023,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21046,7 +21046,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 64",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21069,7 +21069,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21092,7 +21092,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21115,7 +21115,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21138,7 +21138,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21161,7 +21161,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21184,7 +21184,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21207,7 +21207,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21230,7 +21230,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21253,7 +21253,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21276,7 +21276,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21299,7 +21299,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21322,7 +21322,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21345,7 +21345,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21368,7 +21368,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21391,7 +21391,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21414,7 +21414,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 65",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21441,7 +21441,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 65",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21468,7 +21468,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21495,7 +21495,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 66",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21522,7 +21522,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 67",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "I"
@@ -21549,7 +21549,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘤 𐘤¹¹⁹⁹ 𐘤¹²⁵⁹",
     "translatedWords": [
         "SI"
@@ -21576,7 +21576,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21603,7 +21603,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21630,7 +21630,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21657,7 +21657,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21684,7 +21684,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21711,7 +21711,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21738,7 +21738,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21765,7 +21765,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21792,7 +21792,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21819,7 +21819,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21846,7 +21846,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21873,7 +21873,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21900,7 +21900,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21927,7 +21927,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21954,7 +21954,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -21981,7 +21981,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22008,7 +22008,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22035,7 +22035,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22062,7 +22062,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22089,7 +22089,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22116,7 +22116,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22143,7 +22143,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22170,7 +22170,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22197,7 +22197,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22224,7 +22224,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22251,7 +22251,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22278,7 +22278,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22305,7 +22305,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22332,7 +22332,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22359,7 +22359,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22386,7 +22386,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22413,7 +22413,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22440,7 +22440,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22467,7 +22467,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22494,7 +22494,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22521,7 +22521,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22548,7 +22548,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22575,7 +22575,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22602,7 +22602,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22629,7 +22629,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22656,7 +22656,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22683,7 +22683,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22710,7 +22710,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22737,7 +22737,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22764,7 +22764,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22791,7 +22791,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22818,7 +22818,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22845,7 +22845,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22872,7 +22872,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22899,7 +22899,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22926,7 +22926,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22953,7 +22953,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -22980,7 +22980,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23007,7 +23007,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23034,7 +23034,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23061,7 +23061,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23088,7 +23088,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23115,7 +23115,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23142,7 +23142,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23169,7 +23169,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23196,7 +23196,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23223,7 +23223,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23250,7 +23250,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23277,7 +23277,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23304,7 +23304,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23331,7 +23331,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23358,7 +23358,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23385,7 +23385,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23412,7 +23412,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23439,7 +23439,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23466,7 +23466,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23493,7 +23493,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23520,7 +23520,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23547,7 +23547,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23574,7 +23574,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23601,7 +23601,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23628,7 +23628,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23655,7 +23655,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23682,7 +23682,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 70",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23709,7 +23709,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23736,7 +23736,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 70",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23763,7 +23763,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23790,7 +23790,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23817,7 +23817,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23844,7 +23844,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23871,7 +23871,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23898,7 +23898,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23925,7 +23925,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23952,7 +23952,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -23979,7 +23979,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -24006,7 +24006,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "SI"
@@ -24033,7 +24033,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘳 𐘳¹²⁷⁸",
     "translatedWords": [
         "TA"
@@ -24060,7 +24060,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24087,7 +24087,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24114,7 +24114,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 72",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24141,7 +24141,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24168,7 +24168,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24195,7 +24195,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24222,7 +24222,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24249,7 +24249,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24276,7 +24276,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24303,7 +24303,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24330,7 +24330,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 73",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "TA"
@@ -24357,7 +24357,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "HT Wa Scribe 74",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘵",
     "translatedWords": [
         "O"
@@ -24384,7 +24384,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "HT Wa Scribe 75",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "O"
@@ -24411,7 +24411,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "HT Wa Scribe 74",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "O"
@@ -24438,7 +24438,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘼 𐘼¹²⁸³ 𐘼¹²⁸⁶ 𐘼¹³¹¹",
     "translatedWords": [
         "ZE"
@@ -24465,7 +24465,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24492,7 +24492,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24519,7 +24519,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24546,7 +24546,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24573,7 +24573,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24600,7 +24600,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24627,7 +24627,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24654,7 +24654,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24681,7 +24681,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 79",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24708,7 +24708,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 79",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24735,7 +24735,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 78",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24762,7 +24762,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 80",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24789,7 +24789,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 81",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24816,7 +24816,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 80",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24843,7 +24843,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 81",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24870,7 +24870,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24897,7 +24897,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24924,7 +24924,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24951,7 +24951,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -24978,7 +24978,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 82",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25005,7 +25005,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25032,7 +25032,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25059,7 +25059,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25086,7 +25086,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25113,7 +25113,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 83",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25140,7 +25140,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25167,7 +25167,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 83",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25194,7 +25194,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 77",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25221,7 +25221,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25248,7 +25248,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25275,7 +25275,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 77",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25302,7 +25302,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25329,7 +25329,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25356,7 +25356,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25383,7 +25383,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25410,7 +25410,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25437,7 +25437,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25464,7 +25464,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25491,7 +25491,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -25518,7 +25518,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘾 𐘾¹⁴⁵¹",
     "translatedWords": [
         "KA"
@@ -25545,7 +25545,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25572,7 +25572,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25599,7 +25599,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25626,7 +25626,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25653,7 +25653,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25680,7 +25680,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25707,7 +25707,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25734,7 +25734,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25761,7 +25761,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25788,7 +25788,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25815,7 +25815,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25842,7 +25842,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25869,7 +25869,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25896,7 +25896,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25923,7 +25923,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25950,7 +25950,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -25977,7 +25977,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26004,7 +26004,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26031,7 +26031,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26058,7 +26058,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26085,7 +26085,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26112,7 +26112,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26139,7 +26139,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26166,7 +26166,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26193,7 +26193,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26220,7 +26220,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26247,7 +26247,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26274,7 +26274,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26301,7 +26301,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26328,7 +26328,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26355,7 +26355,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26382,7 +26382,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26409,7 +26409,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26436,7 +26436,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26463,7 +26463,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26490,7 +26490,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26517,7 +26517,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26544,7 +26544,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26571,7 +26571,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26598,7 +26598,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26625,7 +26625,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26652,7 +26652,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26679,7 +26679,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26706,7 +26706,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26733,7 +26733,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26760,7 +26760,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26787,7 +26787,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26814,7 +26814,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26841,7 +26841,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26868,7 +26868,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26895,7 +26895,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26922,7 +26922,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26949,7 +26949,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -26976,7 +26976,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27003,7 +27003,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27030,7 +27030,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27057,7 +27057,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27084,7 +27084,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27111,7 +27111,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27138,7 +27138,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27165,7 +27165,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27192,7 +27192,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27219,7 +27219,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27246,7 +27246,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27273,7 +27273,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27300,7 +27300,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27327,7 +27327,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27354,7 +27354,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27381,7 +27381,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27408,7 +27408,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27435,7 +27435,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27462,7 +27462,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27489,7 +27489,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27516,7 +27516,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27543,7 +27543,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27570,7 +27570,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27597,7 +27597,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27624,7 +27624,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27651,7 +27651,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27678,7 +27678,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27705,7 +27705,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27732,7 +27732,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27759,7 +27759,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27786,7 +27786,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27813,7 +27813,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27840,7 +27840,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27867,7 +27867,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27894,7 +27894,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27921,7 +27921,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27948,7 +27948,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -27975,7 +27975,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28002,7 +28002,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28029,7 +28029,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28056,7 +28056,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28083,7 +28083,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28110,7 +28110,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28137,7 +28137,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28164,7 +28164,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28191,7 +28191,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28218,7 +28218,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28245,7 +28245,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28272,7 +28272,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28299,7 +28299,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28326,7 +28326,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28353,7 +28353,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28380,7 +28380,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28407,7 +28407,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28434,7 +28434,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28461,7 +28461,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28488,7 +28488,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28515,7 +28515,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28542,7 +28542,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28569,7 +28569,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28596,7 +28596,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28623,7 +28623,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28650,7 +28650,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28677,7 +28677,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28704,7 +28704,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28731,7 +28731,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28758,7 +28758,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28785,7 +28785,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28812,7 +28812,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28839,7 +28839,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28866,7 +28866,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28893,7 +28893,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28920,7 +28920,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28947,7 +28947,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -28974,7 +28974,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29001,7 +29001,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29028,7 +29028,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29055,7 +29055,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29082,7 +29082,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29109,7 +29109,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29136,7 +29136,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29163,7 +29163,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29190,7 +29190,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29217,7 +29217,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29244,7 +29244,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29271,7 +29271,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29298,7 +29298,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29325,7 +29325,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29352,7 +29352,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29379,7 +29379,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29406,7 +29406,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29433,7 +29433,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29460,7 +29460,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29487,7 +29487,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29514,7 +29514,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KA"
@@ -29541,7 +29541,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙂 𐙂¹⁴⁹⁰ 𐙂¹⁵¹⁸ 𐙂¹⁵⁴⁷ 𐙂¹⁵⁸²",
     "translatedWords": [
         "KU"
@@ -29568,7 +29568,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29595,7 +29595,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29622,7 +29622,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29649,7 +29649,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29676,7 +29676,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29703,7 +29703,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29730,7 +29730,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29757,7 +29757,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29784,7 +29784,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29811,7 +29811,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29838,7 +29838,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29865,7 +29865,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29892,7 +29892,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29919,7 +29919,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29946,7 +29946,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -29973,7 +29973,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30000,7 +30000,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30027,7 +30027,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30054,7 +30054,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30081,7 +30081,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30108,7 +30108,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30135,7 +30135,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30162,7 +30162,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30189,7 +30189,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30216,7 +30216,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30243,7 +30243,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30270,7 +30270,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30297,7 +30297,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30324,7 +30324,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30351,7 +30351,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30378,7 +30378,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30405,7 +30405,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30432,7 +30432,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30459,7 +30459,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30486,7 +30486,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30513,7 +30513,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30540,7 +30540,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30567,7 +30567,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30594,7 +30594,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30621,7 +30621,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30648,7 +30648,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 86",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30675,7 +30675,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30702,7 +30702,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30729,7 +30729,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30756,7 +30756,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30783,7 +30783,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30810,7 +30810,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30837,7 +30837,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30864,7 +30864,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30891,7 +30891,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30918,7 +30918,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30945,7 +30945,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30972,7 +30972,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -30999,7 +30999,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31026,7 +31026,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 88",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31053,7 +31053,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31080,7 +31080,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31107,7 +31107,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31134,7 +31134,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31161,7 +31161,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31188,7 +31188,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 88",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31215,7 +31215,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31242,7 +31242,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31269,7 +31269,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31296,7 +31296,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31323,7 +31323,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31350,7 +31350,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31377,7 +31377,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31404,7 +31404,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31431,7 +31431,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31458,7 +31458,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31485,7 +31485,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31512,7 +31512,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31539,7 +31539,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31566,7 +31566,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31593,7 +31593,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31620,7 +31620,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31647,7 +31647,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31674,7 +31674,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31701,7 +31701,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31728,7 +31728,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31755,7 +31755,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31782,7 +31782,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31809,7 +31809,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31836,7 +31836,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31863,7 +31863,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31890,7 +31890,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31917,7 +31917,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 86",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31944,7 +31944,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 86",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31971,7 +31971,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -31998,7 +31998,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32025,7 +32025,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32052,7 +32052,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32079,7 +32079,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32106,7 +32106,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32133,7 +32133,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32160,7 +32160,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32187,7 +32187,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32214,7 +32214,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32241,7 +32241,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32268,7 +32268,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32295,7 +32295,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32322,7 +32322,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32349,7 +32349,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32376,7 +32376,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32403,7 +32403,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32430,7 +32430,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32457,7 +32457,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 91",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32484,7 +32484,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32511,7 +32511,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32538,7 +32538,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 91",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32565,7 +32565,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32592,7 +32592,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32619,7 +32619,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32646,7 +32646,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 92",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32673,7 +32673,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 92",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32700,7 +32700,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 92",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32727,7 +32727,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 92",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32754,7 +32754,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32781,7 +32781,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 92",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32808,7 +32808,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 93",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32835,7 +32835,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 93",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32862,7 +32862,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 93",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32889,7 +32889,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32916,7 +32916,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32943,7 +32943,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32970,7 +32970,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -32997,7 +32997,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33024,7 +33024,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 94",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33051,7 +33051,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33078,7 +33078,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33105,7 +33105,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33132,7 +33132,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33159,7 +33159,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 93",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33186,7 +33186,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33213,7 +33213,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33240,7 +33240,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 93",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33267,7 +33267,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33294,7 +33294,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33321,7 +33321,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33348,7 +33348,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33375,7 +33375,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33402,7 +33402,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 96",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33429,7 +33429,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33456,7 +33456,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33483,7 +33483,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33510,7 +33510,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33535,7 +33535,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33562,7 +33562,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33589,7 +33589,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "KU"
@@ -33616,7 +33616,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙕 𐙕¹⁶³⁸ 𐝥¹⁷¹⁰ 𐙕¹⁷⁷⁵ 𐝥¹⁸³⁴ 𐝥¹⁸⁴⁶",
     "translatedWords": [
         "*301"
@@ -33643,7 +33643,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33670,7 +33670,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33697,7 +33697,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33724,7 +33724,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33751,7 +33751,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33778,7 +33778,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33805,7 +33805,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 97",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33832,7 +33832,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33859,7 +33859,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33886,7 +33886,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33913,7 +33913,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33940,7 +33940,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33967,7 +33967,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -33994,7 +33994,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34021,7 +34021,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34048,7 +34048,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34075,7 +34075,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34102,7 +34102,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34129,7 +34129,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34156,7 +34156,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34183,7 +34183,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34210,7 +34210,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34237,7 +34237,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34264,7 +34264,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34291,7 +34291,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34318,7 +34318,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34345,7 +34345,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34372,7 +34372,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34399,7 +34399,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34426,7 +34426,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34453,7 +34453,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 97",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34480,7 +34480,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34507,7 +34507,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34534,7 +34534,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34561,7 +34561,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34588,7 +34588,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34615,7 +34615,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34642,7 +34642,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34669,7 +34669,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34696,7 +34696,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34723,7 +34723,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34750,7 +34750,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34777,7 +34777,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34804,7 +34804,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34831,7 +34831,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34858,7 +34858,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34885,7 +34885,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34912,7 +34912,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34939,7 +34939,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34966,7 +34966,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -34993,7 +34993,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35020,7 +35020,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35047,7 +35047,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35074,7 +35074,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35101,7 +35101,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35128,7 +35128,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35155,7 +35155,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35182,7 +35182,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35209,7 +35209,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35236,7 +35236,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35263,7 +35263,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35290,7 +35290,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35317,7 +35317,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35344,7 +35344,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35371,7 +35371,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35398,7 +35398,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35425,7 +35425,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35452,7 +35452,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35479,7 +35479,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35506,7 +35506,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35533,7 +35533,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35560,7 +35560,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35587,7 +35587,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35614,7 +35614,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35641,7 +35641,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35668,7 +35668,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35695,7 +35695,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35722,7 +35722,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35749,7 +35749,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35776,7 +35776,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35803,7 +35803,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35830,7 +35830,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35857,7 +35857,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35884,7 +35884,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35911,7 +35911,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35938,7 +35938,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 99",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35965,7 +35965,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -35992,7 +35992,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36019,7 +36019,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36046,7 +36046,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36073,7 +36073,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36100,7 +36100,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36127,7 +36127,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36154,7 +36154,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36181,7 +36181,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36208,7 +36208,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36235,7 +36235,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36262,7 +36262,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36289,7 +36289,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36316,7 +36316,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36343,7 +36343,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36370,7 +36370,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36397,7 +36397,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36424,7 +36424,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36451,7 +36451,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36478,7 +36478,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36505,7 +36505,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36532,7 +36532,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36559,7 +36559,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36586,7 +36586,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36613,7 +36613,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36640,7 +36640,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36667,7 +36667,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36694,7 +36694,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36721,7 +36721,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36748,7 +36748,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36775,7 +36775,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36802,7 +36802,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36829,7 +36829,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36856,7 +36856,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36883,7 +36883,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36910,7 +36910,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36937,7 +36937,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36964,7 +36964,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -36991,7 +36991,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37018,7 +37018,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 97",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37045,7 +37045,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37072,7 +37072,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37099,7 +37099,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37126,7 +37126,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37153,7 +37153,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37180,7 +37180,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37207,7 +37207,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37234,7 +37234,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37261,7 +37261,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37288,7 +37288,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37315,7 +37315,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37342,7 +37342,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37369,7 +37369,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37396,7 +37396,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37423,7 +37423,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37450,7 +37450,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37477,7 +37477,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37504,7 +37504,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37531,7 +37531,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37558,7 +37558,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37585,7 +37585,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37612,7 +37612,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37639,7 +37639,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37666,7 +37666,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37693,7 +37693,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37720,7 +37720,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37747,7 +37747,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37774,7 +37774,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37801,7 +37801,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37828,7 +37828,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37855,7 +37855,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37882,7 +37882,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37909,7 +37909,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37936,7 +37936,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37963,7 +37963,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -37990,7 +37990,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38017,7 +38017,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38044,7 +38044,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38071,7 +38071,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38098,7 +38098,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38125,7 +38125,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38152,7 +38152,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38179,7 +38179,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38206,7 +38206,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38233,7 +38233,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38260,7 +38260,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38287,7 +38287,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38314,7 +38314,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38341,7 +38341,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38368,7 +38368,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38395,7 +38395,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38422,7 +38422,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38449,7 +38449,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38476,7 +38476,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38503,7 +38503,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38530,7 +38530,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38557,7 +38557,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38584,7 +38584,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38611,7 +38611,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38638,7 +38638,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38665,7 +38665,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38692,7 +38692,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38719,7 +38719,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38746,7 +38746,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38773,7 +38773,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38800,7 +38800,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38827,7 +38827,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38854,7 +38854,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38881,7 +38881,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38908,7 +38908,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38935,7 +38935,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38962,7 +38962,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -38989,7 +38989,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 97",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39016,7 +39016,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39043,7 +39043,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39070,7 +39070,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39097,7 +39097,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39124,7 +39124,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39151,7 +39151,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39178,7 +39178,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39205,7 +39205,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39232,7 +39232,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39259,7 +39259,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39286,7 +39286,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 99",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39313,7 +39313,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39340,7 +39340,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39367,7 +39367,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39394,7 +39394,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39421,7 +39421,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39448,7 +39448,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39475,7 +39475,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39502,7 +39502,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39529,7 +39529,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39556,7 +39556,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39583,7 +39583,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39610,7 +39610,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39637,7 +39637,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39664,7 +39664,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -39691,7 +39691,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚙",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐚙",
     "translatedWords": [
         "*365"
@@ -39718,7 +39718,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚚",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐚚",
     "translatedWords": [
         "*366"
@@ -39745,7 +39745,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚛",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐚛",
     "translatedWords": [
         "*367"
@@ -39772,7 +39772,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚜",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐚜",
     "translatedWords": [
         "*368"
@@ -39799,7 +39799,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚝",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐚝",
     "translatedWords": [
         "*369"
@@ -39826,7 +39826,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚞",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐚞",
     "translatedWords": [
         "*370"
@@ -39853,7 +39853,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -39880,7 +39880,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "𐝫"
@@ -39907,7 +39907,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "𐝫"
@@ -39934,7 +39934,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "𐝫"
@@ -39961,7 +39961,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "𐝫"
@@ -39988,7 +39988,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "𐝫"
@@ -40015,7 +40015,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "𐝫"
@@ -40038,7 +40038,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙓𐜙",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "𐙓𐜙",
     "translatedWords": [
         "*188",
@@ -40068,7 +40068,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "𐘁",
     "translatedWords": [
         "RO"
@@ -40095,7 +40095,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "",
     "translatedWords": [
         "RO"
@@ -40122,7 +40122,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘂𐘈𐘱𐝆",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘂𐘈𐘱𐝆",
     "translatedWords": [
         "PA-SE-JA",
@@ -40152,7 +40152,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘂𐘈𐘱",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘂𐘈𐘱",
     "translatedWords": [
         "PA-SE-JA"
@@ -40179,7 +40179,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘙𐘁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘾𐘙𐘁",
     "translatedWords": [
         "KA-RE-RO"
@@ -40208,7 +40208,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳𐘝𐘾𐘈",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘳𐘝𐘾𐘈",
     "translatedWords": [
         "TA-NI-KA",
@@ -40238,7 +40238,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳𐘝𐘾𐘈",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘳𐘝𐘾𐘈",
     "translatedWords": [
         "TA-NI-KA",
@@ -40270,7 +40270,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮𐘵𐘻𐘴𐙦𐘴",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘮𐘵𐘻𐘴𐙦𐘴",
     "translatedWords": [
         "WA-O-MI",
@@ -40300,7 +40300,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮𐘆𐘝",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘮𐘆𐘝",
     "translatedWords": [
         "WA-DI-NI"
@@ -40329,7 +40329,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮𐘆𐘝𐘘𐘱𐘳𐘆",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘮𐘆𐘝𐘘𐘱𐘳𐘆",
     "translatedWords": [
         "WA-DI-NI",
@@ -40361,7 +40361,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙹𐘆𐘲𐘾𐙓",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙹𐘆𐘲𐘾𐙓",
     "translatedWords": [
         "*333-DI-SU-KA",
@@ -40391,7 +40391,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙹𐘆𐘅𐘲𐘾",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙹𐘆𐘅𐘲𐘾",
     "translatedWords": [
         "*333-DI-NA-SU-KA"
@@ -40418,7 +40418,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙀𐘆𐘴",
     "scribe": "HT Wc Scribe 11",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙀𐘆𐘴",
     "translatedWords": [
         "*79-DI-RA"
@@ -40447,7 +40447,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙀𐘆𐘴𐘙𐘁",
     "scribe": "HT Wc Scribe 11",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙀𐘆𐘴𐘙𐘁",
     "translatedWords": [
         "*79-DI-RA",
@@ -40477,7 +40477,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙓",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙓",
     "translatedWords": [
         "*188"
@@ -40506,7 +40506,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂𐘻𐘅𐘿𐄁𐘒",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙂𐘻𐘅𐘿𐄁𐘒",
     "translatedWords": [
         "KU-MI-NA-QE",
@@ -40541,7 +40541,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐙂𐘂𐙗",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘾𐙂𐘂𐙗",
     "translatedWords": [
         "KA-KU-PA",
@@ -40571,7 +40571,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐙂𐘂𐜝𐜙",
     "scribe": "HT Wc Scribe 11",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘾𐙂𐘂𐜝𐜙",
     "translatedWords": [
         "KA-KU-PA",
@@ -40601,7 +40601,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘌𐙂𐘙𐄁𐘆𐙚𐄁𐜙𐜝",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘌𐙂𐘙𐄁𐘆𐙗𐝂𐜝𐜝",
     "translatedWords": [
         "QA-KU-RE",
@@ -40640,7 +40640,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐜙",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘾𐜙",
     "translatedWords": [
         "KA",
@@ -40670,7 +40670,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮𐝃",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘮𐝃",
     "translatedWords": [
         "cloth",
@@ -40700,7 +40700,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -40727,7 +40727,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙇",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙇",
     "translatedWords": [
         "VIR+[?]"
@@ -40754,7 +40754,7 @@ var inscriptions = new Map([
     "parsedInscription": "",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
@@ -40775,7 +40775,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘴𐘹𐘋\n𐘓𐘓",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘇𐘴𐘹𐘋\n𐘓",
     "translatedWords": [
         "A-RA-TU-ME",
@@ -40808,7 +40808,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙂",
     "translatedWords": [
         "KU"
@@ -40835,7 +40835,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙕",
     "translatedWords": [
         "*301"
@@ -40864,7 +40864,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙓𐘬𐜝𐜙",
     "scribe": "HT Wc Scribe 11",
     "site": "Haghia Triada",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙓𐘬𐜝𐜙",
     "translatedWords": [
         "*188-DU",
@@ -40894,7 +40894,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐘹𐘈𐘲𐘸",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐄁𐝫𐘹𐘈𐘲𐘸",
     "translatedWords": [
         "𐄁",
@@ -40924,7 +40924,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘲𐘸𐘭𐘃𐘚𐘱",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘲𐘸𐘭𐘃𐘚𐘱",
     "translatedWords": [
         "from SU-KI-RI-TA"
@@ -40951,7 +40951,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘅𐘯𐘤𐘱𐘈𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇𐘅𐘯𐘤𐘱𐘈𐝫",
     "translatedWords": [
         "A-NA-NU-SI-JA-SE"
@@ -40978,7 +40978,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘂𐘳𐘀𐘬𐘜𐘙𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘂𐘳𐘀𐘬𐘜𐘙𐝫",
     "translatedWords": [
         "PA-TA-DA-DU-PU₂-RE"
@@ -41005,7 +41005,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘤𐘫𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘤𐘫𐝫",
     "translatedWords": [
         "SI-PU"
@@ -41028,7 +41028,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘆𐄉𐘠𐘬",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘆𐄉𐘠𐘬",
     "translatedWords": [
         "DI-𐄉-TI-DU"
@@ -41051,7 +41051,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘀",
     "translatedWords": [
         "DA"
@@ -41078,7 +41078,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘶𐄁𐘅𐙁𐙁𐘠𐘠𐙫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "graffito",
+    "support": "Graffito",
     "transcription": "𐘇𐘶𐄁𐘅𐙁𐙁𐘠𐘠𐙫",
     "translatedWords": [
         "A-JU",
@@ -41111,7 +41111,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘣𐘱𐘲𐙁𐘠𐘠𐙫𐄇\n𐙫𐄇𐝆\n𐙫𐄈𐝃\n𐙫𐄉𐝃𐝄\n𐘳𐘱𐝇𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "graffito",
+    "support": "Graffito",
     "transcription": "𐝫𐘗𐄇𐘗𐄇𐝆𐙫𐄈𐝃𐙫𐄉𐝃𐝄𐘳𐘱𐝇𐝫",
     "translatedWords": [
         "WI-JA-SU-MA-TI-TI",
@@ -41185,7 +41185,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘀",
     "translatedWords": [
         "DA"
@@ -41208,7 +41208,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘀",
     "translatedWords": [
         "DA"
@@ -41231,7 +41231,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘚",
     "translatedWords": [
         "I"
@@ -41254,7 +41254,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙯",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐙯",
     "translatedWords": [
         "*323"
@@ -41277,7 +41277,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙜",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐙜",
     "translatedWords": [
         "olive oil"
@@ -41300,7 +41300,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘗\n𐘀",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘗\n𐘀",
     "translatedWords": [
         "NE",
@@ -41329,7 +41329,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -41356,7 +41356,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝄",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐝄",
     "translatedWords": [
         "¹⁄₈"
@@ -41381,7 +41381,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘧𐘞",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘧𐘞",
     "translatedWords": [
         "A-JE-SA"
@@ -41408,7 +41408,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐄁𐝫",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐄁𐝫",
     "translatedWords": [
         "gives",
@@ -41483,7 +41483,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐄁𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐙄𐝫",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐄁𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐙄𐝫",
     "translatedWords": [
         "𐄁",
@@ -41519,7 +41519,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙕𐘮𐝫",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐙕𐘮𐝫",
     "translatedWords": [
         "*301-WA"
@@ -41546,7 +41546,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘚𐘱𐘙𐘆𐘱𐄁𐘚𐘱𐘂𐝫",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘚𐘱𐘙𐘆𐘱𐄁𐘚𐘱𐘂𐝫",
     "translatedWords": [
         "I-JA-RE-DI-JA",
@@ -41579,7 +41579,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳𐘅𐘚𐙕𐘉𐘠𐘯𐄁𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘳𐘅𐘚𐙕𐘉𐘠𐘯𐄁𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "translatedWords": [
         "gives",
@@ -41621,7 +41621,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘠𐙭𐝫",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘠𐙭𐝫",
     "translatedWords": [
         "gives",
@@ -41654,7 +41654,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇𐘅𐘠𐙕𐘮𐘱𐝫",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘇𐘅𐘠𐙕𐘮𐘱𐝫",
     "translatedWords": [
         "gives?"
@@ -41681,7 +41681,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘞𐘞𐝫𐘴𐘋\n𐄁𐘉𐘅𐘾𐝫𐘅𐘤",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘱𐘞𐘞𐝫𐘴𐘋\n𐄁𐘉𐘅𐘾𐝫𐘅𐘤",
     "translatedWords": [
         "this dedication",
@@ -41717,7 +41717,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇𐘞𐘞𐘴𐘋",
     "scribe": "",
     "site": "Iouktas",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘇𐘞𐘞𐘴𐘋",
     "translatedWords": [
         "A-SA-SA-RA-ME"
@@ -41742,7 +41742,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
     "translatedWords": [
         "NA",
@@ -41788,7 +41788,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐄁𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
     "translatedWords": [
         "𐄁",
@@ -41831,7 +41831,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐙁𐘚𐝫",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐄁𐝫𐙁𐘚𐝫",
     "translatedWords": [
         "𐄁",
@@ -41859,7 +41859,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐝫𐘘𐘃𐄁𐘚𐘆𐝫",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘤𐝫𐘘𐘃𐄁𐘚𐘆𐝫",
     "translatedWords": [
         "divine",
@@ -41888,7 +41888,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐝫𐘃",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐝫𐘃",
     "translatedWords": [
         "a favour",
@@ -41921,7 +41921,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
     "scribe": "",
     "site": "Iouktas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
     "translatedWords": [
         "spice",
@@ -41966,7 +41966,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘹𐘯𐄁",
     "scribe": "",
     "site": "Kardamoutsa",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘹𐘯𐄁",
     "translatedWords": [
         "TU-NU",
@@ -41992,7 +41992,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘯𐘁𐄁𐝫𐄁",
     "scribe": "",
     "site": "Kamilari",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘯𐘁𐄁𐝫𐄁",
     "translatedWords": [
         "NU-RO",
@@ -42023,7 +42023,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐝫𐄁𐝫𐘚\n𐝫\n𐝫",
     "scribe": "",
     "site": "Kannia",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐝫𐄁𐝫𐘚\n𐝫\n𐝫",
     "translatedWords": [
         "A",
@@ -42068,7 +42068,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘞𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Kea",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘾𐘞𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "KA-SA",
@@ -42107,7 +42107,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝂\n𐝁𐝁",
     "scribe": "",
     "site": "Kea",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝂\n𐝁𐝁",
     "translatedWords": [
         "¹⁄₅",
@@ -42140,7 +42140,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸",
     "scribe": "",
     "site": "Kea",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘸",
     "translatedWords": [
         "KI"
@@ -42167,7 +42167,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐄁𐘱𐘤𐘡",
     "scribe": "",
     "site": "Kea",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐄁𐘱𐘤𐘡",
     "translatedWords": [
         "𐄁",
@@ -42197,7 +42197,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜀",
     "scribe": "",
     "site": "Kea",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐜀",
     "translatedWords": [
         "wine"
@@ -42222,7 +42222,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘜𐝫",
     "scribe": "",
     "site": "Kea",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘜𐝫",
     "translatedWords": [
         "PU₂"
@@ -42247,7 +42247,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘢𐝫",
     "scribe": "",
     "site": "Kea",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘢𐝫",
     "translatedWords": [
         "PI"
@@ -42274,7 +42274,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘧𐄁𐛵𐄖𐝫\n𐄉𐝆\n𐘝𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘧𐄁𐛵𐄖𐝫\n𐝫𐄉𐝆𐘝𐝫\n𐝫",
     "translatedWords": [
         "3/4",
@@ -42331,7 +42331,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄑\n𐘹𐝫\n𐙗𐝫𐝃\n𐙚𐜚𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄑𐘹𐝫\n𐝫𐙗𐝫𐝃𐙚𐙗𐝃𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -42391,7 +42391,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘯𐄇\n—",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘯𐄇\n—",
     "translatedWords": [
         "𐝫",
@@ -42433,7 +42433,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘬𐘙𐝫\n𐝫𐙚𐄊\n𐙗𐝁𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘬𐘙𐝫\n𐝫𐙚𐄊𐙗𐝁𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "A-DU-RE",
@@ -42490,7 +42490,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘀𐘸𐘤𐘾𐄁𐘇𐘴𐘉𐘀𐄁\n𐘣𐘞𐘞𐘗𐜚𐄈\n𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁\n𐙂𐘂𐙀𐙗𐝫𐄉𐝫𐝀\n𐘝𐄈𐝆𐝁",
     "scribe": "KH Scribe 2",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘀𐘸𐘤𐘾𐄁𐘇𐘴𐘉\n𐘀𐄁𐘣𐘞𐘞𐘗𐜚𐄈𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁𐙂𐘂𐙀\n𐙗𐝫𐄉𐝫𐝀𐘝𐄈𐝆𐝁",
     "translatedWords": [
         "A-DA-KI-SI-KA",
@@ -42589,7 +42589,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐜙𐝆\n𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆\n𐚇𐝫\n𐝫𐙗𐝫𐝆\n𐘭𐘳𐘧𐜙𐝫\n𐝫𐘑𐄇\n𐜙𐝆\n𐘕𐄇\n𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇\n𐜙𐝆\n𐘢𐘞𐝫\n𐝫𐜙𐝆\n𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎\n𐙗𐄈𐝆𐝁",
     "scribe": "KH Scribe 2",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐜙𐝆𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆𐚇\n𐝫𐙗𐝫𐝆𐘭𐘳𐘧𐜙𐝫\n𐝫𐘔𐄇𐜙𐝆𐘕𐄇𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇𐜙𐝆𐘢𐘞𐝫\n𐝫𐜙𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎𐙗𐄈𐝆𐝁",
     "translatedWords": [
         "cyperus",
@@ -42772,7 +42772,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊\n𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇\n𐘡𐘅𐘤𐄁𐛪𐄐\n𐜙𐝆\n𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐛪𐄊\n𐜙𐝁\n𐘈𐙙𐄁\n𐙂𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎\n𐜙𐄇𐝕𐝉𐝫\n𐝫𐝁𐝌\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇𐘡𐘅𐘤𐄁\n𐛪𐄐𐜙𐝆𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐙇𐄊𐜙𐝁𐘈𐙙𐄁𐙂\n𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎𐜙𐄇𐝆𐝃𐝉𐝫\n𐝫𐝁𐝌",
     "translatedWords": [
         "NE",
@@ -42943,7 +42943,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n—\n𐘉𐘳𐘚𐘈𐜙𐝆𐝫\n𐝫𐘂𐘅𐘹𐜙𐝆\n𐜝𐄇\n𐘤𐄐𐄊\n𐜛𐄈",
     "scribe": "KH Scribe 2",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n—\n𐘉𐘳𐘚𐘈𐜙𐝆𐝫𐝫𐘂𐘅\n𐘹𐜙𐝆𐜝𐄇𐘤𐄐𐄊𐜛𐄈",
     "translatedWords": [
         "𐝫",
@@ -43027,7 +43027,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘙𐝫\n𐝫𐘳𐄈\n𐜙𐝆\n𐘝𐝆\n𐝫𐙉𐝆\n𐙘𐝃\n𐙗𐝃\n𐙇𐝫\n𐝫𐘝𐝃\n𐙢𐄇\n𐚻𐄇",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘙𐝫\n𐝫𐘳𐄈𐜙𐝆𐘝𐝆\n𐝫𐙉𐝆𐙘𐝃𐙗𐝃𐙇𐝫\n𐝫𐘝𐝃𐙢𐄇𐚻𐄇𐝫",
     "translatedWords": [
         "𐝫",
@@ -43147,7 +43147,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘤𐘲𐘊𐘇𐄁𐛨𐝫\n𐝫𐝇\n𐘝𐝃𐝁\n𐘻𐝫\n𐝫𐘚𐘤𐄁𐜙𐝆𐝫\n𐝫𐄈\n𐙗𐝃\n𐙍𐝫\n𐝫𐙗𐝃𐝉𐝫\n𐝫𐝎\n𐛌𐙘𐄇𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘤𐘲𐘊𐘇𐄁𐛨𐝫\n𐝫𐝇𐘝𐝃𐝁𐘻𐝫\n𐝫𐘚𐘤𐄁𐜙𐝆𐝫\n𐝫𐄈𐙗𐝃𐙍𐝫\n𐝫𐙗𐝃𐝉𐝫\n𐝫𐝎𐛌𐙘𐄇𐝫",
     "translatedWords": [
         "A-SI-SU-PO-A",
@@ -43261,7 +43261,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄈\n𐝫𐝆\n𐙉𐄐\n𐘚𐘂𐘞𐘱𐄁𐘌𐙈\n𐘇𐘸𐘢𐘡𐘃𐙉𐄘",
     "scribe": "KH Scribe 5",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄈\n𐝫𐝆𐙉𐄐\n𐘚𐘂𐘞𐘱𐄁𐘌𐙈𐘇𐘸𐘢\n𐘡𐘃𐙉𐄘",
     "translatedWords": [
         "𐝫",
@@ -43336,7 +43336,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉\n𐜚𐝇𐝉\n𐙍𐝀\n𐙚𐄊\n𐙗𐝁\n𐚈𐙗𐝇𐝉\n𐘇𐘄𐚉𐘄𐘚𐜚𐄉\n𐘝𐄇\n𐙍𐄉\n𐘇𐘳𐚊𐙕𐄇\n𐙚𐄇\n𐘤𐙗𐝇𐝉",
     "scribe": "KH Scribe 2",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉𐜚𐝇𐝉𐙍𐝀\n𐙚𐄊𐙗𐝁𐚈𐙗𐝇\n𐝉𐘇𐘄𐚉𐘄𐘚𐜚\n𐄉𐘝𐄇𐙍𐄉𐘇𐘳𐚊\n𐙕𐄇𐙚𐄇𐘤𐙗𐝇𐝉",
     "translatedWords": [
         "\"assessment\"?",
@@ -43489,7 +43489,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙗𐝫𐄈\n𐙜𐝆\n𐛚𐝆\n𐝫𐝁\n𐙻𐝫𐝫𐝁\n𐛀\n𐝫𐝇\n𐜫𐝂\n𐜩𐝍𐝫\n𐝫𐜩𐝍𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙗𐝫𐄈𐙜𐝆𐛚𐝆\n𐝫𐝁𐙻𐝫𐝁𐛀\n𐝫𐝇𐜫𐝂𐜩𐝍\n𐝫𐜩𐝍𐝫\n𐝫",
     "translatedWords": [
         "cyperus",
@@ -43597,7 +43597,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉\n𐙘𐝫𐙗𐝁𐝫\n𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉𐙘𐝁𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -43678,7 +43678,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘴𐄁\n𐘇𐙁𐘱𐄁𐙗𐄌𐝫\n𐝫𐙗𐝃\n𐙼𐄈\n𐙗𐝇𐝫\n𐝫𐘝𐝃\n𐛨𐄈𐝫\n𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘴𐄁𐘇𐙁𐘱𐄁𐙗𐄌𐝫\n𐝫𐙗𐝃𐙼𐄈𐙗𐝇𐝫\n𐝫𐘝𐝃𐛨𐄈𐝫𐙗𐝫\n𐝫",
     "translatedWords": [
         "RA",
@@ -43780,7 +43780,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙗𐝫𐝆\n𐘝𐝆\n𐝫𐘝𐝃",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙗𐝫𐝆𐘝𐝆\n𐝫𐘝𐝃",
     "translatedWords": [
         "cyperus",
@@ -43828,7 +43828,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄑𐄈\n𐙗𐝇𐝉𐝫\n𐝫𐘉𐘳𐘚𐘤𐜙𐝫\n𐝫𐝆\n𐘳𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄑𐄈𐙗𐝇𐝉𐝫\n𐝫𐘉𐘳𐘚𐘤𐜙𐝫\n𐝫𐝆𐘳𐝫\n𐝫",
     "translatedWords": [
         "22",
@@ -43891,7 +43891,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐝫\n𐝫𐄊𐝆𐝁\n𐘝𐝫\n𐝫𐘝𐄇\n𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄊𐝆𐝁𐘝\n𐝫𐘝𐄇𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -43960,7 +43960,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐜨\n𐝫𐄋\n𐘚𐙂𐘢𐝫\n𐝫𐙏𐄇\n𐙂𐄑𐄈\n𐘤𐝫\n𐝫𐚵𐙏𐄇\n𐚶𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐜨\n𐝫𐄋𐘚𐙂𐘢𐝫\n𐝫𐙏𐄇𐙂𐄑𐄈𐘤𐝫\n𐝫𐚵𐙏𐄇𐚶𐝫",
     "translatedWords": [
         "𐝫",
@@ -44047,7 +44047,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙚𐛨𐄐𐄉𐝫\n𐝫𐄈\n𐜐𐝁𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙚𐙇𐙛𐄐𐄉𐝫\n𐝫𐄈𐜐𐝁𐝫",
     "translatedWords": [
         "*306-VIR+*307",
@@ -44092,7 +44092,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐘇𐘤𐘸𐘴𐄁𐜚𐝫\n𐝫𐝁\n𐝫𐘬𐘙𐘍𐄁𐜚𐝆\n𐘝𐝃",
     "scribe": "KH Scribe 3",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐘇𐘤𐘸𐘴𐄁𐜚𐝫𐝁\n𐝫𐘬𐘙𐘍𐄁𐜚𐝆𐘝𐝃",
     "translatedWords": [
         "𐝫",
@@ -44167,7 +44167,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂\n𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
     "translatedWords": [
         "𐝫",
@@ -44224,7 +44224,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘍𐄁𐘲𐄍\n𐜚𐝫\n𐝫𐘤𐄊\n𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘍𐄁𐘲𐄍𐜚𐝫\n𐝫𐘤𐄊𐙗𐝫\n𐝫",
     "translatedWords": [
         "ZA",
@@ -44287,7 +44287,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘬𐝫\n𐝫𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘬𐝫\n𐝫𐙗𐝫\n𐝫",
     "translatedWords": [
         "\"assessment\"?",
@@ -44326,7 +44326,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘲𐄐𐄈𐝫\n𐝫𐝉\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘲𐄐𐄈𐝫\n𐝫𐝈𐝉\n𐝫",
     "translatedWords": [
         "SU",
@@ -44368,7 +44368,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙇𐄙𐄓𐝫\n𐝫𐙇𐄐𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙇𐄙𐄓𐝫\n𐝫𐙇𐄐𐝫\n𐝫",
     "translatedWords": [
         "VIR+[?]",
@@ -44413,7 +44413,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙇𐄕𐝫\n𐝫𐘝𐄈𐝃𐝋\n𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙇𐄕𐝫\n𐘝𐄈𐝃𐝋𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -44479,7 +44479,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘝𐝫\n𐝫𐛭𐄊𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘝𐝫\n𐝫𐛭𐄊𐝫",
     "translatedWords": [
         "𐝫",
@@ -44521,7 +44521,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘈𐄁𐛵𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘈𐄁𐛵𐝫",
     "translatedWords": [
         "𐝫",
@@ -44566,7 +44566,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘴𐄁𐘷𐝫\n𐝫𐄇\n𐙂𐘂𐝫\n𐝫𐄈\n𐙗𐝆𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘴𐄁𐘷𐝫\n𐝫𐄇𐙂𐘂𐝫\n𐝫𐄈𐙗𐝆𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "RA",
@@ -44638,7 +44638,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐝉𐝫\n𐝫𐘝𐄏",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐝉𐝫\n𐝫𐘝𐄏",
     "translatedWords": [
         "𐝫",
@@ -44680,7 +44680,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐜨\n—\n𐝫𐝆\n𐜪𐝫\n𐝫𐄇\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐜨\n—\n𐝫𐝆𐜪𐝫\n𐝫𐄇\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -44743,7 +44743,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐙷𐝫\n𐝫𐄋𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘚𐙷𐝫\n𐝫𐄋𐝫\n𐝫",
     "translatedWords": [
         "I-*331",
@@ -44782,7 +44782,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐜙𐝫\n𐝫𐄇\n𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐜙𐝫\n𐝫𐄇𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -44833,7 +44833,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐜚𐄈\n𐘝𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐜚𐄈𐘝𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "cyperus",
@@ -44881,7 +44881,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄇\n𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄇𐙗𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -44932,7 +44932,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘾𐄁𐛚𐄊𐝫\n𐝫𐘅𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘾𐄁𐛚𐄊𐝫\n𐝫𐘅𐝫\n𐝫",
     "translatedWords": [
         "KA",
@@ -44980,7 +44980,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜜𐄈\n𐘣𐝫\n𐜜\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐜜𐄈𐘣𐝫\n𐜜\n𐝫",
     "translatedWords": [
         "*304+[ ]",
@@ -45028,7 +45028,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐜙𐝆𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐜙𐝆𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -45082,7 +45082,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐝫\n𐝫𐜐𐝫\n𐝫",
     "scribe": "KH Scribe 3",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘳𐝫\n𐝫𐜐𐝫\n𐝫",
     "translatedWords": [
         "A-TA",
@@ -45121,7 +45121,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘤𐘅𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘤𐘅𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -45160,7 +45160,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄉\n𐝫𐘾𐘳𐘙𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄉\n𐝫𐘾𐘳𐘙𐝫\n𐝫",
     "translatedWords": [
         "3",
@@ -45199,7 +45199,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐜟𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐜟𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -45238,7 +45238,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐛢𐘙𐄈\n𐛇𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙁𐘘𐘙𐄈𐛇𐝫\n𐝫",
     "translatedWords": [
         "*560-RE",
@@ -45280,7 +45280,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙻𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐙻𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -45325,7 +45325,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "A",
@@ -45364,7 +45364,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝋\n𐙍𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐝋𐙍𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -45415,7 +45415,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘌𐘗𐝫\n𐝫𐄌\n𐘤𐝫\n𐝫𐘴𐄁𐙚𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘌𐘗𐝫\n𐝫𐄌𐘤𐝫\n𐘴𐄁𐙚𐝫",
     "translatedWords": [
         "𐝫",
@@ -45472,7 +45472,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘘𐝫\n𐝫𐙂𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘘𐝫\n𐝫𐙂𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -45517,7 +45517,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈\n𐘿𐝫𐄁𐝫𐄇\n—\n—",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈𐘿𐝫𐄁𐝫𐄇\n—\n—",
     "translatedWords": [
         "𐝫",
@@ -45586,7 +45586,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘤𐘚𐘤𐄉\n𐝫𐄊\n𐘹𐝫\n𐝫",
     "scribe": "KH Scribe 4",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘤𐘚𐘤𐄉\n𐝫𐄊𐘹𐝫\n𐝫",
     "translatedWords": [
         "SI-I-SI",
@@ -45634,7 +45634,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘳𐘉𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘳𐘉𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -45679,7 +45679,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇𐘋𐙌𐄁\n𐘗𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘇𐘋𐙌𐄁𐘗𐝫\n𐝫",
     "translatedWords": [
         "A-ME-AROM",
@@ -45721,7 +45721,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐜚𐄇\n𐙉𐝫𐄇𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐜚𐄇𐙉𐝫𐄇𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "cyperus",
@@ -45772,7 +45772,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐜐𐝁𐝫\n𐄉𐝫\n𐘝𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐜐𐝁𐝫\n𐝫𐄉𐘝𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -45832,7 +45832,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐝕𐝉𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐝕𐝉𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫𐝕𐝉𐝫",
@@ -45871,7 +45871,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘹𐝫\n𐝫𐘎𐄇𐝫\n𐝫𐙗𐝫𐝃𐝫\n𐝫",
     "scribe": "KH Scribe 4",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘹𐝫\n𐝫𐘎𐄇𐝫\n𐝫𐙗𐝫𐝃𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -45928,7 +45928,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙗𐝫𐄊\n𐘝𐝫\n𐝫𐜚𐄇𐝃\n𐘇𐝫\n𐝫𐜚𐄊𐝫\n𐝫𐙗𐝫𐝆\n𐘇𐙕𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐙗𐝫𐄊𐘝𐝫\n𐝫𐜚𐄇𐝃𐘇𐝫\n𐝫𐜚𐄊𐝫\n𐝫𐙗𐝫𐝆𐘇𐙕𐝫",
     "translatedWords": [
         "𐝫",
@@ -46018,7 +46018,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄇\n𐝫𐘚𐄋\n𐝫𐘆𐘅𐄋\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄇\n𐝫𐘚𐄋\n𐝫𐘆𐘅𐄋\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46075,7 +46075,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘴𐘸𐘳𐘅𐘤𐝫\n𐝫𐙏𐝍\n𐘷𐙗𐝫\n𐝫𐝂\n𐛚𐝂𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘴𐘸𐘳𐘅𐘤𐝫\n𐝫𐙏𐝍𐘷𐙗𐝫\n𐝫𐝂𐛚𐝂𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "RA-KI-TA-NA-SI",
@@ -46144,7 +46144,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄑𐝫\n𐝫𐄇\n𐙁𐝫\n𐝫𐝁\n𐜐𐝉𐝫\n𐝫𐙗𐝫𐄈\n𐙉𐄇𐝍",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄑𐝫\n𐝫𐄇𐙁𐝫\n𐝫𐝁𐜐𐝉𐝫\n𐝫𐙗𐝫𐄈𐙉𐄇𐝍",
     "translatedWords": [
         "𐝫",
@@ -46225,7 +46225,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙁𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙁𐝫",
     "translatedWords": [
         "𐝫",
@@ -46258,7 +46258,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘲𐄐𐝫\n𐝫𐜩𐝉𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘲𐄐𐝫\n𐝫𐜩𐝉𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46309,7 +46309,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘳𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘳𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46354,7 +46354,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘝𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘝𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46393,7 +46393,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄒𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄒𐝫\n𐝫",
     "translatedWords": [
         "30",
@@ -46426,7 +46426,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46471,7 +46471,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐜨𐝉𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐜨𐝉𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46519,7 +46519,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46558,7 +46558,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46597,7 +46597,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46636,7 +46636,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐝉\n𐘇𐝫\n𐝫𐄇\n𐘝𐄇\n𐜝𐄇𐝫\n𐝫𐝇\n𐘇𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐝉𐘇𐝫\n𐝫𐄇𐘝𐄇𐜝𐄇𐝫\n𐝫𐝇𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46717,7 +46717,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘤𐄁𐘱𐘀𐘲𐝫\n𐝫𐘤𐝥𐘻\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘤𐄁𐘱𐘀𐘲𐝫\n𐝫𐘤𐝥𐘻\n𐝫",
     "translatedWords": [
         "SI",
@@ -46762,7 +46762,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐝆𐝫\n𐝫𐙗𐝫𐝇𐝉\n𐘝𐝁\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐝆𐝫\n𐝫𐙗𐝫𐝇𐝉𐘝𐝁\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46819,7 +46819,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘤𐄊𐝫\n𐝫𐙗𐝫𐝃𐝌\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘤𐄊𐝫\n𐝫𐙗𐝫𐝃𐝌\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46870,7 +46870,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙗𐝫𐝍\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙗𐝫𐝍\n𐝫",
     "translatedWords": [
         "cyperus",
@@ -46906,7 +46906,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄒𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄒𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46945,7 +46945,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘂𐘀𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘂𐘀𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -46984,7 +46984,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘻𐘅𐝫\n𐝫𐘂𐘳𐄁𐘇𐘴𐝫\n𐝫𐘂𐘀𐘝\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘻𐘅𐝫\n𐝫𐘂𐘳𐄁𐘇𐘴𐝫\n𐝫𐘂𐘀𐘝\n𐝫",
     "translatedWords": [
         "MI-NA",
@@ -47035,7 +47035,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐝂\n𐙖𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐝂𐙖𐝫\n𐝫",
     "translatedWords": [
         "¹⁄₅",
@@ -47074,7 +47074,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐄋𐝫\n𐛛𐄢𐝫\n𐝫𐄉\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐄋𐝫𐛛𐄢𐝫\n𐝫𐄉\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -47134,7 +47134,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐜏𐝉𐝫\n𐝫𐙧𐄇𐝫\n𐝫𐙼𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐜏𐝉𐝫\n𐝫𐙧𐄇𐝫\n𐝫𐙼𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -47197,7 +47197,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁\n𐘇𐘆𐘗𐝫\n𐄐𐄋\n𐜩𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄁𐘇𐘆𐘗𐝫\n𐝫𐄐𐄋𐚡𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -47251,7 +47251,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙗𐝆𐝫\n𐝫𐙕𐄇\n𐙚𐝫\n𐜩𐝫\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙗𐝆𐝫\n𐝫𐙕𐄇𐙚𐝫\n𐜩𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -47314,7 +47314,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐜐𐝆\n𐙜𐝫\n𐝫𐜩𐝇\n𐙏𐝫\n𐝫𐙘𐝫\n𐝫𐙗𐝫𐝂𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐜐𐝆𐙜𐝫\n𐝫𐜩𐝇𐙏𐝫\n𐝫𐙘𐝂𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -47392,7 +47392,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘙𐘍𐙗𐝫\n𐝫𐙗𐝫𐝀𐝁𐝁\n𐘢𐘯𐝫\n𐝫𐄉𐝫\n𐝫𐙗𐝫𐝕𐝫\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘙𐘍𐙗𐝫\n𐝫𐙗𐝑𐘢𐘯𐝫\n𐝫𐄉𐝫𐙗𐝫𐝕𐝫\n𐝫",
     "translatedWords": [
         "RE-ZA",
@@ -47458,7 +47458,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝉\n𐙚𐝫\n𐝫𐝆\n𐘖𐄇",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐝉𐙚𐝫\n𐝫𐝆𐘖𐄇",
     "translatedWords": [
         "𐝫",
@@ -47518,7 +47518,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘌𐘯𐙁𐄁𐘐𐙈𐄁𐘝𐄐\n𐘫𐘦𐄎\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘌𐘯𐙁𐄁𐘐𐙈𐄁\n𐘝𐄐𐘫𐘦𐄁\n𐄎\n𐝫",
     "translatedWords": [
         "QA-NU-MA",
@@ -47575,7 +47575,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘱𐝫\n𐝫𐙁𐘳𐘭𐘳𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄁𐝫𐘱𐝫\n𐝫𐙁𐘳𐘭𐘳𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -47629,7 +47629,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄁𐝫\n𐙉𐄇\n𐙍𐝫\n𐝫𐙨𐄇𐝆𐝉\n𐙀𐝫\n𐝫𐝀\n𐘹𐝇\n𐘝𐝫\n𐝫𐜩𐝇\n𐜪𐝫\n𐝫",
     "scribe": "KH Scribe 6",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄁𐝫𐙉𐄇𐙍𐝫\n𐝫𐙨𐄇𐝆𐝉𐙀𐝫\n𐝫𐝀𐘹𐝇𐘝𐝫\n𐝫𐜩𐝇𐜪𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -47743,7 +47743,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘀𐘐𐘭\n𐙂𐘝𐘃𐄐𐝫\n𐝫𐘅𐘸𐄇𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘀𐘐𐘭𐙂𐘝𐘃𐄐𐝫\n𐝫𐘅𐘸𐄇𐝫\n𐝫",
     "translatedWords": [
         "A-DA-*21F-RI",
@@ -47801,7 +47801,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -47828,7 +47828,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘌𐝫𐘫\n𐝫𐄐𐄍\n𐘚𐝫𐘍𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐚻𐝫\n𐝫𐄐𐄍𐘚𐝫\n𐝫𐘍𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -47879,7 +47879,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐘈𐄍𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐘈𐄍𐝫",
     "translatedWords": [
         "𐝫",
@@ -47915,7 +47915,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝈𐝀𐝀",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐝈𐝀𐝀",
     "translatedWords": [
         "𐝫",
@@ -47954,7 +47954,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘙𐘇𐘱𐝫\n𐝫𐘅𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘙𐘇𐘱𐝫\n𐝫𐘅𐝫\n𐝫",
     "translatedWords": [
         "RE-A-JA",
@@ -47993,7 +47993,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘈𐘚𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘈𐘚𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "SE-I",
@@ -48032,7 +48032,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫\n𐝫",
     "translatedWords": [
         "PA-RI-DE",
@@ -48071,7 +48071,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚌𐙚𐝫\n𐝫𐘁𐙍𐝫\n𐝫𐘥𐝃𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐚌𐙚𐝫\n𐘁𐙍𐝫\n𐘥𐝃𐝫\n𐝫",
     "translatedWords": [
         "*352-*306",
@@ -48118,7 +48118,7 @@ var inscriptions = new Map([
     "parsedInscription": "",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
@@ -48139,7 +48139,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜡𐚳",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐜡𐚳 𐜡𐚳¹⁰⁰²",
     "translatedWords": [
         "*316+KI",
@@ -48169,7 +48169,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜡𐚳",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*316+KI",
@@ -48199,7 +48199,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙃",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙃",
     "translatedWords": [
         "*82"
@@ -48226,7 +48226,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙃",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙃",
     "translatedWords": [
         "*82"
@@ -48253,7 +48253,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "KH Wa Scribe 50",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘼",
     "translatedWords": [
         "ZE"
@@ -48280,7 +48280,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "KH Wa Scribe 50",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘼",
     "translatedWords": [
         "ZE"
@@ -48307,7 +48307,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "KH Wa Scribe 50",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘼",
     "translatedWords": [
         "ZE"
@@ -48334,7 +48334,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘼",
     "translatedWords": [
         "ZE"
@@ -48361,7 +48361,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -48388,7 +48388,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "ZE"
@@ -48415,7 +48415,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "KH Wa Scribe 51",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙕",
     "translatedWords": [
         "*301"
@@ -48442,7 +48442,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "KH Wa Scribe 51",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*301"
@@ -48471,7 +48471,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙅𐘁",
     "scribe": "KH Wa Scribe 52",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙅𐘁",
     "translatedWords": [
         "*86-RO"
@@ -48498,7 +48498,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙅𐘁",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*86-RO"
@@ -48525,7 +48525,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙅𐘁",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*86-RO"
@@ -48554,7 +48554,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙅𐘁",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "",
     "translatedWords": [
         "*86-RO"
@@ -48581,7 +48581,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙕",
     "translatedWords": [
         "*301"
@@ -48608,7 +48608,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚟",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐚟",
     "translatedWords": [
         "*371"
@@ -48635,7 +48635,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝃",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐝃",
     "translatedWords": [
         "¹⁄₄"
@@ -48662,7 +48662,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁",
     "scribe": "",
     "site": "Khania",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐝫𐄁",
     "translatedWords": [
         "𐝫",
@@ -48692,7 +48692,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 59",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘵 𐘵²⁰⁰¹",
     "translatedWords": [
         "O"
@@ -48719,7 +48719,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 60",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "O"
@@ -48746,7 +48746,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -48773,7 +48773,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙇𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙇𐝫",
     "translatedWords": [
         "VIR+[?]"
@@ -48800,7 +48800,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘅𐘝𐘠",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘾𐘅𐘝𐘠",
     "translatedWords": [
         "KA-NA-NI-TI"
@@ -48827,7 +48827,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚱",
     "scribe": "KH Wc Scribe 53",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐚱",
     "translatedWords": [
         "*417-VS"
@@ -48854,7 +48854,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚱",
     "scribe": "KH Wc Scribe 53",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*417-VS"
@@ -48881,7 +48881,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐚫 𐚩²⁰¹⁰ 𐚩²⁰²⁰",
     "translatedWords": [
         "*411-VS"
@@ -48908,7 +48908,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "H Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -48935,7 +48935,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚩",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*409-VS"
@@ -48962,7 +48962,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -48989,7 +48989,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49016,7 +49016,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49043,7 +49043,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "H Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49070,7 +49070,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "H Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49097,7 +49097,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "H Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49124,7 +49124,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "H Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49151,7 +49151,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49178,7 +49178,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49205,7 +49205,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚩",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*409-VS"
@@ -49232,7 +49232,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚩",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*409-VS"
@@ -49259,7 +49259,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49286,7 +49286,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49313,7 +49313,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*411-VS"
@@ -49340,7 +49340,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚩𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*409-VS"
@@ -49367,7 +49367,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙮",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙮",
     "translatedWords": [
         "*322"
@@ -49394,7 +49394,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙮",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*322"
@@ -49421,7 +49421,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙔",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙔",
     "translatedWords": [
         "helmet"
@@ -49448,7 +49448,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛧",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐛧 𐛧²⁰²⁹",
     "translatedWords": [
         "VIR+KA"
@@ -49475,7 +49475,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛧",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐛧 𐛧²⁰²⁹",
     "translatedWords": [
         "VIR+KA"
@@ -49502,7 +49502,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛧",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "VIR+KA"
@@ -49529,7 +49529,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛧",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "VIR+KA"
@@ -49556,7 +49556,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 59",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙐 𐘵²⁰³³ 𐙐²⁰³⁹ 𐙐²⁰⁴⁰ 𐙐²⁰⁴¹",
     "translatedWords": [
         "O"
@@ -49583,7 +49583,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 59",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "O"
@@ -49610,7 +49610,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "O"
@@ -49637,7 +49637,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "KH Wc Scribe 55",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "textile?"
@@ -49664,7 +49664,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "KH Wc Scribe 55",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "textile?"
@@ -49691,7 +49691,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "KH Wc Scribe 55",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "textile?"
@@ -49718,7 +49718,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "KH Wc Scribe 55",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "textile?"
@@ -49745,7 +49745,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙐",
     "translatedWords": [
         "textile?"
@@ -49772,7 +49772,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙐",
     "translatedWords": [
         "textile?"
@@ -49799,7 +49799,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙐",
     "translatedWords": [
         "textile?"
@@ -49826,7 +49826,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "textile?"
@@ -49853,7 +49853,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "textile?"
@@ -49880,7 +49880,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "textile?"
@@ -49907,7 +49907,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐜈 𐜈²⁰⁴⁷",
     "translatedWords": [
         "*301+*311"
@@ -49934,7 +49934,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*301+*311"
@@ -49961,7 +49961,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*301+*311"
@@ -49988,7 +49988,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*301+*311"
@@ -50015,7 +50015,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*301+*311"
@@ -50042,7 +50042,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*301+*311"
@@ -50069,7 +50069,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*301+*311"
@@ -50096,7 +50096,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*301+*311"
@@ -50123,7 +50123,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝥𐘻",
     "scribe": "KH Wc Scribe 56",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝥𐘻 𐝥𐘻²⁰⁵⁴ 𐝥𐘻²⁰⁵⁵",
     "translatedWords": [
         "*805-MI"
@@ -50150,7 +50150,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝥𐘻",
     "scribe": "KH Wc Scribe 56",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*805-MI"
@@ -50177,7 +50177,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜥",
     "scribe": "KH Wc Scribe 57",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐜥",
     "translatedWords": [
         "*337+*188"
@@ -50204,7 +50204,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜥",
     "scribe": "KH Wc Scribe 57",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐛦 𐛦²⁰⁵⁹ 𐛦²⁰⁶²",
     "translatedWords": [
         "*337+*188"
@@ -50231,7 +50231,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*86+*188"
@@ -50258,7 +50258,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*86+*188"
@@ -50285,7 +50285,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*86+*188"
@@ -50312,7 +50312,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*86+*188"
@@ -50339,7 +50339,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*86+*188"
@@ -50366,7 +50366,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*86+*188"
@@ -50393,7 +50393,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "*86+*188"
@@ -50420,7 +50420,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘒",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘒",
     "translatedWords": [
         "goat"
@@ -50447,7 +50447,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛝",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐛝",
     "translatedWords": [
         "liquid?"
@@ -50474,7 +50474,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝥𐚋",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝥𐚋",
     "translatedWords": [
         "*805-*351"
@@ -50501,7 +50501,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛀",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐛀",
     "translatedWords": [
         "*516"
@@ -50528,7 +50528,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙾",
     "scribe": "KH Wc Scribe 58",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙾 𐙾²⁰⁶⁷",
     "translatedWords": [
         "boots?"
@@ -50555,7 +50555,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙾",
     "scribe": "KH Wc Scribe 58",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "boots?"
@@ -50582,7 +50582,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘖",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘖",
     "translatedWords": [
         "bull"
@@ -50611,7 +50611,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛀",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐛀",
     "translatedWords": [
         "*516"
@@ -50634,7 +50634,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -50657,7 +50657,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐚫",
     "translatedWords": [
         "*411-VS"
@@ -50684,7 +50684,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚨",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐚨",
     "translatedWords": [
         "*408-VS"
@@ -50707,7 +50707,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -50730,7 +50730,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -50753,7 +50753,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙐",
     "translatedWords": [
         "textile?"
@@ -50780,7 +50780,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛥",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐛥",
     "translatedWords": [
         "*86+'*188'"
@@ -50807,7 +50807,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "textile?"
@@ -50834,7 +50834,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙮",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙮",
     "translatedWords": [
         "*322"
@@ -50861,7 +50861,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛝",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐛝",
     "translatedWords": [
         "liquid?"
@@ -50888,7 +50888,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙇𐚌𐘱",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙇𐚌𐘱",
     "translatedWords": [
         "VIR+[?]-*352-JA"
@@ -50915,7 +50915,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 60",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘵",
     "translatedWords": [
         "O"
@@ -50942,7 +50942,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘏",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘏",
     "translatedWords": [
         "sheep"
@@ -50969,7 +50969,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚨",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐚨",
     "translatedWords": [
         "*408-VS"
@@ -50996,7 +50996,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 60",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘵",
     "translatedWords": [
         "O"
@@ -51023,7 +51023,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 60",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [
         "O"
@@ -51050,7 +51050,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛧",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐛧",
     "translatedWords": [
         "VIR+KA"
@@ -51077,7 +51077,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐛦",
     "translatedWords": [
         "*86+*188"
@@ -51104,7 +51104,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘵",
     "translatedWords": [
         "O"
@@ -51131,7 +51131,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙐",
     "translatedWords": [
         "textile?"
@@ -51158,7 +51158,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐜈",
     "translatedWords": [
         "*301+*311"
@@ -51185,7 +51185,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚨𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐚨𐝫",
     "translatedWords": [
         "*408-VS"
@@ -51212,7 +51212,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘵",
     "translatedWords": [
         "O"
@@ -51241,7 +51241,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙇𐝫\n𐛥",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙇𐝫\n𐛦",
     "translatedWords": [
         "VIR+[?]",
@@ -51274,7 +51274,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘵",
     "translatedWords": [
         "O"
@@ -51297,7 +51297,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -51324,7 +51324,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚨",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐚨",
     "translatedWords": [
         "*408-VS"
@@ -51351,7 +51351,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝭𐘢𐘾",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝭𐘢𐘾",
     "translatedWords": [
         "*810-PI-KA"
@@ -51374,7 +51374,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮",
     "scribe": "",
     "site": "Khania",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘮",
     "translatedWords": [
         "cloth"
@@ -51401,7 +51401,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘝",
     "scribe": "",
     "site": "Khania",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘝",
     "translatedWords": [
         "figs"
@@ -51428,7 +51428,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐙂𐘠𐘡𐄚𐄓",
     "scribe": "",
     "site": "Knossos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘱𐙂𐘠\n𐘡𐄚𐄓",
     "translatedWords": [
         "JA-KU-TI",
@@ -51461,7 +51461,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘬𐘴𐘠𐘡𐄙𐄋",
     "scribe": "",
     "site": "Knossos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘱𐘬𐘴𐘠\n𐘡𐄙\n𐄋",
     "translatedWords": [
         "JA-DU-RA-TI",
@@ -51494,7 +51494,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘘𐘅𐄈\n𐙈𐄉\n𐛁𐄋𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘘𐘅𐄈\n𐙈𐄉𐘚𐙕𐄋\n𐝫",
     "translatedWords": [
         "RU-NA",
@@ -51548,7 +51548,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘲𐘶𐘳𐝫𐝫𐄑𐝫\n𐝫𐘾𐘧𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐘲𐘶𐘳𐝫𐄑𐝫\n𐝫𐘾𐘧𐝫",
     "translatedWords": [
         "SU-JU-TA",
@@ -51584,7 +51584,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘊𐘆𐘰𐄙𐄐",
     "scribe": "",
     "site": "Knossos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐘊𐘆𐘰𐄙𐄐",
     "translatedWords": [
         "PO-DI-PA₃",
@@ -51614,7 +51614,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙁𐘲𐘻𐄁𐝫𐄁𐝫𐘅𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐙁𐘲𐘻𐄁𐝫𐄁𐝫𐘅𐝫\n𐝫",
     "translatedWords": [
         "MA-SU-MI",
@@ -51659,7 +51659,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘓𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘓𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -51725,7 +51725,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘃𐝊𐝫\n𐝫𐄉\n𐛓𐝊𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘃𐝊𐝫\n𐝫𐄉𐛓𐝊\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -51788,7 +51788,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘇𐘂𐝫\n𐘇𐘾𐘳𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘇𐘂𐝫\n𐘇𐘾𐘳𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -51833,7 +51833,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘞𐘫\n𐘂𐝫\n𐝫𐘱𐘲\n𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘞𐘫𐄁𐘂\n𐝫𐘱𐘲\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -51886,7 +51886,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘫𐘴𐝫\n𐝫𐙏𐝇𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘫𐘴𐝫\n𐝫𐙏𐝇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -51930,7 +51930,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝈𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐝫𐄁𐝈𐝫",
     "translatedWords": [
         "𐄁",
@@ -51960,7 +51960,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Knossos",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙕",
     "translatedWords": [
         "*301"
@@ -51989,7 +51989,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘌𐘸𐝫\n𐘯𐘈𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "𐘌𐘸𐝫\n𐘯𐘈𐝫",
     "translatedWords": [
         "QA-KI",
@@ -52020,7 +52020,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Knossos",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "𐙕",
     "translatedWords": [
         "*301"
@@ -52043,7 +52043,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐄁",
     "scribe": "",
     "site": "Knossos",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "𐄁",
     "translatedWords": [
         "𐄁"
@@ -52070,7 +52070,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘾𐘚𐘾𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫𐘾𐘚𐘾𐝫",
     "translatedWords": [
         "KA-I-KA"
@@ -52095,7 +52095,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘽",
     "scribe": "",
     "site": "Knossos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘽",
     "translatedWords": [
         "RA₂"
@@ -52124,7 +52124,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘘𐘱𐘝𐘢",
     "scribe": "",
     "site": "Knossos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘘𐘱𐘝𐘢",
     "translatedWords": [
         "RU-JA",
@@ -52154,7 +52154,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘑",
     "scribe": "",
     "site": "Knossos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘑",
     "translatedWords": [
         "ram"
@@ -52181,7 +52181,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐘴",
     "scribe": "",
     "site": "Knossos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫𐘱𐘴",
     "translatedWords": [
         "JA-RA"
@@ -52206,7 +52206,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘅𐘵",
     "scribe": "",
     "site": "Knossos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫𐘅𐘵",
     "translatedWords": [
         "NA",
@@ -52234,7 +52234,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐝫𐄁𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫𐄁𐝫",
     "translatedWords": [
         "𐝫",
@@ -52262,7 +52262,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘃𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝫𐘃𐝫",
     "translatedWords": [
         "TE"
@@ -52289,7 +52289,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
     "translatedWords": [
         "TA-NU-MU-TI",
@@ -52346,7 +52346,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐘿𐄁",
     "scribe": "",
     "site": "Knossos",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘱𐘿𐄁",
     "translatedWords": [
         "JA-QE",
@@ -52376,7 +52376,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
     "translatedWords": [
         "𐄁",
@@ -52427,7 +52427,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
     "scribe": "",
     "site": "Knossos",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
     "translatedWords": [
         "KE-JU-MI",
@@ -52469,7 +52469,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘶𐄁𐘱𐘤𐄁𐘤𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘶𐄁𐘱𐘤𐄁𐘤𐝫",
     "translatedWords": [
         "flour",
@@ -52508,7 +52508,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘹𐘭𐘤𐘠𐄁",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇𐘹𐘭𐘤𐘠𐄁",
     "translatedWords": [
         "(KN Zb 5), \"from\" TU-RI-SA",
@@ -52538,7 +52538,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘅𐘇𐘰",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘅𐘇𐘰",
     "translatedWords": [
         "NA-A-PA₃"
@@ -52565,7 +52565,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘆𐘅𐘉𐄁𐙍𐄐𐄍",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘆𐘅𐘉𐄁𐙍𐄐𐄍",
     "translatedWords": [
         "DI-NA-U",
@@ -52601,7 +52601,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛻",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐛻",
     "translatedWords": [
         "wine"
@@ -52628,7 +52628,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫𐝫𐙖𐄙\n𐘝𐄈",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫𐙖𐄙𐘝𐄈",
     "translatedWords": [
         "JA-DI-WI",
@@ -52668,7 +52668,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -52693,7 +52693,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -52718,7 +52718,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -52743,7 +52743,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘝",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘝",
     "translatedWords": [
         "figs"
@@ -52770,7 +52770,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘂𐘸\n𐘉𐘅𐘇",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇𐘂𐘸\n𐘉𐘅𐘇",
     "translatedWords": [
         "A-PA-KI",
@@ -52799,7 +52799,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙀𐘭𐘝𐙁",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐙀𐘭𐘝𐙁",
     "translatedWords": [
         "*79-RI-NI-MA"
@@ -52822,7 +52822,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘫𐘴𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘫𐘴𐝫",
     "translatedWords": [
         "PU-RA"
@@ -52847,7 +52847,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁𐛧",
     "scribe": "",
     "site": "Knossos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘁𐛧",
     "translatedWords": [
         "RO-VIR+KA"
@@ -52874,7 +52874,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘟𐘠𐘭𐘇𐘆𐘀𐘸𐘠𐘂𐙂𐄁\n𐘝𐘱𐘯𐄁\n𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀𐄁",
     "scribe": "",
     "site": "Knossos",
-    "support": "inked inscription",
+    "support": "Inked inscription",
     "transcription": "𐘟𐘠𐘭\n𐘇𐘆𐘀𐘸𐘠𐘂𐙂𐄁𐘝𐘱𐘯𐄁\n𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀𐄁",
     "translatedWords": [
         "*34-TI-RI-A-DI-DA-KI-TI-PA-KU",
@@ -52924,7 +52924,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫𐄁𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "inked inscription",
+    "support": "Inked inscription",
     "transcription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫𐄁𐝫",
     "translatedWords": [
         "A-KA-NU-ZA-TI",
@@ -52981,7 +52981,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘫𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "graffito",
+    "support": "Graffito",
     "transcription": "𐝫𐘫𐝫",
     "translatedWords": [
         "PU"
@@ -53008,7 +53008,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘢",
     "scribe": "",
     "site": "Knossos",
-    "support": "architecture",
+    "support": "Architecture",
     "transcription": "𐘇𐘢",
     "translatedWords": [
         "A-PI"
@@ -53035,7 +53035,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐝫𐘮𐘱",
     "scribe": "",
     "site": "Knossos",
-    "support": "architecture",
+    "support": "Architecture",
     "transcription": "𐘚𐝫𐘮𐘱",
     "translatedWords": [
         "I-WA-JA"
@@ -53060,7 +53060,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘤𐘇𐘃",
     "scribe": "",
     "site": "Knossos",
-    "support": "architecture",
+    "support": "Architecture",
     "transcription": "𐘾𐘤𐘇𐘃",
     "translatedWords": [
         "KA-SI-A-TE"
@@ -53085,7 +53085,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘥𐘤𐘃",
     "scribe": "",
     "site": "Knossos",
-    "support": "architecture",
+    "support": "Architecture",
     "transcription": "𐘥𐘤𐘃",
     "translatedWords": [
         "KE-SI-TE"
@@ -53112,7 +53112,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘵𐘀𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "architecture",
+    "support": "Architecture",
     "transcription": "𐘵𐘀𐝫",
     "translatedWords": [
         "O-DA"
@@ -53139,7 +53139,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘙𐘗𐘤𐘆𐙕𐘢𐘥𐘂𐘱𐘳𐘭𐘈𐘃𐘭𐘕𐘇𐘱𐙂",
     "scribe": "",
     "site": "Knossos",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘇𐘙𐘗𐘤𐘆𐙕𐘢𐘥𐘂𐘱𐘳𐘭𐘈𐘃𐘭𐘕𐘇𐘱𐙂",
     "translatedWords": [
         "A-RE-NE-SI-DI-*301-PI-KE-PA-JA-TA-RI-SE-TE-RI-MU-A-JA-KU"
@@ -53166,7 +53166,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘤𐝫𐘤𐘍𐘗𐙠𐄁𐘀𐘬𐘻𐘗𐄁𐘌𐘻𐘨𐘅𐘴𐄁𐘇𐘮𐘢𐄁𐘃𐘲𐘦𐘈𐘥𐘚𐄁𐘇𐘀𐘴𐄁𐘠𐘆𐘃𐘌𐘠𐄁𐘳𐘞𐘍𐄁𐘳𐘃𐘚𐘥𐘍𐘙𐄁𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐝫𐘤𐝫𐘤𐘍𐘗𐙠𐄁𐘀𐘬𐘻𐘗𐄁𐘌𐘻𐘨𐘅𐘴𐄁𐘇𐘮𐘢𐄁𐘃𐘲𐘦𐘈𐘥𐘚𐄁𐘇𐘀𐘴𐄁𐘠𐘆𐘃𐘌𐘠𐄁𐘳𐘞𐘍𐄁𐘳𐘃𐘚𐘥𐘍𐘙𐄁𐝫",
     "translatedWords": [
         "SI-SI-ZA-NE-*310",
@@ -53244,7 +53244,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛈",
     "scribe": "",
     "site": "Knossos",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐛈",
     "translatedWords": [
         "*528"
@@ -53269,7 +53269,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘞𐘱",
     "scribe": "",
     "site": "Knossos",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐘱𐘞𐘱",
     "translatedWords": [
         "JA-SA-JA"
@@ -53296,7 +53296,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱\n𐘹𐘘𐘞𐄁𐘬𐙦𐘙𐄁𐘚𐘀𐘇𐄁\n𐘉𐘅𐘾𐘅𐘤𐄁\n𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐘃",
     "scribe": "",
     "site": "Kophinas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱\n𐘹𐘘𐘞𐄁𐘬𐙦𐘙𐄁𐘚𐘀\n𐘇𐄁𐘉𐘅𐘾𐘅𐘤𐄁𐘚\n𐘢𐘅𐙁𐄁𐘤𐘘𐘃",
     "translatedWords": [
         "gives",
@@ -53365,7 +53365,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘴𐘺𐙂𐙀𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍",
     "scribe": "",
     "site": "Kophinas",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘇𐘴𐘺𐙂𐘌𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍",
     "translatedWords": [
         "A-RA-KO-KU-*79-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA"
@@ -53392,7 +53392,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐙁𐘃",
     "scribe": "",
     "site": "Kythera",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘀𐙁𐘃",
     "translatedWords": [
         "DA-MA-TE"
@@ -53419,7 +53419,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛴𐛴",
     "scribe": "",
     "site": "Kythera",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐛴",
     "translatedWords": [
         "GRA+E"
@@ -53446,7 +53446,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘠𐘹𐙂",
     "scribe": "",
     "site": "Larani",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘱𐘠𐘹𐙂",
     "translatedWords": [
         "JA-TI-TU-KU"
@@ -53551,7 +53551,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘠",
     "scribe": "",
     "site": "Malia",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘠",
     "translatedWords": [
         "TI"
@@ -53701,7 +53701,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳𐜅𐄐𐄋\n𐜆𐄙𐄑\n𐜄𐄔𐄉\n𐜃𐄒",
     "scribe": "",
     "site": "Malia",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘳𐜅𐄐𐄋𐜆𐄙𐄑𐜄𐄔𐄉𐜃𐄒",
     "translatedWords": [
         "TA-HIDE+B",
@@ -53758,7 +53758,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉\n𐄙𐄕",
     "scribe": "",
     "site": "Malia",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉𐄙𐄕",
     "translatedWords": [
         "A-JA",
@@ -53797,7 +53797,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙒𐝫𐄡𐄓𐄇\n𐜅𐄒𐄋",
     "scribe": "",
     "site": "Malia",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙒𐝫𐄡𐄓𐄇𐜅𐄒𐄋",
     "translatedWords": [
         "hide?",
@@ -53836,7 +53836,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙒𐄞𐄑𐝫",
     "scribe": "",
     "site": "Malia",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙒𐄞𐄑𐝫",
     "translatedWords": [
         "hide?",
@@ -53866,7 +53866,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐜅𐄊𐝫\n𐙒𐝫𐄗𐄍𐝫\n𐝫𐙒𐝫𐄚𐄒𐄉𐝫",
     "scribe": "",
     "site": "Malia",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐜅𐄊𐝫𐙒𐄗𐄍𐝫\n𐝫𐙒𐝫𐄚𐄒𐄉𐝫",
     "translatedWords": [
         "HIDE+B",
@@ -53914,7 +53914,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙒𐄚𐝫",
     "scribe": "",
     "site": "Malia",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙒𐄚𐝫",
     "translatedWords": [
         "hide?",
@@ -53944,7 +53944,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄣",
     "scribe": "",
     "site": "Malia",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄣",
     "translatedWords": [
         "2000"
@@ -54172,7 +54172,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘞𐘀𐘾\n𐛴𐄊",
     "scribe": "",
     "site": "Malia",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘇𐘞𐘀𐘾\n𐛴𐄊",
     "translatedWords": [
         "A-SA-DA-KA",
@@ -54208,7 +54208,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙒",
     "scribe": "",
     "site": "Malia",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙒",
     "translatedWords": [
         "hide?"
@@ -54231,7 +54231,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚥𐝇",
     "scribe": "",
     "site": "Malia",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐚥𐝇",
     "translatedWords": [
         "*405-VS-*906"
@@ -54258,7 +54258,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘞𐝫",
     "scribe": "",
     "site": "Malia",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘱𐘞𐝫",
     "translatedWords": [
         "JA-SA"
@@ -54285,7 +54285,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘿𐘤𐘃",
     "scribe": "",
     "site": "Malia",
-    "support": "architecture",
+    "support": "Architecture",
     "transcription": "𐘿𐘤𐘃",
     "translatedWords": [
         "QE-SI-TE"
@@ -54308,7 +54308,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Malia",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘾",
     "translatedWords": [
         "KA"
@@ -54335,7 +54335,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘫𐝫\n—\n𐝫𐘬𐘾𐝫\n𐝫𐄁𐝫𐜪𐝫\n—\n𐝫𐘾𐝫\n𐝫",
     "scribe": "",
     "site": "Milos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘫𐝫\n—\n𐝫𐘬𐘾𐝫\n𐝫𐄁𐝫𐜪𐝫\n—\n𐝫𐘾𐝫\n𐝫",
     "translatedWords": [
         "PU",
@@ -54401,7 +54401,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘘",
     "scribe": "",
     "site": "Milos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘸𐘘",
     "translatedWords": [
         "KI-RU"
@@ -54424,7 +54424,7 @@ var inscriptions = new Map([
     "parsedInscription": "",
     "scribe": "",
     "site": "Milos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
@@ -54445,7 +54445,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘰𐘤𐘨",
     "scribe": "",
     "site": "Miletos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘰𐘤𐘨",
     "translatedWords": [
         "PA₃-SI-*47"
@@ -54468,7 +54468,7 @@ var inscriptions = new Map([
     "parsedInscription": "",
     "scribe": "",
     "site": "Mokhilos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
@@ -54485,7 +54485,7 @@ var inscriptions = new Map([
     "parsedInscription": "",
     "scribe": "",
     "site": "Mokhilos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
@@ -54507,7 +54507,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙹𐘞𐘕",
     "scribe": "",
     "site": "Mokhilos",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐙹𐘞𐘕",
     "translatedWords": [
         "*333-SA-MU"
@@ -54530,7 +54530,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘲",
     "scribe": "",
     "site": "Mycenae",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘲",
     "translatedWords": [
         "SU"
@@ -54553,7 +54553,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛉",
     "scribe": "",
     "site": "Mycenae",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐛉",
     "translatedWords": [
         "SI+SE"
@@ -54578,7 +54578,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐁁",
     "scribe": "",
     "site": "Mycenae",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐁁",
     "translatedWords": [
         "𐁁"
@@ -54601,7 +54601,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘲",
     "scribe": "",
     "site": "Mycenae",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐘲",
     "translatedWords": [
         "SU"
@@ -54624,7 +54624,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘚𐘀𐝫",
     "scribe": "",
     "site": "Nerokurou",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘚𐘀𐝫",
     "translatedWords": [
         "Mt Ida"
@@ -54651,7 +54651,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐙂𐘶𐘂𐙈𐄒𐄋",
     "scribe": "",
     "site": "Papourou",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐙂𐘶𐘂𐙈\n𐄒𐄋",
     "translatedWords": [
         "A-KU-JU-PA-*118",
@@ -54681,7 +54681,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅\n𐙂𐘂𐘭𐙇𐄔𐝫\n𐛭𐄑𐄌𐝆\n𐘡𐘾𐝫𐙇𐄖𐄈\n𐛭𐄒𐄌",
     "scribe": "",
     "site": "Petras",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘉𐘾𐘙𐘇𐘈𐘤\n𐘅𐙂𐘂𐘭𐙇𐄔𐝫\n𐛭𐄑𐄌𐝆𐘡𐘾𐝫\n𐙇𐄖𐄈𐛭𐄒\n𐄌",
     "translatedWords": [
         "U-KA-RE-A-SE-SI-NA",
@@ -54753,7 +54753,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐄉𐝁\n𐘘𐘢𐝫𐙙𐘻𐄇𐝄\n𐘇𐙱𐘍𐝃\n𐘇𐘭𐘂𐝃\n𐘌𐘌𐘀𐝆\n𐘄𐘋𐝁\n𐘄𐘪𐘙𐄇\n𐝫",
     "scribe": "",
     "site": "Petras",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐄉𐝁𐘘𐘢𐝫𐙙𐘻𐄇𐝄\n𐘇𐙱𐘍𐝃𐘇𐘭𐘂𐝃𐘌𐘌𐘀\n𐝆𐘄𐘋𐝁𐘄𐘪𐘙𐄇\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -54848,7 +54848,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙉𐘠𐘡𐄇",
     "scribe": "",
     "site": "Petras",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙉𐘠𐘡𐄇",
     "translatedWords": [
         "GRA-TI-E",
@@ -54878,7 +54878,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙖𐙛𐄇𐝆",
     "scribe": "",
     "site": "Petras",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙖𐙛𐄇𐝆",
     "translatedWords": [
         "OLE-*307",
@@ -54907,7 +54907,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇𐘯𐝫",
     "scribe": "",
     "site": "Petras",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘇𐘯𐝫",
     "translatedWords": [
         "A-NU"
@@ -54934,7 +54934,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘾𐘴𐘸𐘳𐘅𐘤𐘱𐘈𐙇𐘍",
     "scribe": "",
     "site": "Petras",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇𐘾𐘴𐘸𐘳𐘅𐘤𐘱𐘈𐙇𐘍",
     "translatedWords": [
         "A-KA-RA-KI-TA-NA-SI-JA-SE-VIR+[?]-ZA"
@@ -54959,7 +54959,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇\n𐘱𐘮𐘢𐄇",
     "scribe": "",
     "site": "Petras",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘇\n𐘱𐘮𐘢𐄇",
     "translatedWords": [
         "A",
@@ -54991,7 +54991,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇",
     "scribe": "",
     "site": "Petras",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇",
     "translatedWords": [
         "A"
@@ -55018,7 +55018,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇𐘱𐝫 ≈ 𐝫𐘱𐘤𐝫",
     "scribe": "",
     "site": "Petras",
-    "support": "inked inscription",
+    "support": "Inked inscription",
     "transcription": "𐝫𐘇𐘱𐝫 ≈ 𐝫𐘱𐘤𐝫",
     "translatedWords": [
         "A-JA",
@@ -55051,7 +55051,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙖𐙛𐄇𐝆",
     "scribe": "",
     "site": "Petras",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐙖𐙛𐄇𐝆",
     "translatedWords": [
         "olive oil",
@@ -55083,7 +55083,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
     "scribe": "",
     "site": "Petras",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
     "translatedWords": [
         "I-NA",
@@ -55130,7 +55130,7 @@ var inscriptions = new Map([
     "parsedInscription": "",
     "scribe": "",
     "site": "Petras",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
@@ -55151,7 +55151,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘆𐘴𐘆𐘅𐙨𐄁𐝉\n𐝫𐘱𐄁𐙨𐄇\n𐙗𐝅\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘆𐘴𐘆𐘅𐙨𐝫𐄁𐝫𐝉\n𐝫𐘱𐄁𐙨𐄇𐙗𐝅\n𐝫",
     "translatedWords": [
         "DI-RA-DI-NA",
@@ -55217,7 +55217,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐝫𐘅𐄇\n𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄁𐝫𐘅𐄇𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
     "translatedWords": [
         "𐄁",
@@ -55268,7 +55268,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘈𐘹𐘐𐄇\n𐘴𐘵𐘆𐘸𐄕\n𐘢𐘘𐘡𐘶𐄕\n𐘈𐘞𐘰𐄕\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘈𐘹𐘐𐄇\n𐘴𐘵𐘆𐘸𐄕\n𐘢𐘘𐘡𐘶𐄕\n𐘈𐘞𐘰𐄕\n𐝫",
     "translatedWords": [
         "A-SE-TU-*21F",
@@ -55331,7 +55331,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐛠𐄇\n𐘳\n𐝫𐛡𐄇\n𐛣𐝓\n𐝫𐛢𐝓\n𐘂𐘴𐝓\n𐝫𐘂𐝫\n𐝫𐄇\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐛠𐄇𐘳\n𐝫𐛡𐄇𐛣𐝓\n𐝫𐛢𐝓𐘂𐘴𐝓\n𐝫𐘂𐝫𐄇\n𐝫",
     "translatedWords": [
         "*556",
@@ -55421,7 +55421,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐛘𐝕𐝫\n𐝫𐘤𐝃𐝫\n𐝫\n𐝫𐘤𐄇𐝃𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐛘𐝕𐝫\n𐝫𐘤𐝃𐝫\n𐝫\n𐝫𐘤𐄇𐝃𐝫\n𐝫",
     "translatedWords": [
         "]MI+JA",
@@ -55484,7 +55484,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘅𐘮𐄁\n𐘇𐘭\n𐘚𐙀𐘭𐘝𐘳\n𐘇𐘭\n𐘚𐘀𐘰𐘚𐘞𐘭",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘚𐘅𐘮𐄁𐘇𐘭\n𐘚𐙀𐘭𐘝𐘳\n𐘇𐘭\n𐘚𐘀𐘰𐘚𐘞𐘭",
     "translatedWords": [
         "I-NA-WA",
@@ -55538,7 +55538,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘆𐘂𐘱𐝫\n𐝫𐘉𐘆𐘭𐘸𐝫\n𐝫𐘱𐘘𐙁𐘗𐝫\n𐝫𐘱𐘤𐘀𐘴𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘆𐘂𐘱𐝫\n𐝫𐘉𐘆𐘭𐘸𐝫\n𐝫𐘱𐘘𐙁𐘗𐝫\n𐝫𐘱𐘤𐘀𐘴𐝫",
     "translatedWords": [
         "𐝫",
@@ -55589,7 +55589,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘳𐄇𐝈𐝫\n𐝫𐘀𐘴𐝈𐝫\n𐝫𐙏𐝈𐝃\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘳𐄇𐝈𐝫\n𐝫𐘀𐘴𐝈𐝫\n𐝫𐙏𐝈𐝃\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -55652,7 +55652,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐜵𐄍\n—\n𐝫𐙇𐄐𐄇\n𐙘𐄈\n—\n𐝫𐄐𐄌\n𐜶𐄇\n—\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐜵𐄍\n—\n𐝫𐙇𐄐𐄇𐙘𐄈\n—\n𐝫𐄐𐄌𐜶𐄇\n—\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -55745,7 +55745,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙨𐄇\n𐜢𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙨𐄇𐜢𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -55793,7 +55793,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙩𐘿𐚍𐝏",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙩𐘿𐚍𐝏",
     "translatedWords": [
         "*317-QE-*353",
@@ -55823,7 +55823,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐚬𐙍𐄇𐝆𐝆",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐚬𐙍𐄇𐝆𐝆",
     "translatedWords": [
         "*412-VS-VIN",
@@ -55856,7 +55856,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚏𐘡𐚎𐙒𐝈𐝈",
     "scribe": "",
     "site": "Phaistos",
-    "support": "label",
+    "support": "Label",
     "transcription": "𐚏𐘡𐚎𐙒𐝈𐝈",
     "translatedWords": [
         "*355-E-*354",
@@ -55889,7 +55889,7 @@ var inscriptions = new Map([
     "parsedInscription": "—\n|||||||||||||\n—",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "—\n|||||||||||||\n—",
     "translatedWords": [
         "—",
@@ -55928,7 +55928,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙇𐙿𐙒𐄐𐝫𐝈𐝈",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝈𐝈𐙇𐙿𐙒𐄐𐝫",
     "translatedWords": [
         "VIR+[?]-*339-HIDE+[?]",
@@ -55961,7 +55961,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝃𐝫\n𐝫𐝃𐝃𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝃𐝫\n𐝫𐝃𐝃𐝫",
     "translatedWords": [
         "¹⁄₄",
@@ -55994,7 +55994,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐘃",
     "translatedWords": [
         "TE"
@@ -56021,7 +56021,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙒𐙴𐝫𐝃𐝃",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐝃𐝃𐙒𐙴𐝫",
     "translatedWords": [
         "HIDE+[?]-*328",
@@ -56051,7 +56051,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐚐",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐚐",
     "translatedWords": [
         "*356"
@@ -56078,7 +56078,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘃𐙀𐝃𐝃𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐝃𐝃𐙀𐘃𐝫",
     "translatedWords": [
         "TE-*79",
@@ -56108,7 +56108,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐙘𐘝",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐘝𐙘𐘱𐝫",
     "translatedWords": [
         "JA-*304",
@@ -56138,7 +56138,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘻𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐘻𐘇",
     "translatedWords": [
         "A-MI"
@@ -56165,7 +56165,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙁𐘃𐘙𐙿𐄐𐄇𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐙁𐘃𐘙𐙿𐄐𐄇𐝫",
     "translatedWords": [
         "MA-TE-RE",
@@ -56198,7 +56198,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐚑𐙒𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐚑𐙒𐝫",
     "translatedWords": [
         "*357",
@@ -56228,7 +56228,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘠𐘅𐝫\n—\n𐝫𐚒𐘝𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐘠𐘅𐝫\n—\n𐝫𐚒𐘝𐝫",
     "translatedWords": [
         "TI-NA",
@@ -56267,7 +56267,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐘞𐝫\n—\n𐝫𐘠𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐘱𐘞𐝫\n—\n𐝫𐘠𐝫",
     "translatedWords": [
         "JA-SA",
@@ -56306,7 +56306,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐚓𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐚓𐝫",
     "translatedWords": [
         "*359"
@@ -56333,7 +56333,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐚔𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐚔𐝫",
     "translatedWords": [
         "*360"
@@ -56360,7 +56360,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘣𐘱𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘣𐘱𐝫\n𐝫",
     "translatedWords": [
         "WI-JA",
@@ -56393,7 +56393,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -56426,7 +56426,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘢𐘵𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘢𐘵𐝫\n𐝫",
     "translatedWords": [
         "PI-O",
@@ -56459,7 +56459,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐝆𐝆",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐝆𐝆",
     "translatedWords": [
         "𐝫𐝆𐝆"
@@ -56486,7 +56486,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -56513,7 +56513,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁𐘡",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘁𐘡",
     "translatedWords": [
         "RO-E"
@@ -56540,7 +56540,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍𐄈𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "label",
+    "support": "Label",
     "transcription": "𐙍𐄈𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "wine",
@@ -56582,7 +56582,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙦𐝃𐝏𐝏𐝏𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙦𐝔𐝫",
     "translatedWords": [
         "*314",
@@ -56612,7 +56612,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -56657,7 +56657,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘇𐘰𐝫𐄁\n𐘱𐘸𐘰𐝫𐄁\n𐘇𐘭𐘱𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘇𐘰𐝫\n𐄁𐘱𐘸𐘰𐝫\n𐄁𐘇𐘭𐘱𐝫",
     "translatedWords": [
         "𐝫",
@@ -56708,7 +56708,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄙𐄈𐝫\n𐝫𐄈\n𐙘𐄌\n𐝫𐄌\n𐝮",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄙𐄈𐝫\n𐝫𐄈𐙘𐄌\n𐝫𐄌𐝮",
     "translatedWords": [
         "𐝫",
@@ -56766,7 +56766,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -56805,7 +56805,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -56838,7 +56838,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘠𐝃𐝫\n𐝫𐙁𐘙𐘭𐘻𐘦𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘠𐝃𐝫\n𐝫𐙁𐘙𐘭𐘻𐘦𐝫",
     "translatedWords": [
         "𐝫",
@@ -56880,7 +56880,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇\n𐙁𐘆𐘑𐄇\n𐘓𐝫\n𐄁𐝫𐘗𐄇\n𐙂𐘰𐘯𐙄𐘤𐘙𐄇\n𐘂𐘳𐘀𐝫𐝫𐄇\n𐙂𐘁𐚾𐄇\n𐘑𐄋\n𐘐𐄉𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇𐙁𐘆𐘑𐄇𐘐𐝫\n𐄁𐝫𐘗𐄇𐙂𐘰𐘯𐙄𐘤𐘙𐄇𐘂𐘳𐘀\n𐝫𐄇𐙂𐘁𐚾𐄇𐘑𐄋𐘐𐄉𐝫",
     "translatedWords": [
         "𐝫",
@@ -57006,7 +57006,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘓𐄈\n𐘐𐄇𐝫\n𐝫𐘬𐘭𐘔𐄇\n𐘹𐝫\n𐝫𐘗𐘔𐄇\n𐘓𐄋\n𐘃𐘭𐘑𐝫\n𐝫𐄇\n𐘭𐘘𐙁𐘠𐘑\n𐙄𐘤𐘙\n𐘇𐘻𐘀𐘵𐘑𐄇𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘓𐄈𐘐𐄇𐝫\n𐝫𐘬𐘭𐘔𐄇𐘹𐝫\n𐝫𐘗𐘔𐄇𐘓𐄋𐘃𐘭𐘑𐝫\n𐝫𐄇𐘭𐘘𐙁𐘠𐘑𐙄𐘤𐘙\n𐘇𐘻𐘀𐘵𐘑𐄇𐝫",
     "translatedWords": [
         "𐝫",
@@ -57129,7 +57129,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘲𐘸𐘭𐘳",
     "scribe": "",
     "site": "Phaistos",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘲𐘸𐘭𐘳",
     "translatedWords": [
         "Sybrita (or Sygrita, in the Amari valley, modern Thronos)"
@@ -57156,7 +57156,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -57183,7 +57183,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "",
     "translatedWords": [
         "𐝫"
@@ -57210,7 +57210,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "",
     "translatedWords": [
         "𐝫"
@@ -57237,7 +57237,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Phaistos",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "𐘃",
     "translatedWords": [
         "TE"
@@ -57260,7 +57260,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "𐝫",
     "translatedWords": [
         "𐝫"
@@ -57287,7 +57287,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐙦𐘤𐙬",
     "scribe": "",
     "site": "Phaistos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘾𐙦𐘤𐙬",
     "translatedWords": [
         "KA-*314-SI",
@@ -57317,7 +57317,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙦𐘳𐙁",
     "scribe": "",
     "site": "Phaistos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙦𐘳𐙁",
     "translatedWords": [
         "*314-TA-MA"
@@ -57344,7 +57344,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘆𐘁",
     "scribe": "",
     "site": "Phaistos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘱𐘆𐘁",
     "translatedWords": [
         "JA-DI",
@@ -57376,7 +57376,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘠𐘠𐙁𐘅",
     "scribe": "",
     "site": "Phaistos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘠𐘠𐙁𐘅",
     "translatedWords": [
         "TI-TI-MA",
@@ -57406,7 +57406,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍𐄇𐝆",
     "scribe": "",
     "site": "Phaistos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙍𐄇𐝆",
     "translatedWords": [
         "wine",
@@ -57439,7 +57439,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Phaistos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -57466,7 +57466,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘏",
     "scribe": "",
     "site": "Phaistos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘏",
     "translatedWords": [
         "sheep"
@@ -57493,7 +57493,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙴𐘡 ≈ 𐘠",
     "scribe": "",
     "site": "Phaistos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙴𐘡 ≈ 𐘠",
     "translatedWords": [
         "*328-E",
@@ -57526,7 +57526,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Phaistos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -57553,7 +57553,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘡𐘷𐘿",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘡𐘷𐘿",
     "translatedWords": [
         "E-TA₂-QE"
@@ -57580,7 +57580,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -57607,7 +57607,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐙁𐄁𐘚𐘱𐘃",
     "scribe": "",
     "site": "Phaistos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘤𐙁𐄁𐘚𐘱𐘃",
     "translatedWords": [
         "SI-MA",
@@ -57640,7 +57640,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮𐘢𐘠𐘅𐘽",
     "scribe": "",
     "site": "Phaistos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘮𐘣𐘠𐘅𐘽",
     "translatedWords": [
         "WA-PI-TI-NA-RA₂"
@@ -57667,7 +57667,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙴",
     "scribe": "",
     "site": "Phaistos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐙴",
     "translatedWords": [
         "*328"
@@ -57694,7 +57694,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘌𐙙𐝫𐄁𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘌𐙙𐝫𐄁𐝫",
     "translatedWords": [
         "QA-*305",
@@ -57726,7 +57726,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐝫𐄁𐝫𐘗𐘠𐄇\n𐘾𐘌𐄈\n—\n𐘇𐘬𐘍𐄇\n𐘷𐘳𐘙𐄇\n—\n𐘷𐘠𐘃𐄇\n𐘵𐘾𐘻𐘍𐘤𐘚𐘅𐄇\n—\n𐘵𐘃𐘱𐄇\n—\n𐘴𐘅𐘹𐘲𐄇\n𐘝𐘻𐄇\n—\n𐘹𐘲𐄇\n𐙁𐘠𐘍𐘚𐘃𐄇\n—\n𐙁𐘃𐘠𐄇\n𐙁𐘾𐘚𐘳𐄇",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘤𐝫𐄁𐝫𐘗𐘠𐄇𐘾𐘌𐄈\n—\n𐘇𐘬𐘍𐄇𐘷𐘳𐘙𐄇\n—\n𐘷𐘠𐘃𐄇𐘵𐘾𐘻𐘍𐘤\n—\n𐘚𐘅𐄇\n—\n𐘵𐘃𐘱𐄇\n—\n𐘴𐘅𐘹𐘲𐄇𐘝𐘻𐄇𐘹\n—\n𐘲𐄇𐙁𐘠𐘍𐘚𐘃𐄇\n—\n𐙁𐘃𐘠𐄇𐙁𐘾𐘚𐘳𐄇",
     "translatedWords": [
         "SI",
@@ -57984,7 +57984,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘞𐘞𐘴𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘞𐘞𐘴𐝫",
     "translatedWords": [
         "A-SA-SA-RA"
@@ -58014,7 +58014,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘯𐄁𐘰𐘡𐄁𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙𐄁𐘹𐘋𐘚\n𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘯𐄁𐘰𐘡𐄁𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙𐄁𐘹𐘋𐘚\n𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫",
     "translatedWords": [
         "NU",
@@ -58071,7 +58071,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
     "translatedWords": [
         "𐝫",
@@ -58110,7 +58110,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘤𐄁𐘚𐘢𐘅𐘻𐘅𐄁𐘤𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘤𐄁𐘚𐘢𐘅𐘻𐘅𐄁𐘤𐝫",
     "translatedWords": [
         "SI",
@@ -58149,7 +58149,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐄁\n𐄁𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐄁\n𐄁𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
     "translatedWords": [
         "gives",
@@ -58248,7 +58248,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐄇𐝫𐘱𐘤𐄁\n𐘇𐘂𐘬𐘂𐝫𐘱𐝫𐘱𐘂𐘌",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘘𐝫𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤\n𐄁𐘇𐘂𐘬𐝫𐝫𐘱𐝫𐝫𐘱𐘂𐘌",
     "translatedWords": [
         "gives",
@@ -58317,7 +58317,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
     "translatedWords": [
         "TU-ME",
@@ -58356,7 +58356,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐘆𐘸𐘃𐘃𐘬𐘜𐘙𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘱𐘆𐘸𐘃𐘃𐘬𐘜𐘙𐝫",
     "translatedWords": [
         "JA-DI-KI-TE-TE-DU-PU₂-RE"
@@ -58383,7 +58383,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘄𐘞𐄁𐘜\n𐘙𐘱𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘄𐘞𐄁𐘜𐘙𐘱𐝫",
     "translatedWords": [
         "TO-SA",
@@ -58422,7 +58422,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘚𐘀𐄁𐝫𐄁𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘚𐘀𐄁𐝫𐄁𐝫",
     "translatedWords": [
         "Mt Ida",
@@ -58455,7 +58455,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘃𐄁𐘚𐘀𐄁𐘱𐘱𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘃𐄁𐘚𐘀𐄁𐘱𐘱𐝫",
     "translatedWords": [
         "TE",
@@ -58492,7 +58492,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘉𐘅𐘾𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘉𐘅𐘾𐝫",
     "translatedWords": [
         "U-NA-KA"
@@ -58519,7 +58519,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘰𐘆𐝫\n𐘙𐝁",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇𐘰𐘆𐝫\n𐘙𐝁",
     "translatedWords": [
         "A-PA₃-DI",
@@ -58553,7 +58553,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘈𐘤𐘳𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘈𐘤𐘳𐝫",
     "translatedWords": [
         "SE-SI-TA"
@@ -58578,7 +58578,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘳𐘝𐘃",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘸𐘳𐘝𐘃",
     "translatedWords": [
         "KI-TA-NI-TE"
@@ -58603,7 +58603,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘾𐝫",
     "translatedWords": [
         "KA"
@@ -58628,7 +58628,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐙍",
     "translatedWords": [
         "wine"
@@ -58653,7 +58653,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘻𐘀𐘴",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘻𐘀𐘴",
     "translatedWords": [
         "MI-DA-RA"
@@ -58680,7 +58680,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘯𐘭𐘱𐝫",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "inked inscription",
+    "support": "Inked inscription",
     "transcription": "𐝫𐘯𐘭𐘱𐝫",
     "translatedWords": [
         "NU-RI-JA"
@@ -58703,7 +58703,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍𐙍",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐙍𐙍",
     "translatedWords": [
         "VIN-VIN"
@@ -58730,7 +58730,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐄁𐝫𐘚𐝫𐄁𐝫",
     "scribe": "",
     "site": "Platanos",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐄁𐝫𐘚𐝫𐄁𐝫",
     "translatedWords": [
         "TA",
@@ -58802,7 +58802,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱𐄁",
     "scribe": "",
     "site": "Poros Herakleiou",
-    "support": "inked inscription",
+    "support": "Inked inscription",
     "transcription": "𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱𐄁",
     "translatedWords": [
         "RI-QE-TI-A-SA-SA-RA-*325",
@@ -58832,7 +58832,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
     "scribe": "",
     "site": "Prassa",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
     "translatedWords": [
         "TA-NA-SU-TE-KE",
@@ -58872,7 +58872,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "scribe": "PS Scribe 1",
     "site": "Psykhro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐝢𐘋𐄁",
     "translatedWords": [
         "RE-I-KE",
@@ -58920,7 +58920,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙓𐘬𐘈𐝫",
     "scribe": "",
     "site": "Psykhro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐙓𐘬𐘈𐝫",
     "translatedWords": [
         "*188-DU-SE"
@@ -58945,7 +58945,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐄁𐝫",
     "scribe": "",
     "site": "Psykhro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐄁𐝫",
     "translatedWords": [
         "𐄁",
@@ -58971,7 +58971,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙓𐘇𐘚",
     "scribe": "",
     "site": "Psykhro",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐙓𐘇𐘚",
     "translatedWords": [
         "*188-A-I"
@@ -58998,7 +58998,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘠𐙁𐘘𐘣𐘃𐝦𐙍𐄘",
     "scribe": "",
     "site": "Pyrgos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘠𐙁𐘘𐘣𐘃\n𐝦𐙍𐄘",
     "translatedWords": [
         "TI-MA-RU-WI-TE",
@@ -59031,7 +59031,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙘𐝆",
     "scribe": "",
     "site": "Pyrgos",
-    "support": "lames (short thin tablet)",
+    "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐙘𐝆",
     "translatedWords": [
         "olive oil",
@@ -59061,7 +59061,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
     "scribe": "",
     "site": "Pyrgos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
     "translatedWords": [
         "TI",
@@ -59094,7 +59094,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘃𐘱𐝫",
     "scribe": "",
     "site": "Pyrgos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘃𐘱𐝫",
     "translatedWords": [
         "TE-JA"
@@ -59121,7 +59121,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘞𐝫𐘞𐘴𐝫𐘃𐄐𐝇",
     "scribe": "",
     "site": "Samothrace",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘱𐘞𐝫𐘞𐘴𐝫𐘃𐄐𐝇",
     "translatedWords": [
         "JA-SA",
@@ -59160,7 +59160,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝠",
     "scribe": "",
     "site": "Samothrace",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝠",
     "translatedWords": [
         "*800"
@@ -59187,7 +59187,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐙂",
     "scribe": "",
     "site": "Selakanos",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘀𐙂",
     "translatedWords": [
         "DA-KU"
@@ -59214,7 +59214,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐝫𐄁𐝫𐘀𐙈",
     "scribe": "",
     "site": "Sitia",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐘇𐝫𐄁𐝫𐘀𐙈",
     "translatedWords": [
         "A",
@@ -59247,7 +59247,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐙁𐘴𐘗𐝫",
     "scribe": "",
     "site": "Skhinia",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇𐙁𐘴𐘗𐝫",
     "translatedWords": [
         "A-MA-RA-NE"
@@ -59270,7 +59270,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐘠𐝫",
     "scribe": "",
     "site": "Skoteino Cave",
-    "support": "inked inscription",
+    "support": "Inked inscription",
     "transcription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐘠𐝫",
     "translatedWords": [
         "𐄁",
@@ -59306,7 +59306,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘚𐘀𐘻𐄁𐘱𐝫",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘚𐘀𐘻𐄁𐘱𐝫",
     "translatedWords": [
         "gives",
@@ -59343,7 +59343,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "translatedWords": [
         "gives",
@@ -59391,7 +59391,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐝫𐘱𐝫𐘈𐘾𐘅𐘤𐝫𐘃𐝫𐘤𐘘𐘃",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐝫𐘱𐝫𐘈𐘾𐘅𐘤𐝫𐘃𐝫𐘤𐘘𐘃",
     "translatedWords": [
         "gives",
@@ -59424,7 +59424,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘚𐘩𐘍𐄁𐘰𐘝𐘣",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘚𐘩𐘍𐄁𐘰𐘝𐘣",
     "translatedWords": [
         "gives",
@@ -59461,7 +59461,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘻𐘱𐄁𐘱𐘮𐘰𐝫",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘻𐘱𐄁𐘱𐘮𐘰𐝫",
     "translatedWords": [
         "MI-JA",
@@ -59492,7 +59492,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘈𐘴𐘃",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘀𐘈𐘴𐘃",
     "translatedWords": [
         "DA-SE-RA-TE"
@@ -59517,7 +59517,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘴𐘸𐘝𐘈",
     "scribe": "",
     "site": "Syme",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘴𐘸𐘝𐘈",
     "translatedWords": [
         "RA-KI-NI-SE"
@@ -59544,7 +59544,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
     "translatedWords": [
         "gives",
@@ -59577,7 +59577,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘂𐘴𐘱𐘈",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘱𐘂𐘴𐘱𐘈",
     "translatedWords": [
         "JA-PA-RA-JA-SE"
@@ -59604,7 +59604,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘌𐘞𐘴𐙂",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘌𐘞𐘴𐙂",
     "translatedWords": [
         "QA-SA-RA-KU"
@@ -59631,7 +59631,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐄁𐘁𐘌𐝫",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐄁𐘁𐘌𐝫",
     "translatedWords": [
         "𐄁",
@@ -59661,7 +59661,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐘇𐝫",
     "scribe": "",
     "site": "Syme",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐄁𐘇𐝫",
     "translatedWords": [
         "𐄁",
@@ -59689,7 +59689,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘕 ≈ 𐘮𐘃 ≈ 𐘝",
     "scribe": "",
     "site": "Tel Haror",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘕 ≈ 𐘮𐘃 ≈ 𐘝",
     "translatedWords": [
         "bovine",
@@ -59724,7 +59724,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘸𐝫",
     "scribe": "",
     "site": "Thera",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘸𐝫",
     "translatedWords": [
         "KI"
@@ -59747,7 +59747,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙖𐝫",
     "scribe": "",
     "site": "Thera",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙖𐝫",
     "translatedWords": [
         "olive oil"
@@ -59770,7 +59770,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙖𐝫",
     "scribe": "",
     "site": "Thera",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐙖𐝫",
     "translatedWords": [
         "olive oil"
@@ -59795,7 +59795,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘒𐄍𐝫\n𐝫𐘒𐄓𐄌𐝫",
     "scribe": "",
     "site": "Thera",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘒𐄍𐝫\n𐝫𐘒𐄓𐄌𐝫",
     "translatedWords": [
         "goat",
@@ -59832,7 +59832,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄁𐘃𐘋𐘀𐘚𐝫",
     "scribe": "",
     "site": "Thera",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄁𐘃𐘋𐘀𐘚𐝫",
     "translatedWords": [
         "𐄁",
@@ -59860,7 +59860,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐄐𐝫\n𐝫𐝡𐝫𐄚𐝫",
     "scribe": "",
     "site": "Thera",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐄐𐝫\n𐝫𐝡𐝫𐄚𐝫",
     "translatedWords": [
         "10",
@@ -59896,7 +59896,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘤𐘝𐝫",
     "scribe": "",
     "site": "Thera",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘤𐘝𐝫",
     "translatedWords": [
         "SI-NI"
@@ -59923,7 +59923,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘙𐘞𐘅",
     "scribe": "",
     "site": "Thera",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇𐘙𐘞𐘅",
     "translatedWords": [
         "A-RE-SA-NA"
@@ -59950,7 +59950,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘗𐝫",
     "scribe": "",
     "site": "Thera",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇𐘗𐝫",
     "translatedWords": [
         "A-NE"
@@ -59977,7 +59977,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇𐘙𐝫",
     "scribe": "",
     "site": "Thera",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘇𐘙𐝫",
     "translatedWords": [
         "A-RE"
@@ -60002,7 +60002,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙁𐄓𐘫𐄋\n𐙑𐄍𐘎𐄏𐘳𐄊",
     "scribe": "",
     "site": "Thera",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐙁𐄓𐘫𐄋\n𐙑𐄍𐘎𐄏𐘳𐄊",
     "translatedWords": [
         "MA",
@@ -60055,7 +60055,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘧",
     "scribe": "",
     "site": "Thera",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘧",
     "translatedWords": [
         "3/4"
@@ -60080,7 +60080,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘧",
     "scribe": "",
     "site": "Thera",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇𐘧",
     "translatedWords": [
         "A-JE"
@@ -60107,7 +60107,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
     "scribe": "",
     "site": "Thera",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
     "translatedWords": [
         "QI-VIN+TE",
@@ -60141,7 +60141,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙕𐘤𐝫",
     "scribe": "",
     "site": "Tiryns",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐙕𐘤𐝫",
     "translatedWords": [
         "*301-SI"
@@ -60168,7 +60168,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘵𐘲𐘌𐘙𐄁\n𐘱𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘾𐘅𐘤𐝫\n𐝫𐘅𐙁𐘤𐘘𐝫",
     "scribe": "",
     "site": "Troullos",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘵𐘲𐘌𐘙𐄁\n𐘱𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘾𐘅𐘤𐝫\n𐝫𐘅𐙁𐘤𐘘𐝫",
     "translatedWords": [
         "gives",
@@ -60225,7 +60225,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘙𐘱𐝫",
     "scribe": "",
     "site": "Traostalos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘙𐘱𐝫",
     "translatedWords": [
         "RE-JA"
@@ -60250,7 +60250,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘢𐘻𐘳𐘠𐘽",
     "scribe": "",
     "site": "Troy",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐘢𐘻𐘳𐘠𐘽",
     "translatedWords": [
         "PI-MI-TA-TI-RA₂"
@@ -60275,7 +60275,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘬𐘻𐘳𐘠𐘽",
     "scribe": "",
     "site": "Troy",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐘬𐘻𐘳𐘠𐘽",
     "translatedWords": [
         "DU-MI-TA-TI-RA₂"
@@ -60300,7 +60300,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘗𐘻𐝫 ≈ 𐝫𐘻𐘗𐝫",
     "scribe": "",
     "site": "Trypiti",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘗𐘻𐝫 ≈ 𐝫𐘻𐘗𐝫",
     "translatedWords": [
         "NE-MI",
@@ -60333,7 +60333,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙞𐝫𐘟𐘫𐘢𐄝\n𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔\n𐙝𐘀𐘫𐝫𐄐\n𐘂𐘀𐘘𐙝𐘶𐘸𐄙\n𐙝𐘭𐘶𐝫\n𐙝𐝫𐝫𐄌\n𐙇𐄗𐄊\n𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒\n𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔\n𐙞𐝫\n𐝫",
     "scribe": "",
     "site": "Tylissos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐙞𐝫𐘟𐘫𐘢𐄝𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔𐙝𐘀𐘫𐝫𐄐𐘂\n𐘀𐘘𐙝𐘶𐘸𐄙𐙝𐘭𐘶𐝫𐙝𐝫𐄌𐙇\n𐄗𐄊𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔𐙞𐝫\n𐝫",
     "translatedWords": [
         "*309B-*34-PU-PI",
@@ -60474,7 +60474,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘍𐙭𐜓𐄐𐄋𐝃\n𐜋𐄑𐄈\n𐘗𐘸𐄋\n𐜌𐄉𐝆\n𐜗𐝫\n𐜋𐄍𐝆\n—\n𐘇𐘬𐝫𐄁𐝫𐜓𐄔𐄇\n𐜔𐄈𐝂\n𐜕𐄇\n𐜌𐄊𐝆\n𐝫𐙋𐝫𐄊𐝫\n—\n𐘇𐘀𐜋𐄑𐄇\n𐜗𐄈𐝫\n𐝫𐘺𐘇𐘬𐘮𐙖𐝫𐄍𐝂\n—\n𐘇𐙂𐘹𐚕𐝫\n𐝫𐘸𐄋\n𐜖𐄇\n—",
     "scribe": "",
     "site": "Tylissos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘍𐙭𐜓𐄐𐄋𐝃𐜋𐄑𐄈𐘗\n𐘸𐄋𐜌𐄉𐝆𐜗𐝫𐜋𐄍𐝆\n—\n𐘇𐘬𐝫𐄁𐝫𐜓𐄔𐄇𐜔𐄈𐝂\n𐜕𐄇𐜌𐄊𐝆𐝫𐙋𐄊𐝫\n—\n𐘇𐘀𐜋𐄑𐄇𐜗𐄈𐝫\n𐝫𐘺𐘇𐘬𐘮𐙖𐝫𐄍𐝂\n—\n𐘇𐙂𐘹𐚕𐝫𐘸𐄋𐜖𐄇\n—",
     "translatedWords": [
         "ZA-*321",
@@ -60702,7 +60702,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘭𐘤𐜗𐄌𐝫\n—\n𐘢𐙂𐙀𐜓𐄊\n𐜗𐄐𐄇𐝫\n𐝫𐜍𐄈𐝫\n—\n𐘂𐜗𐝫\n𐝫𐄚𐄑𐝫",
     "scribe": "",
     "site": "Tylissos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘸𐘭𐘤𐜗𐄌𐝫\n—\n𐘢𐙂𐙀𐜓𐄊𐜗𐄐𐄇𐝫\n𐜍𐄈𐝫\n—\n𐘂𐜗𐝫𐄚𐄑𐝫\n𐝫",
     "translatedWords": [
         "KI-RI-SI",
@@ -60787,7 +60787,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Tylissos",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐙂",
     "translatedWords": [
         "KU"
@@ -60814,7 +60814,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐙕𐘸𐘳𐘇",
     "scribe": "",
     "site": "Tylissos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘇𐙕𐘸𐘳𐘇",
     "translatedWords": [
         "A-*301-KI-TA-A"
@@ -60841,7 +60841,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐙁𐘘𐘇",
     "scribe": "",
     "site": "Tylissos",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐝫𐙁𐘘𐘇",
     "translatedWords": [
         "MA-RU-A"
@@ -60868,7 +60868,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘚𐘢𐘅𐙁\n𐘤𐘘𐘃𐄁𐝫",
     "scribe": "",
     "site": "Vrysinas",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘚𐘢𐘅𐙁\n𐘤𐘘𐘃𐄁𐝫",
     "translatedWords": [
         "a favour",
@@ -60904,7 +60904,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛀𐄁\n𐘸𐘙𐘍𐄁𐘝𐄓𐄈𐝆\n𐘍𐄋\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐛀𐄁𐘸𐘙𐘍𐄁𐘝\n𐄓𐄈𐝆𐘍𐄋\n𐝫",
     "translatedWords": [
         "*516",
@@ -60967,7 +60967,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘡𐘻𐝫\n𐝫𐘁𐙉𐄓𐄍\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘡𐘻𐝫𐘁\n𐙉𐄓𐄍\n𐝫",
     "translatedWords": [
         "E-MI",
@@ -61012,7 +61012,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘡𐝫\n𐝫𐘢𐝫𐄁𐝫𐘈𐝫𐝫𐄋\n𐘱𐘄𐘱𐝫𐝫𐄉𐝫\n𐘇𐘠𐘘𐄊\n𐘱𐘂𐄇𐝫\n𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊\n𐘛𐘯𐙁𐘙𐄐𐄉\n𐘤𐘢𐘸𐄋\n𐘡𐙃𐄔\n𐘾𐘆𐄉",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐘡𐝫\n𐘢𐝫𐄁𐝫𐘈𐝫𐄋𐘱𐘄𐘱\n𐝫𐄉𐝫𐘇𐘠𐘘𐄊𐘱\n𐘂𐄇𐝫𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊𐘛\n𐘯𐙁𐘙𐄐𐄉𐘤𐘢\n𐘸𐄋𐘡𐙃𐄔\n𐘾𐘆𐄉",
     "translatedWords": [
         "𐝫",
@@ -61150,7 +61150,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙍𐄙𐄊𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐙍𐄙𐄊𐝫",
     "translatedWords": [
         "𐝫",
@@ -61186,7 +61186,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘐𐙈𐄁𐙍𐘲\n𐘸𐘝𐙁𐄍\n𐘵𐘳𐘝𐘍𐘈𐄌\n𐘞𐘻𐘀𐘡𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘐𐙈𐄁𐙍𐘲𐘸𐘝\n𐙁𐄍𐘵𐘳𐘝𐘍\n𐘈𐄌𐘞𐘻𐘀𐘡\n𐝫",
     "translatedWords": [
         "*21F-*118",
@@ -61267,7 +61267,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆\n𐙁𐘾𐘚𐘳𐄉",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆𐙁𐘾\n𐘚𐘳𐄉",
     "translatedWords": [
         "*28B-NU-MA-RE",
@@ -61318,7 +61318,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙙𐘮𐘅𐙑𐄐𐄏\n𐘟𐘶𐘃𐘻𐝫\n𐝫𐄙𐄗\n𐘚𐘈𐝫\n𐝫𐙋𐄐𐄋\n𐝫𐙋𐄐\n𐘚𐝫\n𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫\n𐝫𐙋𐝫\n𐝫𐄑𐄋\n𐙘𐝫\n𐝫𐄑\n𐘚𐘈𐝫𐄁",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐙙𐘮𐘅𐙑𐄐𐄏𐘟𐘶\n𐘃𐘻𐝫𐄙𐄗\n𐘚𐘈𐝫𐙋\n𐄐𐄋𐝫𐙋𐄐\n𐘚𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫𐙋𐝫\n𐝫𐄑𐄋𐙘𐝫\n𐝫𐄑𐘚𐘈\n𐝫𐄁",
     "translatedWords": [
         "*305-WA-NA",
@@ -61447,7 +61447,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓\n𐜁𐄐\n𐙢𐘷𐛭𐄓𐝫\n𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓𐜁𐄐𐙢𐘷\n𐛭𐄓𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫",
     "translatedWords": [
         "I-KU-JU-TI-*28B",
@@ -61537,7 +61537,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘉𐘶𐄋\n𐘇𐘴𐘹𐄊\n𐘇𐘙𐘹𐘻𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘉𐘶𐄋𐘇\n𐘴𐘹𐄊𐘇𐘙𐘹\n𐘻𐝫\n𐝫",
     "translatedWords": [
         "U-JU",
@@ -61588,7 +61588,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫",
     "translatedWords": [
         "A-MA",
@@ -61628,7 +61628,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘴𐄁\n𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝂𐝂\n𐘇𐘭𐘝𐘳𐄇𐝫𐝁𐝁\n𐘳𐘚𐘯𐙁𐘂𐝆\n𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝁𐝁",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘸𐘴𐄁𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝓𐘇𐘭\n𐘝𐘳𐄇𐝫𐝁𐝁𐘳𐘚𐘯𐙁\n𐘂𐝆𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝒",
     "translatedWords": [
         "\"balance\"",
@@ -61739,7 +61739,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘯𐘠𐄁\n𐘍𐝫\n𐝫𐘴𐚽𐄋\n𐝫\n𐝫𐘁𐘤𐘴𐝫𐚽𐄊\n𐘇𐘳𐘅𐝫𐄁𐝫𐚽𐄈\n𐝫𐄁𐝫𐙁𐘶𐘓𐄈\n𐘣𐘴𐘙𐘻𐘃𐘓𐄇",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘯𐘠𐄁𐘍𐝫\n𐝫𐝢𐚽𐄋𐝫\n𐝫𐘁𐘤𐝢\n𐝫𐚽𐄊𐘇𐘳𐘅𐝫𐄁𐝫\n𐚽𐄈𐝫𐄁𐝫𐙁𐘶𐘐𐄈\n𐘣𐝢𐘙𐘻𐘃𐘐𐄇",
     "translatedWords": [
         "NU-TI",
@@ -61850,7 +61850,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳𐘅𐘃𐄈\n𐘂𐝫𐄇\n𐘇𐙂𐘻𐘅𐄇\n𐘇𐘳𐘅𐘃𐄇\n𐘇𐘻𐘀𐘉𐄇\n𐘇𐘬𐙂𐘻𐘅𐄇\n𐘀𐘚𐘢𐘳𐄇\n𐘬𐘙𐘍𐘈𐄈",
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘳𐘅𐘃𐄈𐘂𐝫𐄇𐘇𐙂\n𐘻𐘅𐄇𐘇𐘳𐘅𐝠𐄇\n𐘇𐘻𐘀𐘉𐄇𐘇𐘬\n𐙂𐘻𐘅𐄇𐘀𐘚𐘢\n𐘳𐄇𐘬𐘙𐘍𐘈𐄈",
     "translatedWords": [
         "TA-NA-TE",
@@ -61943,7 +61943,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮𐚖𐄈\n𐘬𐘙𐘍𐘈𐙎𐄋\n𐘉𐘪𐄌\n𐙁𐘍𐄋\n𐙁𐘸𐘦𐘃𐄋\n𐘞𐙁𐄋\n𐘇𐘦𐄊\n𐘇𐘻𐘳𐄉\n𐘽𐘁𐘙𐄈\n𐘂𐘱𐘙𐄇\n𐘾𐙂𐘗𐘃𐝆\n𐘳𐄈\n𐘬𐄇𐝫",
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘮𐚖𐄈𐘬𐘙𐘍𐘈\n𐙎𐄋𐘉𐘪𐄌𐙁𐘍\n𐄋𐙁𐘸𐘦𐝠𐄋𐘞\n𐙁𐄋𐘇𐘦𐄊𐘇𐘻\n𐘳𐄉𐘽𐘁𐘙𐄈𐘂𐘱𐘙\n𐄇𐘾𐙂𐘗𐘃𐝆𐘳\n𐄈𐘬𐄇𐝫",
     "translatedWords": [
         "WA-*362",
@@ -62084,7 +62084,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁\n𐛭𐝫\n𐝫𐘴𐙁𐘤𐙍𐝆𐝫\n𐝫𐘡𐙂𐘘𐄈𐝃\n𐘶𐝈𐝉\n𐙍𐝆\n𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫\n𐘢𐙠𐘇𐝫\n𐝫𐙋𐄈\n𐝫",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁𐛭𐝫\n𐝫𐘴𐙁𐘤\n𐙍𐝆𐝫𐝫𐘡𐙂𐘘𐄈\n𐝃𐘶𐝈𐝉𐙍𐝆𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫𐘢𐙠𐘇\n𐝫𐙋𐄈\n𐝫",
     "translatedWords": [
         "DI-DI-KO-RA-ME-TA₂",
@@ -62213,7 +62213,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘡𐘄𐘭𐛀𐄁\n𐘞𐙕𐘭𐄁𐛭𐄇𐝫\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈\n𐙂𐘂𐄁𐛭𐄉\n𐝫",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘡𐘄𐘭𐛀𐄁𐘞𐙕𐘭𐄁𐛭𐄇\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈𐙂𐘂𐄁𐛭𐄉\n𐝫",
     "translatedWords": [
         "E-TO-RI",
@@ -62306,7 +62306,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐘂𐝫𐄕𐄊𐝫\n𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐘂𐝫𐄕𐄊𐝫𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌",
     "translatedWords": [
         "𐝫",
@@ -62366,7 +62366,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘹𐝫𐄌𐝫\n𐘂𐝫𐄓𐝫\n𐘠𐄐𐄉\n𐘘𐄑𐄌",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐘹𐝫𐄌𐝫𐘂𐝫𐄓𐝫\n𐘠𐄐𐄉𐘘𐄑𐄌",
     "translatedWords": [
         "𐝫",
@@ -62429,7 +62429,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫",
     "scribe": "ZA Scribe 3",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -62468,7 +62468,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘋𐘸𐘆𐄇\n𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉\n𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇\n𐘹𐘻𐘠𐘍𐘈𐄓𐄋𐝫\n𐘂𐘯𐘿𐄈\n𐘱𐘣𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘋𐘸𐘆𐄇𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇𐘹𐘻𐘠𐘍𐘈\n𐄓𐄋𐝫𐘂𐘯𐘿𐄈𐘱𐘣𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "ME-KI-DI",
@@ -62570,7 +62570,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐\n𐘋𐙍\n𐘻𐘍𐘈𐄉\n𐘛𐘯𐙁𐘙𐄌\n𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋\n𐘞𐘻𐘀𐘡𐄊\n𐚗𐘥𐙁𐘈𐄋",
     "scribe": "ZA Scribe 5",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐𐘋𐙍\n𐘻𐘍𐘈𐄉𐘛𐘯𐙁\n𐘙𐄌𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋𐘞𐘻𐘀\n𐘡𐄊𐚗𐘥𐙁𐘈𐄋",
     "translatedWords": [
         "*47-KU-NA",
@@ -62681,7 +62681,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍",
     "scribe": "ZA Scribe 5",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍",
     "translatedWords": [
         "KA-DI",
@@ -62747,7 +62747,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫\n𐝫𐘲𐄊𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫𐘲𐄊𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -62810,7 +62810,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -62849,7 +62849,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘙𐙂𐝫𐝫𐄁\n𐙂𐙭𐄁𐛭𐄈𐝂𐝂\n𐙉𐝫𐄈𐝂𐝂\n𐜓𐝁𐝁\n𐙋𐝃\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘀𐘙𐙂𐝫𐄁𐙂𐙭𐄁𐛭𐄈𐝓\n𐙉𐝫𐄈𐝓𐜓𐝒𐙋𐝃\n𐝫",
     "translatedWords": [
         "DA-RE-KU",
@@ -62933,7 +62933,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐄈𐝕𐝉𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐄈𐝆𐝃𐝉𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -62975,7 +62975,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘴𐘃𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐘴𐘃𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -63014,7 +63014,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘬𐘙𐘍𐘈𐝫𐝫𐘻𐝫\n𐝫𐄁𐄊\n𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌\n𐘃𐙌𐄐𐄈\n𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫",
     "scribe": "ZA Scribe 3",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐘬𐘙𐘍\n𐘈𐝫𐘻𐝫𐄁𐝫𐄊𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌𐘃𐙌𐄐𐄈𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -63110,7 +63110,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁\n𐝫𐘃𐄈\n𐘳𐘥𐝫\n𐝫\n𐝫𐘂𐝫𐄋\n𐘳𐙁𐘢𐝫\n𐝫𐄉\n𐘇𐝫\n𐝫𐙈𐘻𐝫𐝫𐄈",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁𐝫𐘃𐄈𐘳𐘥\n𐝫\n𐝫𐘂𐝫𐄋𐘳𐙁𐘢𐝫\n𐝫𐄉𐘇𐝫𐝫𐙈𐘻𐝫𐄈",
     "translatedWords": [
         "ME",
@@ -63215,7 +63215,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈\n𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋",
     "translatedWords": [
         "Mt Ida",
@@ -63278,7 +63278,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘓𐝫\n𐘔𐄇𐝫\n𐝫𐄇\n𐘴𐝫𐄁𐝫𐘓𐄇𐝫\n𐝫𐄌\n𐘬𐘶𐝫\n𐘓𐄙𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐘐𐝫\n𐘑𐄇𐝫\n𐝫𐄇𐘴𐝫𐄁𐝫𐘐𐄇𐝫\n𐝫𐄌𐘬𐘶𐝫\n𐘐𐄙𐝫",
     "translatedWords": [
         "𐝫",
@@ -63365,7 +63365,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n—\n𐝫𐘃𐘃𐝫\n𐝫𐘻𐘙𐝫",
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n—\n𐝫𐘃𐘃𐝫\n𐝫𐘻𐘙𐝫",
     "translatedWords": [
         "𐝫",
@@ -63410,7 +63410,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘀𐙉𐝫\n𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘚𐘀𐙉𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "Mt Ida",
@@ -63452,7 +63452,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘳𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘳𐝫\n𐝫",
     "translatedWords": [
         "TA",
@@ -63485,7 +63485,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -63518,7 +63518,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘓𐄐𐄉\n𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘐𐄐𐄉𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
     "translatedWords": [
         "SI-TE",
@@ -63578,7 +63578,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘓𐄍\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘐𐄍\n𐝫",
     "translatedWords": [
         "she-goat",
@@ -63614,7 +63614,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘆𐘸𐄈\n𐘵𐘻𐝫",
     "scribe": "ZA Scribe 3",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫\n𐝫𐘆𐘸𐄈𐘵𐘻𐝫",
     "translatedWords": [
         "𐝫",
@@ -63662,7 +63662,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐛭𐄇𐝫\n𐝫",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐛭𐄇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -63704,7 +63704,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙁𐄙𐝫\n𐝫𐘃𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐙁𐄙𐝫\n𐝫𐘃𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -63752,7 +63752,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄍𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫\n𐝫𐄍𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -63797,7 +63797,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘬𐄈𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐘬𐄈𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -63839,7 +63839,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘱𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐘱𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -63878,7 +63878,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄑𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫\n𐝫𐄑𐄇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -63915,7 +63915,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Zakros",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐘁",
     "translatedWords": [
         "RO"
@@ -63942,7 +63942,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Zakros",
-    "support": "nodule",
+    "support": "Nodule",
     "transcription": "𐙕",
     "translatedWords": [
         "*301"
@@ -63967,7 +63967,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Zakros",
-    "support": "sealing",
+    "support": "Sealing",
     "transcription": "𐘤",
     "translatedWords": [
         "SI"
@@ -63994,7 +63994,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘠𐘾𐘇𐘬𐘺𐘻\n𐘇𐘠𐘾𐘇𐘬𐘺𐘻",
     "scribe": "",
     "site": "Zakros",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘇𐘠𐘾𐘇\n𐘬𐘺𐘻",
     "translatedWords": [
         "A-TI-KA-A-DU-KO-MI",
@@ -64027,7 +64027,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍𐄒𐄈\n𐘆𐘆𐘾𐘈𐘇𐘞𐘕𐘗𐘇𐘈\n𐘇𐘳𐘚𐙕𐘦𐘾𐄁𐘇𐘙𐘢𐘙𐘅𐄁𐘠𐘠𐙂",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐙍𐄒𐄈𐘆𐘆𐘾𐘈𐄁𐘇𐘞𐘕𐘗𐄁𐘇𐘈\n𐘇𐘳𐘚𐙕𐘦𐘾𐄁𐘇𐘙𐘢𐘙𐘅𐄁𐘠𐘠𐙂",
     "translatedWords": [
         "wine",
@@ -64087,7 +64087,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘜𐘙𐘱𐄁𐘺𐘕𐄁𐘘𐘆𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘜𐘙𐘱𐄁𐘺𐘕𐄁𐘘𐘆𐝫",
     "translatedWords": [
         "PU₂-RE-JA",
@@ -64124,7 +64124,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮𐄕",
     "scribe": "",
     "site": "Zakros",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘮𐄕",
     "translatedWords": [
         "cloth",
@@ -64154,7 +64154,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘋𐘻𐘱𐘘𐄁𐘈𐘮𐙄𐘦",
     "scribe": "",
     "site": "Zakros",
-    "support": "label",
+    "support": "Label",
     "transcription": "𐝫𐘋𐘻𐘱𐘘𐄁𐘈𐘮𐙄𐘦",
     "translatedWords": [
         "ME-MI-JA-RU",
@@ -64183,7 +64183,7 @@ var inscriptions = new Map([
     "parsedInscription": "",
     "scribe": "",
     "site": "Zominthos",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
@@ -64200,7 +64200,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘃",
     "translatedWords": [
         "TE"
@@ -64227,7 +64227,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐝫",
     "scribe": "",
     "site": "Apodoulou",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘱𐝫",
     "translatedWords": [
         "JA"
@@ -64254,7 +64254,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘳𐘚𐙕𐘉𐘱𐄁𐝫",
     "scribe": "",
     "site": "Apodoulou",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘱𐘳𐘚𐙕𐘉𐘱𐄁𐝫",
     "translatedWords": [
         "gives",
@@ -64284,7 +64284,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
     "scribe": "",
     "site": "Apodoulou",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
     "translatedWords": [
         "NA-SI",
@@ -64345,7 +64345,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘀𐙁𐘃",
     "scribe": "AR Scribe 1",
     "site": "Arkhalkhori",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘚𐘀𐙁𐘃",
     "translatedWords": [
         "\"to\" DA-MA-TE"
@@ -64373,7 +64373,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘀𐙁𐘃𐝫",
     "scribe": "AR Scribe 2",
     "site": "Arkhalkhori",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘚𐘀𐙁𐘃𐝫",
     "translatedWords": [
         "\"to\" DA-MA-TE"
@@ -64396,7 +64396,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮 ≈ 𐙍𐘻",
     "scribe": "",
     "site": "Arkhalkhori",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐘮 ≈ 𐙍𐘻",
     "translatedWords": [
         "cloth",
@@ -64429,7 +64429,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘳𐘢𐄁\n𐘌𐝫\n𐝫𐘸𐝫\n𐝫𐄁\n𐘇𐘴𐝫\n𐝫\n𐝫𐘇𐘲𐘻𐙈𐝫\n𐝫𐘗𐄈𐝆\n𐘇𐘂𐝫\n𐝫𐘻𐘸𐘞𐘗𐝫",
     "scribe": "ARKH Scribe 1",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘳𐘢𐄁𐘌𐝫𐘸\n𐝫𐄁𐘇𐘴𐝫\n𐝫\n𐘇𐘲𐘻𐙈𐝫\n𐘗𐄈𐝆𐘇𐘂𐝫\n𐘻𐘸𐘞𐘗𐝫",
     "translatedWords": [
         "TA-PI",
@@ -64518,7 +64518,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -64557,7 +64557,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐝫\n𐝫𐘱𐘙𐄉𐝫\n𐝫𐘰𐝫\n𐝫\n—\n𐝫𐘅𐄎",
     "scribe": "ARKH Scribe 1",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐝫𐘱𐘙𐄉𐝫\n𐝫𐘰𐝫\n𐝫\n—\n𐝫𐘅𐄎",
     "translatedWords": [
         "A",
@@ -64620,7 +64620,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐘀𐘃\n𐙂𐘴𐙎𐄋\n𐘇𐘤𐘀𐘄𐘚𐄐𐄈\n𐙀𐙕𐘈𐘦𐘐𐙈𐄌\n𐘇𐘲𐘫𐘮𐄊\n𐘘𐘻𐝫\n𐝫",
     "scribe": "ARKH Scribe 1",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘤𐘀𐘃𐙂𐘴\n𐙎𐄋𐘇𐘤𐘀𐘄\n𐘚𐄐𐄈𐙀𐙕𐘈\n𐘦𐘐𐙈𐄌\n𐘇𐘲𐘫𐘮\n𐄊𐘘𐘻𐝫",
     "translatedWords": [
         "SI-DA-TE",
@@ -64698,7 +64698,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘾𐘗𐙉𐝫\n𐝫𐝂\n𐙋𐄉𐝂\n𐙎𐄈𐝫\n𐝫𐄈\n𐙩𐄈\n𐝫\n𐝫𐘸𐘯𐙉𐄐𐄉𐝫\n𐝫𐘃𐄈\n𐙩𐄈\n𐙢𐄈𐝫\n𐝫𐙂𐄉",
     "scribe": "ARKH Scribe 1",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘾𐘗𐙉𐝫\n𐝫𐝂𐙋𐄉𐝂𐙎𐄈𐝫\n𐄈𐝫𐙩𐄈𐝫\n𐘸𐘯𐙉𐄐𐄉𐝫\n𐝫𐘃𐄈𐙩𐄈𐙢𐄈𐝫\n𐝫𐙂𐄉𐝫",
     "translatedWords": [
         "KA-NE",
@@ -64824,7 +64824,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘱𐘢𐙉𐄌𐝫\n𐝫𐘢𐙦𐙉𐄇𐝫\n𐙖𐝫\n𐝫\n𐝫𐄈\n𐙖𐄊\n𐝫𐙍𐄇𐝫",
     "scribe": "ARKH Scribe 1",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘱𐘢𐙉𐄌𐝫\n𐝫𐘢𐙦𐙉𐄇𐝫𐙖𐝫\n𐝫𐄈𐙖𐄊\n𐝫𐙍𐄇𐝫",
     "translatedWords": [
         "JA-PI",
@@ -64908,7 +64908,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘝𐘳𐝫\n𐝫𐘳𐄁𐘙𐄋\n𐘇𐝫𐄁𐝫𐘶𐄊\n𐘦𐘲𐝫𐄁𐝫𐘨𐘃𐄋\n𐘢𐘠𐘗𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘝𐘳𐝫\n𐝫𐘳𐄁𐘙𐄋𐘇𐝫\n𐄁𐝫𐘶𐄊𐘦𐘲𐝫𐄁𐝫\n𐘨𐘃𐄋𐘢𐘠𐘗\n𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -64998,7 +64998,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘙𐄐\n𐘉𐝫\n𐝫𐘦𐘻𐄐\n𐘚𐘨𐝫𐝫𐄏\n𐘇𐘸𐘁𐄉\n𐘍𐘤𐙀𐝫𐝫𐄉\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘙𐄐𐘉𐝫\n𐝫𐘦𐘻𐄐𐘚𐘨𐝫\n𐄏𐘇𐘸𐘁𐄉\n𐘍𐘤𐙀𐝫𐄉\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -65088,7 +65088,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘬𐘝𐘳𐘅𐄓𐄇𐝫\n𐝫𐄍\n𐘇𐘀𐘁𐙉𐄓𐝫\n𐙎𐄌\n𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘇𐘬𐘝𐘳𐘅𐄓𐄇𐝫\n𐝫𐄍𐘇𐘀𐘁𐙉𐄓𐝫\n𐙎𐄌𐘇𐝫\n𐝫",
     "translatedWords": [
         "A-DU-NI-TA-NA",
@@ -65157,7 +65157,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘅𐘹𐄁𐙂𐝫\n𐝫𐘃𐘭𐝫\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘀𐘅𐘹𐄁𐙂𐝫\n𐝫𐘃𐘭𐝫\n𐝫",
     "translatedWords": [
         "DA-NA-TU",
@@ -65202,7 +65202,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n—\n𐙜𐝂\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n—\n𐙜𐝂\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -65246,7 +65246,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘞 ≈ 𐘳𐙁𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘞 ≈ 𐘳𐙁𐝫",
     "translatedWords": [
         "flax",
@@ -65279,7 +65279,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙚𐘳𐘧",
     "scribe": "",
     "site": "Arkhalkhori",
-    "support": "inked inscription",
+    "support": "Inked inscription",
     "transcription": "𐙚𐘳𐘧",
     "translatedWords": [
         "*306-TA-JE"
@@ -65306,7 +65306,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘸𐘤𐘸𐘯𐄁𐘻𐘀𐙁𐘽𐄁",
     "scribe": "",
     "site": "Arkhalkhori",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘱𐘸𐘤𐘸𐘯𐄁𐘻𐘀𐙁𐘽𐄁",
     "translatedWords": [
         "JA-KI-SI-KI-NU",
@@ -65342,7 +65342,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Armenoi",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐜈",
     "translatedWords": [
         "*301+*311"
@@ -65369,7 +65369,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐙁𐘮𐘤𐄁𐘾𐘝𐘱𐘻𐄁𐘚𐘱𐄁𐘌𐘸𐘈𐘯𐘠𐄁𐘇𐘳𐘦",
     "scribe": "",
     "site": "Crete",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘇𐙁𐘮𐘤𐄁𐘾𐘝𐘱𐘻𐄁𐘚𐘱𐄁𐘌𐘸𐘈𐘯𐘠𐄁𐘇𐘳𐘦",
     "translatedWords": [
         "A-MA-WA-SI",
@@ -65416,7 +65416,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱",
     "scribe": "",
     "site": "Crete",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘱",
     "translatedWords": [
         "JA"
@@ -65443,7 +65443,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍𐝫 ≈ 𐘝 ≈ 𐛿",
     "scribe": "",
     "site": "Crete",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐙍𐝫 ≈ 𐘝 ≈ 𐛿",
     "translatedWords": [
         "wine",
@@ -65482,7 +65482,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘀𐘀\n𐘇𐘁𐘃",
     "scribe": "",
     "site": "Crete",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐘚𐘀𐘀\n𐘇𐘁𐘃",
     "translatedWords": [
         "I-DA-DA",
@@ -65513,7 +65513,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙚𐘳𐘧",
     "scribe": "",
     "site": "Fourni",
-    "support": "inked inscription",
+    "support": "Inked inscription",
     "transcription": "𐙚𐘳𐘧",
     "translatedWords": [
         "*306-TA-JE"
@@ -65540,7 +65540,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐘤𐝫\n𐘾𐝄\n𐘤𐄈\n𐘀𐝫\n𐘤𐘀𐘁𐝃𐝫\n𐝫𐘈𐝫\n𐝫",
     "scribe": "",
     "site": "Gournia",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐘤𐝫\n𐘾𐝄𐘤𐄈𐘀𐝫\n𐘤𐘀𐘁𐝃𐝫\n𐝫𐘈𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -65618,7 +65618,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄇𐝄\n𐘀𐝫\n𐘙𐄇𐝫\n𐘈𐘤𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Gournia",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄇𐝄𐘀𐝫\n𐘙𐄇𐝫𐘈𐘤𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -65687,7 +65687,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐘞𐘲𐙁𐘚𐘈",
     "scribe": "",
     "site": "Gournia",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘇𐘞\n𐘲𐙁\n𐘚𐘈",
     "translatedWords": [
         "A-SA-SU-MA-I-SE"
@@ -65714,7 +65714,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘖𐄋",
     "scribe": "",
     "site": "Gournia",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐘖𐄋",
     "translatedWords": [
         "bull",
@@ -65744,7 +65744,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝬𐄑,𐄈",
     "scribe": "",
     "site": "Gournia",
-    "support": "roundel",
+    "support": "Roundel",
     "transcription": "𐝬𐄑,𐄈",
     "translatedWords": [
         "*809",
@@ -65774,7 +65774,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐙁",
     "scribe": "",
     "site": "Haghios Stehanos",
-    "support": "stone object",
+    "support": "Stone object",
     "transcription": "𐘇𐙁",
     "translatedWords": [
         "A-MA"
@@ -65801,7 +65801,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘰𐘜𐝫",
     "scribe": "",
     "site": "Miletos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐘰𐘜𐝫",
     "translatedWords": [
         "PA₃-PU₂"
@@ -65828,7 +65828,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘤𐘃𐝫",
     "scribe": "",
     "site": "Miletos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘤𐘃𐝫",
     "translatedWords": [
         "SI-TE"
@@ -65855,7 +65855,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘙𐙅𐝫",
     "scribe": "",
     "site": "Miletos",
-    "support": "clay vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘙𐙅𐝫",
     "translatedWords": [
         "RE-*86"
@@ -65882,7 +65882,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘇𐘻𐝫",
     "scribe": "",
     "site": "Khania",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐝫𐘇𐘻𐝫",
     "translatedWords": [
         "A-MI"
@@ -65909,7 +65909,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘱𐘞𐘞𐘴𐘋\n𐘉𐘅𐘾𐘅𐘤",
     "scribe": "",
     "site": "Palaikastro",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "𐘱𐘞𐘞𐘴𐘋\n𐘉𐘅𐘾𐘅𐘤",
     "translatedWords": [
         "this dedication",
@@ -65942,7 +65942,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘠𐙁",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "metal object",
+    "support": "Metal object",
     "transcription": "𐘠𐙁",
     "translatedWords": [
         "TI-MA"
@@ -65969,7 +65969,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚩𐄚𐄐𐄍",
     "scribe": "",
     "site": "Zominthos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐚩𐄚𐄐𐄍",
     "translatedWords": [
         "*409-VS",
@@ -65997,7 +65997,7 @@ var inscriptions = new Map([
     "parsedInscription": "",
     "scribe": "",
     "site": "Zominthos",
-    "support": "stone vessel",
+    "support": "Stone vessel",
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
@@ -66018,7 +66018,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘞𐘭𐘥𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "tablet",
+    "support": "Tablet",
     "transcription": "𐘚𐘞𐘭𐘥𐝫\n𐝫",
     "translatedWords": [
         "I-SA-RI-KE",
