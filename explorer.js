@@ -801,29 +801,33 @@ function addWordsToImage(imageToAdd, name, imageType, img, imageWrapper, itemZoo
 
     // Highlight any search terms in the image
     var searchTerms = document.getElementById("search-terms");
-    for (var i = 0; i < searchTerms.children.length; i++) {
-      var searchElement = searchTerms.children[i];
-      if (!searchElement) {
-        continue;
-      }
-      var term = searchElement.textContent;
-      for (var j = 0; j < item.children.length; j++) {
-        var element = item.children[j];
-        var highlightColor = searchElement.getAttribute("highlightColor");
-        highlightMatchesInElement(element, term, highlightColor);
+    if (searchTerms) {
+      for (var i = 0; i < searchTerms.children.length; i++) {
+        var searchElement = searchTerms.children[i];
+        if (!searchElement) {
+          continue;
+        }
+        var term = searchElement.textContent;
+        for (var j = 0; j < item.children.length; j++) {
+          var element = item.children[j];
+          var highlightColor = searchElement.getAttribute("highlightColor");
+          highlightMatchesInElement(element, term, highlightColor);
+        }
       }
     }
 
-    var inscription = inscriptions.get(name);
-    for (var tag of consoleButtons.get('activeWordTags').currentActiveTags()) {
-      var highlightColor = tagColors[tag];
-      for (var index in inscription.wordTags) {
-        if (!inscription.wordTags[index].includes(tag)) {
-          continue;
-        }
+    if (consoleButtons.get('activeWordTags')) {
+      var inscription = inscriptions.get(name);
+      for (var tag of consoleButtons.get('activeWordTags').currentActiveTags()) {
+        var highlightColor = tagColors[tag];
+        for (var index in inscription.wordTags) {
+          if (!inscription.wordTags[index].includes(tag)) {
+            continue;
+          }
 
-        var highlightedElements = setHighlightLettersInTranscription(name, index, highlightColor);
-        highlightedSearchElements = highlightedSearchElements.concat(highlightedElements);
+          var highlightedElements = setHighlightLettersInTranscription(name, index, highlightColor);
+          highlightedSearchElements = highlightedSearchElements.concat(highlightedElements);
+        }
       }
     }
   };
@@ -911,7 +915,7 @@ function displayingTranslation(container) {
   return displayingTranslation;
 }
 
-function loadInscription(inscription) {
+function loadInscription(inscription, container = document.getElementById("container"), imgprefix = "") {
   if (inscription.element) {
     return null;
   }
@@ -923,10 +927,10 @@ function loadInscription(inscription) {
   item.addEventListener("dblclick", makeZoomItem(item));
 
   inscription.images.forEach( image => {
-    addImageToItem(item, image, inscription, "photo")
+    addImageToItem(item, imgprefix + image, inscription, "photo")
   });
   inscription.facsimileImages.forEach( image => {
-    addImageToItem(item, image, inscription, "transcription")
+    addImageToItem(item, imgprefix + image, inscription, "transcription")
   });
 
 
@@ -981,17 +985,12 @@ function loadInscription(inscription) {
       }
       label.style.backgroundColor = tagColors[tag];
       label.textContent = tag;
-      label.addEventListener("click", consoleButtons.get(activeMetadataName).toggleMetadatum(tag));
+      if (consoleButtons.has(activeMetadataName)) {
+        label.addEventListener("click", consoleButtons.get(activeMetadataName).toggleMetadatum(tag));
+      }
       tagContainer.appendChild(label);
     });
   });
-  var paddingFactor = Math.ceil(tagsToAdd.length / 2);
-  var paddingToAdd = 20 * paddingFactor;
-  // Apply padding to image item so that the tags fit and item separators display properly
-  var imageContainer = item.getElementsByClassName("item-shell")[0];
-  if (imageContainer) {
-    imageContainer.style.paddingBottom = paddingToAdd + "px";
-  }
 
   var label = document.createElement("div");
   label.className = "label";
@@ -1230,7 +1229,7 @@ function paintHighlightOnZoomImage(itemZoom, img, element ) {
   }
 }
 
-function highlightWords(name, index) {
+function highlightWords(name, index, showWordTip = true, color = "rgba(255, 255, 0, 0.5)") {
   return function(e) {
     var items = ["transcription", "translation", "transliteration", "product"];
     for (var i = 0; i < items.length; i++) {
@@ -1242,11 +1241,13 @@ function highlightWords(name, index) {
       if (element.style.backgroundColor) {
         continue;
       }
-      element.style.backgroundColor = "yellow";
-      setHighlightLettersInTranscription(name, index, "rgba(255, 255, 0, 0.5)");
+      element.style.backgroundColor = color;
+      setHighlightLettersInTranscription(name, index, color);
     }
     var element = document.getElementById(name + "-transcription-" + index);
-    addWordTip(element.textContent, name, index);
+    if (showWordTip) {
+      addWordTip(element.textContent, name, index);
+    }
   }
 }
 
@@ -1972,7 +1973,7 @@ function loadExplorer() {
   var findspots = [];
 
   loadInscriptionLevelTags();
-  loadAnnotations();
+  var wordtags = loadAnnotations();
 
   var buttonsToAdd = [
     [document.getElementById("wordtags-command"), wordtags, 'activeWordTags'],
@@ -2018,28 +2019,28 @@ function loadExplorer() {
     }
   }
 
-  var wordtags = [];
-  function loadAnnotations() {
-    var collectedWordTags = [];
-    for (var annotation of wordAnnotations) {
-      var inscription = inscriptions.get(annotation.name);
-      inscription.wordTags = [];
-      for (var word of annotation.tagsForWords) {
-        inscription.wordTags.push(word.tags);
-        collectedWordTags.push(...word.tags);
-      }
-    }
-
-    // Dedupe the list
-    wordtags = collectedWordTags.filter((v, i, a) => a.indexOf(v) === i);
-
-    // Filter out the site names
-    var sites = Array.from(inscriptions.values()).map(x => x.site).filter((v, i, a) => a.indexOf(v) === i);
-    wordtags = wordtags.filter((v, i, a) => !sites.includes(v));
-  }
 }
 
-loadExplorer();
+function loadAnnotations() {
+  var collectedWordTags = [];
+  for (var annotation of wordAnnotations) {
+    var inscription = inscriptions.get(annotation.name);
+    inscription.wordTags = [];
+    for (var word of annotation.tagsForWords) {
+      inscription.wordTags.push(word.tags);
+      collectedWordTags.push(...word.tags);
+    }
+  }
+
+  // Dedupe the list
+  wordtags = collectedWordTags.filter((v, i, a) => a.indexOf(v) === i);
+
+  // Filter out the site names
+  var sites = Array.from(inscriptions.values()).map(x => x.site).filter((v, i, a) => a.indexOf(v) === i);
+  wordtags = wordtags.filter((v, i, a) => !sites.includes(v));
+  return wordtags;
+}
+
 
 window.onload = function() {
   // If we've been passed a specific inscription in the URL path

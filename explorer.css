@@ -90,7 +90,6 @@ input:focus::placeholder { color:transparent; }
   width: 100%;
   height: 100%;
   object-fit: contain;
-  mix-blend-mode: multiply;
   padding: 10px;
   box-sizing: border-box;
   border: 1px solid black;
@@ -99,12 +98,11 @@ input:focus::placeholder { color:transparent; }
 .img-wrapper > img {
   width: 100%;
   height: 100%;
-  object-fit: contain;
-  mix-blend-mode: multiply;
 }
 .item-shell {
   position: relative;
   display: flex;
+  padding-bottom: 5%;
 }
 .item-zoom {
   border: 1px solid grey;

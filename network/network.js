@@ -22,7 +22,19 @@ function createNodes() {
 }
 
 function createEdges(nodeLookup) {
-  function createEdge(x) {
+  function createEdge(words, x, i) {
+    function getIndex(i) {
+      if (i < words.length) {
+        return i;
+      }
+      var transliteratedWords = words.map(x => x.transliteratedWord);
+      var w = transliteratedWords.indexOf(x.transliteratedWord);
+      if (w > -1) {
+        return w;
+      }
+      return i;
+    }
+
     var tranID = x.transactionID;
 
     if (!normalizedTransactions.has(tranID)) {
@@ -33,10 +45,12 @@ function createEdges(nodeLookup) {
     if (description == "recipient") {
       normalizedTransactions.get(tranID).to = nodeLookup.get(name);
       normalizedTransactions.get(tranID).recipient = name;
+      normalizedTransactions.get(tranID).recipientIndex = getIndex(i);
     }
     if (description == "sender") {
       normalizedTransactions.get(tranID).from = nodeLookup.get(name);
       normalizedTransactions.get(tranID).sender = name;
+      normalizedTransactions.get(tranID).senderIndex = getIndex(i);
     }
     if (description == "commodity") {
       normalizedTransactions.get(tranID).commodity = name;
@@ -45,19 +59,36 @@ function createEdges(nodeLookup) {
       }
       normalizedTransactions.get(tranID).label = name;
       normalizedTransactions.get(tranID).title = tranID.split('-')[0];
+      normalizedTransactions.get(tranID).commodityIndex = getIndex(i);
     }
     if (description == "quantity") {
       normalizedTransactions.get(tranID).quantity = name;
       normalizedTransactions.get(tranID).width = Math.log2(parseInt(name));
+      normalizedTransactions.get(tranID).quantityIndex = getIndex(i);
     }
   }
 
   var normalizedTransactions = new Map();
-	transactions.map(x => x.words.concat(x.transactions)).flat()
-    .map(x => createEdge(x));
+  for (var t of transactions) {
+    if (!t) {
+      continue;
+    }
+    var words = t.words.concat(t.transactions).flat();
+    for (var i = 0; i < words.length; i++) {
+      createEdge(t.words, words[i], i);
+    }
+  }
 
   var edges = Array.from(normalizedTransactions.values())
-    .map((x) => ({ from: x.from, to: x.to, label: x.label, title: x.title + ' ' + x.quantity, width: x.width}));
+    .map((x) => ({ 
+      from: x.from, 
+      to: x.to, 
+      label: x.label, 
+      inscription: x.title, 
+      title: x.title + ' ' + x.quantity, width: x.width, 
+      recipientIndex: x.recipientIndex, senderIndex: x.senderIndex,
+      commodityIndex: x.commodityIndex, quantityIndex: x.quantityIndex
+    }));
 
   return edges;
 }
@@ -66,9 +97,9 @@ function draw() {
   // create some nodes
   var nodeInfo = createNodes();
   var nodes = nodeInfo.nodes;
-  console.log(nodes);
   var nodeLookup = nodeInfo.nodeLookup;
   var edges = createEdges(nodeLookup);
+  console.log(nodes);
 
   // create a network
   var container = document.getElementById("mynetwork");
@@ -77,10 +108,16 @@ function draw() {
     edges: edges
   };
   var options = {
+    edges: {
+      font: {
+        background: 'yellow',
+      },
+    },
     nodes: {
       shape: "dot",
       size: 16
     },
+    interaction:{hover:true},
     layout: {
       randomSeed: 34,
       improvedLayout: false,
@@ -124,87 +161,91 @@ function draw() {
     }, 500);
   });
 
-  network.on("click", neighbourhoodHighlight);
+  network.on("hoverEdge", showTablet);
+  network.on("blurEdge", resetColors);
 
-	function neighbourhoodHighlight(params) {
-		// if something is selected:
-		if (params.nodes.length > 0) {
-			highlightActive = true;
-			var i, j;
-			var selectedNode = params.nodes[0];
-			var degrees = 2;
+  function getEdge(id) {
+    for (var e of edges) {
+      if (e.id === id) {
+        return e;
+      }
+    }
+    return null;
+  }
 
-			// mark all nodes as hard to read.
-			for (var nodeId in allNodes) {
-				allNodes[nodeId].color = "rgba(200,200,200,0.5)";
-				if (allNodes[nodeId].hiddenLabel === undefined) {
-					allNodes[nodeId].hiddenLabel = allNodes[nodeId].label;
-					allNodes[nodeId].label = undefined;
-				}
-			}
-			var connectedNodes = network.getConnectedNodes(selectedNode);
-			var allConnectedNodes = [];
+  function resetColors(params) {
+    var edge = getEdge(params.edge);
+    var from = network.body.nodes[edge.from];
+    // Highlight the relevant nodes
+    var parties = [ 
+      { i: edge.senderIndex, c: 'coral', e: network.body.nodes[edge.from], t: 'background' },
+      { i: edge.recipientIndex, c: 'lightgreen', e: network.body.nodes[edge.to] , t: 'background'},
+    ];
+    for (var p of parties) {
+      if (p.e) {
+        p.e.setOptions({
+          color: p.e.options.originalColor
+        });
+      }
+    }
+  }
 
-			// get the second degree nodes
-			for (i = 1; i < degrees; i++) {
-				for (j = 0; j < connectedNodes.length; j++) {
-					allConnectedNodes = allConnectedNodes.concat(
-						network.getConnectedNodes(connectedNodes[j])
-					);
-				}
-			}
+  function showTablet(params) {
+    // find corresponding edge
+    var edge = getEdge(params.edge);
+    console.log(edge);
+    var inscription = edge.inscription;
+    if (!inscription) {
+      return;
+    }
+    var container = document.getElementById("inscription-container");
+    container.innerHTML = "";
+    var inscriptionData = inscriptions.get(inscription);
+    if (inscriptionData.element) {
+      container.appendChild(inscriptionData.element);
+    } else {
+      loadInscription(inscriptionData, container, "../");
+    }
 
-			// all second degree nodes get a different color and their label back
-			for (i = 0; i < allConnectedNodes.length; i++) {
-				allNodes[allConnectedNodes[i]].color = "rgba(150,150,150,0.75)";
-				if (allNodes[allConnectedNodes[i]].hiddenLabel !== undefined) {
-					allNodes[allConnectedNodes[i]].label =
-						allNodes[allConnectedNodes[i]].hiddenLabel;
-					allNodes[allConnectedNodes[i]].hiddenLabel = undefined;
-				}
-			}
+    for (var i = 0; i < inscriptionData.words.length; i++) {
+      clearHighlight(inscription, i)();
+    }
 
-			// all first degree nodes get their own color and their label back
-			for (i = 0; i < connectedNodes.length; i++) {
-				allNodes[connectedNodes[i]].color = undefined;
-				if (allNodes[connectedNodes[i]].hiddenLabel !== undefined) {
-					allNodes[connectedNodes[i]].label =
-						allNodes[connectedNodes[i]].hiddenLabel;
-					allNodes[connectedNodes[i]].hiddenLabel = undefined;
-				}
-			}
-
-			// the main node gets its own color and its label back.
-			allNodes[selectedNode].color = undefined;
-			if (allNodes[selectedNode].hiddenLabel !== undefined) {
-				allNodes[selectedNode].label = allNodes[selectedNode].hiddenLabel;
-				allNodes[selectedNode].hiddenLabel = undefined;
-			}
-		} else if (highlightActive === true) {
-			// reset all nodes
-			for (var nodeId in allNodes) {
-				allNodes[nodeId].color = undefined;
-				if (allNodes[nodeId].hiddenLabel !== undefined) {
-					allNodes[nodeId].label = allNodes[nodeId].hiddenLabel;
-					allNodes[nodeId].hiddenLabel = undefined;
-				}
-			}
-			highlightActive = false;
-		}
-
-		// transform the object into an array
-		var updateArray = [];
-		for (nodeId in allNodes) {
-			if (allNodes.hasOwnProperty(nodeId)) {
-				updateArray.push(allNodes[nodeId]);
-			}
-		}
-		nodesDataset.update(updateArray);
-	}
+    // Highlight the relevant nodes
+    var parties = [ 
+      { i: edge.senderIndex, c: "rgba(255, 127, 80", e: network.body.nodes[edge.from], t: 'node' },
+      { i: edge.recipientIndex, c: "rgba(144, 238, 144", e: network.body.nodes[edge.to] , t: 'node'},
+      { i: edge.commodityIndex, c: "rgba(255, 255, 0", e: null , t: 'edge'},
+      { i: edge.quantityIndex, c: "rgba(255, 255, 0", e: null , t: ''},
+    ];
+    for (var p of parties) {
+      highlightWords(inscription, p.i, false, p.c + ", 0.5)")();
+      if (p.e) {
+        if (!p.e.options.originalColor) {
+          p.e.setOptions({
+            originalColor: p.e.options.color
+          });
+        }
+        p.e.setOptions({
+          color: {
+            background: p.c + ")",
+            highlight: {
+              background: p.c + ")"
+            }
+          }
+        });
+      }
+    }
+  }
 
 }
 
 window.addEventListener("load", () => {
+  for (var obj of inscriptionCoordinates) {
+    coordinates.delete(obj.img);
+    coordinates.set("../" + obj.img, obj.areas);
+  }
+  loadAnnotations();
   draw();
 });
 
