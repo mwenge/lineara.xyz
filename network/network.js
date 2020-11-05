@@ -22,7 +22,7 @@ function createNodes() {
 }
 
 function createEdges(nodeLookup) {
-  function createEdge(words, x, i) {
+  function createEdge(words, x, i, prevWord) {
     function getIndex(i) {
       if (i < words.length) {
         return i;
@@ -45,26 +45,51 @@ function createEdges(nodeLookup) {
     if (description == "recipient") {
       normalizedTransactions.get(tranID).to = nodeLookup.get(name);
       normalizedTransactions.get(tranID).recipient = name;
-      normalizedTransactions.get(tranID).recipientIndex = getIndex(i);
+      normalizedTransactions.get(tranID).recipientIndex = [getIndex(i)];
     }
     if (description == "sender") {
       normalizedTransactions.get(tranID).from = nodeLookup.get(name);
       normalizedTransactions.get(tranID).sender = name;
-      normalizedTransactions.get(tranID).senderIndex = getIndex(i);
+      normalizedTransactions.get(tranID).senderIndex = [getIndex(i)];
     }
     if (description == "commodity") {
-      normalizedTransactions.get(tranID).commodity = name;
-			if (commodities.has(x.word)) {
-        name = commodities.get(x.word);
+      // Have to cater for more than one commodity/quantity per tran ID. Ideally
+      // I would have used unique tranIDs per commodoty/quantity
+      if (!normalizedTransactions.get(tranID).commodities) {
+        normalizedTransactions.get(tranID).commodities = [name];
+        if (commodities.has(x.word)) {
+          name = commodities.get(x.word);
+        }
+        normalizedTransactions.get(tranID).labels = [name];
+        normalizedTransactions.get(tranID).title = tranID.split('-')[0];
+        normalizedTransactions.get(tranID).commodityIndex = [[getIndex(i)]];
+      } else {
+        normalizedTransactions.get(tranID).commodities.push(name);
+        if (commodities.has(x.word)) {
+          name = commodities.get(x.word);
+        }
+        normalizedTransactions.get(tranID).labels.push(name);
+        normalizedTransactions.get(tranID).commodityIndex.push([getIndex(i)]);
       }
-      normalizedTransactions.get(tranID).label = name;
-      normalizedTransactions.get(tranID).title = tranID.split('-')[0];
-      normalizedTransactions.get(tranID).commodityIndex = getIndex(i);
     }
     if (description == "quantity") {
-      normalizedTransactions.get(tranID).quantity = name;
-      normalizedTransactions.get(tranID).width = Math.log2(parseInt(name));
-      normalizedTransactions.get(tranID).quantityIndex = getIndex(i);
+      // Have to cater for more than one commodity/quantity per tran ID. Ideally
+      // I would have used unique tranIDs per commodoty/quantity
+      if (!normalizedTransactions.get(tranID).quantityIndex) {
+        normalizedTransactions.get(tranID).quantityIndex = [[getIndex(i)]];
+        normalizedTransactions.get(tranID).quantity = [name];
+        normalizedTransactions.get(tranID).width = [Math.log2(parseInt(name))];
+      } else if (prevWord.description == "quantity") {
+        // Add fractions to an existing quantity
+        normalizedTransactions.get(tranID).quantityIndex.slice(-1)[0].push(getIndex(i));
+        var l = normalizedTransactions.get(tranID).quantity.length;
+        normalizedTransactions.get(tranID).quantity[l - 1] = 
+          normalizedTransactions.get(tranID).quantity[l - 1] + name;
+      } else {
+        normalizedTransactions.get(tranID).quantityIndex.push([getIndex(i)]);
+        normalizedTransactions.get(tranID).quantity.push(name);
+        normalizedTransactions.get(tranID).width.push(Math.log2(parseInt(name)));
+      }
     }
   }
 
@@ -75,20 +100,39 @@ function createEdges(nodeLookup) {
     }
     var words = t.words.concat(t.transactions).flat();
     for (var i = 0; i < words.length; i++) {
-      createEdge(t.words, words[i], i);
+      createEdge(t.words, words[i], i, words[i-1]);
     }
   }
 
-  var edges = Array.from(normalizedTransactions.values())
-    .map((x) => ({ 
-      from: x.from, 
-      to: x.to, 
-      label: x.label, 
-      inscription: x.title, 
-      title: x.title + ' ' + x.quantity, width: x.width, 
-      recipientIndex: x.recipientIndex, senderIndex: x.senderIndex,
-      commodityIndex: x.commodityIndex, quantityIndex: x.quantityIndex
-    }));
+  var edges = [];
+  for (var x of Array.from(normalizedTransactions.values())) {
+    if (x.title == "HT8b") {
+      console.log(x);
+    }
+    if (!x.commodities) {
+      edges.push({
+        from: x.from, 
+        to: x.to, 
+        inscription: x.title, 
+        title: x.title, 
+        recipientIndex: x.recipientIndex, senderIndex: x.senderIndex,
+        commodityIndex: x.commodityIndex, quantityIndex: x.quantityIndex
+      });
+      continue;
+    }
+    for (var i = 0; i < x.commodities.length; i++) {
+      edges.push({
+        from: x.from, 
+        to: x.to, 
+        label: x.labels[i] + ' ' + (x.quantity ? x.quantity[i] : ""),
+        inscription: x.title, 
+        title: x.title, width: 1,
+        recipientIndex: x.recipientIndex, senderIndex: x.senderIndex,
+        commodityIndex: x.commodityIndex[i],
+        quantityIndex: (x.quantityIndex ? x.quantityIndex[i] : [])
+      });
+    }
+  }
 
   return edges;
 }
@@ -127,7 +171,8 @@ function draw() {
         gravitationalConstant: -26,
         centralGravity: 0.005,
         springLength: 230,
-        springConstant: 0.18
+        springConstant: 0.09,
+        damping: 0.1,
       },
       maxVelocity: 146,
       solver: "forceAtlas2Based",
@@ -219,7 +264,9 @@ function draw() {
       { i: edge.quantityIndex, c: "rgba(255, 255, 0", e: null , t: ''},
     ];
     for (var p of parties) {
-      highlightWords(inscription, p.i, false, p.c + ", 0.5)")();
+      for (var i of p.i) {
+        highlightWords(inscription, i, false, p.c + ", 0.5)")();
+      }
       if (p.e) {
         if (!p.e.options.originalColor) {
           p.e.setOptions({
