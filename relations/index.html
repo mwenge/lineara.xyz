@@ -1,27 +1,23 @@
 <link rel="stylesheet" href="../explorer.css"/>
-<link rel="stylesheet" href="network.css"/>
+<link rel="stylesheet" href="relations.css"/>
 <div id="wrapper">
   <div id="mynetwork"></div>
 </div>
 <div id="result"></div>
 <div id="inscription-container" class="tablet"></div>
 <div class="masthead-container">
-  <div class="masthead">
-    <div><a href="/">LINEAR A</a></div>
-    <div class="network-link network-link-current">Transactions between Entities</div>
-    <div>
-      <a class="network-link" href="/inscriptionsandwords">Inscriptions Sharing >1 Word</a>
-    </div>
+  <div class="masthead"><div>LINEAR A</div>
+  <div style="font-size: 12px;">Transactions between Entities</div>
   </div>
 </div>
 <div class="label image-label copyright-label" id="credits">
   <div>Use mouse-wheel to zoom in and out.</div>
   <div>Hover over lines to view source inscription.</div>
 </div>
-<script src="vis-network.min.js"></script>
-<script src="transactions.js"></script>
-<script src="network.js"></script>
-<script src="commodities.js"></script>
+<script src="../network/vis-network.min.js"></script>
+<script src="nodes.js"></script>
+<script src="edges.js"></script>
+<script src="relations.js"></script>
 <script src="../html2canvas.min.js"></script>
 <script src="../LinearAInscriptions.js"></script>
 <script src="../annotations.js"></script>

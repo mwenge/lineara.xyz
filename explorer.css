@@ -394,12 +394,17 @@ dt, dd, font {
 
 .sort-status { display: none; }
 
-.image-label > a:link, .image-label > a:visited { 
+.image-label > a:link, .image-label > a:visited,
+.masthead > div > a:link, .masthead > div> a:visited,
+.masthead > a:link, .masthead >  a:visited
+{ 
   color: white;
   text-decoration: none;
 }
 
-.image-label > a:link:active, .image-label > a:visited:active { 
+.image-label > a:link:active, .image-label > a:visited:active,
+.masthead > a:link:active, .masthead > a:visited:active,
+.masthead > div > a:link:active, .masthead > div > a:visited:active { 
   color: white;
 }
 
