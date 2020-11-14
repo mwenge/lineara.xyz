@@ -31,6 +31,7 @@
 var result = document.getElementById("result");
 result.addEventListener("animationend", function() { result.style.display = "none"; result.style.animationDelay = "0s";});
 
+const searchHiddenEvent = new Event("searchhidden");
 console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
 document.onkeydown = checkKey;
 function checkKey(e) {
@@ -143,8 +144,9 @@ function hideSearch() {
   element.style.backgroundColor = "black";
   var search = document.getElementById('search');
   search.style.visibility = 'hidden';
-
+  document.dispatchEvent(searchHiddenEvent);
 }
+
 function showSearch() {
   var element = (document.getElementById("search-command"));
   element.style.backgroundColor = "purple";
@@ -294,6 +296,10 @@ function autocomplete(inp) {
   }
   /*execute a function when someone clicks in the document:*/
   document.addEventListener("click", function (e) {
+    closeAllLists(e.target);
+  });
+  /*execute a function when someone clicks in the document:*/
+  document.addEventListener("searchhidden", function (e) {
     closeAllLists(e.target);
   });
 }

@@ -74,13 +74,14 @@ body {
 }
 .search {
   font-family: 'Noto Mono', serif;
-  border-radius: 1em;
   display: inline-block;
   font-size: 4vh;
-  opacity: 0.8;
-  border: gray 3px solid;
+  border: none;
+  border-bottom: gray 3px solid;
   padding: 5px;
   padding-left: .5em;
+  background-color: rgba(255, 255, 255, 0.6);
+  max-width: 500px;
 }
 input:focus::placeholder { color:transparent; }
 .comment-box {
@@ -704,7 +705,6 @@ textarea:focus, input:focus{
   font-family: 'Noto Mono', serif;
   display: inline-block;
   font-size: 4vh;
-  border: gray 1px solid;
   padding: 5px;
   padding-left: .5em;
   border-bottom: 1px solid #d4d4d4;
@@ -714,7 +714,6 @@ textarea:focus, input:focus{
   display: flex;
   justify-content: flex-end;
   flex-direction: column-reverse;
-  border: 1px solid #d4d4d4;
   border-bottom: none;
   border-top: none;
   z-index: 99;
