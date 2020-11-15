@@ -32,6 +32,7 @@ var result = document.getElementById("result");
 result.addEventListener("animationend", function() { result.style.display = "none"; result.style.animationDelay = "0s";});
 
 const searchHiddenEvent = new Event("searchhidden");
+
 console.log("If you have any feedback or issues contact me @mwenge on Twitter or open a ticket at https://github.com/mwenge/LinearAExplorer/issues")
 document.onkeydown = checkKey;
 function checkKey(e) {
@@ -132,6 +133,15 @@ function checkKey(e) {
   e.preventDefault();
 }
 
+function focusSearch() {
+  if (search.style.visibility == "hidden") {
+    return;
+  }
+  if (document.activeElement == search) {
+    return;
+  }
+  search.focus();
+}
 function toggleSearch() {
   if (search.style.visibility == "visible") {
     hideSearch();
@@ -322,6 +332,7 @@ function showInscriptionApparatus(inscription) {
     var inscriptionElement = document.getElementById(inscription);
     var apparatusBox = document.getElementById("apparatus-box-" + inscription);
     if (apparatusBox) {
+      focusSearch();
       document.body.offsetTop;
       apparatusBox.style.top = inscriptionElement.offsetHeight + "px";
       if (apparatusBox.style.display == "block") {
@@ -347,6 +358,7 @@ function showInscriptionApparatus(inscription) {
     appendCommentaryForInscription(inscription);
 
     inscriptionElement.appendChild(apparatusBox);
+    focusSearch();
 
 
     function appendFindSpots() {
@@ -710,6 +722,7 @@ function makeHideElements(elements) {
       elements[index].style.display = "none";
     }
     e.stopPropagation();
+    focusSearch();
   };
 }
 
@@ -1684,6 +1697,7 @@ function applySearchTerms() {
       highlightMatchingWordTags(inscription, inscription.wordTags, consoleButtons.get('activeWordTags').currentActiveTags());
     }
   }
+  focusSearch();
 }
 
 function removeFilter(evt) {
