@@ -208,7 +208,14 @@ function autocomplete(inp) {
       });
     }
 
-    var syllables = text.toUpperCase().split('-');
+    var textInUpper = text.toUpperCase();
+    ligaturesForSearch.forEach( (value, key, map) => {
+      if (key.includes(textInUpper)) {
+        addLigature(this, a, key, value);
+      }
+    });
+
+    var syllables = textInUpper.split('-');
     var textInGlyphs = syllables.map(syllable => syllableToGlyph.has(syllable)
                                       ? syllableToGlyph.get(syllable) : "").join('');
     var accumulatedOffset = 0;
@@ -223,6 +230,31 @@ function autocomplete(inp) {
       }
     });
 
+    function addLigature(e, a, key, value) {
+      if (a.children.length > 5) {
+        return;
+      }
+      /*create a DIV element for each matching element:*/
+      var b = document.createElement("div");
+      b.className = "autocomplete-item"
+
+      b.innerHTML = "<div class=\"autocomplete-item-left\">" + value + "</div>";
+      if (value) {
+        b.innerHTML += "<div class=\"autocomplete-item-right\">" + "Ligature (" + key + ") </div>";
+      }
+      /*insert a input field that will hold the current array item's value:*/
+      b.innerHTML += "<input type='hidden' value='" + value  + "'>";
+      /*execute a function when someone clicks on the item value (DIV element):*/
+      b.addEventListener("click", function(e) {
+        /*insert the value for the autocomplete text field:*/
+        inp.value = this.getElementsByTagName("input")[0].value;
+        inp.focus();
+        /*close the list of autocompleted values,
+          (or any other open lists of autocompleted values:*/
+        closeAllLists();
+      });
+      a.appendChild(b);
+    }
     function addEntry(e, a, key, value) {
       if (a.children.length > 10) {
         return;
