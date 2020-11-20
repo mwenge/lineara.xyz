@@ -749,3 +749,10 @@ textarea:focus, input:focus{
   font-style: italic;
   background-color: inherit;
 }
+.autocomplete-row {
+  text-align: right;
+  font-size: 14px;
+  display: block;
+  font-style: italic;
+  background-color: inherit;
+}

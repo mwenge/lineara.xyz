@@ -199,62 +199,52 @@ function autocomplete(inp) {
     /*append the DIV element as a child of the autocomplete container:*/
     this.parentNode.insertBefore(a, document.getElementById("search"));
 
-    var text = event.target.value;
+    var text = event.target.value.toUpperCase();
     if (text.length > 2) {
       searchHints.forEach( hint => {
-        if (hint.includes(text)) {
+        if (hint.toUpperCase().includes(text)) {
           addEntry(this, a, hint, "");
         }
       });
     }
 
-    var textInUpper = text.toUpperCase();
-    ligaturesForSearch.forEach( (value, key, map) => {
-      if (key.includes(textInUpper)) {
-        addLigature(this, a, key, value);
-      }
-    });
-
-    var syllables = textInUpper.split('-');
-    var textInGlyphs = syllables.map(syllable => syllableToGlyph.has(syllable)
-                                      ? syllableToGlyph.get(syllable) : "").join('');
     var accumulatedOffset = 0;
-    if (textInGlyphs == "") {
+    var textInGlyphs = getTextInGlyphs(text);
+    if (textInGlyphs == []) {
       return;
     }
 
-    addEntry(this, a, textInGlyphs, wordsInCorpus.has(textInGlyphs) ? wordsInCorpus.get(textInGlyphs) : 0);
     wordsInCorpus.forEach( (value, key, map) => {
-      if (key.includes(textInGlyphs) && key != textInGlyphs) {
-        addEntry(this, a, key, value);
-      }
+      textInGlyphs.forEach((t) => {
+        if (key.includes(t)) {
+          addEntry(this, a, key, value);
+        }
+      });
     });
 
-    function addLigature(e, a, key, value) {
-      if (a.children.length > 5) {
-        return;
-      }
-      /*create a DIV element for each matching element:*/
-      var b = document.createElement("div");
-      b.className = "autocomplete-item"
-
-      b.innerHTML = "<div class=\"autocomplete-item-left\">" + value + "</div>";
-      if (value) {
-        b.innerHTML += "<div class=\"autocomplete-item-right\">" + "Ligature (" + key + ") </div>";
-      }
-      /*insert a input field that will hold the current array item's value:*/
-      b.innerHTML += "<input type='hidden' value='" + value  + "'>";
-      /*execute a function when someone clicks on the item value (DIV element):*/
-      b.addEventListener("click", function(e) {
-        /*insert the value for the autocomplete text field:*/
-        inp.value = this.getElementsByTagName("input")[0].value;
-        inp.focus();
-        /*close the list of autocompleted values,
-          (or any other open lists of autocompleted values:*/
-        closeAllLists();
+    function getTextInGlyphs(text) {
+      var syllables = text.split('-').filter(x=>x);
+      var textInGlyphs = [syllables.map(syllable => syllableToGlyph.has(syllable)
+                                        ? syllableToGlyph.get(syllable) : "").join('')];
+      textInGlyphs.forEach((t) => {
+        if (!wordsInCorpus.has(t)) {
+          addEntry(this, a, t, "");
+        }
       });
-      a.appendChild(b);
+
+      syllableToGlyph.forEach((value, key, map) => {
+        if (key.includes(text) && !textInGlyphs.includes(value)) {
+          textInGlyphs.push(value);
+        }
+      });
+      ligToGlyph.forEach((value, key, map) => {
+        if (key.includes(text)) {
+          textInGlyphs.push(value);
+        }
+      });
+      return textInGlyphs.filter(x => x);
     }
+
     function addEntry(e, a, key, value) {
       if (a.children.length > 10) {
         return;
@@ -265,18 +255,25 @@ function autocomplete(inp) {
 
       var glyphsInText = splitter.splitGraphemes(key).map(glyph => glyphToSyllable.has(glyph)
                                         ? glyphToSyllable.get(glyph) : "").join('-');
+      if (glyphToLig.has(key)) {
+        glyphsInText = glyphToLig.get(key) + " (" + glyphsInText + ")";
+      }
 
       b.innerHTML = "<div class=\"autocomplete-item-left\">" + key + "</div>";
       if (value) {
-        b.innerHTML += "<div class=\"autocomplete-item-right\">" + glyphsInText
-                      + " (" + value + ") </div>";
+        b.innerHTML += "<div class=\"autocomplete-item-right\">" 
+                      + "<div class=\"autocomplete-row\"> " + glyphsInText + "</div>"
+                      + "<div class=\"autocomplete-row\" style='font-size:10px;'> " + value + " instances.</div>" 
+                      + "</div>";
       }
       /*insert a input field that will hold the current array item's value:*/
       b.innerHTML += "<input type='hidden' value='" + key  + "'>";
       /*execute a function when someone clicks on the item value (DIV element):*/
       b.addEventListener("click", function(e) {
         /*insert the value for the autocomplete text field:*/
-        inp.value = this.getElementsByTagName("input")[0].value;
+        var v = this.getElementsByTagName("input")[0].value;
+        var e = (wordsInCorpus.has(v)) ? "\"" : "";
+        inp.value = e + v + e;
         inp.focus();
         /*close the list of autocompleted values,
           (or any other open lists of autocompleted values:*/
