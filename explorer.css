@@ -2,7 +2,7 @@ html {
   padding-bottom: 10vh;
 }
 body {
-  padding-top: 12vh;
+  padding-top: 15vh;
 }
 #container{
   display: flex;
@@ -77,11 +77,11 @@ body {
   display: inline-block;
   font-size: 4vh;
   border: none;
-  border-bottom: gray 3px solid;
-  padding: 5px;
-  padding-left: .5em;
+  border-bottom: gray 0.2vw solid;
+  padding: 0.2vw;
+  padding-left: 0.3vw;
   background-color: rgba(255, 255, 255, 0.6);
-  max-width: 500px;
+  max-width: 50vw;
 }
 input:focus::placeholder { color:transparent; }
 .comment-box {
@@ -204,9 +204,9 @@ input:focus::placeholder { color:transparent; }
   opacity: 0.6;
   font-size: 4vh;
   color: white;
-  border: white 3px solid;
+  border: white 0.2vw solid;
   display: inline-block;
-  padding: 5px;
+  padding: 0.2vw;
 }
 .masthead-container {
   position: fixed;
@@ -272,11 +272,11 @@ input:focus::placeholder { color:transparent; }
   bottom: 0;
   right: 0;
   background-color: black;
-  padding: 2px;
+  padding: 0.2vw;
   color: white;
   opacity: 0.5;
   border-bottom-right-radius: 10px;
-  font-size: 14px;
+  font-size: 0.8vw;
 }
 .imagerights-label {
   position: absolute;
@@ -303,15 +303,15 @@ input:focus::placeholder { color:transparent; }
   z-index: 100;
   display: inline-block;
   max-width: 80%;
-  line-height: 13px;
+  line-height: 0.9vw;
 }
 .tag {
-  padding: 2px;
-  border: 1px solid black;
-  border-radius: 2px;
+  padding: 0.1vw;
+  border: 0.1vw solid black;
+  border-radius: 0.2vw;
   color: black;
   opacity: 0.5;
-  font-size: 10px;
+  font-size: 0.6vw;
   background-color: gray;
   display: inline-block;
 }
@@ -352,15 +352,15 @@ dt, dd, font {
 }
 .word-tip {
   position: absolute;
-  font-size: 12px;
   color: white;
   background-color: black;
-  border: 1px solid white;
+  border: 0.1vw solid white;
   border-radius: 10px;
-  padding: 3px;
+  padding: 0.2vw;
   opacity: 0.8;
   z-index: 100;
   right: 0;
+  font-size: 0.7vw;
 }
 .tip {
   position: fixed;
@@ -375,18 +375,18 @@ dt, dd, font {
   position: fixed;
   right: 0;
   top:0;
-  padding: 10px;
+  padding: 0.2vw;
+  font-size: 1.5vw;
 }
 
 .search-terms {
-  padding: 10px;
+  padding: 0.2vw;
 }
 
 .sort-status, .search-term {
-  margin: 10px;
-  padding: 5px;
-  font-size: 25px;
-  border: 1px solid black;
+  margin: 0.6vw;
+  padding: 0.2vw;
+  border: 0.1vw solid black;
   background-color: gray;
   opacity: 0.5;
   float: right;
@@ -481,6 +481,7 @@ dt, dd, font {
   bottom: 0;
   z-index: 5000;
   font-family: 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Emoji', sans-serif;
+  font-size: 1vw;
 }
 .filter-command-container {
   display: inline-block;
@@ -488,13 +489,13 @@ dt, dd, font {
 }
 .filter-label {
   visibility: hidden;
-  border-radius: 20px;
+  border-radius: 0.8vw;
   opacity: 0.8;
   background-color: black;
-  border: 2px white solid;
+  border: 0.2vw white solid;
   color: white;
-  padding: 3px 5px;
-  font-size: 0.6em;
+  padding: 0.1vw 0.2vw;
+  font-size: 0.2vw;
 }
 .filters-container {
   white-space: nowrap;
@@ -505,12 +506,11 @@ dt, dd, font {
   color: white;
   opacity: 0.6;
   border-radius: 50%;
-  font-size: 1em;
-  width: 3em;
-  height: 3em;
-  line-height: 3em;
+  width: 3vw;
+  height: 3vw;
+  line-height: 3vw;
   text-align: center;
-  border: 2px white solid;
+  border: 0.2vw white solid;
   display: inline-block;
   user-select: none;
 }
@@ -556,6 +556,7 @@ dt, dd, font {
   bottom: 5em;
   visibility: hidden;
   z-index: 1500;
+  font-size: 1vw;
 }
 #filter-details-container {
   background-color: rgba(0,0,0,0.1);
@@ -590,7 +591,7 @@ area {
 }
 .tip-image-display {
   padding: 0;
-  max-height: 50px;
+  max-height: 8vh;
 }
 .word-image-label {
   padding: 3px;
@@ -699,13 +700,13 @@ textarea:focus, input:focus{
 #word-chart {
   position: fixed;
   max-width: 50%;
+  visibility: hidden;
 }
 .autocomplete-item {
   width: 100%;
   font-family: 'Noto Mono', serif;
   display: inline-block;
   font-size: 4vh;
-  padding: 5px;
   padding-left: .5em;
   border-bottom: 1px solid #d4d4d4;
   background-color: #fff;
@@ -724,7 +725,6 @@ textarea:focus, input:focus{
   max-width: 500px;
 }
 .autocomplete-items div {
-  padding: 5px;
   cursor: pointer;
 }
 .autocomplete-item:hover {
@@ -751,7 +751,6 @@ textarea:focus, input:focus{
 }
 .autocomplete-row {
   text-align: right;
-  font-size: 14px;
   display: block;
   font-style: italic;
   background-color: inherit;

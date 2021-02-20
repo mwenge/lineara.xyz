@@ -263,7 +263,7 @@ function autocomplete(inp) {
       if (value) {
         b.innerHTML += "<div class=\"autocomplete-item-right\">" 
                       + "<div class=\"autocomplete-row\"> " + glyphsInText + "</div>"
-                      + "<div class=\"autocomplete-row\" style='font-size:10px;'> " + value + " instances.</div>" 
+                      + "<div class=\"autocomplete-row\" style='font-size:0.6vw;'> " + value + " instances.</div>" 
                       + "</div>";
       }
       /*insert a input field that will hold the current array item's value:*/
