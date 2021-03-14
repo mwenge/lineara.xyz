@@ -276,7 +276,7 @@ input:focus::placeholder { color:transparent; }
   color: white;
   opacity: 0.5;
   border-bottom-right-radius: 10px;
-  font-size: 0.8vw;
+  font-size: 1.4vh;
 }
 .imagerights-label {
   position: absolute;
@@ -303,7 +303,7 @@ input:focus::placeholder { color:transparent; }
   z-index: 100;
   display: inline-block;
   max-width: 80%;
-  line-height: 0.9vw;
+  line-height: 1vh;
 }
 .tag {
   padding: 0.1vw;
@@ -311,7 +311,7 @@ input:focus::placeholder { color:transparent; }
   border-radius: 0.2vw;
   color: black;
   opacity: 0.5;
-  font-size: 0.6vw;
+  font-size: 1vh;
   background-color: gray;
   display: inline-block;
 }
@@ -481,7 +481,7 @@ dt, dd, font {
   bottom: 0;
   z-index: 5000;
   font-family: 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Emoji', sans-serif;
-  font-size: 1vw;
+  font-size: 2vh;
 }
 .filter-command-container {
   display: inline-block;
@@ -495,7 +495,7 @@ dt, dd, font {
   border: 0.2vw white solid;
   color: white;
   padding: 0.1vw 0.2vw;
-  font-size: 0.2vw;
+  font-size: 1vh;
 }
 .filters-container {
   white-space: nowrap;
@@ -506,9 +506,9 @@ dt, dd, font {
   color: white;
   opacity: 0.6;
   border-radius: 50%;
-  width: 3vw;
-  height: 3vw;
-  line-height: 3vw;
+  width: 5vh;
+  height: 5vh;
+  line-height: 5vh;
   text-align: center;
   border: 0.2vw white solid;
   display: inline-block;
@@ -520,10 +520,9 @@ dt, dd, font {
   color: white;
   opacity: 0.6;
   border-radius: 50%;
-  font-size: 1em;
-  width: 3em;
-  height: 3em;
-  line-height: 3em;
+  width: 5vh;
+  height: 5vh;
+  line-height: 5vh;
   text-align: center;
   border: 2px white solid;
   display: inline-block;
@@ -553,10 +552,10 @@ dt, dd, font {
   position: fixed;
   left: 50%; /* horizontally centre */
   transform: translateX(-50%); /* horizontally centre */
-  bottom: 5em;
+  bottom: 10vh;
   visibility: hidden;
   z-index: 1500;
-  font-size: 1vw;
+  font-size: 1vh;
 }
 #filter-details-container {
   background-color: rgba(0,0,0,0.1);
@@ -754,4 +753,25 @@ textarea:focus, input:focus{
   display: block;
   font-style: italic;
   background-color: inherit;
+}
+
+/* Mobiles */
+@media only screen 
+  and (min-device-width: 280px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+	#filters-container { display: none; }
+	#search-container { bottom: 1vh; }
+	.transliteration-item, .translation-item, .text-item { font-size: 3vw; }
+	.item { max-width: 20vw; line-height: 2vh;}
+	body { padding-top: 5vh; }
+	.search { max-width: none; }
+}
+
+/* Mobiles */
+@media only screen 
+  and (min-device-width: 700px) 
+  and (max-device-width: 768px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+	body { padding-top: 5vh; }
 }
