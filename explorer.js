@@ -2074,6 +2074,9 @@ function loadAnnotations() {
   var collectedWordTags = [];
   for (var annotation of wordAnnotations) {
     var inscription = inscriptions.get(annotation.name);
+    if (!inscription) {
+      continue;
+    }
     inscription.wordTags = [];
     for (var word of annotation.tagsForWords) {
       inscription.wordTags.push(word.tags);
