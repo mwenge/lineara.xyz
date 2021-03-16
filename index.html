@@ -1689,22 +1689,6 @@ redirect_from:
 <div class="masthead-container">
   <div class="masthead"><a href="/">LINEAR A</a></div>
 </div>
-<script>
-    window.onload = function() {
-      // If we've been passed a specific inscription in the URL path
-      // then zoom it.
-      var urlPath = /\/\/(.+)\/(.+)/.exec(document.referrer);
-      if (urlPath) {
-        var id = urlPath[2];
-        if (!inscriptions.has(id)) {
-          return;
-        }
-        loadInscription(inscriptions.get(id))
-        var inscription = document.getElementById(id);
-        zoomItem(inscription);
-      }
-    };
-</script>
 <div id="container">
 </div>
 <div class="label image-label copyright-label" id="credits">

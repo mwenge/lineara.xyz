@@ -2097,26 +2097,37 @@ function loadAnnotations() {
 window.onload = function() {
   // If we've been passed a specific inscription in the URL path
   // then zoom it.
-  var urlPath = /\/\/(.+)\/(.+)/.exec(document.referrer);
-  if (urlPath) {
+  if (tryWord()) {
+    return;
+  }
+
+  if (tryInscription(document.referrer)) {
+    return;
+  }
+
+  function tryInscription(ref) {
+    var urlPath = /\/\/(.+)\/(.+)/.exec(ref);
+    if (!urlPath) {
+      return false;
+    }
     var id = urlPath[2];
     if (!inscriptions.has(id)) {
-      return;
+      return false;
     }
     loadInscription(inscriptions.get(id))
     var inscription = document.getElementById(id);
     zoomItem(inscription);
+    return true;
+  }
+
+  function tryWord() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const search = urlParams.get('search');
+    if (!search) {
+      return false;
+    }
+    console.log("found search");
+    updateSearchTerms(search)();
+    return true;
   }
 };
-
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', function() {
-    navigator.serviceWorker.register('serviceworker.js').then(function(registration) {
-      // Registration was successful
-      console.log('ServiceWorker registration successful with scope: ', registration.scope);
-    }, function(err) {
-      // registration failed :(
-      console.log('ServiceWorker registration failed: ', err);
-    });
-  });
-}
