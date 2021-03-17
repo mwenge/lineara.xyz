@@ -3460,6 +3460,8 @@ var inscriptionCoordinates = [
 {"areas":[{"coords":{"x":123,"y":111,"width":53,"height":108}},{"coords":{"x":170,"y":100,"width":58,"height":122}},{"coords":{"x":227,"y":111,"width":50,"height":80}},{"coords":{"x":279,"y":94,"width":55,"height":108}},{"coords":{"x":491,"y":76,"width":61,"height":84}},{"coords":{"x":546,"y":73,"width":61,"height":102}},{"coords":{"x":607,"y":71,"width":45,"height":112}}],"img":"images/SKOZc1-Facsimile.jpg"},
 {"areas":[{"coords":{"x":28,"y":5,"width":151,"height":191}},{"coords":{"x":179,"y":21,"width":156,"height":114}},{"coords":{"x":326,"y":26,"width":43,"height":73}},{"coords":{"x":203,"y":140,"width":176,"height":63}}],"img":"images/ZO1-Facsimile.jpg"},
 {"areas":[{"coords":{"x":709,"y":439,"width":178,"height":251}}],"img":"images/THEZb6-Inscription.jpg"},
+{"areas":[{"coords":{"x":50,"y":286,"width":255,"height":310}}],"img":"images/KNWa40-Inscription.jpg"},
+{"areas":[{"coords":{"x":46,"y":267,"width":228,"height":282}}],"img":"images/KNWa40-Facsimile.jpg"},
 ];
 
 var coordinates = new Map();

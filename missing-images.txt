@@ -9,6 +9,7 @@ KH101
 
 
 Hallager 1996a
+The Minoan Roundel and Other Sealed Documents in the Neopalatial Linear A Administration ((Aegaeum 14, Liège 1996).
 KHWc2074
 KHWc2079
 KHWc2095
@@ -103,9 +104,6 @@ HTWa1167
 HTWa1168
 HTWa1169
 HTWa1170
-
-https://www.worldcat.org/title/excavations-at-thera/oclc/3126558
-TEZ4 in Pope THEZb6
 
 http://collections.ashmolean.org/collection/search/category/other/start/-2800/end/-2014
 http://collections.ashmolean.org/collection/browse-9148/per_page/100/sort_by/date/sort_order/asc/offset/50500/view_as/list

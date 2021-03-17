@@ -51921,11 +51921,15 @@ var inscriptions = new Map([
 }],
 ["KNWa40",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/KNWa40-Facsimile.jpg"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/KNWa40-Inscription.jpg"
+    ],
     "name": "KNWa40",
     "parsedInscription": "𐝫𐄁𐝈𐝫",
     "scribe": "",
