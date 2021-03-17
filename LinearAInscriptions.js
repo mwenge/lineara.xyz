@@ -59261,11 +59261,15 @@ var inscriptions = new Map([
 }],
 ["SKOZc1",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/SKOZc1-Facsimile.jpg"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/SKOZc1-Inscription.jpg"
+    ],
     "name": "SKOZc1",
     "parsedInscription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐘠𐝫",
     "scribe": "",
