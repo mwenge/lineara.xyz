@@ -60054,7 +60054,9 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/THEZb6-Inscription.jpg"
+    ],
     "name": "THEZb6",
     "parsedInscription": "𐘧",
     "scribe": "",
