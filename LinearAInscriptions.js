@@ -58698,11 +58698,15 @@ var inscriptions = new Map([
 }],
 ["PKZg22",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/PKZg22-Facsimile.jpg"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/PKZg22-Inscription.jpg"
+    ],
     "name": "PKZg22",
     "parsedInscription": "𐙍𐙍",
     "scribe": "",

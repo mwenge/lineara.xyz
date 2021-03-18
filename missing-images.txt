@@ -18,14 +18,10 @@ KHWc2121
 No image
 KHWc2124
 
-Stratigraphical Museum 92/Small Find 99) (Macdonald & Schoep 1992) 
-KNWa40
-
 unknown
 KNWb51
 
-Macdonald 2000 = C. F. Macdonald, « Knossos: Present and Future », dans D. Huxley (éd.), Cretan
-Quests: British Explorers, Excavators and Historians, p. 61-68
+Macdonald 2000 = C. F. Macdonald, « Knossos: Present and Future », dans D. Huxley (éd.), Cretan Quests: British Explorers, Excavators and Historians, p. 61-68
 KNZb52
 
 KT4 in CTLA - KNZb54
@@ -33,6 +29,7 @@ KT4 in CTLA - KNZb54
 MAZb??
 
 FOund in Margiana, Turkmenistan. Probably not Linear A.
+See V.Sarianidi, Margiana and Protozoroastrism, 1998, 88-89 and fig.41:1-2 for what may be 26 nodules bearing the sign AB 77
 MARGWa1-26
 
 
@@ -57,6 +54,8 @@ unknown
 PEWs
 PEZb
 
+Some Unpublished Linear A Inscriptions." In: Colloquium Romanum. Atti del XII colloquio internazionale di micenologia. Roma. 20-25 Febbraio 2006, A. Sacconi, M. Del Freo, L. Godart, M. Negri eds., 359-360. Pisa and Rome: Fabrizio Serra editore.
+Literacy at Petras and three hitherto unpublished Linear A inscriptions, in Tsipopoulou M. (ed.), Petras, Siteia. 25 Years of Excavations and Studies, Acts of a two-day conference held at the Danish Institute at Athens, 9-10 October 2010 (Monographs of the Danish Institute at Athens 16), 265-275.
 PE Zb 8 (Siteia Mus.; Hallager 2008: 359), inscribed pithos in the north magazines (LM IB context)
 PE Zg 6 (Siteia Mus.; Hallager 2008: 359), "unique" clay rod found in House II "in an MM III pit with possible remains from cult activities."
 PETS Wc, roundel found, Fall 1993
@@ -68,7 +67,7 @@ PH Wb 55 (HM 676) (Vano LI, MM II context) aka PHWb53
 
 PK Zb ? (AIA meetings, 3 January 2004: pithos sherd, written retrograde)
 
-unknown
+I. Schoep, dans J. A. MacGillivray et al., « Excavations at Palaikastro, 1994 and 1996 », ABSA 93, p. 221-268.
 PKZg22
 
 unpublished
@@ -127,9 +126,11 @@ HTZf166
 HTZf167
 HTZf168
 HTZf169
-Doro Levi Festos 1 p831 
+
+Doro Levi Festos 1 p831 Festòs e la civiltà minoica
 KAMZb1
 
+1987    "Nuova rondella con inscrizione in lineare A dall 'Villa Reale' di Haghia Triada," Parole del Pasato 237 (1987) 463-468
 (La Rosa-Carratelli 1987)
 HT Zb 162
 
