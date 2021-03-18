@@ -60838,7 +60838,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KNWa40",
+        "name": "KN49",
         "tagsForWords": [
             {
                 "tags": [

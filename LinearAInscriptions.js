@@ -51919,22 +51919,22 @@ var inscriptions = new Map([
         "𐝫"
     ]
 }],
-["KNWa40",{
+["KN49",{
     "context": "",
     "facsimileImages": [
-        "images/KNWa40-Facsimile.jpg"
+        "images/KN49-Facsimile.jpg"
     ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [
-        "images/KNWa40-Inscription.jpg"
+        "images/KN49-Inscription.jpg"
     ],
-    "name": "KNWa40",
+    "name": "KN49",
     "parsedInscription": "𐝫𐄁𐝈𐝫",
     "scribe": "",
     "site": "Knossos",
-    "support": "Nodule",
+    "support": "Tablet",
     "transcription": "𐝫𐄁𐝈𐝫",
     "translatedWords": [
         "𐄁",
