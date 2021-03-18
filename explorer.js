@@ -200,13 +200,11 @@ function autocomplete(inp) {
     this.parentNode.insertBefore(a, document.getElementById("search"));
 
     var text = event.target.value.toUpperCase();
-    if (text.length > 2) {
-      searchHints.forEach( hint => {
-        if (hint.toUpperCase().includes(text)) {
-          addEntry(this, a, hint, "");
-        }
-      });
-    }
+    searchHints.forEach( hint => {
+      if (hint.toUpperCase().includes(text)) {
+        addEntry(this, a, hint, "");
+      }
+    });
 
     var accumulatedOffset = 0;
     var textInGlyphs = getTextInGlyphs(text);
