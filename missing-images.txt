@@ -5,6 +5,8 @@ IO Za 14, square Libation Table, orange-yellow serpentine (HM 4743; Kar. 1987).
 IO Za 15, square Libation Table, serpentine (HM 4744; Kar. 1987).
 
 https://www.jstor.org/stable/23621598?read-now=1&seq=73#page_thumbnails_tab_contents
+Andreadaki-Vlazaki & Godart 2014, Figs. 8 and 10.
+Andreadaki-Vlazaki, M. & Godart, L. 2014 Three New Linear A and B Tabletsfrom Khania, Pasiphae 8, 11-17.
 KH101
 
 
@@ -24,7 +26,8 @@ KNWb51
 Macdonald 2000 = C. F. Macdonald, « Knossos: Present and Future », dans D. Huxley (éd.), Cretan Quests: British Explorers, Excavators and Historians, p. 61-68
 KNZb52
 
-KT4 in CTLA - KNZb54
+Le fragment a été récupéré parmi les άγραφα de Cnossos par J.-P. Olivier en 1963-1965 (voir Rapport 1996-2000, p. 425)
+KT4 in CTLA - KN54
 
 MAZb??
 
@@ -32,6 +35,9 @@ FOund in Margiana, Turkmenistan. Probably not Linear A.
 See V.Sarianidi, Margiana and Protozoroastrism, 1998, 88-89 and fig.41:1-2 for what may be 26 nodules bearing the sign AB 77
 MARGWa1-26
 
+
+
+F inkelberg , U chitel , U ssishkin 1996 = M. F inkelberg , A. U chitel , D. U ssishkin , « A Linear A Inscription from Tel Lachish (LACH Za 1) », Tel Aviv 23, p. 195-207.
 
 MI Zb 3 (AM; Driessen in Sherratt, Catalogue of cycladic Antiquities in the Ashmolean Museum, Oxford 2000, 350-1), jug handle (probably Phylakopi late City II to early City III [= Neopalatial])
 
@@ -105,14 +111,18 @@ http://collections.ashmolean.org/collection/browse-9148/per_page/100/sort_by/dat
 AN1936.562 in ashmolean
 CRZf5
 
-Raison-Pope 1994
+Raison-Pope 1994 as KT4
+Hiraklion Museum
 KN54
 
+Brice 1961 (W. C.) Brice Inscriptions in the Minoan Linear Script of Class A, edited from the Notes of Sir Arthur Evans and Sir John Myres. London: The Society of Antiquaries. 1961. 
 Carratelli Monumenti Antichi XL 1954
 HTW231a
 HTW231b
 HTW231c
 HTW231d-f
+
+Carratelli Monumenti Antichi XL 1954
 HTWb229
 HTZb162bis
 HTZf163

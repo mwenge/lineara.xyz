@@ -25050,8 +25050,9 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
-                    "Appears at 3 find sites",
-                    "word or logoram"
+                    "Appears at 4 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
                 ],
                 "transliteratedWord": "MI",
                 "word": "𐝫𐘻𐝫"
@@ -31641,10 +31642,11 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
-                    "Appears at 3 find sites",
+                    "Appears at 4 find sites",
                     "word or logoram",
                     "assigned number",
-                    "always assigned number"
+                    "always assigned number",
+                    "head word elsewhere"
                 ],
                 "transliteratedWord": "MI",
                 "word": "𐝫𐘻"
@@ -50478,8 +50480,9 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
-                    "Appears at 3 find sites",
-                    "word or logoram"
+                    "Appears at 4 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
                 ],
                 "transliteratedWord": "MI",
                 "word": "𐘻𐝫"
@@ -75585,8 +75588,9 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
-                    "Appears at 3 find sites",
-                    "word or logoram"
+                    "Appears at 4 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
                 ],
                 "transliteratedWord": "MI",
                 "word": "𐝫𐘻𐝫"
@@ -79747,6 +79751,54 @@ var wordAnnotations =
     {
         "name": "ZOZa1",
         "tagsForWords": []
+    },
+    {
+        "name": "LACHZa1",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 4 find sites",
+                    "word or logoram",
+                    "head word"
+                ],
+                "transliteratedWord": "MI",
+                "word": "𐘻"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "RI-DA-U",
+                "word": "𐘭𐘀𐘉"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "SE-JE",
+                "word": "𐘈𐝕"
+            }
+        ]
     },
     {
         "name": "PH54",

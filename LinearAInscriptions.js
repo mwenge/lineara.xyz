@@ -66017,6 +66017,45 @@ var inscriptions = new Map([
     "transliteratedWords": [],
     "words": []
 }],
+["LACHZa1",{
+    "context": "",
+    "facsimileImages": [
+        "images/LACHZa1-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/LACHZa1-Inscription.jpg"
+    ],
+    "name": "LACHZa1",
+    "parsedInscription": "𐘻𐄁𐘭𐘀𐘉𐄁𐘈𐝕",
+    "scribe": "",
+    "site": "Larani",
+    "support": "Stone vessel",
+    "transcription": "𐘻𐄁𐘭𐘀𐘉𐄁𐘈𐝕",
+    "translatedWords": [
+        "liquid?",
+        "𐄁",
+        "RI-DA-U",
+        "𐄁",
+        "SE-JE"
+    ],
+    "transliteratedWords": [
+        "MI",
+        "𐄁",
+        "RI-DA-U",
+        "𐄁",
+        "SE-JE"
+    ],
+    "words": [
+        "𐘻",
+        "𐄁",
+        "𐘭𐘀𐘉",
+        "𐄁",
+        "𐘈𐝕"
+    ]
+}],
 ["PH54",{
     "context": "",
     "facsimileImages": [
@@ -70256,7 +70295,7 @@ var sequences = new Map([
 ]);
 var wordsInCorpus = new Map([
 ["", 2732],
-["𐄁", 465],
+["𐄁", 467],
 ["𐄇", 309],
 ["𐙕", 238],
 ["𐙂", 170],
@@ -70390,6 +70429,7 @@ var wordsInCorpus = new Map([
 ["𐜍", 5],
 ["𐘒", 5],
 ["𐙀", 5],
+["𐘻", 5],
 ["𐙫", 5],
 ["𐘀𐘾", 5],
 ["𐝇𐝉", 5],
@@ -70428,7 +70468,6 @@ var wordsInCorpus = new Map([
 ["𐄒𐄉", 4],
 ["𐙂𐘂", 4],
 ["𐘐", 4],
-["𐘻", 4],
 ["𐝆𐝁", 4],
 ["𐘉𐘅𐘾𐘅𐘤", 4],
 ["𐘱𐘞", 4],
@@ -71672,6 +71711,8 @@ var wordsInCorpus = new Map([
 ["𐘙𐙅", 1],
 ["𐘠𐙁", 1],
 ["𐄚𐄐𐄍", 1],
+["𐘭𐘀𐘉", 1],
+["𐘈𐝕", 1],
 ["𐘚𐘞𐘭𐘥", 1],
 ]);
 var ligatures = new Map([
@@ -71719,6 +71760,7 @@ var ligatures = new Map([
 ["𐛜", ['𐘻', '𐘱', '𐘾']],
 ["𐛝", ['𐘻', '𐙕']],
 ["𐛟", ['𐘿', '𐙉', '𐘂']],
+["𐛢", ['𐙁', '𐘘']],
 ["𐙁𐘘𐘋", ['𐙁', '𐘘', '𐘋']],
 ["𐙁𐘘𐘙", ['𐙁', '𐘘', '𐘘']],
 ["𐛤", ['𐙂', ' ]']],
