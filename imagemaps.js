@@ -3466,6 +3466,8 @@ var inscriptionCoordinates = [
 {"areas":[{"coords":{"x":222,"y":68,"width":258,"height":235}},{"coords":{"x":441,"y":222,"width":263,"height":213}}],"img":"images/PKZg22-Inscription.jpg"},
 {"areas":[{"coords":{"x":171,"y":71,"width":32,"height":75}},{"coords":{"x":154,"y":56,"width":31,"height":97}},{"coords":{"x":138,"y":42,"width":27,"height":123}},{"coords":{"x":121,"y":45,"width":36,"height":122}},{"coords":{"x":86,"y":69,"width":32,"height":78}},{"coords":{"x":60,"y":76,"width":30,"height":56}}],"img":"images/LACHZa1-Facsimile.jpg"},
 {"areas":[{"coords":{"x":219,"y":84,"width":31,"height":73}},{"coords":{"x":180,"y":71,"width":30,"height":84}},{"coords":{"x":152,"y":69,"width":39,"height":82}},{"coords":{"x":121,"y":57,"width":45,"height":102}},{"coords":{"x":55,"y":66,"width":53,"height":102}},{"coords":{"x":26,"y":74,"width":38,"height":61}}],"img":"images/LACHZa1-Inscription.jpg"},
+{"areas":[{"coords":{"x":138,"y":65,"width":91,"height":86}},{"coords":{"x":229,"y":61,"width":37,"height":101}},{"coords":{"x":262,"y":56,"width":74,"height":99}},{"coords":{"x":100,"y":143,"width":97,"height":63}}],"img":"images/KH101-Facsimile.jpg"},
+{"areas":[{"coords":{"x":106,"y":69,"width":86,"height":55}},{"coords":{"x":188,"y":85,"width":41,"height":59}},{"coords":{"x":217,"y":78,"width":85,"height":62}},{"coords":{"x":51,"y":113,"width":107,"height":65}}],"img":"images/KH101-Inscription.jpg"},
 ];
 
 var coordinates = new Map();

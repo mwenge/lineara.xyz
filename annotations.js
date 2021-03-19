@@ -79680,6 +79680,44 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "KH101",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "number"
+                ],
+                "transliteratedWord": "32",
+                "word": "𐝫𐄒𐄈"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 3 find sites",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "CYP",
+                "word": "𐙗"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "lacuna at end",
+                    "number",
+                    "fraction"
+                ],
+                "transliteratedWord": "³⁄₄",
+                "word": "𐝫𐝕𐝫"
+            }
+        ]
+    },
+    {
         "name": "PKZa27",
         "tagsForWords": [
             {

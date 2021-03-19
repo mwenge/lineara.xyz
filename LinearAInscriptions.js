@@ -48109,11 +48109,15 @@ var inscriptions = new Map([
 }],
 ["KH101",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/KH101-Facsimile.jpg"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/KH101-Inscription.jpg"
+    ],
     "name": "KH101",
     "parsedInscription": "",
     "scribe": "",
@@ -65908,6 +65912,42 @@ var inscriptions = new Map([
         "𐘇𐘻"
     ]
 }],
+["KH101",{
+    "context": "",
+    "facsimileImages": [
+        "images/KH101-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/KH101-Inscription.jpg"
+    ],
+    "name": "KH101",
+    "parsedInscription": "𐝫𐄒𐄈𐙗𐝫\n𐝫𐝕𐝫",
+    "scribe": "",
+    "site": "Khania",
+    "support": "Tablet",
+    "transcription": "𐝫𐄒𐄈𐙗𐝫\n𐝫𐝕𐝫",
+    "translatedWords": [
+        "32",
+        "cyperus",
+        "\n",
+        "³⁄₄"
+    ],
+    "transliteratedWords": [
+        "32",
+        "CYP",
+        "\n",
+        "³⁄₄"
+    ],
+    "words": [
+        "𐝫𐄒𐄈",
+        "𐙗",
+        "\n",
+        "𐝫𐝕𐝫"
+    ]
+}],
 ["PKZa27",{
     "context": "",
     "facsimileImages": [
@@ -70294,7 +70334,7 @@ var sequences = new Map([
 ],
 ]);
 var wordsInCorpus = new Map([
-["", 2732],
+["", 2733],
 ["𐄁", 467],
 ["𐄇", 309],
 ["𐙕", 238],
@@ -70315,7 +70355,7 @@ var wordsInCorpus = new Map([
 ["𐝃", 56],
 ["—", 56],
 ["𐙍", 52],
-["𐙗", 50],
+["𐙗", 51],
 ["𐘼", 47],
 ["𐄑", 40],
 ["𐘚", 39],
@@ -70323,7 +70363,7 @@ var wordsInCorpus = new Map([
 ["𐙇", 31],
 ["𐄍", 30],
 ["𐘳", 29],
-["𐝕", 26],
+["𐝕", 27],
 ["𐝇", 26],
 ["𐘇", 26],
 ["𐙘", 25],
@@ -70699,6 +70739,7 @@ var wordsInCorpus = new Map([
 ["𐙂𐘴", 2],
 ["𐘤𐘃", 2],
 ["𐘇𐘠𐘾𐘇𐘬𐘺𐘻", 2],
+["𐄒𐄈", 2],
 ["𐘌", 2],
 ["𐘚𐘀𐙁𐘃", 2],
 ["𐙩", 2],
@@ -71654,7 +71695,6 @@ var wordsInCorpus = new Map([
 ["𐘱𐘸", 1],
 ["𐘆𐘸", 1],
 ["𐘵𐘻", 1],
-["𐄒𐄈", 1],
 ["𐘆𐘆𐘾𐘈", 1],
 ["𐘇𐘞𐘕𐘗", 1],
 ["𐘇𐘳𐘚𐙕𐘦𐘾", 1],
