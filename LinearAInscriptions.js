@@ -66008,6 +66008,33 @@ var inscriptions = new Map([
         "𐝫𐙍"
     ]
 }],
+["INZb1",{
+    "context": "",
+    "facsimileImages": [
+        "images/INZb1-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/INZb1-Inscription.jpg"
+    ],
+    "name": "INZb1",
+    "parsedInscription": "𐘯𐘁",
+    "scribe": "",
+    "site": "",
+    "support": "Clay vessel",
+    "transcription": "𐘯𐘁",
+    "translatedWords": [
+        "NU-RO"
+    ],
+    "transliteratedWords": [
+        "NU-RO"
+    ],
+    "words": [
+        "𐘯𐘁"
+    ]
+}],
 ["PKZa27",{
     "context": "",
     "facsimileImages": [
@@ -70752,6 +70779,7 @@ var wordsInCorpus = new Map([
 ["𐘳𐘝𐘾", 2],
 ["𐘮𐘆𐘝", 2],
 ["𐙀𐘆𐘴", 2],
+["𐘯𐘁", 2],
 ["𐘜", 2],
 ["𐙺", 2],
 ["𐛨", 2],
@@ -71265,7 +71293,6 @@ var wordsInCorpus = new Map([
 ["𐘱𐘞𐘞𐘴", 1],
 ["𐘉𐘅𐘘𐘾𐘅𐘤", 1],
 ["𐘹𐘯", 1],
-["𐘯𐘁", 1],
 ["𐘾𐘞", 1],
 ["𐘱𐘤𐘡", 1],
 ["𐜀", 1],

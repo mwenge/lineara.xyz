@@ -48322,7 +48322,8 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Only instance of word",
+                    "Kamilari",
+                    "IN",
                     "word or logoram",
                     "head word"
                 ],
@@ -79825,6 +79826,22 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "VIN",
                 "word": "𐝫𐙍"
+            }
+        ]
+    },
+    {
+        "name": "INZb1",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "word",
+                    "Kamilari",
+                    "IN",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "NU-RO",
+                "word": "𐘯𐘁"
             }
         ]
     },
