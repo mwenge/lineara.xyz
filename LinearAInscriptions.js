@@ -60005,20 +60005,22 @@ var inscriptions = new Map([
         "𐝫𐘇𐘙𐝫"
     ]
 }],
-["THEZb5",{
+["THEZg5",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/THEZg5-Facsimile.jpg"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [
-        "images/THEZb5-Inscription.jpg"
+        "images/THEZg5-Inscription.jpg"
     ],
-    "name": "THEZb5",
+    "name": "THEZg5",
     "parsedInscription": "𐙁𐄓𐘫𐄋\n𐙑𐄍𐘎𐄏𐘳𐄊",
     "scribe": "",
     "site": "Thera",
-    "support": "Clay vessel",
+    "support": "Stone object",
     "transcription": "𐙁𐄓𐘫𐄋\n𐙑𐄍𐘎𐄏𐘳𐄊",
     "translatedWords": [
         "MA",
@@ -60060,16 +60062,16 @@ var inscriptions = new Map([
         "𐄊"
     ]
 }],
-["THEZb6",{
+["THEZb5",{
     "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [
-        "images/THEZb6-Inscription.jpg"
+        "images/THEZb5-Inscription.jpg"
     ],
-    "name": "THEZb6",
+    "name": "THEZb5",
     "parsedInscription": "𐘧",
     "scribe": "",
     "site": "Thera",
@@ -65969,9 +65971,9 @@ var inscriptions = new Map([
         "olive oil",
         "11",
         "\n",
-        "𐙖𐘱",
+        "OLE-JA",
         "1",
-        "𐙖𐘳",
+        "OLE-TA",
         "8",
         "figs",
         "\n",
@@ -65983,9 +65985,9 @@ var inscriptions = new Map([
         "OLE",
         "11",
         "\n",
-        "𐙖𐘱",
+        "OLE-JA",
         "1",
-        "𐙖𐘳",
+        "OLE-TA",
         "8",
         "NI",
         "\n",
@@ -66035,6 +66037,33 @@ var inscriptions = new Map([
         "𐘻"
     ]
 }],
+["THEZb6",{
+    "context": "",
+    "facsimileImages": [
+        "images/THEZb6-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/THEZb6-Inscription.jpg"
+    ],
+    "name": "THEZb6",
+    "parsedInscription": "𐘇𐘳𐘅𐘧",
+    "scribe": "",
+    "site": "Thera",
+    "support": "Clay vessel",
+    "transcription": "𐘇𐘳𐘅𐘧",
+    "translatedWords": [
+        "A-TA-NA-JE"
+    ],
+    "transliteratedWords": [
+        "A-TA-NA-JE"
+    ],
+    "words": [
+        "𐘇𐘳𐘅𐘧"
+    ]
+}],
 ["PHWa52",{
     "context": "",
     "facsimileImages": [
@@ -66080,10 +66109,10 @@ var inscriptions = new Map([
     "support": "Stone object",
     "transcription": "𐘀𐘬𐙕𐝫",
     "translatedWords": [
-        "𐘀𐘬𐙕𐝫"
+        "DA-DU-*301"
     ],
     "transliteratedWords": [
-        "𐘀𐘬𐙕𐝫"
+        "DA-DU-*301"
     ],
     "words": [
         "𐘀𐘬𐙕𐝫"
@@ -71919,6 +71948,7 @@ var wordsInCorpus = new Map([
 ["𐘙𐙅", 1],
 ["𐙖𐘱", 1],
 ["𐙖𐘳", 1],
+["𐘇𐘳𐘅𐘧", 1],
 ["𐘀𐘬𐙕", 1],
 ["𐘠𐙁", 1],
 ["𐄚𐄐𐄍", 1],

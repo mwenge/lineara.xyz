@@ -70034,7 +70034,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "THEZb5",
+        "name": "THEZg5",
         "tagsForWords": [
             {
                 "tags": [
@@ -70139,7 +70139,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "THEZb6",
+        "name": "THEZb5",
         "tagsForWords": [
             {
                 "tags": [
@@ -79753,7 +79753,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "𐙖𐘱",
+                "transliteratedWord": "OLE-JA",
                 "word": "𐙖𐘱"
             },
             {
@@ -79771,7 +79771,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "𐙖𐘳",
+                "transliteratedWord": "OLE-TA",
                 "word": "𐙖𐘳"
             },
             {
@@ -79846,6 +79846,20 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "THEZb6",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "A-TA-NA-JE",
+                "word": "𐘇𐘳𐘅𐘧"
+            }
+        ]
+    },
+    {
         "name": "PHWa52",
         "tagsForWords": [
             {
@@ -79871,7 +79885,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "𐘀𐘬𐙕𐝫",
+                "transliteratedWord": "DA-DU-*301",
                 "word": "𐘀𐘬𐙕𐝫"
             }
         ]
