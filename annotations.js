@@ -79830,6 +79830,21 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "DRAZg1",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at end",
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "𐘀𐘬𐙕𐝫",
+                "word": "𐘀𐘬𐙕𐝫"
+            }
+        ]
+    },
+    {
         "name": "INZb1",
         "tagsForWords": [
             {

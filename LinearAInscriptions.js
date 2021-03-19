@@ -66008,6 +66008,33 @@ var inscriptions = new Map([
         "𐝫𐙍"
     ]
 }],
+["DRAZg1",{
+    "context": "",
+    "facsimileImages": [
+        "images/DRAZg1-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/DRAZg1-Inscription.jpg"
+    ],
+    "name": "DRAZg1",
+    "parsedInscription": "𐘀𐘬𐙕𐝫",
+    "scribe": "",
+    "site": "",
+    "support": "Stone object",
+    "transcription": "𐘀𐘬𐙕𐝫",
+    "translatedWords": [
+        "𐘀𐘬𐙕𐝫"
+    ],
+    "transliteratedWords": [
+        "𐘀𐘬𐙕𐝫"
+    ],
+    "words": [
+        "𐘀𐘬𐙕𐝫"
+    ]
+}],
 ["INZb1",{
     "context": "",
     "facsimileImages": [
@@ -71838,6 +71865,7 @@ var wordsInCorpus = new Map([
 ["𐘙𐙅", 1],
 ["𐙖𐘱", 1],
 ["𐙖𐘳", 1],
+["𐘀𐘬𐙕", 1],
 ["𐘠𐙁", 1],
 ["𐄚𐄐𐄍", 1],
 ["𐘭𐘀𐘉", 1],

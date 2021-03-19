@@ -3472,6 +3472,7 @@ var inscriptionCoordinates = [
 {"areas":[{"coords":{"x":56,"y":54,"width":39,"height":66}},{"coords":{"x":92,"y":63,"width":40,"height":51}},{"coords":{"x":127,"y":55,"width":23,"height":49}},{"coords":{"x":46,"y":118,"width":40,"height":84}},{"coords":{"x":72,"y":141,"width":31,"height":58}},{"coords":{"x":110,"y":127,"width":27,"height":46}},{"coords":{"x":130,"y":119,"width":38,"height":71}},{"coords":{"x":140,"y":146,"width":26,"height":44}},{"coords":{"x":169,"y":109,"width":44,"height":76}},{"coords":{"x":215,"y":99,"width":46,"height":77}},{"coords":{"x":39,"y":203,"width":60,"height":74}},{"coords":{"x":94,"y":217,"width":36,"height":42}},{"coords":{"x":130,"y":200,"width":45,"height":65}},{"coords":{"x":173,"y":200,"width":48,"height":54}}],"img":"images/KH103-Inscription.jpg"},
 {"areas":[{"coords":{"x":38,"y":55,"width":39,"height":64}},{"coords":{"x":64,"y":57,"width":42,"height":73}}],"img":"images/INZb1-Inscription.jpg"},
 {"areas":[{"coords":{"x":41,"y":49,"width":41,"height":68}},{"coords":{"x":67,"y":46,"width":28,"height":66}}],"img":"images/INZb1-Facsimile.jpg"},
+{"areas":[{"coords":{"x":16,"y":27,"width":120,"height":92}},{"coords":{"x":117,"y":20,"width":80,"height":105}},{"coords":{"x":195,"y":5,"width":67,"height":140}}],"img":"images/DRAZg1-Facsimile.jpg"},
 ];
 
 var coordinates = new Map();
