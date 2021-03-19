@@ -69100,20 +69100,6 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "PSIZb1",
-        "tagsForWords": [
-            {
-                "tags": [
-                    "word",
-                    "Only instance of word",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "*188-A-I",
-                "word": "𐙓𐘇𐘚"
-            }
-        ]
-    },
-    {
         "name": "PYR1",
         "tagsForWords": [
             {

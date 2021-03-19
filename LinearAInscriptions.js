@@ -58972,29 +58972,6 @@ var inscriptions = new Map([
         "𐝫"
     ]
 }],
-["PSIZb1",{
-    "context": "",
-    "facsimileImages": [],
-    "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": [],
-    "name": "PSIZb1",
-    "parsedInscription": "𐙓𐘇𐘚",
-    "scribe": "",
-    "site": "Psykhro",
-    "support": "Clay vessel",
-    "transcription": "𐙓𐘇𐘚",
-    "translatedWords": [
-        "*188-A-I"
-    ],
-    "transliteratedWords": [
-        "*188-A-I"
-    ],
-    "words": [
-        "𐙓𐘇𐘚"
-    ]
-}],
 ["PYR1",{
     "context": "LMIB",
     "facsimileImages": [
@@ -71736,7 +71713,6 @@ var wordsInCorpus = new Map([
 ["𐘳𐘅𐘚𐙕𐘠", 1],
 ["𐄌𐘱𐘠", 1],
 ["𐙓𐘬𐘈", 1],
-["𐙓𐘇𐘚", 1],
 ["𐘠𐙁𐘘𐘣𐘃", 1],
 ["𐝦𐙍", 1],
 ["𐘃𐘱", 1],
