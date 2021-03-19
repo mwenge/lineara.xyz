@@ -66008,6 +66008,60 @@ var inscriptions = new Map([
         "𐝫𐙍"
     ]
 }],
+["KNWa51",{
+    "context": "",
+    "facsimileImages": [
+        "images/KNWa51-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/KNWa51-Inscription.jpg"
+    ],
+    "name": "KNWa51",
+    "parsedInscription": "𐘻",
+    "scribe": "",
+    "site": "Knossos",
+    "support": "Nodule",
+    "transcription": "𐘻",
+    "translatedWords": [
+        "liquid?"
+    ],
+    "transliteratedWords": [
+        "MI"
+    ],
+    "words": [
+        "𐘻"
+    ]
+}],
+["PHWa52",{
+    "context": "",
+    "facsimileImages": [
+        "images/PHWa52-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/PHWa52-Inscription.jpg"
+    ],
+    "name": "PHWa52",
+    "parsedInscription": "𐙍",
+    "scribe": "",
+    "site": "Phaistos",
+    "support": "Nodule",
+    "transcription": "𐙍",
+    "translatedWords": [
+        "wine"
+    ],
+    "transliteratedWords": [
+        "VIN"
+    ],
+    "words": [
+        "𐙍"
+    ]
+}],
 ["DRAZg1",{
     "context": "",
     "facsimileImages": [
@@ -70468,7 +70522,7 @@ var wordsInCorpus = new Map([
 ["𐄌", 58],
 ["𐝃", 56],
 ["—", 56],
-["𐙍", 53],
+["𐙍", 54],
 ["𐙗", 52],
 ["𐘼", 47],
 ["𐄑", 40],
@@ -70571,6 +70625,7 @@ var wordsInCorpus = new Map([
 ["𐘞", 6],
 ["𐘶", 6],
 ["𐘞𐘘", 6],
+["𐘻", 6],
 ["𐘤𐘾", 6],
 ["𐘚𐘢𐘅𐙁", 6],
 ["𐝍", 6],
@@ -70583,7 +70638,6 @@ var wordsInCorpus = new Map([
 ["𐜍", 5],
 ["𐘒", 5],
 ["𐙀", 5],
-["𐘻", 5],
 ["𐙫", 5],
 ["𐘀𐘾", 5],
 ["𐝇𐝉", 5],

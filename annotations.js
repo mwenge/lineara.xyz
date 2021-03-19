@@ -25050,7 +25050,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
-                    "Appears at 4 find sites",
+                    "Appears at 5 find sites",
                     "word or logoram",
                     "head word elsewhere"
                 ],
@@ -31642,7 +31642,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "commodity",
-                    "Appears at 4 find sites",
+                    "Appears at 5 find sites",
                     "word or logoram",
                     "assigned number",
                     "always assigned number",
@@ -50481,7 +50481,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
-                    "Appears at 4 find sites",
+                    "Appears at 5 find sites",
                     "word or logoram",
                     "head word elsewhere"
                 ],
@@ -75590,7 +75590,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "logogram",
                     "commodity",
-                    "Appears at 4 find sites",
+                    "Appears at 5 find sites",
                     "word or logoram",
                     "head word elsewhere"
                 ],
@@ -79830,6 +79830,38 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "KNWa51",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 5 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "MI",
+                "word": "𐘻"
+            }
+        ]
+    },
+    {
+        "name": "PHWa52",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 8 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "VIN",
+                "word": "𐙍"
+            }
+        ]
+    },
+    {
         "name": "DRAZg1",
         "tagsForWords": [
             {
@@ -79940,7 +79972,7 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Appears at 4 find sites",
+                    "Appears at 5 find sites",
                     "word or logoram",
                     "head word"
                 ],
