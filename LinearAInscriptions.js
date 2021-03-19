@@ -65891,6 +65891,27 @@ var inscriptions = new Map([
         "𐘇𐘻"
     ]
 }],
+["KE6",{
+    "context": "",
+    "facsimileImages": [
+        "images/KE6-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/KE6-Inscription.jpg"
+    ],
+    "name": "KE6",
+    "parsedInscription": "",
+    "scribe": "",
+    "site": "Kea",
+    "support": "Tablet",
+    "transcription": "",
+    "translatedWords": [],
+    "transliteratedWords": [],
+    "words": []
+}],
 ["KH101",{
     "context": "",
     "facsimileImages": [
