@@ -64084,7 +64084,8 @@ var wordAnnotations =
                     "commodity",
                     "Appears at 7 find sites",
                     "word or logoram",
-                    "head word"
+                    "head word",
+                    "recurring head word"
                 ],
                 "transliteratedWord": "OLE",
                 "word": "𐙖"
@@ -79714,6 +79715,116 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "³⁄₄",
                 "word": "𐝫𐝕𐝫"
+            }
+        ]
+    },
+    {
+        "name": "KH103",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 7 find sites",
+                    "word or logoram",
+                    "head word",
+                    "recurring head word"
+                ],
+                "transliteratedWord": "OLE",
+                "word": "𐙖"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "number"
+                ],
+                "transliteratedWord": "11",
+                "word": "𐄐𐄇𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "𐙖𐘱",
+                "word": "𐙖𐘱"
+            },
+            {
+                "tags": [
+                    "'one'",
+                    "lacuna at start",
+                    "number"
+                ],
+                "transliteratedWord": "1",
+                "word": "𐝫𐄇"
+            },
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "𐙖𐘳",
+                "word": "𐙖𐘳"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "number"
+                ],
+                "transliteratedWord": "8",
+                "word": "𐄎𐝫"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 7 find sites",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "NI",
+                "word": "𐘝"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 3 find sites",
+                    "word or logoram",
+                    "assigned number"
+                ],
+                "transliteratedWord": "CYP",
+                "word": "𐙗"
+            },
+            {
+                "tags": [
+                    "number"
+                ],
+                "transliteratedWord": "23",
+                "word": "𐄑𐄉"
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "logogram",
+                    "commodity",
+                    "Appears at 8 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "VIN",
+                "word": "𐝫𐙍"
             }
         ]
     },
