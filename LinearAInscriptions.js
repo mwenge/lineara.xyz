@@ -69164,26 +69164,6 @@ var inscriptions = new Map([
         "𐘈𐘮𐙄𐘦"
     ]
 }],
-["ZOZA1",{
-    "context": "",
-    "facsimileImages": [],
-    "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": [],
-    "name": "ZOZA1",
-    "names": [
-        "ZOZA1"
-    ],
-    "parsedInscription": "",
-    "scribe": "",
-    "site": "Zominthos",
-    "support": "Stone vessel",
-    "transcription": "",
-    "translatedWords": [],
-    "transliteratedWords": [],
-    "words": []
-}],
 ["ANZb1",{
     "context": "",
     "facsimileImages": [],

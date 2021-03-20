@@ -77204,10 +77204,6 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "ZOZA1",
-        "tagsForWords": []
-    },
-    {
         "name": "ANZb1",
         "tagsForWords": [
             {
