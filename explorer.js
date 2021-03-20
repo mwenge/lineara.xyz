@@ -180,7 +180,7 @@ function autocomplete(inp) {
   var currentFocus;
   var splitter = new GraphemeSplitter();
   var searchHints = Array.from(inscriptions.values()).map(x => x.site).filter((v, i, a) => a.indexOf(v) === i);
-  searchHints = searchHints.concat(Array.from(inscriptions.values()).map(x => x.name));
+  searchHints = searchHints.concat(Array.from(inscriptions.values()).map(x => x.names).flat());
 
   /*execute a function when someone writes in the text field:*/
   inp.addEventListener("input", function(e) {
@@ -1040,7 +1040,7 @@ function loadInscription(inscription, container = document.getElementById("conta
 
   var label = document.createElement("div");
   label.className = "label";
-  label.textContent = inscription.name;
+  label.textContent = (inscription.names).join(',');
   item.appendChild(label);
 
   var label = document.createElement("div");
@@ -1501,9 +1501,9 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
     containsRegEx |= inscription.transliteratedWords.filter(word => re.test(word)).length > 0;
     var containsTerm = inscription.translatedWords.filter(word => word.includes(searchTerm)).length > 0;
     containsTerm |= inscription.transliteratedWords.filter(word => word.includes(searchTerm)).length > 0;
+    containsTerm |= inscription.names.filter(word => word.includes(searchTerm)).length > 0;
     return (containsRegEx || containsTerm ||
         inscription.transcription.includes(searchTerm) ||
-        inscription.name.includes(searchTerm) ||
         inscription.site.includes(searchTerm) ||
         inscription.words.includes(searchTerm) ||
         inscription.words.map(x => stripErased(x)).includes(searchTerm)
