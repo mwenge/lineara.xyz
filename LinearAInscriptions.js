@@ -63368,7 +63368,8 @@ var inscriptions = new Map([
     ],
     "name": "PKZg22",
     "names": [
-        "PKZg22"
+        "PKZg22",
+        "PKWy22"
     ],
     "parsedInscription": "𐙍𐙍",
     "scribe": "",
@@ -63473,7 +63474,8 @@ var inscriptions = new Map([
     ],
     "name": "POZc1",
     "names": [
-        "POZc1"
+        "POZc1",
+        "PORZg1"
     ],
     "parsedInscription": "𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱𐄁",
     "scribe": "",
@@ -63600,7 +63602,8 @@ var inscriptions = new Map([
     ],
     "name": "PSIZa1",
     "names": [
-        "PSIZa1"
+        "PSIZa1",
+        "PSEZb1"
     ],
     "parsedInscription": "𐙓𐘬𐘈𐝫",
     "scribe": "",
@@ -63628,7 +63631,8 @@ var inscriptions = new Map([
     "images": [],
     "name": "PSIZa2",
     "names": [
-        "PSIZa2"
+        "PSIZa2",
+        "PSEZb2"
     ],
     "parsedInscription": "𐄁𐝫",
     "scribe": "",
@@ -63838,7 +63842,8 @@ var inscriptions = new Map([
     ],
     "name": "SAMWe4",
     "names": [
-        "SAMWe4"
+        "SAMWe4",
+        "SAWe4"
     ],
     "parsedInscription": "𐝠",
     "scribe": "",
@@ -64221,23 +64226,23 @@ var inscriptions = new Map([
         "𐘀𐘈𐘴𐘃"
     ]
 }],
-["SYZβ7",{
+["SYZb7",{
     "context": "",
     "facsimileImages": [
-        "images/SYZβ7-Facsimile.jpg"
+        "images/SYZb7-Facsimile.jpg"
     ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [],
-    "name": "SYZβ7",
+    "name": "SYZb7",
     "names": [
-        "SYZβ7"
+        "SYZb7"
     ],
     "parsedInscription": "𐝫𐘴𐘸𐘝𐘈",
     "scribe": "",
     "site": "Syme",
-    "support": "Tablet",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘴𐘸𐘝𐘈",
     "translatedWords": [
         "RA-KI-NI-SE"
@@ -70995,6 +71000,68 @@ var inscriptions = new Map([
     "words": [
         "𐘇𐘻"
     ]
+}],
+["PORZf2",{
+    "context": "",
+    "facsimileImages": [],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [],
+    "name": "PORZf2",
+    "names": [
+        "PORZf2"
+    ],
+    "parsedInscription": "",
+    "scribe": "",
+    "site": "Poros Herakleiou",
+    "support": "Metal object",
+    "transcription": "",
+    "translatedWords": [],
+    "transliteratedWords": [],
+    "words": []
+}],
+["PKZb26",{
+    "context": "",
+    "facsimileImages": [],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [],
+    "name": "PKZb26",
+    "names": [
+        "PKZb26"
+    ],
+    "parsedInscription": "",
+    "scribe": "",
+    "site": "Palaikastro",
+    "support": "Clay vessel",
+    "transcription": "",
+    "translatedWords": [],
+    "transliteratedWords": [],
+    "words": []
+}],
+["ZAZb39",{
+    "context": "",
+    "facsimileImages": [],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [],
+    "name": "ZAZb39",
+    "names": [
+        "ZAZb39",
+        "ZAZb35",
+        "ZAZb<39>"
+    ],
+    "parsedInscription": "",
+    "scribe": "",
+    "site": "Zakros",
+    "support": "Stone vessel",
+    "transcription": "",
+    "translatedWords": [],
+    "transliteratedWords": [],
+    "words": []
 }],
 ["THEZb15",{
     "context": "",

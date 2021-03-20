@@ -69625,7 +69625,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "SYZβ7",
+        "name": "SYZb7",
         "tagsForWords": [
             {
                 "tags": [
@@ -79666,6 +79666,18 @@ var wordAnnotations =
                 "word": "𐘇𐘻"
             }
         ]
+    },
+    {
+        "name": "PORZf2",
+        "tagsForWords": []
+    },
+    {
+        "name": "PKZb26",
+        "tagsForWords": []
+    },
+    {
+        "name": "ZAZb39",
+        "tagsForWords": []
     },
     {
         "name": "THEZb15",
