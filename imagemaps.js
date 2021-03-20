@@ -3482,6 +3482,8 @@ var inscriptionCoordinates = [
 {"areas":[{"coords":{"x":20,"y":46,"width":183,"height":115}}],"img":"images/PHWa52-Inscription.jpg"},
 {"areas":[{"coords":{"x":328,"y":196,"width":226,"height":544}},{"coords":{"x":574,"y":205,"width":333,"height":564}},{"coords":{"x":1126,"y":209,"width":391,"height":668}}],"img":"images/THEZb15-Inscription.jpg"},
 {"areas":[{"coords":{"x":143,"y":90,"width":148,"height":327}},{"coords":{"x":292,"y":91,"width":233,"height":337}},{"coords":{"x":610,"y":99,"width":217,"height":412}}],"img":"images/THEZb15-Facsimile.jpg"},
+{"areas":[{"coords":{"x":140,"y":171,"width":215,"height":237}}],"img":"images/MAZb15-Facsimile.jpg"},
+{"areas":[{"coords":{"x":211,"y":157,"width":232,"height":289}}],"img":"images/MAZb15-Inscription.jpg"},
 ];
 
 var coordinates = new Map();

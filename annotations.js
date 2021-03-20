@@ -63238,7 +63238,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "MAZb??",
+        "name": "MAZb15",
         "tagsForWords": [
             {
                 "tags": [
@@ -78970,7 +78970,7 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "ARKHZb10",
+        "name": "ARKHZb<10>",
         "tagsForWords": [
             {
                 "tags": [

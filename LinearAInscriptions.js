@@ -58532,16 +58532,20 @@ var inscriptions = new Map([
         "𐙒"
     ]
 }],
-["MAZb??",{
+["MAZb15",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/MAZb15-Facsimile.jpg"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
-    "name": "MAZb??",
+    "images": [
+        "images/MAZb15-Inscription.jpg"
+    ],
+    "name": "MAZb15",
     "names": [
-        "MAZb??"
+        "MAZb15"
     ],
     "parsedInscription": "𐚥𐝇",
     "scribe": "",
@@ -64418,7 +64422,8 @@ var inscriptions = new Map([
     "images": [],
     "name": "TELZb1",
     "names": [
-        "TELZb1"
+        "TELZb1",
+        "HARZb1"
     ],
     "parsedInscription": "𐘕 ≈ 𐘮𐘃 ≈ 𐘝",
     "scribe": "",
@@ -70274,16 +70279,16 @@ var inscriptions = new Map([
         "𐝫"
     ]
 }],
-["ARKHZb10",{
+["ARKHZb<10>",{
     "context": "",
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [],
-    "name": "ARKHZb10",
+    "name": "ARKHZb<10>",
     "names": [
-        "ARKHZb10"
+        "ARKHZb<10>"
     ],
     "parsedInscription": "𐘞 ≈ 𐘳𐙁𐝫",
     "scribe": "",
@@ -70319,7 +70324,8 @@ var inscriptions = new Map([
     ],
     "name": "ARKHZc8",
     "names": [
-        "ARKHZc8"
+        "ARKHZc8",
+        "ARKHZb10"
     ],
     "parsedInscription": "𐙚𐘳𐘧",
     "scribe": "",
