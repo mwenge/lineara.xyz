@@ -179,8 +179,24 @@ function autocomplete(inp) {
     the text field element and an array of possible autocompleted values:*/
   var currentFocus;
   var splitter = new GraphemeSplitter();
-  var searchHints = Array.from(inscriptions.values()).map(x => x.site).filter((v, i, a) => a.indexOf(v) === i);
-  searchHints = searchHints.concat(Array.from(inscriptions.values()).map(x => x.names).flat());
+
+  var zip = (...rows) => [...rows[0]].map((_,c) => rows.map(row => row[c]));
+
+  var searchHints = [];
+  var searchTypes = [[x => x.site, "Location"],
+                     [x => x.names, "Inscription"],
+                     [x => x.support, "Support"],
+                     [x => x.scribe, "Scribe"],
+                     [x => x.context, "Context"],
+                     [x => x.findspot, "Findspot"],
+                    ];
+  searchTypes.forEach( hint => {
+    let hints = Array.from(inscriptions.values()).map(hint[0]).filter((v, i, a) => a.indexOf(v) === i).flat();
+    let zippedHints = zip(hints, Array(hints.length).fill(hint[1]));
+    searchHints = searchHints.concat(zippedHints);
+  });
+  console.log(searchHints);
+
 
   /*execute a function when someone writes in the text field:*/
   inp.addEventListener("input", function(e) {
@@ -201,8 +217,8 @@ function autocomplete(inp) {
 
     var text = event.target.value.toUpperCase();
     searchHints.forEach( hint => {
-      if (hint.toUpperCase().includes(text)) {
-        addEntry(this, a, hint, "");
+      if (hint[0].toUpperCase().includes(text)) {
+        addEntry(this, a, hint[0], hint[1]);
       }
     });
 
@@ -215,7 +231,7 @@ function autocomplete(inp) {
     wordsInCorpus.forEach( (value, key, map) => {
       textInGlyphs.forEach((t) => {
         if (key.includes(t)) {
-          addEntry(this, a, key, value);
+          addEntry(this, a, key, value + " instances.");
         }
       });
     });
@@ -252,7 +268,8 @@ function autocomplete(inp) {
       b.className = "autocomplete-item"
 
       var glyphsInText = splitter.splitGraphemes(key).map(glyph => glyphToSyllable.has(glyph)
-                                        ? glyphToSyllable.get(glyph) : "").join('-');
+                                        ? glyphToSyllable.get(glyph) : "").filter(g => g != "");
+      glyphsInText = glyphsInText ? glyphsInText.join('-') : "";
       if (glyphToLig.has(key)) {
         glyphsInText = glyphToLig.get(key) + " (" + glyphsInText + ")";
       }
@@ -261,9 +278,10 @@ function autocomplete(inp) {
       if (value) {
         b.innerHTML += "<div class=\"autocomplete-item-right\">" 
                       + "<div class=\"autocomplete-row\"> " + glyphsInText + "</div>"
-                      + "<div class=\"autocomplete-row\" style='font-size:0.6vw;'> " + value + " instances.</div>" 
+                      + "<div class=\"autocomplete-row\" style='font-size:0.6vw;'> " + value + "</div>" 
                       + "</div>";
       }
+
       /*insert a input field that will hold the current array item's value:*/
       b.innerHTML += "<input type='hidden' value='" + key  + "'>";
       /*execute a function when someone clicks on the item value (DIV element):*/
@@ -1505,6 +1523,9 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
     return (containsRegEx || containsTerm ||
         inscription.transcription.includes(searchTerm) ||
         inscription.site.includes(searchTerm) ||
+        inscription.context.includes(searchTerm) ||
+        inscription.scribe.includes(searchTerm) ||
+        inscription.findspot.includes(searchTerm) ||
         inscription.words.includes(searchTerm) ||
         inscription.words.map(x => stripErased(x)).includes(searchTerm)
         );
