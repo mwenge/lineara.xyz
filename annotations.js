@@ -79668,6 +79668,30 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "THEZb15",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram",
+                    "assigned number",
+                    "place name",
+                    "head word"
+                ],
+                "transliteratedWord": "RE-SA",
+                "word": "𐘙𐘞"
+            },
+            {
+                "tags": [
+                    "number"
+                ],
+                "transliteratedWord": "2",
+                "word": "𐄈"
+            }
+        ]
+    },
+    {
         "name": "KNsceau",
         "tagsForWords": []
     },

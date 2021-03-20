@@ -55983,7 +55983,8 @@ var inscriptions = new Map([
     "images": [],
     "name": "KN54",
     "names": [
-        "KN54"
+        "KN54",
+        "KT4"
     ],
     "parsedInscription": "𐝫\n𐝫𐘫𐘴𐝫\n𐝫𐙏𐝇𐝫\n𐝫",
     "scribe": "",
@@ -56034,7 +56035,8 @@ var inscriptions = new Map([
     ],
     "name": "KN49",
     "names": [
-        "KN49"
+        "KN49",
+        "KNWy49"
     ],
     "parsedInscription": "𐝫𐄁𐝈𐝫",
     "scribe": "",
@@ -57042,7 +57044,9 @@ var inscriptions = new Map([
     "images": [],
     "name": "KNZb56",
     "names": [
-        "KNZb56"
+        "KNZb56",
+        "KNZ36",
+        "KNZb<53>"
     ],
     "parsedInscription": "𐘁𐛧",
     "scribe": "",
@@ -59470,7 +59474,8 @@ var inscriptions = new Map([
     "images": [],
     "name": "PEZg6",
     "names": [
-        "PEZg6"
+        "PEZg6",
+        "PE<6>"
     ],
     "parsedInscription": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
     "scribe": "",
@@ -61800,7 +61805,8 @@ var inscriptions = new Map([
     "images": [],
     "name": "PHWb55",
     "names": [
-        "PHWb55"
+        "PHWb55",
+        "PHWb53"
     ],
     "parsedInscription": "𐝫",
     "scribe": "",
@@ -64640,7 +64646,8 @@ var inscriptions = new Map([
     ],
     "name": "THEZb1",
     "names": [
-        "THEZb1"
+        "THEZb1",
+        "TEZ1"
     ],
     "parsedInscription": "𐝫𐘤𐘝𐝫",
     "scribe": "",
@@ -64670,7 +64677,8 @@ var inscriptions = new Map([
     ],
     "name": "THEZb2",
     "names": [
-        "THEZb2"
+        "THEZb2",
+        "TEZ2"
     ],
     "parsedInscription": "𐘇𐘙𐘞𐘅",
     "scribe": "",
@@ -64700,7 +64708,8 @@ var inscriptions = new Map([
     ],
     "name": "THEZb3",
     "names": [
-        "THEZb3"
+        "THEZb3",
+        "TEZ3"
     ],
     "parsedInscription": "𐘇𐘗𐝫",
     "scribe": "",
@@ -64818,7 +64827,9 @@ var inscriptions = new Map([
     ],
     "name": "THEZb5",
     "names": [
-        "THEZb5"
+        "THEZb5",
+        "TEZ5",
+        "THEZb6"
     ],
     "parsedInscription": "𐘧",
     "scribe": "",
@@ -64846,7 +64857,9 @@ var inscriptions = new Map([
     ],
     "name": "THEZb7",
     "names": [
-        "THEZb7"
+        "THEZb7",
+        "TEZ4",
+        "THEfr.vase"
     ],
     "parsedInscription": "𐘇𐘧",
     "scribe": "",
@@ -70977,6 +70990,40 @@ var inscriptions = new Map([
         "𐘇𐘻"
     ]
 }],
+["THEZb15",{
+    "context": "",
+    "facsimileImages": [
+        "images/THEZb15-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/THEZb15-Inscription.jpg"
+    ],
+    "name": "THEZb15",
+    "names": [
+        "THEZb15",
+        "THEZb14"
+    ],
+    "parsedInscription": "𐘙𐘞𐄈",
+    "scribe": "",
+    "site": "Thera",
+    "support": "Clay vessel",
+    "transcription": "𐘙𐘞𐄈",
+    "translatedWords": [
+        "RE-SA",
+        "2"
+    ],
+    "transliteratedWords": [
+        "RE-SA",
+        "2"
+    ],
+    "words": [
+        "𐘙𐘞",
+        "𐄈"
+    ]
+}],
 ["KNsceau",{
     "context": "",
     "facsimileImages": [
@@ -75685,7 +75732,7 @@ var wordsInCorpus = new Map([
 ["𐙕", 238],
 ["𐙂", 170],
 ["𐘾", 169],
-["𐄈", 157],
+["𐄈", 158],
 ["𐝆", 120],
 ["𐘤", 118],
 ["𐄉", 101],
@@ -77093,6 +77140,7 @@ var wordsInCorpus = new Map([
 ["𐄑,𐄈", 1],
 ["𐘰𐘜", 1],
 ["𐘙𐙅", 1],
+["𐘙𐘞", 1],
 ["𐙖𐘱", 1],
 ["𐙖𐘳", 1],
 ["𐘇𐘳𐘅𐘧", 1],
