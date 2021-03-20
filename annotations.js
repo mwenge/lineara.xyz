@@ -79668,6 +79668,10 @@ var wordAnnotations =
         ]
     },
     {
+        "name": "KNsceau",
+        "tagsForWords": []
+    },
+    {
         "name": "KE6",
         "tagsForWords": []
     },

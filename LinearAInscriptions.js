@@ -11,6 +11,7 @@ var inscriptions = new Map([
         "images/HT1-Inscription.jpg"
     ],
     "name": "HT1",
+    "names": "HT1",
     "parsedInscription": "𐘿𐘽𐘉𐄁\n𐘸𐘁𐄙𐄘𐄍\n𐙀𐘲𐄖\n𐘆𐘆𐘍𐘥𐄔𐄈\n𐙂𐘰𐘯𐄙𐄏\n𐘇𐘴𐘅𐘙𐄙𐄋",
     "scribe": "HT Scribe 21",
     "site": "Haghia Triada",
@@ -86,6 +87,7 @@ var inscriptions = new Map([
         "images/HT2-Inscription.jpg"
     ],
     "name": "HT2",
+    "names": "HT2",
     "parsedInscription": "𐘇𐘾𐘘𐄁𐜋𐄑𐝫\n𐝫𐜊𐄐𐄍\n𐜎𐄉𐝫\n𐝫𐘸𐘙𐘳𐘅𐜋𐄔𐄊𐝫\n𐝫𐜊𐄓𐄍\n𐄇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -167,6 +169,7 @@ var inscriptions = new Map([
         "images/HT3-Inscription.jpg"
     ],
     "name": "HT3",
+    "names": "HT3",
     "parsedInscription": "𐝫\n𐝫𐙁𐝫\n𐝫𐘆𐘅𐝫𐄈\n𐘿𐘽𐘱𐝫\n𐝫𐄈\n𐘆𐄈𐝫\n𐝫𐄊\n𐘕𐘘𐄇\n𐘘𐝫\n𐝫𐘤𐘹𐘽𐘙𐄋\n𐘆𐝫\n𐝫𐙂𐘰𐘯𐄉𐝫\n𐝫𐙁𐘆𐄈𐝫\n𐘀𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -290,6 +293,7 @@ var inscriptions = new Map([
         "images/HT4-Inscription.jpg"
     ],
     "name": "HT4",
+    "names": "HT4",
     "parsedInscription": "𐝫\n𐝫𐙚𐘠𐘾𐘇𐘙𐝫\n𐝫𐘬𐘭𐘃𐄈\n𐘂𐘙𐝫\n𐝫𐘳𐘢𐘤𐘆𐄇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -347,6 +351,7 @@ var inscriptions = new Map([
         "images/HT5-Inscription.jpg"
     ],
     "name": "HT5",
+    "names": "HT5",
     "parsedInscription": "𐝫\n𐝫𐙛𐝫\n𐝫𐙁𐘤𐄒𐝫\n𐝫𐘣𐘬𐄐𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 1",
     "site": "Haghia Triada",
@@ -410,6 +415,7 @@ var inscriptions = new Map([
         "images/HT6a-Inscription.jpg"
     ],
     "name": "HT6a",
+    "names": "HT6a",
     "parsedInscription": "𐘾𐘂𐄁\n𐘀𐘳𐘴𐄁𐘃𐄁𐘝𐄐𐄋\n𐘢𐘳𐘱𐄑𐄊\n𐛑𐝓\n𐙁𐙭𐄐\n𐘵𐘽𐘆𐘗𐄈\n𐘾𐘂𐘿𐄋𐝕\n𐘀𐘿𐘴𐄁\n𐘿𐘢𐘳𐄑𐄈𐝕\n𐘝𐄐𐄋𐝆",
     "scribe": "",
     "site": "Haghia Triada",
@@ -542,6 +548,7 @@ var inscriptions = new Map([
         "images/HT6b-Inscription.jpg"
     ],
     "name": "HT6b",
+    "names": "HT6b",
     "parsedInscription": "𐘮𐘬𐘝𐘻𐄉𐝅\n𐘴𐘠𐘈𐄇\n𐙁𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃\n𐘞𐙁𐄒𐄋\n𐘰𐘝𐘅𐄐𐄍𐝆",
     "scribe": "",
     "site": "Haghia Triada",
@@ -635,6 +642,7 @@ var inscriptions = new Map([
         "images/HT7a-Inscription.jpg"
     ],
     "name": "HT7a",
+    "names": "HT7a",
     "parsedInscription": "𐘿𐘠𐄁𐙇\n𐘚𐘘𐘱𐄉\n𐘬𐘱𐄊\n𐘳𐘅𐘠𐄇\n𐘀𐘙𐄇\n𐘃𐘹𐄇",
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
@@ -713,6 +721,7 @@ var inscriptions = new Map([
         "images/HT7b-Inscription.jpg"
     ],
     "name": "HT7b",
+    "names": "HT7b",
     "parsedInscription": "𐘐𐘹𐘗𐄇\n𐘀𐘘𐙵𐄈",
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
@@ -752,6 +761,7 @@ var inscriptions = new Map([
         "images/HT8a-Inscription.jpg"
     ],
     "name": "HT8a",
+    "names": "HT8a",
     "parsedInscription": "𐘧𐘆𐜓𐄐\n𐘰𐘾𐘴𐘠𐄇𐝆\n𐘂𐄉𐝆\n𐘃𐙕𐄈\n𐘌𐙠𐘚𐝕\n𐘤𐘸𐘴𐝃\n𐘸𐘙𐘳𐘅𐝆",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
@@ -845,6 +855,7 @@ var inscriptions = new Map([
         "images/HT8b-Inscription.jpg"
     ],
     "name": "HT8b",
+    "names": "HT8b",
     "parsedInscription": "𐘲𐘜𐙓𐄇\n—\n𐄋\n𐘰𐙓𐄈\n𐘌𐙠𐘚𐄇𐝃𐝄\n𐘾𐘂𐝆\n𐘂𐘱𐘙𐄇𐝄\n𐛥𐝆\n𐝆",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
@@ -944,6 +955,7 @@ var inscriptions = new Map([
         "images/HT9a-Inscription.jpg"
     ],
     "name": "HT9a",
+    "names": "HT9a",
     "parsedInscription": "𐘞𐘁𐄁𐘃𐄁𐙍𐄁\n𐘂𐘦𐄁𐄋𐝕\n𐙚𐘹𐄐\n𐘆𐘅𐘉𐄊\n𐘿𐘫𐄈\n𐙰𐘆𐘴𐄈𐝆\n𐘳𐘚𐙌𐄈𐝆\n𐘇𐘘𐄊𐝃\n𐙂𐘁𐄒𐄇𐝕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -1076,6 +1088,7 @@ var inscriptions = new Map([
         "images/HT9b-Inscription.jpg"
     ],
     "name": "HT9b",
+    "names": "HT9b",
     "parsedInscription": "𐘰𐄁\n𐘮𐘱𐘢𐝫\n—\n𐘾𐙙𐄁\n𐘂𐘦𐄉\n𐘇𐘤𐄉\n𐙚𐘹𐄎\n𐙰𐘆𐘴𐄈\n𐘿𐘫𐄈\n𐘳𐘚𐙌𐄈\n𐘆𐘅𐘉𐄊\n𐙂𐘁𐄑𐄊",
     "scribe": "",
     "site": "Haghia Triada",
@@ -1199,6 +1212,7 @@ var inscriptions = new Map([
         "images/HT10a-Inscription.jpg"
     ],
     "name": "HT10a",
+    "names": "HT10a",
     "parsedInscription": "𐙂𐘝𐘲𐄁\n𐘞𐙁𐄊\n𐄁𐘂𐄁\n𐘀𐘙𐄐𐄌𐝆\n𐘉𐙱𐘍𐄊\n𐙕𐄌\n𐘉𐙱𐘍𐄐𐄊𐝫\n𐙙𐘘𐄈𐝆\n𐘀𐘭𐘀𐄎\n𐘋𐘍𐄉",
     "scribe": "",
     "site": "Haghia Triada",
@@ -1319,6 +1333,7 @@ var inscriptions = new Map([
         "images/HT10b-Inscription.jpg"
     ],
     "name": "HT10b",
+    "names": "HT10b",
     "parsedInscription": "𐘉𐘠𐄇\n𐘀𐘙𐄈\n𐘳𐘭𐘅𐄐𐄋\n𐙢𐘳𐄌𐝆\n𐘾𐘞𐘘𐄌\n𐘳𐘅𐘠𐄏𐝃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -1400,6 +1415,7 @@ var inscriptions = new Map([
         "images/HT11a-Inscription.jpg"
     ],
     "name": "HT11a",
+    "names": "HT11a",
     "parsedInscription": "𐘇𐘘𐘴𐝫𐄁𐝫𐄉\n𐘾𐘁𐘅𐄈\n𐙮𐘭𐄇\n𐙂𐘁𐄐\n𐘇𐘲𐘱𐄇\n𐙇𐘚𐄉\n𐘷𐄐𐄋",
     "scribe": "HT Scribe 24",
     "site": "Haghia Triada",
@@ -1487,6 +1503,7 @@ var inscriptions = new Map([
         "images/HT11b-Inscription.jpg"
     ],
     "name": "HT11b",
+    "names": "HT11b",
     "parsedInscription": "𐝫𐘦𐘯\n𐘘𐘽\n𐙅𐘾𐄓\n𐘾𐄒\n𐘾𐄔\n𐘘𐙀𐘅𐘾𐄒\n𐘞𐘿𐘭𐄁𐘾𐄒\n𐙂𐘁𐄙𐄗",
     "scribe": "HT Scribe 24",
     "site": "Haghia Triada",
@@ -1583,6 +1600,7 @@ var inscriptions = new Map([
         "images/HT12-Inscription.jpg"
     ],
     "name": "HT12",
+    "names": "HT12",
     "parsedInscription": "𐘌𐘠𐘀𐘃𐄁𐜉𐄋\n𐙘𐄋\n𐘿𐘹𐘗𐄁𐚻𐄇\n𐘡𐄒\n𐛢𐄁𐙈𐄋\n𐜚𐄉\n𐘝𐄇\n𐚼𐝇\n𐘀𐘚𐄔",
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
@@ -1703,6 +1721,7 @@ var inscriptions = new Map([
         "images/HT13-Inscription.jpg"
     ],
     "name": "HT13",
+    "names": "HT13",
     "parsedInscription": "𐘾𐘉𐘦𐘳𐙍𐄁𐘃𐄁\n𐘙𐘍𐄋𐝫𐝆𐝫\n𐘃𐘹𐄔𐄌\n𐘃𐘸𐄑𐄍𐝆\n𐙂𐙀𐘝𐄐𐄎\n𐘀𐘤𐙈𐄐𐄏\n𐘚𐘬𐘗𐘤𐄋\n𐙂𐘁𐄙𐄒𐝆",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
@@ -1814,6 +1833,7 @@ var inscriptions = new Map([
         "images/HT14-Inscription.jpg"
     ],
     "name": "HT14",
+    "names": "HT14",
     "parsedInscription": "𐘫𐙍𐄁𐘃𐄁𐙉𐄒\n𐜗𐄉\n𐜉𐄉\n𐙘𐄏\n𐙋𐄐𐄉\n𐘇𐘜𐘅𐘬𐙉𐄓𐄋\n𐜗𐄋\n𐜉𐄊\n𐙘𐄌\n𐙋𐄐𐄊",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
@@ -1940,6 +1960,7 @@ var inscriptions = new Map([
         "images/HT15-Inscription.jpg"
     ],
     "name": "HT15",
+    "names": "HT15",
     "parsedInscription": "𐘉𐘟𐘤𐙉\n𐘬𐙌𐘇𐄞𐄗𐄊\n𐛹𐄝𐄖\n𐙓𐄁𐘸𐘁𐄜\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -2009,6 +2030,7 @@ var inscriptions = new Map([
         "images/HT16-Inscription.jpg"
     ],
     "name": "HT16",
+    "names": "HT16",
     "parsedInscription": "𐘾𐙂𐘂𐄁\n𐘆𐘅𐘉𐝄\n𐄁𐘮𐝁\n𐜇𐝃𐝄\n𐘞𐘊𐘼𐝇",
     "scribe": "HT Scribe 10",
     "site": "Haghia Triada",
@@ -2081,6 +2103,7 @@ var inscriptions = new Map([
         "images/HT17-Inscription.jpg"
     ],
     "name": "HT17",
+    "names": "HT17",
     "parsedInscription": "𐘴󽇫𐘠𐄁𐘃𐄁𐙍𐄒𐄍\n𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
     "scribe": "HT Scribe 18",
     "site": "Haghia Triada",
@@ -2141,6 +2164,7 @@ var inscriptions = new Map([
         "images/HT18-Inscription.jpg"
     ],
     "name": "HT18",
+    "names": "HT18",
     "parsedInscription": "𐘂𐘈𐛱𐄑\n𐜓𐄈\n𐙘𐄉\n𐘞𐘽𐙉𐄐\n𐘝𐄐",
     "scribe": "HT Scribe 20",
     "site": "Haghia Triada",
@@ -2213,6 +2237,7 @@ var inscriptions = new Map([
         "images/HT19-Inscription.jpg"
     ],
     "name": "HT19",
+    "names": "HT19",
     "parsedInscription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍𐄒\n𐘞𐘁𐄋𐝆\n𐘬𐘋𐘆𐄓𐄉𐝆",
     "scribe": "HT Scribe 18",
     "site": "Haghia Triada",
@@ -2279,6 +2304,7 @@ var inscriptions = new Map([
         "images/HT20-Inscription.jpg"
     ],
     "name": "HT20",
+    "names": "HT20",
     "parsedInscription": "𐘂𐘁𐘲𐄁\n𐙂𐙁𐘶𐝃\n𐘿𐙂𐘙𐄁𐘆𐝆\n𐘑𐝄\n𐘞𐘙𐘶𐝄\n𐘮𐝃\n𐜇𐝆",
     "scribe": "HT Scribe 10",
     "site": "Haghia Triada",
@@ -2369,6 +2395,7 @@ var inscriptions = new Map([
         "images/HT21-Inscription.jpg"
     ],
     "name": "HT21",
+    "names": "HT21",
     "parsedInscription": "𐘢𐘳𐘾𐘈𐄁𐘃𐄁𐙉𐄙𐄕𐄇\n𐜋𐄐𐄇\n𐜎𐄉𐝕\n𐙘𐄍𐝕\n𐙋𐄇𐝃",
     "scribe": "HT Scribe 22",
     "site": "Haghia Triada",
@@ -2456,6 +2483,7 @@ var inscriptions = new Map([
         "images/HT22-Inscription.jpg"
     ],
     "name": "HT22",
+    "names": "HT22",
     "parsedInscription": "𐝫\n𐛸𐄚𐄒\n—\n𐜣𐄙𐄐𐄉",
     "scribe": "",
     "site": "Haghia Triada",
@@ -2507,6 +2535,7 @@ var inscriptions = new Map([
         "images/HT23a-Inscription.jpg"
     ],
     "name": "HT23a",
+    "names": "HT23a",
     "parsedInscription": "𐘾𐘅𐄁𐙗𐝁\n𐙜𐝅\n𐜍𐝅\n𐜖𐝅\n𐜏𐝅\n𐛚𐝅\n𐙍𐄐\n𐚹𐄐\n𐚺𐄐\n𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇\n𐘞𐘞𐘋𐝇\n𐛊𐄐\n𐘺𐘘𐄇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -2660,6 +2689,7 @@ var inscriptions = new Map([
         "images/HT23b-Inscription.jpg"
     ],
     "name": "HT23b",
+    "names": "HT23b",
     "parsedInscription": "𐘝𐘴𐙗𐝁\n𐙖𐝫𐝁\n𐛚\n𐝫𐘕𐝫\n𐚻𐝫\n𐚹𐄇\n𐝫\n𐘡𐄍𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -2750,6 +2780,7 @@ var inscriptions = new Map([
         "images/HT24a-Inscription.jpg"
     ],
     "name": "HT24a",
+    "names": "HT24a",
     "parsedInscription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌\n𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆\n𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐙁𐘘𐘋\n𐘘𐘚𐘺𐛢𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -2831,6 +2862,7 @@ var inscriptions = new Map([
         "images/HT24b-Inscription.jpg"
     ],
     "name": "HT24b",
+    "names": "HT24b",
     "parsedInscription": "𐝫𐙈𐄇𐝕\n𐛋𐙈𐄇𐝕\n𐛒𐙈𐄇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -2885,6 +2917,7 @@ var inscriptions = new Map([
         "images/HT25a-Inscription.jpg"
     ],
     "name": "HT25a",
+    "names": "HT25a",
     "parsedInscription": "𐝫\n𐝫𐄇\n𐘆𐘅𐘉𐝫\n𐝫𐘘𐘝𐄇\n𐘉𐘙𐘣𐄇\n𐘆𐘅𐘉𐄇\n𐘇𐘭𐘝𐘳𐄇\n𐘹𐘿𐘯𐝫\n𐝫𐙀𐘶𐘜𐄇\n𐘬𐘘𐘣𐝫\n𐝫𐘚𐘸𐘴𐄇\n𐘂𐄇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -2999,6 +3032,7 @@ var inscriptions = new Map([
         "images/HT25b-Inscription.jpg"
     ],
     "name": "HT25b",
+    "names": "HT25b",
     "parsedInscription": "𐝫\n𐝫\n𐙂𐘁𐄐𐄌\n𐘣𐘃𐘁𐄁𐘚𐘠𐙇𐄑𐄎\n𐙇𐄑𐄊\n𐙂𐘁𐄔𐄈",
     "scribe": "",
     "site": "Haghia Triada",
@@ -3077,6 +3111,7 @@ var inscriptions = new Map([
         "images/HT26a-Inscription.jpg"
     ],
     "name": "HT26a",
+    "names": "HT26a",
     "parsedInscription": "𐜮𐄁\n𐙢𐘃𐘃𐄁\n𐘳𐘠𐄑𐄇\n𐘻𐘸𐘈𐘅𐄐𐄋\n𐘉𐘯𐘐𐄋𐝫\n𐝫",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
@@ -3149,6 +3184,7 @@ var inscriptions = new Map([
         "images/HT26b-Inscription.jpg"
     ],
     "name": "HT26b",
+    "names": "HT26b",
     "parsedInscription": "𐄁𐜮𐄁𐙇𐄏\n𐝫𐘁𐘝𐄉\n𐘾𐘉𐙀𐘝𐄊\n𐛖𐄐𐄈\n𐘚𐙜𐄈𐝫\n𐙓𐙅𐄍𐝫\n𐝫",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
@@ -3239,6 +3275,7 @@ var inscriptions = new Map([
         "images/HT27a-Inscription.jpg"
     ],
     "name": "HT27a",
+    "names": "HT27a",
     "parsedInscription": "𐘠𐘝𐘳𐄁𐙛𐄁\n𐙇𐄘\n𐝫𐄔\n𐙅𐄔𐄇\n𐘙𐄑\n𐝫𐘚𐘻𐘞𐘴𐄓𐄉\n𐝫𐘿𐄑𐄇\n𐘸𐘀𐝫\n𐝫𐘸𐙠𐄁𐙂𐙙𐝫\n𐝫𐘞𐘴𐘆𐄋\n𐙇𐄓𐄈\n𐙂𐘁𐄛𐄒𐄋\n𐙗𐄏𐝕𐝁\n𐘝𐄐𐝁\n𐙍𐄍",
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
@@ -3404,6 +3441,7 @@ var inscriptions = new Map([
         "images/HT27b-Inscription.jpg"
     ],
     "name": "HT27b",
+    "names": "HT27b",
     "parsedInscription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐄁𐙉𐄁𐘞𐄇\n𐘙𐄐𐄊\n𐙍𐄁𐘤𐄁\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊\n𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊\n𐘙𐝫𐄓",
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
@@ -3557,6 +3595,7 @@ var inscriptions = new Map([
         "images/HT28a-Inscription.jpg"
     ],
     "name": "HT28a",
+    "names": "HT28a",
     "parsedInscription": "𐘇𐘤𐘱𐘾𐄁\n𐘱𐘐𐄁𐛱𐄋\n𐜋𐄈\n𐜓𐝆\n𐜗𐄇\n𐜖𐝉\n𐘞𐘽𐜉𐄇\n𐘝𐄈\n𐙍𐄉\n𐛧𐙍𐄌\n𐘇𐘘𐘀𐘴𐙉𐄋\n𐙘𐄈\n𐜉𐄉\n𐘚𐘳𐘱𐜉𐄐",
     "scribe": "HT Scribe 13",
     "site": "Haghia Triada",
@@ -3719,6 +3758,7 @@ var inscriptions = new Map([
         "images/HT28b-Inscription.jpg"
     ],
     "name": "HT28b",
+    "names": "HT28b",
     "parsedInscription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻𐘅𐘤𐄁\n𐘞𐘽𐙉𐄑\n𐜉𐄋\n𐘝𐄈\n𐙍𐄊\n𐘫𐘽𐘝𐄌\n𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉\n𐙍𐄉\n𐝫𐝃",
     "scribe": "HT Scribe 13",
     "site": "Haghia Triada",
@@ -3845,6 +3885,7 @@ var inscriptions = new Map([
         "images/HT29-Inscription.jpg"
     ],
     "name": "HT29",
+    "names": "HT29",
     "parsedInscription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐄇\n𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇\n𐝫𐄁𐝫𐘸𐘳𐄈\n𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -3941,6 +3982,7 @@ var inscriptions = new Map([
         "images/HT30-Inscription.jpg"
     ],
     "name": "HT30",
+    "names": "HT30",
     "parsedInscription": "𐘤𐄊\n𐘞𐘽𐙗𐝫\n𐝫𐄐𐄊𐝆\n𐘝𐄍𐝂\n𐙍𐄎𐝆\n𐜐𐝓\n𐚻𐝂\n𐘞𐘴𐘴𐝆\n𐘖𐄇\n𐘸𐘁𐄁𐙗𐄎\n𐘝𐝓\n𐙍𐝆\n𐘖𐄇𐝫\n𐝫𐝂\n𐜐𐝂\n𐝫",
     "scribe": "HT Scribe 1",
     "site": "Haghia Triada",
@@ -4112,6 +4154,7 @@ var inscriptions = new Map([
         "images/HT31-Inscription.jpg"
     ],
     "name": "HT31",
+    "names": "HT31",
     "parsedInscription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋\n𐚢𐘌𐘰𐄐\n𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐\n𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐\n𐘸𐘦𐙁𐙯𐘅\n𐚢𐄜\n𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
     "scribe": "HT Scribe 12",
     "site": "Haghia Triada",
@@ -4238,6 +4281,7 @@ var inscriptions = new Map([
         "images/HT32-Inscription.jpg"
     ],
     "name": "HT32",
+    "names": "HT32",
     "parsedInscription": "𐙛\n𐘞𐘽𐄁𐙜𐝆\n𐜍𐝆𐝇\n𐚻𐄇𐝇\n𐚹𐄇\n𐛚𐄇\n𐘲𐘙𐄁𐄙𐄎\n𐘆𐄕𐄋\n𐜍𐝫\n𐝫𐘙𐄙𐄊\n𐘆𐄔𐄉",
     "scribe": "HT Scribe 1",
     "site": "Haghia Triada",
@@ -4364,6 +4408,7 @@ var inscriptions = new Map([
         "images/HT33-Inscription.jpg"
     ],
     "name": "HT33",
+    "names": "HT33",
     "parsedInscription": "𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃\n𐚹𐝉𐝋𐝫\n𐝫𐄉\n𐛆𐝃𐝉\n𐛜𐝂\n𐙙𐄘\n𐜦𐄙\n𐛐𐄙",
     "scribe": "HT Scribe 1",
     "site": "Haghia Triada",
@@ -4469,6 +4514,7 @@ var inscriptions = new Map([
         "images/HT34-Inscription.jpg"
     ],
     "name": "HT34",
+    "names": "HT34",
     "parsedInscription": "𐘀𐘶𐘃𐄁𐘤𐛀𐄁\n𐘞𐘽𐄁𐛜𐝫\n𐝫\n𐝫𐝁\n𐘡𐄁𐙉𐄚𐝫\n𐝫𐛅𐄈𐝅𐝇\n𐚻𐝀\n𐚹𐝃\n𐛛𐄚𐄓𐄋\n𐛂𐄙\n𐘰𐄖\n𐘸𐘁𐄒𐄍\n𐛆𐝇\n𐘫𐝄",
     "scribe": "",
     "site": "Haghia Triada",
@@ -4628,6 +4674,7 @@ var inscriptions = new Map([
         "images/HT35-Inscription.jpg"
     ],
     "name": "HT35",
+    "names": "HT35",
     "parsedInscription": "𐘠𐘠𐙂𐄁𐙲𐄁\n𐘚𐙂𐘳𐙗𐄇\n𐛚𐝁\n𐜏𐝁\n𐙜𐝁\n𐜐𐝫\n𐘡𐄋\n𐚻𐝇\n𐙍𐝂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -4736,6 +4783,7 @@ var inscriptions = new Map([
         "images/HT36-Inscription.jpg"
     ],
     "name": "HT36",
+    "names": "HT36",
     "parsedInscription": "𐘧𐘆𐜠𐛱𐄑𐄓𐄊𐝆\n𐘬𐙀𐘮𐄍𐝆\n𐝫\n𐄌",
     "scribe": "",
     "site": "Haghia Triada",
@@ -4796,6 +4844,7 @@ var inscriptions = new Map([
         "images/HT37-Inscription.jpg"
     ],
     "name": "HT37",
+    "names": "HT37",
     "parsedInscription": "𐛛𐄁\n𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐝫\n𐝫𐄌\n𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁\n𐘾𐘸𐄐𐄇\n𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍",
     "scribe": "",
     "site": "Haghia Triada",
@@ -4913,6 +4962,7 @@ var inscriptions = new Map([
         "images/HT38-Inscription.jpg"
     ],
     "name": "HT38",
+    "names": "HT38",
     "parsedInscription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇\n𐙄𐄇\n𐘒𐄉\n𐛞𐙈𐄉\n𐛎𐄈\n𐛏𐄇",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
@@ -5003,6 +5053,7 @@ var inscriptions = new Map([
         "images/HT39-Inscription.jpg"
     ],
     "name": "HT39",
+    "names": "HT39",
     "parsedInscription": "𐘳𐘚𐙌𐄐𐝫\n𐝫𐙂𐘙𐘶𐄎\n𐙂𐝫\n𐝫𐘞𐙁𐘠𐄐\n𐙂𐘙𐝫\n𐝫𐙂𐘁𐜯𐄙\n𐝫𐛤𐄈𐝫\n𐛍𐝫\n𐝫",
     "scribe": "HT Scribe 12",
     "site": "Haghia Triada",
@@ -5096,6 +5147,7 @@ var inscriptions = new Map([
         "images/HT40-Inscription.jpg"
     ],
     "name": "HT40",
+    "names": "HT40",
     "parsedInscription": "𐘯𐘬𐙷𐄁𐘃𐄁𐙉𐄚𐄍\n𐘸𐘀𐘳𐄁𐙉𐝫𐄙𐄒𐄊\n𐙂𐘁𐝫\n𐙂𐝫\n𐝫",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
@@ -5171,6 +5223,7 @@ var inscriptions = new Map([
         "images/HT41a-Inscription.jpg"
     ],
     "name": "HT41a",
+    "names": "HT41a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘿𐘹𐄐\n𐙙𐄁𐙘𐄐\n𐘙𐄁𐙘𐄐\n𐘻𐘀𐘝𐄁𐘂𐘱𐄈𐝂𐝂",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
@@ -5261,6 +5314,7 @@ var inscriptions = new Map([
         "images/HT41b-Inscription.jpg"
     ],
     "name": "HT41b",
+    "names": "HT41b",
     "parsedInscription": "𐝫\n𐝫\n—",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
@@ -5300,6 +5354,7 @@ var inscriptions = new Map([
         "images/HT42+59-Inscription.jpg"
     ],
     "name": "HT42+59",
+    "names": "HT42+59",
     "parsedInscription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎\n𐜋𐝫𐄍\n𐘞𐘁𐜓𐄎\n𐜋𐄈𐝫\n𐝫𐄈\n𐙂𐝫𐝫𐙖𐝫\n𐝫\n𐜗𐄈\n𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓𐝫𐝕\n𐜋𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -5432,6 +5487,7 @@ var inscriptions = new Map([
         "images/HT43-Inscription.jpg"
     ],
     "name": "HT43",
+    "names": "HT43",
     "parsedInscription": "𐙁𐘤𐘬𐄁𐘂𐚂𐘚𐄁𐘚𐄁𐛭𐄋𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -5480,6 +5536,7 @@ var inscriptions = new Map([
         "images/HT44a-Inscription.jpg"
     ],
     "name": "HT44a",
+    "names": "HT44a",
     "parsedInscription": "𐘚𐘌𐙈𐄁𐙉𐝫\n𐜒𐄉\n𐜋𐄋𐝫\n𐜑𐄋\n𐙋𐄇𐝫\n𐝫𐘝𐄇\n𐙍𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -5570,6 +5627,7 @@ var inscriptions = new Map([
         "images/HT44b-Inscription.jpg"
     ],
     "name": "HT44b",
+    "names": "HT44b",
     "parsedInscription": "𐝫𐘱𐄁𐘃𐛵𐝫\n𐝫𐄋\n𐘝𐝫\n𐝫𐙍𐄖𐄋\n𐝫𐄐𐄎\n𐝫𐄐\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -5642,6 +5700,7 @@ var inscriptions = new Map([
         "images/HT45a-Inscription.jpg"
     ],
     "name": "HT45a",
+    "names": "HT45a",
     "parsedInscription": "𐝫\n𐝫𐝉\n𐘂𐝫\n𐝫𐙅𐄁𐙙𐄈𐝫\n𐝫𐙪𐄁𐙙𐄈",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
@@ -5711,6 +5770,7 @@ var inscriptions = new Map([
         "images/HT45b-Inscription.jpg"
     ],
     "name": "HT45b",
+    "names": "HT45b",
     "parsedInscription": "𐝫\n—\n𐝫𐄎𐝂𐝂\n𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍\n𐚺𐝉\n𐘂𐝫𐄁𐝫𐘇𐄑𐝁\n𐄁𐙂𐝃\n𐙂𐝃",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
@@ -5840,6 +5900,7 @@ var inscriptions = new Map([
         "images/HT46a-Inscription.jpg"
     ],
     "name": "HT46a",
+    "names": "HT46a",
     "parsedInscription": "𐝫\n𐝫𐘕𐘘𐄇𐝫\n𐝫𐙂𐘁𐄓𐄉𐝆",
     "scribe": "",
     "site": "Haghia Triada",
@@ -5888,6 +5949,7 @@ var inscriptions = new Map([
         "images/HT46b-Inscription.jpg"
     ],
     "name": "HT46b",
+    "names": "HT46b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄐𐄌𐝆\n𐝫𐄈𐄊",
     "scribe": "",
     "site": "Haghia Triada",
@@ -5936,6 +5998,7 @@ var inscriptions = new Map([
         "images/HT47a-Inscription.jpg"
     ],
     "name": "HT47a",
+    "names": "HT47a",
     "parsedInscription": "𐘾𐝫𐝫𐛗𐄁\n𐙂𐘰𐘅𐘹𐄑𐝫\n𐝫𐘬𐄑𐝫\n𐘉𐝫\n𐝫𐘢𐄐\n𐘸𐘀𐘁𐝫𐝫\n𐝫𐄋\n𐝫𐘻𐘯𐘻",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
@@ -6020,6 +6083,7 @@ var inscriptions = new Map([
         "images/HT47b-Inscription.jpg"
     ],
     "name": "HT47b",
+    "names": "HT47b",
     "parsedInscription": "𐝫𐘴𐘅𐘙𐝫\n𐝫",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
@@ -6053,6 +6117,7 @@ var inscriptions = new Map([
         "images/HT49a-Inscription.jpg"
     ],
     "name": "HT49a",
+    "names": "HT49a",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫\n𐝫𐘭𐄇\n𐘲𐘸𐝫\n𐝫𐄇\n𐘠𐘬𐘝𐄇𐝫\n𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇\n𐚞𐄇\n𐙢𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘲𐘜𐄇\n𐘸𐄇\n—\n𐝫𐄋\n𐘹𐄊\n𐘸𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -6248,6 +6313,7 @@ var inscriptions = new Map([
         "images/HT49b-Inscription.jpg"
     ],
     "name": "HT49b",
+    "names": "HT49b",
     "parsedInscription": "𐝫\n𐝫𐙂𐝫\n𐝫𐘚𐘸𐝫𐝫𐘳\n—\n𐝫\n𐝫𐘾𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -6314,6 +6380,7 @@ var inscriptions = new Map([
         "images/HT50a-Inscription.jpg"
     ],
     "name": "HT50a",
+    "names": "HT50a",
     "parsedInscription": "𐝫\n—\n𐝫𐙉𐝫\n𐝫𐝃\n𐜓𐝃\n𐜗\n𐝆\n𐜎𐝆\n𐙘𐄇𐝆𐝫\n𐝫𐙋𐄉\n𐛺𐝃𐝄",
     "scribe": "",
     "site": "Haghia Triada",
@@ -6419,6 +6486,7 @@ var inscriptions = new Map([
         "images/HT50b-Inscription.jpg"
     ],
     "name": "HT50b",
+    "names": "HT50b",
     "parsedInscription": "𐝫\n𐝫\n𐜓\n𐝫\n𐝫𐜉𐄇𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -6473,6 +6541,7 @@ var inscriptions = new Map([
         "images/HT51a-Inscription.jpg"
     ],
     "name": "HT51a",
+    "names": "HT51a",
     "parsedInscription": "𐝫𐄋\n𐘝𐄁𐘃𐄁\n𐙁𐝫\n𐝫𐘈𐄕𐄊\n𐘠𐘝𐝫\n𐝫𐘙𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -6548,6 +6617,7 @@ var inscriptions = new Map([
         "images/HT51b-Inscription.jpg"
     ],
     "name": "HT51b",
+    "names": "HT51b",
     "parsedInscription": "𐝫𐙂𐘋𐘳𐄐𐄈𐝫\n𐝫𐙀𐘬𐝆𐝄\n𐘤𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -6605,6 +6675,7 @@ var inscriptions = new Map([
         "images/HT52a-Inscription.jpg"
     ],
     "name": "HT52a",
+    "names": "HT52a",
     "parsedInscription": "𐘞𐙁𐄁𐘃𐄁𐝫\n𐝫𐄊\n𐘆𐘾𐘸𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 23",
     "site": "Haghia Triada",
@@ -6665,6 +6736,7 @@ var inscriptions = new Map([
         "images/HT52b-Inscription.jpg"
     ],
     "name": "HT52b",
+    "names": "HT52b",
     "parsedInscription": "𐝫𐘗𐄁𐙉𐄚𐄇𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 23",
     "site": "Haghia Triada",
@@ -6713,6 +6785,7 @@ var inscriptions = new Map([
         "images/HT53a-Inscription.jpg"
     ],
     "name": "HT53a",
+    "names": "HT53a",
     "parsedInscription": "𐝫\n𐝫𐘞𐘗𐝫\n𐝫\n𐝫𐄓\n𐝫𐙖𐝫\n𐝫𐄙\n𐘴𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -6782,6 +6855,7 @@ var inscriptions = new Map([
         "images/HT53b-Inscription.jpg"
     ],
     "name": "HT53b",
+    "names": "HT53b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄐𐄎𐝫\n𐝫\n𐝫𐙂𐘙𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -6839,6 +6913,7 @@ var inscriptions = new Map([
         "images/HT54a-Inscription.jpg"
     ],
     "name": "HT54a",
+    "names": "HT54a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘻𐘅𐘿𐝫\n𐝫𐘸𐘻𐘽𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -6890,6 +6965,7 @@ var inscriptions = new Map([
         "images/HT54b-Inscription.jpg"
     ],
     "name": "HT54b",
+    "names": "HT54b",
     "parsedInscription": "𐝫\n𐝫𐄊\n𐘸𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -6941,6 +7017,7 @@ var inscriptions = new Map([
         "images/HT55a-Inscription.jpg"
     ],
     "name": "HT55a",
+    "names": "HT55a",
     "parsedInscription": "𐝫𐘸𐘁𐄁\n𐙁𐘙𐄇𐝫\n𐝫𐙕𐄇\n𐘤𐘘𐄇\n𐘗𐝫\n𐝫𐘹𐄇𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -7025,6 +7102,7 @@ var inscriptions = new Map([
         "images/HT55b-Inscription.jpg"
     ],
     "name": "HT55b",
+    "names": "HT55b",
     "parsedInscription": "𐝫𐘃𐄇\n𐘿𐝫\n𐝫𐘭𐘱𐄇\n𐘚𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -7088,6 +7166,7 @@ var inscriptions = new Map([
         "images/HT56a-Inscription.jpg"
     ],
     "name": "HT56a",
+    "names": "HT56a",
     "parsedInscription": "𐙓𐄁\n𐘞𐝫\n𐝫𐄐𐄇𐝆\n𐘉𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -7145,6 +7224,7 @@ var inscriptions = new Map([
         "images/HT56b-Inscription.jpg"
     ],
     "name": "HT56b",
+    "names": "HT56b",
     "parsedInscription": "𐜓𐄑𐝫\n—\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -7193,6 +7273,7 @@ var inscriptions = new Map([
         "images/HT57a-Inscription.jpg"
     ],
     "name": "HT57a",
+    "names": "HT57a",
     "parsedInscription": "𐘀𐘿𐘴𐝫\n𐝫𐄇\n𐘇𐝫\n𐝫𐝄𐝫\n𐝫",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
@@ -7244,6 +7325,7 @@ var inscriptions = new Map([
         "images/HT57b-Inscription.jpg"
     ],
     "name": "HT57b",
+    "names": "HT57b",
     "parsedInscription": "𐝫𐙙𐄎\n𐝫\n𐝫",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
@@ -7286,6 +7368,7 @@ var inscriptions = new Map([
         "images/HT58-Inscription.jpg"
     ],
     "name": "HT58",
+    "names": "HT58",
     "parsedInscription": "𐘿𐘠𐘴𐘬𐄁𐙇𐝫\n𐜋𐄐𐄏\n𐜗𐝫\n𐝫𐜎𐄉\n𐙋𐄓𐄇\n𐝫𐘉𐘸𐝫\n𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
@@ -7364,6 +7447,7 @@ var inscriptions = new Map([
         "images/HT60-Inscription.jpg"
     ],
     "name": "HT60",
+    "names": "HT60",
     "parsedInscription": "𐝫\n𐝫𐜏𐝇\n𐛙\n𐝫𐝇\n𐙍𐝇\n𐝃𐄋\n𐚹𐝫\n𐝫𐚻𐝉𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -7445,6 +7529,7 @@ var inscriptions = new Map([
         "images/HT61-Inscription.jpg"
     ],
     "name": "HT61",
+    "names": "HT61",
     "parsedInscription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -7487,6 +7572,7 @@ var inscriptions = new Map([
         "images/HT62+73-Inscription.jpg"
     ],
     "name": "HT62+73",
+    "names": "HT62+73",
     "parsedInscription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫\n𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃\n𐘾𐙂𐄊𐝫\n𐝫𐄐𐄎\n𐘛𐘠𐝫𐄁𐄌\n𐘆𐝫\n𐝫𐄊𐝃\n𐘾𐝫\n𐝫𐙇𐝫𐝫𐄊\n𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n𐝫𐙂𐝫\n𐝫𐄁𐝫𐄇𐝫\n𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -7679,6 +7765,7 @@ var inscriptions = new Map([
         "images/HT63-Inscription.jpg"
     ],
     "name": "HT63",
+    "names": "HT63",
     "parsedInscription": "𐙙𐄁𐘃𐄇\n𐘾𐘠𐄇\n𐘲𐘜𐝫\n𐝫𐙀𐄈\n𐝫\n𐝫",
     "scribe": "HT Scribe 23",
     "site": "Haghia Triada",
@@ -7751,6 +7838,7 @@ var inscriptions = new Map([
         "images/HT64-Inscription.jpg"
     ],
     "name": "HT64",
+    "names": "HT64",
     "parsedInscription": "𐝫\n𐝫𐙂𐙀𐘅𐝫\n𐝫𐘅𐄈\n𐘘𐙁𐝫\n𐝫𐄉\n𐘑𐄌\n𐝫\n𐝫",
     "scribe": "HT Scribe 21",
     "site": "Haghia Triada",
@@ -7826,6 +7914,7 @@ var inscriptions = new Map([
         "images/HT65-Inscription.jpg"
     ],
     "name": "HT65",
+    "names": "HT65",
     "parsedInscription": "𐝫\n𐜤𐝇𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -7862,6 +7951,7 @@ var inscriptions = new Map([
         "images/HT66-Inscription.jpg"
     ],
     "name": "HT66",
+    "names": "HT66",
     "parsedInscription": "𐙀𐄁𐙇𐄁𐝫\n𐝫𐘆𐄈\n𐘳𐝫\n𐝫𐘳𐘻𐝫\n𐝫𐘙𐄇\n𐝫",
     "scribe": "HT Scribe 21",
     "site": "Haghia Triada",
@@ -7934,6 +8024,7 @@ var inscriptions = new Map([
         "images/HT67-Inscription.jpg"
     ],
     "name": "HT67",
+    "names": "HT67",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄜𐄑𐝫\n𐝫𐘝𐄁𐘃𐄜𐝫",
     "scribe": "HT Scribe 23",
     "site": "Haghia Triada",
@@ -7991,6 +8082,7 @@ var inscriptions = new Map([
         "images/HT68-Inscription.jpg"
     ],
     "name": "HT68",
+    "names": "HT68",
     "parsedInscription": "𐝫𐄁𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -8039,6 +8131,7 @@ var inscriptions = new Map([
         "images/HT69-Inscription.jpg"
     ],
     "name": "HT69",
+    "names": "HT69",
     "parsedInscription": "𐝫\n𐝫𐄋\n𐘆𐄎𐝫\n𐝫𐙁𐘆𐄊𐝫\n𐝫𐘆𐄐𐄈𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -8105,6 +8198,7 @@ var inscriptions = new Map([
         "images/HT70-Inscription.jpg"
     ],
     "name": "HT70",
+    "names": "HT70",
     "parsedInscription": "𐝫𐘝𐄁𐘃𐄒𐝫\n𐝫𐘌𐙈𐘞𐄈𐝃𐝫\n𐝫𐘚𐄉𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -8174,6 +8268,7 @@ var inscriptions = new Map([
         "images/HT72-Inscription.jpg"
     ],
     "name": "HT72",
+    "names": "HT72",
     "parsedInscription": "𐘤𐙇𐝫𐄁𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -8216,6 +8311,7 @@ var inscriptions = new Map([
         "images/HT74-Inscription.jpg"
     ],
     "name": "HT74",
+    "names": "HT74",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙂𐘁𐄑𐝫\n𐝫",
     "scribe": "HT Scribe 24",
     "site": "Haghia Triada",
@@ -8264,6 +8360,7 @@ var inscriptions = new Map([
         "images/HT75-Inscription.jpg"
     ],
     "name": "HT75",
+    "names": "HT75",
     "parsedInscription": "𐘾𐘘𐝫\n—\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -8303,6 +8400,7 @@ var inscriptions = new Map([
         "images/HT78-Inscription.jpg"
     ],
     "name": "HT78",
+    "names": "HT78",
     "parsedInscription": "𐝫\n—\n𐝫𐘕𐙢𐝫\n—\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -8354,6 +8452,7 @@ var inscriptions = new Map([
         "images/HT79+83-Inscription.jpg"
     ],
     "name": "HT79+83",
+    "names": "HT79+83",
     "parsedInscription": "𐝫𐘚𐄁𐙙𐝫\n𐝫𐘾𐄁\n𐘀𐘰𐝫\n𐝫𐘹𐘂𐘭𐄇𐝫\n𐝫𐘹𐝫𐄁𐝫𐄉\n𐝫𐙂𐘝𐝫\n𐝫𐙀𐄉\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -8444,6 +8543,7 @@ var inscriptions = new Map([
         "images/HT80-Inscription.jpg"
     ],
     "name": "HT80",
+    "names": "HT80",
     "parsedInscription": "𐝫\n𐝫𐘶𐘴𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 13",
     "site": "Haghia Triada",
@@ -8489,6 +8589,7 @@ var inscriptions = new Map([
         "images/HT81-Inscription.jpg"
     ],
     "name": "HT81",
+    "names": "HT81",
     "parsedInscription": "𐘇𐘈𐄁𐛚𐄁𐝅𐝫\n𐝫𐘭𐘲𐙁𐝋\n𐘸𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -8549,6 +8650,7 @@ var inscriptions = new Map([
         "images/HT82-Inscription.jpg"
     ],
     "name": "HT82",
+    "names": "HT82",
     "parsedInscription": "𐝫\n𐝫𐛮𐝇𐝫\n𐜜𐝃𐝫\n𐝫",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
@@ -8600,6 +8702,7 @@ var inscriptions = new Map([
         "images/HT84-Inscription.jpg"
     ],
     "name": "HT84",
+    "names": "HT84",
     "parsedInscription": "𐘐𐘱𐘬𐝫\n𐝫𐘯𐘠𐄁𐙇𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -8651,6 +8754,7 @@ var inscriptions = new Map([
         "images/HT85a-Inscription.jpg"
     ],
     "name": "HT85a",
+    "names": "HT85a",
     "parsedInscription": "𐘇𐘬𐄁𐜠𐄁𐙇𐄁\n𐘀𐘭𐘀𐄐𐄈\n𐘰𐘝𐄐𐄈\n𐘉𐙱𐘍𐄌\n𐘀𐘤𐙈𐄑𐄊\n𐙂𐙀𐘝𐄋\n𐘃𐘥𐄉\n𐘀𐘙𐄊\n𐙂𐘁𐝫𐝫𐄕𐄌",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -8765,6 +8869,7 @@ var inscriptions = new Map([
         "images/HT85b-Inscription.jpg"
     ],
     "name": "HT85b",
+    "names": "HT85b",
     "parsedInscription": "𐘸𐘸𐘴𐘱𐄁\n𐘸𐘙𐘷𐄇\n𐘿𐘾𐄇\n𐘂𐄇\n𐘃𐘹𐝫𐄇\n𐘾𐄇\n𐘆𐄇\n𐘋𐘍𐄇\n𐘙𐘆𐘈𐄇\n𐘮𐘬𐘝𐘻𐄇\n𐙁𐘆𐄇\n𐘌𐙠𐘚𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -8894,6 +8999,7 @@ var inscriptions = new Map([
         "images/HT86a-Inscription.jpg"
     ],
     "name": "HT86a",
+    "names": "HT86a",
     "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦𐘘𐄑\n𐘌𐘽𐘮𐄐\n—\n𐘇𐘬𐄁\n𐘀𐘋𐛳𐄑\n𐘻𐘯𐘃𐄑",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
@@ -8999,6 +9105,7 @@ var inscriptions = new Map([
         "images/HT86b-Inscription.jpg"
     ],
     "name": "HT86b",
+    "names": "HT86b",
     "parsedInscription": "𐘇𐘾𐘘𐄁\n𐙂𐘝𐘲𐛷𐄑\n𐘞𐘘𐄑\n𐘆𐘦",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
@@ -9056,6 +9163,7 @@ var inscriptions = new Map([
         "images/HT87-Inscription.jpg"
     ],
     "name": "HT87",
+    "names": "HT87",
     "parsedInscription": "𐘐𐘹𐘗𐄁𐙁𐘾𐘭𐘃𐄁\n𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇\n𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇\n𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -9152,6 +9260,7 @@ var inscriptions = new Map([
         "images/HT88-Inscription.jpg"
     ],
     "name": "HT88",
+    "names": "HT88",
     "parsedInscription": "𐘇𐘬𐛧𐄑\n𐘙𐘍𐄌\n𐘝𐄁𐘸𐘸𐘅𐄍\n𐘸𐘁𐄁\n𐙂𐘰𐘰𐄇\n𐘾𐘶𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘱𐘙𐄇\n𐘞𐙁𐘁𐄇\n𐘀𐘳𐘙𐄇\n𐙂𐘁𐄌",
     "scribe": "HT Scribe 7",
     "site": "Haghia Triada",
@@ -9281,6 +9390,7 @@ var inscriptions = new Map([
         "images/HT89-Inscription.jpg"
     ],
     "name": "HT89",
+    "names": "HT89",
     "parsedInscription": "𐘇𐘞𐘽𐄁𐙛𐄁𐙙𐄑𐄉\n𐛕𐄑𐄈\n𐙁𐘚𐘻𐄑𐄊\n𐛩𐄐𐄉\n𐘳𐘴𐄋\n𐙂𐘁𐄗𐄍\n𐙗𐄈𐝕\n𐘝𐄈𐝃\n𐙍𐄌𐝫",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
@@ -9401,6 +9511,7 @@ var inscriptions = new Map([
         "images/HT90-Inscription.jpg"
     ],
     "name": "HT90",
+    "names": "HT90",
     "parsedInscription": "𐘚𐙂𐘭𐘅\n𐘞𐘽𐙉𐄑\n𐘝𐄐\n𐜉𐄉\n𐘤𐘘𐙁𐘭𐘷𐙉𐄇\n𐘝𐄇\n𐜗𐄇\n𐙘𐄇",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
@@ -9497,6 +9608,7 @@ var inscriptions = new Map([
         "images/HT91-Inscription.jpg"
     ],
     "name": "HT91",
+    "names": "HT91",
     "parsedInscription": "𐘚𐘾𐄁𐙲𐄁𐙉𐝎\n𐙘𐝀\n𐄁𐜓𐝀\n𐜋𐝀\n𐜗𐝀\n𐙋𐝀\n𐘝𐝀\n𐙍𐝀\n𐘡𐄋\n𐘃𐘭𐄁𐜗𐝀\n𐘡𐄉𐝫\n𐝫",
     "scribe": "HT Scribe 15",
     "site": "Haghia Triada",
@@ -9644,6 +9756,7 @@ var inscriptions = new Map([
         "images/HT92-Inscription.jpg"
     ],
     "name": "HT92",
+    "names": "HT92",
     "parsedInscription": "𐘃𐄁\n𐘇𐘬𐄁𐙉𐄞𐄗\n𐙘𐄐𐄈",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
@@ -9698,6 +9811,7 @@ var inscriptions = new Map([
         "images/HT93a-Inscription.jpg"
     ],
     "name": "HT93a",
+    "names": "HT93a",
     "parsedInscription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈\n𐘆𐘭𐘅𐄁𐚴𐄓𐄉𐝆\n𐘸𐘆𐘝𐄋𐝆𐝅\n𐘇𐘈𐄁𐘚𐛭𐄑𐄌𐝕\n𐘞𐘽𐄑\n𐘌𐘌𐘘𐄁𐘚𐛭𐄋\n𐙇𐘚𐄌\n𐘦𐘶𐙂𐄇𐝆\n𐘵𐘠𐝫𐄁𐄉\n𐘀𐘭𐘀𐚦𐄈\n𐚃𐄈\n𐘰𐘝𐘅𐝫\n𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫\n𐝫𐘾𐄊",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
@@ -9902,6 +10016,7 @@ var inscriptions = new Map([
         "images/HT93b-Inscription.jpg"
     ],
     "name": "HT93b",
+    "names": "HT93b",
     "parsedInscription": "𐝫𐄙𐄕𐄋𐝅\n𐘸𐘁𐝫",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
@@ -9938,6 +10053,7 @@ var inscriptions = new Map([
         "images/HT94a-Inscription.jpg"
     ],
     "name": "HT94a",
+    "names": "HT94a",
     "parsedInscription": "𐘾𐘂𐙇𐄕𐄈\n𐙅𐄑\n𐛃𐄍\n𐛪𐄐𐄎\n𐘳𐄊\n𐙂𐘁𐄙𐄐\n𐘞𐘽𐙗𐄋\n𐘝𐄉𐝅\n𐝫𐄈\n𐙪𐙚𐄐𐄇\n𐙗𐝂𐝂\n𐘝𐝂𐝂\n𐝫𐄐𐄊𐝆\n𐘝𐝂",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -10091,6 +10207,7 @@ var inscriptions = new Map([
         "images/HT94b-Inscription.jpg"
     ],
     "name": "HT94b",
+    "names": "HT94b",
     "parsedInscription": "𐘸𐘁𐄁\n𐘹𐙁𐄇\n𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇\n𐘥𐘸𐘘𐄇\n𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁\n𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -10211,6 +10328,7 @@ var inscriptions = new Map([
         "images/HT95a-Inscription.jpg"
     ],
     "name": "HT95a",
+    "names": "HT95a",
     "parsedInscription": "𐘀𐘬𐙁𐘳𐄁𐙉\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐘞𐘘𐄑\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄍",
     "scribe": "",
     "site": "Haghia Triada",
@@ -10298,6 +10416,7 @@ var inscriptions = new Map([
         "images/HT95b-Inscription.jpg"
     ],
     "name": "HT95b",
+    "names": "HT95b",
     "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘘𐄐\n𐝫𐄁𐝫\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄐",
     "scribe": "",
     "site": "Haghia Triada",
@@ -10394,6 +10513,7 @@ var inscriptions = new Map([
         "images/HT96a-Inscription.jpg"
     ],
     "name": "HT96a",
+    "names": "HT96a",
     "parsedInscription": "𐘚𐘠𐘠𐙂𐘝𐄁𐘇𐘂𐘴𐘗𐄁𐘇𐙌𐘃𐄁\n𐘤𐘻𐘳𐙉𐄋\n𐘘𐘞𐄊\n𐙯𐙩𐄇\n𐘢𐘳𐘴𐄁𐄇\n𐙯𐚄𐄇\n—\n𐝫𐙂𐙁𐘁𐄁𐄁𐘃𐘝𐄑\n𐝫𐘝𐄈\n—\n𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
@@ -10532,6 +10652,7 @@ var inscriptions = new Map([
         "images/HT96b-Inscription.jpg"
     ],
     "name": "HT96b",
+    "names": "HT96b",
     "parsedInscription": "𐘇𐘂𐘴𐘗𐄁\n𐘌𐙈𐘴𐘙𐄁𐛀𐄁𐙉𐄁𐄓𐝕\n𐜋𐄊\n𐘝𐄈𐝇\n𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
@@ -10616,6 +10737,7 @@ var inscriptions = new Map([
         "images/HT97a-Inscription.jpg"
     ],
     "name": "HT97a",
+    "names": "HT97a",
     "parsedInscription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈\n𐙳𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋\n𐘂𐘚𐘄𐄌\n𐘆𐄊\n𐘅𐘠𐄊\n𐙁𐘆𐄋\n𐘶𐄐𐄋\n𐘸𐄉\n𐙀𐝫𐄋\n𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫\n𐝫𐘇𐄋\n𐝫",
     "scribe": "HT Scribe 7",
     "site": "Haghia Triada",
@@ -10775,6 +10897,7 @@ var inscriptions = new Map([
         "images/HT97b-Inscription.jpg"
     ],
     "name": "HT97b",
+    "names": "HT97b",
     "parsedInscription": "𐘞𐘽",
     "scribe": "HT Scribe 7",
     "site": "Haghia Triada",
@@ -10802,6 +10925,7 @@ var inscriptions = new Map([
         "images/HT98a-Inscription.jpg"
     ],
     "name": "HT98a",
+    "names": "HT98a",
     "parsedInscription": "𐝫\n𐝫𐘦𐄇𐝫\n𐝫𐘹𐄇\n𐘳𐘅𐘠𐝕\n𐘆𐘙𐘆𐘅𐝆\n𐘃𐙕𐝕\n𐘁𐘥𐝆\n𐘾𐘭𐙠𐘚𐝃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -10892,6 +11016,7 @@ var inscriptions = new Map([
         "images/HT98b-Inscription.jpg"
     ],
     "name": "HT98b",
+    "names": "HT98b",
     "parsedInscription": "𐝫\n𐝫𐙓𐝫\n𐝫𐙍𐝕\n𐘀𐘘𐘗𐘃𐝇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -10943,6 +11068,7 @@ var inscriptions = new Map([
         "images/HT99a-Inscription.jpg"
     ],
     "name": "HT99a",
+    "names": "HT99a",
     "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘽𐙗𐄊𐝫\n𐘝𐄊𐝫\n𐙍𐄇𐝅\n𐛱\n𐝫",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
@@ -11018,6 +11144,7 @@ var inscriptions = new Map([
         "images/HT99b-Inscription.jpg"
     ],
     "name": "HT99b",
+    "names": "HT99b",
     "parsedInscription": "𐛉𐘝𐄌\n𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇\n𐘘𐙁𐘳𐄇",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
@@ -11075,6 +11202,7 @@ var inscriptions = new Map([
         "images/HT100-Inscription.jpg"
     ],
     "name": "HT100",
+    "names": "HT100",
     "parsedInscription": "𐝫𐛧𐄔𐄎\n𐜝𐝫𐝫\n𐛃𐄐𐄈\n𐘸𐄈\n𐙙𐄋\n𐛩𐄐𐄌\n𐙂𐘁𐄘𐄍\n𐘞𐘽𐙗𐄋𐝃\n𐘝𐄈𐝂𐝂\n𐙍𐄈𐝆\n𐜋𐄈𐝅\n𐜗𐄉\n𐜍𐝕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -11228,6 +11356,7 @@ var inscriptions = new Map([
         "images/HT101-Inscription.jpg"
     ],
     "name": "HT101",
+    "names": "HT101",
     "parsedInscription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎\n𐜗𐄎\n𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇\n𐙖𐄐\n𐚸𐄉\n𐙂𐘰𐝫𐝫𐜋𐄈\n—\n𐝫𐄑\n𐙘𐄉\n𐜓𐄈𐝫\n𐝫𐄉\n𐙋𐄇𐝃\n𐛺𐄇",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
@@ -11387,6 +11516,7 @@ var inscriptions = new Map([
         "images/HT102-Inscription.jpg"
     ],
     "name": "HT102",
+    "names": "HT102",
     "parsedInscription": "𐘾𐘂\n𐘞𐘽𐙉𐄡𐄖𐄌\n𐘰𐘝𐛭𐄒𐄉𐝫\n𐝫𐙇𐛭𐄒𐄉\n𐘆𐘭𐘅𐄐\n𐙁𐙀𐄉\n𐘣𐄐\n𐘚𐘾𐄋\n𐙂𐘁𐄢𐄕",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
@@ -11495,6 +11625,7 @@ var inscriptions = new Map([
         "images/HT103-Inscription.jpg"
     ],
     "name": "HT103",
+    "names": "HT103",
     "parsedInscription": "𐘉𐘷𐄁𐘝𐄓\n𐘰\n𐘀𐙂𐘈𐘗𐝫𐝫𐄌𐝆\n𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇\n𐘀𐙂𐘈𐘗𐄇\n𐘸𐘴𐄋𐝆",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
@@ -11588,6 +11719,7 @@ var inscriptions = new Map([
         "images/HT104-Inscription.jpg"
     ],
     "name": "HT104",
+    "names": "HT104",
     "parsedInscription": "𐘳𐘂𐄁𐚷𐄁\n𐘀𐙂𐘈𐘗𐘠𐄓𐄋𐝆\n𐘚𐘬𐘠𐄑𐝆\n𐘂𐘀𐘲𐘠𐄑𐄏\n𐙂𐘁𐄘𐄋",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
@@ -11666,6 +11798,7 @@ var inscriptions = new Map([
         "images/HT105-Inscription.jpg"
     ],
     "name": "HT105",
+    "names": "HT105",
     "parsedInscription": "𐘾𐘂𐝫\n𐝫\n𐝫𐙇𐄚𐄒𐄊\n𐘞𐘽𐄁𐙇𐄚𐄒𐄋",
     "scribe": "",
     "site": "Haghia Triada",
@@ -11723,6 +11856,7 @@ var inscriptions = new Map([
         "images/HT106-Inscription.jpg"
     ],
     "name": "HT106",
+    "names": "HT106",
     "parsedInscription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆\n𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
     "scribe": "HT Scribe 19",
     "site": "Haghia Triada",
@@ -11810,6 +11944,7 @@ var inscriptions = new Map([
         "images/HT107-Inscription.jpg"
     ],
     "name": "HT107",
+    "names": "HT107",
     "parsedInscription": "𐝫\n𐝫𐄉𐝫\n𐝫\n𐘃𐄗𐄌\n𐙸𐄍",
     "scribe": "",
     "site": "Haghia Triada",
@@ -11867,6 +12002,7 @@ var inscriptions = new Map([
         "images/HT108-Inscription.jpg"
     ],
     "name": "HT108",
+    "names": "HT108",
     "parsedInscription": "𐘸𐘙𐘳𐘅𐙇𐄇\n𐛶𐄖\n—\n𐘆𐘅𐘁𐄈\n𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐\n𐘶𐝫\n𐝫",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
@@ -11957,6 +12093,7 @@ var inscriptions = new Map([
         "images/HT109-Inscription.jpg"
     ],
     "name": "HT109",
+    "names": "HT109",
     "parsedInscription": "𐝫\n𐝫𐘙𐄊𐝫\n𐝫\n𐝫𐘳𐄊\n𐙂𐘁𐄙𐄑𐄏\n𐘇𐘴𐘶𐄙𐄑𐄉",
     "scribe": "HT Scribe 7",
     "site": "Haghia Triada",
@@ -12026,6 +12163,7 @@ var inscriptions = new Map([
         "images/HT110a-Inscription.jpg"
     ],
     "name": "HT110a",
+    "names": "HT110a",
     "parsedInscription": "𐘤𐘬𐘟𐙂𐘻𐜚𐄑\n𐙂𐘂𐄇\n𐙂𐘁𐄙𐝫\n𐝫𐘝𐄐𐄋𐝫\n𐝫𐄕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -12092,6 +12230,7 @@ var inscriptions = new Map([
         "images/HT110b-Inscription.jpg"
     ],
     "name": "HT110b",
+    "names": "HT110b",
     "parsedInscription": "𐙉𐝫\n𐝫𐘁𐄑\n𐜧𐄉𐝫\n𐝫𐄇\n𐙁𐄋𐝆\n𐝫𐄈\n𐘝𐄇𐝆𐝫\n𐝫𐄇\n𐙁𐄈\n𐙕𐝕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -12197,6 +12336,7 @@ var inscriptions = new Map([
         "images/HT111a-Inscription.jpg"
     ],
     "name": "HT111a",
+    "names": "HT111a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘿𐘾𐄎\n𐘌𐘞𐝫\n𐝫𐘌𐘘𐄎\n𐘆𐄐𐄊𐝫\n𐝫𐘝𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -12275,6 +12415,7 @@ var inscriptions = new Map([
         "images/HT111b-Inscription.jpg"
     ],
     "name": "HT111b",
+    "names": "HT111b",
     "parsedInscription": "𐝫\n𐝫𐄐𐄎\n𐘞𐘆𐄊𐝫\n𐝫𐄉\n𐘿𐝫\n𐘅𐝫𐝫𐘝𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -12347,6 +12488,7 @@ var inscriptions = new Map([
         "images/HT112a-Inscription.jpg"
     ],
     "name": "HT112a",
+    "names": "HT112a",
     "parsedInscription": "𐘐𐝫\n𐝫𐘹𐘂𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -12392,6 +12534,7 @@ var inscriptions = new Map([
         "images/HT112b-Inscription.jpg"
     ],
     "name": "HT112b",
+    "names": "HT112b",
     "parsedInscription": "𐝫𐙗𐄌𐝫\n𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -12440,6 +12583,7 @@ var inscriptions = new Map([
         "images/HT113-Inscription.jpg"
     ],
     "name": "HT113",
+    "names": "HT113",
     "parsedInscription": "𐘴𐘭𐘦𐝫\n𐝫𐘣𐘞𐄁𐝫𐝫𐄐𐄐𐄐\n𐘵𐄈𐝆\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -12497,6 +12641,7 @@ var inscriptions = new Map([
         "images/HT113ter-Inscription.jpg"
     ],
     "name": "HT113ter",
+    "names": "HT113ter",
     "parsedInscription": "𐝫𐘻𐝫\n𐝫𐄊𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -12536,6 +12681,7 @@ var inscriptions = new Map([
         "images/HT114a-Inscription.jpg"
     ],
     "name": "HT114a",
+    "names": "HT114a",
     "parsedInscription": "𐘸𐘭𐘷\n𐘞𐘽𐙉𐄐\n𐙖𐄍\n𐘝𐄇\n𐙍𐄇\n𐘖𐄉",
     "scribe": "HT Scribe 4",
     "site": "Haghia Triada",
@@ -12611,6 +12757,7 @@ var inscriptions = new Map([
         "images/HT114b-Inscription.jpg"
     ],
     "name": "HT114b",
+    "names": "HT114b",
     "parsedInscription": "𐘞𐙍𐄏",
     "scribe": "HT Scribe 4",
     "site": "Haghia Triada",
@@ -12641,6 +12788,7 @@ var inscriptions = new Map([
         "images/HT115a-Inscription.jpg"
     ],
     "name": "HT115a",
+    "names": "HT115a",
     "parsedInscription": "𐘨𐘯𐘴𐘱𐄁𐘚𐄁𐛯\n𐘭𐘳𐙁𐘯𐘣𐄈\n𐙕𐘉𐘴\n𐘅𐘐𐘗𐘻𐘅𐄇\n𐘈𐙂𐘹𐝆\n𐘂𐘴𐘗𐄇\n𐘇𐘈𐘱𐝂𐝂𐝂𐝂\n𐘾𐘊𐘘𐄇\n𐘭𐘲𐙁𐝫\n𐘲𐄈𐝂𐝫\n𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
@@ -12764,6 +12912,7 @@ var inscriptions = new Map([
         "images/HT115b-Inscription.jpg"
     ],
     "name": "HT115b",
+    "names": "HT115b",
     "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
@@ -12878,6 +13027,7 @@ var inscriptions = new Map([
         "images/HT116a-Inscription.jpg"
     ],
     "name": "HT116a",
+    "names": "HT116a",
     "parsedInscription": "𐘉𐘳𐘁𐄁𐘃𐄁\n𐙂𐘂𐘱𐙉𐄐𐄌\n𐘫𐘽𐄁𐙉𐄓\n𐜉𐄋\n𐛉𐙉𐄐𐄌\n𐜓𐄇\n𐜗𐄌\n𐙋𐄉\n𐘢𐘟𐘃𐙉𐄋\n𐙖𐝫𐄋\n𐜗𐄇\n𐛺𐄈\n𐘤𐘸𐘗𐙉𐄐𐄈\n𐙘𐄐𐄈\n𐘌𐘯𐙁𐙉𐄑\n𐙘𐄉",
     "scribe": "",
     "site": "Haghia Triada",
@@ -13070,6 +13220,7 @@ var inscriptions = new Map([
         "images/HT116b-Inscription.jpg"
     ],
     "name": "HT116b",
+    "names": "HT116b",
     "parsedInscription": "𐙂𐘁𐙉𐄙𐝫\n𐙘𐄐𐄋\n𐙖𐄐𐄍",
     "scribe": "",
     "site": "Haghia Triada",
@@ -13121,6 +13272,7 @@ var inscriptions = new Map([
         "images/HT117a-Inscription.jpg"
     ],
     "name": "HT117a",
+    "names": "HT117a",
     "parsedInscription": "𐙁𐘾𐘭𐘃𐄁𐘸𐘁𐄁𐘉𐘻𐘅𐘤𐄁\n𐘉𐘲𐄇\n𐘻𐘹𐄇\n𐙂𐘴𐘕𐄇\n𐙁𐘘𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘶𐙁𐄇\n𐘉𐘆𐘻𐄇\n𐘻𐘘𐘳𐘴𐘙𐄇\n𐘃𐘱𐘙𐄇\n𐘅𐘀𐘙𐄇\n𐙂𐘁𐄐\n—\n𐘞𐘳𐄁\n𐙂𐙂𐘀𐘴𐄇\n𐘺𐘞𐘚𐘠𐄇\n𐘀𐘻𐘯𐄇\n𐘀𐘗𐙂𐘠𐄇\n𐘸𐘀𐘁𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -13322,6 +13474,7 @@ var inscriptions = new Map([
         "images/HT117b-Inscription.jpg"
     ],
     "name": "HT117b",
+    "names": "HT117b",
     "parsedInscription": "𐘐𐘹𐘗𐄁\n𐙂𐘙𐘶𐄇\n𐘆𐘸𐘈𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -13370,6 +13523,7 @@ var inscriptions = new Map([
         "images/HT118-Inscription.jpg"
     ],
     "name": "HT118",
+    "names": "HT118",
     "parsedInscription": "𐙄𐄁𐛀𐄁\n𐙁𐘆𐄐𐄋\n𐘸𐄐\n𐘌𐘌𐘘𐄌\n𐘸𐄊\n𐘇𐘭𐘲𐄊\n𐘸𐄇\n𐘭𐘘𐙁𐄐\n𐙂𐘁𐄒\n𐘸𐄐𐄋𐝫",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
@@ -13487,6 +13641,7 @@ var inscriptions = new Map([
         "images/HT119-Inscription.jpg"
     ],
     "name": "HT119",
+    "names": "HT119",
     "parsedInscription": "𐙳𐄒𐄊\n𐙇𐄕𐄍\n𐘭𐘻𐘤𐄐𐄉\n𐘺𐘱𐄐\n𐙂𐘰𐘅𐘹𐄍\n𐘠𐄍\n𐘱𐚅𐄐\n𐙚𐘹𐄈\n𐙳𐘶𐄎\n𐙂𐘁𐄙𐄕",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -13598,6 +13753,7 @@ var inscriptions = new Map([
         "images/HT120-Inscription.jpg"
     ],
     "name": "HT120",
+    "names": "HT120",
     "parsedInscription": "𐘀𐘿𐘴𐄁\n𐘀𐘋𐛷𐄖𐄊\n𐛭𐄕𐄈𐝆𐝀\n𐘀𐘉𐘪𐄁𐘚𐛭𐄑\n𐘸𐘙𐘳𐘅𐛳𐄕\n𐛭𐄓𐄎\n𐘂𐘚𐘄𐄉𐝂",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
@@ -13700,6 +13856,7 @@ var inscriptions = new Map([
         "images/HT121-Inscription.jpg"
     ],
     "name": "HT121",
+    "names": "HT121",
     "parsedInscription": "𐘸𐘭𐘷𐜘𐄐\n𐘞𐘽𐙉𐄋\n𐙖𐄊\n𐘝𐄈\n𐙍𐄉\n𐘖𐄉",
     "scribe": "HT Scribe 4",
     "site": "Haghia Triada",
@@ -13781,6 +13938,7 @@ var inscriptions = new Map([
         "images/HT122a-Inscription.jpg"
     ],
     "name": "HT122a",
+    "names": "HT122a",
     "parsedInscription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈𐝫\n𐝫𐄈\n𐘀𐘤𐙈𐄈\n𐘂𐝫𐄁𐝫\n𐝫𐘆𐄇\n𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉\n𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇\n𐙰𐘆𐘴𐄇\n𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘳𐘗𐄇\n𐙚𐘹𐄇\n𐝫𐘬𐄇\n𐙂𐘰𐘯𐄇\n𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇\n𐙂𐘀𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -13976,6 +14134,7 @@ var inscriptions = new Map([
         "images/HT122b-Inscription.jpg"
     ],
     "name": "HT122b",
+    "names": "HT122b",
     "parsedInscription": "𐘧𐘆𐄁𐚆𐄁𐙇𐝫\n𐝫𐙚𐘸𐘷𐄍𐝫\n𐝫𐘇𐘴𐘶𐘉𐘦𐘍𐄈\n𐘌𐘌𐘘𐄈\n𐘆𐄈\n𐘀𐘙𐄈\n𐙂𐘁𐄕𐄋\n𐘊𐘄𐙂𐘁𐄘𐄍",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -14078,6 +14237,7 @@ var inscriptions = new Map([
         "images/HT123+124a-Inscription.jpg"
     ],
     "name": "HT123+124a",
+    "names": "HT123+124a",
     "parsedInscription": "𐘸𐘳𐘚𐄁𐙋𐄒𐄇\n𐙜𐄎𐝃\n𐘸𐘁𐄇𐝎\n𐘫𐙍𐙋𐄒𐄇𐝆\n𐙜𐄎𐝕\n𐘸𐘁𐝎\n𐘞𐘘𐙋𐄐𐄌\n𐙜𐄊𐝀𐝫\n𐝫𐘸𐘁𐝕\n𐘀𐘹𐙋𐄐𐄋\n𐙜𐄊𐝃\n𐘸𐘁𐝕\n𐙂𐘁𐙋𐄘𐄉𐝆\n𐙜𐄁\n𐙂𐘁𐝫𐄑𐄋𐝅\n𐘸𐘁𐄌𐝫",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
@@ -14285,6 +14445,7 @@ var inscriptions = new Map([
         "images/HT123+124b-Inscription.jpg"
     ],
     "name": "HT123+124b",
+    "names": "HT123+124b",
     "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
@@ -14417,6 +14578,7 @@ var inscriptions = new Map([
         "images/HT125a-Inscription.jpg"
     ],
     "name": "HT125a",
+    "names": "HT125a",
     "parsedInscription": "𐝫\n𐝫𐘽𐝫\n𐝫𐜓𐄇𐝂\n𐜋𐝫\n𐝫𐜗𐄇𐝆𐝫\n𐝫𐘞𐘽𐙉𐄈\n𐙖𐝫𐄇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -14501,6 +14663,7 @@ var inscriptions = new Map([
         "images/HT125b-Inscription.jpg"
     ],
     "name": "HT125b",
+    "names": "HT125b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄑\n𐝫𐘙𐘷𐛭𐄑\n𐛵𐄍𐝆\n𐙘𐄐\n𐘝𐄑𐄉",
     "scribe": "",
     "site": "Haghia Triada",
@@ -14582,6 +14745,7 @@ var inscriptions = new Map([
         "images/HT126a-Inscription.jpg"
     ],
     "name": "HT126a",
+    "names": "HT126a",
     "parsedInscription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇\n𐘉𐝫\n𐝫𐝆\n𐘤𐘆𐘱𐄇𐝫\n𐝫𐘉𐘪𐄇\n𐘢𐝫\n𐝫𐄕𐄈𐝫\n𐝫𐄈𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -14684,6 +14848,7 @@ var inscriptions = new Map([
         "images/HT126b-Inscription.jpg"
     ],
     "name": "HT126b",
+    "names": "HT126b",
     "parsedInscription": "𐝫𐙙𐄉\n𐝫𐄌\n𐙆𐄊\n𐄁𐘐𐝫\n𐝫\n𐝫𐙆𐝫\n𐝫𐘹𐄌\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -14765,6 +14930,7 @@ var inscriptions = new Map([
         "images/HT127a-Inscription.jpg"
     ],
     "name": "HT127a",
+    "names": "HT127a",
     "parsedInscription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -14810,6 +14976,7 @@ var inscriptions = new Map([
         "images/HT127b-Inscription.jpg"
     ],
     "name": "HT127b",
+    "names": "HT127b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘗𐄐𐄉𐝫\n𐙂𐘁𐙛𐄙𐄔𐄌\n𐙂𐄖𐄈\n𐛫𐄑𐄊\n𐛖𐄐𐄋\n𐙕𐄐𐄇\n𐛖𐄐𐄊\n𐙂𐘁𐄚𐄘𐄈",
     "scribe": "",
     "site": "Haghia Triada",
@@ -14918,6 +15085,7 @@ var inscriptions = new Map([
         "images/HT128a-Inscription.jpg"
     ],
     "name": "HT128a",
+    "names": "HT128a",
     "parsedInscription": "𐙲𐄁\n𐘂𐘴\n𐘹𐘘𐘯𐘈𐘋𐙉𐝫𐄐\n𐘮𐘹𐙁𐘙𐛲𐄐𐄈𐝫\n𐝫𐘻𐘳𐛭𐝆𐝫\n𐛲𐄌\n𐘆𐝫\n𐛲𐄊\n𐙁𐘭𐝫\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -15026,6 +15194,7 @@ var inscriptions = new Map([
         "images/HT128b-Inscription.jpg"
     ],
     "name": "HT128b",
+    "names": "HT128b",
     "parsedInscription": "𐛲𐄌\n𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -15092,6 +15261,7 @@ var inscriptions = new Map([
         "images/HT129-Inscription.jpg"
     ],
     "name": "HT129",
+    "names": "HT129",
     "parsedInscription": "𐘸𐘙𐘷𐙉𐄒𐄉𐝆𐝁\n𐙘𐄐\n𐘝𐄑𐄈\n𐘹𐘐𐘭𐘅𐙉𐄓𐝆\n𐜉𐄇𐝫\n𐝫𐜓𐄌\n𐝫𐙖𐝫\n𐝫",
     "scribe": "HT Scribe 15",
     "site": "Haghia Triada",
@@ -15191,6 +15361,7 @@ var inscriptions = new Map([
         "images/HT130-Inscription.jpg"
     ],
     "name": "HT130",
+    "names": "HT130",
     "parsedInscription": "𐝫\n𐝫𐘤𐄉\n𐘞𐘽𐙗𐝫\n𐝫\n𐝫𐘽𐝫\n𐝫𐙂𐘁𐝫\n—\n𐘤𐙗𐄎\n𐘝𐄌\n𐙍𐄉",
     "scribe": "HT Scribe 19",
     "site": "Haghia Triada",
@@ -15287,6 +15458,7 @@ var inscriptions = new Map([
         "images/HT131a-Inscription.jpg"
     ],
     "name": "HT131a",
+    "names": "HT131a",
     "parsedInscription": "𐝫\n𐝫𐘝𐄕𐄈\n𐙂𐝫\n𐝫𐄛𐄔𐄉\n𐘚𐘌𐙈𐙉𐄔𐄎𐝫\n𐝫𐙖𐄐𐄈𐝆\n𐙘𐄐𐄈𐝕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -15371,6 +15543,7 @@ var inscriptions = new Map([
         "images/HT131b-Inscription.jpg"
     ],
     "name": "HT131b",
+    "names": "HT131b",
     "parsedInscription": "𐝫\n𐝫𐘝𐄒𐝫\n𐝫𐙋𐄈\n𐛼𐝫\n—\n𐘊𐘄𐙂𐘁𐝫𐄜𐄔𐄈𐝆𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -15440,6 +15613,7 @@ var inscriptions = new Map([
         "images/HT132-Inscription.jpg"
     ],
     "name": "HT132",
+    "names": "HT132",
     "parsedInscription": "𐘇𐘈𐄁𐙫𐄋\n𐘌𐘙𐘄𐄁𐘓𐄑𐄍\n𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -15518,6 +15692,7 @@ var inscriptions = new Map([
         "images/HT133-Inscription.jpg"
     ],
     "name": "HT133",
+    "names": "HT133",
     "parsedInscription": "𐘇𐘬𐄁𐘃𐛬𐄔𐄋",
     "scribe": "HT Scribe 22",
     "site": "Haghia Triada",
@@ -15557,6 +15732,7 @@ var inscriptions = new Map([
         "images/HT135a-Inscription.jpg"
     ],
     "name": "HT135a",
+    "names": "HT135a",
     "parsedInscription": "𐝫\n𐝫𐘗𐘻𐘅𐄐𐝫\n𐝫𐘻𐘹𐄁\n𐘻𐘾𐝫\n𐝫𐄇\n𐘅𐘐𐘗𐝫\n𐝫𐘻𐄈",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -15629,6 +15805,7 @@ var inscriptions = new Map([
         "images/HT135b-Inscription.jpg"
     ],
     "name": "HT135b",
+    "names": "HT135b",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
@@ -15671,6 +15848,7 @@ var inscriptions = new Map([
         "images/HT136a-Inscription.jpg"
     ],
     "name": "HT136a",
+    "names": "HT136a",
     "parsedInscription": "𐝫𐘓𐄒𐝫\n𐝫𐄑𐄉𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -15713,6 +15891,7 @@ var inscriptions = new Map([
         "images/HT136b-Inscription.jpg"
     ],
     "name": "HT136b",
+    "names": "HT136b",
     "parsedInscription": "𐝫\n𐝫𐄑𐄊𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -15752,6 +15931,7 @@ var inscriptions = new Map([
         "images/HT137-Inscription.jpg"
     ],
     "name": "HT137",
+    "names": "HT137",
     "parsedInscription": "𐝫\n𐝫𐘷𐙉𐝫𐄉𐝫\n𐜗𐄌𐝫\n𐝫𐙖𐄈\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -15815,6 +15995,7 @@ var inscriptions = new Map([
         "images/HT139-Inscription.jpg"
     ],
     "name": "HT139",
+    "names": "HT139",
     "parsedInscription": "𐝫𐘫𐙁𐙂𐝫\n𐝫𐙉𐝫𐄇\n𐙖𐝆\n𐝫𐘾𐘽𐝫\n𐝫",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
@@ -15872,6 +16053,7 @@ var inscriptions = new Map([
         "images/HT140-Inscription.jpg"
     ],
     "name": "HT140",
+    "names": "HT140",
     "parsedInscription": "𐘉𐘟𐘤𐄁\n𐙅𐘤𐘝𐄁𐄇𐝫\n𐘧𐘆𐄁𐜓𐄇𐝆\n𐄁\n𐘉𐘟𐘤𐝫𐄁𐝫\n𐙅𐘤𐙈𐘾𐄉\n𐘾𐝫\n𐝫𐙁𐝫\n𐝫𐘾𐝫\n𐝫𐄊\n𐜋𐄉\n𐘾𐄇\n𐜋𐄇\n𐝫𐘾𐄇\n𐜋𐄈\n𐘾𐘂𐝆𐝫\n𐝫𐜋𐄌𐝆",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
@@ -16046,6 +16228,7 @@ var inscriptions = new Map([
         "images/HT141-Inscription.jpg"
     ],
     "name": "HT141",
+    "names": "HT141",
     "parsedInscription": "𐝫\n𐝫𐄇\n𐘇𐘭𐝫\n𐝫𐘘𐘆𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16097,6 +16280,7 @@ var inscriptions = new Map([
         "images/HT142-Inscription.jpg"
     ],
     "name": "HT142",
+    "names": "HT142",
     "parsedInscription": "𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16148,6 +16332,7 @@ var inscriptions = new Map([
         "images/HT144-Inscription.jpg"
     ],
     "name": "HT144",
+    "names": "HT144",
     "parsedInscription": "𐝫𐄁𐘵𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
@@ -16190,6 +16375,7 @@ var inscriptions = new Map([
         "images/HT146-Inscription.jpg"
     ],
     "name": "HT146",
+    "names": "HT146",
     "parsedInscription": "𐝫\n𐝫𐘿𐝫𐝫𐄒\n𐘭𐙙𐄒\n𐙁𐄒\n𐘭𐘾𐘳𐄒",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16253,6 +16439,7 @@ var inscriptions = new Map([
         "images/HT147-Inscription.jpg"
     ],
     "name": "HT147",
+    "names": "HT147",
     "parsedInscription": "𐝫\n𐝫𐘴𐝅\n𐝫𐝆\n𐝫𐘝𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16307,6 +16494,7 @@ var inscriptions = new Map([
         "images/HT154.-Inscription.jpg"
     ],
     "name": "HT154.",
+    "names": "HT154.",
     "parsedInscription": "𐛀𐄁\n𐘠𐝫\n𐝫𐄙\n𐝫𐄍𐝫\n𐝫𐄓𐝫\n𐘸𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16373,6 +16561,7 @@ var inscriptions = new Map([
         "images/HT154a-Inscription.jpg"
     ],
     "name": "HT154a",
+    "names": "HT154a",
     "parsedInscription": "𐝫𐘹𐘋𐘂𐘱𐝫\n𐝫𐙋𐝫\n𐝫𐙉𐝫\n𐝫\n𐝫𐙂𐄌𐝫\n𐝫𐘳𐄌",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16436,6 +16625,7 @@ var inscriptions = new Map([
         "images/HT154b-Inscription.jpg"
     ],
     "name": "HT154b",
+    "names": "HT154b",
     "parsedInscription": "𐝫𐄁𐙉",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16466,6 +16656,7 @@ var inscriptions = new Map([
         "images/HT154c-Inscription.jpg"
     ],
     "name": "HT154c",
+    "names": "HT154c",
     "parsedInscription": "𐝫\n𐝫𐘅𐝫\n𐝫𐄈𐝆𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16508,6 +16699,7 @@ var inscriptions = new Map([
         "images/HT154e-Inscription.jpg"
     ],
     "name": "HT154e",
+    "names": "HT154e",
     "parsedInscription": "𐝫\n𐝫𐘝𐄐𐄊𐝫\n𐝫𐄉𐝃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16553,6 +16745,7 @@ var inscriptions = new Map([
         "images/HT154g-Inscription.jpg"
     ],
     "name": "HT154g",
+    "names": "HT154g",
     "parsedInscription": "𐝫\n𐝫𐄌𐝆𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16589,6 +16782,7 @@ var inscriptions = new Map([
         "images/HT154ja-Inscription.jpg"
     ],
     "name": "HT154ja",
+    "names": "HT154ja",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘯𐘃𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16634,6 +16828,7 @@ var inscriptions = new Map([
         "images/HT154jb-Inscription.jpg"
     ],
     "name": "HT154jb",
+    "names": "HT154jb",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16673,6 +16868,7 @@ var inscriptions = new Map([
         "images/HT154k-Inscription.jpg"
     ],
     "name": "HT154k",
+    "names": "HT154k",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄈\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16718,6 +16914,7 @@ var inscriptions = new Map([
         "images/HT154l-Inscription.jpg"
     ],
     "name": "HT154l",
+    "names": "HT154l",
     "parsedInscription": "𐝫\n𐝫𐄈𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16751,6 +16948,7 @@ var inscriptions = new Map([
         "images/HT154m-Inscription.jpg"
     ],
     "name": "HT154m",
+    "names": "HT154m",
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16784,6 +16982,7 @@ var inscriptions = new Map([
         "images/HT154n-Inscription.jpg"
     ],
     "name": "HT154n",
+    "names": "HT154n",
     "parsedInscription": "𐝫\n𐝫𐘤𐝫\n𐝫𐄌\n𐘤𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16837,6 +17036,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTW231a",
+    "names": "HTW231a",
     "parsedInscription": "𐙋",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16860,6 +17060,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTW231b",
+    "names": "HTW231b",
     "parsedInscription": "𐙓",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16883,6 +17084,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTW231c",
+    "names": "HTW231c",
     "parsedInscription": "𐝫𐄁𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16912,6 +17114,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTW231d-f",
+    "names": "HTW231d-f",
     "parsedInscription": "",
     "scribe": "",
     "site": "Haghia Triada",
@@ -16933,6 +17136,7 @@ var inscriptions = new Map([
         "images/HTWa1001-Inscription.jpg"
     ],
     "name": "HTWa1001",
+    "names": "HTWa1001",
     "parsedInscription": "𐘀𐘾",
     "scribe": "HT Wa Scribe 50",
     "site": "Haghia Triada",
@@ -16960,6 +17164,7 @@ var inscriptions = new Map([
         "images/HTWa1002-Inscription.jpg"
     ],
     "name": "HTWa1002",
+    "names": "HTWa1002",
     "parsedInscription": "𐘀𐘾",
     "scribe": "HT Wa Scribe 50",
     "site": "Haghia Triada",
@@ -16987,6 +17192,7 @@ var inscriptions = new Map([
         "images/HTWa1003-Inscription.jpg"
     ],
     "name": "HTWa1003",
+    "names": "HTWa1003",
     "parsedInscription": "𐘀𐘾",
     "scribe": "HT Wa Scribe 50",
     "site": "Haghia Triada",
@@ -17014,6 +17220,7 @@ var inscriptions = new Map([
         "images/HTWa1004-Inscription.jpg"
     ],
     "name": "HTWa1004",
+    "names": "HTWa1004",
     "parsedInscription": "𐘀𐘾",
     "scribe": "HT Wa Scribe 50",
     "site": "Haghia Triada",
@@ -17041,6 +17248,7 @@ var inscriptions = new Map([
         "images/HTWa1005-Inscription.jpg"
     ],
     "name": "HTWa1005",
+    "names": "HTWa1005",
     "parsedInscription": "𐘀𐘾",
     "scribe": "HT Wa Scribe 51",
     "site": "Haghia Triada",
@@ -17068,6 +17276,7 @@ var inscriptions = new Map([
         "images/HTWa1006-Inscription.jpg"
     ],
     "name": "HTWa1006",
+    "names": "HTWa1006",
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 52",
     "site": "Haghia Triada",
@@ -17095,6 +17304,7 @@ var inscriptions = new Map([
         "images/HTWa1007-Inscription.jpg"
     ],
     "name": "HTWa1007",
+    "names": "HTWa1007",
     "parsedInscription": "𐘚𐘽",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17122,6 +17332,7 @@ var inscriptions = new Map([
         "images/HTWa1008-Inscription.jpg"
     ],
     "name": "HTWa1008",
+    "names": "HTWa1008",
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 53",
     "site": "Haghia Triada",
@@ -17149,6 +17360,7 @@ var inscriptions = new Map([
         "images/HTWa1009-Inscription.jpg"
     ],
     "name": "HTWa1009",
+    "names": "HTWa1009",
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 53",
     "site": "Haghia Triada",
@@ -17176,6 +17388,7 @@ var inscriptions = new Map([
         "images/HTWa1010-Inscription.jpg"
     ],
     "name": "HTWa1010",
+    "names": "HTWa1010",
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 53",
     "site": "Haghia Triada",
@@ -17203,6 +17416,7 @@ var inscriptions = new Map([
         "images/HTWa1011-Inscription.jpg"
     ],
     "name": "HTWa1011",
+    "names": "HTWa1011",
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 52",
     "site": "Haghia Triada",
@@ -17230,6 +17444,7 @@ var inscriptions = new Map([
         "images/HTWa1012-Inscription.jpg"
     ],
     "name": "HTWa1012",
+    "names": "HTWa1012",
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 52",
     "site": "Haghia Triada",
@@ -17257,6 +17472,7 @@ var inscriptions = new Map([
         "images/HTWa1013-Inscription.jpg"
     ],
     "name": "HTWa1013",
+    "names": "HTWa1013",
     "parsedInscription": "𐘚𐘽",
     "scribe": "HT Wa Scribe 53",
     "site": "Haghia Triada",
@@ -17284,6 +17500,7 @@ var inscriptions = new Map([
         "images/HTWa1014-Inscription.jpg"
     ],
     "name": "HTWa1014",
+    "names": "HTWa1014",
     "parsedInscription": "𐘤𐘾",
     "scribe": "HT Wa Scribe 54",
     "site": "Haghia Triada",
@@ -17311,6 +17528,7 @@ var inscriptions = new Map([
         "images/HTWa1015-Inscription.jpg"
     ],
     "name": "HTWa1015",
+    "names": "HTWa1015",
     "parsedInscription": "𐘤𐘾",
     "scribe": "HT Wa Scribe 54",
     "site": "Haghia Triada",
@@ -17338,6 +17556,7 @@ var inscriptions = new Map([
         "images/HTWa1016-Inscription.jpg"
     ],
     "name": "HTWa1016",
+    "names": "HTWa1016",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17365,6 +17584,7 @@ var inscriptions = new Map([
         "images/HTWa1017-Inscription.jpg"
     ],
     "name": "HTWa1017",
+    "names": "HTWa1017",
     "parsedInscription": "𐘤𐘾",
     "scribe": "HT Wa Scribe 51",
     "site": "Haghia Triada",
@@ -17392,6 +17612,7 @@ var inscriptions = new Map([
         "images/HTWa1018-Inscription.jpg"
     ],
     "name": "HTWa1018",
+    "names": "HTWa1018",
     "parsedInscription": "𐘤𐘾",
     "scribe": "HT Wa Scribe 54",
     "site": "Haghia Triada",
@@ -17421,6 +17642,7 @@ var inscriptions = new Map([
         "images/HTWa1019a-Inscription.jpg"
     ],
     "name": "HTWa1019",
+    "names": "HTWa1019",
     "parsedInscription": "𐘂𐘳𐘗\n𐘤𐘹",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17454,6 +17676,7 @@ var inscriptions = new Map([
         "images/HTWa1020-Inscription.jpg"
     ],
     "name": "HTWa1020",
+    "names": "HTWa1020",
     "parsedInscription": "𐜝𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17493,6 +17716,7 @@ var inscriptions = new Map([
         "images/HTWa1021-Inscription.jpg"
     ],
     "name": "HTWa1021",
+    "names": "HTWa1021",
     "parsedInscription": "𐙓𐘬𐄁\n𐝕\n𐛉𐛔",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17535,6 +17759,7 @@ var inscriptions = new Map([
         "images/HTWa1021bis-Inscription.jpg"
     ],
     "name": "HTWa1021bis",
+    "names": "HTWa1021bis",
     "parsedInscription": "𐜝𐜙𐄉",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17565,6 +17790,7 @@ var inscriptions = new Map([
         "images/HTWa1022-Inscription.jpg"
     ],
     "name": "HTWa1022",
+    "names": "HTWa1022",
     "parsedInscription": "𐛁",
     "scribe": "HT Wa Scribe 55",
     "site": "Haghia Triada",
@@ -17592,6 +17818,7 @@ var inscriptions = new Map([
         "images/HTWa1023-Inscription.jpg"
     ],
     "name": "HTWa1023",
+    "names": "HTWa1023",
     "parsedInscription": "𐝃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17619,6 +17846,7 @@ var inscriptions = new Map([
         "images/HTWa1024-Inscription.jpg"
     ],
     "name": "HTWa1024",
+    "names": "HTWa1024",
     "parsedInscription": "𐝃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17646,6 +17874,7 @@ var inscriptions = new Map([
         "images/HTWa1025-Inscription.jpg"
     ],
     "name": "HTWa1025",
+    "names": "HTWa1025",
     "parsedInscription": "𐝆𐙕",
     "scribe": "HT Wa Scribe 57",
     "site": "Haghia Triada",
@@ -17673,6 +17902,7 @@ var inscriptions = new Map([
         "images/HTWa1026-Inscription.jpg"
     ],
     "name": "HTWa1026",
+    "names": "HTWa1026",
     "parsedInscription": "𐝃𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17700,6 +17930,7 @@ var inscriptions = new Map([
         "images/HTWa1027-Inscription.jpg"
     ],
     "name": "HTWa1027",
+    "names": "HTWa1027",
     "parsedInscription": "𐘾𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17728,6 +17959,7 @@ var inscriptions = new Map([
         "images/HTWa1028a-Inscription.jpg"
     ],
     "name": "HTWa1028",
+    "names": "HTWa1028",
     "parsedInscription": "𐘤𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17756,6 +17988,7 @@ var inscriptions = new Map([
         "images/HTWa1029a-Inscription.jpg"
     ],
     "name": "HTWa1029",
+    "names": "HTWa1029",
     "parsedInscription": "𐙕𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17785,6 +18018,7 @@ var inscriptions = new Map([
         "images/HTWa1030a-Inscription.jpg"
     ],
     "name": "HTWa1030",
+    "names": "HTWa1030",
     "parsedInscription": "𐙕𐙕",
     "scribe": "HT Wa Scribe 58",
     "site": "Haghia Triada",
@@ -17812,6 +18046,7 @@ var inscriptions = new Map([
         "images/HTWa1031-Inscription.jpg"
     ],
     "name": "HTWa1031",
+    "names": "HTWa1031",
     "parsedInscription": "𐘀",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17839,6 +18074,7 @@ var inscriptions = new Map([
         "images/HTWa1032-Inscription.jpg"
     ],
     "name": "HTWa1032",
+    "names": "HTWa1032",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17866,6 +18102,7 @@ var inscriptions = new Map([
         "images/HTWa1033-Inscription.jpg"
     ],
     "name": "HTWa1033",
+    "names": "HTWa1033",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17893,6 +18130,7 @@ var inscriptions = new Map([
         "images/HTWa1034-Inscription.jpg"
     ],
     "name": "HTWa1034",
+    "names": "HTWa1034",
     "parsedInscription": "𐘁",
     "scribe": "HT Wa Scribe 34",
     "site": "Haghia Triada",
@@ -17920,6 +18158,7 @@ var inscriptions = new Map([
         "images/HTWa1035-Inscription.jpg"
     ],
     "name": "HTWa1035",
+    "names": "HTWa1035",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17947,6 +18186,7 @@ var inscriptions = new Map([
         "images/HTWa1036-Inscription.jpg"
     ],
     "name": "HTWa1036",
+    "names": "HTWa1036",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -17974,6 +18214,7 @@ var inscriptions = new Map([
         "images/HTWa1037-Inscription.jpg"
     ],
     "name": "HTWa1037",
+    "names": "HTWa1037",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18001,6 +18242,7 @@ var inscriptions = new Map([
         "images/HTWa1038-Inscription.jpg"
     ],
     "name": "HTWa1038",
+    "names": "HTWa1038",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18028,6 +18270,7 @@ var inscriptions = new Map([
         "images/HTWa1039-Inscription.jpg"
     ],
     "name": "HTWa1039",
+    "names": "HTWa1039",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18055,6 +18298,7 @@ var inscriptions = new Map([
         "images/HTWa1040-Inscription.jpg"
     ],
     "name": "HTWa1040",
+    "names": "HTWa1040",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18082,6 +18326,7 @@ var inscriptions = new Map([
         "images/HTWa1041-Inscription.jpg"
     ],
     "name": "HTWa1041",
+    "names": "HTWa1041",
     "parsedInscription": "𐘁",
     "scribe": "HT Wa Scribe 60",
     "site": "Haghia Triada",
@@ -18109,6 +18354,7 @@ var inscriptions = new Map([
         "images/HTWa1042-Inscription.jpg"
     ],
     "name": "HTWa1042",
+    "names": "HTWa1042",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18136,6 +18382,7 @@ var inscriptions = new Map([
         "images/HTWa1043-Inscription.jpg"
     ],
     "name": "HTWa1043",
+    "names": "HTWa1043",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18163,6 +18410,7 @@ var inscriptions = new Map([
         "images/HTWa1044-Inscription.jpg"
     ],
     "name": "HTWa1044",
+    "names": "HTWa1044",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18190,6 +18438,7 @@ var inscriptions = new Map([
         "images/HTWa1045-Inscription.jpg"
     ],
     "name": "HTWa1045",
+    "names": "HTWa1045",
     "parsedInscription": "𐘁",
     "scribe": "HT Wa Scribe 59",
     "site": "Haghia Triada",
@@ -18217,6 +18466,7 @@ var inscriptions = new Map([
         "images/HTWa1046-Inscription.jpg"
     ],
     "name": "HTWa1046",
+    "names": "HTWa1046",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18244,6 +18494,7 @@ var inscriptions = new Map([
         "images/HTWa1047-Inscription.jpg"
     ],
     "name": "HTWa1047",
+    "names": "HTWa1047",
     "parsedInscription": "𐘁",
     "scribe": "HT Wa Scribe 61",
     "site": "Haghia Triada",
@@ -18271,6 +18522,7 @@ var inscriptions = new Map([
         "images/HTWa1048-Inscription.jpg"
     ],
     "name": "HTWa1048",
+    "names": "HTWa1048",
     "parsedInscription": "𐘁",
     "scribe": "HT Wa Scribe 62",
     "site": "Haghia Triada",
@@ -18298,6 +18550,7 @@ var inscriptions = new Map([
         "images/HTWa1049-Inscription.jpg"
     ],
     "name": "HTWa1049",
+    "names": "HTWa1049",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18325,6 +18578,7 @@ var inscriptions = new Map([
         "images/HTWa1050-Inscription.jpg"
     ],
     "name": "HTWa1050",
+    "names": "HTWa1050",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18352,6 +18606,7 @@ var inscriptions = new Map([
         "images/HTWa1051-Inscription.jpg"
     ],
     "name": "HTWa1051",
+    "names": "HTWa1051",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18379,6 +18634,7 @@ var inscriptions = new Map([
         "images/HTWa1052-Inscription.jpg"
     ],
     "name": "HTWa1052",
+    "names": "HTWa1052",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18406,6 +18662,7 @@ var inscriptions = new Map([
         "images/HTWa1053-Inscription.jpg"
     ],
     "name": "HTWa1053",
+    "names": "HTWa1053",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18433,6 +18690,7 @@ var inscriptions = new Map([
         "images/HTWa1054-Inscription.jpg"
     ],
     "name": "HTWa1054",
+    "names": "HTWa1054",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18460,6 +18718,7 @@ var inscriptions = new Map([
         "images/HTWa1055-Inscription.jpg"
     ],
     "name": "HTWa1055",
+    "names": "HTWa1055",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18487,6 +18746,7 @@ var inscriptions = new Map([
         "images/HTWa1056-Inscription.jpg"
     ],
     "name": "HTWa1056",
+    "names": "HTWa1056",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18514,6 +18774,7 @@ var inscriptions = new Map([
         "images/HTWa1057-Inscription.jpg"
     ],
     "name": "HTWa1057",
+    "names": "HTWa1057",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18541,6 +18802,7 @@ var inscriptions = new Map([
         "images/HTWa1058-Inscription.jpg"
     ],
     "name": "HTWa1058",
+    "names": "HTWa1058",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18568,6 +18830,7 @@ var inscriptions = new Map([
         "images/HTWa1059-Inscription.jpg"
     ],
     "name": "HTWa1059",
+    "names": "HTWa1059",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18595,6 +18858,7 @@ var inscriptions = new Map([
         "images/HTWa1060-Inscription.jpg"
     ],
     "name": "HTWa1060",
+    "names": "HTWa1060",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18622,6 +18886,7 @@ var inscriptions = new Map([
         "images/HTWa1061-Inscription.jpg"
     ],
     "name": "HTWa1061",
+    "names": "HTWa1061",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18649,6 +18914,7 @@ var inscriptions = new Map([
         "images/HTWa1062-Inscription.jpg"
     ],
     "name": "HTWa1062",
+    "names": "HTWa1062",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18676,6 +18942,7 @@ var inscriptions = new Map([
         "images/HTWa1063-Inscription.jpg"
     ],
     "name": "HTWa1063",
+    "names": "HTWa1063",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18703,6 +18970,7 @@ var inscriptions = new Map([
         "images/HTWa1064-Inscription.jpg"
     ],
     "name": "HTWa1064",
+    "names": "HTWa1064",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18730,6 +18998,7 @@ var inscriptions = new Map([
         "images/HTWa1065-Inscription.jpg"
     ],
     "name": "HTWa1065",
+    "names": "HTWa1065",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18757,6 +19026,7 @@ var inscriptions = new Map([
         "images/HTWa1066-Inscription.jpg"
     ],
     "name": "HTWa1066",
+    "names": "HTWa1066",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18784,6 +19054,7 @@ var inscriptions = new Map([
         "images/HTWa1067-Inscription.jpg"
     ],
     "name": "HTWa1067",
+    "names": "HTWa1067",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18811,6 +19082,7 @@ var inscriptions = new Map([
         "images/HTWa1068-Inscription.jpg"
     ],
     "name": "HTWa1068",
+    "names": "HTWa1068",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18838,6 +19110,7 @@ var inscriptions = new Map([
         "images/HTWa1069-Inscription.jpg"
     ],
     "name": "HTWa1069",
+    "names": "HTWa1069",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18865,6 +19138,7 @@ var inscriptions = new Map([
         "images/HTWa1070-Inscription.jpg"
     ],
     "name": "HTWa1070",
+    "names": "HTWa1070",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18892,6 +19166,7 @@ var inscriptions = new Map([
         "images/HTWa1073-Inscription.jpg"
     ],
     "name": "HTWa1073",
+    "names": "HTWa1073",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18919,6 +19194,7 @@ var inscriptions = new Map([
         "images/HTWa1074-Inscription.jpg"
     ],
     "name": "HTWa1074",
+    "names": "HTWa1074",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18946,6 +19222,7 @@ var inscriptions = new Map([
         "images/HTWa1075-Inscription.jpg"
     ],
     "name": "HTWa1075",
+    "names": "HTWa1075",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -18973,6 +19250,7 @@ var inscriptions = new Map([
         "images/HTWa1076-Inscription.jpg"
     ],
     "name": "HTWa1076",
+    "names": "HTWa1076",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19000,6 +19278,7 @@ var inscriptions = new Map([
         "images/HTWa1077-Inscription.jpg"
     ],
     "name": "HTWa1077",
+    "names": "HTWa1077",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19027,6 +19306,7 @@ var inscriptions = new Map([
         "images/HTWa1078-Inscription.jpg"
     ],
     "name": "HTWa1078",
+    "names": "HTWa1078",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19054,6 +19334,7 @@ var inscriptions = new Map([
         "images/HTWa1079-Inscription.jpg"
     ],
     "name": "HTWa1079",
+    "names": "HTWa1079",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19081,6 +19362,7 @@ var inscriptions = new Map([
         "images/HTWa1080-Inscription.jpg"
     ],
     "name": "HTWa1080",
+    "names": "HTWa1080",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19108,6 +19390,7 @@ var inscriptions = new Map([
         "images/HTWa1081-Inscription.jpg"
     ],
     "name": "HTWa1081",
+    "names": "HTWa1081",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19135,6 +19418,7 @@ var inscriptions = new Map([
         "images/HTWa1082-Inscription.jpg"
     ],
     "name": "HTWa1082",
+    "names": "HTWa1082",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19162,6 +19446,7 @@ var inscriptions = new Map([
         "images/HTWa1083-Inscription.jpg"
     ],
     "name": "HTWa1083",
+    "names": "HTWa1083",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19189,6 +19474,7 @@ var inscriptions = new Map([
         "images/HTWa1084-Inscription.jpg"
     ],
     "name": "HTWa1084",
+    "names": "HTWa1084",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19216,6 +19502,7 @@ var inscriptions = new Map([
         "images/HTWa1085-Inscription.jpg"
     ],
     "name": "HTWa1085",
+    "names": "HTWa1085",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19243,6 +19530,7 @@ var inscriptions = new Map([
         "images/HTWa1086-Inscription.jpg"
     ],
     "name": "HTWa1086",
+    "names": "HTWa1086",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19270,6 +19558,7 @@ var inscriptions = new Map([
         "images/HTWa1087-Inscription.jpg"
     ],
     "name": "HTWa1087",
+    "names": "HTWa1087",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19297,6 +19586,7 @@ var inscriptions = new Map([
         "images/HTWa1088-Inscription.jpg"
     ],
     "name": "HTWa1088",
+    "names": "HTWa1088",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19324,6 +19614,7 @@ var inscriptions = new Map([
         "images/HTWa1089-Inscription.jpg"
     ],
     "name": "HTWa1089",
+    "names": "HTWa1089",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19351,6 +19642,7 @@ var inscriptions = new Map([
         "images/HTWa1090-Inscription.jpg"
     ],
     "name": "HTWa1090",
+    "names": "HTWa1090",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19378,6 +19670,7 @@ var inscriptions = new Map([
         "images/HTWa1091-Inscription.jpg"
     ],
     "name": "HTWa1091",
+    "names": "HTWa1091",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19405,6 +19698,7 @@ var inscriptions = new Map([
         "images/HTWa1092-Inscription.jpg"
     ],
     "name": "HTWa1092",
+    "names": "HTWa1092",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19432,6 +19726,7 @@ var inscriptions = new Map([
         "images/HTWa1093-Inscription.jpg"
     ],
     "name": "HTWa1093",
+    "names": "HTWa1093",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19459,6 +19754,7 @@ var inscriptions = new Map([
         "images/HTWa1094-Inscription.jpg"
     ],
     "name": "HTWa1094",
+    "names": "HTWa1094",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19486,6 +19782,7 @@ var inscriptions = new Map([
         "images/HTWa1095-Inscription.jpg"
     ],
     "name": "HTWa1095",
+    "names": "HTWa1095",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19513,6 +19810,7 @@ var inscriptions = new Map([
         "images/HTWa1096-Inscription.jpg"
     ],
     "name": "HTWa1096",
+    "names": "HTWa1096",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19540,6 +19838,7 @@ var inscriptions = new Map([
         "images/HTWa1097-Inscription.jpg"
     ],
     "name": "HTWa1097",
+    "names": "HTWa1097",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19567,6 +19866,7 @@ var inscriptions = new Map([
         "images/HTWa1098-Inscription.jpg"
     ],
     "name": "HTWa1098",
+    "names": "HTWa1098",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19594,6 +19894,7 @@ var inscriptions = new Map([
         "images/HTWa1099-Inscription.jpg"
     ],
     "name": "HTWa1099",
+    "names": "HTWa1099",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19621,6 +19922,7 @@ var inscriptions = new Map([
         "images/HTWa1100-Inscription.jpg"
     ],
     "name": "HTWa1100",
+    "names": "HTWa1100",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19648,6 +19950,7 @@ var inscriptions = new Map([
         "images/HTWa1101-Inscription.jpg"
     ],
     "name": "HTWa1101",
+    "names": "HTWa1101",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19675,6 +19978,7 @@ var inscriptions = new Map([
         "images/HTWa1102-Inscription.jpg"
     ],
     "name": "HTWa1102",
+    "names": "HTWa1102",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19702,6 +20006,7 @@ var inscriptions = new Map([
         "images/HTWa1103-Inscription.jpg"
     ],
     "name": "HTWa1103",
+    "names": "HTWa1103",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19729,6 +20034,7 @@ var inscriptions = new Map([
         "images/HTWa1104-Inscription.jpg"
     ],
     "name": "HTWa1104",
+    "names": "HTWa1104",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19756,6 +20062,7 @@ var inscriptions = new Map([
         "images/HTWa1105-Inscription.jpg"
     ],
     "name": "HTWa1105",
+    "names": "HTWa1105",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19783,6 +20090,7 @@ var inscriptions = new Map([
         "images/HTWa1106-Inscription.jpg"
     ],
     "name": "HTWa1106",
+    "names": "HTWa1106",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19810,6 +20118,7 @@ var inscriptions = new Map([
         "images/HTWa1107-Inscription.jpg"
     ],
     "name": "HTWa1107",
+    "names": "HTWa1107",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19837,6 +20146,7 @@ var inscriptions = new Map([
         "images/HTWa1108-Inscription.jpg"
     ],
     "name": "HTWa1108",
+    "names": "HTWa1108",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19864,6 +20174,7 @@ var inscriptions = new Map([
         "images/HTWa1109-Inscription.jpg"
     ],
     "name": "HTWa1109",
+    "names": "HTWa1109",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19891,6 +20202,7 @@ var inscriptions = new Map([
         "images/HTWa1110-Inscription.jpg"
     ],
     "name": "HTWa1110",
+    "names": "HTWa1110",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19918,6 +20230,7 @@ var inscriptions = new Map([
         "images/HTWa1111-Inscription.jpg"
     ],
     "name": "HTWa1111",
+    "names": "HTWa1111",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19945,6 +20258,7 @@ var inscriptions = new Map([
         "images/HTWa1112-Inscription.jpg"
     ],
     "name": "HTWa1112",
+    "names": "HTWa1112",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19972,6 +20286,7 @@ var inscriptions = new Map([
         "images/HTWa1113-Inscription.jpg"
     ],
     "name": "HTWa1113",
+    "names": "HTWa1113",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -19999,6 +20314,7 @@ var inscriptions = new Map([
         "images/HTWa1114-Inscription.jpg"
     ],
     "name": "HTWa1114",
+    "names": "HTWa1114",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20026,6 +20342,7 @@ var inscriptions = new Map([
         "images/HTWa1115-Inscription.jpg"
     ],
     "name": "HTWa1115",
+    "names": "HTWa1115",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20053,6 +20370,7 @@ var inscriptions = new Map([
         "images/HTWa1116-Inscription.jpg"
     ],
     "name": "HTWa1116",
+    "names": "HTWa1116",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20080,6 +20398,7 @@ var inscriptions = new Map([
         "images/HTWa1117-Inscription.jpg"
     ],
     "name": "HTWa1117",
+    "names": "HTWa1117",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20107,6 +20426,7 @@ var inscriptions = new Map([
         "images/HTWa1118-Inscription.jpg"
     ],
     "name": "HTWa1118",
+    "names": "HTWa1118",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20134,6 +20454,7 @@ var inscriptions = new Map([
         "images/HTWa1119-Inscription.jpg"
     ],
     "name": "HTWa1119",
+    "names": "HTWa1119",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20161,6 +20482,7 @@ var inscriptions = new Map([
         "images/HTWa1120-Inscription.jpg"
     ],
     "name": "HTWa1120",
+    "names": "HTWa1120",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20188,6 +20510,7 @@ var inscriptions = new Map([
         "images/HTWa1121-Inscription.jpg"
     ],
     "name": "HTWa1121",
+    "names": "HTWa1121",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20215,6 +20538,7 @@ var inscriptions = new Map([
         "images/HTWa1122-Inscription.jpg"
     ],
     "name": "HTWa1122",
+    "names": "HTWa1122",
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 55",
     "site": "Haghia Triada",
@@ -20242,6 +20566,7 @@ var inscriptions = new Map([
         "images/HTWa1123-Inscription.jpg"
     ],
     "name": "HTWa1123",
+    "names": "HTWa1123",
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 56",
     "site": "Haghia Triada",
@@ -20269,6 +20594,7 @@ var inscriptions = new Map([
         "images/HTWa1124-Inscription.jpg"
     ],
     "name": "HTWa1124",
+    "names": "HTWa1124",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20296,6 +20622,7 @@ var inscriptions = new Map([
         "images/HTWa1125-Inscription.jpg"
     ],
     "name": "HTWa1125",
+    "names": "HTWa1125",
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 57",
     "site": "Haghia Triada",
@@ -20323,6 +20650,7 @@ var inscriptions = new Map([
         "images/HTWa1126-Inscription.jpg"
     ],
     "name": "HTWa1126",
+    "names": "HTWa1126",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20350,6 +20678,7 @@ var inscriptions = new Map([
         "images/HTWa1127-Inscription.jpg"
     ],
     "name": "HTWa1127",
+    "names": "HTWa1127",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20377,6 +20706,7 @@ var inscriptions = new Map([
         "images/HTWa1128-Inscription.jpg"
     ],
     "name": "HTWa1128",
+    "names": "HTWa1128",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20404,6 +20734,7 @@ var inscriptions = new Map([
         "images/HTWa1129-Inscription.jpg"
     ],
     "name": "HTWa1129",
+    "names": "HTWa1129",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20431,6 +20762,7 @@ var inscriptions = new Map([
         "images/HTWa1130-Inscription.jpg"
     ],
     "name": "HTWa1130",
+    "names": "HTWa1130",
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 58",
     "site": "Haghia Triada",
@@ -20458,6 +20790,7 @@ var inscriptions = new Map([
         "images/HTWa1131-Inscription.jpg"
     ],
     "name": "HTWa1131",
+    "names": "HTWa1131",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20485,6 +20818,7 @@ var inscriptions = new Map([
         "images/HTWa1132-Inscription.jpg"
     ],
     "name": "HTWa1132",
+    "names": "HTWa1132",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20512,6 +20846,7 @@ var inscriptions = new Map([
         "images/HTWa1133-Inscription.jpg"
     ],
     "name": "HTWa1133",
+    "names": "HTWa1133",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20539,6 +20874,7 @@ var inscriptions = new Map([
         "images/HTWa1134-Inscription.jpg"
     ],
     "name": "HTWa1134",
+    "names": "HTWa1134",
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 59",
     "site": "Haghia Triada",
@@ -20566,6 +20902,7 @@ var inscriptions = new Map([
         "images/HTWa1135-Inscription.jpg"
     ],
     "name": "HTWa1135",
+    "names": "HTWa1135",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20593,6 +20930,7 @@ var inscriptions = new Map([
         "images/HTWa1136-Inscription.jpg"
     ],
     "name": "HTWa1136",
+    "names": "HTWa1136",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20620,6 +20958,7 @@ var inscriptions = new Map([
         "images/HTWa1137-Inscription.jpg"
     ],
     "name": "HTWa1137",
+    "names": "HTWa1137",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20647,6 +20986,7 @@ var inscriptions = new Map([
         "images/HTWa1138-Inscription.jpg"
     ],
     "name": "HTWa1138",
+    "names": "HTWa1138",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20674,6 +21014,7 @@ var inscriptions = new Map([
         "images/HTWa1139-Inscription.jpg"
     ],
     "name": "HTWa1139",
+    "names": "HTWa1139",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20701,6 +21042,7 @@ var inscriptions = new Map([
         "images/HTWa1140-Inscription.jpg"
     ],
     "name": "HTWa1140",
+    "names": "HTWa1140",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20728,6 +21070,7 @@ var inscriptions = new Map([
         "images/HTWa1141-Inscription.jpg"
     ],
     "name": "HTWa1141",
+    "names": "HTWa1141",
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 60",
     "site": "Haghia Triada",
@@ -20755,6 +21098,7 @@ var inscriptions = new Map([
         "images/HTWa1142-Inscription.jpg"
     ],
     "name": "HTWa1142",
+    "names": "HTWa1142",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20782,6 +21126,7 @@ var inscriptions = new Map([
         "images/HTWa1143-Inscription.jpg"
     ],
     "name": "HTWa1143",
+    "names": "HTWa1143",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20809,6 +21154,7 @@ var inscriptions = new Map([
         "images/HTWa1144-Inscription.jpg"
     ],
     "name": "HTWa1144",
+    "names": "HTWa1144",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20836,6 +21182,7 @@ var inscriptions = new Map([
         "images/HTWa1145-Inscription.jpg"
     ],
     "name": "HTWa1145",
+    "names": "HTWa1145",
     "parsedInscription": "𐘃",
     "scribe": "HT Wa Scribe 59",
     "site": "Haghia Triada",
@@ -20859,6 +21206,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1146",
+    "names": "HTWa1146",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20882,6 +21230,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1147",
+    "names": "HTWa1147",
     "parsedInscription": "𐘇",
     "scribe": "HT Wa Scribe 61",
     "site": "Haghia Triada",
@@ -20905,6 +21254,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1148",
+    "names": "HTWa1148",
     "parsedInscription": "𐘇",
     "scribe": "HT Wa Scribe 62",
     "site": "Haghia Triada",
@@ -20928,6 +21278,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1149",
+    "names": "HTWa1149",
     "parsedInscription": "𐘇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -20951,6 +21302,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1150",
+    "names": "HTWa1150",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -20974,6 +21326,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1151",
+    "names": "HTWa1151",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -20997,6 +21350,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1152",
+    "names": "HTWa1152",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21020,6 +21374,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1153",
+    "names": "HTWa1153",
     "parsedInscription": "𐘚",
     "scribe": "",
     "site": "Haghia Triada",
@@ -21043,6 +21398,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1154",
+    "names": "HTWa1154",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 64",
     "site": "Haghia Triada",
@@ -21066,6 +21422,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1155",
+    "names": "HTWa1155",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21089,6 +21446,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1156",
+    "names": "HTWa1156",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21112,6 +21470,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1157",
+    "names": "HTWa1157",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21135,6 +21494,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1158",
+    "names": "HTWa1158",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21158,6 +21518,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1159",
+    "names": "HTWa1159",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21181,6 +21542,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1160",
+    "names": "HTWa1160",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21204,6 +21566,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1161",
+    "names": "HTWa1161",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21227,6 +21590,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1162",
+    "names": "HTWa1162",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21250,6 +21614,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1163",
+    "names": "HTWa1163",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21273,6 +21638,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1164",
+    "names": "HTWa1164",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21296,6 +21662,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1165",
+    "names": "HTWa1165",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21319,6 +21686,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1166",
+    "names": "HTWa1166",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21342,6 +21710,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1167",
+    "names": "HTWa1167",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21365,6 +21734,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1168",
+    "names": "HTWa1168",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 63",
     "site": "Haghia Triada",
@@ -21388,6 +21758,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1169",
+    "names": "HTWa1169",
     "parsedInscription": "𐘚",
     "scribe": "",
     "site": "Haghia Triada",
@@ -21411,6 +21782,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWa1170",
+    "names": "HTWa1170",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 65",
     "site": "Haghia Triada",
@@ -21438,6 +21810,7 @@ var inscriptions = new Map([
         "images/HTWa1171-Inscription.jpg"
     ],
     "name": "HTWa1171",
+    "names": "HTWa1171",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 65",
     "site": "Haghia Triada",
@@ -21465,6 +21838,7 @@ var inscriptions = new Map([
         "images/HTWa1172-Inscription.jpg"
     ],
     "name": "HTWa1172",
+    "names": "HTWa1172",
     "parsedInscription": "𐘚",
     "scribe": "",
     "site": "Haghia Triada",
@@ -21492,6 +21866,7 @@ var inscriptions = new Map([
         "images/HTWa1173-Inscription.jpg"
     ],
     "name": "HTWa1173",
+    "names": "HTWa1173",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 66",
     "site": "Haghia Triada",
@@ -21519,6 +21894,7 @@ var inscriptions = new Map([
         "images/HTWa1174-Inscription.jpg"
     ],
     "name": "HTWa1174",
+    "names": "HTWa1174",
     "parsedInscription": "𐘚",
     "scribe": "HT Wa Scribe 67",
     "site": "Haghia Triada",
@@ -21546,6 +21922,7 @@ var inscriptions = new Map([
         "images/HTWa1175-Inscription.jpg"
     ],
     "name": "HTWa1175",
+    "names": "HTWa1175",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21573,6 +21950,7 @@ var inscriptions = new Map([
         "images/HTWa1176-Inscription.jpg"
     ],
     "name": "HTWa1176",
+    "names": "HTWa1176",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21600,6 +21978,7 @@ var inscriptions = new Map([
         "images/HTWa1177-Inscription.jpg"
     ],
     "name": "HTWa1177",
+    "names": "HTWa1177",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21627,6 +22006,7 @@ var inscriptions = new Map([
         "images/HTWa1178-Inscription.jpg"
     ],
     "name": "HTWa1178",
+    "names": "HTWa1178",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21654,6 +22034,7 @@ var inscriptions = new Map([
         "images/HTWa1179-Inscription.jpg"
     ],
     "name": "HTWa1179",
+    "names": "HTWa1179",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21681,6 +22062,7 @@ var inscriptions = new Map([
         "images/HTWa1180-Inscription.jpg"
     ],
     "name": "HTWa1180",
+    "names": "HTWa1180",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -21708,6 +22090,7 @@ var inscriptions = new Map([
         "images/HTWa1181-Inscription.jpg"
     ],
     "name": "HTWa1181",
+    "names": "HTWa1181",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21735,6 +22118,7 @@ var inscriptions = new Map([
         "images/HTWa1182-Inscription.jpg"
     ],
     "name": "HTWa1182",
+    "names": "HTWa1182",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21762,6 +22146,7 @@ var inscriptions = new Map([
         "images/HTWa1183-Inscription.jpg"
     ],
     "name": "HTWa1183",
+    "names": "HTWa1183",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21789,6 +22174,7 @@ var inscriptions = new Map([
         "images/HTWa1184-Inscription.jpg"
     ],
     "name": "HTWa1184",
+    "names": "HTWa1184",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21816,6 +22202,7 @@ var inscriptions = new Map([
         "images/HTWa1185-Inscription.jpg"
     ],
     "name": "HTWa1185",
+    "names": "HTWa1185",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21843,6 +22230,7 @@ var inscriptions = new Map([
         "images/HTWa1186-Inscription.jpg"
     ],
     "name": "HTWa1186",
+    "names": "HTWa1186",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21870,6 +22258,7 @@ var inscriptions = new Map([
         "images/HTWa1187-Inscription.jpg"
     ],
     "name": "HTWa1187",
+    "names": "HTWa1187",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21897,6 +22286,7 @@ var inscriptions = new Map([
         "images/HTWa1188-Inscription.jpg"
     ],
     "name": "HTWa1188",
+    "names": "HTWa1188",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21924,6 +22314,7 @@ var inscriptions = new Map([
         "images/HTWa1189-Inscription.jpg"
     ],
     "name": "HTWa1189",
+    "names": "HTWa1189",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21951,6 +22342,7 @@ var inscriptions = new Map([
         "images/HTWa1190-Inscription.jpg"
     ],
     "name": "HTWa1190",
+    "names": "HTWa1190",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -21978,6 +22370,7 @@ var inscriptions = new Map([
         "images/HTWa1191-Inscription.jpg"
     ],
     "name": "HTWa1191",
+    "names": "HTWa1191",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22005,6 +22398,7 @@ var inscriptions = new Map([
         "images/HTWa1192-Inscription.jpg"
     ],
     "name": "HTWa1192",
+    "names": "HTWa1192",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22032,6 +22426,7 @@ var inscriptions = new Map([
         "images/HTWa1193-Inscription.jpg"
     ],
     "name": "HTWa1193",
+    "names": "HTWa1193",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22059,6 +22454,7 @@ var inscriptions = new Map([
         "images/HTWa1194-Inscription.jpg"
     ],
     "name": "HTWa1194",
+    "names": "HTWa1194",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22086,6 +22482,7 @@ var inscriptions = new Map([
         "images/HTWa1195-Inscription.jpg"
     ],
     "name": "HTWa1195",
+    "names": "HTWa1195",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22113,6 +22510,7 @@ var inscriptions = new Map([
         "images/HTWa1196-Inscription.jpg"
     ],
     "name": "HTWa1196",
+    "names": "HTWa1196",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22140,6 +22538,7 @@ var inscriptions = new Map([
         "images/HTWa1197-Inscription.jpg"
     ],
     "name": "HTWa1197",
+    "names": "HTWa1197",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22167,6 +22566,7 @@ var inscriptions = new Map([
         "images/HTWa1198-Inscription.jpg"
     ],
     "name": "HTWa1198",
+    "names": "HTWa1198",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22194,6 +22594,7 @@ var inscriptions = new Map([
         "images/HTWa1199-Inscription.jpg"
     ],
     "name": "HTWa1199",
+    "names": "HTWa1199",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22221,6 +22622,7 @@ var inscriptions = new Map([
         "images/HTWa1200-Inscription.jpg"
     ],
     "name": "HTWa1200",
+    "names": "HTWa1200",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22248,6 +22650,7 @@ var inscriptions = new Map([
         "images/HTWa1201-Inscription.jpg"
     ],
     "name": "HTWa1201",
+    "names": "HTWa1201",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22275,6 +22678,7 @@ var inscriptions = new Map([
         "images/HTWa1202-Inscription.jpg"
     ],
     "name": "HTWa1202",
+    "names": "HTWa1202",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22302,6 +22706,7 @@ var inscriptions = new Map([
         "images/HTWa1203-Inscription.jpg"
     ],
     "name": "HTWa1203",
+    "names": "HTWa1203",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22329,6 +22734,7 @@ var inscriptions = new Map([
         "images/HTWa1204-Inscription.jpg"
     ],
     "name": "HTWa1204",
+    "names": "HTWa1204",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22356,6 +22762,7 @@ var inscriptions = new Map([
         "images/HTWa1205-Inscription.jpg"
     ],
     "name": "HTWa1205",
+    "names": "HTWa1205",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22383,6 +22790,7 @@ var inscriptions = new Map([
         "images/HTWa1206-Inscription.jpg"
     ],
     "name": "HTWa1206",
+    "names": "HTWa1206",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22410,6 +22818,7 @@ var inscriptions = new Map([
         "images/HTWa1207-Inscription.jpg"
     ],
     "name": "HTWa1207",
+    "names": "HTWa1207",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22437,6 +22846,7 @@ var inscriptions = new Map([
         "images/HTWa1208-Inscription.jpg"
     ],
     "name": "HTWa1208",
+    "names": "HTWa1208",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22464,6 +22874,7 @@ var inscriptions = new Map([
         "images/HTWa1209-Inscription.jpg"
     ],
     "name": "HTWa1209",
+    "names": "HTWa1209",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22491,6 +22902,7 @@ var inscriptions = new Map([
         "images/HTWa1210-Inscription.jpg"
     ],
     "name": "HTWa1210",
+    "names": "HTWa1210",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22518,6 +22930,7 @@ var inscriptions = new Map([
         "images/HTWa1211-Inscription.jpg"
     ],
     "name": "HTWa1211",
+    "names": "HTWa1211",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22545,6 +22958,7 @@ var inscriptions = new Map([
         "images/HTWa1212-Inscription.jpg"
     ],
     "name": "HTWa1212",
+    "names": "HTWa1212",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22572,6 +22986,7 @@ var inscriptions = new Map([
         "images/HTWa1213-Inscription.jpg"
     ],
     "name": "HTWa1213",
+    "names": "HTWa1213",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22599,6 +23014,7 @@ var inscriptions = new Map([
         "images/HTWa1214-Inscription.jpg"
     ],
     "name": "HTWa1214",
+    "names": "HTWa1214",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22626,6 +23042,7 @@ var inscriptions = new Map([
         "images/HTWa1215-Inscription.jpg"
     ],
     "name": "HTWa1215",
+    "names": "HTWa1215",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22653,6 +23070,7 @@ var inscriptions = new Map([
         "images/HTWa1216-Inscription.jpg"
     ],
     "name": "HTWa1216",
+    "names": "HTWa1216",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22680,6 +23098,7 @@ var inscriptions = new Map([
         "images/HTWa1217-Inscription.jpg"
     ],
     "name": "HTWa1217",
+    "names": "HTWa1217",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22707,6 +23126,7 @@ var inscriptions = new Map([
         "images/HTWa1218-Inscription.jpg"
     ],
     "name": "HTWa1218",
+    "names": "HTWa1218",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22734,6 +23154,7 @@ var inscriptions = new Map([
         "images/HTWa1219-Inscription.jpg"
     ],
     "name": "HTWa1219",
+    "names": "HTWa1219",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22761,6 +23182,7 @@ var inscriptions = new Map([
         "images/HTWa1220-Inscription.jpg"
     ],
     "name": "HTWa1220",
+    "names": "HTWa1220",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22788,6 +23210,7 @@ var inscriptions = new Map([
         "images/HTWa1221-Inscription.jpg"
     ],
     "name": "HTWa1221",
+    "names": "HTWa1221",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22815,6 +23238,7 @@ var inscriptions = new Map([
         "images/HTWa1222-Inscription.jpg"
     ],
     "name": "HTWa1222",
+    "names": "HTWa1222",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22842,6 +23266,7 @@ var inscriptions = new Map([
         "images/HTWa1223-Inscription.jpg"
     ],
     "name": "HTWa1223",
+    "names": "HTWa1223",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22869,6 +23294,7 @@ var inscriptions = new Map([
         "images/HTWa1224-Inscription.jpg"
     ],
     "name": "HTWa1224",
+    "names": "HTWa1224",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22896,6 +23322,7 @@ var inscriptions = new Map([
         "images/HTWa1225-Inscription.jpg"
     ],
     "name": "HTWa1225",
+    "names": "HTWa1225",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 68",
     "site": "Haghia Triada",
@@ -22923,6 +23350,7 @@ var inscriptions = new Map([
         "images/HTWa1226-Inscription.jpg"
     ],
     "name": "HTWa1226",
+    "names": "HTWa1226",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22950,6 +23378,7 @@ var inscriptions = new Map([
         "images/HTWa1227-Inscription.jpg"
     ],
     "name": "HTWa1227",
+    "names": "HTWa1227",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -22977,6 +23406,7 @@ var inscriptions = new Map([
         "images/HTWa1228-Inscription.jpg"
     ],
     "name": "HTWa1228",
+    "names": "HTWa1228",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23004,6 +23434,7 @@ var inscriptions = new Map([
         "images/HTWa1229-Inscription.jpg"
     ],
     "name": "HTWa1229",
+    "names": "HTWa1229",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23031,6 +23462,7 @@ var inscriptions = new Map([
         "images/HTWa1230-Inscription.jpg"
     ],
     "name": "HTWa1230",
+    "names": "HTWa1230",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23058,6 +23490,7 @@ var inscriptions = new Map([
         "images/HTWa1231-Inscription.jpg"
     ],
     "name": "HTWa1231",
+    "names": "HTWa1231",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23085,6 +23518,7 @@ var inscriptions = new Map([
         "images/HTWa1232-Inscription.jpg"
     ],
     "name": "HTWa1232",
+    "names": "HTWa1232",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23112,6 +23546,7 @@ var inscriptions = new Map([
         "images/HTWa1233-Inscription.jpg"
     ],
     "name": "HTWa1233",
+    "names": "HTWa1233",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23139,6 +23574,7 @@ var inscriptions = new Map([
         "images/HTWa1234-Inscription.jpg"
     ],
     "name": "HTWa1234",
+    "names": "HTWa1234",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23166,6 +23602,7 @@ var inscriptions = new Map([
         "images/HTWa1235-Inscription.jpg"
     ],
     "name": "HTWa1235",
+    "names": "HTWa1235",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23193,6 +23630,7 @@ var inscriptions = new Map([
         "images/HTWa1236-Inscription.jpg"
     ],
     "name": "HTWa1236",
+    "names": "HTWa1236",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23220,6 +23658,7 @@ var inscriptions = new Map([
         "images/HTWa1237-Inscription.jpg"
     ],
     "name": "HTWa1237",
+    "names": "HTWa1237",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23247,6 +23686,7 @@ var inscriptions = new Map([
         "images/HTWa1238-Inscription.jpg"
     ],
     "name": "HTWa1238",
+    "names": "HTWa1238",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23274,6 +23714,7 @@ var inscriptions = new Map([
         "images/HTWa1239-Inscription.jpg"
     ],
     "name": "HTWa1239",
+    "names": "HTWa1239",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
@@ -23301,6 +23742,7 @@ var inscriptions = new Map([
         "images/HTWa1240-Inscription.jpg"
     ],
     "name": "HTWa1240",
+    "names": "HTWa1240",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23328,6 +23770,7 @@ var inscriptions = new Map([
         "images/HTWa1241-Inscription.jpg"
     ],
     "name": "HTWa1241",
+    "names": "HTWa1241",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
@@ -23355,6 +23798,7 @@ var inscriptions = new Map([
         "images/HTWa1242-Inscription.jpg"
     ],
     "name": "HTWa1242",
+    "names": "HTWa1242",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
@@ -23382,6 +23826,7 @@ var inscriptions = new Map([
         "images/HTWa1243-Inscription.jpg"
     ],
     "name": "HTWa1243",
+    "names": "HTWa1243",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
@@ -23409,6 +23854,7 @@ var inscriptions = new Map([
         "images/HTWa1244-Inscription.jpg"
     ],
     "name": "HTWa1244",
+    "names": "HTWa1244",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
@@ -23436,6 +23882,7 @@ var inscriptions = new Map([
         "images/HTWa1245-Inscription.jpg"
     ],
     "name": "HTWa1245",
+    "names": "HTWa1245",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
@@ -23463,6 +23910,7 @@ var inscriptions = new Map([
         "images/HTWa1246-Inscription.jpg"
     ],
     "name": "HTWa1246",
+    "names": "HTWa1246",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
@@ -23490,6 +23938,7 @@ var inscriptions = new Map([
         "images/HTWa1247-Inscription.jpg"
     ],
     "name": "HTWa1247",
+    "names": "HTWa1247",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
@@ -23517,6 +23966,7 @@ var inscriptions = new Map([
         "images/HTWa1248-Inscription.jpg"
     ],
     "name": "HTWa1248",
+    "names": "HTWa1248",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
@@ -23544,6 +23994,7 @@ var inscriptions = new Map([
         "images/HTWa1249-Inscription.jpg"
     ],
     "name": "HTWa1249",
+    "names": "HTWa1249",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 69",
     "site": "Haghia Triada",
@@ -23571,6 +24022,7 @@ var inscriptions = new Map([
         "images/HTWa1250-Inscription.jpg"
     ],
     "name": "HTWa1250",
+    "names": "HTWa1250",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23598,6 +24050,7 @@ var inscriptions = new Map([
         "images/HTWa1251-Inscription.jpg"
     ],
     "name": "HTWa1251",
+    "names": "HTWa1251",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23625,6 +24078,7 @@ var inscriptions = new Map([
         "images/HTWa1252-Inscription.jpg"
     ],
     "name": "HTWa1252",
+    "names": "HTWa1252",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23652,6 +24106,7 @@ var inscriptions = new Map([
         "images/HTWa1253-Inscription.jpg"
     ],
     "name": "HTWa1253",
+    "names": "HTWa1253",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23679,6 +24134,7 @@ var inscriptions = new Map([
         "images/HTWa1254-Inscription.jpg"
     ],
     "name": "HTWa1254",
+    "names": "HTWa1254",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 70",
     "site": "Haghia Triada",
@@ -23706,6 +24162,7 @@ var inscriptions = new Map([
         "images/HTWa1255-Inscription.jpg"
     ],
     "name": "HTWa1255",
+    "names": "HTWa1255",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23733,6 +24190,7 @@ var inscriptions = new Map([
         "images/HTWa1256-Inscription.jpg"
     ],
     "name": "HTWa1256",
+    "names": "HTWa1256",
     "parsedInscription": "𐘤",
     "scribe": "HT Wa Scribe 70",
     "site": "Haghia Triada",
@@ -23760,6 +24218,7 @@ var inscriptions = new Map([
         "images/HTWa1257-Inscription.jpg"
     ],
     "name": "HTWa1257",
+    "names": "HTWa1257",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23787,6 +24246,7 @@ var inscriptions = new Map([
         "images/HTWa1258-Inscription.jpg"
     ],
     "name": "HTWa1258",
+    "names": "HTWa1258",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23814,6 +24274,7 @@ var inscriptions = new Map([
         "images/HTWa1259-Inscription.jpg"
     ],
     "name": "HTWa1259",
+    "names": "HTWa1259",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23841,6 +24302,7 @@ var inscriptions = new Map([
         "images/HTWa1260-Inscription.jpg"
     ],
     "name": "HTWa1260",
+    "names": "HTWa1260",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23868,6 +24330,7 @@ var inscriptions = new Map([
         "images/HTWa1261-Inscription.jpg"
     ],
     "name": "HTWa1261",
+    "names": "HTWa1261",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23895,6 +24358,7 @@ var inscriptions = new Map([
         "images/HTWa1262-Inscription.jpg"
     ],
     "name": "HTWa1262",
+    "names": "HTWa1262",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23922,6 +24386,7 @@ var inscriptions = new Map([
         "images/HTWa1263-Inscription.jpg"
     ],
     "name": "HTWa1263",
+    "names": "HTWa1263",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23949,6 +24414,7 @@ var inscriptions = new Map([
         "images/HTWa1264-Inscription.jpg"
     ],
     "name": "HTWa1264",
+    "names": "HTWa1264",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -23976,6 +24442,7 @@ var inscriptions = new Map([
         "images/HTWa1265-Inscription.jpg"
     ],
     "name": "HTWa1265",
+    "names": "HTWa1265",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24003,6 +24470,7 @@ var inscriptions = new Map([
         "images/HTWa1266-Inscription.jpg"
     ],
     "name": "HTWa1266",
+    "names": "HTWa1266",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24030,6 +24498,7 @@ var inscriptions = new Map([
         "images/HTWa1267-Inscription.jpg"
     ],
     "name": "HTWa1267",
+    "names": "HTWa1267",
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
@@ -24057,6 +24526,7 @@ var inscriptions = new Map([
         "images/HTWa1268-Inscription.jpg"
     ],
     "name": "HTWa1268",
+    "names": "HTWa1268",
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
@@ -24084,6 +24554,7 @@ var inscriptions = new Map([
         "images/HTWa1269-Inscription.jpg"
     ],
     "name": "HTWa1269",
+    "names": "HTWa1269",
     "parsedInscription": "𐘳",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24111,6 +24582,7 @@ var inscriptions = new Map([
         "images/HTWa1270-Inscription.jpg"
     ],
     "name": "HTWa1270",
+    "names": "HTWa1270",
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 72",
     "site": "Haghia Triada",
@@ -24138,6 +24610,7 @@ var inscriptions = new Map([
         "images/HTWa1271-Inscription.jpg"
     ],
     "name": "HTWa1271",
+    "names": "HTWa1271",
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
@@ -24165,6 +24638,7 @@ var inscriptions = new Map([
         "images/HTWa1272-Inscription.jpg"
     ],
     "name": "HTWa1272",
+    "names": "HTWa1272",
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
@@ -24192,6 +24666,7 @@ var inscriptions = new Map([
         "images/HTWa1273-Inscription.jpg"
     ],
     "name": "HTWa1273",
+    "names": "HTWa1273",
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
@@ -24219,6 +24694,7 @@ var inscriptions = new Map([
         "images/HTWa1274-Inscription.jpg"
     ],
     "name": "HTWa1274",
+    "names": "HTWa1274",
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
@@ -24246,6 +24722,7 @@ var inscriptions = new Map([
         "images/HTWa1275-Inscription.jpg"
     ],
     "name": "HTWa1275",
+    "names": "HTWa1275",
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
@@ -24273,6 +24750,7 @@ var inscriptions = new Map([
         "images/HTWa1276-Inscription.jpg"
     ],
     "name": "HTWa1276",
+    "names": "HTWa1276",
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 71",
     "site": "Haghia Triada",
@@ -24300,6 +24778,7 @@ var inscriptions = new Map([
         "images/HTWa1277-Inscription.jpg"
     ],
     "name": "HTWa1277",
+    "names": "HTWa1277",
     "parsedInscription": "𐘳",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24327,6 +24806,7 @@ var inscriptions = new Map([
         "images/HTWa1278-Inscription.jpg"
     ],
     "name": "HTWa1278",
+    "names": "HTWa1278",
     "parsedInscription": "𐘳",
     "scribe": "HT Wa Scribe 73",
     "site": "Haghia Triada",
@@ -24354,6 +24834,7 @@ var inscriptions = new Map([
         "images/HTWa1279-Inscription.jpg"
     ],
     "name": "HTWa1279",
+    "names": "HTWa1279",
     "parsedInscription": "𐘵",
     "scribe": "HT Wa Scribe 74",
     "site": "Haghia Triada",
@@ -24381,6 +24862,7 @@ var inscriptions = new Map([
         "images/HTWa1280-Inscription.jpg"
     ],
     "name": "HTWa1280",
+    "names": "HTWa1280",
     "parsedInscription": "𐘵",
     "scribe": "HT Wa Scribe 75",
     "site": "Haghia Triada",
@@ -24408,6 +24890,7 @@ var inscriptions = new Map([
         "images/HTWa1281-Inscription.jpg"
     ],
     "name": "HTWa1281",
+    "names": "HTWa1281",
     "parsedInscription": "𐘵",
     "scribe": "HT Wa Scribe 74",
     "site": "Haghia Triada",
@@ -24435,6 +24918,7 @@ var inscriptions = new Map([
         "images/HTWa1282-Inscription.jpg"
     ],
     "name": "HTWa1282",
+    "names": "HTWa1282",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24462,6 +24946,7 @@ var inscriptions = new Map([
         "images/HTWa1283-Inscription.jpg"
     ],
     "name": "HTWa1283",
+    "names": "HTWa1283",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24489,6 +24974,7 @@ var inscriptions = new Map([
         "images/HTWa1284-Inscription.jpg"
     ],
     "name": "HTWa1284",
+    "names": "HTWa1284",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
@@ -24516,6 +25002,7 @@ var inscriptions = new Map([
         "images/HTWa1285-Inscription.jpg"
     ],
     "name": "HTWa1285",
+    "names": "HTWa1285",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
@@ -24543,6 +25030,7 @@ var inscriptions = new Map([
         "images/HTWa1286-Inscription.jpg"
     ],
     "name": "HTWa1286",
+    "names": "HTWa1286",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
@@ -24570,6 +25058,7 @@ var inscriptions = new Map([
         "images/HTWa1287-Inscription.jpg"
     ],
     "name": "HTWa1287",
+    "names": "HTWa1287",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
@@ -24597,6 +25086,7 @@ var inscriptions = new Map([
         "images/HTWa1288-Inscription.jpg"
     ],
     "name": "HTWa1288",
+    "names": "HTWa1288",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
@@ -24624,6 +25114,7 @@ var inscriptions = new Map([
         "images/HTWa1289-Inscription.jpg"
     ],
     "name": "HTWa1289",
+    "names": "HTWa1289",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
@@ -24651,6 +25142,7 @@ var inscriptions = new Map([
         "images/HTWa1290-Inscription.jpg"
     ],
     "name": "HTWa1290",
+    "names": "HTWa1290",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24678,6 +25170,7 @@ var inscriptions = new Map([
         "images/HTWa1291-Inscription.jpg"
     ],
     "name": "HTWa1291",
+    "names": "HTWa1291",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 79",
     "site": "Haghia Triada",
@@ -24705,6 +25198,7 @@ var inscriptions = new Map([
         "images/HTWa1292-Inscription.jpg"
     ],
     "name": "HTWa1292",
+    "names": "HTWa1292",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 79",
     "site": "Haghia Triada",
@@ -24732,6 +25226,7 @@ var inscriptions = new Map([
         "images/HTWa1293-Inscription.jpg"
     ],
     "name": "HTWa1293",
+    "names": "HTWa1293",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 78",
     "site": "Haghia Triada",
@@ -24759,6 +25254,7 @@ var inscriptions = new Map([
         "images/HTWa1294-Inscription.jpg"
     ],
     "name": "HTWa1294",
+    "names": "HTWa1294",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 80",
     "site": "Haghia Triada",
@@ -24786,6 +25282,7 @@ var inscriptions = new Map([
         "images/HTWa1295-Inscription.jpg"
     ],
     "name": "HTWa1295",
+    "names": "HTWa1295",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 81",
     "site": "Haghia Triada",
@@ -24813,6 +25310,7 @@ var inscriptions = new Map([
         "images/HTWa1296-Inscription.jpg"
     ],
     "name": "HTWa1296",
+    "names": "HTWa1296",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 80",
     "site": "Haghia Triada",
@@ -24840,6 +25338,7 @@ var inscriptions = new Map([
         "images/HTWa1297-Inscription.jpg"
     ],
     "name": "HTWa1297",
+    "names": "HTWa1297",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 81",
     "site": "Haghia Triada",
@@ -24867,6 +25366,7 @@ var inscriptions = new Map([
         "images/HTWa1298-Inscription.jpg"
     ],
     "name": "HTWa1298",
+    "names": "HTWa1298",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24894,6 +25394,7 @@ var inscriptions = new Map([
         "images/HTWa1299-Inscription.jpg"
     ],
     "name": "HTWa1299",
+    "names": "HTWa1299",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24921,6 +25422,7 @@ var inscriptions = new Map([
         "images/HTWa1300-Inscription.jpg"
     ],
     "name": "HTWa1300",
+    "names": "HTWa1300",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24948,6 +25450,7 @@ var inscriptions = new Map([
         "images/HTWa1301-Inscription.jpg"
     ],
     "name": "HTWa1301",
+    "names": "HTWa1301",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -24975,6 +25478,7 @@ var inscriptions = new Map([
         "images/HTWa1302-Inscription.jpg"
     ],
     "name": "HTWa1302",
+    "names": "HTWa1302",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 82",
     "site": "Haghia Triada",
@@ -25002,6 +25506,7 @@ var inscriptions = new Map([
         "images/HTWa1303-Inscription.jpg"
     ],
     "name": "HTWa1303",
+    "names": "HTWa1303",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25029,6 +25534,7 @@ var inscriptions = new Map([
         "images/HTWa1304-Inscription.jpg"
     ],
     "name": "HTWa1304",
+    "names": "HTWa1304",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25056,6 +25562,7 @@ var inscriptions = new Map([
         "images/HTWa1305-Inscription.jpg"
     ],
     "name": "HTWa1305",
+    "names": "HTWa1305",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25083,6 +25590,7 @@ var inscriptions = new Map([
         "images/HTWa1306-Inscription.jpg"
     ],
     "name": "HTWa1306",
+    "names": "HTWa1306",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25110,6 +25618,7 @@ var inscriptions = new Map([
         "images/HTWa1307-Inscription.jpg"
     ],
     "name": "HTWa1307",
+    "names": "HTWa1307",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 83",
     "site": "Haghia Triada",
@@ -25137,6 +25646,7 @@ var inscriptions = new Map([
         "images/HTWa1308-Inscription.jpg"
     ],
     "name": "HTWa1308",
+    "names": "HTWa1308",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 76",
     "site": "Haghia Triada",
@@ -25164,6 +25674,7 @@ var inscriptions = new Map([
         "images/HTWa1309-Inscription.jpg"
     ],
     "name": "HTWa1309",
+    "names": "HTWa1309",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 83",
     "site": "Haghia Triada",
@@ -25191,6 +25702,7 @@ var inscriptions = new Map([
         "images/HTWa1310-Inscription.jpg"
     ],
     "name": "HTWa1310",
+    "names": "HTWa1310",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 77",
     "site": "Haghia Triada",
@@ -25218,6 +25730,7 @@ var inscriptions = new Map([
         "images/HTWa1311-Inscription.jpg"
     ],
     "name": "HTWa1311",
+    "names": "HTWa1311",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25245,6 +25758,7 @@ var inscriptions = new Map([
         "images/HTWa1312-Inscription.jpg"
     ],
     "name": "HTWa1312",
+    "names": "HTWa1312",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25272,6 +25786,7 @@ var inscriptions = new Map([
         "images/HTWa1313-Inscription.jpg"
     ],
     "name": "HTWa1313",
+    "names": "HTWa1313",
     "parsedInscription": "𐘼",
     "scribe": "HT Wa Scribe 77",
     "site": "Haghia Triada",
@@ -25299,6 +25814,7 @@ var inscriptions = new Map([
         "images/HTWa1314-Inscription.jpg"
     ],
     "name": "HTWa1314",
+    "names": "HTWa1314",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25326,6 +25842,7 @@ var inscriptions = new Map([
         "images/HTWa1315-Inscription.jpg"
     ],
     "name": "HTWa1315",
+    "names": "HTWa1315",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25353,6 +25870,7 @@ var inscriptions = new Map([
         "images/HTWa1316-Inscription.jpg"
     ],
     "name": "HTWa1316",
+    "names": "HTWa1316",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25380,6 +25898,7 @@ var inscriptions = new Map([
         "images/HTWa1317-Inscription.jpg"
     ],
     "name": "HTWa1317",
+    "names": "HTWa1317",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25407,6 +25926,7 @@ var inscriptions = new Map([
         "images/HTWa1318-Inscription.jpg"
     ],
     "name": "HTWa1318",
+    "names": "HTWa1318",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25434,6 +25954,7 @@ var inscriptions = new Map([
         "images/HTWa1319-Inscription.jpg"
     ],
     "name": "HTWa1319",
+    "names": "HTWa1319",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25461,6 +25982,7 @@ var inscriptions = new Map([
         "images/HTWa1320-Inscription.jpg"
     ],
     "name": "HTWa1320",
+    "names": "HTWa1320",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25488,6 +26010,7 @@ var inscriptions = new Map([
         "images/HTWa1321-Inscription.jpg"
     ],
     "name": "HTWa1321",
+    "names": "HTWa1321",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25515,6 +26038,7 @@ var inscriptions = new Map([
         "images/HTWa1322-Inscription.jpg"
     ],
     "name": "HTWa1322",
+    "names": "HTWa1322",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25542,6 +26066,7 @@ var inscriptions = new Map([
         "images/HTWa1323-Inscription.jpg"
     ],
     "name": "HTWa1323",
+    "names": "HTWa1323",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25569,6 +26094,7 @@ var inscriptions = new Map([
         "images/HTWa1324-Inscription.jpg"
     ],
     "name": "HTWa1324",
+    "names": "HTWa1324",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25596,6 +26122,7 @@ var inscriptions = new Map([
         "images/HTWa1325-Inscription.jpg"
     ],
     "name": "HTWa1325",
+    "names": "HTWa1325",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25623,6 +26150,7 @@ var inscriptions = new Map([
         "images/HTWa1326-Inscription.jpg"
     ],
     "name": "HTWa1326",
+    "names": "HTWa1326",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25650,6 +26178,7 @@ var inscriptions = new Map([
         "images/HTWa1327-Inscription.jpg"
     ],
     "name": "HTWa1327",
+    "names": "HTWa1327",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25677,6 +26206,7 @@ var inscriptions = new Map([
         "images/HTWa1328-Inscription.jpg"
     ],
     "name": "HTWa1328",
+    "names": "HTWa1328",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25704,6 +26234,7 @@ var inscriptions = new Map([
         "images/HTWa1329-Inscription.jpg"
     ],
     "name": "HTWa1329",
+    "names": "HTWa1329",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25731,6 +26262,7 @@ var inscriptions = new Map([
         "images/HTWa1330-Inscription.jpg"
     ],
     "name": "HTWa1330",
+    "names": "HTWa1330",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25758,6 +26290,7 @@ var inscriptions = new Map([
         "images/HTWa1331-Inscription.jpg"
     ],
     "name": "HTWa1331",
+    "names": "HTWa1331",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25785,6 +26318,7 @@ var inscriptions = new Map([
         "images/HTWa1332-Inscription.jpg"
     ],
     "name": "HTWa1332",
+    "names": "HTWa1332",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25812,6 +26346,7 @@ var inscriptions = new Map([
         "images/HTWa1333-Inscription.jpg"
     ],
     "name": "HTWa1333",
+    "names": "HTWa1333",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25839,6 +26374,7 @@ var inscriptions = new Map([
         "images/HTWa1334-Inscription.jpg"
     ],
     "name": "HTWa1334",
+    "names": "HTWa1334",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25866,6 +26402,7 @@ var inscriptions = new Map([
         "images/HTWa1335-Inscription.jpg"
     ],
     "name": "HTWa1335",
+    "names": "HTWa1335",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25893,6 +26430,7 @@ var inscriptions = new Map([
         "images/HTWa1336-Inscription.jpg"
     ],
     "name": "HTWa1336",
+    "names": "HTWa1336",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25920,6 +26458,7 @@ var inscriptions = new Map([
         "images/HTWa1337-Inscription.jpg"
     ],
     "name": "HTWa1337",
+    "names": "HTWa1337",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25947,6 +26486,7 @@ var inscriptions = new Map([
         "images/HTWa1338-Inscription.jpg"
     ],
     "name": "HTWa1338",
+    "names": "HTWa1338",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -25974,6 +26514,7 @@ var inscriptions = new Map([
         "images/HTWa1339-Inscription.jpg"
     ],
     "name": "HTWa1339",
+    "names": "HTWa1339",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26001,6 +26542,7 @@ var inscriptions = new Map([
         "images/HTWa1340-Inscription.jpg"
     ],
     "name": "HTWa1340",
+    "names": "HTWa1340",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26028,6 +26570,7 @@ var inscriptions = new Map([
         "images/HTWa1341-Inscription.jpg"
     ],
     "name": "HTWa1341",
+    "names": "HTWa1341",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26055,6 +26598,7 @@ var inscriptions = new Map([
         "images/HTWa1342-Inscription.jpg"
     ],
     "name": "HTWa1342",
+    "names": "HTWa1342",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26082,6 +26626,7 @@ var inscriptions = new Map([
         "images/HTWa1343-Inscription.jpg"
     ],
     "name": "HTWa1343",
+    "names": "HTWa1343",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26109,6 +26654,7 @@ var inscriptions = new Map([
         "images/HTWa1344-Inscription.jpg"
     ],
     "name": "HTWa1344",
+    "names": "HTWa1344",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26136,6 +26682,7 @@ var inscriptions = new Map([
         "images/HTWa1345-Inscription.jpg"
     ],
     "name": "HTWa1345",
+    "names": "HTWa1345",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26163,6 +26710,7 @@ var inscriptions = new Map([
         "images/HTWa1346-Inscription.jpg"
     ],
     "name": "HTWa1346",
+    "names": "HTWa1346",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26190,6 +26738,7 @@ var inscriptions = new Map([
         "images/HTWa1347-Inscription.jpg"
     ],
     "name": "HTWa1347",
+    "names": "HTWa1347",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26217,6 +26766,7 @@ var inscriptions = new Map([
         "images/HTWa1348-Inscription.jpg"
     ],
     "name": "HTWa1348",
+    "names": "HTWa1348",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26244,6 +26794,7 @@ var inscriptions = new Map([
         "images/HTWa1349-Inscription.jpg"
     ],
     "name": "HTWa1349",
+    "names": "HTWa1349",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26271,6 +26822,7 @@ var inscriptions = new Map([
         "images/HTWa1350-Inscription.jpg"
     ],
     "name": "HTWa1350",
+    "names": "HTWa1350",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26298,6 +26850,7 @@ var inscriptions = new Map([
         "images/HTWa1351-Inscription.jpg"
     ],
     "name": "HTWa1351",
+    "names": "HTWa1351",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26325,6 +26878,7 @@ var inscriptions = new Map([
         "images/HTWa1352-Inscription.jpg"
     ],
     "name": "HTWa1352",
+    "names": "HTWa1352",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26352,6 +26906,7 @@ var inscriptions = new Map([
         "images/HTWa1353-Inscription.jpg"
     ],
     "name": "HTWa1353",
+    "names": "HTWa1353",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26379,6 +26934,7 @@ var inscriptions = new Map([
         "images/HTWa1354-Inscription.jpg"
     ],
     "name": "HTWa1354",
+    "names": "HTWa1354",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26406,6 +26962,7 @@ var inscriptions = new Map([
         "images/HTWa1355-Inscription.jpg"
     ],
     "name": "HTWa1355",
+    "names": "HTWa1355",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26433,6 +26990,7 @@ var inscriptions = new Map([
         "images/HTWa1356-Inscription.jpg"
     ],
     "name": "HTWa1356",
+    "names": "HTWa1356",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26460,6 +27018,7 @@ var inscriptions = new Map([
         "images/HTWa1357-Inscription.jpg"
     ],
     "name": "HTWa1357",
+    "names": "HTWa1357",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26487,6 +27046,7 @@ var inscriptions = new Map([
         "images/HTWa1358-Inscription.jpg"
     ],
     "name": "HTWa1358",
+    "names": "HTWa1358",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26514,6 +27074,7 @@ var inscriptions = new Map([
         "images/HTWa1359-Inscription.jpg"
     ],
     "name": "HTWa1359",
+    "names": "HTWa1359",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26541,6 +27102,7 @@ var inscriptions = new Map([
         "images/HTWa1360-Inscription.jpg"
     ],
     "name": "HTWa1360",
+    "names": "HTWa1360",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26568,6 +27130,7 @@ var inscriptions = new Map([
         "images/HTWa1361-Inscription.jpg"
     ],
     "name": "HTWa1361",
+    "names": "HTWa1361",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26595,6 +27158,7 @@ var inscriptions = new Map([
         "images/HTWa1362-Inscription.jpg"
     ],
     "name": "HTWa1362",
+    "names": "HTWa1362",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26622,6 +27186,7 @@ var inscriptions = new Map([
         "images/HTWa1363-Inscription.jpg"
     ],
     "name": "HTWa1363",
+    "names": "HTWa1363",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26649,6 +27214,7 @@ var inscriptions = new Map([
         "images/HTWa1364-Inscription.jpg"
     ],
     "name": "HTWa1364",
+    "names": "HTWa1364",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26676,6 +27242,7 @@ var inscriptions = new Map([
         "images/HTWa1365-Inscription.jpg"
     ],
     "name": "HTWa1365",
+    "names": "HTWa1365",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26703,6 +27270,7 @@ var inscriptions = new Map([
         "images/HTWa1366-Inscription.jpg"
     ],
     "name": "HTWa1366",
+    "names": "HTWa1366",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26730,6 +27298,7 @@ var inscriptions = new Map([
         "images/HTWa1367-Inscription.jpg"
     ],
     "name": "HTWa1367",
+    "names": "HTWa1367",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26757,6 +27326,7 @@ var inscriptions = new Map([
         "images/HTWa1368-Inscription.jpg"
     ],
     "name": "HTWa1368",
+    "names": "HTWa1368",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26784,6 +27354,7 @@ var inscriptions = new Map([
         "images/HTWa1369-Inscription.jpg"
     ],
     "name": "HTWa1369",
+    "names": "HTWa1369",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26811,6 +27382,7 @@ var inscriptions = new Map([
         "images/HTWa1370-Inscription.jpg"
     ],
     "name": "HTWa1370",
+    "names": "HTWa1370",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26838,6 +27410,7 @@ var inscriptions = new Map([
         "images/HTWa1371-Inscription.jpg"
     ],
     "name": "HTWa1371",
+    "names": "HTWa1371",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26865,6 +27438,7 @@ var inscriptions = new Map([
         "images/HTWa1372-Inscription.jpg"
     ],
     "name": "HTWa1372",
+    "names": "HTWa1372",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26892,6 +27466,7 @@ var inscriptions = new Map([
         "images/HTWa1373-Inscription.jpg"
     ],
     "name": "HTWa1373",
+    "names": "HTWa1373",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26919,6 +27494,7 @@ var inscriptions = new Map([
         "images/HTWa1374-Inscription.jpg"
     ],
     "name": "HTWa1374",
+    "names": "HTWa1374",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26946,6 +27522,7 @@ var inscriptions = new Map([
         "images/HTWa1375-Inscription.jpg"
     ],
     "name": "HTWa1375",
+    "names": "HTWa1375",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -26973,6 +27550,7 @@ var inscriptions = new Map([
         "images/HTWa1376-Inscription.jpg"
     ],
     "name": "HTWa1376",
+    "names": "HTWa1376",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27000,6 +27578,7 @@ var inscriptions = new Map([
         "images/HTWa1377-Inscription.jpg"
     ],
     "name": "HTWa1377",
+    "names": "HTWa1377",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27027,6 +27606,7 @@ var inscriptions = new Map([
         "images/HTWa1378-Inscription.jpg"
     ],
     "name": "HTWa1378",
+    "names": "HTWa1378",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27054,6 +27634,7 @@ var inscriptions = new Map([
         "images/HTWa1379-Inscription.jpg"
     ],
     "name": "HTWa1379",
+    "names": "HTWa1379",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27081,6 +27662,7 @@ var inscriptions = new Map([
         "images/HTWa1380-Inscription.jpg"
     ],
     "name": "HTWa1380",
+    "names": "HTWa1380",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27108,6 +27690,7 @@ var inscriptions = new Map([
         "images/HTWa1381-Inscription.jpg"
     ],
     "name": "HTWa1381",
+    "names": "HTWa1381",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27135,6 +27718,7 @@ var inscriptions = new Map([
         "images/HTWa1382-Inscription.jpg"
     ],
     "name": "HTWa1382",
+    "names": "HTWa1382",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27162,6 +27746,7 @@ var inscriptions = new Map([
         "images/HTWa1383-Inscription.jpg"
     ],
     "name": "HTWa1383",
+    "names": "HTWa1383",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27189,6 +27774,7 @@ var inscriptions = new Map([
         "images/HTWa1384-Inscription.jpg"
     ],
     "name": "HTWa1384",
+    "names": "HTWa1384",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27216,6 +27802,7 @@ var inscriptions = new Map([
         "images/HTWa1385-Inscription.jpg"
     ],
     "name": "HTWa1385",
+    "names": "HTWa1385",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27243,6 +27830,7 @@ var inscriptions = new Map([
         "images/HTWa1386-Inscription.jpg"
     ],
     "name": "HTWa1386",
+    "names": "HTWa1386",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27270,6 +27858,7 @@ var inscriptions = new Map([
         "images/HTWa1387-Inscription.jpg"
     ],
     "name": "HTWa1387",
+    "names": "HTWa1387",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27297,6 +27886,7 @@ var inscriptions = new Map([
         "images/HTWa1388-Inscription.jpg"
     ],
     "name": "HTWa1388",
+    "names": "HTWa1388",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27324,6 +27914,7 @@ var inscriptions = new Map([
         "images/HTWa1389-Inscription.jpg"
     ],
     "name": "HTWa1389",
+    "names": "HTWa1389",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27351,6 +27942,7 @@ var inscriptions = new Map([
         "images/HTWa1390-Inscription.jpg"
     ],
     "name": "HTWa1390",
+    "names": "HTWa1390",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27378,6 +27970,7 @@ var inscriptions = new Map([
         "images/HTWa1391-Inscription.jpg"
     ],
     "name": "HTWa1391",
+    "names": "HTWa1391",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27405,6 +27998,7 @@ var inscriptions = new Map([
         "images/HTWa1392-Inscription.jpg"
     ],
     "name": "HTWa1392",
+    "names": "HTWa1392",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27432,6 +28026,7 @@ var inscriptions = new Map([
         "images/HTWa1393-Inscription.jpg"
     ],
     "name": "HTWa1393",
+    "names": "HTWa1393",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27459,6 +28054,7 @@ var inscriptions = new Map([
         "images/HTWa1394-Inscription.jpg"
     ],
     "name": "HTWa1394",
+    "names": "HTWa1394",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27486,6 +28082,7 @@ var inscriptions = new Map([
         "images/HTWa1395-Inscription.jpg"
     ],
     "name": "HTWa1395",
+    "names": "HTWa1395",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27513,6 +28110,7 @@ var inscriptions = new Map([
         "images/HTWa1396-Inscription.jpg"
     ],
     "name": "HTWa1396",
+    "names": "HTWa1396",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27540,6 +28138,7 @@ var inscriptions = new Map([
         "images/HTWa1397-Inscription.jpg"
     ],
     "name": "HTWa1397",
+    "names": "HTWa1397",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27567,6 +28166,7 @@ var inscriptions = new Map([
         "images/HTWa1398-Inscription.jpg"
     ],
     "name": "HTWa1398",
+    "names": "HTWa1398",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27594,6 +28194,7 @@ var inscriptions = new Map([
         "images/HTWa1399-Inscription.jpg"
     ],
     "name": "HTWa1399",
+    "names": "HTWa1399",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27621,6 +28222,7 @@ var inscriptions = new Map([
         "images/HTWa1400-Inscription.jpg"
     ],
     "name": "HTWa1400",
+    "names": "HTWa1400",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27648,6 +28250,7 @@ var inscriptions = new Map([
         "images/HTWa1401-Inscription.jpg"
     ],
     "name": "HTWa1401",
+    "names": "HTWa1401",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27675,6 +28278,7 @@ var inscriptions = new Map([
         "images/HTWa1402-Inscription.jpg"
     ],
     "name": "HTWa1402",
+    "names": "HTWa1402",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27702,6 +28306,7 @@ var inscriptions = new Map([
         "images/HTWa1403-Inscription.jpg"
     ],
     "name": "HTWa1403",
+    "names": "HTWa1403",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27729,6 +28334,7 @@ var inscriptions = new Map([
         "images/HTWa1404-Inscription.jpg"
     ],
     "name": "HTWa1404",
+    "names": "HTWa1404",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27756,6 +28362,7 @@ var inscriptions = new Map([
         "images/HTWa1405-Inscription.jpg"
     ],
     "name": "HTWa1405",
+    "names": "HTWa1405",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27783,6 +28390,7 @@ var inscriptions = new Map([
         "images/HTWa1406-Inscription.jpg"
     ],
     "name": "HTWa1406",
+    "names": "HTWa1406",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27810,6 +28418,7 @@ var inscriptions = new Map([
         "images/HTWa1407-Inscription.jpg"
     ],
     "name": "HTWa1407",
+    "names": "HTWa1407",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27837,6 +28446,7 @@ var inscriptions = new Map([
         "images/HTWa1408-Inscription.jpg"
     ],
     "name": "HTWa1408",
+    "names": "HTWa1408",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27864,6 +28474,7 @@ var inscriptions = new Map([
         "images/HTWa1409-Inscription.jpg"
     ],
     "name": "HTWa1409",
+    "names": "HTWa1409",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27891,6 +28502,7 @@ var inscriptions = new Map([
         "images/HTWa1410-Inscription.jpg"
     ],
     "name": "HTWa1410",
+    "names": "HTWa1410",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27918,6 +28530,7 @@ var inscriptions = new Map([
         "images/HTWa1411-Inscription.jpg"
     ],
     "name": "HTWa1411",
+    "names": "HTWa1411",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27945,6 +28558,7 @@ var inscriptions = new Map([
         "images/HTWa1412-Inscription.jpg"
     ],
     "name": "HTWa1412",
+    "names": "HTWa1412",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27972,6 +28586,7 @@ var inscriptions = new Map([
         "images/HTWa1413-Inscription.jpg"
     ],
     "name": "HTWa1413",
+    "names": "HTWa1413",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -27999,6 +28614,7 @@ var inscriptions = new Map([
         "images/HTWa1414-Inscription.jpg"
     ],
     "name": "HTWa1414",
+    "names": "HTWa1414",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28026,6 +28642,7 @@ var inscriptions = new Map([
         "images/HTWa1415-Inscription.jpg"
     ],
     "name": "HTWa1415",
+    "names": "HTWa1415",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28053,6 +28670,7 @@ var inscriptions = new Map([
         "images/HTWa1416-Inscription.jpg"
     ],
     "name": "HTWa1416",
+    "names": "HTWa1416",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28080,6 +28698,7 @@ var inscriptions = new Map([
         "images/HTWa1417-Inscription.jpg"
     ],
     "name": "HTWa1417",
+    "names": "HTWa1417",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28107,6 +28726,7 @@ var inscriptions = new Map([
         "images/HTWa1418-Inscription.jpg"
     ],
     "name": "HTWa1418",
+    "names": "HTWa1418",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28134,6 +28754,7 @@ var inscriptions = new Map([
         "images/HTWa1419-Inscription.jpg"
     ],
     "name": "HTWa1419",
+    "names": "HTWa1419",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28161,6 +28782,7 @@ var inscriptions = new Map([
         "images/HTWa1420-Inscription.jpg"
     ],
     "name": "HTWa1420",
+    "names": "HTWa1420",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28188,6 +28810,7 @@ var inscriptions = new Map([
         "images/HTWa1421-Inscription.jpg"
     ],
     "name": "HTWa1421",
+    "names": "HTWa1421",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28215,6 +28838,7 @@ var inscriptions = new Map([
         "images/HTWa1422-Inscription.jpg"
     ],
     "name": "HTWa1422",
+    "names": "HTWa1422",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28242,6 +28866,7 @@ var inscriptions = new Map([
         "images/HTWa1423-Inscription.jpg"
     ],
     "name": "HTWa1423",
+    "names": "HTWa1423",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28269,6 +28894,7 @@ var inscriptions = new Map([
         "images/HTWa1424-Inscription.jpg"
     ],
     "name": "HTWa1424",
+    "names": "HTWa1424",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28296,6 +28922,7 @@ var inscriptions = new Map([
         "images/HTWa1425-Inscription.jpg"
     ],
     "name": "HTWa1425",
+    "names": "HTWa1425",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28323,6 +28950,7 @@ var inscriptions = new Map([
         "images/HTWa1426-Inscription.jpg"
     ],
     "name": "HTWa1426",
+    "names": "HTWa1426",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28350,6 +28978,7 @@ var inscriptions = new Map([
         "images/HTWa1427-Inscription.jpg"
     ],
     "name": "HTWa1427",
+    "names": "HTWa1427",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28377,6 +29006,7 @@ var inscriptions = new Map([
         "images/HTWa1428-Inscription.jpg"
     ],
     "name": "HTWa1428",
+    "names": "HTWa1428",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28404,6 +29034,7 @@ var inscriptions = new Map([
         "images/HTWa1429-Inscription.jpg"
     ],
     "name": "HTWa1429",
+    "names": "HTWa1429",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28431,6 +29062,7 @@ var inscriptions = new Map([
         "images/HTWa1430-Inscription.jpg"
     ],
     "name": "HTWa1430",
+    "names": "HTWa1430",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28458,6 +29090,7 @@ var inscriptions = new Map([
         "images/HTWa1431-Inscription.jpg"
     ],
     "name": "HTWa1431",
+    "names": "HTWa1431",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28485,6 +29118,7 @@ var inscriptions = new Map([
         "images/HTWa1432-Inscription.jpg"
     ],
     "name": "HTWa1432",
+    "names": "HTWa1432",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28512,6 +29146,7 @@ var inscriptions = new Map([
         "images/HTWa1433-Inscription.jpg"
     ],
     "name": "HTWa1433",
+    "names": "HTWa1433",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28539,6 +29174,7 @@ var inscriptions = new Map([
         "images/HTWa1434-Inscription.jpg"
     ],
     "name": "HTWa1434",
+    "names": "HTWa1434",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28566,6 +29202,7 @@ var inscriptions = new Map([
         "images/HTWa1435-Inscription.jpg"
     ],
     "name": "HTWa1435",
+    "names": "HTWa1435",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28593,6 +29230,7 @@ var inscriptions = new Map([
         "images/HTWa1436-Inscription.jpg"
     ],
     "name": "HTWa1436",
+    "names": "HTWa1436",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28620,6 +29258,7 @@ var inscriptions = new Map([
         "images/HTWa1437-Inscription.jpg"
     ],
     "name": "HTWa1437",
+    "names": "HTWa1437",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28647,6 +29286,7 @@ var inscriptions = new Map([
         "images/HTWa1438-Inscription.jpg"
     ],
     "name": "HTWa1438",
+    "names": "HTWa1438",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28674,6 +29314,7 @@ var inscriptions = new Map([
         "images/HTWa1439-Inscription.jpg"
     ],
     "name": "HTWa1439",
+    "names": "HTWa1439",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28701,6 +29342,7 @@ var inscriptions = new Map([
         "images/HTWa1440-Inscription.jpg"
     ],
     "name": "HTWa1440",
+    "names": "HTWa1440",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28728,6 +29370,7 @@ var inscriptions = new Map([
         "images/HTWa1441-Inscription.jpg"
     ],
     "name": "HTWa1441",
+    "names": "HTWa1441",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28755,6 +29398,7 @@ var inscriptions = new Map([
         "images/HTWa1442-Inscription.jpg"
     ],
     "name": "HTWa1442",
+    "names": "HTWa1442",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28782,6 +29426,7 @@ var inscriptions = new Map([
         "images/HTWa1443-Inscription.jpg"
     ],
     "name": "HTWa1443",
+    "names": "HTWa1443",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28809,6 +29454,7 @@ var inscriptions = new Map([
         "images/HTWa1444-Inscription.jpg"
     ],
     "name": "HTWa1444",
+    "names": "HTWa1444",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28836,6 +29482,7 @@ var inscriptions = new Map([
         "images/HTWa1445-Inscription.jpg"
     ],
     "name": "HTWa1445",
+    "names": "HTWa1445",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28863,6 +29510,7 @@ var inscriptions = new Map([
         "images/HTWa1446-Inscription.jpg"
     ],
     "name": "HTWa1446",
+    "names": "HTWa1446",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28890,6 +29538,7 @@ var inscriptions = new Map([
         "images/HTWa1447-Inscription.jpg"
     ],
     "name": "HTWa1447",
+    "names": "HTWa1447",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28917,6 +29566,7 @@ var inscriptions = new Map([
         "images/HTWa1448-Inscription.jpg"
     ],
     "name": "HTWa1448",
+    "names": "HTWa1448",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28944,6 +29594,7 @@ var inscriptions = new Map([
         "images/HTWa1449-Inscription.jpg"
     ],
     "name": "HTWa1449",
+    "names": "HTWa1449",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28971,6 +29622,7 @@ var inscriptions = new Map([
         "images/HTWa1450-Inscription.jpg"
     ],
     "name": "HTWa1450",
+    "names": "HTWa1450",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -28998,6 +29650,7 @@ var inscriptions = new Map([
         "images/HTWa1451-Inscription.jpg"
     ],
     "name": "HTWa1451",
+    "names": "HTWa1451",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29025,6 +29678,7 @@ var inscriptions = new Map([
         "images/HTWa1452-Inscription.jpg"
     ],
     "name": "HTWa1452",
+    "names": "HTWa1452",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29052,6 +29706,7 @@ var inscriptions = new Map([
         "images/HTWa1453-Inscription.jpg"
     ],
     "name": "HTWa1453",
+    "names": "HTWa1453",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29079,6 +29734,7 @@ var inscriptions = new Map([
         "images/HTWa1454-Inscription.jpg"
     ],
     "name": "HTWa1454",
+    "names": "HTWa1454",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29106,6 +29762,7 @@ var inscriptions = new Map([
         "images/HTWa1455-Inscription.jpg"
     ],
     "name": "HTWa1455",
+    "names": "HTWa1455",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29133,6 +29790,7 @@ var inscriptions = new Map([
         "images/HTWa1456-Inscription.jpg"
     ],
     "name": "HTWa1456",
+    "names": "HTWa1456",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29160,6 +29818,7 @@ var inscriptions = new Map([
         "images/HTWa1457-Inscription.jpg"
     ],
     "name": "HTWa1457",
+    "names": "HTWa1457",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29187,6 +29846,7 @@ var inscriptions = new Map([
         "images/HTWa1458-Inscription.jpg"
     ],
     "name": "HTWa1458",
+    "names": "HTWa1458",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29214,6 +29874,7 @@ var inscriptions = new Map([
         "images/HTWa1459-Inscription.jpg"
     ],
     "name": "HTWa1459",
+    "names": "HTWa1459",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29241,6 +29902,7 @@ var inscriptions = new Map([
         "images/HTWa1460-Inscription.jpg"
     ],
     "name": "HTWa1460",
+    "names": "HTWa1460",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29268,6 +29930,7 @@ var inscriptions = new Map([
         "images/HTWa1461-Inscription.jpg"
     ],
     "name": "HTWa1461",
+    "names": "HTWa1461",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29295,6 +29958,7 @@ var inscriptions = new Map([
         "images/HTWa1462-Inscription.jpg"
     ],
     "name": "HTWa1462",
+    "names": "HTWa1462",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29322,6 +29986,7 @@ var inscriptions = new Map([
         "images/HTWa1463-Inscription.jpg"
     ],
     "name": "HTWa1463",
+    "names": "HTWa1463",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29349,6 +30014,7 @@ var inscriptions = new Map([
         "images/HTWa1464-Inscription.jpg"
     ],
     "name": "HTWa1464",
+    "names": "HTWa1464",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29376,6 +30042,7 @@ var inscriptions = new Map([
         "images/HTWa1465-Inscription.jpg"
     ],
     "name": "HTWa1465",
+    "names": "HTWa1465",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29403,6 +30070,7 @@ var inscriptions = new Map([
         "images/HTWa1466-Inscription.jpg"
     ],
     "name": "HTWa1466",
+    "names": "HTWa1466",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29430,6 +30098,7 @@ var inscriptions = new Map([
         "images/HTWa1467-Inscription.jpg"
     ],
     "name": "HTWa1467",
+    "names": "HTWa1467",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29457,6 +30126,7 @@ var inscriptions = new Map([
         "images/HTWa1468-Inscription.jpg"
     ],
     "name": "HTWa1468",
+    "names": "HTWa1468",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29484,6 +30154,7 @@ var inscriptions = new Map([
         "images/HTWa1469-Inscription.jpg"
     ],
     "name": "HTWa1469",
+    "names": "HTWa1469",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29511,6 +30182,7 @@ var inscriptions = new Map([
         "images/HTWa1470-Inscription.jpg"
     ],
     "name": "HTWa1470",
+    "names": "HTWa1470",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29538,6 +30210,7 @@ var inscriptions = new Map([
         "images/HTWa1471-Inscription.jpg"
     ],
     "name": "HTWa1471",
+    "names": "HTWa1471",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29565,6 +30238,7 @@ var inscriptions = new Map([
         "images/HTWa1472-Inscription.jpg"
     ],
     "name": "HTWa1472",
+    "names": "HTWa1472",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29592,6 +30266,7 @@ var inscriptions = new Map([
         "images/HTWa1473-Inscription.jpg"
     ],
     "name": "HTWa1473",
+    "names": "HTWa1473",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29619,6 +30294,7 @@ var inscriptions = new Map([
         "images/HTWa1474-Inscription.jpg"
     ],
     "name": "HTWa1474",
+    "names": "HTWa1474",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29646,6 +30322,7 @@ var inscriptions = new Map([
         "images/HTWa1475-Inscription.jpg"
     ],
     "name": "HTWa1475",
+    "names": "HTWa1475",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29673,6 +30350,7 @@ var inscriptions = new Map([
         "images/HTWa1476-Inscription.jpg"
     ],
     "name": "HTWa1476",
+    "names": "HTWa1476",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29700,6 +30378,7 @@ var inscriptions = new Map([
         "images/HTWa1477-Inscription.jpg"
     ],
     "name": "HTWa1477",
+    "names": "HTWa1477",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29727,6 +30406,7 @@ var inscriptions = new Map([
         "images/HTWa1478-Inscription.jpg"
     ],
     "name": "HTWa1478",
+    "names": "HTWa1478",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29754,6 +30434,7 @@ var inscriptions = new Map([
         "images/HTWa1479-Inscription.jpg"
     ],
     "name": "HTWa1479",
+    "names": "HTWa1479",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29781,6 +30462,7 @@ var inscriptions = new Map([
         "images/HTWa1480-Inscription.jpg"
     ],
     "name": "HTWa1480",
+    "names": "HTWa1480",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29808,6 +30490,7 @@ var inscriptions = new Map([
         "images/HTWa1481-Inscription.jpg"
     ],
     "name": "HTWa1481",
+    "names": "HTWa1481",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
     "site": "Haghia Triada",
@@ -29835,6 +30518,7 @@ var inscriptions = new Map([
         "images/HTWa1482-Inscription.jpg"
     ],
     "name": "HTWa1482",
+    "names": "HTWa1482",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29862,6 +30546,7 @@ var inscriptions = new Map([
         "images/HTWa1483-Inscription.jpg"
     ],
     "name": "HTWa1483",
+    "names": "HTWa1483",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29889,6 +30574,7 @@ var inscriptions = new Map([
         "images/HTWa1484-Inscription.jpg"
     ],
     "name": "HTWa1484",
+    "names": "HTWa1484",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29916,6 +30602,7 @@ var inscriptions = new Map([
         "images/HTWa1485-Inscription.jpg"
     ],
     "name": "HTWa1485",
+    "names": "HTWa1485",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -29943,6 +30630,7 @@ var inscriptions = new Map([
         "images/HTWa1486-Inscription.jpg"
     ],
     "name": "HTWa1486",
+    "names": "HTWa1486",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29970,6 +30658,7 @@ var inscriptions = new Map([
         "images/HTWa1487-Inscription.jpg"
     ],
     "name": "HTWa1487",
+    "names": "HTWa1487",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -29997,6 +30686,7 @@ var inscriptions = new Map([
         "images/HTWa1488-Inscription.jpg"
     ],
     "name": "HTWa1488",
+    "names": "HTWa1488",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30024,6 +30714,7 @@ var inscriptions = new Map([
         "images/HTWa1489-Inscription.jpg"
     ],
     "name": "HTWa1489",
+    "names": "HTWa1489",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30051,6 +30742,7 @@ var inscriptions = new Map([
         "images/HTWa1490-Inscription.jpg"
     ],
     "name": "HTWa1490",
+    "names": "HTWa1490",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30078,6 +30770,7 @@ var inscriptions = new Map([
         "images/HTWa1491-Inscription.jpg"
     ],
     "name": "HTWa1491",
+    "names": "HTWa1491",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30105,6 +30798,7 @@ var inscriptions = new Map([
         "images/HTWa1492-Inscription.jpg"
     ],
     "name": "HTWa1492",
+    "names": "HTWa1492",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30132,6 +30826,7 @@ var inscriptions = new Map([
         "images/HTWa1493-Inscription.jpg"
     ],
     "name": "HTWa1493",
+    "names": "HTWa1493",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30159,6 +30854,7 @@ var inscriptions = new Map([
         "images/HTWa1494-Inscription.jpg"
     ],
     "name": "HTWa1494",
+    "names": "HTWa1494",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30186,6 +30882,7 @@ var inscriptions = new Map([
         "images/HTWa1495-Inscription.jpg"
     ],
     "name": "HTWa1495",
+    "names": "HTWa1495",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30213,6 +30910,7 @@ var inscriptions = new Map([
         "images/HTWa1496-Inscription.jpg"
     ],
     "name": "HTWa1496",
+    "names": "HTWa1496",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30240,6 +30938,7 @@ var inscriptions = new Map([
         "images/HTWa1497-Inscription.jpg"
     ],
     "name": "HTWa1497",
+    "names": "HTWa1497",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30267,6 +30966,7 @@ var inscriptions = new Map([
         "images/HTWa1498-Inscription.jpg"
     ],
     "name": "HTWa1498",
+    "names": "HTWa1498",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30294,6 +30994,7 @@ var inscriptions = new Map([
         "images/HTWa1499-Inscription.jpg"
     ],
     "name": "HTWa1499",
+    "names": "HTWa1499",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30321,6 +31022,7 @@ var inscriptions = new Map([
         "images/HTWa1500-Inscription.jpg"
     ],
     "name": "HTWa1500",
+    "names": "HTWa1500",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -30348,6 +31050,7 @@ var inscriptions = new Map([
         "images/HTWa1501-Inscription.jpg"
     ],
     "name": "HTWa1501",
+    "names": "HTWa1501",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30375,6 +31078,7 @@ var inscriptions = new Map([
         "images/HTWa1502-Inscription.jpg"
     ],
     "name": "HTWa1502",
+    "names": "HTWa1502",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30402,6 +31106,7 @@ var inscriptions = new Map([
         "images/HTWa1503-Inscription.jpg"
     ],
     "name": "HTWa1503",
+    "names": "HTWa1503",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30429,6 +31134,7 @@ var inscriptions = new Map([
         "images/HTWa1504-Inscription.jpg"
     ],
     "name": "HTWa1504",
+    "names": "HTWa1504",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30456,6 +31162,7 @@ var inscriptions = new Map([
         "images/HTWa1505-Inscription.jpg"
     ],
     "name": "HTWa1505",
+    "names": "HTWa1505",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30483,6 +31190,7 @@ var inscriptions = new Map([
         "images/HTWa1506-Inscription.jpg"
     ],
     "name": "HTWa1506",
+    "names": "HTWa1506",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30510,6 +31218,7 @@ var inscriptions = new Map([
         "images/HTWa1507-Inscription.jpg"
     ],
     "name": "HTWa1507",
+    "names": "HTWa1507",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30537,6 +31246,7 @@ var inscriptions = new Map([
         "images/HTWa1508-Inscription.jpg"
     ],
     "name": "HTWa1508",
+    "names": "HTWa1508",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30564,6 +31274,7 @@ var inscriptions = new Map([
         "images/HTWa1509-Inscription.jpg"
     ],
     "name": "HTWa1509",
+    "names": "HTWa1509",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -30591,6 +31302,7 @@ var inscriptions = new Map([
         "images/HTWa1510-Inscription.jpg"
     ],
     "name": "HTWa1510",
+    "names": "HTWa1510",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -30618,6 +31330,7 @@ var inscriptions = new Map([
         "images/HTWa1511-Inscription.jpg"
     ],
     "name": "HTWa1511",
+    "names": "HTWa1511",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -30645,6 +31358,7 @@ var inscriptions = new Map([
         "images/HTWa1512-Inscription.jpg"
     ],
     "name": "HTWa1512",
+    "names": "HTWa1512",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 86",
     "site": "Haghia Triada",
@@ -30672,6 +31386,7 @@ var inscriptions = new Map([
         "images/HTWa1513-Inscription.jpg"
     ],
     "name": "HTWa1513",
+    "names": "HTWa1513",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30699,6 +31414,7 @@ var inscriptions = new Map([
         "images/HTWa1514-Inscription.jpg"
     ],
     "name": "HTWa1514",
+    "names": "HTWa1514",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30726,6 +31442,7 @@ var inscriptions = new Map([
         "images/HTWa1515-Inscription.jpg"
     ],
     "name": "HTWa1515",
+    "names": "HTWa1515",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -30753,6 +31470,7 @@ var inscriptions = new Map([
         "images/HTWa1516-Inscription.jpg"
     ],
     "name": "HTWa1516",
+    "names": "HTWa1516",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30780,6 +31498,7 @@ var inscriptions = new Map([
         "images/HTWa1517-Inscription.jpg"
     ],
     "name": "HTWa1517",
+    "names": "HTWa1517",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30807,6 +31526,7 @@ var inscriptions = new Map([
         "images/HTWa1518-Inscription.jpg"
     ],
     "name": "HTWa1518",
+    "names": "HTWa1518",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30834,6 +31554,7 @@ var inscriptions = new Map([
         "images/HTWa1519-Inscription.jpg"
     ],
     "name": "HTWa1519",
+    "names": "HTWa1519",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30861,6 +31582,7 @@ var inscriptions = new Map([
         "images/HTWa1520-Inscription.jpg"
     ],
     "name": "HTWa1520",
+    "names": "HTWa1520",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30888,6 +31610,7 @@ var inscriptions = new Map([
         "images/HTWa1521-Inscription.jpg"
     ],
     "name": "HTWa1521",
+    "names": "HTWa1521",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30915,6 +31638,7 @@ var inscriptions = new Map([
         "images/HTWa1522-Inscription.jpg"
     ],
     "name": "HTWa1522",
+    "names": "HTWa1522",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30942,6 +31666,7 @@ var inscriptions = new Map([
         "images/HTWa1523-Inscription.jpg"
     ],
     "name": "HTWa1523",
+    "names": "HTWa1523",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30969,6 +31694,7 @@ var inscriptions = new Map([
         "images/HTWa1524-Inscription.jpg"
     ],
     "name": "HTWa1524",
+    "names": "HTWa1524",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -30996,6 +31722,7 @@ var inscriptions = new Map([
         "images/HTWa1525-Inscription.jpg"
     ],
     "name": "HTWa1525",
+    "names": "HTWa1525",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31023,6 +31750,7 @@ var inscriptions = new Map([
         "images/HTWa1526-Inscription.jpg"
     ],
     "name": "HTWa1526",
+    "names": "HTWa1526",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 88",
     "site": "Haghia Triada",
@@ -31050,6 +31778,7 @@ var inscriptions = new Map([
         "images/HTWa1527-Inscription.jpg"
     ],
     "name": "HTWa1527",
+    "names": "HTWa1527",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31077,6 +31806,7 @@ var inscriptions = new Map([
         "images/HTWa1528-Inscription.jpg"
     ],
     "name": "HTWa1528",
+    "names": "HTWa1528",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -31104,6 +31834,7 @@ var inscriptions = new Map([
         "images/HTWa1529-Inscription.jpg"
     ],
     "name": "HTWa1529",
+    "names": "HTWa1529",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31131,6 +31862,7 @@ var inscriptions = new Map([
         "images/HTWa1530-Inscription.jpg"
     ],
     "name": "HTWa1530",
+    "names": "HTWa1530",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -31158,6 +31890,7 @@ var inscriptions = new Map([
         "images/HTWa1531-Inscription.jpg"
     ],
     "name": "HTWa1531",
+    "names": "HTWa1531",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31185,6 +31918,7 @@ var inscriptions = new Map([
         "images/HTWa1532-Inscription.jpg"
     ],
     "name": "HTWa1532",
+    "names": "HTWa1532",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 88",
     "site": "Haghia Triada",
@@ -31212,6 +31946,7 @@ var inscriptions = new Map([
         "images/HTWa1533-Inscription.jpg"
     ],
     "name": "HTWa1533",
+    "names": "HTWa1533",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
     "site": "Haghia Triada",
@@ -31239,6 +31974,7 @@ var inscriptions = new Map([
         "images/HTWa1534-Inscription.jpg"
     ],
     "name": "HTWa1534",
+    "names": "HTWa1534",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
     "site": "Haghia Triada",
@@ -31266,6 +32002,7 @@ var inscriptions = new Map([
         "images/HTWa1535-Inscription.jpg"
     ],
     "name": "HTWa1535",
+    "names": "HTWa1535",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
     "site": "Haghia Triada",
@@ -31293,6 +32030,7 @@ var inscriptions = new Map([
         "images/HTWa1536-Inscription.jpg"
     ],
     "name": "HTWa1536",
+    "names": "HTWa1536",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 85",
     "site": "Haghia Triada",
@@ -31320,6 +32058,7 @@ var inscriptions = new Map([
         "images/HTWa1537-Inscription.jpg"
     ],
     "name": "HTWa1537",
+    "names": "HTWa1537",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31347,6 +32086,7 @@ var inscriptions = new Map([
         "images/HTWa1538-Inscription.jpg"
     ],
     "name": "HTWa1538",
+    "names": "HTWa1538",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31374,6 +32114,7 @@ var inscriptions = new Map([
         "images/HTWa1539-Inscription.jpg"
     ],
     "name": "HTWa1539",
+    "names": "HTWa1539",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31401,6 +32142,7 @@ var inscriptions = new Map([
         "images/HTWa1540-Inscription.jpg"
     ],
     "name": "HTWa1540",
+    "names": "HTWa1540",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -31428,6 +32170,7 @@ var inscriptions = new Map([
         "images/HTWa1541-Inscription.jpg"
     ],
     "name": "HTWa1541",
+    "names": "HTWa1541",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31455,6 +32198,7 @@ var inscriptions = new Map([
         "images/HTWa1542-Inscription.jpg"
     ],
     "name": "HTWa1542",
+    "names": "HTWa1542",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 87",
     "site": "Haghia Triada",
@@ -31482,6 +32226,7 @@ var inscriptions = new Map([
         "images/HTWa1543-Inscription.jpg"
     ],
     "name": "HTWa1543",
+    "names": "HTWa1543",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -31509,6 +32254,7 @@ var inscriptions = new Map([
         "images/HTWa1544-Inscription.jpg"
     ],
     "name": "HTWa1544",
+    "names": "HTWa1544",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -31536,6 +32282,7 @@ var inscriptions = new Map([
         "images/HTWa1545-Inscription.jpg"
     ],
     "name": "HTWa1545",
+    "names": "HTWa1545",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31563,6 +32310,7 @@ var inscriptions = new Map([
         "images/HTWa1546-Inscription.jpg"
     ],
     "name": "HTWa1546",
+    "names": "HTWa1546",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -31590,6 +32338,7 @@ var inscriptions = new Map([
         "images/HTWa1547-Inscription.jpg"
     ],
     "name": "HTWa1547",
+    "names": "HTWa1547",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -31617,6 +32366,7 @@ var inscriptions = new Map([
         "images/HTWa1548-Inscription.jpg"
     ],
     "name": "HTWa1548",
+    "names": "HTWa1548",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -31644,6 +32394,7 @@ var inscriptions = new Map([
         "images/HTWa1549-Inscription.jpg"
     ],
     "name": "HTWa1549",
+    "names": "HTWa1549",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -31671,6 +32422,7 @@ var inscriptions = new Map([
         "images/HTWa1550-Inscription.jpg"
     ],
     "name": "HTWa1550",
+    "names": "HTWa1550",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -31698,6 +32450,7 @@ var inscriptions = new Map([
         "images/HTWa1551-Inscription.jpg"
     ],
     "name": "HTWa1551",
+    "names": "HTWa1551",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -31725,6 +32478,7 @@ var inscriptions = new Map([
         "images/HTWa1552-Inscription.jpg"
     ],
     "name": "HTWa1552",
+    "names": "HTWa1552",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -31752,6 +32506,7 @@ var inscriptions = new Map([
         "images/HTWa1553-Inscription.jpg"
     ],
     "name": "HTWa1553",
+    "names": "HTWa1553",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -31779,6 +32534,7 @@ var inscriptions = new Map([
         "images/HTWa1554-Inscription.jpg"
     ],
     "name": "HTWa1554",
+    "names": "HTWa1554",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -31806,6 +32562,7 @@ var inscriptions = new Map([
         "images/HTWa1555-Inscription.jpg"
     ],
     "name": "HTWa1555",
+    "names": "HTWa1555",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31833,6 +32590,7 @@ var inscriptions = new Map([
         "images/HTWa1556-Inscription.jpg"
     ],
     "name": "HTWa1556",
+    "names": "HTWa1556",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -31860,6 +32618,7 @@ var inscriptions = new Map([
         "images/HTWa1557-Inscription.jpg"
     ],
     "name": "HTWa1557",
+    "names": "HTWa1557",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -31887,6 +32646,7 @@ var inscriptions = new Map([
         "images/HTWa1558-Inscription.jpg"
     ],
     "name": "HTWa1558",
+    "names": "HTWa1558",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -31914,6 +32674,7 @@ var inscriptions = new Map([
         "images/HTWa1559-Inscription.jpg"
     ],
     "name": "HTWa1559",
+    "names": "HTWa1559",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 86",
     "site": "Haghia Triada",
@@ -31941,6 +32702,7 @@ var inscriptions = new Map([
         "images/HTWa1560-Inscription.jpg"
     ],
     "name": "HTWa1560",
+    "names": "HTWa1560",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 86",
     "site": "Haghia Triada",
@@ -31968,6 +32730,7 @@ var inscriptions = new Map([
         "images/HTWa1561-Inscription.jpg"
     ],
     "name": "HTWa1561",
+    "names": "HTWa1561",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -31995,6 +32758,7 @@ var inscriptions = new Map([
         "images/HTWa1562-Inscription.jpg"
     ],
     "name": "HTWa1562",
+    "names": "HTWa1562",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32022,6 +32786,7 @@ var inscriptions = new Map([
         "images/HTWa1563-Inscription.jpg"
     ],
     "name": "HTWa1563",
+    "names": "HTWa1563",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32049,6 +32814,7 @@ var inscriptions = new Map([
         "images/HTWa1564-Inscription.jpg"
     ],
     "name": "HTWa1564",
+    "names": "HTWa1564",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32076,6 +32842,7 @@ var inscriptions = new Map([
         "images/HTWa1565-Inscription.jpg"
     ],
     "name": "HTWa1565",
+    "names": "HTWa1565",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32103,6 +32870,7 @@ var inscriptions = new Map([
         "images/HTWa1566-Inscription.jpg"
     ],
     "name": "HTWa1566",
+    "names": "HTWa1566",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32130,6 +32898,7 @@ var inscriptions = new Map([
         "images/HTWa1567-Inscription.jpg"
     ],
     "name": "HTWa1567",
+    "names": "HTWa1567",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32157,6 +32926,7 @@ var inscriptions = new Map([
         "images/HTWa1568-Inscription.jpg"
     ],
     "name": "HTWa1568",
+    "names": "HTWa1568",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32184,6 +32954,7 @@ var inscriptions = new Map([
         "images/HTWa1569-Inscription.jpg"
     ],
     "name": "HTWa1569",
+    "names": "HTWa1569",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32211,6 +32982,7 @@ var inscriptions = new Map([
         "images/HTWa1570-Inscription.jpg"
     ],
     "name": "HTWa1570",
+    "names": "HTWa1570",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32238,6 +33010,7 @@ var inscriptions = new Map([
         "images/HTWa1571-Inscription.jpg"
     ],
     "name": "HTWa1571",
+    "names": "HTWa1571",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32265,6 +33038,7 @@ var inscriptions = new Map([
         "images/HTWa1572-Inscription.jpg"
     ],
     "name": "HTWa1572",
+    "names": "HTWa1572",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32292,6 +33066,7 @@ var inscriptions = new Map([
         "images/HTWa1573-Inscription.jpg"
     ],
     "name": "HTWa1573",
+    "names": "HTWa1573",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32319,6 +33094,7 @@ var inscriptions = new Map([
         "images/HTWa1574-Inscription.jpg"
     ],
     "name": "HTWa1574",
+    "names": "HTWa1574",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32346,6 +33122,7 @@ var inscriptions = new Map([
         "images/HTWa1575-Inscription.jpg"
     ],
     "name": "HTWa1575",
+    "names": "HTWa1575",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32373,6 +33150,7 @@ var inscriptions = new Map([
         "images/HTWa1576-Inscription.jpg"
     ],
     "name": "HTWa1576",
+    "names": "HTWa1576",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32400,6 +33178,7 @@ var inscriptions = new Map([
         "images/HTWa1577-Inscription.jpg"
     ],
     "name": "HTWa1577",
+    "names": "HTWa1577",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 90",
     "site": "Haghia Triada",
@@ -32427,6 +33206,7 @@ var inscriptions = new Map([
         "images/HTWa1578-Inscription.jpg"
     ],
     "name": "HTWa1578",
+    "names": "HTWa1578",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32454,6 +33234,7 @@ var inscriptions = new Map([
         "images/HTWa1579-Inscription.jpg"
     ],
     "name": "HTWa1579",
+    "names": "HTWa1579",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 91",
     "site": "Haghia Triada",
@@ -32481,6 +33262,7 @@ var inscriptions = new Map([
         "images/HTWa1580-Inscription.jpg"
     ],
     "name": "HTWa1580",
+    "names": "HTWa1580",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32508,6 +33290,7 @@ var inscriptions = new Map([
         "images/HTWa1581-Inscription.jpg"
     ],
     "name": "HTWa1581",
+    "names": "HTWa1581",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -32535,6 +33318,7 @@ var inscriptions = new Map([
         "images/HTWa1582-Inscription.jpg"
     ],
     "name": "HTWa1582",
+    "names": "HTWa1582",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 91",
     "site": "Haghia Triada",
@@ -32562,6 +33346,7 @@ var inscriptions = new Map([
         "images/HTWa1583-Inscription.jpg"
     ],
     "name": "HTWa1583",
+    "names": "HTWa1583",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32589,6 +33374,7 @@ var inscriptions = new Map([
         "images/HTWa1584-Inscription.jpg"
     ],
     "name": "HTWa1584",
+    "names": "HTWa1584",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32616,6 +33402,7 @@ var inscriptions = new Map([
         "images/HTWa1585-Inscription.jpg"
     ],
     "name": "HTWa1585",
+    "names": "HTWa1585",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32643,6 +33430,7 @@ var inscriptions = new Map([
         "images/HTWa1586-Inscription.jpg"
     ],
     "name": "HTWa1586",
+    "names": "HTWa1586",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 92",
     "site": "Haghia Triada",
@@ -32670,6 +33458,7 @@ var inscriptions = new Map([
         "images/HTWa1587-Inscription.jpg"
     ],
     "name": "HTWa1587",
+    "names": "HTWa1587",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 92",
     "site": "Haghia Triada",
@@ -32697,6 +33486,7 @@ var inscriptions = new Map([
         "images/HTWa1588-Inscription.jpg"
     ],
     "name": "HTWa1588",
+    "names": "HTWa1588",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 92",
     "site": "Haghia Triada",
@@ -32724,6 +33514,7 @@ var inscriptions = new Map([
         "images/HTWa1589-Inscription.jpg"
     ],
     "name": "HTWa1589",
+    "names": "HTWa1589",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 92",
     "site": "Haghia Triada",
@@ -32751,6 +33542,7 @@ var inscriptions = new Map([
         "images/HTWa1590-Inscription.jpg"
     ],
     "name": "HTWa1590",
+    "names": "HTWa1590",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32778,6 +33570,7 @@ var inscriptions = new Map([
         "images/HTWa1591-Inscription.jpg"
     ],
     "name": "HTWa1591",
+    "names": "HTWa1591",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 92",
     "site": "Haghia Triada",
@@ -32805,6 +33598,7 @@ var inscriptions = new Map([
         "images/HTWa1592-Inscription.jpg"
     ],
     "name": "HTWa1592",
+    "names": "HTWa1592",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 93",
     "site": "Haghia Triada",
@@ -32832,6 +33626,7 @@ var inscriptions = new Map([
         "images/HTWa1593-Inscription.jpg"
     ],
     "name": "HTWa1593",
+    "names": "HTWa1593",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 93",
     "site": "Haghia Triada",
@@ -32859,6 +33654,7 @@ var inscriptions = new Map([
         "images/HTWa1594-Inscription.jpg"
     ],
     "name": "HTWa1594",
+    "names": "HTWa1594",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 93",
     "site": "Haghia Triada",
@@ -32886,6 +33682,7 @@ var inscriptions = new Map([
         "images/HTWa1595-Inscription.jpg"
     ],
     "name": "HTWa1595",
+    "names": "HTWa1595",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32913,6 +33710,7 @@ var inscriptions = new Map([
         "images/HTWa1596-Inscription.jpg"
     ],
     "name": "HTWa1596",
+    "names": "HTWa1596",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32940,6 +33738,7 @@ var inscriptions = new Map([
         "images/HTWa1597-Inscription.jpg"
     ],
     "name": "HTWa1597",
+    "names": "HTWa1597",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32967,6 +33766,7 @@ var inscriptions = new Map([
         "images/HTWa1598-Inscription.jpg"
     ],
     "name": "HTWa1598",
+    "names": "HTWa1598",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -32994,6 +33794,7 @@ var inscriptions = new Map([
         "images/HTWa1599-Inscription.jpg"
     ],
     "name": "HTWa1599",
+    "names": "HTWa1599",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33021,6 +33822,7 @@ var inscriptions = new Map([
         "images/HTWa1600-Inscription.jpg"
     ],
     "name": "HTWa1600",
+    "names": "HTWa1600",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 94",
     "site": "Haghia Triada",
@@ -33048,6 +33850,7 @@ var inscriptions = new Map([
         "images/HTWa1601-Inscription.jpg"
     ],
     "name": "HTWa1601",
+    "names": "HTWa1601",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -33075,6 +33878,7 @@ var inscriptions = new Map([
         "images/HTWa1602-Inscription.jpg"
     ],
     "name": "HTWa1602",
+    "names": "HTWa1602",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -33102,6 +33906,7 @@ var inscriptions = new Map([
         "images/HTWa1603-Inscription.jpg"
     ],
     "name": "HTWa1603",
+    "names": "HTWa1603",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -33129,6 +33934,7 @@ var inscriptions = new Map([
         "images/HTWa1604-Inscription.jpg"
     ],
     "name": "HTWa1604",
+    "names": "HTWa1604",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33156,6 +33962,7 @@ var inscriptions = new Map([
         "images/HTWa1605-Inscription.jpg"
     ],
     "name": "HTWa1605",
+    "names": "HTWa1605",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 93",
     "site": "Haghia Triada",
@@ -33183,6 +33990,7 @@ var inscriptions = new Map([
         "images/HTWa1606-Inscription.jpg"
     ],
     "name": "HTWa1606",
+    "names": "HTWa1606",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33210,6 +34018,7 @@ var inscriptions = new Map([
         "images/HTWa1607-Inscription.jpg"
     ],
     "name": "HTWa1607",
+    "names": "HTWa1607",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33237,6 +34046,7 @@ var inscriptions = new Map([
         "images/HTWa1608-Inscription.jpg"
     ],
     "name": "HTWa1608",
+    "names": "HTWa1608",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 93",
     "site": "Haghia Triada",
@@ -33264,6 +34074,7 @@ var inscriptions = new Map([
         "images/HTWa1609-Inscription.jpg"
     ],
     "name": "HTWa1609",
+    "names": "HTWa1609",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33291,6 +34102,7 @@ var inscriptions = new Map([
         "images/HTWa1610-Inscription.jpg"
     ],
     "name": "HTWa1610",
+    "names": "HTWa1610",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33318,6 +34130,7 @@ var inscriptions = new Map([
         "images/HTWa1611-Inscription.jpg"
     ],
     "name": "HTWa1611",
+    "names": "HTWa1611",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33345,6 +34158,7 @@ var inscriptions = new Map([
         "images/HTWa1612-Inscription.jpg"
     ],
     "name": "HTWa1612",
+    "names": "HTWa1612",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33372,6 +34186,7 @@ var inscriptions = new Map([
         "images/HTWa1613-Inscription.jpg"
     ],
     "name": "HTWa1613",
+    "names": "HTWa1613",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33399,6 +34214,7 @@ var inscriptions = new Map([
         "images/HTWa1614-Inscription.jpg"
     ],
     "name": "HTWa1614",
+    "names": "HTWa1614",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 96",
     "site": "Haghia Triada",
@@ -33426,6 +34242,7 @@ var inscriptions = new Map([
         "images/HTWa1615-Inscription.jpg"
     ],
     "name": "HTWa1615",
+    "names": "HTWa1615",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 89",
     "site": "Haghia Triada",
@@ -33453,6 +34270,7 @@ var inscriptions = new Map([
         "images/HTWa1616-Inscription.jpg"
     ],
     "name": "HTWa1616",
+    "names": "HTWa1616",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -33480,6 +34298,7 @@ var inscriptions = new Map([
         "images/HTWa1618-Inscription.jpg"
     ],
     "name": "HTWa1618",
+    "names": "HTWa1618",
     "parsedInscription": "𐙂",
     "scribe": "HT Wa Scribe 84",
     "site": "Haghia Triada",
@@ -33507,6 +34326,7 @@ var inscriptions = new Map([
         "images/HTWa1619-Inscription.jpg"
     ],
     "name": "HTWa1619",
+    "names": "HTWa1619",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33532,6 +34352,7 @@ var inscriptions = new Map([
         "images/HTWa1620-Inscription.jpg"
     ],
     "name": "HTWa1620",
+    "names": "HTWa1620",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33559,6 +34380,7 @@ var inscriptions = new Map([
         "images/HTWa1621-Inscription.jpg"
     ],
     "name": "HTWa1621",
+    "names": "HTWa1621",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33586,6 +34408,7 @@ var inscriptions = new Map([
         "images/HTWa1622-Inscription.jpg"
     ],
     "name": "HTWa1622",
+    "names": "HTWa1622",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33613,6 +34436,7 @@ var inscriptions = new Map([
         "images/HTWa1623-Inscription.jpg"
     ],
     "name": "HTWa1623",
+    "names": "HTWa1623",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -33640,6 +34464,7 @@ var inscriptions = new Map([
         "images/HTWa1624-Inscription.jpg"
     ],
     "name": "HTWa1624",
+    "names": "HTWa1624",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -33667,6 +34492,7 @@ var inscriptions = new Map([
         "images/HTWa1625-Inscription.jpg"
     ],
     "name": "HTWa1625",
+    "names": "HTWa1625",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -33694,6 +34520,7 @@ var inscriptions = new Map([
         "images/HTWa1626-Inscription.jpg"
     ],
     "name": "HTWa1626",
+    "names": "HTWa1626",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -33721,6 +34548,7 @@ var inscriptions = new Map([
         "images/HTWa1627-Inscription.jpg"
     ],
     "name": "HTWa1627",
+    "names": "HTWa1627",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -33748,6 +34576,7 @@ var inscriptions = new Map([
         "images/HTWa1628-Inscription.jpg"
     ],
     "name": "HTWa1628",
+    "names": "HTWa1628",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -33775,6 +34604,7 @@ var inscriptions = new Map([
         "images/HTWa1629-Inscription.jpg"
     ],
     "name": "HTWa1629",
+    "names": "HTWa1629",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33802,6 +34632,7 @@ var inscriptions = new Map([
         "images/HTWa1630-Inscription.jpg"
     ],
     "name": "HTWa1630",
+    "names": "HTWa1630",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 97",
     "site": "Haghia Triada",
@@ -33829,6 +34660,7 @@ var inscriptions = new Map([
         "images/HTWa1631-Inscription.jpg"
     ],
     "name": "HTWa1631",
+    "names": "HTWa1631",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -33856,6 +34688,7 @@ var inscriptions = new Map([
         "images/HTWa1632-Inscription.jpg"
     ],
     "name": "HTWa1632",
+    "names": "HTWa1632",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -33883,6 +34716,7 @@ var inscriptions = new Map([
         "images/HTWa1633-Inscription.jpg"
     ],
     "name": "HTWa1633",
+    "names": "HTWa1633",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33910,6 +34744,7 @@ var inscriptions = new Map([
         "images/HTWa1634-Inscription.jpg"
     ],
     "name": "HTWa1634",
+    "names": "HTWa1634",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33937,6 +34772,7 @@ var inscriptions = new Map([
         "images/HTWa1635-Inscription.jpg"
     ],
     "name": "HTWa1635",
+    "names": "HTWa1635",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -33964,6 +34800,7 @@ var inscriptions = new Map([
         "images/HTWa1636-Inscription.jpg"
     ],
     "name": "HTWa1636",
+    "names": "HTWa1636",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -33991,6 +34828,7 @@ var inscriptions = new Map([
         "images/HTWa1637-Inscription.jpg"
     ],
     "name": "HTWa1637",
+    "names": "HTWa1637",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34018,6 +34856,7 @@ var inscriptions = new Map([
         "images/HTWa1638-Inscription.jpg"
     ],
     "name": "HTWa1638",
+    "names": "HTWa1638",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34045,6 +34884,7 @@ var inscriptions = new Map([
         "images/HTWa1639-Inscription.jpg"
     ],
     "name": "HTWa1639",
+    "names": "HTWa1639",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34072,6 +34912,7 @@ var inscriptions = new Map([
         "images/HTWa1640-Inscription.jpg"
     ],
     "name": "HTWa1640",
+    "names": "HTWa1640",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34099,6 +34940,7 @@ var inscriptions = new Map([
         "images/HTWa1641-Inscription.jpg"
     ],
     "name": "HTWa1641",
+    "names": "HTWa1641",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34126,6 +34968,7 @@ var inscriptions = new Map([
         "images/HTWa1642-Inscription.jpg"
     ],
     "name": "HTWa1642",
+    "names": "HTWa1642",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34153,6 +34996,7 @@ var inscriptions = new Map([
         "images/HTWa1643-Inscription.jpg"
     ],
     "name": "HTWa1643",
+    "names": "HTWa1643",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34180,6 +35024,7 @@ var inscriptions = new Map([
         "images/HTWa1644-Inscription.jpg"
     ],
     "name": "HTWa1644",
+    "names": "HTWa1644",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34207,6 +35052,7 @@ var inscriptions = new Map([
         "images/HTWa1645-Inscription.jpg"
     ],
     "name": "HTWa1645",
+    "names": "HTWa1645",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34234,6 +35080,7 @@ var inscriptions = new Map([
         "images/HTWa1646-Inscription.jpg"
     ],
     "name": "HTWa1646",
+    "names": "HTWa1646",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34261,6 +35108,7 @@ var inscriptions = new Map([
         "images/HTWa1647-Inscription.jpg"
     ],
     "name": "HTWa1647",
+    "names": "HTWa1647",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34288,6 +35136,7 @@ var inscriptions = new Map([
         "images/HTWa1648-Inscription.jpg"
     ],
     "name": "HTWa1648",
+    "names": "HTWa1648",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34315,6 +35164,7 @@ var inscriptions = new Map([
         "images/HTWa1649-Inscription.jpg"
     ],
     "name": "HTWa1649",
+    "names": "HTWa1649",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34342,6 +35192,7 @@ var inscriptions = new Map([
         "images/HTWa1650-Inscription.jpg"
     ],
     "name": "HTWa1650",
+    "names": "HTWa1650",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34369,6 +35220,7 @@ var inscriptions = new Map([
         "images/HTWa1651-Inscription.jpg"
     ],
     "name": "HTWa1651",
+    "names": "HTWa1651",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34396,6 +35248,7 @@ var inscriptions = new Map([
         "images/HTWa1652-Inscription.jpg"
     ],
     "name": "HTWa1652",
+    "names": "HTWa1652",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34423,6 +35276,7 @@ var inscriptions = new Map([
         "images/HTWa1653-Inscription.jpg"
     ],
     "name": "HTWa1653",
+    "names": "HTWa1653",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34450,6 +35304,7 @@ var inscriptions = new Map([
         "images/HTWa1654-Inscription.jpg"
     ],
     "name": "HTWa1654",
+    "names": "HTWa1654",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 97",
     "site": "Haghia Triada",
@@ -34477,6 +35332,7 @@ var inscriptions = new Map([
         "images/HTWa1655-Inscription.jpg"
     ],
     "name": "HTWa1655",
+    "names": "HTWa1655",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34504,6 +35360,7 @@ var inscriptions = new Map([
         "images/HTWa1656-Inscription.jpg"
     ],
     "name": "HTWa1656",
+    "names": "HTWa1656",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34531,6 +35388,7 @@ var inscriptions = new Map([
         "images/HTWa1657-Inscription.jpg"
     ],
     "name": "HTWa1657",
+    "names": "HTWa1657",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34558,6 +35416,7 @@ var inscriptions = new Map([
         "images/HTWa1658-Inscription.jpg"
     ],
     "name": "HTWa1658",
+    "names": "HTWa1658",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34585,6 +35444,7 @@ var inscriptions = new Map([
         "images/HTWa1659-Inscription.jpg"
     ],
     "name": "HTWa1659",
+    "names": "HTWa1659",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34612,6 +35472,7 @@ var inscriptions = new Map([
         "images/HTWa1660-Inscription.jpg"
     ],
     "name": "HTWa1660",
+    "names": "HTWa1660",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34639,6 +35500,7 @@ var inscriptions = new Map([
         "images/HTWa1661-Inscription.jpg"
     ],
     "name": "HTWa1661",
+    "names": "HTWa1661",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34666,6 +35528,7 @@ var inscriptions = new Map([
         "images/HTWa1662-Inscription.jpg"
     ],
     "name": "HTWa1662",
+    "names": "HTWa1662",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34693,6 +35556,7 @@ var inscriptions = new Map([
         "images/HTWa1664-Inscription.jpg"
     ],
     "name": "HTWa1664",
+    "names": "HTWa1664",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34720,6 +35584,7 @@ var inscriptions = new Map([
         "images/HTWa1665-Inscription.jpg"
     ],
     "name": "HTWa1665",
+    "names": "HTWa1665",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34747,6 +35612,7 @@ var inscriptions = new Map([
         "images/HTWa1666-Inscription.jpg"
     ],
     "name": "HTWa1666",
+    "names": "HTWa1666",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34774,6 +35640,7 @@ var inscriptions = new Map([
         "images/HTWa1667-Inscription.jpg"
     ],
     "name": "HTWa1667",
+    "names": "HTWa1667",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34801,6 +35668,7 @@ var inscriptions = new Map([
         "images/HTWa1668-Inscription.jpg"
     ],
     "name": "HTWa1668",
+    "names": "HTWa1668",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34828,6 +35696,7 @@ var inscriptions = new Map([
         "images/HTWa1669-Inscription.jpg"
     ],
     "name": "HTWa1669",
+    "names": "HTWa1669",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34855,6 +35724,7 @@ var inscriptions = new Map([
         "images/HTWa1670-Inscription.jpg"
     ],
     "name": "HTWa1670",
+    "names": "HTWa1670",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -34882,6 +35752,7 @@ var inscriptions = new Map([
         "images/HTWa1671-Inscription.jpg"
     ],
     "name": "HTWa1671",
+    "names": "HTWa1671",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34909,6 +35780,7 @@ var inscriptions = new Map([
         "images/HTWa1672-Inscription.jpg"
     ],
     "name": "HTWa1672",
+    "names": "HTWa1672",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34936,6 +35808,7 @@ var inscriptions = new Map([
         "images/HTWa1673-Inscription.jpg"
     ],
     "name": "HTWa1673",
+    "names": "HTWa1673",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34963,6 +35836,7 @@ var inscriptions = new Map([
         "images/HTWa1674-Inscription.jpg"
     ],
     "name": "HTWa1674",
+    "names": "HTWa1674",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -34990,6 +35864,7 @@ var inscriptions = new Map([
         "images/HTWa1675-Inscription.jpg"
     ],
     "name": "HTWa1675",
+    "names": "HTWa1675",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35017,6 +35892,7 @@ var inscriptions = new Map([
         "images/HTWa1676-Inscription.jpg"
     ],
     "name": "HTWa1676",
+    "names": "HTWa1676",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35044,6 +35920,7 @@ var inscriptions = new Map([
         "images/HTWa1677-Inscription.jpg"
     ],
     "name": "HTWa1677",
+    "names": "HTWa1677",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35071,6 +35948,7 @@ var inscriptions = new Map([
         "images/HTWa1678-Inscription.jpg"
     ],
     "name": "HTWa1678",
+    "names": "HTWa1678",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35098,6 +35976,7 @@ var inscriptions = new Map([
         "images/HTWa1679-Inscription.jpg"
     ],
     "name": "HTWa1679",
+    "names": "HTWa1679",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35125,6 +36004,7 @@ var inscriptions = new Map([
         "images/HTWa1680-Inscription.jpg"
     ],
     "name": "HTWa1680",
+    "names": "HTWa1680",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35152,6 +36032,7 @@ var inscriptions = new Map([
         "images/HTWa1681-Inscription.jpg"
     ],
     "name": "HTWa1681",
+    "names": "HTWa1681",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35179,6 +36060,7 @@ var inscriptions = new Map([
         "images/HTWa1682-Inscription.jpg"
     ],
     "name": "HTWa1682",
+    "names": "HTWa1682",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35206,6 +36088,7 @@ var inscriptions = new Map([
         "images/HTWa1683-Inscription.jpg"
     ],
     "name": "HTWa1683",
+    "names": "HTWa1683",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35233,6 +36116,7 @@ var inscriptions = new Map([
         "images/HTWa1684-Inscription.jpg"
     ],
     "name": "HTWa1684",
+    "names": "HTWa1684",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35260,6 +36144,7 @@ var inscriptions = new Map([
         "images/HTWa1685-Inscription.jpg"
     ],
     "name": "HTWa1685",
+    "names": "HTWa1685",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35287,6 +36172,7 @@ var inscriptions = new Map([
         "images/HTWa1686-Inscription.jpg"
     ],
     "name": "HTWa1686",
+    "names": "HTWa1686",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35314,6 +36200,7 @@ var inscriptions = new Map([
         "images/HTWa1687-Inscription.jpg"
     ],
     "name": "HTWa1687",
+    "names": "HTWa1687",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35341,6 +36228,7 @@ var inscriptions = new Map([
         "images/HTWa1688-Inscription.jpg"
     ],
     "name": "HTWa1688",
+    "names": "HTWa1688",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35368,6 +36256,7 @@ var inscriptions = new Map([
         "images/HTWa1689-Inscription.jpg"
     ],
     "name": "HTWa1689",
+    "names": "HTWa1689",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35395,6 +36284,7 @@ var inscriptions = new Map([
         "images/HTWa1690-Inscription.jpg"
     ],
     "name": "HTWa1690",
+    "names": "HTWa1690",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35422,6 +36312,7 @@ var inscriptions = new Map([
         "images/HTWa1691-Inscription.jpg"
     ],
     "name": "HTWa1691",
+    "names": "HTWa1691",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35449,6 +36340,7 @@ var inscriptions = new Map([
         "images/HTWa1692-Inscription.jpg"
     ],
     "name": "HTWa1692",
+    "names": "HTWa1692",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35476,6 +36368,7 @@ var inscriptions = new Map([
         "images/HTWa1693-Inscription.jpg"
     ],
     "name": "HTWa1693",
+    "names": "HTWa1693",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35503,6 +36396,7 @@ var inscriptions = new Map([
         "images/HTWa1694-Inscription.jpg"
     ],
     "name": "HTWa1694",
+    "names": "HTWa1694",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35530,6 +36424,7 @@ var inscriptions = new Map([
         "images/HTWa1695-Inscription.jpg"
     ],
     "name": "HTWa1695",
+    "names": "HTWa1695",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35557,6 +36452,7 @@ var inscriptions = new Map([
         "images/HTWa1696-Inscription.jpg"
     ],
     "name": "HTWa1696",
+    "names": "HTWa1696",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35584,6 +36480,7 @@ var inscriptions = new Map([
         "images/HTWa1697-Inscription.jpg"
     ],
     "name": "HTWa1697",
+    "names": "HTWa1697",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35611,6 +36508,7 @@ var inscriptions = new Map([
         "images/HTWa1698-Inscription.jpg"
     ],
     "name": "HTWa1698",
+    "names": "HTWa1698",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35638,6 +36536,7 @@ var inscriptions = new Map([
         "images/HTWa1699-Inscription.jpg"
     ],
     "name": "HTWa1699",
+    "names": "HTWa1699",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35665,6 +36564,7 @@ var inscriptions = new Map([
         "images/HTWa1700-Inscription.jpg"
     ],
     "name": "HTWa1700",
+    "names": "HTWa1700",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35692,6 +36592,7 @@ var inscriptions = new Map([
         "images/HTWa1701-Inscription.jpg"
     ],
     "name": "HTWa1701",
+    "names": "HTWa1701",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35719,6 +36620,7 @@ var inscriptions = new Map([
         "images/HTWa1702-Inscription.jpg"
     ],
     "name": "HTWa1702",
+    "names": "HTWa1702",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35746,6 +36648,7 @@ var inscriptions = new Map([
         "images/HTWa1703-Inscription.jpg"
     ],
     "name": "HTWa1703",
+    "names": "HTWa1703",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35773,6 +36676,7 @@ var inscriptions = new Map([
         "images/HTWa1704-Inscription.jpg"
     ],
     "name": "HTWa1704",
+    "names": "HTWa1704",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35800,6 +36704,7 @@ var inscriptions = new Map([
         "images/HTWa1705-Inscription.jpg"
     ],
     "name": "HTWa1705",
+    "names": "HTWa1705",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35827,6 +36732,7 @@ var inscriptions = new Map([
         "images/HTWa1706-Inscription.jpg"
     ],
     "name": "HTWa1706",
+    "names": "HTWa1706",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35854,6 +36760,7 @@ var inscriptions = new Map([
         "images/HTWa1707-Inscription.jpg"
     ],
     "name": "HTWa1707",
+    "names": "HTWa1707",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35881,6 +36788,7 @@ var inscriptions = new Map([
         "images/HTWa1708-Inscription.jpg"
     ],
     "name": "HTWa1708",
+    "names": "HTWa1708",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35908,6 +36816,7 @@ var inscriptions = new Map([
         "images/HTWa1709-Inscription.jpg"
     ],
     "name": "HTWa1709",
+    "names": "HTWa1709",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -35935,6 +36844,7 @@ var inscriptions = new Map([
         "images/HTWa1710-Inscription.jpg"
     ],
     "name": "HTWa1710",
+    "names": "HTWa1710",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 99",
     "site": "Haghia Triada",
@@ -35962,6 +36872,7 @@ var inscriptions = new Map([
         "images/HTWa1711-Inscription.jpg"
     ],
     "name": "HTWa1711",
+    "names": "HTWa1711",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -35989,6 +36900,7 @@ var inscriptions = new Map([
         "images/HTWa1712-Inscription.jpg"
     ],
     "name": "HTWa1712",
+    "names": "HTWa1712",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36016,6 +36928,7 @@ var inscriptions = new Map([
         "images/HTWa1713-Inscription.jpg"
     ],
     "name": "HTWa1713",
+    "names": "HTWa1713",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36043,6 +36956,7 @@ var inscriptions = new Map([
         "images/HTWa1714-Inscription.jpg"
     ],
     "name": "HTWa1714",
+    "names": "HTWa1714",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36070,6 +36984,7 @@ var inscriptions = new Map([
         "images/HTWa1715-Inscription.jpg"
     ],
     "name": "HTWa1715",
+    "names": "HTWa1715",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36097,6 +37012,7 @@ var inscriptions = new Map([
         "images/HTWa1716-Inscription.jpg"
     ],
     "name": "HTWa1716",
+    "names": "HTWa1716",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36124,6 +37040,7 @@ var inscriptions = new Map([
         "images/HTWa1717-Inscription.jpg"
     ],
     "name": "HTWa1717",
+    "names": "HTWa1717",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36151,6 +37068,7 @@ var inscriptions = new Map([
         "images/HTWa1718-Inscription.jpg"
     ],
     "name": "HTWa1718",
+    "names": "HTWa1718",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36178,6 +37096,7 @@ var inscriptions = new Map([
         "images/HTWa1719-Inscription.jpg"
     ],
     "name": "HTWa1719",
+    "names": "HTWa1719",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36205,6 +37124,7 @@ var inscriptions = new Map([
         "images/HTWa1720-Inscription.jpg"
     ],
     "name": "HTWa1720",
+    "names": "HTWa1720",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36232,6 +37152,7 @@ var inscriptions = new Map([
         "images/HTWa1721-Inscription.jpg"
     ],
     "name": "HTWa1721",
+    "names": "HTWa1721",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36259,6 +37180,7 @@ var inscriptions = new Map([
         "images/HTWa1722-Inscription.jpg"
     ],
     "name": "HTWa1722",
+    "names": "HTWa1722",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36286,6 +37208,7 @@ var inscriptions = new Map([
         "images/HTWa1723-Inscription.jpg"
     ],
     "name": "HTWa1723",
+    "names": "HTWa1723",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36313,6 +37236,7 @@ var inscriptions = new Map([
         "images/HTWa1724-Inscription.jpg"
     ],
     "name": "HTWa1724",
+    "names": "HTWa1724",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36340,6 +37264,7 @@ var inscriptions = new Map([
         "images/HTWa1725-Inscription.jpg"
     ],
     "name": "HTWa1725",
+    "names": "HTWa1725",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36367,6 +37292,7 @@ var inscriptions = new Map([
         "images/HTWa1726-Inscription.jpg"
     ],
     "name": "HTWa1726",
+    "names": "HTWa1726",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36394,6 +37320,7 @@ var inscriptions = new Map([
         "images/HTWa1727-Inscription.jpg"
     ],
     "name": "HTWa1727",
+    "names": "HTWa1727",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36421,6 +37348,7 @@ var inscriptions = new Map([
         "images/HTWa1728-Inscription.jpg"
     ],
     "name": "HTWa1728",
+    "names": "HTWa1728",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36448,6 +37376,7 @@ var inscriptions = new Map([
         "images/HTWa1729-Inscription.jpg"
     ],
     "name": "HTWa1729",
+    "names": "HTWa1729",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36475,6 +37404,7 @@ var inscriptions = new Map([
         "images/HTWa1730-Inscription.jpg"
     ],
     "name": "HTWa1730",
+    "names": "HTWa1730",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36502,6 +37432,7 @@ var inscriptions = new Map([
         "images/HTWa1731-Inscription.jpg"
     ],
     "name": "HTWa1731",
+    "names": "HTWa1731",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36529,6 +37460,7 @@ var inscriptions = new Map([
         "images/HTWa1732-Inscription.jpg"
     ],
     "name": "HTWa1732",
+    "names": "HTWa1732",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36556,6 +37488,7 @@ var inscriptions = new Map([
         "images/HTWa1733-Inscription.jpg"
     ],
     "name": "HTWa1733",
+    "names": "HTWa1733",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36583,6 +37516,7 @@ var inscriptions = new Map([
         "images/HTWa1734-Inscription.jpg"
     ],
     "name": "HTWa1734",
+    "names": "HTWa1734",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36610,6 +37544,7 @@ var inscriptions = new Map([
         "images/HTWa1735-Inscription.jpg"
     ],
     "name": "HTWa1735",
+    "names": "HTWa1735",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36637,6 +37572,7 @@ var inscriptions = new Map([
         "images/HTWa1736-Inscription.jpg"
     ],
     "name": "HTWa1736",
+    "names": "HTWa1736",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36664,6 +37600,7 @@ var inscriptions = new Map([
         "images/HTWa1737-Inscription.jpg"
     ],
     "name": "HTWa1737",
+    "names": "HTWa1737",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36691,6 +37628,7 @@ var inscriptions = new Map([
         "images/HTWa1738-Inscription.jpg"
     ],
     "name": "HTWa1738",
+    "names": "HTWa1738",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36718,6 +37656,7 @@ var inscriptions = new Map([
         "images/HTWa1739-Inscription.jpg"
     ],
     "name": "HTWa1739",
+    "names": "HTWa1739",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36745,6 +37684,7 @@ var inscriptions = new Map([
         "images/HTWa1740-Inscription.jpg"
     ],
     "name": "HTWa1740",
+    "names": "HTWa1740",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36772,6 +37712,7 @@ var inscriptions = new Map([
         "images/HTWa1741-Inscription.jpg"
     ],
     "name": "HTWa1741",
+    "names": "HTWa1741",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36799,6 +37740,7 @@ var inscriptions = new Map([
         "images/HTWa1742-Inscription.jpg"
     ],
     "name": "HTWa1742",
+    "names": "HTWa1742",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36826,6 +37768,7 @@ var inscriptions = new Map([
         "images/HTWa1743-Inscription.jpg"
     ],
     "name": "HTWa1743",
+    "names": "HTWa1743",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -36853,6 +37796,7 @@ var inscriptions = new Map([
         "images/HTWa1744-Inscription.jpg"
     ],
     "name": "HTWa1744",
+    "names": "HTWa1744",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
@@ -36880,6 +37824,7 @@ var inscriptions = new Map([
         "images/HTWa1745-Inscription.jpg"
     ],
     "name": "HTWa1745",
+    "names": "HTWa1745",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
@@ -36907,6 +37852,7 @@ var inscriptions = new Map([
         "images/HTWa1746-Inscription.jpg"
     ],
     "name": "HTWa1746",
+    "names": "HTWa1746",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
@@ -36934,6 +37880,7 @@ var inscriptions = new Map([
         "images/HTWa1747-Inscription.jpg"
     ],
     "name": "HTWa1747",
+    "names": "HTWa1747",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
@@ -36961,6 +37908,7 @@ var inscriptions = new Map([
         "images/HTWa1748-Inscription.jpg"
     ],
     "name": "HTWa1748",
+    "names": "HTWa1748",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -36988,6 +37936,7 @@ var inscriptions = new Map([
         "images/HTWa1749-Inscription.jpg"
     ],
     "name": "HTWa1749",
+    "names": "HTWa1749",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37015,6 +37964,7 @@ var inscriptions = new Map([
         "images/HTWa1750-Inscription.jpg"
     ],
     "name": "HTWa1750",
+    "names": "HTWa1750",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 97",
     "site": "Haghia Triada",
@@ -37042,6 +37992,7 @@ var inscriptions = new Map([
         "images/HTWa1751-Inscription.jpg"
     ],
     "name": "HTWa1751",
+    "names": "HTWa1751",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37069,6 +38020,7 @@ var inscriptions = new Map([
         "images/HTWa1752-Inscription.jpg"
     ],
     "name": "HTWa1752",
+    "names": "HTWa1752",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
@@ -37096,6 +38048,7 @@ var inscriptions = new Map([
         "images/HTWa1753-Inscription.jpg"
     ],
     "name": "HTWa1753",
+    "names": "HTWa1753",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
@@ -37123,6 +38076,7 @@ var inscriptions = new Map([
         "images/HTWa1754-Inscription.jpg"
     ],
     "name": "HTWa1754",
+    "names": "HTWa1754",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37150,6 +38104,7 @@ var inscriptions = new Map([
         "images/HTWa1755-Inscription.jpg"
     ],
     "name": "HTWa1755",
+    "names": "HTWa1755",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
@@ -37177,6 +38132,7 @@ var inscriptions = new Map([
         "images/HTWa1756-Inscription.jpg"
     ],
     "name": "HTWa1756",
+    "names": "HTWa1756",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
@@ -37204,6 +38160,7 @@ var inscriptions = new Map([
         "images/HTWa1757-Inscription.jpg"
     ],
     "name": "HTWa1757",
+    "names": "HTWa1757",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 98",
     "site": "Haghia Triada",
@@ -37231,6 +38188,7 @@ var inscriptions = new Map([
         "images/HTWa1758-Inscription.jpg"
     ],
     "name": "HTWa1758",
+    "names": "HTWa1758",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37258,6 +38216,7 @@ var inscriptions = new Map([
         "images/HTWa1759-Inscription.jpg"
     ],
     "name": "HTWa1759",
+    "names": "HTWa1759",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37285,6 +38244,7 @@ var inscriptions = new Map([
         "images/HTWa1760-Inscription.jpg"
     ],
     "name": "HTWa1760",
+    "names": "HTWa1760",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37312,6 +38272,7 @@ var inscriptions = new Map([
         "images/HTWa1761-Inscription.jpg"
     ],
     "name": "HTWa1761",
+    "names": "HTWa1761",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37339,6 +38300,7 @@ var inscriptions = new Map([
         "images/HTWa1762-Inscription.jpg"
     ],
     "name": "HTWa1762",
+    "names": "HTWa1762",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37366,6 +38328,7 @@ var inscriptions = new Map([
         "images/HTWa1763-Inscription.jpg"
     ],
     "name": "HTWa1763",
+    "names": "HTWa1763",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37393,6 +38356,7 @@ var inscriptions = new Map([
         "images/HTWa1764-Inscription.jpg"
     ],
     "name": "HTWa1764",
+    "names": "HTWa1764",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37420,6 +38384,7 @@ var inscriptions = new Map([
         "images/HTWa1765-Inscription.jpg"
     ],
     "name": "HTWa1765",
+    "names": "HTWa1765",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37447,6 +38412,7 @@ var inscriptions = new Map([
         "images/HTWa1766-Inscription.jpg"
     ],
     "name": "HTWa1766",
+    "names": "HTWa1766",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37474,6 +38440,7 @@ var inscriptions = new Map([
         "images/HTWa1767-Inscription.jpg"
     ],
     "name": "HTWa1767",
+    "names": "HTWa1767",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37501,6 +38468,7 @@ var inscriptions = new Map([
         "images/HTWa1768-Inscription.jpg"
     ],
     "name": "HTWa1768",
+    "names": "HTWa1768",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37528,6 +38496,7 @@ var inscriptions = new Map([
         "images/HTWa1769-Inscription.jpg"
     ],
     "name": "HTWa1769",
+    "names": "HTWa1769",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37555,6 +38524,7 @@ var inscriptions = new Map([
         "images/HTWa1770-Inscription.jpg"
     ],
     "name": "HTWa1770",
+    "names": "HTWa1770",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37582,6 +38552,7 @@ var inscriptions = new Map([
         "images/HTWa1771-Inscription.jpg"
     ],
     "name": "HTWa1771",
+    "names": "HTWa1771",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37609,6 +38580,7 @@ var inscriptions = new Map([
         "images/HTWa1772-Inscription.jpg"
     ],
     "name": "HTWa1772",
+    "names": "HTWa1772",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37636,6 +38608,7 @@ var inscriptions = new Map([
         "images/HTWa1773-Inscription.jpg"
     ],
     "name": "HTWa1773",
+    "names": "HTWa1773",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37663,6 +38636,7 @@ var inscriptions = new Map([
         "images/HTWa1774-Inscription.jpg"
     ],
     "name": "HTWa1774",
+    "names": "HTWa1774",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37690,6 +38664,7 @@ var inscriptions = new Map([
         "images/HTWa1775-Inscription.jpg"
     ],
     "name": "HTWa1775",
+    "names": "HTWa1775",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37717,6 +38692,7 @@ var inscriptions = new Map([
         "images/HTWa1776-Inscription.jpg"
     ],
     "name": "HTWa1776",
+    "names": "HTWa1776",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37744,6 +38720,7 @@ var inscriptions = new Map([
         "images/HTWa1777-Inscription.jpg"
     ],
     "name": "HTWa1777",
+    "names": "HTWa1777",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37771,6 +38748,7 @@ var inscriptions = new Map([
         "images/HTWa1778-Inscription.jpg"
     ],
     "name": "HTWa1778",
+    "names": "HTWa1778",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37798,6 +38776,7 @@ var inscriptions = new Map([
         "images/HTWa1779-Inscription.jpg"
     ],
     "name": "HTWa1779",
+    "names": "HTWa1779",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37825,6 +38804,7 @@ var inscriptions = new Map([
         "images/HTWa1780-Inscription.jpg"
     ],
     "name": "HTWa1780",
+    "names": "HTWa1780",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37852,6 +38832,7 @@ var inscriptions = new Map([
         "images/HTWa1781-Inscription.jpg"
     ],
     "name": "HTWa1781",
+    "names": "HTWa1781",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37879,6 +38860,7 @@ var inscriptions = new Map([
         "images/HTWa1782-Inscription.jpg"
     ],
     "name": "HTWa1782",
+    "names": "HTWa1782",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37906,6 +38888,7 @@ var inscriptions = new Map([
         "images/HTWa1783-Inscription.jpg"
     ],
     "name": "HTWa1783",
+    "names": "HTWa1783",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37933,6 +38916,7 @@ var inscriptions = new Map([
         "images/HTWa1784-Inscription.jpg"
     ],
     "name": "HTWa1784",
+    "names": "HTWa1784",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -37960,6 +38944,7 @@ var inscriptions = new Map([
         "images/HTWa1785-Inscription.jpg"
     ],
     "name": "HTWa1785",
+    "names": "HTWa1785",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -37987,6 +38972,7 @@ var inscriptions = new Map([
         "images/HTWa1786-Inscription.jpg"
     ],
     "name": "HTWa1786",
+    "names": "HTWa1786",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38014,6 +39000,7 @@ var inscriptions = new Map([
         "images/HTWa1787-Inscription.jpg"
     ],
     "name": "HTWa1787",
+    "names": "HTWa1787",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38041,6 +39028,7 @@ var inscriptions = new Map([
         "images/HTWa1788-Inscription.jpg"
     ],
     "name": "HTWa1788",
+    "names": "HTWa1788",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38068,6 +39056,7 @@ var inscriptions = new Map([
         "images/HTWa1789-Inscription.jpg"
     ],
     "name": "HTWa1789",
+    "names": "HTWa1789",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38095,6 +39084,7 @@ var inscriptions = new Map([
         "images/HTWa1790-Inscription.jpg"
     ],
     "name": "HTWa1790",
+    "names": "HTWa1790",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38122,6 +39112,7 @@ var inscriptions = new Map([
         "images/HTWa1791-Inscription.jpg"
     ],
     "name": "HTWa1791",
+    "names": "HTWa1791",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38149,6 +39140,7 @@ var inscriptions = new Map([
         "images/HTWa1792-Inscription.jpg"
     ],
     "name": "HTWa1792",
+    "names": "HTWa1792",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38176,6 +39168,7 @@ var inscriptions = new Map([
         "images/HTWa1793-Inscription.jpg"
     ],
     "name": "HTWa1793",
+    "names": "HTWa1793",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38203,6 +39196,7 @@ var inscriptions = new Map([
         "images/HTWa1794-Inscription.jpg"
     ],
     "name": "HTWa1794",
+    "names": "HTWa1794",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38230,6 +39224,7 @@ var inscriptions = new Map([
         "images/HTWa1795-Inscription.jpg"
     ],
     "name": "HTWa1795",
+    "names": "HTWa1795",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38257,6 +39252,7 @@ var inscriptions = new Map([
         "images/HTWa1796-Inscription.jpg"
     ],
     "name": "HTWa1796",
+    "names": "HTWa1796",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38284,6 +39280,7 @@ var inscriptions = new Map([
         "images/HTWa1797-Inscription.jpg"
     ],
     "name": "HTWa1797",
+    "names": "HTWa1797",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38311,6 +39308,7 @@ var inscriptions = new Map([
         "images/HTWa1798-Inscription.jpg"
     ],
     "name": "HTWa1798",
+    "names": "HTWa1798",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38338,6 +39336,7 @@ var inscriptions = new Map([
         "images/HTWa1799-Inscription.jpg"
     ],
     "name": "HTWa1799",
+    "names": "HTWa1799",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38365,6 +39364,7 @@ var inscriptions = new Map([
         "images/HTWa1800-Inscription.jpg"
     ],
     "name": "HTWa1800",
+    "names": "HTWa1800",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38392,6 +39392,7 @@ var inscriptions = new Map([
         "images/HTWa1801-Inscription.jpg"
     ],
     "name": "HTWa1801",
+    "names": "HTWa1801",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38419,6 +39420,7 @@ var inscriptions = new Map([
         "images/HTWa1802-Inscription.jpg"
     ],
     "name": "HTWa1802",
+    "names": "HTWa1802",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38446,6 +39448,7 @@ var inscriptions = new Map([
         "images/HTWa1803-Inscription.jpg"
     ],
     "name": "HTWa1803",
+    "names": "HTWa1803",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38473,6 +39476,7 @@ var inscriptions = new Map([
         "images/HTWa1804-Inscription.jpg"
     ],
     "name": "HTWa1804",
+    "names": "HTWa1804",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38500,6 +39504,7 @@ var inscriptions = new Map([
         "images/HTWa1805-Inscription.jpg"
     ],
     "name": "HTWa1805",
+    "names": "HTWa1805",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38527,6 +39532,7 @@ var inscriptions = new Map([
         "images/HTWa1806-Inscription.jpg"
     ],
     "name": "HTWa1806",
+    "names": "HTWa1806",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38554,6 +39560,7 @@ var inscriptions = new Map([
         "images/HTWa1807-Inscription.jpg"
     ],
     "name": "HTWa1807",
+    "names": "HTWa1807",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38581,6 +39588,7 @@ var inscriptions = new Map([
         "images/HTWa1808-Inscription.jpg"
     ],
     "name": "HTWa1808",
+    "names": "HTWa1808",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38608,6 +39616,7 @@ var inscriptions = new Map([
         "images/HTWa1809-Inscription.jpg"
     ],
     "name": "HTWa1809",
+    "names": "HTWa1809",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38635,6 +39644,7 @@ var inscriptions = new Map([
         "images/HTWa1810-Inscription.jpg"
     ],
     "name": "HTWa1810",
+    "names": "HTWa1810",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38662,6 +39672,7 @@ var inscriptions = new Map([
         "images/HTWa1811-Inscription.jpg"
     ],
     "name": "HTWa1811",
+    "names": "HTWa1811",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38689,6 +39700,7 @@ var inscriptions = new Map([
         "images/HTWa1812-Inscription.jpg"
     ],
     "name": "HTWa1812",
+    "names": "HTWa1812",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38716,6 +39728,7 @@ var inscriptions = new Map([
         "images/HTWa1813-Inscription.jpg"
     ],
     "name": "HTWa1813",
+    "names": "HTWa1813",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38743,6 +39756,7 @@ var inscriptions = new Map([
         "images/HTWa1814-Inscription.jpg"
     ],
     "name": "HTWa1814",
+    "names": "HTWa1814",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38770,6 +39784,7 @@ var inscriptions = new Map([
         "images/HTWa1815-Inscription.jpg"
     ],
     "name": "HTWa1815",
+    "names": "HTWa1815",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38797,6 +39812,7 @@ var inscriptions = new Map([
         "images/HTWa1816-Inscription.jpg"
     ],
     "name": "HTWa1816",
+    "names": "HTWa1816",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38824,6 +39840,7 @@ var inscriptions = new Map([
         "images/HTWa1817-Inscription.jpg"
     ],
     "name": "HTWa1817",
+    "names": "HTWa1817",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -38851,6 +39868,7 @@ var inscriptions = new Map([
         "images/HTWa1818-Inscription.jpg"
     ],
     "name": "HTWa1818",
+    "names": "HTWa1818",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38878,6 +39896,7 @@ var inscriptions = new Map([
         "images/HTWa1819-Inscription.jpg"
     ],
     "name": "HTWa1819",
+    "names": "HTWa1819",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38905,6 +39924,7 @@ var inscriptions = new Map([
         "images/HTWa1820-Inscription.jpg"
     ],
     "name": "HTWa1820",
+    "names": "HTWa1820",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38932,6 +39952,7 @@ var inscriptions = new Map([
         "images/HTWa1821-Inscription.jpg"
     ],
     "name": "HTWa1821",
+    "names": "HTWa1821",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38959,6 +39980,7 @@ var inscriptions = new Map([
         "images/HTWa1822-Inscription.jpg"
     ],
     "name": "HTWa1822",
+    "names": "HTWa1822",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -38986,6 +40008,7 @@ var inscriptions = new Map([
         "images/HTWa1823-Inscription.jpg"
     ],
     "name": "HTWa1823",
+    "names": "HTWa1823",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 97",
     "site": "Haghia Triada",
@@ -39013,6 +40036,7 @@ var inscriptions = new Map([
         "images/HTWa1824-Inscription.jpg"
     ],
     "name": "HTWa1824",
+    "names": "HTWa1824",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39040,6 +40064,7 @@ var inscriptions = new Map([
         "images/HTWa1825-Inscription.jpg"
     ],
     "name": "HTWa1825",
+    "names": "HTWa1825",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39067,6 +40092,7 @@ var inscriptions = new Map([
         "images/HTWa1826-Inscription.jpg"
     ],
     "name": "HTWa1826",
+    "names": "HTWa1826",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39094,6 +40120,7 @@ var inscriptions = new Map([
         "images/HTWa1827-Inscription.jpg"
     ],
     "name": "HTWa1827",
+    "names": "HTWa1827",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39121,6 +40148,7 @@ var inscriptions = new Map([
         "images/HTWa1828-Inscription.jpg"
     ],
     "name": "HTWa1828",
+    "names": "HTWa1828",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39148,6 +40176,7 @@ var inscriptions = new Map([
         "images/HTWa1829-Inscription.jpg"
     ],
     "name": "HTWa1829",
+    "names": "HTWa1829",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39175,6 +40204,7 @@ var inscriptions = new Map([
         "images/HTWa1830-Inscription.jpg"
     ],
     "name": "HTWa1830",
+    "names": "HTWa1830",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -39202,6 +40232,7 @@ var inscriptions = new Map([
         "images/HTWa1831-Inscription.jpg"
     ],
     "name": "HTWa1831",
+    "names": "HTWa1831",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39229,6 +40260,7 @@ var inscriptions = new Map([
         "images/HTWa1832-Inscription.jpg"
     ],
     "name": "HTWa1832",
+    "names": "HTWa1832",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39256,6 +40288,7 @@ var inscriptions = new Map([
         "images/HTWa1833-Inscription.jpg"
     ],
     "name": "HTWa1833",
+    "names": "HTWa1833",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -39283,6 +40316,7 @@ var inscriptions = new Map([
         "images/HTWa1834-Inscription.jpg"
     ],
     "name": "HTWa1834",
+    "names": "HTWa1834",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 99",
     "site": "Haghia Triada",
@@ -39310,6 +40344,7 @@ var inscriptions = new Map([
         "images/HTWa1835-Inscription.jpg"
     ],
     "name": "HTWa1835",
+    "names": "HTWa1835",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39337,6 +40372,7 @@ var inscriptions = new Map([
         "images/HTWa1836-Inscription.jpg"
     ],
     "name": "HTWa1836",
+    "names": "HTWa1836",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39364,6 +40400,7 @@ var inscriptions = new Map([
         "images/HTWa1837-Inscription.jpg"
     ],
     "name": "HTWa1837",
+    "names": "HTWa1837",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -39391,6 +40428,7 @@ var inscriptions = new Map([
         "images/HTWa1838-Inscription.jpg"
     ],
     "name": "HTWa1838",
+    "names": "HTWa1838",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -39418,6 +40456,7 @@ var inscriptions = new Map([
         "images/HTWa1839-Inscription.jpg"
     ],
     "name": "HTWa1839",
+    "names": "HTWa1839",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39445,6 +40484,7 @@ var inscriptions = new Map([
         "images/HTWa1840-Inscription.jpg"
     ],
     "name": "HTWa1840",
+    "names": "HTWa1840",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -39472,6 +40512,7 @@ var inscriptions = new Map([
         "images/HTWa1841-Inscription.jpg"
     ],
     "name": "HTWa1841",
+    "names": "HTWa1841",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -39499,6 +40540,7 @@ var inscriptions = new Map([
         "images/HTWa1842-Inscription.jpg"
     ],
     "name": "HTWa1842",
+    "names": "HTWa1842",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39526,6 +40568,7 @@ var inscriptions = new Map([
         "images/HTWa1843-Inscription.jpg"
     ],
     "name": "HTWa1843",
+    "names": "HTWa1843",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39553,6 +40596,7 @@ var inscriptions = new Map([
         "images/HTWa1844-Inscription.jpg"
     ],
     "name": "HTWa1844",
+    "names": "HTWa1844",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -39580,6 +40624,7 @@ var inscriptions = new Map([
         "images/HTWa1845+1733-Inscription.jpg"
     ],
     "name": "HTWa1845+1733",
+    "names": "HTWa1845+1733",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39607,6 +40652,7 @@ var inscriptions = new Map([
         "images/HTWa1846-Inscription.jpg"
     ],
     "name": "HTWa1846",
+    "names": "HTWa1846",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39634,6 +40680,7 @@ var inscriptions = new Map([
         "images/HTWa1847-Inscription.jpg"
     ],
     "name": "HTWa1847",
+    "names": "HTWa1847",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39661,6 +40708,7 @@ var inscriptions = new Map([
         "images/HTWa1848-Inscription.jpg"
     ],
     "name": "HTWa1848",
+    "names": "HTWa1848",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39688,6 +40736,7 @@ var inscriptions = new Map([
         "images/HTWa1849-Inscription.jpg"
     ],
     "name": "HTWa1849",
+    "names": "HTWa1849",
     "parsedInscription": "𐚙",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39715,6 +40764,7 @@ var inscriptions = new Map([
         "images/HTWa1850-Inscription.jpg"
     ],
     "name": "HTWa1850",
+    "names": "HTWa1850",
     "parsedInscription": "𐚚",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39742,6 +40792,7 @@ var inscriptions = new Map([
         "images/HTWa1851-Inscription.jpg"
     ],
     "name": "HTWa1851",
+    "names": "HTWa1851",
     "parsedInscription": "𐚛",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39769,6 +40820,7 @@ var inscriptions = new Map([
         "images/HTWa1852-Inscription.jpg"
     ],
     "name": "HTWa1852",
+    "names": "HTWa1852",
     "parsedInscription": "𐚜",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39796,6 +40848,7 @@ var inscriptions = new Map([
         "images/HTWa1853-Inscription.jpg"
     ],
     "name": "HTWa1853",
+    "names": "HTWa1853",
     "parsedInscription": "𐚝",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39823,6 +40876,7 @@ var inscriptions = new Map([
         "images/HTWa1854-Inscription.jpg"
     ],
     "name": "HTWa1854",
+    "names": "HTWa1854",
     "parsedInscription": "𐚞",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39850,6 +40904,7 @@ var inscriptions = new Map([
         "images/HTWa1855-Inscription.jpg"
     ],
     "name": "HTWa1855",
+    "names": "HTWa1855",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39877,6 +40932,7 @@ var inscriptions = new Map([
         "images/HTWa1856-Inscription.jpg"
     ],
     "name": "HTWa1856",
+    "names": "HTWa1856",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39904,6 +40960,7 @@ var inscriptions = new Map([
         "images/HTWa1857-Inscription.jpg"
     ],
     "name": "HTWa1857",
+    "names": "HTWa1857",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39931,6 +40988,7 @@ var inscriptions = new Map([
         "images/HTWa1858-Inscription.jpg"
     ],
     "name": "HTWa1858",
+    "names": "HTWa1858",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39958,6 +41016,7 @@ var inscriptions = new Map([
         "images/HTWa1859-Inscription.jpg"
     ],
     "name": "HTWa1859",
+    "names": "HTWa1859",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -39985,6 +41044,7 @@ var inscriptions = new Map([
         "images/HTWa1860-Inscription.jpg"
     ],
     "name": "HTWa1860",
+    "names": "HTWa1860",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40012,6 +41072,7 @@ var inscriptions = new Map([
         "images/HTWa1861-Inscription.jpg"
     ],
     "name": "HTWa1861",
+    "names": "HTWa1861",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40035,6 +41096,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTWb229",
+    "names": "HTWb229",
     "parsedInscription": "𐙓𐜙",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40065,6 +41127,7 @@ var inscriptions = new Map([
         "images/HTWb2001-Inscription.jpg"
     ],
     "name": "HTWb2001",
+    "names": "HTWb2001",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40092,6 +41155,7 @@ var inscriptions = new Map([
         "images/HTWb2002-Inscription.jpg"
     ],
     "name": "HTWb2002",
+    "names": "HTWb2002",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40119,6 +41183,7 @@ var inscriptions = new Map([
         "images/HTWc3001-Inscription.jpg"
     ],
     "name": "HTWc3001",
+    "names": "HTWc3001",
     "parsedInscription": "𐘂𐘈𐘱𐝆",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -40149,6 +41214,7 @@ var inscriptions = new Map([
         "images/HTWc3002-Inscription.jpg"
     ],
     "name": "HTWc3002",
+    "names": "HTWc3002",
     "parsedInscription": "𐘂𐘈𐘱",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -40176,6 +41242,7 @@ var inscriptions = new Map([
         "images/HTWc3003-Inscription.jpg"
     ],
     "name": "HTWc3003",
+    "names": "HTWc3003",
     "parsedInscription": "𐘾𐘙𐘁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40205,6 +41272,7 @@ var inscriptions = new Map([
         "images/HTWc3004b-Inscription.jpg"
     ],
     "name": "HTWc3004",
+    "names": "HTWc3004",
     "parsedInscription": "𐘳𐘝𐘾𐘈",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
@@ -40235,6 +41303,7 @@ var inscriptions = new Map([
         "images/HTWc3005-Inscription.jpg"
     ],
     "name": "HTWc3005",
+    "names": "HTWc3005",
     "parsedInscription": "𐘳𐘝𐘾𐘈",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
@@ -40267,6 +41336,7 @@ var inscriptions = new Map([
         "images/HTWc3006b-Inscription.jpg"
     ],
     "name": "HTWc3006",
+    "names": "HTWc3006",
     "parsedInscription": "𐘮𐘵𐘻𐘴𐙦𐘴",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40297,6 +41367,7 @@ var inscriptions = new Map([
         "images/HTWc3007-Inscription.jpg"
     ],
     "name": "HTWc3007",
+    "names": "HTWc3007",
     "parsedInscription": "𐘮𐘆𐘝",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
@@ -40326,6 +41397,7 @@ var inscriptions = new Map([
         "images/HTWc3008b-Inscription.jpg"
     ],
     "name": "HTWc3008",
+    "names": "HTWc3008",
     "parsedInscription": "𐘮𐘆𐘝𐘘𐘱𐘳𐘆",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
@@ -40358,6 +41430,7 @@ var inscriptions = new Map([
         "images/HTWc3009b-Inscription.jpg"
     ],
     "name": "HTWc3009",
+    "names": "HTWc3009",
     "parsedInscription": "𐙹𐘆𐘲𐘾𐙓",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
@@ -40388,6 +41461,7 @@ var inscriptions = new Map([
         "images/HTWc3010-Inscription.jpg"
     ],
     "name": "HTWc3010",
+    "names": "HTWc3010",
     "parsedInscription": "𐙹𐘆𐘅𐘲𐘾",
     "scribe": "HT Wc Scribe 10",
     "site": "Haghia Triada",
@@ -40415,6 +41489,7 @@ var inscriptions = new Map([
         "images/HTWc3011-Inscription.jpg"
     ],
     "name": "HTWc3011",
+    "names": "HTWc3011",
     "parsedInscription": "𐙀𐘆𐘴",
     "scribe": "HT Wc Scribe 11",
     "site": "Haghia Triada",
@@ -40444,6 +41519,7 @@ var inscriptions = new Map([
         "images/HTWc3012b-Inscription.jpg"
     ],
     "name": "HTWc3012",
+    "names": "HTWc3012",
     "parsedInscription": "𐙀𐘆𐘴𐘙𐘁",
     "scribe": "HT Wc Scribe 11",
     "site": "Haghia Triada",
@@ -40474,6 +41550,7 @@ var inscriptions = new Map([
         "images/HTWc3013-Inscription.jpg"
     ],
     "name": "HTWc3013",
+    "names": "HTWc3013",
     "parsedInscription": "𐙓",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40503,6 +41580,7 @@ var inscriptions = new Map([
         "images/HTWc3014b-Inscription.jpg"
     ],
     "name": "HTWc3014",
+    "names": "HTWc3014",
     "parsedInscription": "𐙂𐘻𐘅𐘿𐄁𐘒",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40538,6 +41616,7 @@ var inscriptions = new Map([
         "images/HTWc3015b-Inscription.jpg"
     ],
     "name": "HTWc3015",
+    "names": "HTWc3015",
     "parsedInscription": "𐘾𐙂𐘂𐙗",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40568,6 +41647,7 @@ var inscriptions = new Map([
         "images/HTWc3016-Inscription.jpg"
     ],
     "name": "HTWc3016",
+    "names": "HTWc3016",
     "parsedInscription": "𐘾𐙂𐘂𐜝𐜙",
     "scribe": "HT Wc Scribe 11",
     "site": "Haghia Triada",
@@ -40598,6 +41678,7 @@ var inscriptions = new Map([
         "images/HTWc3017-Inscription.jpg"
     ],
     "name": "HTWc3017",
+    "names": "HTWc3017",
     "parsedInscription": "𐘌𐙂𐘙𐄁𐘆𐙚𐄁𐜙𐜝",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40637,6 +41718,7 @@ var inscriptions = new Map([
         "images/HTWc<3018>-Inscription.jpg"
     ],
     "name": "HTWc<3018>",
+    "names": "HTWc<3018>",
     "parsedInscription": "𐘾𐜙",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40667,6 +41749,7 @@ var inscriptions = new Map([
         "images/HTWc3019-Inscription.jpg"
     ],
     "name": "HTWc3019",
+    "names": "HTWc3019",
     "parsedInscription": "𐘮𐝃",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40697,6 +41780,7 @@ var inscriptions = new Map([
         "images/HTWc3021-Inscription.jpg"
     ],
     "name": "HTWc3021",
+    "names": "HTWc3021",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40724,6 +41808,7 @@ var inscriptions = new Map([
         "images/HTWc3022(?)-Inscription.jpg"
     ],
     "name": "HTWc3022(?)",
+    "names": "HTWc3022(?)",
     "parsedInscription": "𐙇",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40751,6 +41836,7 @@ var inscriptions = new Map([
         "images/HTWc3023-Inscription.jpg"
     ],
     "name": "HTWc3023",
+    "names": "HTWc3023",
     "parsedInscription": "",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40772,6 +41858,7 @@ var inscriptions = new Map([
         "images/HTWc3024-Inscription.jpg"
     ],
     "name": "HTWc3024",
+    "names": "HTWc3024",
     "parsedInscription": "𐘇𐘴𐘹𐘋\n𐘓𐘓",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40805,6 +41892,7 @@ var inscriptions = new Map([
         "images/HTWd1617-Inscription.jpg"
     ],
     "name": "HTWd1617",
+    "names": "HTWd1617",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40832,6 +41920,7 @@ var inscriptions = new Map([
         "images/HTWd1663-Inscription.jpg"
     ],
     "name": "HTWd1663",
+    "names": "HTWd1663",
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
@@ -40861,6 +41950,7 @@ var inscriptions = new Map([
         "images/HTWeWc3020b-Inscription.jpg"
     ],
     "name": "HTWeWc3020",
+    "names": "HTWeWc3020",
     "parsedInscription": "𐙓𐘬𐜝𐜙",
     "scribe": "HT Wc Scribe 11",
     "site": "Haghia Triada",
@@ -40891,6 +41981,7 @@ var inscriptions = new Map([
         "images/HTZb158a-Inscription.jpg"
     ],
     "name": "HTZb158a",
+    "names": "HTZb158a",
     "parsedInscription": "𐝫𐄁𐝫𐘹𐘈𐘲𐘸",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40921,6 +42012,7 @@ var inscriptions = new Map([
         "images/HTZb158b-Inscription.jpg"
     ],
     "name": "HTZb158b",
+    "names": "HTZb158b",
     "parsedInscription": "𐘲𐘸𐘭𐘃𐘚𐘱",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40948,6 +42040,7 @@ var inscriptions = new Map([
         "images/HTZb159-Inscription.jpg"
     ],
     "name": "HTZb159",
+    "names": "HTZb159",
     "parsedInscription": "𐘇𐘅𐘯𐘤𐘱𐘈𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -40975,6 +42068,7 @@ var inscriptions = new Map([
         "images/HTZb160-Inscription.jpg"
     ],
     "name": "HTZb160",
+    "names": "HTZb160",
     "parsedInscription": "𐘂𐘳𐘀𐘬𐘜𐘙𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41002,6 +42096,7 @@ var inscriptions = new Map([
         "images/HTZb161-Inscription.jpg"
     ],
     "name": "HTZb161",
+    "names": "HTZb161",
     "parsedInscription": "𐝫𐘤𐘫𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41025,6 +42120,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTZb162",
+    "names": "HTZb162",
     "parsedInscription": "𐘆𐄉𐘠𐘬",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41048,6 +42144,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTZb162bis",
+    "names": "HTZb162bis",
     "parsedInscription": "𐘀",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41075,6 +42172,7 @@ var inscriptions = new Map([
         "images/HTZd155-Inscription.jpg"
     ],
     "name": "HTZd155",
+    "names": "HTZd155",
     "parsedInscription": "𐘇𐘶𐄁𐘅𐙁𐙁𐘠𐘠𐙫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41108,6 +42206,7 @@ var inscriptions = new Map([
         "images/HTZd157+156-Inscription.jpg"
     ],
     "name": "HTZd157+156",
+    "names": "HTZd157+156",
     "parsedInscription": "𐘣𐘱𐘲𐙁𐘠𐘠𐙫𐄇\n𐙫𐄇𐝆\n𐙫𐄈𐝃\n𐙫𐄉𐝃𐝄\n𐘳𐘱𐝇𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41182,6 +42281,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTZf163",
+    "names": "HTZf163",
     "parsedInscription": "𐘀",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41205,6 +42305,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTZf164",
+    "names": "HTZf164",
     "parsedInscription": "𐘀",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41228,6 +42329,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTZf165",
+    "names": "HTZf165",
     "parsedInscription": "𐘚",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41251,6 +42353,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTZf166",
+    "names": "HTZf166",
     "parsedInscription": "𐙯",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41274,6 +42377,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTZf167",
+    "names": "HTZf167",
     "parsedInscription": "𐙜",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41297,6 +42401,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTZf168",
+    "names": "HTZf168",
     "parsedInscription": "𐘗\n𐘀",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41326,6 +42431,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "HTZf169",
+    "names": "HTZf169",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41353,6 +42459,7 @@ var inscriptions = new Map([
         "images/HTZg163-Inscription.jpg"
     ],
     "name": "HTZg163",
+    "names": "HTZg163",
     "parsedInscription": "𐝄",
     "scribe": "",
     "site": "Haghia Triada",
@@ -41378,6 +42485,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "IOZa<1>",
+    "names": "IOZa<1>",
     "parsedInscription": "𐘇𐘧𐘞",
     "scribe": "",
     "site": "Iouktas",
@@ -41405,6 +42513,7 @@ var inscriptions = new Map([
         "images/IOZa2-Inscription.jpg"
     ],
     "name": "IOZa2",
+    "names": "IOZa2",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐄁𐝫",
     "scribe": "",
     "site": "Iouktas",
@@ -41480,6 +42589,7 @@ var inscriptions = new Map([
         "images/IOZa3-Inscription.jpg"
     ],
     "name": "IOZa3",
+    "names": "IOZa3",
     "parsedInscription": "𐄁𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐙄𐝫",
     "scribe": "",
     "site": "Iouktas",
@@ -41516,6 +42626,7 @@ var inscriptions = new Map([
         "images/IOZa4-Inscription.jpg"
     ],
     "name": "IOZa4",
+    "names": "IOZa4",
     "parsedInscription": "𐝫𐙕𐘮𐝫",
     "scribe": "",
     "site": "Iouktas",
@@ -41543,6 +42654,7 @@ var inscriptions = new Map([
         "images/IOZa5-Inscription.jpg"
     ],
     "name": "IOZa5",
+    "names": "IOZa5",
     "parsedInscription": "𐝫𐘚𐘱𐘙𐘆𐘱𐄁𐘚𐘱𐘂𐝫",
     "scribe": "",
     "site": "Iouktas",
@@ -41576,6 +42688,7 @@ var inscriptions = new Map([
         "images/IOZa6-Inscription.jpg"
     ],
     "name": "IOZa6",
+    "names": "IOZa6",
     "parsedInscription": "𐘳𐘅𐘚𐙕𐘉𐘠𐘯𐄁𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "scribe": "",
     "site": "Iouktas",
@@ -41618,6 +42731,7 @@ var inscriptions = new Map([
         "images/IOZa7-Inscription.jpg"
     ],
     "name": "IOZa7",
+    "names": "IOZa7",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘠𐙭𐝫",
     "scribe": "",
     "site": "Iouktas",
@@ -41651,6 +42765,7 @@ var inscriptions = new Map([
         "images/IOZa8-Inscription.jpg"
     ],
     "name": "IOZa8",
+    "names": "IOZa8",
     "parsedInscription": "𐝫𐘇𐘅𐘠𐙕𐘮𐘱𐝫",
     "scribe": "",
     "site": "Iouktas",
@@ -41678,6 +42793,7 @@ var inscriptions = new Map([
         "images/IOZa9-Inscription.jpg"
     ],
     "name": "IOZa9",
+    "names": "IOZa9",
     "parsedInscription": "𐘱𐘞𐘞𐝫𐘴𐘋\n𐄁𐘉𐘅𐘾𐝫𐘅𐘤",
     "scribe": "",
     "site": "Iouktas",
@@ -41714,6 +42830,7 @@ var inscriptions = new Map([
         "images/IOZb10-Inscription.jpg"
     ],
     "name": "IOZb10",
+    "names": "IOZb10",
     "parsedInscription": "𐝫𐘇𐘞𐘞𐘴𐘋",
     "scribe": "",
     "site": "Iouktas",
@@ -41739,6 +42856,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "IOZa11",
+    "names": "IOZa11",
     "parsedInscription": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
     "scribe": "",
     "site": "Iouktas",
@@ -41785,6 +42903,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "IOZa12",
+    "names": "IOZa12",
     "parsedInscription": "𐝫𐄁𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
     "scribe": "",
     "site": "Iouktas",
@@ -41828,6 +42947,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "IOZa13",
+    "names": "IOZa13",
     "parsedInscription": "𐝫𐄁𐝫𐙁𐘚𐝫",
     "scribe": "",
     "site": "Iouktas",
@@ -41856,6 +42976,7 @@ var inscriptions = new Map([
         "images/IOZa14-Inscription.jpg"
     ],
     "name": "IOZa14",
+    "names": "IOZa14",
     "parsedInscription": "𐘤𐝫𐘘𐘃𐄁𐘚𐘆𐝫",
     "scribe": "",
     "site": "Iouktas",
@@ -41885,6 +43006,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "IOZa15",
+    "names": "IOZa15",
     "parsedInscription": "𐝫𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐝫𐘃",
     "scribe": "",
     "site": "Iouktas",
@@ -41918,6 +43040,7 @@ var inscriptions = new Map([
         "images/IOZa16-Inscription.jpg"
     ],
     "name": "IOZa16",
+    "names": "IOZa16",
     "parsedInscription": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
     "scribe": "",
     "site": "Iouktas",
@@ -41963,6 +43086,7 @@ var inscriptions = new Map([
         "images/KAZf1-Inscription.jpg"
     ],
     "name": "KAZf1",
+    "names": "KAZf1",
     "parsedInscription": "𐘹𐘯𐄁",
     "scribe": "",
     "site": "Kardamoutsa",
@@ -41989,6 +43113,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KAMZb1",
+    "names": "KAMZb1",
     "parsedInscription": "𐘯𐘁𐄁𐝫𐄁",
     "scribe": "",
     "site": "Kamilari",
@@ -42020,6 +43145,7 @@ var inscriptions = new Map([
         "images/KANZa1-Inscription.jpg"
     ],
     "name": "KANZa1",
+    "names": "KANZa1",
     "parsedInscription": "𐘇𐝫𐄁𐝫𐘚\n𐝫\n𐝫",
     "scribe": "",
     "site": "Kannia",
@@ -42065,6 +43191,7 @@ var inscriptions = new Map([
         "images/KE1-Inscription.jpg"
     ],
     "name": "KE1",
+    "names": "KE1",
     "parsedInscription": "𐘾𐘞𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Kea",
@@ -42104,6 +43231,7 @@ var inscriptions = new Map([
         "images/KEWc2-Inscription.jpg"
     ],
     "name": "KEWc2",
+    "names": "KEWc2",
     "parsedInscription": "𐝂\n𐝁𐝁",
     "scribe": "",
     "site": "Kea",
@@ -42137,6 +43265,7 @@ var inscriptions = new Map([
         "images/KEZb3-Inscription.jpg"
     ],
     "name": "KEZb3",
+    "names": "KEZb3",
     "parsedInscription": "𐘸",
     "scribe": "",
     "site": "Kea",
@@ -42164,6 +43293,7 @@ var inscriptions = new Map([
         "images/KEZb4-Inscription.jpg"
     ],
     "name": "KEZb4",
+    "names": "KEZb4",
     "parsedInscription": "𐄁𐘱𐘤𐘡",
     "scribe": "",
     "site": "Kea",
@@ -42194,6 +43324,7 @@ var inscriptions = new Map([
         "images/KEZb5-Inscription.jpg"
     ],
     "name": "KEZb5",
+    "names": "KEZb5",
     "parsedInscription": "𐜀",
     "scribe": "",
     "site": "Kea",
@@ -42219,6 +43350,7 @@ var inscriptions = new Map([
         "images/KEZb6-Inscription.jpg"
     ],
     "name": "KEZb6",
+    "names": "KEZb6",
     "parsedInscription": "𐝫𐘜𐝫",
     "scribe": "",
     "site": "Kea",
@@ -42244,6 +43376,7 @@ var inscriptions = new Map([
         "images/KEZb7-Inscription.jpg"
     ],
     "name": "KEZb7",
+    "names": "KEZb7",
     "parsedInscription": "𐝫𐘢𐝫",
     "scribe": "",
     "site": "Kea",
@@ -42271,6 +43404,7 @@ var inscriptions = new Map([
         "images/KH1-Inscription.jpg"
     ],
     "name": "KH1",
+    "names": "KH1",
     "parsedInscription": "𐝫𐘧𐄁𐛵𐄖𐝫\n𐄉𐝆\n𐘝𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -42328,6 +43462,7 @@ var inscriptions = new Map([
         "images/KH2-Inscription.jpg"
     ],
     "name": "KH2",
+    "names": "KH2",
     "parsedInscription": "𐝫\n𐝫𐄑\n𐘹𐝫\n𐙗𐝫𐝃\n𐙚𐜚𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -42388,6 +43523,7 @@ var inscriptions = new Map([
         "images/KH3-Inscription.jpg"
     ],
     "name": "KH3",
+    "names": "KH3",
     "parsedInscription": "𐝫\n𐝫𐘯𐄇\n—",
     "scribe": "",
     "site": "Khania",
@@ -42430,6 +43566,7 @@ var inscriptions = new Map([
         "images/KH4-Inscription.jpg"
     ],
     "name": "KH4",
+    "names": "KH4",
     "parsedInscription": "𐘇𐘬𐘙𐝫\n𐝫𐙚𐄊\n𐙗𐝁𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
@@ -42487,6 +43624,7 @@ var inscriptions = new Map([
         "images/KH5-Inscription.jpg"
     ],
     "name": "KH5",
+    "names": "KH5",
     "parsedInscription": "𐘇𐘀𐘸𐘤𐘾𐄁𐘇𐘴𐘉𐘀𐄁\n𐘣𐘞𐘞𐘗𐜚𐄈\n𐜂𐄈\n𐘣𐘅𐘬𐄁𐙕𐘅𐄁\n𐙂𐘂𐙀𐙗𐝫𐄉𐝫𐝀\n𐘝𐄈𐝆𐝁",
     "scribe": "KH Scribe 2",
     "site": "Khania",
@@ -42586,6 +43724,7 @@ var inscriptions = new Map([
         "images/KH6-Inscription.jpg"
     ],
     "name": "KH6",
+    "names": "KH6",
     "parsedInscription": "𐝫𐜙𐝆\n𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆\n𐚇𐝫\n𐝫𐙗𐝫𐝆\n𐘭𐘳𐘧𐜙𐝫\n𐝫𐘑𐄇\n𐜙𐝆\n𐘕𐄇\n𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇\n𐜙𐝆\n𐘢𐘞𐝫\n𐝫𐜙𐝆\n𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎\n𐙗𐄈𐝆𐝁",
     "scribe": "KH Scribe 2",
     "site": "Khania",
@@ -42769,6 +43908,7 @@ var inscriptions = new Map([
         "images/KH7a-Inscription.jpg"
     ],
     "name": "KH7a",
+    "names": "KH7a",
     "parsedInscription": "𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊\n𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇\n𐘡𐘅𐘤𐄁𐛪𐄐\n𐜙𐝆\n𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐛪𐄊\n𐜙𐝁\n𐘈𐙙𐄁\n𐙂𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎\n𐜙𐄇𐝕𐝉𐝫\n𐝫𐝁𐝌\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
@@ -42940,6 +44080,7 @@ var inscriptions = new Map([
         "images/KH7b-Inscription.jpg"
     ],
     "name": "KH7b",
+    "names": "KH7b",
     "parsedInscription": "𐝫\n—\n𐘉𐘳𐘚𐘈𐜙𐝆𐝫\n𐝫𐘂𐘅𐘹𐜙𐝆\n𐜝𐄇\n𐘤𐄐𐄊\n𐜛𐄈",
     "scribe": "KH Scribe 2",
     "site": "Khania",
@@ -43024,6 +44165,7 @@ var inscriptions = new Map([
         "images/KH8-Inscription.jpg"
     ],
     "name": "KH8",
+    "names": "KH8",
     "parsedInscription": "𐝫\n𐝫𐘙𐝫\n𐝫𐘳𐄈\n𐜙𐝆\n𐘝𐝆\n𐝫𐙉𐝆\n𐙘𐝃\n𐙗𐝃\n𐙇𐝫\n𐝫𐘝𐝃\n𐙢𐄇\n𐚻𐄇",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -43144,6 +44286,7 @@ var inscriptions = new Map([
         "images/KH9-Inscription.jpg"
     ],
     "name": "KH9",
+    "names": "KH9",
     "parsedInscription": "𐘇𐘤𐘲𐘊𐘇𐄁𐛨𐝫\n𐝫𐝇\n𐘝𐝃𐝁\n𐘻𐝫\n𐝫𐘚𐘤𐄁𐜙𐝆𐝫\n𐝫𐄈\n𐙗𐝃\n𐙍𐝫\n𐝫𐙗𐝃𐝉𐝫\n𐝫𐝎\n𐛌𐙘𐄇𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -43258,6 +44401,7 @@ var inscriptions = new Map([
         "images/KH10-Inscription.jpg"
     ],
     "name": "KH10",
+    "names": "KH10",
     "parsedInscription": "𐝫\n𐝫𐄈\n𐝫𐝆\n𐙉𐄐\n𐘚𐘂𐘞𐘱𐄁𐘌𐙈\n𐘇𐘸𐘢𐘡𐘃𐙉𐄘",
     "scribe": "KH Scribe 5",
     "site": "Khania",
@@ -43333,6 +44477,7 @@ var inscriptions = new Map([
         "images/KH11-Inscription.jpg"
     ],
     "name": "KH11",
+    "names": "KH11",
     "parsedInscription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉\n𐜚𐝇𐝉\n𐙍𐝀\n𐙚𐄊\n𐙗𐝁\n𐚈𐙗𐝇𐝉\n𐘇𐘄𐚉𐘄𐘚𐜚𐄉\n𐘝𐄇\n𐙍𐄉\n𐘇𐘳𐚊𐙕𐄇\n𐙚𐄇\n𐘤𐙗𐝇𐝉",
     "scribe": "KH Scribe 2",
     "site": "Khania",
@@ -43486,6 +44631,7 @@ var inscriptions = new Map([
         "images/KH12-Inscription.jpg"
     ],
     "name": "KH12",
+    "names": "KH12",
     "parsedInscription": "𐝫𐙗𐝫𐄈\n𐙜𐝆\n𐛚𐝆\n𐝫𐝁\n𐙻𐝫𐝫𐝁\n𐛀\n𐝫𐝇\n𐜫𐝂\n𐜩𐝍𐝫\n𐝫𐜩𐝍𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -43594,6 +44740,7 @@ var inscriptions = new Map([
         "images/KH13-Inscription.jpg"
     ],
     "name": "KH13",
+    "names": "KH13",
     "parsedInscription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉\n𐙘𐝫𐙗𐝁𐝫\n𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -43675,6 +44822,7 @@ var inscriptions = new Map([
         "images/KH14-Inscription.jpg"
     ],
     "name": "KH14",
+    "names": "KH14",
     "parsedInscription": "𐝫𐘴𐄁\n𐘇𐙁𐘱𐄁𐙗𐄌𐝫\n𐝫𐙗𐝃\n𐙼𐄈\n𐙗𐝇𐝫\n𐝫𐘝𐝃\n𐛨𐄈𐝫\n𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -43777,6 +44925,7 @@ var inscriptions = new Map([
         "images/KH15-Inscription.jpg"
     ],
     "name": "KH15",
+    "names": "KH15",
     "parsedInscription": "𐝫𐙗𐝫𐝆\n𐘝𐝆\n𐝫𐘝𐝃",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -43825,6 +44974,7 @@ var inscriptions = new Map([
         "images/KH16-Inscription.jpg"
     ],
     "name": "KH16",
+    "names": "KH16",
     "parsedInscription": "𐝫𐄑𐄈\n𐙗𐝇𐝉𐝫\n𐝫𐘉𐘳𐘚𐘤𐜙𐝫\n𐝫𐝆\n𐘳𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -43888,6 +45038,7 @@ var inscriptions = new Map([
         "images/KH17-Inscription.jpg"
     ],
     "name": "KH17",
+    "names": "KH17",
     "parsedInscription": "𐝫\n𐝫𐝫\n𐝫𐄊𐝆𐝁\n𐘝𐝫\n𐝫𐘝𐄇\n𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -43957,6 +45108,7 @@ var inscriptions = new Map([
         "images/KH18-Inscription.jpg"
     ],
     "name": "KH18",
+    "names": "KH18",
     "parsedInscription": "𐝫\n𐝫𐜨\n𐝫𐄋\n𐘚𐙂𐘢𐝫\n𐝫𐙏𐄇\n𐙂𐄑𐄈\n𐘤𐝫\n𐝫𐚵𐙏𐄇\n𐚶𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -44044,6 +45196,7 @@ var inscriptions = new Map([
         "images/KH19-Inscription.jpg"
     ],
     "name": "KH19",
+    "names": "KH19",
     "parsedInscription": "𐝫𐙚𐛨𐄐𐄉𐝫\n𐝫𐄈\n𐜐𐝁𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -44089,6 +45242,7 @@ var inscriptions = new Map([
         "images/KH20-Inscription.jpg"
     ],
     "name": "KH20",
+    "names": "KH20",
     "parsedInscription": "𐝫\n𐝫\n𐘇𐘤𐘸𐘴𐄁𐜚𐝫\n𐝫𐝁\n𐝫𐘬𐘙𐘍𐄁𐜚𐝆\n𐘝𐝃",
     "scribe": "KH Scribe 3",
     "site": "Khania",
@@ -44164,6 +45318,7 @@ var inscriptions = new Map([
         "images/KH21-Inscription.jpg"
     ],
     "name": "KH21",
+    "names": "KH21",
     "parsedInscription": "𐝫\n𐝫𐙗𐝍\n𐝫𐝂\n𐘝𐄈𐝫\n𐙚𐘿𐘬𐝫",
     "scribe": "",
     "site": "Khania",
@@ -44221,6 +45376,7 @@ var inscriptions = new Map([
         "images/KH22-Inscription.jpg"
     ],
     "name": "KH22",
+    "names": "KH22",
     "parsedInscription": "𐝫𐘍𐄁𐘲𐄍\n𐜚𐝫\n𐝫𐘤𐄊\n𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -44284,6 +45440,7 @@ var inscriptions = new Map([
         "images/KH23-Inscription.jpg"
     ],
     "name": "KH23",
+    "names": "KH23",
     "parsedInscription": "𐘇𐘬𐝫\n𐝫𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
@@ -44323,6 +45480,7 @@ var inscriptions = new Map([
         "images/KH24-Inscription.jpg"
     ],
     "name": "KH24",
+    "names": "KH24",
     "parsedInscription": "𐝫𐘲𐄐𐄈𐝫\n𐝫𐝉\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -44365,6 +45523,7 @@ var inscriptions = new Map([
         "images/KH25-Inscription.jpg"
     ],
     "name": "KH25",
+    "names": "KH25",
     "parsedInscription": "𐝫𐙇𐄙𐄓𐝫\n𐝫𐙇𐄐𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -44410,6 +45569,7 @@ var inscriptions = new Map([
         "images/KH26-Inscription.jpg"
     ],
     "name": "KH26",
+    "names": "KH26",
     "parsedInscription": "𐝫\n𐝫𐙇𐄕𐝫\n𐝫𐘝𐄈𐝃𐝋\n𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -44476,6 +45636,7 @@ var inscriptions = new Map([
         "images/KH27-Inscription.jpg"
     ],
     "name": "KH27",
+    "names": "KH27",
     "parsedInscription": "𐝫\n𐝫𐘝𐝫\n𐝫𐛭𐄊𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -44518,6 +45679,7 @@ var inscriptions = new Map([
         "images/KH28-Inscription.jpg"
     ],
     "name": "KH28",
+    "names": "KH28",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘈𐄁𐛵𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -44563,6 +45725,7 @@ var inscriptions = new Map([
         "images/KH29-Inscription.jpg"
     ],
     "name": "KH29",
+    "names": "KH29",
     "parsedInscription": "𐝫𐘴𐄁𐘷𐝫\n𐝫𐄇\n𐙂𐘂𐝫\n𐝫𐄈\n𐙗𐝆𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -44635,6 +45798,7 @@ var inscriptions = new Map([
         "images/KH30-Inscription.jpg"
     ],
     "name": "KH30",
+    "names": "KH30",
     "parsedInscription": "𐝫\n𐝫𐝉𐝫\n𐝫𐘝𐄏",
     "scribe": "",
     "site": "Khania",
@@ -44677,6 +45841,7 @@ var inscriptions = new Map([
         "images/KH31-Inscription.jpg"
     ],
     "name": "KH31",
+    "names": "KH31",
     "parsedInscription": "𐝫\n𐝫𐜨\n—\n𐝫𐝆\n𐜪𐝫\n𐝫𐄇\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -44740,6 +45905,7 @@ var inscriptions = new Map([
         "images/KH32-Inscription.jpg"
     ],
     "name": "KH32",
+    "names": "KH32",
     "parsedInscription": "𐘚𐙷𐝫\n𐝫𐄋𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -44779,6 +45945,7 @@ var inscriptions = new Map([
         "images/KH33-Inscription.jpg"
     ],
     "name": "KH33",
+    "names": "KH33",
     "parsedInscription": "𐝫\n𐝫𐜙𐝫\n𐝫𐄇\n𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -44830,6 +45997,7 @@ var inscriptions = new Map([
         "images/KH34-Inscription.jpg"
     ],
     "name": "KH34",
+    "names": "KH34",
     "parsedInscription": "𐝫𐜚𐄈\n𐘝𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -44878,6 +46046,7 @@ var inscriptions = new Map([
         "images/KH35-Inscription.jpg"
     ],
     "name": "KH35",
+    "names": "KH35",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄇\n𐙗𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -44929,6 +46098,7 @@ var inscriptions = new Map([
         "images/KH36-Inscription.jpg"
     ],
     "name": "KH36",
+    "names": "KH36",
     "parsedInscription": "𐝫𐘾𐄁𐛚𐄊𐝫\n𐝫𐘅𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -44977,6 +46147,7 @@ var inscriptions = new Map([
         "images/KH37-Inscription.jpg"
     ],
     "name": "KH37",
+    "names": "KH37",
     "parsedInscription": "𐜜𐄈\n𐘣𐝫\n𐜜\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -45025,6 +46196,7 @@ var inscriptions = new Map([
         "images/KH38-Inscription.jpg"
     ],
     "name": "KH38",
+    "names": "KH38",
     "parsedInscription": "𐝫\n𐝫\n𐜙𐝆𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
@@ -45079,6 +46251,7 @@ var inscriptions = new Map([
         "images/KH39-Inscription.jpg"
     ],
     "name": "KH39",
+    "names": "KH39",
     "parsedInscription": "𐘇𐘳𐝫\n𐝫𐜐𐝫\n𐝫",
     "scribe": "KH Scribe 3",
     "site": "Khania",
@@ -45118,6 +46291,7 @@ var inscriptions = new Map([
         "images/KH40-Inscription.jpg"
     ],
     "name": "KH40",
+    "names": "KH40",
     "parsedInscription": "𐝫\n𐝫𐘤𐘅𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -45157,6 +46331,7 @@ var inscriptions = new Map([
         "images/KH41-Inscription.jpg"
     ],
     "name": "KH41",
+    "names": "KH41",
     "parsedInscription": "𐝫𐄉\n𐝫𐘾𐘳𐘙𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -45196,6 +46371,7 @@ var inscriptions = new Map([
         "images/KH42-Inscription.jpg"
     ],
     "name": "KH42",
+    "names": "KH42",
     "parsedInscription": "𐝫\n𐝫𐜟𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -45235,6 +46411,7 @@ var inscriptions = new Map([
         "images/KH43-Inscription.jpg"
     ],
     "name": "KH43",
+    "names": "KH43",
     "parsedInscription": "𐝫𐛢𐘙𐄈\n𐛇𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -45277,6 +46454,7 @@ var inscriptions = new Map([
         "images/KH44-Inscription.jpg"
     ],
     "name": "KH44",
+    "names": "KH44",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙻𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -45322,6 +46500,7 @@ var inscriptions = new Map([
         "images/KH45-Inscription.jpg"
     ],
     "name": "KH45",
+    "names": "KH45",
     "parsedInscription": "𐘇𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -45361,6 +46540,7 @@ var inscriptions = new Map([
         "images/KH46-Inscription.jpg"
     ],
     "name": "KH46",
+    "names": "KH46",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝋\n𐙍𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -45412,6 +46592,7 @@ var inscriptions = new Map([
         "images/KH47-Inscription.jpg"
     ],
     "name": "KH47",
+    "names": "KH47",
     "parsedInscription": "𐝫\n𐝫𐘌𐘗𐝫\n𐝫𐄌\n𐘤𐝫\n𐝫𐘴𐄁𐙚𐝫",
     "scribe": "",
     "site": "Khania",
@@ -45469,6 +46650,7 @@ var inscriptions = new Map([
         "images/KH49-Inscription.jpg"
     ],
     "name": "KH49",
+    "names": "KH49",
     "parsedInscription": "𐝫\n𐝫𐘘𐝫\n𐝫𐙂𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -45514,6 +46696,7 @@ var inscriptions = new Map([
         "images/KH50-Inscription.jpg"
     ],
     "name": "KH50",
+    "names": "KH50",
     "parsedInscription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈\n𐘿𐝫𐄁𐝫𐄇\n—\n—",
     "scribe": "",
     "site": "Khania",
@@ -45583,6 +46766,7 @@ var inscriptions = new Map([
         "images/KH51-Inscription.jpg"
     ],
     "name": "KH51",
+    "names": "KH51",
     "parsedInscription": "𐝫𐘤𐘚𐘤𐄉\n𐝫𐄊\n𐘹𐝫\n𐝫",
     "scribe": "KH Scribe 4",
     "site": "Khania",
@@ -45631,6 +46815,7 @@ var inscriptions = new Map([
         "images/KH52-Inscription.jpg"
     ],
     "name": "KH52",
+    "names": "KH52",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘳𐘉𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -45676,6 +46861,7 @@ var inscriptions = new Map([
         "images/KH53-Inscription.jpg"
     ],
     "name": "KH53",
+    "names": "KH53",
     "parsedInscription": "𐝫𐘇𐘋𐙌𐄁\n𐘗𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -45718,6 +46904,7 @@ var inscriptions = new Map([
         "images/KH54-Inscription.jpg"
     ],
     "name": "KH54",
+    "names": "KH54",
     "parsedInscription": "𐝫𐜚𐄇\n𐙉𐝫𐄇𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -45769,6 +46956,7 @@ var inscriptions = new Map([
         "images/KH55-Inscription.jpg"
     ],
     "name": "KH55",
+    "names": "KH55",
     "parsedInscription": "𐝫\n𐝫\n𐜐𐝁𐝫\n𐄉𐝫\n𐘝𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -45829,6 +47017,7 @@ var inscriptions = new Map([
         "images/KH56-Inscription.jpg"
     ],
     "name": "KH56",
+    "names": "KH56",
     "parsedInscription": "𐝫𐝕𐝉𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -45868,6 +47057,7 @@ var inscriptions = new Map([
         "images/KH57-Inscription.jpg"
     ],
     "name": "KH57",
+    "names": "KH57",
     "parsedInscription": "𐝫\n𐝫𐘹𐝫\n𐝫𐘎𐄇𐝫\n𐝫𐙗𐝫𐝃𐝫\n𐝫",
     "scribe": "KH Scribe 4",
     "site": "Khania",
@@ -45925,6 +47115,7 @@ var inscriptions = new Map([
         "images/KH58-Inscription.jpg"
     ],
     "name": "KH58",
+    "names": "KH58",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐙗𐝫𐄊\n𐘝𐝫\n𐝫𐜚𐄇𐝃\n𐘇𐝫\n𐝫𐜚𐄊𐝫\n𐝫𐙗𐝫𐝆\n𐘇𐙕𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -46015,6 +47206,7 @@ var inscriptions = new Map([
         "images/KH59-Inscription.jpg"
     ],
     "name": "KH59",
+    "names": "KH59",
     "parsedInscription": "𐝫\n𐝫𐄇\n𐝫𐘚𐄋\n𐝫𐘆𐘅𐄋\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46072,6 +47264,7 @@ var inscriptions = new Map([
         "images/KH60-Inscription.jpg"
     ],
     "name": "KH60",
+    "names": "KH60",
     "parsedInscription": "𐝫𐘴𐘸𐘳𐘅𐘤𐝫\n𐝫𐙏𐝍\n𐘷𐙗𐝫\n𐝫𐝂\n𐛚𐝂𐝫\n𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -46141,6 +47334,7 @@ var inscriptions = new Map([
         "images/KH61-Inscription.jpg"
     ],
     "name": "KH61",
+    "names": "KH61",
     "parsedInscription": "𐝫\n𐝫𐄑𐝫\n𐝫𐄇\n𐙁𐝫\n𐝫𐝁\n𐜐𐝉𐝫\n𐝫𐙗𐝫𐄈\n𐙉𐄇𐝍",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -46222,6 +47416,7 @@ var inscriptions = new Map([
         "images/KH62-Inscription.jpg"
     ],
     "name": "KH62",
+    "names": "KH62",
     "parsedInscription": "𐝫\n𐝫𐙁𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -46255,6 +47450,7 @@ var inscriptions = new Map([
         "images/KH63-Inscription.jpg"
     ],
     "name": "KH63",
+    "names": "KH63",
     "parsedInscription": "𐝫\n𐝫𐘲𐄐𐝫\n𐝫𐜩𐝉𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46306,6 +47502,7 @@ var inscriptions = new Map([
         "images/KH64-Inscription.jpg"
     ],
     "name": "KH64",
+    "names": "KH64",
     "parsedInscription": "𐝫\n𐝫𐘳𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46351,6 +47548,7 @@ var inscriptions = new Map([
         "images/KH65-Inscription.jpg"
     ],
     "name": "KH65",
+    "names": "KH65",
     "parsedInscription": "𐝫\n𐝫𐘝𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46390,6 +47588,7 @@ var inscriptions = new Map([
         "images/KH66-Inscription.jpg"
     ],
     "name": "KH66",
+    "names": "KH66",
     "parsedInscription": "𐝫𐄒𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46423,6 +47622,7 @@ var inscriptions = new Map([
         "images/KH67-Inscription.jpg"
     ],
     "name": "KH67",
+    "names": "KH67",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46468,6 +47668,7 @@ var inscriptions = new Map([
         "images/KH68+71-Inscription.jpg"
     ],
     "name": "KH68+71",
+    "names": "KH68+71",
     "parsedInscription": "𐝫\n𐝫𐜨𐝉𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46516,6 +47717,7 @@ var inscriptions = new Map([
         "images/KH69-Inscription.jpg"
     ],
     "name": "KH69",
+    "names": "KH69",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46555,6 +47757,7 @@ var inscriptions = new Map([
         "images/KH70-Inscription.jpg"
     ],
     "name": "KH70",
+    "names": "KH70",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46594,6 +47797,7 @@ var inscriptions = new Map([
         "images/KH72-Inscription.jpg"
     ],
     "name": "KH72",
+    "names": "KH72",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46633,6 +47837,7 @@ var inscriptions = new Map([
         "images/KH73-Inscription.jpg"
     ],
     "name": "KH73",
+    "names": "KH73",
     "parsedInscription": "𐝫\n𐝫𐝉\n𐘇𐝫\n𐝫𐄇\n𐘝𐄇\n𐜝𐄇𐝫\n𐝫𐝇\n𐘇𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -46714,6 +47919,7 @@ var inscriptions = new Map([
         "images/KH74-Inscription.jpg"
     ],
     "name": "KH74",
+    "names": "KH74",
     "parsedInscription": "𐝫𐘤𐄁𐘱𐘀𐘲𐝫\n𐝫𐘤𐝥𐘻\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46759,6 +47965,7 @@ var inscriptions = new Map([
         "images/KH75-Inscription.jpg"
     ],
     "name": "KH75",
+    "names": "KH75",
     "parsedInscription": "𐝫\n𐝫𐝆𐝫\n𐝫𐙗𐝫𐝇𐝉\n𐘝𐝁\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46816,6 +48023,7 @@ var inscriptions = new Map([
         "images/KH76-Inscription.jpg"
     ],
     "name": "KH76",
+    "names": "KH76",
     "parsedInscription": "𐝫\n𐝫𐘤𐄊𐝫\n𐝫𐙗𐝫𐝃𐝌\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46867,6 +48075,7 @@ var inscriptions = new Map([
         "images/KH77-Inscription.jpg"
     ],
     "name": "KH77",
+    "names": "KH77",
     "parsedInscription": "𐝫𐙗𐝫𐝍\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46903,6 +48112,7 @@ var inscriptions = new Map([
         "images/KH78-Inscription.jpg"
     ],
     "name": "KH78",
+    "names": "KH78",
     "parsedInscription": "𐝫\n𐝫𐄒𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46942,6 +48152,7 @@ var inscriptions = new Map([
         "images/KH79-Inscription.jpg"
     ],
     "name": "KH79",
+    "names": "KH79",
     "parsedInscription": "𐝫\n𐝫𐘂𐘀𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -46981,6 +48192,7 @@ var inscriptions = new Map([
         "images/KH79+89-Inscription.jpg"
     ],
     "name": "KH79+89",
+    "names": "KH79+89",
     "parsedInscription": "𐝫𐘻𐘅𐝫\n𐝫𐘂𐘳𐄁𐘇𐘴𐝫\n𐝫𐘂𐘀𐘝\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47032,6 +48244,7 @@ var inscriptions = new Map([
         "images/KH80-Inscription.jpg"
     ],
     "name": "KH80",
+    "names": "KH80",
     "parsedInscription": "𐝫𐝂\n𐙖𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47071,6 +48284,7 @@ var inscriptions = new Map([
         "images/KH81-Inscription.jpg"
     ],
     "name": "KH81",
+    "names": "KH81",
     "parsedInscription": "𐝫\n𐝫\n𐄋𐝫\n𐛛𐄢𐝫\n𐝫𐄉\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47131,6 +48345,7 @@ var inscriptions = new Map([
         "images/KH82-Inscription.jpg"
     ],
     "name": "KH82",
+    "names": "KH82",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐜏𐝉𐝫\n𐝫𐙧𐄇𐝫\n𐝫𐙼𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47194,6 +48409,7 @@ var inscriptions = new Map([
         "images/KH83-Inscription.jpg"
     ],
     "name": "KH83",
+    "names": "KH83",
     "parsedInscription": "𐝫𐄁\n𐘇𐘆𐘗𐝫\n𐄐𐄋\n𐜩𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47248,6 +48464,7 @@ var inscriptions = new Map([
         "images/KH84-Inscription.jpg"
     ],
     "name": "KH84",
+    "names": "KH84",
     "parsedInscription": "𐝫\n𐝫𐙗𐝆𐝫\n𐝫𐙕𐄇\n𐙚𐝫\n𐜩𐝫\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
@@ -47311,6 +48528,7 @@ var inscriptions = new Map([
         "images/KH85-Inscription.jpg"
     ],
     "name": "KH85",
+    "names": "KH85",
     "parsedInscription": "𐝫\n𐝫𐜐𐝆\n𐙜𐝫\n𐝫𐜩𐝇\n𐙏𐝫\n𐝫𐙘𐝫\n𐝫𐙗𐝫𐝂𐝫\n𐝫",
     "scribe": "KH Scribe 1",
     "site": "Khania",
@@ -47389,6 +48607,7 @@ var inscriptions = new Map([
         "images/KH86-Inscription.jpg"
     ],
     "name": "KH86",
+    "names": "KH86",
     "parsedInscription": "𐝫𐘙𐘍𐙗𐝫\n𐝫𐙗𐝫𐝀𐝁𐝁\n𐘢𐘯𐝫\n𐝫𐄉𐝫\n𐝫𐙗𐝫𐝕𐝫\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
@@ -47455,6 +48674,7 @@ var inscriptions = new Map([
         "images/KH87-Inscription.jpg"
     ],
     "name": "KH87",
+    "names": "KH87",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝉\n𐙚𐝫\n𐝫𐝆\n𐘖𐄇",
     "scribe": "",
     "site": "Khania",
@@ -47515,6 +48735,7 @@ var inscriptions = new Map([
         "images/KH88-Inscription.jpg"
     ],
     "name": "KH88",
+    "names": "KH88",
     "parsedInscription": "𐘌𐘯𐙁𐄁𐘐𐙈𐄁𐘝𐄐\n𐘫𐘦𐄎\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47572,6 +48793,7 @@ var inscriptions = new Map([
         "images/KH90-Inscription.jpg"
     ],
     "name": "KH90",
+    "names": "KH90",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘱𐝫\n𐝫𐙁𐘳𐘭𐘳𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47626,6 +48848,7 @@ var inscriptions = new Map([
         "images/KH91-Inscription.jpg"
     ],
     "name": "KH91",
+    "names": "KH91",
     "parsedInscription": "𐝫\n𐝫𐄁𐝫\n𐙉𐄇\n𐙍𐝫\n𐝫𐙨𐄇𐝆𐝉\n𐙀𐝫\n𐝫𐝀\n𐘹𐝇\n𐘝𐝫\n𐝫𐜩𐝇\n𐜪𐝫\n𐝫",
     "scribe": "KH Scribe 6",
     "site": "Khania",
@@ -47740,6 +48963,7 @@ var inscriptions = new Map([
         "images/KH92-Inscription.jpg"
     ],
     "name": "KH92",
+    "names": "KH92",
     "parsedInscription": "𐘇𐘀𐘐𐘭\n𐙂𐘝𐘃𐄐𐝫\n𐝫𐘅𐘸𐄇𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47798,6 +49022,7 @@ var inscriptions = new Map([
         "images/KH93-Inscription.jpg"
     ],
     "name": "KH93",
+    "names": "KH93",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47825,6 +49050,7 @@ var inscriptions = new Map([
         "images/KH94-Inscription.jpg"
     ],
     "name": "KH94",
+    "names": "KH94",
     "parsedInscription": "𐝫\n𐝫𐘌𐝫𐘫\n𐝫𐄐𐄍\n𐘚𐝫𐘍𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47876,6 +49102,7 @@ var inscriptions = new Map([
         "images/KH95-Inscription.jpg"
     ],
     "name": "KH95",
+    "names": "KH95",
     "parsedInscription": "𐝫\n𐘈𐄍𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47912,6 +49139,7 @@ var inscriptions = new Map([
         "images/KH96-Inscription.jpg"
     ],
     "name": "KH96",
+    "names": "KH96",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐝈𐝀𐝀",
     "scribe": "",
     "site": "Khania",
@@ -47951,6 +49179,7 @@ var inscriptions = new Map([
         "images/KH97a-Inscription.jpg"
     ],
     "name": "KH97a",
+    "names": "KH97a",
     "parsedInscription": "𐝫𐘙𐘇𐘱𐝫\n𐝫𐘅𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -47990,6 +49219,7 @@ var inscriptions = new Map([
         "images/KH97b-Inscription.jpg"
     ],
     "name": "KH97b",
+    "names": "KH97b",
     "parsedInscription": "𐝫𐘈𐘚𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -48029,6 +49259,7 @@ var inscriptions = new Map([
         "images/KH99-Inscription.jpg"
     ],
     "name": "KH99",
+    "names": "KH99",
     "parsedInscription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫",
     "scribe": "",
     "site": "Khania",
@@ -48068,6 +49299,7 @@ var inscriptions = new Map([
         "images/KH100-Inscription.jpg"
     ],
     "name": "KH100",
+    "names": "KH100",
     "parsedInscription": "𐚌𐙚𐝫\n𐝫𐘁𐙍𐝫\n𐝫𐘥𐝃𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
@@ -48119,6 +49351,7 @@ var inscriptions = new Map([
         "images/KH101-Inscription.jpg"
     ],
     "name": "KH101",
+    "names": "KH101",
     "parsedInscription": "",
     "scribe": "",
     "site": "Khania",
@@ -48140,6 +49373,7 @@ var inscriptions = new Map([
         "images/KHWa1001a-Inscription.jpg"
     ],
     "name": "KHWa1001",
+    "names": "KHWa1001",
     "parsedInscription": "𐜡𐚳",
     "scribe": "",
     "site": "Khania",
@@ -48170,6 +49404,7 @@ var inscriptions = new Map([
         "images/KHWa1002a-Inscription.jpg"
     ],
     "name": "KHWa1002",
+    "names": "KHWa1002",
     "parsedInscription": "𐜡𐚳",
     "scribe": "",
     "site": "Khania",
@@ -48200,6 +49435,7 @@ var inscriptions = new Map([
         "images/KHWa1003-Inscription.jpg"
     ],
     "name": "KHWa1003",
+    "names": "KHWa1003",
     "parsedInscription": "𐙃",
     "scribe": "",
     "site": "Khania",
@@ -48227,6 +49463,7 @@ var inscriptions = new Map([
         "images/KHWa1004-Inscription.jpg"
     ],
     "name": "KHWa1004",
+    "names": "KHWa1004",
     "parsedInscription": "𐙃",
     "scribe": "",
     "site": "Khania",
@@ -48254,6 +49491,7 @@ var inscriptions = new Map([
         "images/KHWa1005-Inscription.jpg"
     ],
     "name": "KHWa1005",
+    "names": "KHWa1005",
     "parsedInscription": "𐘼",
     "scribe": "KH Wa Scribe 50",
     "site": "Khania",
@@ -48281,6 +49519,7 @@ var inscriptions = new Map([
         "images/KHWa1006-Inscription.jpg"
     ],
     "name": "KHWa1006",
+    "names": "KHWa1006",
     "parsedInscription": "𐘼",
     "scribe": "KH Wa Scribe 50",
     "site": "Khania",
@@ -48308,6 +49547,7 @@ var inscriptions = new Map([
         "images/KHWa1007-Inscription.jpg"
     ],
     "name": "KHWa1007",
+    "names": "KHWa1007",
     "parsedInscription": "𐘼",
     "scribe": "KH Wa Scribe 50",
     "site": "Khania",
@@ -48335,6 +49575,7 @@ var inscriptions = new Map([
         "images/KHWa1008-Inscription.jpg"
     ],
     "name": "KHWa1008",
+    "names": "KHWa1008",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Khania",
@@ -48362,6 +49603,7 @@ var inscriptions = new Map([
         "images/KHWa1009-Inscription.jpg"
     ],
     "name": "KHWa1009",
+    "names": "KHWa1009",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Khania",
@@ -48389,6 +49631,7 @@ var inscriptions = new Map([
         "images/KHWa1010-Inscription.jpg"
     ],
     "name": "KHWa1010",
+    "names": "KHWa1010",
     "parsedInscription": "𐘼",
     "scribe": "",
     "site": "Khania",
@@ -48416,6 +49659,7 @@ var inscriptions = new Map([
         "images/KHWa1011-Inscription.jpg"
     ],
     "name": "KHWa1011",
+    "names": "KHWa1011",
     "parsedInscription": "𐙕",
     "scribe": "KH Wa Scribe 51",
     "site": "Khania",
@@ -48443,6 +49687,7 @@ var inscriptions = new Map([
         "images/KHWa1012-Inscription.jpg"
     ],
     "name": "KHWa1012",
+    "names": "KHWa1012",
     "parsedInscription": "𐙕",
     "scribe": "KH Wa Scribe 51",
     "site": "Khania",
@@ -48472,6 +49717,7 @@ var inscriptions = new Map([
         "images/KHWa1013g-Inscription.jpg"
     ],
     "name": "KHWa1013",
+    "names": "KHWa1013",
     "parsedInscription": "𐙅𐘁",
     "scribe": "KH Wa Scribe 52",
     "site": "Khania",
@@ -48499,6 +49745,7 @@ var inscriptions = new Map([
         "images/KHWa1014-Inscription.jpg"
     ],
     "name": "KHWa1014",
+    "names": "KHWa1014",
     "parsedInscription": "𐙅𐘁",
     "scribe": "",
     "site": "Khania",
@@ -48526,6 +49773,7 @@ var inscriptions = new Map([
         "images/KHWa1015-Inscription.jpg"
     ],
     "name": "KHWa1015",
+    "names": "KHWa1015",
     "parsedInscription": "𐙅𐘁",
     "scribe": "",
     "site": "Khania",
@@ -48555,6 +49803,7 @@ var inscriptions = new Map([
         "images/KHWa1016g-Inscription.jpg"
     ],
     "name": "KHWa1016",
+    "names": "KHWa1016",
     "parsedInscription": "𐙅𐘁",
     "scribe": "",
     "site": "Khania",
@@ -48582,6 +49831,7 @@ var inscriptions = new Map([
         "images/KHWa1017-Inscription.jpg"
     ],
     "name": "KHWa1017",
+    "names": "KHWa1017",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Khania",
@@ -48609,6 +49859,7 @@ var inscriptions = new Map([
         "images/KHWa1018-Inscription.jpg"
     ],
     "name": "KHWa1018",
+    "names": "KHWa1018",
     "parsedInscription": "𐚟",
     "scribe": "",
     "site": "Khania",
@@ -48636,6 +49887,7 @@ var inscriptions = new Map([
         "images/KHWa1019-Inscription.jpg"
     ],
     "name": "KHWa1019",
+    "names": "KHWa1019",
     "parsedInscription": "𐝃",
     "scribe": "",
     "site": "Khania",
@@ -48663,6 +49915,7 @@ var inscriptions = new Map([
         "images/KHWa1020-Inscription.jpg"
     ],
     "name": "KHWa1020",
+    "names": "KHWa1020",
     "parsedInscription": "𐝫𐄁",
     "scribe": "",
     "site": "Khania",
@@ -48693,6 +49946,7 @@ var inscriptions = new Map([
         "images/KHWc2001-Inscription.jpg"
     ],
     "name": "KHWc2001",
+    "names": "KHWc2001",
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 59",
     "site": "Khania",
@@ -48720,6 +49974,7 @@ var inscriptions = new Map([
         "images/KHWc2002-Inscription.jpg"
     ],
     "name": "KHWc2002",
+    "names": "KHWc2002",
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 60",
     "site": "Khania",
@@ -48747,6 +50002,7 @@ var inscriptions = new Map([
         "images/KHWc2003-Inscription.jpg"
     ],
     "name": "KHWc2003",
+    "names": "KHWc2003",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
@@ -48774,6 +50030,7 @@ var inscriptions = new Map([
         "images/KHWc2004-Inscription.jpg"
     ],
     "name": "KHWc2004",
+    "names": "KHWc2004",
     "parsedInscription": "𐙇𐝫",
     "scribe": "",
     "site": "Khania",
@@ -48801,6 +50058,7 @@ var inscriptions = new Map([
         "images/KHWc2005-Inscription.jpg"
     ],
     "name": "KHWc2005",
+    "names": "KHWc2005",
     "parsedInscription": "𐘾𐘅𐘝𐘠",
     "scribe": "",
     "site": "Khania",
@@ -48828,6 +50086,7 @@ var inscriptions = new Map([
         "images/KHWc2006-Inscription.jpg"
     ],
     "name": "KHWc2006",
+    "names": "KHWc2006",
     "parsedInscription": "𐚱",
     "scribe": "KH Wc Scribe 53",
     "site": "Khania",
@@ -48855,6 +50114,7 @@ var inscriptions = new Map([
         "images/KHWc2007-Inscription.jpg"
     ],
     "name": "KHWc2007",
+    "names": "KHWc2007",
     "parsedInscription": "𐚱",
     "scribe": "KH Wc Scribe 53",
     "site": "Khania",
@@ -48882,6 +50142,7 @@ var inscriptions = new Map([
         "images/KHWc2008-Inscription.jpg"
     ],
     "name": "KHWc2008",
+    "names": "KHWc2008",
     "parsedInscription": "𐚫",
     "scribe": "",
     "site": "Khania",
@@ -48909,6 +50170,7 @@ var inscriptions = new Map([
         "images/KHWc2009-Inscription.jpg"
     ],
     "name": "KHWc2009",
+    "names": "KHWc2009",
     "parsedInscription": "𐚫",
     "scribe": "H Wc Scribe 54",
     "site": "Khania",
@@ -48936,6 +50198,7 @@ var inscriptions = new Map([
         "images/KHWc2010-Inscription.jpg"
     ],
     "name": "KHWc2010",
+    "names": "KHWc2010",
     "parsedInscription": "𐚩",
     "scribe": "",
     "site": "Khania",
@@ -48963,6 +50226,7 @@ var inscriptions = new Map([
         "images/KHWc2011-Inscription.jpg"
     ],
     "name": "KHWc2011",
+    "names": "KHWc2011",
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
@@ -48990,6 +50254,7 @@ var inscriptions = new Map([
         "images/KHWc2012-Inscription.jpg"
     ],
     "name": "KHWc2012",
+    "names": "KHWc2012",
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
@@ -49017,6 +50282,7 @@ var inscriptions = new Map([
         "images/KHWc2013-Inscription.jpg"
     ],
     "name": "KHWc2013",
+    "names": "KHWc2013",
     "parsedInscription": "𐚫",
     "scribe": "",
     "site": "Khania",
@@ -49044,6 +50310,7 @@ var inscriptions = new Map([
         "images/KHWc2014-Inscription.jpg"
     ],
     "name": "KHWc2014",
+    "names": "KHWc2014",
     "parsedInscription": "𐚫",
     "scribe": "H Wc Scribe 54",
     "site": "Khania",
@@ -49071,6 +50338,7 @@ var inscriptions = new Map([
         "images/KHWc2015-Inscription.jpg"
     ],
     "name": "KHWc2015",
+    "names": "KHWc2015",
     "parsedInscription": "𐚫",
     "scribe": "H Wc Scribe 54",
     "site": "Khania",
@@ -49098,6 +50366,7 @@ var inscriptions = new Map([
         "images/KHWc2016-Inscription.jpg"
     ],
     "name": "KHWc2016",
+    "names": "KHWc2016",
     "parsedInscription": "𐚫",
     "scribe": "H Wc Scribe 54",
     "site": "Khania",
@@ -49125,6 +50394,7 @@ var inscriptions = new Map([
         "images/KHWc2017-Inscription.jpg"
     ],
     "name": "KHWc2017",
+    "names": "KHWc2017",
     "parsedInscription": "𐚫",
     "scribe": "H Wc Scribe 54",
     "site": "Khania",
@@ -49152,6 +50422,7 @@ var inscriptions = new Map([
         "images/KHWc2018-Inscription.jpg"
     ],
     "name": "KHWc2018",
+    "names": "KHWc2018",
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
@@ -49179,6 +50450,7 @@ var inscriptions = new Map([
         "images/KHWc2019-Inscription.jpg"
     ],
     "name": "KHWc2019",
+    "names": "KHWc2019",
     "parsedInscription": "𐚫",
     "scribe": "",
     "site": "Khania",
@@ -49206,6 +50478,7 @@ var inscriptions = new Map([
         "images/KHWc2020-Inscription.jpg"
     ],
     "name": "KHWc2020",
+    "names": "KHWc2020",
     "parsedInscription": "𐚩",
     "scribe": "",
     "site": "Khania",
@@ -49233,6 +50506,7 @@ var inscriptions = new Map([
         "images/KHWc2021-Inscription.jpg"
     ],
     "name": "KHWc2021",
+    "names": "KHWc2021",
     "parsedInscription": "𐚩",
     "scribe": "",
     "site": "Khania",
@@ -49260,6 +50534,7 @@ var inscriptions = new Map([
         "images/KHWc2022-Inscription.jpg"
     ],
     "name": "KHWc2022",
+    "names": "KHWc2022",
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
@@ -49287,6 +50562,7 @@ var inscriptions = new Map([
         "images/KHWc2023-Inscription.jpg"
     ],
     "name": "KHWc2023",
+    "names": "KHWc2023",
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
@@ -49314,6 +50590,7 @@ var inscriptions = new Map([
         "images/KHWc2024-Inscription.jpg"
     ],
     "name": "KHWc2024",
+    "names": "KHWc2024",
     "parsedInscription": "𐚫",
     "scribe": "KH Wc Scribe 54",
     "site": "Khania",
@@ -49341,6 +50618,7 @@ var inscriptions = new Map([
         "images/KHWc2025-Inscription.jpg"
     ],
     "name": "KHWc2025",
+    "names": "KHWc2025",
     "parsedInscription": "𐚩𐝫",
     "scribe": "",
     "site": "Khania",
@@ -49368,6 +50646,7 @@ var inscriptions = new Map([
         "images/KHWc2026-Inscription.jpg"
     ],
     "name": "KHWc2026",
+    "names": "KHWc2026",
     "parsedInscription": "𐙮",
     "scribe": "",
     "site": "Khania",
@@ -49395,6 +50674,7 @@ var inscriptions = new Map([
         "images/KHWc2027-Inscription.jpg"
     ],
     "name": "KHWc2027",
+    "names": "KHWc2027",
     "parsedInscription": "𐙮",
     "scribe": "",
     "site": "Khania",
@@ -49422,6 +50702,7 @@ var inscriptions = new Map([
         "images/KHWc2028-Inscription.jpg"
     ],
     "name": "KHWc2028",
+    "names": "KHWc2028",
     "parsedInscription": "𐙔",
     "scribe": "",
     "site": "Khania",
@@ -49449,6 +50730,7 @@ var inscriptions = new Map([
         "images/KHWc2029-Inscription.jpg"
     ],
     "name": "KHWc2029",
+    "names": "KHWc2029",
     "parsedInscription": "𐛧",
     "scribe": "",
     "site": "Khania",
@@ -49476,6 +50758,7 @@ var inscriptions = new Map([
         "images/KHWc2030-Inscription.jpg"
     ],
     "name": "KHWc2030",
+    "names": "KHWc2030",
     "parsedInscription": "𐛧",
     "scribe": "",
     "site": "Khania",
@@ -49503,6 +50786,7 @@ var inscriptions = new Map([
         "images/KHWc2031-Inscription.jpg"
     ],
     "name": "KHWc2031",
+    "names": "KHWc2031",
     "parsedInscription": "𐛧",
     "scribe": "",
     "site": "Khania",
@@ -49530,6 +50814,7 @@ var inscriptions = new Map([
         "images/KHWc2032-Inscription.jpg"
     ],
     "name": "KHWc2032",
+    "names": "KHWc2032",
     "parsedInscription": "𐛧",
     "scribe": "",
     "site": "Khania",
@@ -49557,6 +50842,7 @@ var inscriptions = new Map([
         "images/KHWc2033-Inscription.jpg"
     ],
     "name": "KHWc2033",
+    "names": "KHWc2033",
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 59",
     "site": "Khania",
@@ -49584,6 +50870,7 @@ var inscriptions = new Map([
         "images/KHWc2034-Inscription.jpg"
     ],
     "name": "KHWc2034",
+    "names": "KHWc2034",
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 59",
     "site": "Khania",
@@ -49611,6 +50898,7 @@ var inscriptions = new Map([
         "images/KHWc2035-Inscription.jpg"
     ],
     "name": "KHWc2035",
+    "names": "KHWc2035",
     "parsedInscription": "𐘵",
     "scribe": "",
     "site": "Khania",
@@ -49638,6 +50926,7 @@ var inscriptions = new Map([
         "images/KHWc2036-Inscription.jpg"
     ],
     "name": "KHWc2036",
+    "names": "KHWc2036",
     "parsedInscription": "𐙐",
     "scribe": "KH Wc Scribe 55",
     "site": "Khania",
@@ -49665,6 +50954,7 @@ var inscriptions = new Map([
         "images/KHWc2037-Inscription.jpg"
     ],
     "name": "KHWc2037",
+    "names": "KHWc2037",
     "parsedInscription": "𐙐",
     "scribe": "KH Wc Scribe 55",
     "site": "Khania",
@@ -49692,6 +50982,7 @@ var inscriptions = new Map([
         "images/KHWc2038-Inscription.jpg"
     ],
     "name": "KHWc2038",
+    "names": "KHWc2038",
     "parsedInscription": "𐙐",
     "scribe": "KH Wc Scribe 55",
     "site": "Khania",
@@ -49719,6 +51010,7 @@ var inscriptions = new Map([
         "images/KHWc2039-Inscription.jpg"
     ],
     "name": "KHWc2039",
+    "names": "KHWc2039",
     "parsedInscription": "𐙐",
     "scribe": "KH Wc Scribe 55",
     "site": "Khania",
@@ -49746,6 +51038,7 @@ var inscriptions = new Map([
         "images/KHWc2040-Inscription.jpg"
     ],
     "name": "KHWc2040",
+    "names": "KHWc2040",
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
@@ -49773,6 +51066,7 @@ var inscriptions = new Map([
         "images/KHWc2041-Inscription.jpg"
     ],
     "name": "KHWc2041",
+    "names": "KHWc2041",
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
@@ -49800,6 +51094,7 @@ var inscriptions = new Map([
         "images/KHWc2042-Inscription.jpg"
     ],
     "name": "KHWc2042",
+    "names": "KHWc2042",
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
@@ -49827,6 +51122,7 @@ var inscriptions = new Map([
         "images/KHWc2043-Inscription.jpg"
     ],
     "name": "KHWc2043",
+    "names": "KHWc2043",
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
@@ -49854,6 +51150,7 @@ var inscriptions = new Map([
         "images/KHWc2044-Inscription.jpg"
     ],
     "name": "KHWc2044",
+    "names": "KHWc2044",
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
@@ -49881,6 +51178,7 @@ var inscriptions = new Map([
         "images/KHWc2045-Inscription.jpg"
     ],
     "name": "KHWc2045",
+    "names": "KHWc2045",
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
@@ -49908,6 +51206,7 @@ var inscriptions = new Map([
         "images/KHWc2046-Inscription.jpg"
     ],
     "name": "KHWc2046",
+    "names": "KHWc2046",
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
@@ -49935,6 +51234,7 @@ var inscriptions = new Map([
         "images/KHWc2047-Inscription.jpg"
     ],
     "name": "KHWc2047",
+    "names": "KHWc2047",
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
@@ -49962,6 +51262,7 @@ var inscriptions = new Map([
         "images/KHWc2048-Inscription.jpg"
     ],
     "name": "KHWc2048",
+    "names": "KHWc2048",
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
@@ -49989,6 +51290,7 @@ var inscriptions = new Map([
         "images/KHWc2049-Inscription.jpg"
     ],
     "name": "KHWc2049",
+    "names": "KHWc2049",
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
@@ -50016,6 +51318,7 @@ var inscriptions = new Map([
         "images/KHWc2050-Inscription.jpg"
     ],
     "name": "KHWc2050",
+    "names": "KHWc2050",
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
@@ -50043,6 +51346,7 @@ var inscriptions = new Map([
         "images/KHWc2051-Inscription.jpg"
     ],
     "name": "KHWc2051",
+    "names": "KHWc2051",
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
@@ -50070,6 +51374,7 @@ var inscriptions = new Map([
         "images/KHWc2052-Inscription.jpg"
     ],
     "name": "KHWc2052",
+    "names": "KHWc2052",
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
@@ -50097,6 +51402,7 @@ var inscriptions = new Map([
         "images/KHWc2053-Inscription.jpg"
     ],
     "name": "KHWc2053",
+    "names": "KHWc2053",
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
@@ -50124,6 +51430,7 @@ var inscriptions = new Map([
         "images/KHWc2054-Inscription.jpg"
     ],
     "name": "KHWc2054",
+    "names": "KHWc2054",
     "parsedInscription": "𐝥𐘻",
     "scribe": "KH Wc Scribe 56",
     "site": "Khania",
@@ -50151,6 +51458,7 @@ var inscriptions = new Map([
         "images/KHWc2055-Inscription.jpg"
     ],
     "name": "KHWc2055",
+    "names": "KHWc2055",
     "parsedInscription": "𐝥𐘻",
     "scribe": "KH Wc Scribe 56",
     "site": "Khania",
@@ -50178,6 +51486,7 @@ var inscriptions = new Map([
         "images/KHWc2056-Inscription.jpg"
     ],
     "name": "KHWc2056",
+    "names": "KHWc2056",
     "parsedInscription": "𐜥",
     "scribe": "KH Wc Scribe 57",
     "site": "Khania",
@@ -50205,6 +51514,7 @@ var inscriptions = new Map([
         "images/KHWc2057-Inscription.jpg"
     ],
     "name": "KHWc2057",
+    "names": "KHWc2057",
     "parsedInscription": "𐜥",
     "scribe": "KH Wc Scribe 57",
     "site": "Khania",
@@ -50232,6 +51542,7 @@ var inscriptions = new Map([
         "images/KHWc2058-Inscription.jpg"
     ],
     "name": "KHWc2058",
+    "names": "KHWc2058",
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
@@ -50259,6 +51570,7 @@ var inscriptions = new Map([
         "images/KHWc2092-Inscription.jpg"
     ],
     "name": "KHWc2092",
+    "names": "KHWc2092",
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
@@ -50286,6 +51598,7 @@ var inscriptions = new Map([
         "images/KHWc2091-Inscription.jpg"
     ],
     "name": "KHWc2091",
+    "names": "KHWc2091",
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
@@ -50313,6 +51626,7 @@ var inscriptions = new Map([
         "images/KHWc2059-Inscription.jpg"
     ],
     "name": "KHWc2059",
+    "names": "KHWc2059",
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
@@ -50340,6 +51654,7 @@ var inscriptions = new Map([
         "images/KHWc2060-Inscription.jpg"
     ],
     "name": "KHWc2060",
+    "names": "KHWc2060",
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
@@ -50367,6 +51682,7 @@ var inscriptions = new Map([
         "images/KHWc2061-Inscription.jpg"
     ],
     "name": "KHWc2061",
+    "names": "KHWc2061",
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
@@ -50394,6 +51710,7 @@ var inscriptions = new Map([
         "images/KHWc2062-Inscription.jpg"
     ],
     "name": "KHWc2062",
+    "names": "KHWc2062",
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
@@ -50421,6 +51738,7 @@ var inscriptions = new Map([
         "images/KHWc2063-Inscription.jpg"
     ],
     "name": "KHWc2063",
+    "names": "KHWc2063",
     "parsedInscription": "𐘒",
     "scribe": "",
     "site": "Khania",
@@ -50448,6 +51766,7 @@ var inscriptions = new Map([
         "images/KHWc2064-Inscription.jpg"
     ],
     "name": "KHWc2064",
+    "names": "KHWc2064",
     "parsedInscription": "𐛝",
     "scribe": "",
     "site": "Khania",
@@ -50475,6 +51794,7 @@ var inscriptions = new Map([
         "images/KHWc2065-Inscription.jpg"
     ],
     "name": "KHWc2065",
+    "names": "KHWc2065",
     "parsedInscription": "𐝥𐚋",
     "scribe": "",
     "site": "Khania",
@@ -50502,6 +51822,7 @@ var inscriptions = new Map([
         "images/KHWc2066-Inscription.jpg"
     ],
     "name": "KHWc2066",
+    "names": "KHWc2066",
     "parsedInscription": "𐛀",
     "scribe": "",
     "site": "Khania",
@@ -50529,6 +51850,7 @@ var inscriptions = new Map([
         "images/KHWc2067-Inscription.jpg"
     ],
     "name": "KHWc2067",
+    "names": "KHWc2067",
     "parsedInscription": "𐙾",
     "scribe": "KH Wc Scribe 58",
     "site": "Khania",
@@ -50556,6 +51878,7 @@ var inscriptions = new Map([
         "images/KHWc2068-Inscription.jpg"
     ],
     "name": "KHWc2068",
+    "names": "KHWc2068",
     "parsedInscription": "𐙾",
     "scribe": "KH Wc Scribe 58",
     "site": "Khania",
@@ -50583,6 +51906,7 @@ var inscriptions = new Map([
         "images/KHWc2069-Inscription.jpg"
     ],
     "name": "KHWc2069",
+    "names": "KHWc2069",
     "parsedInscription": "𐘖",
     "scribe": "",
     "site": "Khania",
@@ -50612,6 +51936,7 @@ var inscriptions = new Map([
         "images/KHWc2070b-Inscription.jpg"
     ],
     "name": "KHWc2070",
+    "names": "KHWc2070",
     "parsedInscription": "𐛀",
     "scribe": "",
     "site": "Khania",
@@ -50635,6 +51960,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KHWc2074",
+    "names": "KHWc2074",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
@@ -50658,6 +51984,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KHWc2079",
+    "names": "KHWc2079",
     "parsedInscription": "𐚫",
     "scribe": "",
     "site": "Khania",
@@ -50685,6 +52012,7 @@ var inscriptions = new Map([
         "images/KHWc2084-Inscription.jpg"
     ],
     "name": "KHWc2084",
+    "names": "KHWc2084",
     "parsedInscription": "𐚨",
     "scribe": "",
     "site": "Khania",
@@ -50708,6 +52036,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KHWc2088",
+    "names": "KHWc2088",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
@@ -50731,6 +52060,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KHWc2089",
+    "names": "KHWc2089",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
@@ -50754,6 +52084,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KHWc2095",
+    "names": "KHWc2095",
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
@@ -50781,6 +52112,7 @@ var inscriptions = new Map([
         "images/KHWc2097-Inscription.jpg"
     ],
     "name": "KHWc2097",
+    "names": "KHWc2097",
     "parsedInscription": "𐛥",
     "scribe": "",
     "site": "Khania",
@@ -50808,6 +52140,7 @@ var inscriptions = new Map([
         "images/KHWc2096-Inscription.jpg"
     ],
     "name": "KHWc2096",
+    "names": "KHWc2096",
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
@@ -50835,6 +52168,7 @@ var inscriptions = new Map([
         "images/KHWc2098-Inscription.jpg"
     ],
     "name": "KHWc2098",
+    "names": "KHWc2098",
     "parsedInscription": "𐙮",
     "scribe": "",
     "site": "Khania",
@@ -50862,6 +52196,7 @@ var inscriptions = new Map([
         "images/KHWc2099-Inscription.jpg"
     ],
     "name": "KHWc2099",
+    "names": "KHWc2099",
     "parsedInscription": "𐛝",
     "scribe": "",
     "site": "Khania",
@@ -50889,6 +52224,7 @@ var inscriptions = new Map([
         "images/KHWc2100-Inscription.jpg"
     ],
     "name": "KHWc2100",
+    "names": "KHWc2100",
     "parsedInscription": "𐙇𐚌𐘱",
     "scribe": "",
     "site": "Khania",
@@ -50916,6 +52252,7 @@ var inscriptions = new Map([
         "images/KHWc2101-Inscription.jpg"
     ],
     "name": "KHWc2101",
+    "names": "KHWc2101",
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 60",
     "site": "Khania",
@@ -50943,6 +52280,7 @@ var inscriptions = new Map([
         "images/KHWc2102-Inscription.jpg"
     ],
     "name": "KHWc2102",
+    "names": "KHWc2102",
     "parsedInscription": "𐘏",
     "scribe": "",
     "site": "Khania",
@@ -50970,6 +52308,7 @@ var inscriptions = new Map([
         "images/KHWc2103-Inscription.jpg"
     ],
     "name": "KHWc2103",
+    "names": "KHWc2103",
     "parsedInscription": "𐚨",
     "scribe": "",
     "site": "Khania",
@@ -50997,6 +52336,7 @@ var inscriptions = new Map([
         "images/KHWc2104-Inscription.jpg"
     ],
     "name": "KHWc2104",
+    "names": "KHWc2104",
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 60",
     "site": "Khania",
@@ -51024,6 +52364,7 @@ var inscriptions = new Map([
         "images/KHWc2105-Inscription.jpg"
     ],
     "name": "KHWc2105",
+    "names": "KHWc2105",
     "parsedInscription": "𐘵",
     "scribe": "KH Wc Scribe 60",
     "site": "Khania",
@@ -51051,6 +52392,7 @@ var inscriptions = new Map([
         "images/KHWc2106-Inscription.jpg"
     ],
     "name": "KHWc2106",
+    "names": "KHWc2106",
     "parsedInscription": "𐛧",
     "scribe": "",
     "site": "Khania",
@@ -51078,6 +52420,7 @@ var inscriptions = new Map([
         "images/KHWc2109-Inscription.jpg"
     ],
     "name": "KHWc2109",
+    "names": "KHWc2109",
     "parsedInscription": "𐛦",
     "scribe": "",
     "site": "Khania",
@@ -51105,6 +52448,7 @@ var inscriptions = new Map([
         "images/KHWc2110-Inscription.jpg"
     ],
     "name": "KHWc2110",
+    "names": "KHWc2110",
     "parsedInscription": "𐘵",
     "scribe": "",
     "site": "Khania",
@@ -51132,6 +52476,7 @@ var inscriptions = new Map([
         "images/KHWc2111-Inscription.jpg"
     ],
     "name": "KHWc2111",
+    "names": "KHWc2111",
     "parsedInscription": "𐙐",
     "scribe": "",
     "site": "Khania",
@@ -51159,6 +52504,7 @@ var inscriptions = new Map([
         "images/KHWc2113-Inscription.jpg"
     ],
     "name": "KHWc2113",
+    "names": "KHWc2113",
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Khania",
@@ -51186,6 +52532,7 @@ var inscriptions = new Map([
         "images/KHWc2114-Inscription.jpg"
     ],
     "name": "KHWc2114",
+    "names": "KHWc2114",
     "parsedInscription": "𐚨𐝫",
     "scribe": "",
     "site": "Khania",
@@ -51213,6 +52560,7 @@ var inscriptions = new Map([
         "images/KHWc2115-Inscription.jpg"
     ],
     "name": "KHWc2115",
+    "names": "KHWc2115",
     "parsedInscription": "𐘵",
     "scribe": "",
     "site": "Khania",
@@ -51242,6 +52590,7 @@ var inscriptions = new Map([
         "images/KHWc2117a-Inscription.jpg"
     ],
     "name": "KHWc2117",
+    "names": "KHWc2117",
     "parsedInscription": "𐙇𐝫\n𐛥",
     "scribe": "",
     "site": "Khania",
@@ -51275,6 +52624,7 @@ var inscriptions = new Map([
         "images/KHWc2118-Inscription.jpg"
     ],
     "name": "KHWc2118",
+    "names": "KHWc2118",
     "parsedInscription": "𐘵",
     "scribe": "",
     "site": "Khania",
@@ -51298,6 +52648,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KHWc2121",
+    "names": "KHWc2121",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Khania",
@@ -51325,6 +52676,7 @@ var inscriptions = new Map([
         "images/KHWc2122-Inscription.jpg"
     ],
     "name": "KHWc2122",
+    "names": "KHWc2122",
     "parsedInscription": "𐚨",
     "scribe": "",
     "site": "Khania",
@@ -51352,6 +52704,7 @@ var inscriptions = new Map([
         "images/KHWc2123-Inscription.jpg"
     ],
     "name": "KHWc2123",
+    "names": "KHWc2123",
     "parsedInscription": "𐝭𐘢𐘾",
     "scribe": "",
     "site": "Khania",
@@ -51375,6 +52728,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KHWc2124",
+    "names": "KHWc2124",
     "parsedInscription": "𐘮",
     "scribe": "",
     "site": "Khania",
@@ -51402,6 +52756,7 @@ var inscriptions = new Map([
         "images/KHZb98-Inscription.jpg"
     ],
     "name": "KHZb98",
+    "names": "KHZb98",
     "parsedInscription": "𐘝",
     "scribe": "",
     "site": "Khania",
@@ -51429,6 +52784,7 @@ var inscriptions = new Map([
         "images/KN1a-Inscription.jpg"
     ],
     "name": "KN1a",
+    "names": "KN1a",
     "parsedInscription": "𐘱𐙂𐘠𐘡𐄚𐄓",
     "scribe": "",
     "site": "Knossos",
@@ -51462,6 +52818,7 @@ var inscriptions = new Map([
         "images/KN1b-Inscription.jpg"
     ],
     "name": "KN1b",
+    "names": "KN1b",
     "parsedInscription": "𐘱𐘬𐘴𐘠𐘡𐄙𐄋",
     "scribe": "",
     "site": "Knossos",
@@ -51495,6 +52852,7 @@ var inscriptions = new Map([
         "images/KN2-Inscription.jpg"
     ],
     "name": "KN2",
+    "names": "KN2",
     "parsedInscription": "𐝫𐘘𐘅𐄈\n𐙈𐄉\n𐛁𐄋𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -51549,6 +52907,7 @@ var inscriptions = new Map([
         "images/KN22a-Inscription.jpg"
     ],
     "name": "KN22a",
+    "names": "KN22a",
     "parsedInscription": "𐝫𐘲𐘶𐘳𐝫𐝫𐄑𐝫\n𐝫𐘾𐘧𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -51585,6 +52944,7 @@ var inscriptions = new Map([
         "images/KN22b-Inscription.jpg"
     ],
     "name": "KN22b",
+    "names": "KN22b",
     "parsedInscription": "𐝫𐘊𐘆𐘰𐄙𐄐",
     "scribe": "",
     "site": "Knossos",
@@ -51615,6 +52975,7 @@ var inscriptions = new Map([
         "images/KN22c-Inscription.jpg"
     ],
     "name": "KN22c",
+    "names": "KN22c",
     "parsedInscription": "𐝫𐙁𐘲𐘻𐄁𐝫𐄁𐝫𐘅𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -51660,6 +53021,7 @@ var inscriptions = new Map([
         "images/KN28a-Inscription.jpg"
     ],
     "name": "KN28a",
+    "names": "KN28a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘓𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -51726,6 +53088,7 @@ var inscriptions = new Map([
         "images/KN28b-Inscription.jpg"
     ],
     "name": "KN28b",
+    "names": "KN28b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘃𐝊𐝫\n𐝫𐄉\n𐛓𐝊𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -51789,6 +53152,7 @@ var inscriptions = new Map([
         "images/KN32a-Inscription.jpg"
     ],
     "name": "KN32a",
+    "names": "KN32a",
     "parsedInscription": "𐝫\n𐝫𐘇𐘂𐝫\n𐘇𐘾𐘳𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -51834,6 +53198,7 @@ var inscriptions = new Map([
         "images/KN32b-Inscription.jpg"
     ],
     "name": "KN32b",
+    "names": "KN32b",
     "parsedInscription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘞𐘫\n𐘂𐝫\n𐝫𐘱𐘲\n𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -51887,6 +53252,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KN54",
+    "names": "KN54",
     "parsedInscription": "𐝫\n𐝫𐘫𐘴𐝫\n𐝫𐙏𐝇𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -51935,6 +53301,7 @@ var inscriptions = new Map([
         "images/KN49-Inscription.jpg"
     ],
     "name": "KN49",
+    "names": "KN49",
     "parsedInscription": "𐝫𐄁𐝈𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -51965,6 +53332,7 @@ var inscriptions = new Map([
         "images/KNWa50-Inscription.jpg"
     ],
     "name": "KNWa50",
+    "names": "KNWa50",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Knossos",
@@ -51994,6 +53362,7 @@ var inscriptions = new Map([
         "images/KNWb33b-Inscription.jpg"
     ],
     "name": "KNWb33",
+    "names": "KNWb33",
     "parsedInscription": "𐘌𐘸𐝫\n𐘯𐘈𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -52025,6 +53394,7 @@ var inscriptions = new Map([
         "images/KNWb50-Inscription.jpg"
     ],
     "name": "KNWb50",
+    "names": "KNWb50",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Knossos",
@@ -52048,6 +53418,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNWb51",
+    "names": "KNWb51",
     "parsedInscription": "𐄁",
     "scribe": "",
     "site": "Knossos",
@@ -52075,6 +53446,7 @@ var inscriptions = new Map([
         "images/KNWc3-Inscription.jpg"
     ],
     "name": "KNWc3",
+    "names": "KNWc3",
     "parsedInscription": "𐝫𐘾𐘚𐘾𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -52100,6 +53472,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNWc23",
+    "names": "KNWc23",
     "parsedInscription": "𐘽",
     "scribe": "",
     "site": "Knossos",
@@ -52129,6 +53502,7 @@ var inscriptions = new Map([
         "images/KNWc26b-Inscription.jpg"
     ],
     "name": "KNWc26",
+    "names": "KNWc26",
     "parsedInscription": "𐘘𐘱𐘝𐘢",
     "scribe": "",
     "site": "Knossos",
@@ -52159,6 +53533,7 @@ var inscriptions = new Map([
         "images/KNWc29-Inscription.jpg"
     ],
     "name": "KNWc29",
+    "names": "KNWc29",
     "parsedInscription": "𐘑",
     "scribe": "",
     "site": "Knossos",
@@ -52186,6 +53561,7 @@ var inscriptions = new Map([
         "images/KNWc30-Inscription.jpg"
     ],
     "name": "KNWc30",
+    "names": "KNWc30",
     "parsedInscription": "𐝫𐘱𐘴",
     "scribe": "",
     "site": "Knossos",
@@ -52211,6 +53587,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNWc42",
+    "names": "KNWc42",
     "parsedInscription": "𐝫𐘅𐘵",
     "scribe": "",
     "site": "Knossos",
@@ -52239,6 +53616,10 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNWc43",
+    "names": [
+        "KNWc43",
+        "KNWy43"
+    ],
     "parsedInscription": "𐝫𐝫𐄁𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -52267,6 +53648,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNWc48",
+    "names": "KNWc48",
     "parsedInscription": "𐝫𐘃𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -52294,6 +53676,7 @@ var inscriptions = new Map([
         "images/KNZa10-Inscription.jpg"
     ],
     "name": "KNZa10",
+    "names": "KNZa10",
     "parsedInscription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -52351,6 +53734,7 @@ var inscriptions = new Map([
         "images/KNZa17-Inscription.jpg"
     ],
     "name": "KNZa17",
+    "names": "KNZa17",
     "parsedInscription": "𐝫𐘱𐘿𐄁",
     "scribe": "",
     "site": "Knossos",
@@ -52381,6 +53765,7 @@ var inscriptions = new Map([
         "images/KNZa18-Inscription.jpg"
     ],
     "name": "KNZa18",
+    "names": "KNZa18",
     "parsedInscription": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -52432,6 +53817,7 @@ var inscriptions = new Map([
         "images/KNZa19-Inscription.jpg"
     ],
     "name": "KNZa19",
+    "names": "KNZa19",
     "parsedInscription": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
     "scribe": "",
     "site": "Knossos",
@@ -52474,6 +53860,7 @@ var inscriptions = new Map([
         "images/KNZb4-Inscription.jpg"
     ],
     "name": "KNZb4",
+    "names": "KNZb4",
     "parsedInscription": "𐝫𐘶𐄁𐘱𐘤𐄁𐘤𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -52513,6 +53900,7 @@ var inscriptions = new Map([
         "images/KNZb5-Inscription.jpg"
     ],
     "name": "KNZb5",
+    "names": "KNZb5",
     "parsedInscription": "𐘇𐘹𐘭𐘤𐘠𐄁",
     "scribe": "",
     "site": "Knossos",
@@ -52543,6 +53931,7 @@ var inscriptions = new Map([
         "images/KNZb20-Inscription.jpg"
     ],
     "name": "KNZb20",
+    "names": "KNZb20",
     "parsedInscription": "𐝫𐘅𐘇𐘰",
     "scribe": "",
     "site": "Knossos",
@@ -52570,6 +53959,7 @@ var inscriptions = new Map([
         "images/KNZb<27>-Inscription.jpg"
     ],
     "name": "KNZb<27>",
+    "names": "KNZb<27>",
     "parsedInscription": "𐘆𐘅𐘉𐄁𐙍𐄐𐄍",
     "scribe": "",
     "site": "Knossos",
@@ -52606,6 +53996,7 @@ var inscriptions = new Map([
         "images/KNZb34-Inscription.jpg"
     ],
     "name": "KNZb34",
+    "names": "KNZb34",
     "parsedInscription": "𐛻",
     "scribe": "",
     "site": "Knossos",
@@ -52633,6 +54024,7 @@ var inscriptions = new Map([
         "images/KNZb35-Inscription.jpg"
     ],
     "name": "KNZb35",
+    "names": "KNZb35",
     "parsedInscription": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫𐝫𐙖𐄙\n𐘝𐄈",
     "scribe": "",
     "site": "Knossos",
@@ -52673,6 +54065,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNZb<36>",
+    "names": "KNZb<36>",
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Knossos",
@@ -52698,6 +54091,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNZb<37>",
+    "names": "KNZb<37>",
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Knossos",
@@ -52723,6 +54117,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNZb<38>",
+    "names": "KNZb<38>",
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Knossos",
@@ -52748,6 +54143,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNZb<39>",
+    "names": "KNZb<39>",
     "parsedInscription": "𐘝",
     "scribe": "",
     "site": "Knossos",
@@ -52775,6 +54171,7 @@ var inscriptions = new Map([
         "images/KNZb40-Inscription.jpg"
     ],
     "name": "KNZb40",
+    "names": "KNZb40",
     "parsedInscription": "𐘇𐘂𐘸\n𐘉𐘅𐘇",
     "scribe": "",
     "site": "Knossos",
@@ -52804,6 +54201,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNZb52",
+    "names": "KNZb52",
     "parsedInscription": "𐙀𐘭𐘝𐙁",
     "scribe": "",
     "site": "Knossos",
@@ -52827,6 +54225,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNZb54",
+    "names": "KNZb54",
     "parsedInscription": "𐝫𐘫𐘴𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -52852,6 +54251,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNZb56",
+    "names": "KNZb56",
     "parsedInscription": "𐘁𐛧",
     "scribe": "",
     "site": "Knossos",
@@ -52879,6 +54279,7 @@ var inscriptions = new Map([
         "images/KNZc6-Inscription.jpg"
     ],
     "name": "KNZc6",
+    "names": "KNZc6",
     "parsedInscription": "𐘟𐘠𐘭𐘇𐘆𐘀𐘸𐘠𐘂𐙂𐄁\n𐘝𐘱𐘯𐄁\n𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀𐄁",
     "scribe": "",
     "site": "Knossos",
@@ -52929,6 +54330,7 @@ var inscriptions = new Map([
         "images/KNZc7b-Inscription.jpg"
     ],
     "name": "KNZc7",
+    "names": "KNZc7",
     "parsedInscription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫𐄁𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -52986,6 +54388,7 @@ var inscriptions = new Map([
         "images/KNZd46-Inscription.jpg"
     ],
     "name": "KNZd46",
+    "names": "KNZd46",
     "parsedInscription": "𐝫𐘫𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -53013,6 +54416,7 @@ var inscriptions = new Map([
         "images/KNZe16-Inscription.jpg"
     ],
     "name": "KNZe16",
+    "names": "KNZe16",
     "parsedInscription": "𐘇𐘢",
     "scribe": "",
     "site": "Knossos",
@@ -53040,6 +54444,7 @@ var inscriptions = new Map([
         "images/KNZe44-Inscription.jpg"
     ],
     "name": "KNZe44",
+    "names": "KNZe44",
     "parsedInscription": "𐘚𐝫𐘮𐘱",
     "scribe": "",
     "site": "Knossos",
@@ -53065,6 +54470,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNZe45",
+    "names": "KNZe45",
     "parsedInscription": "𐘾𐘤𐘇𐘃",
     "scribe": "",
     "site": "Knossos",
@@ -53090,6 +54496,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNZe49",
+    "names": "KNZe49",
     "parsedInscription": "𐘥𐘤𐘃",
     "scribe": "",
     "site": "Knossos",
@@ -53117,6 +54524,7 @@ var inscriptions = new Map([
         "images/KNZe56-Inscription.jpg"
     ],
     "name": "KNZe56",
+    "names": "KNZe56",
     "parsedInscription": "𐘵𐘀𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -53144,6 +54552,7 @@ var inscriptions = new Map([
         "images/KNZf13-Inscription.jpg"
     ],
     "name": "KNZf13",
+    "names": "KNZf13",
     "parsedInscription": "𐘇𐘙𐘗𐘤𐘆𐙕𐘢𐘥𐘂𐘱𐘳𐘭𐘈𐘃𐘭𐘕𐘇𐘱𐙂",
     "scribe": "",
     "site": "Knossos",
@@ -53171,6 +54580,7 @@ var inscriptions = new Map([
         "images/KNZf31-Inscription.jpg"
     ],
     "name": "KNZf31",
+    "names": "KNZf31",
     "parsedInscription": "𐝫𐘤𐝫𐘤𐘍𐘗𐙠𐄁𐘀𐘬𐘻𐘗𐄁𐘌𐘻𐘨𐘅𐘴𐄁𐘇𐘮𐘢𐄁𐘃𐘲𐘦𐘈𐘥𐘚𐄁𐘇𐘀𐘴𐄁𐘠𐘆𐘃𐘌𐘠𐄁𐘳𐘞𐘍𐄁𐘳𐘃𐘚𐘥𐘍𐘙𐄁𐝫",
     "scribe": "",
     "site": "Knossos",
@@ -53249,6 +54659,7 @@ var inscriptions = new Map([
         "images/KNZg<21>-Inscription.jpg"
     ],
     "name": "KNZg<21>",
+    "names": "KNZg<21>",
     "parsedInscription": "𐛈",
     "scribe": "",
     "site": "Knossos",
@@ -53274,6 +54685,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "KNZg55",
+    "names": "KNZg55",
     "parsedInscription": "𐘱𐘞𐘱",
     "scribe": "",
     "site": "Knossos",
@@ -53301,6 +54713,7 @@ var inscriptions = new Map([
         "images/KOZa1-Inscription.jpg"
     ],
     "name": "KOZa1",
+    "names": "KOZa1",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱\n𐘹𐘘𐘞𐄁𐘬𐙦𐘙𐄁𐘚𐘀𐘇𐄁\n𐘉𐘅𐘾𐘅𐘤𐄁\n𐘚𐘢𐘅𐙁𐄁𐘤𐘘𐘃",
     "scribe": "",
     "site": "Kophinas",
@@ -53370,6 +54783,7 @@ var inscriptions = new Map([
         "images/KO(?)Zf2-Inscription.jpg"
     ],
     "name": "KO(?)Zf2",
+    "names": "KO(?)Zf2",
     "parsedInscription": "𐘇𐘴𐘺𐙂𐙀𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍",
     "scribe": "",
     "site": "Kophinas",
@@ -53397,6 +54811,7 @@ var inscriptions = new Map([
         "images/KYZa2-Inscription.jpg"
     ],
     "name": "KYZa2",
+    "names": "KYZa2",
     "parsedInscription": "𐘀𐙁𐘃",
     "scribe": "",
     "site": "Kythera",
@@ -53424,6 +54839,7 @@ var inscriptions = new Map([
         "images/KYZg1-Inscription.jpg"
     ],
     "name": "KYZg1",
+    "names": "KYZg1",
     "parsedInscription": "𐛴𐛴",
     "scribe": "",
     "site": "Kythera",
@@ -53451,6 +54867,7 @@ var inscriptions = new Map([
         "images/LAZb1(bis)-Inscription.jpg"
     ],
     "name": "LAZb1(bis)",
+    "names": "LAZb1(bis)",
     "parsedInscription": "𐘱𐘠𐘹𐙂",
     "scribe": "",
     "site": "Larani",
@@ -53478,6 +54895,7 @@ var inscriptions = new Map([
         "images/MA1a-Inscription.jpg"
     ],
     "name": "MA1a",
+    "names": "MA1a",
     "parsedInscription": "𐄂𐘚𐘬𐘣𐘨\n𐘿𐘦𐘻𐘯𐄁",
     "scribe": "",
     "site": "Malia",
@@ -53517,6 +54935,7 @@ var inscriptions = new Map([
         "images/MA1b-Inscription.jpg"
     ],
     "name": "MA1b",
+    "names": "MA1b",
     "parsedInscription": "𐘇𐙁𐄁𐘨\n𐘿𐘦𐘻𐘯",
     "scribe": "",
     "site": "Malia",
@@ -53556,6 +54975,7 @@ var inscriptions = new Map([
         "images/MA1c-Inscription.jpg"
     ],
     "name": "MA1c",
+    "names": "MA1c",
     "parsedInscription": "𐘠",
     "scribe": "",
     "site": "Malia",
@@ -53583,6 +55003,7 @@ var inscriptions = new Map([
         "images/MA2a-Inscription.jpg"
     ],
     "name": "MA2a",
+    "names": "MA2a",
     "parsedInscription": "𐝫𐘬𐘴𐄋",
     "scribe": "",
     "site": "Malia",
@@ -53613,6 +55034,7 @@ var inscriptions = new Map([
         "images/MA2b-Inscription.jpg"
     ],
     "name": "MA2b",
+    "names": "MA2b",
     "parsedInscription": "𐝫𐘙𐘠𐄊\n𐝫𐘠𐄇\n𐘱𐙂𐄈\n𐘠𐝫",
     "scribe": "",
     "site": "Malia",
@@ -53667,6 +55089,7 @@ var inscriptions = new Map([
         "images/MA2c-Inscription.jpg"
     ],
     "name": "MA2c",
+    "names": "MA2c",
     "parsedInscription": "𐝫𐘉𐘅𐘅𐄉\n𐝫𐘱𐙁𐘉𐘠𐄌",
     "scribe": "",
     "site": "Malia",
@@ -53706,6 +55129,7 @@ var inscriptions = new Map([
         "images/MA4a-Inscription.jpg"
     ],
     "name": "MA4a",
+    "names": "MA4a",
     "parsedInscription": "𐘳𐜅𐄐𐄋\n𐜆𐄙𐄑\n𐜄𐄔𐄉\n𐜃𐄒",
     "scribe": "",
     "site": "Malia",
@@ -53763,6 +55187,7 @@ var inscriptions = new Map([
         "images/MA4b-Inscription.jpg"
     ],
     "name": "MA4b",
+    "names": "MA4b",
     "parsedInscription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉\n𐄙𐄕",
     "scribe": "",
     "site": "Malia",
@@ -53802,6 +55227,7 @@ var inscriptions = new Map([
         "images/MA6a-Inscription.jpg"
     ],
     "name": "MA6a",
+    "names": "MA6a",
     "parsedInscription": "𐝫𐙒𐝫𐄡𐄓𐄇\n𐜅𐄒𐄋",
     "scribe": "",
     "site": "Malia",
@@ -53841,6 +55267,7 @@ var inscriptions = new Map([
         "images/MA6b-Inscription.jpg"
     ],
     "name": "MA6b",
+    "names": "MA6b",
     "parsedInscription": "𐝫𐙒𐄞𐄑𐝫",
     "scribe": "",
     "site": "Malia",
@@ -53871,6 +55298,7 @@ var inscriptions = new Map([
         "images/MA6c-Inscription.jpg"
     ],
     "name": "MA6c",
+    "names": "MA6c",
     "parsedInscription": "𐝫𐜅𐄊𐝫\n𐙒𐝫𐄗𐄍𐝫\n𐝫𐙒𐝫𐄚𐄒𐄉𐝫",
     "scribe": "",
     "site": "Malia",
@@ -53919,6 +55347,7 @@ var inscriptions = new Map([
         "images/MA6d-Inscription.jpg"
     ],
     "name": "MA6d",
+    "names": "MA6d",
     "parsedInscription": "𐝫𐙒𐄚𐝫",
     "scribe": "",
     "site": "Malia",
@@ -53949,6 +55378,7 @@ var inscriptions = new Map([
         "images/MA9a-Inscription.jpg"
     ],
     "name": "MA9",
+    "names": "MA9",
     "parsedInscription": "𐝫𐄣",
     "scribe": "",
     "site": "Malia",
@@ -53976,6 +55406,7 @@ var inscriptions = new Map([
         "images/MA10a-Inscription.jpg"
     ],
     "name": "MA10a",
+    "names": "MA10a",
     "parsedInscription": "𐝫𐘘𐄁𐜲𐄈\n𐜰𐄊\n𐜱𐄊𐝫",
     "scribe": "",
     "site": "Malia",
@@ -54030,6 +55461,7 @@ var inscriptions = new Map([
         "images/MA10b-Inscription.jpg"
     ],
     "name": "MA10b",
+    "names": "MA10b",
     "parsedInscription": "𐝫𐘬𐘢𐘃𐘮𐄁𐜭𐄇\n𐜰𐄉\n𐝫𐄊\n𐜬𐄈\n𐛄𐄈",
     "scribe": "",
     "site": "Malia",
@@ -54099,6 +55531,7 @@ var inscriptions = new Map([
         "images/MA10c-Inscription.jpg"
     ],
     "name": "MA10c",
+    "names": "MA10c",
     "parsedInscription": "𐝫𐜰𐄈\n𐜱𐄉\n𐚤𐝫",
     "scribe": "",
     "site": "Malia",
@@ -54144,6 +55577,7 @@ var inscriptions = new Map([
         "images/MA10d-Inscription.jpg"
     ],
     "name": "MA10d",
+    "names": "MA10d",
     "parsedInscription": "𐝫𐜴\n𐜳",
     "scribe": "",
     "site": "Malia",
@@ -54177,6 +55611,7 @@ var inscriptions = new Map([
         "images/MAWc<5>-Inscription.jpg"
     ],
     "name": "MAWc<5>",
+    "names": "MAWc<5>",
     "parsedInscription": "𐘇𐘞𐘀𐘾\n𐛴𐄊",
     "scribe": "",
     "site": "Malia",
@@ -54213,6 +55648,7 @@ var inscriptions = new Map([
         "images/MAWc7-Inscription.jpg"
     ],
     "name": "MAWc7",
+    "names": "MAWc7",
     "parsedInscription": "𐙒",
     "scribe": "",
     "site": "Malia",
@@ -54236,6 +55672,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "MAZb??",
+    "names": "MAZb??",
     "parsedInscription": "𐚥𐝇",
     "scribe": "",
     "site": "Malia",
@@ -54263,6 +55700,7 @@ var inscriptions = new Map([
         "images/MAZb8-Inscription.jpg"
     ],
     "name": "MAZb8",
+    "names": "MAZb8",
     "parsedInscription": "𐘱𐘞𐝫",
     "scribe": "",
     "site": "Malia",
@@ -54290,6 +55728,7 @@ var inscriptions = new Map([
         "images/MAZe11-Inscription.jpg"
     ],
     "name": "MAZe11",
+    "names": "MAZe11",
     "parsedInscription": "𐘿𐘤𐘃",
     "scribe": "",
     "site": "Malia",
@@ -54313,6 +55752,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "MARGWa1-26",
+    "names": "MARGWa1-26",
     "parsedInscription": "𐘾",
     "scribe": "",
     "site": "Malia",
@@ -54340,6 +55780,7 @@ var inscriptions = new Map([
         "images/MI2-Inscription.jpg"
     ],
     "name": "MI2",
+    "names": "MI2",
     "parsedInscription": "𐘫𐝫\n—\n𐝫𐘬𐘾𐝫\n𐝫𐄁𐝫𐜪𐝫\n—\n𐝫𐘾𐝫\n𐝫",
     "scribe": "",
     "site": "Milos",
@@ -54406,6 +55847,7 @@ var inscriptions = new Map([
         "images/MIZb1-Inscription.jpg"
     ],
     "name": "MIZb1",
+    "names": "MIZb1",
     "parsedInscription": "𐘸𐘘",
     "scribe": "",
     "site": "Milos",
@@ -54429,6 +55871,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "MIZb3",
+    "names": "MIZb3",
     "parsedInscription": "",
     "scribe": "",
     "site": "Milos",
@@ -54450,6 +55893,7 @@ var inscriptions = new Map([
         "images/MILZb1-Inscription.jpg"
     ],
     "name": "MILZb1",
+    "names": "MILZb1",
     "parsedInscription": "𐝫𐘰𐘤𐘨",
     "scribe": "",
     "site": "Miletos",
@@ -54473,6 +55917,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "MOZb2?",
+    "names": "MOZb2?",
     "parsedInscription": "",
     "scribe": "",
     "site": "Mokhilos",
@@ -54490,6 +55935,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "MOZb3?",
+    "names": "MOZb3?",
     "parsedInscription": "",
     "scribe": "",
     "site": "Mokhilos",
@@ -54512,6 +55958,7 @@ var inscriptions = new Map([
         "images/MOZf1b-Inscription.jpg"
     ],
     "name": "MOZf1",
+    "names": "MOZf1",
     "parsedInscription": "𐙹𐘞𐘕",
     "scribe": "",
     "site": "Mokhilos",
@@ -54535,6 +55982,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "MYZa2",
+    "names": "MYZa2",
     "parsedInscription": "𐘲",
     "scribe": "",
     "site": "Mycenae",
@@ -54558,6 +56006,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "MYZf1",
+    "names": "MYZf1",
     "parsedInscription": "𐛉",
     "scribe": "",
     "site": "Mycenae",
@@ -54583,6 +56032,7 @@ var inscriptions = new Map([
         "images/MYZf2-Inscription.jpg"
     ],
     "name": "MYZf2",
+    "names": "MYZf2",
     "parsedInscription": "𐁁",
     "scribe": "",
     "site": "Mycenae",
@@ -54606,6 +56056,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "MYZg1",
+    "names": "MYZg1",
     "parsedInscription": "𐘲",
     "scribe": "",
     "site": "Mycenae",
@@ -54629,6 +56080,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "NEZa1",
+    "names": "NEZa1",
     "parsedInscription": "𐝫𐘚𐘀𐝫",
     "scribe": "",
     "site": "Nerokurou",
@@ -54656,6 +56108,7 @@ var inscriptions = new Map([
         "images/PA1-Inscription.jpg"
     ],
     "name": "PA1",
+    "names": "PA1",
     "parsedInscription": "𐘇𐙂𐘶𐘂𐙈𐄒𐄋",
     "scribe": "",
     "site": "Papourou",
@@ -54686,6 +56139,7 @@ var inscriptions = new Map([
         "images/PE1-Inscription.jpg"
     ],
     "name": "PE1",
+    "names": "PE1",
     "parsedInscription": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅\n𐙂𐘂𐘭𐙇𐄔𐝫\n𐛭𐄑𐄌𐝆\n𐘡𐘾𐝫𐙇𐄖𐄈\n𐛭𐄒𐄌",
     "scribe": "",
     "site": "Petras",
@@ -54758,6 +56212,7 @@ var inscriptions = new Map([
         "images/PE2-Inscription.jpg"
     ],
     "name": "PE2",
+    "names": "PE2",
     "parsedInscription": "𐝫\n𐄉𐝁\n𐘘𐘢𐝫𐙙𐘻𐄇𐝄\n𐘇𐙱𐘍𐝃\n𐘇𐘭𐘂𐝃\n𐘌𐘌𐘀𐝆\n𐘄𐘋𐝁\n𐘄𐘪𐘙𐄇\n𐝫",
     "scribe": "",
     "site": "Petras",
@@ -54853,6 +56308,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PEWs",
+    "names": "PEWs",
     "parsedInscription": "𐙉𐘠𐘡𐄇",
     "scribe": "",
     "site": "Petras",
@@ -54883,6 +56339,7 @@ var inscriptions = new Map([
         "images/PEWy5-Inscription.jpg"
     ],
     "name": "PEWy5",
+    "names": "PEWy5",
     "parsedInscription": "𐙖𐙛𐄇𐝆",
     "scribe": "",
     "site": "Petras",
@@ -54912,6 +56369,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PEZb",
+    "names": "PEZb",
     "parsedInscription": "𐝫𐘇𐘯𐝫",
     "scribe": "",
     "site": "Petras",
@@ -54939,6 +56397,7 @@ var inscriptions = new Map([
         "images/PEZb3-Inscription.jpg"
     ],
     "name": "PEZb3",
+    "names": "PEZb3",
     "parsedInscription": "𐘇𐘾𐘴𐘸𐘳𐘅𐘤𐘱𐘈𐙇𐘍",
     "scribe": "",
     "site": "Petras",
@@ -54964,6 +56423,7 @@ var inscriptions = new Map([
         "images/PEZb7-Inscription.jpg"
     ],
     "name": "PEZb7",
+    "names": "PEZb7",
     "parsedInscription": "𐝫𐘇\n𐘱𐘮𐘢𐄇",
     "scribe": "",
     "site": "Petras",
@@ -54996,6 +56456,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PEZb8",
+    "names": "PEZb8",
     "parsedInscription": "𐘇",
     "scribe": "",
     "site": "Petras",
@@ -55023,6 +56484,7 @@ var inscriptions = new Map([
         "images/PEZc4-Inscription.jpg"
     ],
     "name": "PEZc4",
+    "names": "PEZc4",
     "parsedInscription": "𐝫𐘇𐘱𐝫 ≈ 𐝫𐘱𐘤𐝫",
     "scribe": "",
     "site": "Petras",
@@ -55056,6 +56518,7 @@ var inscriptions = new Map([
         "images/PEZg5-Inscription.jpg"
     ],
     "name": "PEZg5",
+    "names": "PEZg5",
     "parsedInscription": "𐙖𐙛𐄇𐝆",
     "scribe": "",
     "site": "Petras",
@@ -55088,6 +56551,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PEZg6",
+    "names": "PEZg6",
     "parsedInscription": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
     "scribe": "",
     "site": "Petras",
@@ -55135,6 +56599,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PETSWc",
+    "names": "PETSWc",
     "parsedInscription": "",
     "scribe": "",
     "site": "Petras",
@@ -55156,6 +56621,7 @@ var inscriptions = new Map([
         "images/PH1a-Inscription.jpg"
     ],
     "name": "PH1a",
+    "names": "PH1a",
     "parsedInscription": "𐝫𐘆𐘴𐘆𐘅𐙨𐄁𐝉\n𐝫𐘱𐄁𐙨𐄇\n𐙗𐝅\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -55222,6 +56688,7 @@ var inscriptions = new Map([
         "images/PH1b-Inscription.jpg"
     ],
     "name": "PH1b",
+    "names": "PH1b",
     "parsedInscription": "𐝫𐄁𐝫𐘅𐄇\n𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
     "scribe": "",
     "site": "Phaistos",
@@ -55273,6 +56740,7 @@ var inscriptions = new Map([
         "images/PH2-Inscription.jpg"
     ],
     "name": "PH2",
+    "names": "PH2",
     "parsedInscription": "𐘇𐘈𐘹𐘐𐄇\n𐘴𐘵𐘆𐘸𐄕\n𐘢𐘘𐘡𐘶𐄕\n𐘈𐘞𐘰𐄕\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -55336,6 +56804,7 @@ var inscriptions = new Map([
         "images/PH3a-Inscription.jpg"
     ],
     "name": "PH3a",
+    "names": "PH3a",
     "parsedInscription": "𐝫𐛠𐄇\n𐘳\n𐝫𐛡𐄇\n𐛣𐝓\n𐝫𐛢𐝓\n𐘂𐘴𐝓\n𐝫𐘂𐝫\n𐝫𐄇\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -55426,6 +56895,7 @@ var inscriptions = new Map([
         "images/PH3b-Inscription.jpg"
     ],
     "name": "PH3b",
+    "names": "PH3b",
     "parsedInscription": "𐝫𐛘𐝕𐝫\n𐝫𐘤𐝃𐝫\n𐝫\n𐝫𐘤𐄇𐝃𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -55489,6 +56959,7 @@ var inscriptions = new Map([
         "images/PH6-Inscription.jpg"
     ],
     "name": "PH6",
+    "names": "PH6",
     "parsedInscription": "𐘚𐘅𐘮𐄁\n𐘇𐘭\n𐘚𐙀𐘭𐘝𐘳\n𐘇𐘭\n𐘚𐘀𐘰𐘚𐘞𐘭",
     "scribe": "",
     "site": "Phaistos",
@@ -55543,6 +57014,7 @@ var inscriptions = new Map([
         "images/PH7a-Inscription.jpg"
     ],
     "name": "PH7a",
+    "names": "PH7a",
     "parsedInscription": "𐝫\n𐝫𐘆𐘂𐘱𐝫\n𐝫𐘉𐘆𐘭𐘸𐝫\n𐝫𐘱𐘘𐙁𐘗𐝫\n𐝫𐘱𐘤𐘀𐘴𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -55594,6 +57066,7 @@ var inscriptions = new Map([
         "images/PH7b-Inscription.jpg"
     ],
     "name": "PH7b",
+    "names": "PH7b",
     "parsedInscription": "𐝫\n𐝫𐘳𐄇𐝈𐝫\n𐝫𐘀𐘴𐝈𐝫\n𐝫𐙏𐝈𐝃\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -55657,6 +57130,7 @@ var inscriptions = new Map([
         "images/PH8a-Inscription.jpg"
     ],
     "name": "PH8a",
+    "names": "PH8a",
     "parsedInscription": "𐝫\n𐝫𐜵𐄍\n—\n𐝫𐙇𐄐𐄇\n𐙘𐄈\n—\n𐝫𐄐𐄌\n𐜶𐄇\n—\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -55750,6 +57224,7 @@ var inscriptions = new Map([
         "images/PH8b-Inscription.jpg"
     ],
     "name": "PH8b",
+    "names": "PH8b",
     "parsedInscription": "𐝫\n𐝫𐙨𐄇\n𐜢𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -55798,6 +57273,7 @@ var inscriptions = new Map([
         "images/PH9a-Inscription.jpg"
     ],
     "name": "PH9a",
+    "names": "PH9a",
     "parsedInscription": "𐙩𐘿𐚍𐝏",
     "scribe": "",
     "site": "Phaistos",
@@ -55828,6 +57304,7 @@ var inscriptions = new Map([
         "images/PH9b-Inscription.jpg"
     ],
     "name": "PH9b",
+    "names": "PH9b",
     "parsedInscription": "𐝫𐚬𐙍𐄇𐝆𐝆",
     "scribe": "",
     "site": "Phaistos",
@@ -55861,6 +57338,7 @@ var inscriptions = new Map([
         "images/PH10-Inscription.jpg"
     ],
     "name": "PH10",
+    "names": "PH10",
     "parsedInscription": "𐚏𐘡𐚎𐙒𐝈𐝈",
     "scribe": "",
     "site": "Phaistos",
@@ -55894,6 +57372,7 @@ var inscriptions = new Map([
         "images/PH11-Inscription.jpg"
     ],
     "name": "PH11",
+    "names": "PH11",
     "parsedInscription": "—\n|||||||||||||\n—",
     "scribe": "",
     "site": "Phaistos",
@@ -55933,6 +57412,7 @@ var inscriptions = new Map([
         "images/PH12a-Inscription.jpg"
     ],
     "name": "PH12a",
+    "names": "PH12a",
     "parsedInscription": "𐙇𐙿𐙒𐄐𐝫𐝈𐝈",
     "scribe": "",
     "site": "Phaistos",
@@ -55966,6 +57446,7 @@ var inscriptions = new Map([
         "images/PH12b-Inscription.jpg"
     ],
     "name": "PH12b",
+    "names": "PH12b",
     "parsedInscription": "𐝃𐝫\n𐝫𐝃𐝃𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -55999,6 +57480,7 @@ var inscriptions = new Map([
         "images/PH12c-Inscription.jpg"
     ],
     "name": "PH12c",
+    "names": "PH12c",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Phaistos",
@@ -56026,6 +57508,7 @@ var inscriptions = new Map([
         "images/PH13a-Inscription.jpg"
     ],
     "name": "PH13a",
+    "names": "PH13a",
     "parsedInscription": "𐝫𐙒𐙴𐝫𐝃𐝃",
     "scribe": "",
     "site": "Phaistos",
@@ -56056,6 +57539,7 @@ var inscriptions = new Map([
         "images/PH13b-Inscription.jpg"
     ],
     "name": "PH13b",
+    "names": "PH13b",
     "parsedInscription": "𐝫𐚐",
     "scribe": "",
     "site": "Phaistos",
@@ -56083,6 +57567,7 @@ var inscriptions = new Map([
         "images/PH13c-Inscription.jpg"
     ],
     "name": "PH13c",
+    "names": "PH13c",
     "parsedInscription": "𐝫𐘃𐙀𐝃𐝃𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56113,6 +57598,7 @@ var inscriptions = new Map([
         "images/PH14a-Inscription.jpg"
     ],
     "name": "PH14a",
+    "names": "PH14a",
     "parsedInscription": "𐝫𐘱𐙘𐘝",
     "scribe": "",
     "site": "Phaistos",
@@ -56143,6 +57629,7 @@ var inscriptions = new Map([
         "images/PH14b-Inscription.jpg"
     ],
     "name": "PH14b",
+    "names": "PH14b",
     "parsedInscription": "𐘇𐘻𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56170,6 +57657,7 @@ var inscriptions = new Map([
         "images/PH15a-Inscription.jpg"
     ],
     "name": "PH15a",
+    "names": "PH15a",
     "parsedInscription": "𐝫𐙁𐘃𐘙𐙿𐄐𐄇𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56203,6 +57691,7 @@ var inscriptions = new Map([
         "images/PH15b-Inscription.jpg"
     ],
     "name": "PH15b",
+    "names": "PH15b",
     "parsedInscription": "𐝫𐚑𐙒𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56233,6 +57722,7 @@ var inscriptions = new Map([
         "images/PH16a-Inscription.jpg"
     ],
     "name": "PH16a",
+    "names": "PH16a",
     "parsedInscription": "𐝫𐘠𐘅𐝫\n—\n𐝫𐚒𐘝𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56272,6 +57762,7 @@ var inscriptions = new Map([
         "images/PH16b-Inscription.jpg"
     ],
     "name": "PH16b",
+    "names": "PH16b",
     "parsedInscription": "𐝫𐘱𐘞𐝫\n—\n𐝫𐘠𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56311,6 +57802,7 @@ var inscriptions = new Map([
         "images/PH17a-Inscription.jpg"
     ],
     "name": "PH17a",
+    "names": "PH17a",
     "parsedInscription": "𐝫𐚓𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56338,6 +57830,7 @@ var inscriptions = new Map([
         "images/PH17b-Inscription.jpg"
     ],
     "name": "PH17b",
+    "names": "PH17b",
     "parsedInscription": "𐝫𐚔𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56365,6 +57858,7 @@ var inscriptions = new Map([
         "images/PH18a-Inscription.jpg"
     ],
     "name": "PH18a",
+    "names": "PH18a",
     "parsedInscription": "𐝫𐘣𐘱𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56398,6 +57892,7 @@ var inscriptions = new Map([
         "images/PH18b-Inscription.jpg"
     ],
     "name": "PH18b",
+    "names": "PH18b",
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56431,6 +57926,7 @@ var inscriptions = new Map([
         "images/PH19a-Inscription.jpg"
     ],
     "name": "PH19",
+    "names": "PH19",
     "parsedInscription": "𐘢𐘵𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56464,6 +57960,7 @@ var inscriptions = new Map([
         "images/PH22a-Inscription.jpg"
     ],
     "name": "PH22a",
+    "names": "PH22a",
     "parsedInscription": "𐝫𐝆𐝆",
     "scribe": "",
     "site": "Phaistos",
@@ -56491,6 +57988,7 @@ var inscriptions = new Map([
         "images/PH22b-Inscription.jpg"
     ],
     "name": "PH22b",
+    "names": "PH22b",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56518,6 +58016,7 @@ var inscriptions = new Map([
         "images/PH24-Inscription.jpg"
     ],
     "name": "PH24",
+    "names": "PH24",
     "parsedInscription": "𐘁𐘡",
     "scribe": "",
     "site": "Phaistos",
@@ -56545,6 +58044,7 @@ var inscriptions = new Map([
         "images/PH25-Inscription.jpg"
     ],
     "name": "PH25",
+    "names": "PH25",
     "parsedInscription": "𐙍𐄈𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56587,6 +58087,7 @@ var inscriptions = new Map([
         "images/PH26-Inscription.jpg"
     ],
     "name": "PH26",
+    "names": "PH26",
     "parsedInscription": "𐝫𐙦𐝃𐝏𐝏𐝏𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56617,6 +58118,7 @@ var inscriptions = new Map([
         "images/PH27-Inscription.jpg"
     ],
     "name": "PH27",
+    "names": "PH27",
     "parsedInscription": "𐝫\n𐝫𐘃𐝫\n𐝫𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56662,6 +58164,7 @@ var inscriptions = new Map([
         "images/PH28a-Inscription.jpg"
     ],
     "name": "PH28a",
+    "names": "PH28a",
     "parsedInscription": "𐝫\n𐝫𐘇𐘰𐝫𐄁\n𐘱𐘸𐘰𐝫𐄁\n𐘇𐘭𐘱𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56713,6 +58216,7 @@ var inscriptions = new Map([
         "images/PH28b-Inscription.jpg"
     ],
     "name": "PH28b",
+    "names": "PH28b",
     "parsedInscription": "𐝫\n𐝫𐄙𐄈𐝫\n𐝫𐄈\n𐙘𐄌\n𐝫𐄌\n𐝮",
     "scribe": "",
     "site": "Phaistos",
@@ -56771,6 +58275,7 @@ var inscriptions = new Map([
         "images/PH29a-Inscription.jpg"
     ],
     "name": "PH29a",
+    "names": "PH29a",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56810,6 +58315,7 @@ var inscriptions = new Map([
         "images/PH29b-Inscription.jpg"
     ],
     "name": "PH29b",
+    "names": "PH29b",
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56843,6 +58349,7 @@ var inscriptions = new Map([
         "images/PH30-Inscription.jpg"
     ],
     "name": "PH30",
+    "names": "PH30",
     "parsedInscription": "𐝫\n𐝫𐘠𐝃𐝫\n𐝫𐙁𐘙𐘭𐘻𐘦𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -56885,6 +58392,7 @@ var inscriptions = new Map([
         "images/PH(?)31a-Inscription.jpg"
     ],
     "name": "PH(?)31a",
+    "names": "PH(?)31a",
     "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇\n𐙁𐘆𐘑𐄇\n𐘓𐝫\n𐄁𐝫𐘗𐄇\n𐙂𐘰𐘯𐙄𐘤𐘙𐄇\n𐘂𐘳𐘀𐝫𐝫𐄇\n𐙂𐘁𐚾𐄇\n𐘑𐄋\n𐘐𐄉𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -57011,6 +58519,7 @@ var inscriptions = new Map([
         "images/PH(?)31b-Inscription.jpg"
     ],
     "name": "PH(?)31b",
+    "names": "PH(?)31b",
     "parsedInscription": "𐝫\n𐝫𐘓𐄈\n𐘐𐄇𐝫\n𐝫𐘬𐘭𐘔𐄇\n𐘹𐝫\n𐝫𐘗𐘔𐄇\n𐘓𐄋\n𐘃𐘭𐘑𐝫\n𐝫𐄇\n𐘭𐘘𐙁𐘠𐘑\n𐙄𐘤𐘙\n𐘇𐘻𐘀𐘵𐘑𐄇𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -57134,6 +58643,7 @@ var inscriptions = new Map([
         "images/PHWa32-Inscription.jpg"
     ],
     "name": "PHWa32",
+    "names": "PHWa32",
     "parsedInscription": "𐘲𐘸𐘭𐘳",
     "scribe": "",
     "site": "Phaistos",
@@ -57161,6 +58671,7 @@ var inscriptions = new Map([
         "images/PHWb33-Inscription.jpg"
     ],
     "name": "PHWb33",
+    "names": "PHWb33",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -57188,6 +58699,7 @@ var inscriptions = new Map([
         "images/PHWb34-Inscription.jpg"
     ],
     "name": "PHWb34",
+    "names": "PHWb34",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -57215,6 +58727,7 @@ var inscriptions = new Map([
         "images/PHWb35-Inscription.jpg"
     ],
     "name": "PHWb35",
+    "names": "PHWb35",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -57242,6 +58755,7 @@ var inscriptions = new Map([
         "images/PHWb36-Inscription.jpg"
     ],
     "name": "PHWb36",
+    "names": "PHWb36",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "Phaistos",
@@ -57265,6 +58779,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PHWb55",
+    "names": "PHWb55",
     "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -57292,6 +58807,7 @@ var inscriptions = new Map([
         "images/PHWc37-Inscription.jpg"
     ],
     "name": "PHWc37",
+    "names": "PHWc37",
     "parsedInscription": "𐘾𐙦𐘤𐙬",
     "scribe": "",
     "site": "Phaistos",
@@ -57322,6 +58838,7 @@ var inscriptions = new Map([
         "images/PHWc38-Inscription.jpg"
     ],
     "name": "PHWc38",
+    "names": "PHWc38",
     "parsedInscription": "𐙦𐘳𐙁",
     "scribe": "",
     "site": "Phaistos",
@@ -57349,6 +58866,7 @@ var inscriptions = new Map([
         "images/PHWc39-Inscription.jpg"
     ],
     "name": "PHWc39",
+    "names": "PHWc39",
     "parsedInscription": "𐘱𐘆𐘁",
     "scribe": "",
     "site": "Phaistos",
@@ -57381,6 +58899,7 @@ var inscriptions = new Map([
         "images/PHWc40b-Inscription.jpg"
     ],
     "name": "PHWc40",
+    "names": "PHWc40",
     "parsedInscription": "𐘠𐘠𐙁𐘅",
     "scribe": "",
     "site": "Phaistos",
@@ -57411,6 +58930,7 @@ var inscriptions = new Map([
         "images/PHWc41-Inscription.jpg"
     ],
     "name": "PHWc41",
+    "names": "PHWc41",
     "parsedInscription": "𐙍𐄇𐝆",
     "scribe": "",
     "site": "Phaistos",
@@ -57444,6 +58964,7 @@ var inscriptions = new Map([
         "images/PHWc43-Inscription.jpg"
     ],
     "name": "PHWc43",
+    "names": "PHWc43",
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Phaistos",
@@ -57471,6 +58992,7 @@ var inscriptions = new Map([
         "images/PHWc44-Inscription.jpg"
     ],
     "name": "PHWc44",
+    "names": "PHWc44",
     "parsedInscription": "𐘏",
     "scribe": "",
     "site": "Phaistos",
@@ -57498,6 +59020,7 @@ var inscriptions = new Map([
         "images/PHWc46-Inscription.jpg"
     ],
     "name": "PHWc46",
+    "names": "PHWc46",
     "parsedInscription": "𐙴𐘡 ≈ 𐘠",
     "scribe": "",
     "site": "Phaistos",
@@ -57531,6 +59054,7 @@ var inscriptions = new Map([
         "images/PHWc52-Inscription.jpg"
     ],
     "name": "PHWc52",
+    "names": "PHWc52",
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Phaistos",
@@ -57558,6 +59082,7 @@ var inscriptions = new Map([
         "images/PHWg45-Inscription.jpg"
     ],
     "name": "PHWg45",
+    "names": "PHWg45",
     "parsedInscription": "𐘡𐘷𐘿",
     "scribe": "",
     "site": "Phaistos",
@@ -57585,6 +59110,7 @@ var inscriptions = new Map([
         "images/PHWy42-Inscription.jpg"
     ],
     "name": "PHWy42",
+    "names": "PHWy42",
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Phaistos",
@@ -57612,6 +59138,7 @@ var inscriptions = new Map([
         "images/PHZb4-Inscription.jpg"
     ],
     "name": "PHZb4",
+    "names": "PHZb4",
     "parsedInscription": "𐘤𐙁𐄁𐘚𐘱𐘃",
     "scribe": "",
     "site": "Phaistos",
@@ -57645,6 +59172,7 @@ var inscriptions = new Map([
         "images/PHZb5-Inscription.jpg"
     ],
     "name": "PHZb5",
+    "names": "PHZb5",
     "parsedInscription": "𐘮𐘢𐘠𐘅𐘽",
     "scribe": "",
     "site": "Phaistos",
@@ -57672,6 +59200,7 @@ var inscriptions = new Map([
         "images/PHZb<47>-Inscription.jpg"
     ],
     "name": "PHZb<47>",
+    "names": "PHZb<47>",
     "parsedInscription": "𐙴",
     "scribe": "",
     "site": "Phaistos",
@@ -57699,6 +59228,7 @@ var inscriptions = new Map([
         "images/PHZb48-Inscription.jpg"
     ],
     "name": "PHZb48",
+    "names": "PHZb48",
     "parsedInscription": "𐘌𐙙𐝫𐄁𐝫",
     "scribe": "",
     "site": "Phaistos",
@@ -57731,6 +59261,7 @@ var inscriptions = new Map([
         "images/PK1b-Inscription.jpg"
     ],
     "name": "PK1",
+    "names": "PK1",
     "parsedInscription": "𐘤𐝫𐄁𐝫𐘗𐘠𐄇\n𐘾𐘌𐄈\n—\n𐘇𐘬𐘍𐄇\n𐘷𐘳𐘙𐄇\n—\n𐘷𐘠𐘃𐄇\n𐘵𐘾𐘻𐘍𐘤𐘚𐘅𐄇\n—\n𐘵𐘃𐘱𐄇\n—\n𐘴𐘅𐘹𐘲𐄇\n𐘝𐘻𐄇\n—\n𐘹𐘲𐄇\n𐙁𐘠𐘍𐘚𐘃𐄇\n—\n𐙁𐘃𐘠𐄇\n𐙁𐘾𐘚𐘳𐄇",
     "scribe": "",
     "site": "Palaikastro",
@@ -57911,6 +59442,7 @@ var inscriptions = new Map([
         "images/PK3-Inscription.jpg"
     ],
     "name": "PK3",
+    "names": "PK3",
     "parsedInscription": "𐝫𐘿𐄉\n𐘱𐄑\n𐝫𐄒𐄇\n𐘀𐘙𐄖𐄈\n𐝫𐘠𐄈\n𐝫𐙂𐄉\n𐝫𐄉",
     "scribe": "",
     "site": "Palaikastro",
@@ -57989,6 +59521,7 @@ var inscriptions = new Map([
         "images/PKZa4-Inscription.jpg"
     ],
     "name": "PKZa4",
+    "names": "PKZa4",
     "parsedInscription": "𐘇𐘞𐘞𐘴𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58019,6 +59552,7 @@ var inscriptions = new Map([
         "images/PKZa8c-Inscription.jpg"
     ],
     "name": "PKZa8",
+    "names": "PKZa8",
     "parsedInscription": "𐝫𐘯𐄁𐘰𐘡𐄁𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙𐄁𐘹𐘋𐘚\n𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58076,6 +59610,7 @@ var inscriptions = new Map([
         "images/PKZa9-Inscription.jpg"
     ],
     "name": "PKZa9",
+    "names": "PKZa9",
     "parsedInscription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58115,6 +59650,7 @@ var inscriptions = new Map([
         "images/PKZa10-Inscription.jpg"
     ],
     "name": "PKZa10",
+    "names": "PKZa10",
     "parsedInscription": "𐝫𐘤𐄁𐘚𐘢𐘅𐘻𐘅𐄁𐘤𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58154,6 +59690,7 @@ var inscriptions = new Map([
         "images/PKZa11-Inscription.jpg"
     ],
     "name": "PKZa11",
+    "names": "PKZa11",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐄁\n𐄁𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
     "scribe": "",
     "site": "Palaikastro",
@@ -58253,6 +59790,7 @@ var inscriptions = new Map([
         "images/PKZa12-Inscription.jpg"
     ],
     "name": "PKZa12",
+    "names": "PKZa12",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐄇𐝫𐘱𐘤𐄁\n𐘇𐘂𐘬𐘂𐝫𐘱𐝫𐘱𐘂𐘌",
     "scribe": "",
     "site": "Palaikastro",
@@ -58322,6 +59860,7 @@ var inscriptions = new Map([
         "images/PKZa14-Inscription.jpg"
     ],
     "name": "PKZa14",
+    "names": "PKZa14",
     "parsedInscription": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58361,6 +59900,7 @@ var inscriptions = new Map([
         "images/PKZa15-Inscription.jpg"
     ],
     "name": "PKZa15",
+    "names": "PKZa15",
     "parsedInscription": "𐝫𐘱𐘆𐘸𐘃𐘃𐘬𐘜𐘙𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58388,6 +59928,7 @@ var inscriptions = new Map([
         "images/PKZa16-Inscription.jpg"
     ],
     "name": "PKZa16",
+    "names": "PKZa16",
     "parsedInscription": "𐝫𐘄𐘞𐄁𐘜\n𐘙𐘱𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58427,6 +59968,7 @@ var inscriptions = new Map([
         "images/PKZa17-Inscription.jpg"
     ],
     "name": "PKZa17",
+    "names": "PKZa17",
     "parsedInscription": "𐝫𐘚𐘀𐄁𐝫𐄁𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58460,6 +60002,7 @@ var inscriptions = new Map([
         "images/PKZa18-Inscription.jpg"
     ],
     "name": "PKZa18",
+    "names": "PKZa18",
     "parsedInscription": "𐝫𐘃𐄁𐘚𐘀𐄁𐘱𐘱𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58497,6 +60040,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PKZa20",
+    "names": "PKZa20",
     "parsedInscription": "𐝫𐘉𐘅𐘾𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58524,6 +60068,7 @@ var inscriptions = new Map([
         "images/PKZb?-Inscription.jpg"
     ],
     "name": "PKZb?",
+    "names": "PKZb?",
     "parsedInscription": "𐘇𐘰𐘆𐝫\n𐘙𐝁",
     "scribe": "",
     "site": "Palaikastro",
@@ -58558,6 +60103,7 @@ var inscriptions = new Map([
         "images/PKZb19-Inscription.jpg"
     ],
     "name": "PKZb19",
+    "names": "PKZb19",
     "parsedInscription": "𐘈𐘤𐘳𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58583,6 +60129,7 @@ var inscriptions = new Map([
         "images/PKZb21-Inscription.jpg"
     ],
     "name": "PKZb21",
+    "names": "PKZb21",
     "parsedInscription": "𐘸𐘳𐘝𐘃",
     "scribe": "",
     "site": "Palaikastro",
@@ -58608,6 +60155,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PKZb23",
+    "names": "PKZb23",
     "parsedInscription": "𐘾𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58633,6 +60181,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PKZb24",
+    "names": "PKZb24",
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Palaikastro",
@@ -58658,6 +60207,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PKZb25",
+    "names": "PKZb25",
     "parsedInscription": "𐘻𐘀𐘴",
     "scribe": "",
     "site": "Palaikastro",
@@ -58685,6 +60235,7 @@ var inscriptions = new Map([
         "images/PKZc13-Inscription.jpg"
     ],
     "name": "PKZc13",
+    "names": "PKZc13",
     "parsedInscription": "𐝫𐘯𐘭𐘱𐝫",
     "scribe": "",
     "site": "Palaikastro",
@@ -58712,6 +60263,7 @@ var inscriptions = new Map([
         "images/PKZg22-Inscription.jpg"
     ],
     "name": "PKZg22",
+    "names": "PKZg22",
     "parsedInscription": "𐙍𐙍",
     "scribe": "",
     "site": "Palaikastro",
@@ -58739,6 +60291,7 @@ var inscriptions = new Map([
         "images/PLZf1-Inscription.jpg"
     ],
     "name": "PLZf1",
+    "names": "PLZf1",
     "parsedInscription": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐄁𐝫𐘚𐝫𐄁𐝫",
     "scribe": "",
     "site": "Platanos",
@@ -58811,6 +60364,7 @@ var inscriptions = new Map([
         "images/POZc1-Inscription.jpg"
     ],
     "name": "POZc1",
+    "names": "POZc1",
     "parsedInscription": "𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱𐄁",
     "scribe": "",
     "site": "Poros Herakleiou",
@@ -58841,6 +60395,7 @@ var inscriptions = new Map([
         "images/PRZa1-Inscription.jpg"
     ],
     "name": "PRZa1",
+    "names": "PRZa1",
     "parsedInscription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
     "scribe": "",
     "site": "Prassa",
@@ -58881,6 +60436,7 @@ var inscriptions = new Map([
         "images/PSZa2a-Inscription.jpg"
     ],
     "name": "PSZa2",
+    "names": "PSZa2",
     "parsedInscription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "scribe": "PS Scribe 1",
     "site": "Psykhro",
@@ -58929,6 +60485,7 @@ var inscriptions = new Map([
         "images/PSIZa1-Inscription.jpg"
     ],
     "name": "PSIZa1",
+    "names": "PSIZa1",
     "parsedInscription": "𐙓𐘬𐘈𐝫",
     "scribe": "",
     "site": "Psykhro",
@@ -58954,6 +60511,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "PSIZa2",
+    "names": "PSIZa2",
     "parsedInscription": "𐄁𐝫",
     "scribe": "",
     "site": "Psykhro",
@@ -58984,6 +60542,7 @@ var inscriptions = new Map([
         "images/PYR1-Inscription.jpg"
     ],
     "name": "PYR1",
+    "names": "PYR1",
     "parsedInscription": "𐘠𐙁𐘘𐘣𐘃𐝦𐙍𐄘",
     "scribe": "",
     "site": "Pyrgos",
@@ -59017,6 +60576,7 @@ var inscriptions = new Map([
         "images/PYR2-Inscription.jpg"
     ],
     "name": "PYR2",
+    "names": "PYR2",
     "parsedInscription": "𐝫𐙘𐝆",
     "scribe": "",
     "site": "Pyrgos",
@@ -59047,6 +60607,7 @@ var inscriptions = new Map([
         "images/PYRWc4-Inscription.jpg"
     ],
     "name": "PYRWc4",
+    "names": "PYRWc4",
     "parsedInscription": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
     "scribe": "",
     "site": "Pyrgos",
@@ -59080,6 +60641,7 @@ var inscriptions = new Map([
         "images/PYRZb5-Inscription.jpg"
     ],
     "name": "PYRZb5",
+    "names": "PYRZb5",
     "parsedInscription": "𐝫𐘃𐘱𐝫",
     "scribe": "",
     "site": "Pyrgos",
@@ -59107,6 +60669,7 @@ var inscriptions = new Map([
         "images/SAMWa1-Inscription.jpg"
     ],
     "name": "SAMWa1",
+    "names": "SAMWa1",
     "parsedInscription": "𐘱𐘞𐝫𐘞𐘴𐝫𐘃𐄐𐝇",
     "scribe": "",
     "site": "Samothrace",
@@ -59146,6 +60709,7 @@ var inscriptions = new Map([
         "images/SAMWe4-Inscription.jpg"
     ],
     "name": "SAMWe4",
+    "names": "SAMWe4",
     "parsedInscription": "𐝠",
     "scribe": "",
     "site": "Samothrace",
@@ -59173,6 +60737,7 @@ var inscriptions = new Map([
         "images/SEZf1-Inscription.jpg"
     ],
     "name": "SEZf1",
+    "names": "SEZf1",
     "parsedInscription": "𐘀𐙂",
     "scribe": "",
     "site": "Selakanos",
@@ -59200,6 +60765,7 @@ var inscriptions = new Map([
         "images/SIZg1-Inscription.jpg"
     ],
     "name": "SIZg1",
+    "names": "SIZg1",
     "parsedInscription": "𐘇𐝫𐄁𐝫𐘀𐙈",
     "scribe": "",
     "site": "Sitia",
@@ -59233,6 +60799,7 @@ var inscriptions = new Map([
         "images/SKZb1-Inscription.jpg"
     ],
     "name": "SKZb1",
+    "names": "SKZb1",
     "parsedInscription": "𐘇𐙁𐘴𐘗𐝫",
     "scribe": "",
     "site": "Skhinia",
@@ -59260,6 +60827,7 @@ var inscriptions = new Map([
         "images/SKOZc1-Inscription.jpg"
     ],
     "name": "SKOZc1",
+    "names": "SKOZc1",
     "parsedInscription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐘠𐝫",
     "scribe": "",
     "site": "Skoteino Cave",
@@ -59296,6 +60864,7 @@ var inscriptions = new Map([
         "images/SYZa1-Inscription.jpg"
     ],
     "name": "SYZa1",
+    "names": "SYZa1",
     "parsedInscription": "𐝫𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘚𐘀𐘻𐄁𐘱𐝫",
     "scribe": "",
     "site": "Syme",
@@ -59333,6 +60902,7 @@ var inscriptions = new Map([
     "imageRightsURL": "https://bit.ly/2H6Ohwe",
     "images": [],
     "name": "SYZa2",
+    "names": "SYZa2",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "scribe": "",
     "site": "Syme",
@@ -59381,6 +60951,7 @@ var inscriptions = new Map([
         "images/SYZa3-Inscription.jpg"
     ],
     "name": "SYZa3",
+    "names": "SYZa3",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐝫𐘱𐝫𐘈𐘾𐘅𐘤𐝫𐘃𐝫𐘤𐘘𐘃",
     "scribe": "",
     "site": "Syme",
@@ -59414,6 +60985,7 @@ var inscriptions = new Map([
         "images/SYZa4-Inscription.jpg"
     ],
     "name": "SYZa4",
+    "names": "SYZa4",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘚𐘩𐘍𐄁𐘰𐘝𐘣",
     "scribe": "",
     "site": "Syme",
@@ -59451,6 +61023,7 @@ var inscriptions = new Map([
         "images/SYZa5-Inscription.jpg"
     ],
     "name": "SYZa5",
+    "names": "SYZa5",
     "parsedInscription": "𐝫𐘻𐘱𐄁𐘱𐘮𐘰𐝫",
     "scribe": "",
     "site": "Syme",
@@ -59482,6 +61055,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "SYZa6",
+    "names": "SYZa6",
     "parsedInscription": "𐘀𐘈𐘴𐘃",
     "scribe": "",
     "site": "Syme",
@@ -59507,6 +61081,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "SYZβ7",
+    "names": "SYZβ7",
     "parsedInscription": "𐝫𐘴𐘸𐘝𐘈",
     "scribe": "",
     "site": "Syme",
@@ -59534,6 +61109,7 @@ var inscriptions = new Map([
         "images/SYZa8-Inscription.jpg"
     ],
     "name": "SYZa8",
+    "names": "SYZa8",
     "parsedInscription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
     "scribe": "",
     "site": "Syme",
@@ -59567,6 +61143,7 @@ var inscriptions = new Map([
         "images/SYZa9-Inscription.jpg"
     ],
     "name": "SYZa9",
+    "names": "SYZa9",
     "parsedInscription": "𐘱𐘂𐘴𐘱𐘈",
     "scribe": "",
     "site": "Syme",
@@ -59594,6 +61171,7 @@ var inscriptions = new Map([
         "images/SYZa10-Inscription.jpg"
     ],
     "name": "SYZa10",
+    "names": "SYZa10",
     "parsedInscription": "𐘌𐘞𐘴𐙂",
     "scribe": "",
     "site": "Syme",
@@ -59621,6 +61199,7 @@ var inscriptions = new Map([
         "images/SYZa11-Inscription.jpg"
     ],
     "name": "SYZa11",
+    "names": "SYZa11",
     "parsedInscription": "𐄁𐘁𐘌𐝫",
     "scribe": "",
     "site": "Syme",
@@ -59651,6 +61230,7 @@ var inscriptions = new Map([
         "images/SYZa12-Inscription.jpg"
     ],
     "name": "SYZa12",
+    "names": "SYZa12",
     "parsedInscription": "𐝫𐄁𐘇𐝫",
     "scribe": "",
     "site": "Syme",
@@ -59679,6 +61259,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "TELZb1",
+    "names": "TELZb1",
     "parsedInscription": "𐘕 ≈ 𐘮𐘃 ≈ 𐘝",
     "scribe": "",
     "site": "Tel Haror",
@@ -59714,6 +61295,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "THEfr.1",
+    "names": "THEfr.1",
     "parsedInscription": "𐝫𐘸𐝫",
     "scribe": "",
     "site": "Thera",
@@ -59737,6 +61319,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "THEfr.2",
+    "names": "THEfr.2",
     "parsedInscription": "𐝫𐙖𐝫",
     "scribe": "",
     "site": "Thera",
@@ -59760,6 +61343,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "THEfr.3",
+    "names": "THEfr.3",
     "parsedInscription": "𐝫𐙖𐝫",
     "scribe": "",
     "site": "Thera",
@@ -59785,6 +61369,7 @@ var inscriptions = new Map([
         "images/THEtab.4-Inscription.jpg"
     ],
     "name": "THEtab.4",
+    "names": "THEtab.4",
     "parsedInscription": "𐝫𐘒𐄍𐝫\n𐝫𐘒𐄓𐄌𐝫",
     "scribe": "",
     "site": "Thera",
@@ -59822,6 +61407,7 @@ var inscriptions = new Map([
         "images/THEtab.5-Inscription.jpg"
     ],
     "name": "THEtab.5",
+    "names": "THEtab.5",
     "parsedInscription": "𐝫𐄁𐘃𐘋𐘀𐘚𐝫",
     "scribe": "",
     "site": "Thera",
@@ -59850,6 +61436,7 @@ var inscriptions = new Map([
         "images/THEtab.6-Inscription.jpg"
     ],
     "name": "THEtab.6",
+    "names": "THEtab.6",
     "parsedInscription": "𐝫𐄐𐝫\n𐝫𐝡𐝫𐄚𐝫",
     "scribe": "",
     "site": "Thera",
@@ -59886,6 +61473,7 @@ var inscriptions = new Map([
         "images/THEZb1-Inscription.jpg"
     ],
     "name": "THEZb1",
+    "names": "THEZb1",
     "parsedInscription": "𐝫𐘤𐘝𐝫",
     "scribe": "",
     "site": "Thera",
@@ -59913,6 +61501,7 @@ var inscriptions = new Map([
         "images/THEZb2-Inscription.jpg"
     ],
     "name": "THEZb2",
+    "names": "THEZb2",
     "parsedInscription": "𐘇𐘙𐘞𐘅",
     "scribe": "",
     "site": "Thera",
@@ -59940,6 +61529,7 @@ var inscriptions = new Map([
         "images/THEZb3-Inscription.jpg"
     ],
     "name": "THEZb3",
+    "names": "THEZb3",
     "parsedInscription": "𐘇𐘗𐝫",
     "scribe": "",
     "site": "Thera",
@@ -59967,6 +61557,7 @@ var inscriptions = new Map([
         "images/THEZb4-Inscription.jpg"
     ],
     "name": "THEZb4",
+    "names": "THEZb4",
     "parsedInscription": "𐝫𐘇𐘙𐝫",
     "scribe": "",
     "site": "Thera",
@@ -59994,6 +61585,7 @@ var inscriptions = new Map([
         "images/THEZg5-Inscription.jpg"
     ],
     "name": "THEZg5",
+    "names": "THEZg5",
     "parsedInscription": "𐙁𐄓𐘫𐄋\n𐙑𐄍𐘎𐄏𐘳𐄊",
     "scribe": "",
     "site": "Thera",
@@ -60049,6 +61641,7 @@ var inscriptions = new Map([
         "images/THEZb5-Inscription.jpg"
     ],
     "name": "THEZb5",
+    "names": "THEZb5",
     "parsedInscription": "𐘧",
     "scribe": "",
     "site": "Thera",
@@ -60074,6 +61667,7 @@ var inscriptions = new Map([
         "images/THEZb7-Inscription.jpg"
     ],
     "name": "THEZb7",
+    "names": "THEZb7",
     "parsedInscription": "𐘇𐘧",
     "scribe": "",
     "site": "Thera",
@@ -60101,6 +61695,7 @@ var inscriptions = new Map([
         "images/THEZb13-Inscription.jpg"
     ],
     "name": "THEZb13",
+    "names": "THEZb13",
     "parsedInscription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
     "scribe": "",
     "site": "Thera",
@@ -60135,6 +61730,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "TIZb1",
+    "names": "TIZb1",
     "parsedInscription": "𐝫𐙕𐘤𐝫",
     "scribe": "",
     "site": "Tiryns",
@@ -60162,6 +61758,7 @@ var inscriptions = new Map([
         "images/TLZa1-Inscription.jpg"
     ],
     "name": "TLZa1",
+    "names": "TLZa1",
     "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘵𐘲𐘌𐘙𐄁\n𐘱𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘾𐘅𐘤𐝫\n𐝫𐘅𐙁𐘤𐘘𐝫",
     "scribe": "",
     "site": "Troullos",
@@ -60219,6 +61816,7 @@ var inscriptions = new Map([
         "images/TRAZb1-Inscription.jpg"
     ],
     "name": "TRAZb1",
+    "names": "TRAZb1",
     "parsedInscription": "𐝫𐘙𐘱𐝫",
     "scribe": "",
     "site": "Traostalos",
@@ -60244,6 +61842,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "TROZg1",
+    "names": "TROZg1",
     "parsedInscription": "𐘢𐘻𐘳𐘠𐘽",
     "scribe": "",
     "site": "Troy",
@@ -60269,6 +61868,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "TROZg2",
+    "names": "TROZg2",
     "parsedInscription": "𐘬𐘻𐘳𐘠𐘽",
     "scribe": "",
     "site": "Troy",
@@ -60294,6 +61894,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "TRYZb1",
+    "names": "TRYZb1",
     "parsedInscription": "𐝫𐘗𐘻𐝫 ≈ 𐝫𐘻𐘗𐝫",
     "scribe": "",
     "site": "Trypiti",
@@ -60327,6 +61928,7 @@ var inscriptions = new Map([
         "images/TY2-Inscription.jpg"
     ],
     "name": "TY2",
+    "names": "TY2",
     "parsedInscription": "𐙞𐝫𐘟𐘫𐘢𐄝\n𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔\n𐙝𐘀𐘫𐝫𐄐\n𐘂𐘀𐘘𐙝𐘶𐘸𐄙\n𐙝𐘭𐘶𐝫\n𐙝𐝫𐝫𐄌\n𐙇𐄗𐄊\n𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒\n𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔\n𐙞𐝫\n𐝫",
     "scribe": "",
     "site": "Tylissos",
@@ -60468,6 +62070,7 @@ var inscriptions = new Map([
         "images/TY3a-Inscription.jpg"
     ],
     "name": "TY3a",
+    "names": "TY3a",
     "parsedInscription": "𐝫𐘍𐙭𐜓𐄐𐄋𐝃\n𐜋𐄑𐄈\n𐘗𐘸𐄋\n𐜌𐄉𐝆\n𐜗𐝫\n𐜋𐄍𐝆\n—\n𐘇𐘬𐝫𐄁𐝫𐜓𐄔𐄇\n𐜔𐄈𐝂\n𐜕𐄇\n𐜌𐄊𐝆\n𐝫𐙋𐝫𐄊𐝫\n—\n𐘇𐘀𐜋𐄑𐄇\n𐜗𐄈𐝫\n𐝫𐘺𐘇𐘬𐘮𐙖𐝫𐄍𐝂\n—\n𐘇𐙂𐘹𐚕𐝫\n𐝫𐘸𐄋\n𐜖𐄇\n—",
     "scribe": "",
     "site": "Tylissos",
@@ -60696,6 +62299,7 @@ var inscriptions = new Map([
         "images/TY3b-Inscription.jpg"
     ],
     "name": "TY3b",
+    "names": "TY3b",
     "parsedInscription": "𐘸𐘭𐘤𐜗𐄌𐝫\n—\n𐘢𐙂𐙀𐜓𐄊\n𐜗𐄐𐄇𐝫\n𐝫𐜍𐄈𐝫\n—\n𐘂𐜗𐝫\n𐝫𐄚𐄑𐝫",
     "scribe": "",
     "site": "Tylissos",
@@ -60781,6 +62385,7 @@ var inscriptions = new Map([
         "images/TYWc5-Inscription.jpg"
     ],
     "name": "TYWc5",
+    "names": "TYWc5",
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Tylissos",
@@ -60808,6 +62413,7 @@ var inscriptions = new Map([
         "images/TYZb4-Inscription.jpg"
     ],
     "name": "TYZb4",
+    "names": "TYZb4",
     "parsedInscription": "𐘇𐙕𐘸𐘳𐘇",
     "scribe": "",
     "site": "Tylissos",
@@ -60835,6 +62441,7 @@ var inscriptions = new Map([
         "images/TYZg1-Inscription.jpg"
     ],
     "name": "TYZg1",
+    "names": "TYZg1",
     "parsedInscription": "𐝫𐙁𐘘𐘇",
     "scribe": "",
     "site": "Tylissos",
@@ -60862,6 +62469,7 @@ var inscriptions = new Map([
         "images/VRYZa1-Inscription.jpg"
     ],
     "name": "VRYZa1",
+    "names": "VRYZa1",
     "parsedInscription": "𐝫𐘚𐘢𐘅𐙁\n𐘤𐘘𐘃𐄁𐝫",
     "scribe": "",
     "site": "Vrysinas",
@@ -60898,6 +62506,7 @@ var inscriptions = new Map([
         "images/ZA1a-Inscription.jpg"
     ],
     "name": "ZA1a",
+    "names": "ZA1a",
     "parsedInscription": "𐛀𐄁\n𐘸𐘙𐘍𐄁𐘝𐄓𐄈𐝆\n𐘍𐄋\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -60961,6 +62570,7 @@ var inscriptions = new Map([
         "images/ZA1b-Inscription.jpg"
     ],
     "name": "ZA1b",
+    "names": "ZA1b",
     "parsedInscription": "𐘡𐘻𐝫\n𐝫𐘁𐙉𐄓𐄍\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -61006,6 +62616,7 @@ var inscriptions = new Map([
         "images/ZA4a-Inscription.jpg"
     ],
     "name": "ZA4a",
+    "names": "ZA4a",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘡𐝫\n𐝫𐘢𐝫𐄁𐝫𐘈𐝫𐝫𐄋\n𐘱𐘄𐘱𐝫𐝫𐄉𐝫\n𐘇𐘠𐘘𐄊\n𐘱𐘂𐄇𐝫\n𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊\n𐘛𐘯𐙁𐘙𐄐𐄉\n𐘤𐘢𐘸𐄋\n𐘡𐙃𐄔\n𐘾𐘆𐄉",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -61144,6 +62755,7 @@ var inscriptions = new Map([
         "images/ZA4b-Inscription.jpg"
     ],
     "name": "ZA4b",
+    "names": "ZA4b",
     "parsedInscription": "𐝫\n𐝫𐙍𐄙𐄊𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -61180,6 +62792,7 @@ var inscriptions = new Map([
         "images/ZA5a-Inscription.jpg"
     ],
     "name": "ZA5a",
+    "names": "ZA5a",
     "parsedInscription": "𐘐𐙈𐄁𐙍𐘲\n𐘸𐘝𐙁𐄍\n𐘵𐘳𐘝𐘍𐘈𐄌\n𐘞𐘻𐘀𐘡𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -61261,6 +62874,7 @@ var inscriptions = new Map([
         "images/ZA5b-Inscription.jpg"
     ],
     "name": "ZA5b",
+    "names": "ZA5b",
     "parsedInscription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆\n𐙁𐘾𐘚𐘳𐄉",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -61312,6 +62926,7 @@ var inscriptions = new Map([
         "images/ZA6a-Inscription.jpg"
     ],
     "name": "ZA6a",
+    "names": "ZA6a",
     "parsedInscription": "𐙙𐘮𐘅𐙑𐄐𐄏\n𐘟𐘶𐘃𐘻𐝫\n𐝫𐄙𐄗\n𐘚𐘈𐝫\n𐝫𐙋𐄐𐄋\n𐝫𐙋𐄐\n𐘚𐝫\n𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫\n𐝫𐙋𐝫\n𐝫𐄑𐄋\n𐙘𐝫\n𐝫𐄑\n𐘚𐘈𐝫𐄁",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -61441,6 +63056,7 @@ var inscriptions = new Map([
         "images/ZA6b-Inscription.jpg"
     ],
     "name": "ZA6b",
+    "names": "ZA6b",
     "parsedInscription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓\n𐜁𐄐\n𐙢𐘷𐛭𐄓𐝫\n𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -61531,6 +63147,7 @@ var inscriptions = new Map([
         "images/ZA7a-Inscription.jpg"
     ],
     "name": "ZA7a",
+    "names": "ZA7a",
     "parsedInscription": "𐘉𐘶𐄋\n𐘇𐘴𐘹𐄊\n𐘇𐘙𐘹𐘻𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -61582,6 +63199,7 @@ var inscriptions = new Map([
         "images/ZA7b-Inscription.jpg"
     ],
     "name": "ZA7b",
+    "names": "ZA7b",
     "parsedInscription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -61622,6 +63240,7 @@ var inscriptions = new Map([
         "images/ZA8a-Inscription.jpg"
     ],
     "name": "ZA8",
+    "names": "ZA8",
     "parsedInscription": "𐘸𐘴𐄁\n𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝂𐝂\n𐘇𐘭𐘝𐘳𐄇𐝫𐝁𐝁\n𐘳𐘚𐘯𐙁𐘂𐝆\n𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝁𐝁",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
@@ -61733,6 +63352,7 @@ var inscriptions = new Map([
         "images/ZA9-Inscription.jpg"
     ],
     "name": "ZA9",
+    "names": "ZA9",
     "parsedInscription": "𐝫𐘯𐘠𐄁\n𐘍𐝫\n𐝫𐘴𐚽𐄋\n𐝫\n𐝫𐘁𐘤𐘴𐝫𐚽𐄊\n𐘇𐘳𐘅𐝫𐄁𐝫𐚽𐄈\n𐝫𐄁𐝫𐙁𐘶𐘓𐄈\n𐘣𐘴𐘙𐘻𐘃𐘓𐄇",
     "scribe": "",
     "site": "Zakros",
@@ -61844,6 +63464,7 @@ var inscriptions = new Map([
         "images/ZA10a-Inscription.jpg"
     ],
     "name": "ZA10a",
+    "names": "ZA10a",
     "parsedInscription": "𐘳𐘅𐘃𐄈\n𐘂𐝫𐄇\n𐘇𐙂𐘻𐘅𐄇\n𐘇𐘳𐘅𐘃𐄇\n𐘇𐘻𐘀𐘉𐄇\n𐘇𐘬𐙂𐘻𐘅𐄇\n𐘀𐘚𐘢𐘳𐄇\n𐘬𐘙𐘍𐘈𐄈",
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
@@ -61937,6 +63558,7 @@ var inscriptions = new Map([
         "images/ZA10b-Inscription.jpg"
     ],
     "name": "ZA10b",
+    "names": "ZA10b",
     "parsedInscription": "𐘮𐚖𐄈\n𐘬𐘙𐘍𐘈𐙎𐄋\n𐘉𐘪𐄌\n𐙁𐘍𐄋\n𐙁𐘸𐘦𐘃𐄋\n𐘞𐙁𐄋\n𐘇𐘦𐄊\n𐘇𐘻𐘳𐄉\n𐘽𐘁𐘙𐄈\n𐘂𐘱𐘙𐄇\n𐘾𐙂𐘗𐘃𐝆\n𐘳𐄈\n𐘬𐄇𐝫",
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
@@ -62078,6 +63700,7 @@ var inscriptions = new Map([
         "images/ZA11a-Inscription.jpg"
     ],
     "name": "ZA11a",
+    "names": "ZA11a",
     "parsedInscription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁\n𐛭𐝫\n𐝫𐘴𐙁𐘤𐙍𐝆𐝫\n𐝫𐘡𐙂𐘘𐄈𐝃\n𐘶𐝈𐝉\n𐙍𐝆\n𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫\n𐘢𐙠𐘇𐝫\n𐝫𐙋𐄈\n𐝫",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
@@ -62207,6 +63830,7 @@ var inscriptions = new Map([
         "images/ZA11b-Inscription.jpg"
     ],
     "name": "ZA11b",
+    "names": "ZA11b",
     "parsedInscription": "𐘡𐘄𐘭𐛀𐄁\n𐘞𐙕𐘭𐄁𐛭𐄇𐝫\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈\n𐙂𐘂𐄁𐛭𐄉\n𐝫",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
@@ -62300,6 +63924,7 @@ var inscriptions = new Map([
         "images/ZA12a-Inscription.jpg"
     ],
     "name": "ZA12a",
+    "names": "ZA12a",
     "parsedInscription": "𐝫\n𐘂𐝫𐄕𐄊𐝫\n𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌",
     "scribe": "",
     "site": "Zakros",
@@ -62360,6 +63985,7 @@ var inscriptions = new Map([
         "images/ZA12b-Inscription.jpg"
     ],
     "name": "ZA12b",
+    "names": "ZA12b",
     "parsedInscription": "𐝫\n𐝫𐘹𐝫𐄌𐝫\n𐘂𐝫𐄓𐝫\n𐘠𐄐𐄉\n𐘘𐄑𐄌",
     "scribe": "",
     "site": "Zakros",
@@ -62423,6 +64049,7 @@ var inscriptions = new Map([
         "images/ZA13-Inscription.jpg"
     ],
     "name": "ZA13",
+    "names": "ZA13",
     "parsedInscription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫",
     "scribe": "ZA Scribe 3",
     "site": "Zakros",
@@ -62462,6 +64089,7 @@ var inscriptions = new Map([
         "images/ZA14-Inscription.jpg"
     ],
     "name": "ZA14",
+    "names": "ZA14",
     "parsedInscription": "𐘋𐘸𐘆𐄇\n𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉\n𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇\n𐘹𐘻𐘠𐘍𐘈𐄓𐄋𐝫\n𐘂𐘯𐘿𐄈\n𐘱𐘣𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -62564,6 +64192,7 @@ var inscriptions = new Map([
         "images/ZA15a-Inscription.jpg"
     ],
     "name": "ZA15a",
+    "names": "ZA15a",
     "parsedInscription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐\n𐘋𐙍\n𐘻𐘍𐘈𐄉\n𐘛𐘯𐙁𐘙𐄌\n𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋\n𐘞𐘻𐘀𐘡𐄊\n𐚗𐘥𐙁𐘈𐄋",
     "scribe": "ZA Scribe 5",
     "site": "Zakros",
@@ -62675,6 +64304,7 @@ var inscriptions = new Map([
         "images/ZA15b-Inscription.jpg"
     ],
     "name": "ZA15b",
+    "names": "ZA15b",
     "parsedInscription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍",
     "scribe": "ZA Scribe 5",
     "site": "Zakros",
@@ -62741,6 +64371,7 @@ var inscriptions = new Map([
         "images/ZA16-Inscription.jpg"
     ],
     "name": "ZA16",
+    "names": "ZA16",
     "parsedInscription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫\n𐝫𐘲𐄊𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -62804,6 +64435,7 @@ var inscriptions = new Map([
         "images/ZA17-Inscription.jpg"
     ],
     "name": "ZA17",
+    "names": "ZA17",
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -62843,6 +64475,7 @@ var inscriptions = new Map([
         "images/ZA18a-Inscription.jpg"
     ],
     "name": "ZA18a",
+    "names": "ZA18a",
     "parsedInscription": "𐘀𐘙𐙂𐝫𐝫𐄁\n𐙂𐙭𐄁𐛭𐄈𐝂𐝂\n𐙉𐝫𐄈𐝂𐝂\n𐜓𐝁𐝁\n𐙋𐝃\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -62927,6 +64560,7 @@ var inscriptions = new Map([
         "images/ZA18b-Inscription.jpg"
     ],
     "name": "ZA18b",
+    "names": "ZA18b",
     "parsedInscription": "𐝫\n𐄈𐝕𐝉𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -62969,6 +64603,7 @@ var inscriptions = new Map([
         "images/ZA19-Inscription.jpg"
     ],
     "name": "ZA19",
+    "names": "ZA19",
     "parsedInscription": "𐝫\n𐝫𐘴𐘃𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -63008,6 +64643,7 @@ var inscriptions = new Map([
         "images/ZA20-Inscription.jpg"
     ],
     "name": "ZA20",
+    "names": "ZA20",
     "parsedInscription": "𐝫\n𐝫𐘬𐘙𐘍𐘈𐝫𐝫𐘻𐝫\n𐝫𐄁𐄊\n𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌\n𐘃𐙌𐄐𐄈\n𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫",
     "scribe": "ZA Scribe 3",
     "site": "Zakros",
@@ -63104,6 +64740,7 @@ var inscriptions = new Map([
         "images/ZA21a-Inscription.jpg"
     ],
     "name": "ZA21a",
+    "names": "ZA21a",
     "parsedInscription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁\n𐝫𐘃𐄈\n𐘳𐘥𐝫\n𐝫\n𐝫𐘂𐝫𐄋\n𐘳𐙁𐘢𐝫\n𐝫𐄉\n𐘇𐝫\n𐝫𐙈𐘻𐝫𐝫𐄈",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -63209,6 +64846,7 @@ var inscriptions = new Map([
         "images/ZA21b-Inscription.jpg"
     ],
     "name": "ZA21b",
+    "names": "ZA21b",
     "parsedInscription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈\n𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -63272,6 +64910,7 @@ var inscriptions = new Map([
         "images/ZA22-Inscription.jpg"
     ],
     "name": "ZA22",
+    "names": "ZA22",
     "parsedInscription": "𐝫\n𐝫𐘓𐝫\n𐘔𐄇𐝫\n𐝫𐄇\n𐘴𐝫𐄁𐝫𐘓𐄇𐝫\n𐝫𐄌\n𐘬𐘶𐝫\n𐘓𐄙𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -63359,6 +64998,7 @@ var inscriptions = new Map([
         "images/ZA23-Inscription.jpg"
     ],
     "name": "ZA23",
+    "names": "ZA23",
     "parsedInscription": "𐝫\n—\n𐝫𐘃𐘃𐝫\n𐝫𐘻𐘙𐝫",
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
@@ -63404,6 +65044,7 @@ var inscriptions = new Map([
         "images/ZA24a-Inscription.jpg"
     ],
     "name": "ZA24a",
+    "names": "ZA24a",
     "parsedInscription": "𐘚𐘀𐙉𐝫\n𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -63446,6 +65087,7 @@ var inscriptions = new Map([
         "images/ZA24b-Inscription.jpg"
     ],
     "name": "ZA24b",
+    "names": "ZA24b",
     "parsedInscription": "𐝫𐘳𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
@@ -63479,6 +65121,7 @@ var inscriptions = new Map([
         "images/ZA25-Inscription.jpg"
     ],
     "name": "ZA25",
+    "names": "ZA25",
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -63512,6 +65155,7 @@ var inscriptions = new Map([
         "images/ZA26a-Inscription.jpg"
     ],
     "name": "ZA26a",
+    "names": "ZA26a",
     "parsedInscription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘓𐄐𐄉\n𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -63572,6 +65216,7 @@ var inscriptions = new Map([
         "images/ZA26b-Inscription.jpg"
     ],
     "name": "ZA26b",
+    "names": "ZA26b",
     "parsedInscription": "𐝫𐘓𐄍\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -63608,6 +65253,7 @@ var inscriptions = new Map([
         "images/ZA27-Inscription.jpg"
     ],
     "name": "ZA27",
+    "names": "ZA27",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘆𐘸𐄈\n𐘵𐘻𐝫",
     "scribe": "ZA Scribe 3",
     "site": "Zakros",
@@ -63656,6 +65302,7 @@ var inscriptions = new Map([
         "images/ZA28-Inscription.jpg"
     ],
     "name": "ZA28",
+    "names": "ZA28",
     "parsedInscription": "𐝫\n𐝫𐛭𐄇𐝫\n𐝫",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
@@ -63698,6 +65345,7 @@ var inscriptions = new Map([
         "images/ZA29-Inscription.jpg"
     ],
     "name": "ZA29",
+    "names": "ZA29",
     "parsedInscription": "𐝫\n𐝫𐙁𐄙𐝫\n𐝫𐘃𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -63746,6 +65394,7 @@ var inscriptions = new Map([
         "images/ZA30-Inscription.jpg"
     ],
     "name": "ZA30",
+    "names": "ZA30",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄍𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -63791,6 +65440,7 @@ var inscriptions = new Map([
         "images/ZA31-Inscription.jpg"
     ],
     "name": "ZA31",
+    "names": "ZA31",
     "parsedInscription": "𐝫\n𐝫𐘬𐄈𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -63833,6 +65483,7 @@ var inscriptions = new Map([
         "images/ZA32-Inscription.jpg"
     ],
     "name": "ZA32",
+    "names": "ZA32",
     "parsedInscription": "𐝫\n𐝫𐘱𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -63872,6 +65523,7 @@ var inscriptions = new Map([
         "images/ZA33-Inscription.jpg"
     ],
     "name": "ZA33",
+    "names": "ZA33",
     "parsedInscription": "𐝫\n𐝫𐄑𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -63909,6 +65561,7 @@ var inscriptions = new Map([
         "images/ZAWa36-Inscription.jpg"
     ],
     "name": "ZAWa36",
+    "names": "ZAWa36",
     "parsedInscription": "𐘁",
     "scribe": "",
     "site": "Zakros",
@@ -63936,6 +65589,7 @@ var inscriptions = new Map([
         "images/ZAWa38-Inscription.jpg"
     ],
     "name": "ZAWa38",
+    "names": "ZAWa38",
     "parsedInscription": "𐙕",
     "scribe": "",
     "site": "Zakros",
@@ -63961,6 +65615,7 @@ var inscriptions = new Map([
         "images/ZAWb37-Inscription.jpg"
     ],
     "name": "ZAWb37",
+    "names": "ZAWb37",
     "parsedInscription": "𐘤",
     "scribe": "",
     "site": "Zakros",
@@ -63988,6 +65643,7 @@ var inscriptions = new Map([
         "images/ZAWc2-Inscription.jpg"
     ],
     "name": "ZAWc2",
+    "names": "ZAWc2",
     "parsedInscription": "𐘇𐘠𐘾𐘇𐘬𐘺𐘻\n𐘇𐘠𐘾𐘇𐘬𐘺𐘻",
     "scribe": "",
     "site": "Zakros",
@@ -64021,6 +65677,7 @@ var inscriptions = new Map([
         "images/ZAZb3-Inscription.jpg"
     ],
     "name": "ZAZb3",
+    "names": "ZAZb3",
     "parsedInscription": "𐙍𐄒𐄈\n𐘆𐘆𐘾𐘈𐘇𐘞𐘕𐘗𐘇𐘈\n𐘇𐘳𐘚𐙕𐘦𐘾𐄁𐘇𐘙𐘢𐘙𐘅𐄁𐘠𐘠𐙂",
     "scribe": "",
     "site": "Zakros",
@@ -64081,6 +65738,7 @@ var inscriptions = new Map([
         "images/ZAZb34-Inscription.jpg"
     ],
     "name": "ZAZb34",
+    "names": "ZAZb34",
     "parsedInscription": "𐝫𐘜𐘙𐘱𐄁𐘺𐘕𐄁𐘘𐘆𐝫",
     "scribe": "",
     "site": "Zakros",
@@ -64118,6 +65776,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "ZAZg34",
+    "names": "ZAZg34",
     "parsedInscription": "𐘮𐄕",
     "scribe": "",
     "site": "Zakros",
@@ -64148,6 +65807,7 @@ var inscriptions = new Map([
         "images/ZAZg35-Inscription.jpg"
     ],
     "name": "ZAZg35",
+    "names": "ZAZg35",
     "parsedInscription": "𐝫𐘋𐘻𐘱𐘘𐄁𐘈𐘮𐙄𐘦",
     "scribe": "",
     "site": "Zakros",
@@ -64177,6 +65837,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "ZOZA1",
+    "names": "ZOZA1",
     "parsedInscription": "",
     "scribe": "",
     "site": "Zominthos",
@@ -64194,6 +65855,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "ANZb1",
+    "names": "ANZb1",
     "parsedInscription": "𐘃",
     "scribe": "",
     "site": "",
@@ -64221,6 +65883,7 @@ var inscriptions = new Map([
         "images/APZa<3>-Inscription.jpg"
     ],
     "name": "APZa<3>",
+    "names": "APZa<3>",
     "parsedInscription": "𐝫𐘱𐝫",
     "scribe": "",
     "site": "Apodoulou",
@@ -64248,6 +65911,7 @@ var inscriptions = new Map([
         "images/APZa1-Inscription.jpg"
     ],
     "name": "APZa1",
+    "names": "APZa1",
     "parsedInscription": "𐘱𐘳𐘚𐙕𐘉𐘱𐄁𐝫",
     "scribe": "",
     "site": "Apodoulou",
@@ -64278,6 +65942,7 @@ var inscriptions = new Map([
         "images/APZa2-Inscription.jpg"
     ],
     "name": "APZa2",
+    "names": "APZa2",
     "parsedInscription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
     "scribe": "",
     "site": "Apodoulou",
@@ -64339,6 +66004,7 @@ var inscriptions = new Map([
         "images/ARZf1a-Inscription.jpg"
     ],
     "name": "ARZf1",
+    "names": "ARZf1",
     "parsedInscription": "𐘚𐘀𐙁𐘃",
     "scribe": "AR Scribe 1",
     "site": "Arkhalkhori",
@@ -64367,6 +66033,7 @@ var inscriptions = new Map([
         "images/ARZf2b-Inscription.jpg"
     ],
     "name": "ARZf2",
+    "names": "ARZf2",
     "parsedInscription": "𐘚𐘀𐙁𐘃𐝫",
     "scribe": "AR Scribe 2",
     "site": "Arkhalkhori",
@@ -64390,6 +66057,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "ARGZg1",
+    "names": "ARGZg1",
     "parsedInscription": "𐘮 ≈ 𐙍𐘻",
     "scribe": "",
     "site": "Arkhalkhori",
@@ -64423,6 +66091,7 @@ var inscriptions = new Map([
         "images/ARKH1a-Inscription.jpg"
     ],
     "name": "ARKH1a",
+    "names": "ARKH1a",
     "parsedInscription": "𐝫𐘳𐘢𐄁\n𐘌𐝫\n𐝫𐘸𐝫\n𐝫𐄁\n𐘇𐘴𐝫\n𐝫\n𐝫𐘇𐘲𐘻𐙈𐝫\n𐝫𐘗𐄈𐝆\n𐘇𐘂𐝫\n𐝫𐘻𐘸𐘞𐘗𐝫",
     "scribe": "ARKH Scribe 1",
     "site": "Arkhalkhori",
@@ -64512,6 +66181,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "ARKH1af",
+    "names": "ARKH1af",
     "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
@@ -64551,6 +66221,7 @@ var inscriptions = new Map([
         "images/ARKH1b-Inscription.jpg"
     ],
     "name": "ARKH1b",
+    "names": "ARKH1b",
     "parsedInscription": "𐘇𐝫\n𐝫𐘱𐘙𐄉𐝫\n𐝫𐘰𐝫\n𐝫\n—\n𐝫𐘅𐄎",
     "scribe": "ARKH Scribe 1",
     "site": "Arkhalkhori",
@@ -64614,6 +66285,7 @@ var inscriptions = new Map([
         "images/ARKH2-Inscription.jpg"
     ],
     "name": "ARKH2",
+    "names": "ARKH2",
     "parsedInscription": "𐘤𐘀𐘃\n𐙂𐘴𐙎𐄋\n𐘇𐘤𐘀𐘄𐘚𐄐𐄈\n𐙀𐙕𐘈𐘦𐘐𐙈𐄌\n𐘇𐘲𐘫𐘮𐄊\n𐘘𐘻𐝫\n𐝫",
     "scribe": "ARKH Scribe 1",
     "site": "Arkhalkhori",
@@ -64692,6 +66364,7 @@ var inscriptions = new Map([
         "images/ARKH3a-Inscription.jpg"
     ],
     "name": "ARKH3a",
+    "names": "ARKH3a",
     "parsedInscription": "𐝫𐘾𐘗𐙉𐝫\n𐝫𐝂\n𐙋𐄉𐝂\n𐙎𐄈𐝫\n𐝫𐄈\n𐙩𐄈\n𐝫\n𐝫𐘸𐘯𐙉𐄐𐄉𐝫\n𐝫𐘃𐄈\n𐙩𐄈\n𐙢𐄈𐝫\n𐝫𐙂𐄉",
     "scribe": "ARKH Scribe 1",
     "site": "Arkhalkhori",
@@ -64818,6 +66491,7 @@ var inscriptions = new Map([
         "images/ARKH3b-Inscription.jpg"
     ],
     "name": "ARKH3b",
+    "names": "ARKH3b",
     "parsedInscription": "𐝫𐘱𐘢𐙉𐄌𐝫\n𐝫𐘢𐙦𐙉𐄇𐝫\n𐙖𐝫\n𐝫\n𐝫𐄈\n𐙖𐄊\n𐝫𐙍𐄇𐝫",
     "scribe": "ARKH Scribe 1",
     "site": "Arkhalkhori",
@@ -64902,6 +66576,7 @@ var inscriptions = new Map([
         "images/ARKH4a-Inscription.jpg"
     ],
     "name": "ARKH4a",
+    "names": "ARKH4a",
     "parsedInscription": "𐝫\n𐝫𐘝𐘳𐝫\n𐝫𐘳𐄁𐘙𐄋\n𐘇𐝫𐄁𐝫𐘶𐄊\n𐘦𐘲𐝫𐄁𐝫𐘨𐘃𐄋\n𐘢𐘠𐘗𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
@@ -64992,6 +66667,7 @@ var inscriptions = new Map([
         "images/ARKH4b-Inscription.jpg"
     ],
     "name": "ARKH4b",
+    "names": "ARKH4b",
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘙𐄐\n𐘉𐝫\n𐝫𐘦𐘻𐄐\n𐘚𐘨𐝫𐝫𐄏\n𐘇𐘸𐘁𐄉\n𐘍𐘤𐙀𐝫𐝫𐄉\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
@@ -65082,6 +66758,7 @@ var inscriptions = new Map([
         "images/ARKH5-Inscription.jpg"
     ],
     "name": "ARKH5",
+    "names": "ARKH5",
     "parsedInscription": "𐘇𐘬𐘝𐘳𐘅𐄓𐄇𐝫\n𐝫𐄍\n𐘇𐘀𐘁𐙉𐄓𐝫\n𐙎𐄌\n𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
@@ -65151,6 +66828,7 @@ var inscriptions = new Map([
         "images/ARKH6-Inscription.jpg"
     ],
     "name": "ARKH6",
+    "names": "ARKH6",
     "parsedInscription": "𐘀𐘅𐘹𐄁𐙂𐝫\n𐝫𐘃𐘭𐝫\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
@@ -65196,6 +66874,7 @@ var inscriptions = new Map([
         "images/ARKH7-Inscription.jpg"
     ],
     "name": "ARKH7",
+    "names": "ARKH7",
     "parsedInscription": "𐝫\n—\n𐙜𐝂\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
@@ -65240,6 +66919,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "ARKHZb10",
+    "names": "ARKHZb10",
     "parsedInscription": "𐘞 ≈ 𐘳𐙁𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
@@ -65273,6 +66953,7 @@ var inscriptions = new Map([
         "images/ARKHZc8-Inscription.jpg"
     ],
     "name": "ARKHZc8",
+    "names": "ARKHZc8",
     "parsedInscription": "𐙚𐘳𐘧",
     "scribe": "",
     "site": "Arkhalkhori",
@@ -65300,6 +66981,7 @@ var inscriptions = new Map([
         "images/ARKHZf9-Inscription.jpg"
     ],
     "name": "ARKHZf9",
+    "names": "ARKHZf9",
     "parsedInscription": "𐘱𐘸𐘤𐘸𐘯𐄁𐘻𐘀𐙁𐘽𐄁",
     "scribe": "",
     "site": "Arkhalkhori",
@@ -65336,6 +67018,7 @@ var inscriptions = new Map([
         "images/ARMZg1-Inscription.jpg"
     ],
     "name": "ARMZg1",
+    "names": "ARMZg1",
     "parsedInscription": "𐜈",
     "scribe": "",
     "site": "Armenoi",
@@ -65363,6 +67046,7 @@ var inscriptions = new Map([
         "images/CR(?)Zf1-Inscription.jpg"
     ],
     "name": "CR(?)Zf1",
+    "names": "CR(?)Zf1",
     "parsedInscription": "𐘇𐙁𐘮𐘤𐄁𐘾𐘝𐘱𐘻𐄁𐘚𐘱𐄁𐘌𐘸𐘈𐘯𐘠𐄁𐘇𐘳𐘦",
     "scribe": "",
     "site": "Crete",
@@ -65410,6 +67094,7 @@ var inscriptions = new Map([
     "imageRightsURL": "",
     "images": [],
     "name": "CRZf5",
+    "names": "CRZf5",
     "parsedInscription": "𐘱",
     "scribe": "",
     "site": "Crete",
@@ -65437,6 +67122,7 @@ var inscriptions = new Map([
         "images/CRZg3-Inscription.jpg"
     ],
     "name": "CRZg3",
+    "names": "CRZg3",
     "parsedInscription": "𐙍𐝫 ≈ 𐘝 ≈ 𐛿",
     "scribe": "",
     "site": "Crete",
@@ -65476,6 +67162,7 @@ var inscriptions = new Map([
         "images/CRZg4-Inscription.jpg"
     ],
     "name": "CRZg4",
+    "names": "CRZg4",
     "parsedInscription": "𐘚𐘀𐘀\n𐘇𐘁𐘃",
     "scribe": "",
     "site": "Crete",
@@ -65507,6 +67194,7 @@ var inscriptions = new Map([
         "images/FOZc1-Inscription.jpg"
     ],
     "name": "FOZc1",
+    "names": "FOZc1",
     "parsedInscription": "𐙚𐘳𐘧",
     "scribe": "",
     "site": "Fourni",
@@ -65534,6 +67222,7 @@ var inscriptions = new Map([
         "images/GO2r-Inscription.jpg"
     ],
     "name": "GO2r",
+    "names": "GO2r",
     "parsedInscription": "𐝫\n𐘤𐝫\n𐘾𐝄\n𐘤𐄈\n𐘀𐝫\n𐘤𐘀𐘁𐝃𐝫\n𐝫𐘈𐝫\n𐝫",
     "scribe": "",
     "site": "Gournia",
@@ -65612,6 +67301,7 @@ var inscriptions = new Map([
         "images/GO2v-Inscription.jpg"
     ],
     "name": "GO2v",
+    "names": "GO2v",
     "parsedInscription": "𐝫\n𐝫𐄇𐝄\n𐘀𐝫\n𐘙𐄇𐝫\n𐘈𐘤𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Gournia",
@@ -65681,6 +67371,7 @@ var inscriptions = new Map([
         "images/GOWc1a-Inscription.jpg"
     ],
     "name": "GOWc1a",
+    "names": "GOWc1a",
     "parsedInscription": "𐘇𐘞𐘲𐙁𐘚𐘈",
     "scribe": "",
     "site": "Gournia",
@@ -65708,6 +67399,7 @@ var inscriptions = new Map([
         "images/GOWc1b-Inscription.jpg"
     ],
     "name": "GOWc1b",
+    "names": "GOWc1b",
     "parsedInscription": "𐘖𐄋",
     "scribe": "",
     "site": "Gournia",
@@ -65738,6 +67430,7 @@ var inscriptions = new Map([
         "images/GOWc3-Inscription.jpg"
     ],
     "name": "GOWc3",
+    "names": "GOWc3",
     "parsedInscription": "𐝬𐄑,𐄈",
     "scribe": "",
     "site": "Gournia",
@@ -65768,6 +67461,7 @@ var inscriptions = new Map([
         "images/HSZg1-Inscription.jpg"
     ],
     "name": "HSZg1",
+    "names": "HSZg1",
     "parsedInscription": "𐘇𐙁",
     "scribe": "",
     "site": "Haghios Stehanos",
@@ -65795,6 +67489,7 @@ var inscriptions = new Map([
         "images/MILZb2-Inscription.jpg"
     ],
     "name": "MILZb2",
+    "names": "MILZb2",
     "parsedInscription": "𐘰𐘜𐝫",
     "scribe": "",
     "site": "Miletos",
@@ -65822,6 +67517,7 @@ var inscriptions = new Map([
         "images/MILZb3-Inscription.jpg"
     ],
     "name": "MILZb3",
+    "names": "MILZb3",
     "parsedInscription": "𐝫𐘤𐘃𐝫",
     "scribe": "",
     "site": "Miletos",
@@ -65849,6 +67545,7 @@ var inscriptions = new Map([
         "images/MILZb4-Inscription.jpg"
     ],
     "name": "MILZb4",
+    "names": "MILZb4",
     "parsedInscription": "𐝫𐘙𐙅𐝫",
     "scribe": "",
     "site": "Miletos",
@@ -65876,6 +67573,7 @@ var inscriptions = new Map([
         "images/KH102-Inscription.jpg"
     ],
     "name": "KH102",
+    "names": "KH102",
     "parsedInscription": "𐝫𐘇𐘻𐝫",
     "scribe": "",
     "site": "Khania",
@@ -65891,6 +67589,26 @@ var inscriptions = new Map([
         "𐘇𐘻"
     ]
 }],
+["KNsceau",{
+    "context": "",
+    "facsimileImages": [
+        "images/KNsceau-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [],
+    "name": "KNsceau",
+    "names": "KNsceau",
+    "parsedInscription": "",
+    "scribe": "",
+    "site": "Knossos",
+    "support": "Tablet",
+    "transcription": "",
+    "translatedWords": [],
+    "transliteratedWords": [],
+    "words": []
+}],
 ["KE6",{
     "context": "",
     "facsimileImages": [
@@ -65903,6 +67621,7 @@ var inscriptions = new Map([
         "images/KE6-Inscription.jpg"
     ],
     "name": "KE6",
+    "names": "KE6",
     "parsedInscription": "",
     "scribe": "",
     "site": "Kea",
@@ -65924,6 +67643,7 @@ var inscriptions = new Map([
         "images/KH101-Inscription.jpg"
     ],
     "name": "KH101",
+    "names": "KH101",
     "parsedInscription": "𐝫𐄒𐄈𐙗𐝫\n𐝫𐝕𐝫",
     "scribe": "",
     "site": "Khania",
@@ -65960,6 +67680,7 @@ var inscriptions = new Map([
         "images/KH103-Inscription.jpg"
     ],
     "name": "KH103",
+    "names": "KH103",
     "parsedInscription": "𐙖𐄐𐄇𐝫\n𐙖𐘱𐝫𐄇𐙖𐘳𐄎𐝫𐘝\n𐙗𐄑𐄉𐝫𐙍",
     "scribe": "",
     "site": "Khania",
@@ -66020,6 +67741,7 @@ var inscriptions = new Map([
         "images/KNWa51-Inscription.jpg"
     ],
     "name": "KNWa51",
+    "names": "KNWa51",
     "parsedInscription": "𐘻",
     "scribe": "",
     "site": "Knossos",
@@ -66047,6 +67769,7 @@ var inscriptions = new Map([
         "images/THEZb6-Inscription.jpg"
     ],
     "name": "THEZb6",
+    "names": "THEZb6",
     "parsedInscription": "𐘇𐘳𐘅𐘧",
     "scribe": "",
     "site": "Thera",
@@ -66074,6 +67797,7 @@ var inscriptions = new Map([
         "images/PHWa52-Inscription.jpg"
     ],
     "name": "PHWa52",
+    "names": "PHWa52",
     "parsedInscription": "𐙍",
     "scribe": "",
     "site": "Phaistos",
@@ -66101,6 +67825,7 @@ var inscriptions = new Map([
         "images/DRAZg1-Inscription.jpg"
     ],
     "name": "DRAZg1",
+    "names": "DRAZg1",
     "parsedInscription": "𐘀𐘬𐙕𐝫",
     "scribe": "",
     "site": "",
@@ -66128,6 +67853,7 @@ var inscriptions = new Map([
         "images/INZb1-Inscription.jpg"
     ],
     "name": "INZb1",
+    "names": "INZb1",
     "parsedInscription": "𐘯𐘁",
     "scribe": "",
     "site": "",
@@ -66155,6 +67881,7 @@ var inscriptions = new Map([
         "images/PKZa27-Inscription.jpg"
     ],
     "name": "PKZa27",
+    "names": "PKZa27",
     "parsedInscription": "𐘱𐘞𐘞𐘴𐘋\n𐘉𐘅𐘾𐘅𐘤",
     "scribe": "",
     "site": "Palaikastro",
@@ -66188,6 +67915,7 @@ var inscriptions = new Map([
         "images/HTZf(HM767)-Inscription.jpg"
     ],
     "name": "HTZf(HM767)",
+    "names": "HTZf(HM767)",
     "parsedInscription": "𐘠𐙁",
     "scribe": "",
     "site": "Haghia Triada",
@@ -66215,6 +67943,7 @@ var inscriptions = new Map([
         "images/ZO1-Inscription.jpg"
     ],
     "name": "ZO1",
+    "names": "ZO1",
     "parsedInscription": "𐚩𐄚𐄐𐄍",
     "scribe": "",
     "site": "Zominthos",
@@ -66243,6 +67972,7 @@ var inscriptions = new Map([
         "images/ZOZa1-Inscription.jpg"
     ],
     "name": "ZOZa1",
+    "names": "ZOZa1",
     "parsedInscription": "",
     "scribe": "",
     "site": "Zominthos",
@@ -66264,6 +67994,7 @@ var inscriptions = new Map([
         "images/LACHZa1-Inscription.jpg"
     ],
     "name": "LACHZa1",
+    "names": "LACHZa1",
     "parsedInscription": "𐘻𐄁𐘭𐘀𐘉𐄁𐘈𐝕",
     "scribe": "",
     "site": "Larani",
@@ -66303,6 +68034,7 @@ var inscriptions = new Map([
         "images/PH54-Inscription.jpg"
     ],
     "name": "PH54",
+    "names": "PH54",
     "parsedInscription": "𐘚𐘞𐘭𐘥𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
