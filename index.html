@@ -1668,7 +1668,6 @@ redirect_from:
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="manifest" href="manifest.json">
 <link rel="stylesheet" href="Aegean.css"/>
 <link rel="stylesheet" href="explorer.css"/>
 <link rel="icon" type="image/x-icon" href="icons/archer.png" id="icon">
@@ -1770,7 +1769,7 @@ redirect_from:
       <div class="filter-command" id="wordtags-command">W</div>
       <div class="filter-label">Word Types</div>
     </div>
-    <div class="filter-command-container">
+    <div class="filter-command-container" style="display:none;">
       <div class="filter-command" id="contexts-command">&#x29D6;</div>
       <div class="filter-label">Contexts</div>
     </div>
@@ -1778,37 +1777,26 @@ redirect_from:
       <div class="filter-command" id="tags-command">𐘝</div>
       <div class="filter-label">Tags</div>
     </div>
-    <div class="filter-command-container">
+    <div class="filter-command-container" style="display:none;">
       <div class="filter-command" id="scribes-command">𐙇</div>
       <div class="filter-label">Scribes</div>
     </div>
-    <div class="filter-command-container">
+    <div class="filter-command-container" style="display:none;">
       <div class="filter-command" id="supports-command">𐘱</div>
       <div class="filter-label">Supports</div>
     </div>
-    <!---
     <div class="filter-command-container">
-      <div class="filter-command" id="word-command" onclick="sendKey(event, 'w')">&#x1f4c8;</div>
+      <div class="filter-command" id="word-command">&#x1f4c8;</div>
       <div class="filter-label">Frequency</div>
     </div>
-    -->
-    <div class="filter-command-container">
+    <div class="filter-command-container" style="display:none;">
       <div class="filter-command" id="findspots-command">&#x2302;</div>
       <div class="filter-label">Findspots</div>
     </div>
-    <div class="filter-command-container">
+    <div class="filter-command-container" style="display:none;">
       <div class="filter-command" id="findsites-command">&#x1f4cd;</div>
       <div class="filter-label">Sites</div>
     </div>
-    <!---
-    <div class="filter-command-container">
-      <div class="filter-command" style="position:relative" id="translate-command" onclick="sendKey(event, 't')">
-        <span style="position: absolute; top: -10%; left: 25%;">𐘇</span>
-        <span style="position: absolute; bottom: -10%; right: 25%;">A</span>
-      </div>
-      <div class="filter-label">Translate</div>
-    </div>
-    -->
     <div class="filter-command-container">
       <div class="filter-command" id="search-command">&#128269;</div>
       <div class="filter-label">Search</div>

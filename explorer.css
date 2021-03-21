@@ -660,8 +660,8 @@ area {
   border-radius: 3px;
   color: white;
   opacity: 0.8;
-  font-size: 0.7em;
-  line-height: 0.7em;
+  font-size: 1vh;
+  line-height: 1vh;
   background-color: black;
   float: left;
   margin: 5px;

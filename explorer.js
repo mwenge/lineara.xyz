@@ -188,6 +188,7 @@ function autocomplete(inp) {
                      [x => x.support, "Support"],
                      [x => x.scribe, "Scribe"],
                      [x => x.context, "Context"],
+                     [x => periodNames.has(x.context) ? periodNames.get(x.context) : "", "Context"],
                      [x => x.findspot, "Findspot"],
                     ];
   searchTypes.forEach( hint => {
@@ -1524,6 +1525,7 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
         inscription.transcription.includes(searchTerm) ||
         inscription.site.includes(searchTerm) ||
         inscription.context.includes(searchTerm) ||
+        (contexts.has(inscription.name) && contexts.get(inscription.name).includes(searchTerm)) ||
         inscription.scribe.includes(searchTerm) ||
         inscription.findspot.includes(searchTerm) ||
         inscription.words.includes(searchTerm) ||
@@ -2059,6 +2061,7 @@ function loadExplorer() {
 
   document.getElementById("search-command").addEventListener("click", toggleSearch);
   document.getElementById("help-command").addEventListener("click", sendKey('?'));
+  document.getElementById("word-command").addEventListener("click", sendKey('w'));
   document.getElementById("clear-command").addEventListener("click", sendKey('c'));
   autocomplete(document.getElementById("search"));
 
