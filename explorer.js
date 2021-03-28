@@ -1046,9 +1046,10 @@ function loadInscription(inscription, container = document.getElementById("conta
       var label = document.createElement("div");
       label.className = 'tag';
       if (!tagColors[tag]) {
-        tagColors[tag] = cycleColor(); 
+        tagColors[tag] = cycleColorInt(); 
       }
-      label.style.backgroundColor = tagColors[tag];
+      label.style.backgroundColor = "rgba(" + tagColors[tag][0] + ", " + tagColors[tag][1] + ", " + tagColors[tag][2] + ", 0.5)";
+      label.style.borderColor = "rgba(" + tagColors[tag][0] + ", " + tagColors[tag][1] + ", " + tagColors[tag][2] + ")";
       label.textContent = tag;
       if (consoleButtons.has(activeMetadataName)) {
         label.addEventListener("click", consoleButtons.get(activeMetadataName).toggleMetadatum(tag));

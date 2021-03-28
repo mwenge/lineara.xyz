@@ -13,6 +13,18 @@ function toggleColor(element) {
   element.style.backgroundColor = color == "purple" ? "black" : "purple";
 }
 
+var cycleColorInt = (function () {
+  var frequency = .6;
+  var i = 0;
+  return function () {
+    i++;
+    var red   = Math.round(Math.sin(frequency*i + 0) * 55 + 200);
+    var green = Math.round(Math.sin(frequency*i + 2) * 55 + 200);
+    var blue  = Math.round(Math.sin(frequency*i + 4) * 55 + 200);
+    return [red, green, blue];
+  }
+})();
+
 var cycleColor = (function () {
   var frequency = .6;
   var i = 0;
