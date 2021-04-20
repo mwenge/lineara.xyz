@@ -1727,6 +1727,7 @@ function applySearchTerms() {
 
     var newElement = loadInscription(inscription);
     observer.observe(inscription.element);
+
     if (!newElement) {
       inscription.element.style.display = "flex";
     }
@@ -1791,6 +1792,7 @@ function shuffleImagesToFront(array) {
 
 // Shuffle the inscriptions so we display a different group at the top every time
 var inscriptionsToLoad = shuffleImagesToFront(Array.from(inscriptions.keys()))[Symbol.iterator]();
+
 // create config object: rootMargin and threshold
 // are two properties exposed by the interface
 const config = {
