@@ -1519,6 +1519,7 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
   if (!fullWordMatch) {
     var containsRegEx = inscription.translatedWords.filter(word => re.test(word)).length > 0;
     containsRegEx |= inscription.transliteratedWords.filter(word => re.test(word)).length > 0;
+    containsRegEx |= inscription.words.filter(word => re.test(word)).length > 0;
     var containsTerm = inscription.translatedWords.filter(word => word.includes(searchTerm)).length > 0;
     containsTerm |= inscription.transliteratedWords.filter(word => word.includes(searchTerm)).length > 0;
     containsTerm |= inscription.names.filter(word => word.includes(searchTerm)).length > 0;
