@@ -58749,7 +58749,9 @@ var inscriptions = new Map([
 }],
 ["MIZb3",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/MIZb3-Facsimile.jpg"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
