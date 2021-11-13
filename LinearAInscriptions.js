@@ -64465,10 +64465,13 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/THEfr.1-Inscription.jpg"
+    ],
     "name": "THEfr.1",
     "names": [
-        "THEfr.1"
+        "THEfr.1",
+        "THE10"
     ],
     "parsedInscription": "𐝫𐘸𐝫",
     "scribe": "",
@@ -64491,10 +64494,13 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/THEfr.2-Inscription.jpg"
+    ],
     "name": "THEfr.2",
     "names": [
-        "THEfr.2"
+        "THEfr.2",
+        "THE11"
     ],
     "parsedInscription": "𐝫𐙖𐝫",
     "scribe": "",
@@ -64517,10 +64523,13 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/THEfr.3-Inscription.jpg"
+    ],
     "name": "THEfr.3",
     "names": [
-        "THEfr.3"
+        "THEfr.3",
+        "THE12"
     ],
     "parsedInscription": "𐝫𐙖𐝫",
     "scribe": "",
