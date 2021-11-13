@@ -17432,7 +17432,9 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTW231a-Inscription.jpg"
+    ],
     "name": "HTW231a",
     "names": [
         "HTW231a"
@@ -17458,7 +17460,9 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTW231b-Inscription.jpg"
+    ],
     "name": "HTW231b",
     "names": [
         "HTW231b"
@@ -17484,7 +17488,9 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTW231c-Inscription.jpg"
+    ],
     "name": "HTW231c",
     "names": [
         "HTW231c"
