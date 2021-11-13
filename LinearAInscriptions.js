@@ -64548,7 +64548,8 @@ var inscriptions = new Map([
     ],
     "name": "THEtab.4",
     "names": [
-        "THEtab.4"
+        "THEtab.4",
+        "THE7"
     ],
     "parsedInscription": "𐝫𐘒𐄍𐝫\n𐝫𐘒𐄓𐄌𐝫",
     "scribe": "",
@@ -64588,7 +64589,8 @@ var inscriptions = new Map([
     ],
     "name": "THEtab.5",
     "names": [
-        "THEtab.5"
+        "THEtab.5",
+        "THE9"
     ],
     "parsedInscription": "𐝫𐄁𐘃𐘋𐘀𐘚𐝫",
     "scribe": "",
@@ -64619,7 +64621,8 @@ var inscriptions = new Map([
     ],
     "name": "THEtab.6",
     "names": [
-        "THEtab.6"
+        "THEtab.6",
+        "THE8"
     ],
     "parsedInscription": "𐝫𐄐𐝫\n𐝫𐝡𐝫𐄚𐝫",
     "scribe": "",
