@@ -73,7 +73,7 @@ body {
   background-color: #f5f5f0;
 }
 .search {
-  font-family: 'Noto Mono', serif;
+  font-family: 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
   display: inline-block;
   font-size: 4vh;
   border: none;
