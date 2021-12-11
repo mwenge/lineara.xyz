@@ -11,14 +11,14 @@
   src: url(NotoSansLinearA-LinearB.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Noto Emoji';
-  font-style: normal;
-  font-weight: 400;
-  src: url(NotoEmojiRegular.ttf) format('truetype');
-}
-@font-face {
   font-family: 'Noto Mono';
   font-style: normal;
   font-weight: 400;
   src: url(NotoMono-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(NotoSansSymbols2-Regular.ttf) format('truetype');
 }
