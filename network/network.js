@@ -1,22 +1,30 @@
 var zip = (...rows) => [...rows[0]].map((_,c) => rows.map(row => row[c]));
 
 function createNodes() {
-  // Add senders and recipients
+  // Create a list of senders and recipients of the form:
+  // [{ group: "HT", label: "P-AI-TO"}]
+  // First add the senders/recipients from the words in the tablets.
 	var masterList =  transactions.map(x => x.words).flat()
     .map(x => ["sender", "recipient"].includes(x.description) ?
       ({ group : x.transactionID.substring(0, 2), label: x.transliteratedWord }) : "");
+  // Then add the senders/recipients implicit in tablet, e.g. the magazines.
 	masterList = masterList.concat(transactions.map(x => x.transactions).flat()
     .map(x => ["sender", "recipient"].includes(x.description) ?
       ({ group : x.transactionID.substring(0, 2), label: x.transliteratedWord }) : ""));
 
+  // Create a list of unique nodes
   var nodeList = masterList.map(x => x.label)
     .filter((v, i, a) => v != undefined && a.indexOf(v) === i);
 
+  // A lookup table for entities to their group, e.g. HT113 is in group HT.
   var groupForNode =  new Map(masterList.map(x => [x.label, x.group]));
 
+  // Create an array of type: [{ id: 1, label: "P-AI-TO", group: "HT" }]
+  // This is our final list of nodes.
   var nodes = zip(nodeList, [...Array(nodeList.length).keys()])
     .map(function(x) { return { 'id' : x[1], 'label' : x[0], 'group': groupForNode.get(x[0]) }});
 
+  // Create a lookup Map for label to id.
   var nodeLookup =  new Map(nodes.map(x => [x.label, x.id]));
   return { nodes: nodes, nodeLookup: nodeLookup};
 }
