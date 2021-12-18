@@ -126,3 +126,13 @@ div.outerBorder {
   min-height: 350px;
   max-height: 350px;
 }
+#search-container {
+  position: fixed;
+  bottom: 10vh;
+  right: 2vh;
+  left: auto;
+  transform: none;
+  visibility: visible;
+  z-index: 1500;
+  font-size: 1vh;
+}

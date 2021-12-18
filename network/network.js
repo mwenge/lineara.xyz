@@ -26,7 +26,8 @@ function createNodes() {
 
   // Create a lookup Map for label to id.
   var nodeLookup =  new Map(nodes.map(x => [x.label, x.id]));
-  return { nodes: nodes, nodeLookup: nodeLookup};
+  var nodeIDLookup =  new Map(nodes.map(x => [x.id, x.label]));
+  return { nodes: nodes, nodeLookup: nodeLookup, nodeIDLookup: nodeIDLookup};
 }
 
 function createEdges(nodeLookup) {
@@ -114,9 +115,6 @@ function createEdges(nodeLookup) {
 
   var edges = [];
   for (var x of Array.from(normalizedTransactions.values())) {
-    if (x.title == "HT8b") {
-      console.log(x);
-    }
     if (!x.commodities) {
       edges.push({
         from: x.from, 
@@ -142,7 +140,30 @@ function createEdges(nodeLookup) {
     }
   }
 
-  return edges;
+  return edges.filter(e => e.label != undefined);
+}
+
+function filterNodesAndEdges(nodes, edges, nodeLookup) {
+  if (!searchTerms.length) {
+    return { nodes: nodes, edges: edges };
+  }
+  // Get all the edges that either match a search term or have a
+  // node that matches the search term.
+  var matchingEdges = edges.filter(v => {
+    return searchTerms.some(x => {
+      var f = nodeLookup.get(x.toUpperCase());
+      if (f == undefined) f = -1;
+      return (v.from == f || v.to == f || v.label.includes(x))
+    });
+  });
+  console.log(matchingEdges);
+  var matchingNodeIDs = matchingEdges.map(e => [e.from, e.to]).flat()
+    .filter((v, i, a) => v != undefined && a.indexOf(v) === i);
+
+  var matchingNodes = nodes.filter(x => matchingNodeIDs.includes(x.id));
+  // Create an array of type: [{ id: 1, label: "P-AI-TO", group: "HT" }]
+  // This is our final list of nodes.
+  return { nodes: matchingNodes, edges: matchingEdges };
 }
 
 function draw() {
@@ -151,13 +172,13 @@ function draw() {
   var nodes = nodeInfo.nodes;
   var nodeLookup = nodeInfo.nodeLookup;
   var edges = createEdges(nodeLookup);
-  console.log(nodes);
+  var filtered = filterNodesAndEdges(nodes, edges, nodeLookup);
 
   // create a network
   var container = document.getElementById("mynetwork");
   var data = {
-    nodes: nodes,
-    edges: edges
+    nodes: filtered.nodes,
+    edges: filtered.edges
   };
   var options = {
     edges: {
@@ -246,7 +267,6 @@ function draw() {
   function showTablet(params) {
     // find corresponding edge
     var edge = getEdge(params.edge);
-    console.log(edge);
     var inscription = edge.inscription;
     if (!inscription) {
       return;
@@ -304,3 +324,15 @@ window.addEventListener("load", () => {
   draw();
 });
 
+autocomplete(document.getElementById("search"), false /*useGlyphs*/);
+showSearch();
+var searchTerms = [];
+function applySearchTerms() {
+  console.log("dummy");
+  var searchTermEl = document.getElementById("search-terms");
+  var numberOfSearchTerms = searchTermEl.children.length;
+  searchTerms = Array.prototype.slice.call(searchTermEl.children)
+                         .map(x => stripErased(x.textContent));
+  console.log("dummy", searchTerms);
+  draw();
+}

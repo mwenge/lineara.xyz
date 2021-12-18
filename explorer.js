@@ -159,9 +159,9 @@ function hideSearch() {
 
 function showSearch() {
   var element = (document.getElementById("search-command"));
-  element.style.backgroundColor = "purple";
+  if (element) element.style.backgroundColor = "purple";
   var container = document.getElementById("filter-details-container");
-  container.innerHTML = "";
+  if (container) container.innerHTML = "";
 
   search.style.visibility = "visible";
   search.value = '';
@@ -174,7 +174,7 @@ function showSearch() {
   }); 
 }
 
-function autocomplete(inp) {
+function autocomplete(inp, useGlyphs = true) {
   /*the autocomplete function takes two arguments,
     the text field element and an array of possible autocompleted values:*/
   var currentFocus;
@@ -196,7 +196,6 @@ function autocomplete(inp) {
     let zippedHints = zip(hints, Array(hints.length).fill(hint[1]));
     searchHints = searchHints.concat(zippedHints);
   });
-  console.log(searchHints);
 
 
   /*execute a function when someone writes in the text field:*/
@@ -284,7 +283,7 @@ function autocomplete(inp) {
       }
 
       /*insert a input field that will hold the current array item's value:*/
-      b.innerHTML += "<input type='hidden' value='" + key  + "'>";
+      b.innerHTML += "<input type='hidden' value='" + (useGlyphs ? key : (glyphsInText.length ? glyphsInText : key))  + "'>";
       /*execute a function when someone clicks on the item value (DIV element):*/
       b.addEventListener("click", function(e) {
         /*insert the value for the autocomplete text field:*/
@@ -1680,12 +1679,17 @@ function applySearchTerms() {
   var numberOfSearchTerms = searchTerms.children.length;
   var searchTermValues = Array.prototype.slice.call(searchTerms.children)
                          .map(x => stripErased(x.textContent));
-  var numberOfTags = activeTags.length + consoleButtons.get('activeWordTags').currentActiveTags().length;
+  console.log(searchTermValues);
+  var activeWordTags = consoleButtons.get('activeWordTags');
+  var currentActiveTags = activeWordTags ? activeWordTags.currentActiveTags() : [];
+  var numberOfTags = activeTags.length + currentActiveTags.length;
   var hasSearchTerm = (numberOfSearchTerms + numberOfTags > 0)
-  if (!hasSearchTerm) {
-    document.getElementById("clear-command").style.backgroundColor = "black";
-  } else {
-    document.getElementById("clear-command").style.backgroundColor = "purple";
+  if (document.getElementById("clear-command")) {
+    if (!hasSearchTerm) {
+      document.getElementById("clear-command").style.backgroundColor = "black";
+    } else {
+      document.getElementById("clear-command").style.backgroundColor = "purple";
+    }
   }
   clearHighlights();
 
@@ -1714,7 +1718,7 @@ function applySearchTerms() {
       }
     });
 
-    var shouldHighlightWordTags = hasWordTagCombination(inscription.wordTags, consoleButtons.get('activeWordTags').currentActiveTags());
+    var shouldHighlightWordTags = hasWordTagCombination(inscription.wordTags, currentActiveTags);
     if (shouldHighlightWordTags) {
       shouldDisplay = true;
     }
@@ -1747,7 +1751,7 @@ function applySearchTerms() {
     }
 
     if (shouldHighlightWordTags) {
-      highlightMatchingWordTags(inscription, inscription.wordTags, consoleButtons.get('activeWordTags').currentActiveTags());
+      highlightMatchingWordTags(inscription, inscription.wordTags, currentActiveTags);
     }
   }
   focusSearch();
@@ -2152,7 +2156,6 @@ window.onload = function() {
     if (!search) {
       return false;
     }
-    console.log("found search");
     updateSearchTerms(search)();
     return true;
   }

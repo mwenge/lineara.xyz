@@ -1,5 +1,12 @@
 <link rel="stylesheet" href="../explorer.css"/>
 <link rel="stylesheet" href="Aegean.css"/>
+<style>
+  body {
+    font-family: 'Merriweather', 'Noto Symbols', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
+    font-size: 18px;
+    margin: 0px;
+  }
+</style>
 <link rel="stylesheet" href="network.css"/>
 <div id="wrapper">
   <div id="mynetwork"></div>
@@ -15,13 +22,19 @@
     </div>
   </div>
 </div>
+<div id="top-right-console" class="top-right-console">
+  <div class="sort-status" id="sort-status" onclick="resetSort(event)"></div>
+  <div class="search-terms" id="search-terms"></div>
+</div>
 <div class="label image-label copyright-label" id="credits">
   <div>Use mouse-wheel to zoom in and out.</div>
   <div>Hover over lines to view source inscription.</div>
 </div>
+<div id="search-container">
+  <input class="search" id="search" autocomplete="off"></input>
+</div>
 <script src="vis-network.min.js"></script>
 <script src="transactions.js"></script>
-<script src="network.js"></script>
 <script src="commodities.js"></script>
 <script src="../html2canvas.min.js"></script>
 <script src="../LinearAInscriptions.js"></script>
@@ -31,3 +44,4 @@
 <script src="../grapheme.js"></script>
 <script src="../utils.js"></script>
 <script src="../explorer.js"></script>
+<script src="network.js"></script>
