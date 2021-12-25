@@ -236,6 +236,12 @@ function draw() {
 
   network.on("hoverEdge", showTablet);
   network.on("blurEdge", resetColors);
+  network.on("selectNode", addNodeToFilter);
+
+  function addNodeToFilter(params) {
+    let nodeName = nodeInfo.nodeIDLookup.get(params.nodes[0]);
+    updateSearchTerms(nodeName)();
+  }
 
   function getEdge(id) {
     for (var e of edges) {
