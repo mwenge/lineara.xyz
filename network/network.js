@@ -156,7 +156,6 @@ function filterNodesAndEdges(nodes, edges, nodeLookup) {
       return (v.from == f || v.to == f || v.label.includes(x))
     });
   });
-  console.log(matchingEdges);
   var matchingNodeIDs = matchingEdges.map(e => [e.from, e.to]).flat()
     .filter((v, i, a) => v != undefined && a.indexOf(v) === i);
 
@@ -328,11 +327,9 @@ autocomplete(document.getElementById("search"), false /*useGlyphs*/);
 showSearch();
 var searchTerms = [];
 function applySearchTerms() {
-  console.log("dummy");
   var searchTermEl = document.getElementById("search-terms");
   var numberOfSearchTerms = searchTermEl.children.length;
   searchTerms = Array.prototype.slice.call(searchTermEl.children)
                          .map(x => stripErased(x.textContent));
-  console.log("dummy", searchTerms);
   draw();
 }
