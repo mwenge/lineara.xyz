@@ -18,6 +18,22 @@ body {
   border-radius: 10px;
   box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
 }
+.scribeview-concordance-item-wrapper {
+  margin: 10px;
+  min-width: 150px;
+  border-radius: 10px;
+  box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
+  padding: 20px;
+  font-family: Times New Roman;
+}
+.scribeview-concordance-item-container {
+  max-width: 800px;
+  display: inline-block;
+  grid-template-columns: repeat(auto-fill, 60px);
+  padding: 10px;
+  box-sizing: border-box;
+  grid-gap: 1px;
+}
 .concordance-item-wrapper {
   float: left;
   margin: 10px;
@@ -40,6 +56,12 @@ body {
   grid-template-columns: repeat(5, 1fr);
 }
 .inscription-container {
+  padding: 5px;
+  background-color: white;
+  box-shadow:0 0 0 1px black;
+}
+.scribeview-inscription-container {
+  display: inline-block;
   padding: 5px;
   background-color: white;
   box-shadow:0 0 0 1px black;

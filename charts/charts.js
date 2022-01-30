@@ -292,6 +292,104 @@ function addLetterImagesToChart(img, image, inscription, container) {
   };
 }
 
+function addLetterImagesToScribeChart(img, image, inscription, container) {
+  return function (e) {
+    if (!coordinates.has(image)) {
+      return;
+    }
+    // We're no longer displaying letters, abort.
+    if (container.type != "scribe") {
+      return;
+    }
+    var scribe = (inscription.scribe != '') ? inscription.scribe : inscription.name;
+    if (!scribesAndMultipleGlyphs.has(scribe)) {
+      return;
+    }
+    let multipleGlyphs = scribesAndMultipleGlyphs.get(scribe);
+    var imageCoords = coordinates.get(image);
+    var imagesToCache = [];
+
+    var item = null;
+    var span = null;
+    var letters = lettersWithImages(inscription.parsedInscription);
+    for (var i = 0; i < imageCoords.length; i++) {
+      var area = imageCoords[i].coords;
+      var word = letters[i];
+      if (!multipleGlyphs.includes(word)) {
+        continue;
+      }
+
+      if (word == "—" || word == '') {
+        continue;
+      }
+  
+      var scribeContainer = document.getElementById(scribe);
+      if (!scribeContainer) {
+        var scribeContainer = document.createElement("div");
+        scribeContainer.className = 'concordance-item-wrapper';
+        scribeContainer.id = scribe;
+        container.appendChild(scribeContainer);
+
+        var label = document.createElement("div");
+        label.className = "concordance-container-label";
+        label.textContent = scribe;
+        scribeContainer.appendChild(label);
+        
+      }
+
+      var wordInScribe = word + '-' + scribe;
+      var wordInScribeContainer = document.getElementById(wordInScribe);
+      if (!wordInScribeContainer) {
+        var d1  = document.createElement("div");
+        d1.className = 'scribeview-concordance-item-container';
+        scribeContainer.appendChild(d1);
+        var wordInScribeContainer = document.createElement("div");
+        wordInScribeContainer.className = 'scribeview-concordance-item-container';
+        wordInScribeContainer.id = wordInScribe
+        wordInScribeContainer.name = wordInScribe;
+        d1.appendChild(wordInScribeContainer);
+
+        var label = document.createElement("div");
+        label.className = "concordance-container-label";
+        label.textContent = word;
+        d1.appendChild(label);
+
+
+      }
+
+      var d1 = document.createElement("div");
+      d1.className = "scribeview-inscription-container";
+
+      var imageContainer = document.createElement("div");
+      imageContainer.className = "concordance-item";
+      d1.appendChild(imageContainer);
+
+      var span = document.createElement("div");
+      span.className = "concordance-label";
+      span.textContent = inscription.name;
+      d1.appendChild(span);
+
+      wordInScribeContainer.appendChild(d1);
+      
+      span = document.createElement("span");
+      imageContainer.appendChild(span);
+
+      var canvas = document.createElement('canvas');
+      var w = area.width;
+      var h = area.height;
+      if (h > w) {
+        canvas.height = 50;
+        canvas.width = 50 * w / h;
+      } else {
+        canvas.width = 50;
+        canvas.height = 50 * h / w;
+      }
+      var ctx = canvas.getContext('2d', {alpha: false});
+      ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
+      span.appendChild(canvas);
+    }
+  };
+}
 function addWordImagesToChart(img, image, inscription, type, container) {
   return function (e) {
     if (!coordinates.has(image)) {
@@ -391,6 +489,8 @@ function loadWords(inscription, type, container) {
     img.src = "../" + encodeURIComponent(image);
     if (["word", "number", "ideogram"].includes(type)) {
       img.addEventListener("load", addWordImagesToChart(img, image, inscription, type, container));
+    } else if (["scribe"].includes(type)) {
+      img.addEventListener("load", addLetterImagesToScribeChart(img, image, inscription, container));
     } else if (["letter"].includes(type)) {
       img.addEventListener("load", addLetterImagesToChart(img, image, inscription, container));
     }
@@ -439,8 +539,42 @@ var toggleFacsimiles = function(e) {
     e.target.style.backgroundColor = e.target.style.backgroundColor == "black" ? "purple" : "black"; 
 };
 
+function getAllScribes() {
+  function getLetters(parsedInscription) {
+    var splitter = new GraphemeSplitter();
+    var letters = stripErased(parsedInscription);
+    letters = letters.replace(/\n/gu, "");
+    letters = letters.replace(/𐄁/gu, "");
+    return splitter.splitGraphemes(letters);
+  }
+  let scribes = new Map();
+  for (var inscription of inscriptions.values()) {
+    let name = inscription.name.replace(/[a-z]$/g, "");
+    let scribe = (inscription.scribe != '') ? inscription.scribe : name;
+    let parsedInscription = getLetters(inscription.parsedInscription);
+    if (scribes.has(scribe)) {
+      let ins = scribes.get(scribe);
+      ins = ins.concat(Array.from(parsedInscription));
+      scribes.set(scribe, ins);
+    } else {
+      scribes.set(scribe, Array.from(parsedInscription));
+    }
+  }
+  let multipleLetters = new Map();
+  scribes.forEach((v,k) => {
+    let duplicates = v.filter((v, i, a) => a.indexOf(v) != i).filter((v, i, a) => a.indexOf(v) === i);
+    if (duplicates.length) {
+      multipleLetters.set(k, duplicates);
+    }
+  });
+  return multipleLetters;
+}
+
 var filterDetailsContainer = null;
 var activeTags = [];
+let scribesAndMultipleGlyphs = getAllScribes();
+console.log(scribesAndMultipleGlyphs);
+
 function initializeChart() {
   var supports = [];
   var scribes = [];
@@ -451,9 +585,9 @@ function initializeChart() {
 
   filterDetailsContainer = document.getElementById("chart-filter-details-container");
 
-  container.type = "letter";
+  container.type = "scribe";
   for (var inscription of inscriptions.values()) {
-    loadWords(inscription, "letter", container);
+    loadWords(inscription, "scribe", container);
   }
 
   function loadInscriptionLevelTags() {
