@@ -26,7 +26,7 @@ var inscriptions = new Map([
         "\"owed\"",
         "197",
         "\n",
-        "*79-SU",
+        "ZU-SU",
         "70",
         "\n",
         "DI-DI-ZA-KE",
@@ -45,7 +45,7 @@ var inscriptions = new Map([
         "KI-RO",
         "197",
         "\n",
-        "*79-SU",
+        "ZU-SU",
         "70",
         "\n",
         "DI-DI-ZA-KE",
@@ -1557,7 +1557,7 @@ var inscriptions = new Map([
         "KA",
         "50",
         "\n",
-        "RU-*79-NA",
+        "RU-ZU-NA",
         "KA",
         "30",
         "\n",
@@ -1583,7 +1583,7 @@ var inscriptions = new Map([
         "KA",
         "50",
         "\n",
-        "RU-*79-NA",
+        "RU-ZU-NA",
         "KA",
         "30",
         "\n",
@@ -1783,7 +1783,7 @@ var inscriptions = new Map([
         "27",
         "¹⁄₂",
         "\n",
-        "Kudonija?",
+        "KU-ZU-NI",
         "18",
         "\n",
         "DA-SI-*118",
@@ -1814,7 +1814,7 @@ var inscriptions = new Map([
         "27",
         "¹⁄₂",
         "\n",
-        "KU-*79-NI",
+        "KU-ZU-NI",
         "18",
         "\n",
         "DA-SI-*118",
@@ -3010,7 +3010,7 @@ var inscriptions = new Map([
         "\n",
         "TU-QE-NU",
         "\n",
-        "*79-JU-PU₂",
+        "ZU-JU-PU₂",
         "1",
         "\n",
         "DU-RU-WI",
@@ -3042,7 +3042,7 @@ var inscriptions = new Map([
         "\n",
         "TU-QE-NU",
         "\n",
-        "*79-JU-PU₂",
+        "ZU-JU-PU₂",
         "1",
         "\n",
         "DU-RU-WI",
@@ -3272,7 +3272,7 @@ var inscriptions = new Map([
         "RO-NI",
         "3",
         "\n",
-        "KA-U-*79-NI",
+        "KA-U-ZU-NI",
         "4",
         "\n",
         "KI+MU",
@@ -3296,7 +3296,7 @@ var inscriptions = new Map([
         "RO-NI",
         "3",
         "\n",
-        "KA-U-*79-NI",
+        "KA-U-ZU-NI",
         "4",
         "\n",
         "KI+MU",
@@ -4891,7 +4891,7 @@ var inscriptions = new Map([
         "64",
         "¹⁄₂",
         "\n",
-        "DU-*79-WA",
+        "DU-ZU-WA",
         "7",
         "¹⁄₂",
         "\n",
@@ -4905,7 +4905,7 @@ var inscriptions = new Map([
         "64",
         "¹⁄₂",
         "\n",
-        "DU-*79-WA",
+        "DU-ZU-WA",
         "7",
         "¹⁄₂",
         "\n",
@@ -5465,7 +5465,7 @@ var inscriptions = new Map([
     "names": [
         "HT42+59"
     ],
-    "parsedInscription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎\n𐜋𐝫𐄍\n𐘞𐘁𐜓𐄎\n𐜋𐄈𐝫\n𐝫𐄈\n𐙂𐝫𐝫𐙖𐝫\n𐝫\n𐜗𐄈\n𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓𐝫𐝕\n𐜋𐝫",
+    "parsedInscription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎\n𐜋𐝫𐄍\n𐘞𐘁𐜓𐄎\n𐜋𐄈𐝫\n𐝫𐄈\n𐙂𐝫𐝫𐙖𐝫\n𐝫\n𐜗𐄈\n𐘲𐘬𐝫\n𐝫𐘙𐘹𐜓𐝫𐝕\n𐜋𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
@@ -5502,7 +5502,7 @@ var inscriptions = new Map([
         "\n",
         "SU-DU",
         "\n",
-        "RE-TE",
+        "RE-TU",
         "olive oil",
         "³⁄₄",
         "\n",
@@ -5540,7 +5540,7 @@ var inscriptions = new Map([
         "\n",
         "SU-DU",
         "\n",
-        "RE-TE",
+        "RE-TU",
         "OLE+KI",
         "³⁄₄",
         "\n",
@@ -5578,7 +5578,7 @@ var inscriptions = new Map([
         "\n",
         "𐘲𐘬𐝫",
         "\n",
-        "𐝫𐘙𐘃",
+        "𐝫𐘙𐘹",
         "𐜓",
         "𐝫𐝕",
         "\n",
@@ -6767,7 +6767,7 @@ var inscriptions = new Map([
         "KU-ME-TA",
         "12",
         "\n",
-        "*79-DU",
+        "ZU-DU",
         "⅝",
         "\n",
         "SI",
@@ -6780,7 +6780,7 @@ var inscriptions = new Map([
         "KU-ME-TA",
         "12",
         "\n",
-        "*79-DU",
+        "ZU-DU",
         "⅝",
         "\n",
         "SI",
@@ -7956,7 +7956,7 @@ var inscriptions = new Map([
         "\n",
         "SU-PU₂",
         "\n",
-        "*79",
+        "ZU",
         "2",
         "\n",
         "𐝫",
@@ -7974,7 +7974,7 @@ var inscriptions = new Map([
         "\n",
         "SU-PU₂",
         "\n",
-        "*79",
+        "ZU",
         "2",
         "\n",
         "𐝫",
@@ -8023,7 +8023,7 @@ var inscriptions = new Map([
     "translatedWords": [
         "𐝫",
         "\n",
-        "KU-*79-NA",
+        "KU-ZU-NA",
         "\n",
         "NA",
         "2",
@@ -8042,7 +8042,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "KU-*79-NA",
+        "KU-ZU-NA",
         "\n",
         "NA",
         "2",
@@ -8138,7 +8138,7 @@ var inscriptions = new Map([
     "support": "Tablet",
     "transcription": "𐙀𐄁𐙇𐄁𐝫\n𐝫𐘆𐄈𐘳𐝫\n𐝫𐘳𐘻𐝫\n𐝫𐘙𐄇\n𐝫",
     "translatedWords": [
-        "*79",
+        "ZU",
         "𐄁",
         "VIR+[?]",
         "𐄁",
@@ -8156,7 +8156,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
-        "*79",
+        "ZU",
         "𐄁",
         "VIR+[?]",
         "𐄁",
@@ -8675,7 +8675,7 @@ var inscriptions = new Map([
         "\n",
         "KU-NI",
         "\n",
-        "*79",
+        "ZU",
         "3",
         "\n",
         "𐝫"
@@ -8699,7 +8699,7 @@ var inscriptions = new Map([
         "\n",
         "KU-NI",
         "\n",
-        "*79",
+        "ZU",
         "3",
         "\n",
         "𐝫"
@@ -8988,7 +8988,7 @@ var inscriptions = new Map([
         "DA-SI-*118",
         "24",
         "\n",
-        "Kudonija?",
+        "KU-ZU-NI",
         "5",
         "\n",
         "TE-KE",
@@ -9020,7 +9020,7 @@ var inscriptions = new Map([
         "DA-SI-*118",
         "24",
         "\n",
-        "KU-*79-NI",
+        "KU-ZU-NI",
         "5",
         "\n",
         "TE-KE",
@@ -11019,7 +11019,7 @@ var inscriptions = new Map([
         "KI",
         "3",
         "\n",
-        "*79",
+        "ZU",
         "5",
         "\n",
         "TA-TI",
@@ -11066,7 +11066,7 @@ var inscriptions = new Map([
         "KI",
         "3",
         "\n",
-        "*79",
+        "ZU",
         "5",
         "\n",
         "TA-TI",
@@ -11411,7 +11411,7 @@ var inscriptions = new Map([
         "DA-SI-*118",
         "2",
         "\n",
-        "*79-DU",
+        "ZU-DU",
         "1",
         "\n",
         "RU-MA-TA",
@@ -11424,7 +11424,7 @@ var inscriptions = new Map([
         "DA-SI-*118",
         "2",
         "\n",
-        "*79-DU",
+        "ZU-DU",
         "1",
         "\n",
         "RU-MA-TA",
@@ -11621,7 +11621,7 @@ var inscriptions = new Map([
     "support": "Tablet",
     "transcription": "𐙀𐘓𐘆𐛱𐄓\n𐜋𐄎𐜗𐄎𐜓𐄈\n𐘞𐘽𐙉𐄓𐄇𐜋𐙖𐄐𐚸𐄉\n𐙂𐘰𐝫𐜋𐄈\n—\n𐝫𐄑𐙘𐄉𐜓𐄈\n𐝫𐄉𐙋𐄇𐝃𐛺𐄇",
     "translatedWords": [
-        "*79-*22F-DI",
+        "ZU-*22F-DI",
         "grain",
         "40",
         "\n",
@@ -11668,7 +11668,7 @@ var inscriptions = new Map([
         "1"
     ],
     "transliteratedWords": [
-        "*79-*22F-DI",
+        "ZU-*22F-DI",
         "GRA+QE",
         "40",
         "\n",
@@ -11800,7 +11800,7 @@ var inscriptions = new Map([
         "DI-RI-NA",
         "10",
         "\n",
-        "MA-*79",
+        "MA-ZU",
         "3",
         "\n",
         "WI",
@@ -11830,7 +11830,7 @@ var inscriptions = new Map([
         "DI-RI-NA",
         "10",
         "\n",
-        "MA-*79",
+        "MA-ZU",
         "3",
         "\n",
         "WI",
@@ -43652,10 +43652,10 @@ var inscriptions = new Map([
     "support": "Roundel",
     "transcription": "𐙀𐘆𐘴",
     "translatedWords": [
-        "*79-DI-RA"
+        "ZU-DI-RA"
     ],
     "transliteratedWords": [
-        "*79-DI-RA"
+        "ZU-DI-RA"
     ],
     "words": [
         "𐙀𐘆𐘴"
@@ -43684,11 +43684,11 @@ var inscriptions = new Map([
     "support": "Roundel",
     "transcription": "𐙀𐘆𐘴𐘙𐘁",
     "translatedWords": [
-        "*79-DI-RA",
+        "ZU-DI-RA",
         "RE-RO"
     ],
     "transliteratedWords": [
-        "*79-DI-RA",
+        "ZU-DI-RA",
         "RE-RO"
     ],
     "words": [
@@ -44929,7 +44929,7 @@ var inscriptions = new Map([
     "translatedWords": [
         "gives",
         "𐄁",
-        "I-NA-TA-I-*79-DI-SI-KA",
+        "I-NA-TA-I-ZU-DI-SI-KA",
         "𐄁",
         "this dedication",
         "𐄁"
@@ -44937,7 +44937,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "TA-NA-I-*301-U-TI-NU",
         "𐄁",
-        "I-NA-TA-I-*79-DI-SI-KA",
+        "I-NA-TA-I-ZU-DI-SI-KA",
         "𐄁",
         "JA-SA-SA-RA-ME",
         "𐄁"
@@ -45930,7 +45930,7 @@ var inscriptions = new Map([
         "*301-NA",
         "𐄁",
         "\n",
-        "KU-PA-*79",
+        "KU-PA-ZU",
         "cyperus",
         "3",
         "≈ ¹⁄₆",
@@ -45957,7 +45957,7 @@ var inscriptions = new Map([
         "*301-NA",
         "𐄁",
         "\n",
-        "KU-PA-*79",
+        "KU-PA-ZU",
         "CYP",
         "3",
         "≈ ¹⁄₆",
@@ -51322,7 +51322,7 @@ var inscriptions = new Map([
         "1",
         "13/20",
         "\n",
-        "*79",
+        "ZU",
         "\n",
         "≈ ¹⁄₆",
         "\n",
@@ -51354,7 +51354,7 @@ var inscriptions = new Map([
         "1",
         "13/20",
         "\n",
-        "*79",
+        "ZU",
         "\n",
         "≈ ¹⁄₆",
         "\n",
@@ -57004,10 +57004,10 @@ var inscriptions = new Map([
     "support": "Clay vessel",
     "transcription": "𐙀𐘭𐘝𐙁",
     "translatedWords": [
-        "*79-RI-NI-MA"
+        "ZU-RI-NI-MA"
     ],
     "transliteratedWords": [
-        "*79-RI-NI-MA"
+        "ZU-RI-NI-MA"
     ],
     "words": [
         "𐙀𐘭𐘝𐙁"
@@ -57096,7 +57096,7 @@ var inscriptions = new Map([
         "NI-JA-NU",
         "𐄁",
         "\n",
-        "JU-KU-NA-PA-KU-NU-U-I-*79",
+        "JU-KU-NA-PA-KU-NU-U-I-ZU",
         "𐄁"
     ],
     "transliteratedWords": [
@@ -57106,7 +57106,7 @@ var inscriptions = new Map([
         "NI-JA-NU",
         "𐄁",
         "\n",
-        "JU-KU-NA-PA-KU-NU-U-I-*79",
+        "JU-KU-NA-PA-KU-NU-U-I-ZU",
         "𐄁"
     ],
     "words": [
@@ -57147,7 +57147,7 @@ var inscriptions = new Map([
         "𐄁",
         "DU-RA-RE",
         "𐄁",
-        "A-*79-RA",
+        "A-ZU-RA",
         "𐄁",
         "\n",
         "JA-SA-RA-A-NA-NE",
@@ -57160,7 +57160,7 @@ var inscriptions = new Map([
         "𐄁",
         "DU-RA-RE",
         "𐄁",
-        "A-*79-RA",
+        "A-ZU-RA",
         "𐄁",
         "\n",
         "JA-SA-RA-A-NA-NE",
@@ -57620,10 +57620,10 @@ var inscriptions = new Map([
     "support": "Metal object",
     "transcription": "𐘇𐘴𐘺𐙂𐘌𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍",
     "translatedWords": [
-        "A-RA-KO-KU-*79-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA"
+        "A-RA-KO-KU-ZU-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA"
     ],
     "transliteratedWords": [
-        "A-RA-KO-KU-*79-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA"
+        "A-RA-KO-KU-ZU-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA"
     ],
     "words": [
         "𐘇𐘴𐘺𐙂𐙀𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍"
@@ -59922,7 +59922,7 @@ var inscriptions = new Map([
         "\n",
         "A-RI",
         "\n",
-        "I-*79-RI-NI-TA",
+        "\"to\" ZU-RI-NI-TA",
         "\n",
         "A-RI",
         "\n",
@@ -59934,7 +59934,7 @@ var inscriptions = new Map([
         "\n",
         "A-RI",
         "\n",
-        "I-*79-RI-NI-TA",
+        "I-ZU-RI-NI-TA",
         "\n",
         "A-RI",
         "\n",
@@ -60553,11 +60553,11 @@ var inscriptions = new Map([
     "support": "Lames (short thin tablet)",
     "transcription": "𐝫𐝃𐝃𐙀𐘃𐝫",
     "translatedWords": [
-        "TE-*79",
+        "TE-ZU",
         "𐝃𐝃𐝫"
     ],
     "transliteratedWords": [
-        "TE-*79",
+        "TE-ZU",
         "𐝃𐝃𐝫"
     ],
     "words": [
@@ -65555,7 +65555,7 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "PI-KU-*79",
+        "PI-KU-ZU",
         "olive oil",
         "4",
         "\n",
@@ -65578,7 +65578,7 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "PI-KU-*79",
+        "PI-KU-ZU",
         "OLE+KI",
         "4",
         "\n",
@@ -65904,7 +65904,7 @@ var inscriptions = new Map([
         "TU-ME-SE",
         "18",
         "\n",
-        "QE-SI-*79-E",
+        "QE-SI-ZU-E",
         "4",
         "\n",
         "*28B-NU-MA-RE",
@@ -65944,7 +65944,7 @@ var inscriptions = new Map([
         "TU-ME-SE",
         "18",
         "\n",
-        "QE-SI-*79-E",
+        "QE-SI-ZU-E",
         "4",
         "\n",
         "*28B-NU-MA-RE",
@@ -67495,7 +67495,7 @@ var inscriptions = new Map([
         "*47-KU-NA",
         "wine",
         "\n",
-        "QE-SI-*79-E",
+        "QE-SI-ZU-E",
         "57",
         "\n",
         "Itanos (north of Palaikastro)",
@@ -67526,7 +67526,7 @@ var inscriptions = new Map([
         "*47-KU-NA",
         "SA-VIN",
         "\n",
-        "QE-SI-*79-E",
+        "QE-SI-ZU-E",
         "57",
         "\n",
         "I-TI-NI-SA",
@@ -69660,7 +69660,7 @@ var inscriptions = new Map([
         "A-SI-DA-TO-I",
         "12",
         "\n",
-        "*79-*301-SE-DE-*21F-*118",
+        "ZU-*301-SE-DE-*21F-*118",
         "6",
         "\n",
         "A-SU-PU-WA",
@@ -69680,7 +69680,7 @@ var inscriptions = new Map([
         "A-SI-DA-TO-I",
         "12",
         "\n",
-        "*79-*301-SE-DE-*21F-*118",
+        "ZU-*301-SE-DE-*21F-*118",
         "6",
         "\n",
         "A-SU-PU-WA",
@@ -70059,7 +70059,7 @@ var inscriptions = new Map([
         "A-KI-RO",
         "3",
         "\n",
-        "ZA-SI-*79",
+        "ZA-SI-ZU",
         "3",
         "\n",
         "𐝫"
@@ -70083,7 +70083,7 @@ var inscriptions = new Map([
         "A-KI-RO",
         "3",
         "\n",
-        "ZA-SI-*79",
+        "ZA-SI-ZU",
         "3",
         "\n",
         "𐝫"
@@ -76379,7 +76379,7 @@ var wordsInCorpus = new Map([
 ["𐘻𐘀𐘝", 1],
 ["𐘂𐘱", 1],
 ["𐘲𐘬", 1],
-["𐘙𐘃", 1],
+["𐘙𐘹", 1],
 ["𐙁𐘤𐘬", 1],
 ["𐘂𐚂𐘚", 1],
 ["𐜒", 1],

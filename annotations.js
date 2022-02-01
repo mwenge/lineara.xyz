@@ -59,7 +59,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*79-SU",
+                "transliteratedWord": "ZU-SU",
                 "word": "𐙀𐘲"
             },
             {
@@ -3128,7 +3128,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "RU-*79-NA",
+                "transliteratedWord": "RU-ZU-NA",
                 "word": "𐘘𐙀𐘅"
             },
             {
@@ -3631,7 +3631,6 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "word or logoram",
@@ -3639,7 +3638,7 @@ var wordAnnotations =
                     "always assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "KU-*79-NI",
+                "transliteratedWord": "KU-ZU-NI",
                 "word": "𐙂𐙀𐘝"
             },
             {
@@ -6054,7 +6053,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*79-JU-PU₂",
+                "transliteratedWord": "ZU-JU-PU₂",
                 "word": "𐝫𐙀𐘶𐘜"
             },
             {
@@ -6491,7 +6490,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "KA-U-*79-NI",
+                "transliteratedWord": "KA-U-ZU-NI",
                 "word": "𐘾𐘉𐙀𐘝"
             },
             {
@@ -10068,7 +10067,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "DU-*79-WA",
+                "transliteratedWord": "DU-ZU-WA",
                 "word": "𐘬𐙀𐘮"
             },
             {
@@ -11367,8 +11366,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "RE-TE",
-                "word": "𐝫𐘙𐘃"
+                "transliteratedWord": "RE-TU",
+                "word": "𐝫𐘙𐘹"
             },
             {
                 "tags": [
@@ -13580,7 +13579,7 @@ var wordAnnotations =
                     "always assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*79-DU",
+                "transliteratedWord": "ZU-DU",
                 "word": "𐝫𐙀𐘬"
             },
             {
@@ -15618,7 +15617,7 @@ var wordAnnotations =
                     "always assigned number",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "*79",
+                "transliteratedWord": "ZU",
                 "word": "𐝫𐙀"
             },
             {
@@ -15683,7 +15682,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "KU-*79-NA",
+                "transliteratedWord": "KU-ZU-NA",
                 "word": "𐝫𐙂𐙀𐘅𐝫"
             },
             {
@@ -15837,7 +15836,7 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "*79",
+                "transliteratedWord": "ZU",
                 "word": "𐙀"
             },
             {
@@ -16758,7 +16757,7 @@ var wordAnnotations =
                     "always assigned number",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "*79",
+                "transliteratedWord": "ZU",
                 "word": "𐝫𐙀"
             },
             {
@@ -17261,7 +17260,6 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "place name",
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "word or logoram",
@@ -17269,7 +17267,7 @@ var wordAnnotations =
                     "always assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "KU-*79-NI",
+                "transliteratedWord": "KU-ZU-NI",
                 "word": "𐙂𐙀𐘝"
             },
             {
@@ -21610,7 +21608,7 @@ var wordAnnotations =
                     "word or logoram",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "*79",
+                "transliteratedWord": "ZU",
                 "word": "𐙀"
             },
             {
@@ -22202,7 +22200,7 @@ var wordAnnotations =
                     "always assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*79-DU",
+                "transliteratedWord": "ZU-DU",
                 "word": "𐙀𐘬"
             },
             {
@@ -22604,7 +22602,7 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "*79-*22F-DI",
+                "transliteratedWord": "ZU-*22F-DI",
                 "word": "𐙀𐘓𐘆"
             },
             {
@@ -23114,14 +23112,13 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word also in linear b",
                     "word",
                     "Only instance of word",
                     "word or logoram",
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "MA-*79",
+                "transliteratedWord": "MA-ZU",
                 "word": "𐙁𐙀"
             },
             {
@@ -46825,7 +46822,7 @@ var wordAnnotations =
                     "word or logoram",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "*79-DI-RA",
+                "transliteratedWord": "ZU-DI-RA",
                 "word": "𐙀𐘆𐘴"
             }
         ]
@@ -46840,7 +46837,7 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "*79-DI-RA",
+                "transliteratedWord": "ZU-DI-RA",
                 "word": "𐙀𐘆𐘴"
             },
             {
@@ -47879,7 +47876,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I-NA-TA-I-*79-DI-SI-KA",
+                "transliteratedWord": "I-NA-TA-I-ZU-DI-SI-KA",
                 "word": "𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾"
             },
             {
@@ -49033,7 +49030,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "KU-PA-*79",
+                "transliteratedWord": "KU-PA-ZU",
                 "word": "𐙂𐘂𐙀"
             },
             {
@@ -57707,7 +57704,7 @@ var wordAnnotations =
                     "word or logoram",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "*79",
+                "transliteratedWord": "ZU",
                 "word": "𐙀𐝫"
             },
             {
@@ -61639,7 +61636,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*79-RI-NI-MA",
+                "transliteratedWord": "ZU-RI-NI-MA",
                 "word": "𐙀𐘭𐘝𐙁"
             }
         ]
@@ -61726,7 +61723,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JU-KU-NA-PA-KU-NU-U-I-*79",
+                "transliteratedWord": "JU-KU-NA-PA-KU-NU-U-I-ZU",
                 "word": "𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀"
             },
             {
@@ -61780,7 +61777,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-*79-RA",
+                "transliteratedWord": "A-ZU-RA",
                 "word": "𐘇𐙀𐘴"
             },
             {
@@ -62241,7 +62238,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-RA-KO-KU-*79-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA",
+                "transliteratedWord": "A-RA-KO-KU-ZU-WA-SA-TO-MA-RO-AU-TA-DE-PO-NI-ZA",
                 "word": "𐘇𐘴𐘺𐙂𐙀𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍"
             }
         ]
@@ -64857,11 +64854,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "uses to prefix (I-/J-)",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I-*79-RI-NI-TA",
+                "transliteratedWord": "I-ZU-RI-NI-TA",
                 "word": "𐘚𐙀𐘭𐘝𐘳"
             },
             {
@@ -65579,7 +65577,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "TE-*79",
+                "transliteratedWord": "TE-ZU",
                 "word": "𐝫𐘃𐙀"
             },
             {
@@ -71307,7 +71305,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "PI-KU-*79",
+                "transliteratedWord": "PI-KU-ZU",
                 "word": "𐘢𐙂𐙀"
             },
             {
@@ -71875,7 +71873,7 @@ var wordAnnotations =
                     "always assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "QE-SI-*79-E",
+                "transliteratedWord": "QE-SI-ZU-E",
                 "word": "𐘿𐘤𐙀𐘡"
             },
             {
@@ -74813,7 +74811,7 @@ var wordAnnotations =
                     "always assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "QE-SI-*79-E",
+                "transliteratedWord": "QE-SI-ZU-E",
                 "word": "𐘿𐘤𐙀𐘡"
             },
             {
@@ -77843,7 +77841,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*79-*301-SE-DE-*21F-*118",
+                "transliteratedWord": "ZU-*301-SE-DE-*21F-*118",
                 "word": "𐙀𐙕𐘈𐘦𐘐𐙈"
             },
             {
@@ -78690,7 +78688,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "ZA-SI-*79",
+                "transliteratedWord": "ZA-SI-ZU",
                 "word": "𐘍𐘤𐙀𐝫"
             },
             {
