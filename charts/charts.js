@@ -292,6 +292,102 @@ function addLetterImagesToChart(img, image, inscription, container) {
   };
 }
 
+function addLetterImagesToTabletChart(img, image, inscription, container) {
+  return function (e) {
+    if (!coordinates.has(image)) {
+      return;
+    }
+    // We're no longer displaying letters, abort.
+    if (container.type != "tablet") {
+      return;
+    }
+    var scribe = (inscription.scribe != '') ? inscription.scribe : inscription.name;
+    if (!scribesAndMultipleGlyphs.has(scribe)) {
+      return;
+    }
+    let multipleGlyphs = scribesAndMultipleGlyphs.get(scribe);
+    var imageCoords = coordinates.get(image);
+    var imagesToCache = [];
+
+    var item = null;
+    var span = null;
+    var letters = lettersWithImages(inscription.parsedInscription);
+    for (var i = 0; i < imageCoords.length; i++) {
+      var area = imageCoords[i].coords;
+      var word = letters[i];
+      if (!multipleGlyphs.includes(word)) {
+        continue;
+      }
+
+      if (word == "—" || word == '') {
+        continue;
+      }
+  
+      var scribeContainer = document.getElementById(word);
+      if (!scribeContainer) {
+        var scribeContainer = document.createElement("div");
+        scribeContainer.className = 'concordance-item-wrapper';
+        scribeContainer.id = word;
+        container.appendChild(scribeContainer);
+
+        var label = document.createElement("div");
+        label.className = "concordance-container-label";
+        label.textContent = word;
+        scribeContainer.appendChild(label);
+        
+      }
+
+      var wordInScribe = word + '-' + scribe;
+      var wordInScribeContainer = document.getElementById(wordInScribe);
+      if (!wordInScribeContainer) {
+        var d1  = document.createElement("div");
+        d1.className = 'scribeview-concordance-item-container';
+        scribeContainer.appendChild(d1);
+        var wordInScribeContainer = document.createElement("div");
+        wordInScribeContainer.className = 'scribeview-concordance-item-container';
+        wordInScribeContainer.id = wordInScribe
+        wordInScribeContainer.name = wordInScribe;
+        d1.appendChild(wordInScribeContainer);
+
+        var label = document.createElement("div");
+        label.className = "concordance-container-label";
+        label.textContent = scribe;
+        d1.appendChild(label);
+      }
+
+      var d1 = document.createElement("div");
+      d1.className = "scribeview-inscription-container";
+
+      var imageContainer = document.createElement("div");
+      imageContainer.className = "concordance-item";
+      d1.appendChild(imageContainer);
+
+      var span = document.createElement("div");
+      span.className = "concordance-label";
+      span.textContent = inscription.name;
+      d1.appendChild(span);
+
+      wordInScribeContainer.appendChild(d1);
+      
+      span = document.createElement("span");
+      imageContainer.appendChild(span);
+
+      var canvas = document.createElement('canvas');
+      var w = area.width;
+      var h = area.height;
+      if (h > w) {
+        canvas.height = 50;
+        canvas.width = 50 * w / h;
+      } else {
+        canvas.width = 50;
+        canvas.height = 50 * h / w;
+      }
+      var ctx = canvas.getContext('2d', {alpha: false});
+      ctx.drawImage(img, area.x, area.y, area.width, area.height, 0, 0, canvas.width, canvas.height);
+      span.appendChild(canvas);
+    }
+  };
+}
 function addLetterImagesToScribeChart(img, image, inscription, container) {
   return function (e) {
     if (!coordinates.has(image)) {
@@ -491,6 +587,8 @@ function loadWords(inscription, type, container) {
       img.addEventListener("load", addWordImagesToChart(img, image, inscription, type, container));
     } else if (["scribe"].includes(type)) {
       img.addEventListener("load", addLetterImagesToScribeChart(img, image, inscription, container));
+    } else if (["tablet"].includes(type)) {
+      img.addEventListener("load", addLetterImagesToTabletChart(img, image, inscription, container));
     } else if (["letter"].includes(type)) {
       img.addEventListener("load", addLetterImagesToChart(img, image, inscription, container));
     }
