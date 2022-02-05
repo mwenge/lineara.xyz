@@ -183,9 +183,13 @@ function draw() {
     edges: {
       font: {
         background: 'yellow',
+        face: 'Routed',
       },
     },
     nodes: {
+      font: {
+        face: 'Routed',
+      },
       shape: "dot",
       size: 16
     },

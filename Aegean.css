@@ -22,3 +22,15 @@
   font-weight: 400;
   src: url(NotoSansSymbols2-Regular.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Routed';
+  font-style: normal;
+  font-weight: 400;
+  src: url(routed-gothic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Routed Wide';
+  font-style: normal;
+  font-weight: 400;
+  src: url(NationalPark-Thin.otf) format('truetype');
+}
