@@ -1679,7 +1679,6 @@ function applySearchTerms() {
   var numberOfSearchTerms = searchTerms.children.length;
   var searchTermValues = Array.prototype.slice.call(searchTerms.children)
                          .map(x => stripErased(x.textContent));
-  console.log(searchTermValues);
   var activeWordTags = consoleButtons.get('activeWordTags');
   var currentActiveTags = activeWordTags ? activeWordTags.currentActiveTags() : [];
   var numberOfTags = activeTags.length + currentActiveTags.length;
@@ -1918,6 +1917,7 @@ function consoleButton(button, metadata, activeMetadataName) {
       var element = document.getElementById("wordtags-command");
       element.style.backgroundColor = activeMetadata.length ? "purple" : "black";
       removeFilter(event);
+      event.stopPropagation();
     }
   }
 
@@ -2181,7 +2181,6 @@ window.onload = function() {
   function trySequence() {
     const urlParams = new URLSearchParams(window.location.search);
     let search = urlParams.get('seq');
-    console.log(search);
     if (!search) {
       return false;
     }
