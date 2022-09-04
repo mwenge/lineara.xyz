@@ -153,7 +153,7 @@ function filterNodesAndEdges(nodes, edges, nodeLookup) {
     return searchTerms.some(x => {
       var f = nodeLookup.get(x.toUpperCase());
       if (f == undefined) f = -1;
-      return (v.from == f || v.to == f || v.label.includes(x))
+      return (v.from == f || v.to == f || v.label.includes(x) || v.inscription.includes(x))
     });
   });
   var matchingNodeIDs = matchingEdges.map(e => [e.from, e.to]).flat()
