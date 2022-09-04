@@ -1839,6 +1839,21 @@ function consoleButton(button, metadata, activeMetadataName) {
       item.className = 'word-tag-container';
       item.id = 'word-tag-container';
       container.appendChild(item);
+
+      var cp = document.createElement("div");
+      cp.className = 'copy-word-tags';
+      cp.id = 'copy-word-tags';
+      item.appendChild(cp);
+      cp.onclick = (e)=> {
+        navigator.clipboard.writeText(`${window.location.origin}/?seq=${JSON.stringify(activeMetadata)}`);
+        copied.className = "copied visible";
+        document.body.offsetTop;
+        setTimeout(()=> {
+          copied.className = "copied hidden";
+        }, 1000);
+        e.stopPropagation();
+      }; 
+
       for (var i = 0; i < activeMetadata.length; i++) {
         var tag = activeMetadata[i];
         var item = document.createElement("div");

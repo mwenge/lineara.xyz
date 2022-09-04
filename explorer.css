@@ -587,12 +587,25 @@ dt, dd, font {
   border-radius: 3px;
   border: 1px black solid;
 }
+.copy-word-tags::before {
+  content: "copy";
+}
+.copy-word-tags {
+  position: absolute;
+  right: 5px;
+  top: 2px;
+  border: 1px black solid;
+  padding: 5px;
+  background-color: white;
+  border-radius: 3px;
+}
 .word-tag-container {
   margin: 20px;
   border: 1px black solid;
   padding: 5px;
   background-color: white;
   border-radius: 3px;
+  position: relative;
 }
 #chart-filter-details-container {
   position: fixed;
@@ -778,6 +791,34 @@ textarea:focus, input:focus{
   display: block;
   font-style: italic;
   background-color: inherit;
+}
+#word-tag-container::before {
+  content: "Sequence: ";
+}
+#filter-details-container::before {
+  content: "Search for word sequences by clicking word-tags. Click on a tag to remove it.";
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+.copied {
+  visibility: hidden;
+  background-color: #121213;
+  color: white;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%);
+  border-radius: 5px;
+  padding: 5px;
+}
+.visible {
+  visibility: visible;
+}
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 2s, opacity 2s linear;
 }
 
 /* Mobiles */
