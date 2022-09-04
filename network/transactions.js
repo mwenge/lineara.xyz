@@ -13065,6 +13065,11 @@ var transactions = [{
         },
         {
             "description": "sender",
+            "transactionID": "HT116a-5a",
+            "transliteratedWord": "Haghia Triada Magazine"
+        },
+        {
+            "description": "sender",
             "transactionID": "HT116a-6",
             "transliteratedWord": "Haghia Triada Magazine"
         },
