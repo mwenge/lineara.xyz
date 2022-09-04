@@ -1921,8 +1921,7 @@ function consoleButton(button, metadata, activeMetadataName) {
     }
   }
 
-  function toggleWordTag(datum) {
-    return function(event) {
+  function addWordTag(datum) {
       activeMetadata.push(datum);
       if (!tagColors[datum]) {
         tagColors[datum] = cycleColor(); 
@@ -1934,12 +1933,28 @@ function consoleButton(button, metadata, activeMetadataName) {
       item.textContent = datum;
       item.addEventListener("click", removeWordTag(activeMetadata.length - 1));
       document.getElementById("word-tag-container").appendChild(item);
+  }
+
+  function toggleWordTag(datum) {
+    return function(event) {
+      addWordTag(datum);
 
       applySearchTerms();
       button.style.backgroundColor = "purple";
       event.stopPropagation();
     }
   }
+
+  function applyWordTags(tags) {
+    button.click();
+    for (tag of tags) {
+      addWordTag(tag);
+    }
+    applySearchTerms();
+    button.style.backgroundColor = "purple";
+    event.stopPropagation();
+  }
+  this.applyWordTags = applyWordTags
 
   function toggleTag(event, tag) {
     if (activeTags.includes(tag)) {
@@ -2125,6 +2140,9 @@ function loadAnnotations() {
 
 
 window.onload = function() {
+  if (trySequence()) {
+    return;
+  }
   // If we've been passed a specific inscription in the URL path
   // then zoom it.
   if (tryWord()) {
@@ -2157,6 +2175,19 @@ window.onload = function() {
       return false;
     }
     updateSearchTerms(search)();
+    return true;
+  }
+
+  function trySequence() {
+    const urlParams = new URLSearchParams(window.location.search);
+    let search = urlParams.get('seq');
+    console.log(search);
+    if (!search) {
+      return false;
+    }
+    search = JSON.parse(search);
+    const button = consoleButtons.get('activeWordTags');
+    button.applyWordTags(search);
     return true;
   }
 };
