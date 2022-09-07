@@ -67,6 +67,7 @@ ANZb1
 
 (E. Protonotariou-Deilaki, "Burial Customs and Funerary Rites in the Prehistoric Argolid." In: Celebrations of Death & Divinity, edited by R. Hägg & G.C. Nordquist, 69-83, fig. 28 [Stockholm 1990]). Grave Stele fragment from Argos, Tumulus C, gr. II.
 ARGZg1
+https://library.catalogue.tcd.ie/record=b11088059~S9
 
 missing from GORILA
 HTWa1146
@@ -117,6 +118,7 @@ HTZf169
 
 Doro Levi Festos 1 p831 Festòs e la civiltà minoica
 KAMZb1
+https://library.catalogue.tcd.ie/record=b11071391~S9
 
 1987    "Nuova rondella con inscrizione in lineare A dall 'Villa Reale' di Haghia Triada," Parole del Pasato 237 (1987) 463-468
 (La Rosa-Carratelli 1987)
