@@ -58857,21 +58857,29 @@ var inscriptions = new Map([
         "images/MIZb3-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": [],
+    "imageRights": "© Catalogue of Cycladic Antiquities in the Ashmolean(2000)",
+    "imageRightsURL": "https://www.degruyter.com/",
+    "images": [
+        "images/MIZb3-Inscription.jpg"
+    ],
     "name": "MIZb3",
     "names": [
         "MIZb3"
     ],
-    "parsedInscription": "",
+    "parsedInscription": "𐘙𐘠",
     "scribe": "",
     "site": "Milos",
     "support": "Clay vessel",
-    "transcription": "",
-    "translatedWords": [],
-    "transliteratedWords": [],
-    "words": []
+    "transcription": "𐘙𐘠",
+    "translatedWords": [
+        "RE-TI"
+    ],
+    "transliteratedWords": [
+        "RE-TI"
+    ],
+    "words": [
+        "𐘙𐘠"
+    ]
 }],
 ["MILZb1",{
     "context": "",
@@ -76282,6 +76290,7 @@ var wordsInCorpus = new Map([
 ["𐛴", 2],
 ["𐘨", 2],
 ["𐘿𐘦𐘻𐘯", 2],
+["𐘙𐘠", 2],
 ["𐜅", 2],
 ["𐜱", 2],
 ["𐝆𐝆", 2],
@@ -76936,7 +76945,6 @@ var wordsInCorpus = new Map([
 ["𐘱𐘠𐘹𐙂", 1],
 ["𐄂𐘚𐘬𐘣", 1],
 ["𐘬𐘴", 1],
-["𐘙𐘠", 1],
 ["𐘱𐙂", 1],
 ["𐘉𐘅𐘅", 1],
 ["𐘱𐙁𐘉𐘠", 1],
