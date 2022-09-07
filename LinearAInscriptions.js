@@ -21900,11 +21900,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1146",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1146-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1146-Inscription.jpg"
+    ],
     "name": "HTWa1146",
     "names": [
         "HTWa1146"
@@ -21926,7 +21930,9 @@ var inscriptions = new Map([
 }],
 ["HTWa1147",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1147-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
@@ -21952,11 +21958,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1148",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1148-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1148-Inscription.jpg"
+    ],
     "name": "HTWa1148",
     "names": [
         "HTWa1148"
@@ -21978,11 +21988,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1149",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1149-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1149-Inscription.jpg"
+    ],
     "name": "HTWa1149",
     "names": [
         "HTWa1149"
@@ -22004,11 +22018,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1150",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1150-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1150-Inscription.jpg"
+    ],
     "name": "HTWa1150",
     "names": [
         "HTWa1150"
@@ -22030,11 +22048,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1151",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1151-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1151-Inscription.jpg"
+    ],
     "name": "HTWa1151",
     "names": [
         "HTWa1151"
@@ -22056,11 +22078,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1152",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1152-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1152-Inscription.jpg"
+    ],
     "name": "HTWa1152",
     "names": [
         "HTWa1152"
@@ -22082,11 +22108,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1153",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1153-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1153-Inscription.jpg"
+    ],
     "name": "HTWa1153",
     "names": [
         "HTWa1153"
@@ -22108,11 +22138,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1154",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1154-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1154-Inscription.jpg"
+    ],
     "name": "HTWa1154",
     "names": [
         "HTWa1154"
@@ -22134,11 +22168,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1155",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1155-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1155-Inscription.jpg"
+    ],
     "name": "HTWa1155",
     "names": [
         "HTWa1155"
@@ -22160,11 +22198,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1156",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1156-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1156-Inscription.jpg"
+    ],
     "name": "HTWa1156",
     "names": [
         "HTWa1156"
@@ -22186,11 +22228,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1157",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1157-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1157-Inscription.jpg"
+    ],
     "name": "HTWa1157",
     "names": [
         "HTWa1157"
@@ -22212,11 +22258,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1158",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1158-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1158-Inscription.jpg"
+    ],
     "name": "HTWa1158",
     "names": [
         "HTWa1158"
@@ -22238,11 +22288,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1159",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1159-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1159-Inscription.jpg"
+    ],
     "name": "HTWa1159",
     "names": [
         "HTWa1159"
@@ -22264,11 +22318,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1160",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1160-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1160-Inscription.jpg"
+    ],
     "name": "HTWa1160",
     "names": [
         "HTWa1160"
@@ -22290,11 +22348,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1161",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1161-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1161-Inscription.jpg"
+    ],
     "name": "HTWa1161",
     "names": [
         "HTWa1161"
@@ -22316,11 +22378,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1162",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1162-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1162-Inscription.jpg"
+    ],
     "name": "HTWa1162",
     "names": [
         "HTWa1162"
@@ -22342,11 +22408,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1163",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1163-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1163-Inscription.jpg"
+    ],
     "name": "HTWa1163",
     "names": [
         "HTWa1163"
@@ -22368,11 +22438,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1164",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1164-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1164-Inscription.jpg"
+    ],
     "name": "HTWa1164",
     "names": [
         "HTWa1164"
@@ -22394,11 +22468,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1165",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1165-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1165-Inscription.jpg"
+    ],
     "name": "HTWa1165",
     "names": [
         "HTWa1165"
@@ -22420,11 +22498,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1166",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1166-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1166-Inscription.jpg"
+    ],
     "name": "HTWa1166",
     "names": [
         "HTWa1166"
@@ -22446,11 +22528,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1167",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1167-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1167-Inscription.jpg"
+    ],
     "name": "HTWa1167",
     "names": [
         "HTWa1167"
@@ -22472,11 +22558,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1168",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1168-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1168-Inscription.jpg"
+    ],
     "name": "HTWa1168",
     "names": [
         "HTWa1168"
@@ -22498,11 +22588,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1169",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1169-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1169-Inscription.jpg"
+    ],
     "name": "HTWa1169",
     "names": [
         "HTWa1169"
@@ -22524,11 +22618,15 @@ var inscriptions = new Map([
 }],
 ["HTWa1170",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/HTWa1170-Facsimile.jpg"
+    ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/HTWa1170-Inscription.jpg"
+    ],
     "name": "HTWa1170",
     "names": [
         "HTWa1170"
