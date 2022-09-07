@@ -59058,9 +59058,11 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": [],
+    "imageRights": "© Celebrations of Death and Divinity (Stockholm 1990)",
+    "imageRightsURL": "https://www.degruyter.com/",
+    "images": [
+        "images/MYZg1-Inscription.jpg"
+    ],
     "name": "MYZg1",
     "names": [
         "MYZg1"
