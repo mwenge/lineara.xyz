@@ -1521,7 +1521,7 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
     containsRegEx |= inscription.words.filter(word => re.test(word)).length > 0;
     var containsTerm = inscription.translatedWords.filter(word => word.includes(searchTerm)).length > 0;
     containsTerm |= inscription.transliteratedWords.filter(word => word.includes(searchTerm)).length > 0;
-    containsTerm |= inscription.names.filter(word => word.includes(searchTerm)).length > 0;
+    containsTerm |= inscription.names.filter(word => word == searchTerm).length > 0;
     return (containsRegEx || containsTerm ||
         inscription.transcription.includes(searchTerm) ||
         inscription.site.includes(searchTerm) ||
@@ -2189,7 +2189,14 @@ window.onload = function() {
     if (!search) {
       return false;
     }
-    updateSearchTerms(search)();
+    let terms;
+    try {
+      terms = JSON.parse(search);
+    } catch {
+      terms = [search];
+    } finally {
+      terms.forEach(t => updateSearchTerms(t)());;
+    }
     return true;
   }
 
