@@ -835,7 +835,9 @@ textarea:focus, input:focus{
 	.transliteration-item, .translation-item, .text-item { font-size: 3vw; }
 	.item { max-width: 20vw; line-height: 2vh;}
 	body { padding-top: 5vh; }
-	.search { max-width: none; }
+	.search {
+    font-size: 8vw;
+   }
 }
 
 /* Mobiles */
