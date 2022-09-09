@@ -8,29 +8,29 @@
   font-family: 'Noto Sans Linear A and B';
   font-style: normal;
   font-weight: 400;
-  src: url(NotoSansLinearA-LinearB.ttf) format('truetype');
+  src: url(assets/NotoSansLinearA-LinearB.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Noto Mono';
   font-style: normal;
   font-weight: 400;
-  src: url(NotoMono-Regular.ttf) format('truetype');
+  src: url(assets/NotoMono-Regular.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Noto Symbols';
   font-style: normal;
   font-weight: 400;
-  src: url(NotoSansSymbols2-Regular.ttf) format('truetype');
+  src: url(assets/NotoSansSymbols2-Regular.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Routed';
   font-style: normal;
   font-weight: 400;
-  src: url(routed-gothic.ttf) format('truetype');
+  src: url(assets/routed-gothic.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Routed Wide';
   font-style: normal;
   font-weight: 400;
-  src: url(NationalPark-Thin.otf) format('truetype');
+  src: url(assets/NationalPark-Thin.otf) format('truetype');
 }
