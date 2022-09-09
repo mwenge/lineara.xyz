@@ -398,10 +398,10 @@ dt, dd, font {
 
 .top-right-console {
   position: fixed;
-  right: 0;
+  left: 18vh;
   top:0;
   padding: 0.2vw;
-  font-size: 1.5vw;
+  font-size: 1vw;
 }
 
 .search-terms {
@@ -409,13 +409,12 @@ dt, dd, font {
 }
 
 .sort-status, .search-term {
-  margin: 0.6vw;
+  margin: 0.2vw;
   padding: 0.2vw;
   border: 0.1vw solid black;
   background-color: gray;
   opacity: 0.5;
-  float: right;
-  clear: both;
+  float: left;
 }
 
 .sort-status { display: none; }
