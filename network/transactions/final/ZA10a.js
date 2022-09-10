@@ -104,7 +104,7 @@
             "transactionID": "ZA10a-8",
             "transliteratedWord": "men(implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {

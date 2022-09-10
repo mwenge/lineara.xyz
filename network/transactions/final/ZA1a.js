@@ -6,7 +6,7 @@
             "transactionID": "ZA1a-1",
             "transliteratedWord": "Zakros Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {

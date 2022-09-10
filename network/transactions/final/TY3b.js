@@ -18,7 +18,7 @@
             "transactionID": "TY3b-3",
             "transliteratedWord": "Tylissos Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {

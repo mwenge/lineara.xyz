@@ -26,7 +26,7 @@
             "transactionID": "HT26a-4",
             "transliteratedWord": "*406VAS+KE",
             "word": "𐜮"
-        },
+        }
     ],
     "words": [
         {

@@ -24,7 +24,7 @@
             "transactionID": "HT123+124a-7",
             "transliteratedWord": "Haghia Triada Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {

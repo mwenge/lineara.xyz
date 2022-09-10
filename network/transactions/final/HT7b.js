@@ -26,7 +26,7 @@
             "transactionID": "HT7b-1",
             "transliteratedWord": "men (implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {

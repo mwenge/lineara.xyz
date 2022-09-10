@@ -78,7 +78,7 @@
             "transactionID": "PE2-6",
             "transliteratedWord": "?",
             "word": ""
-        },
+        }
     ],
     "words": [
         {

@@ -6,7 +6,7 @@
             "transactionID": "KH7a-1",
             "transliteratedWord": "Khania Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
