@@ -7575,6 +7575,257 @@ var transactions = [{
     ]
 }
 ,{
+    "name": "ZA10a",
+    "transactions": [
+        {
+            "description": "sender",
+            "transactionID": "ZA10a-1",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10a-2",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10a-3",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10a-4",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10a-5",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10a-6",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10a-7",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10a-8",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA10a-1",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA10a-2",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA10a-3",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA10a-4",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA10a-5",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA10a-6",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA10a-7",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA10a-8",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+    ],
+    "words": [
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA10a-1",
+            "transliteratedWord": "TA-NA-TE",
+            "word": "𐘳𐘅𐘃"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA10a-1",
+            "transliteratedWord": "2",
+            "word": "𐄈"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA10a-2",
+            "transliteratedWord": "PA",
+            "word": "𐘂𐝫"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA10a-2",
+            "transliteratedWord": "1",
+            "word": "𐄇"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA10a-3",
+            "transliteratedWord": "A-KU-MI-NA",
+            "word": "𐘇𐙂𐘻𐘅"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA10a-3",
+            "transliteratedWord": "1",
+            "word": "𐄇"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA10a-4",
+            "transliteratedWord": "A-TA-NA-TE",
+            "word": "𐘇𐘳𐘅𐘃"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA10a-4",
+            "transliteratedWord": "1",
+            "word": "𐄇"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA10a-5",
+            "transliteratedWord": "A-MI-DA-U",
+            "word": "𐘇𐘻𐘀𐘉"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA10a-5",
+            "transliteratedWord": "1",
+            "word": "𐄇"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA10a-6",
+            "transliteratedWord": "A-DU-KU-MI-NA",
+            "word": "𐘇𐘬𐙂𐘻𐘅"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA10a-6",
+            "transliteratedWord": "1",
+            "word": "𐄇"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA10a-7",
+            "transliteratedWord": "DA-I-PI-TA",
+            "word": "𐘀𐘚𐘢𐘳"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA10a-7",
+            "transliteratedWord": "1",
+            "word": "𐄇"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA10a-8",
+            "transliteratedWord": "DU-RE-ZA-SE",
+            "word": "𐘬𐘙𐘍𐘈"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA10a-8",
+            "transliteratedWord": "2",
+            "word": "𐄈"
+        }
+    ]
+}
+,{
     "name": "HT88",
     "transactions": [
         {
@@ -13222,6 +13473,296 @@ var transactions = [{
     ]
 }
 ,{
+    "name": "ZA15b",
+    "transactions": [
+        {
+            "description": "sender",
+            "transactionID": "ZA15b-1",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+    ],
+    "words": [
+        {
+            "description": "recipient",
+            "transactionID": "ZA15b-1",
+            "transliteratedWord": "KA-DI",
+            "word": "𐘾𐘆"
+        },
+        {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA15b-1",
+            "transliteratedWord": "VIN",
+            "word": "𐙍"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA15b-1",
+            "transliteratedWord": "3",
+            "word": "𐄉"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "—",
+            "word": "—"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "KU-RO",
+            "word": "𐙂𐘁"
+        },
+        {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
+            "transliteratedWord": "VIN",
+            "word": "𐙍"
+        },
+        {
+            "transliteratedWord": "78",
+            "word": "𐄖𐄎"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "VIN+RA",
+            "word": "𐛿"
+        },
+        {
+            "transliteratedWord": "17",
+            "word": "𐄐𐄍"
+        }
+    ]
+}
+,{
+    "name": "ZA20",
+    "transactions": [
+        {
+            "description": "sender",
+            "transactionID": "ZA20-1",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA20-2",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA20-3",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA20-4",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA20-5",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA20-6",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA20-1",
+            "transliteratedWord": "men (implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 2,
+            "description": "commodity",
+            "transactionID": "ZA20-1",
+            "transliteratedWord": "men (implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 3,
+            "description": "commodity",
+            "transactionID": "ZA20-1",
+            "transliteratedWord": "men (implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 4,
+            "description": "commodity",
+            "transactionID": "ZA20-1",
+            "transliteratedWord": "men (implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 5,
+            "description": "commodity",
+            "transactionID": "ZA20-1",
+            "transliteratedWord": "men (implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 6,
+            "description": "commodity",
+            "transactionID": "ZA20-1",
+            "transliteratedWord": "men (implied)",
+            "word": ""
+        },
+    ],
+    "words": [
+        {
+            "transliteratedWord": "𐝫",
+            "word": "𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "description": "recipient",
+            "transactionID": "ZA20-1",
+            "transliteratedWord": "DU-RE-ZA-SE",
+            "word": "𐝫𐘬𐘙𐘍𐘈𐝫"
+        },
+        {
+            "transliteratedWord": "MI",
+            "word": "𐝫𐘻𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
+            "transliteratedWord": "4",
+            "word": "𐄊"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA20-2",
+            "transliteratedWord": "SI-TE-TU",
+            "word": "𐘤𐘃𐘹"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA20-2",
+            "transliteratedWord": "1",
+            "word": "𐄇"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA20-3",
+            "transliteratedWord": "SI-TU",
+            "word": "𐘤𐘹"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA20-3",
+            "transliteratedWord": "6",
+            "word": "𐄌"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA20-4",
+            "transliteratedWord": "TE-AROM",
+            "word": "𐘃𐙌"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA20-4",
+            "transliteratedWord": "12",
+            "word": "𐄐𐄈"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA20-5",
+            "transliteratedWord": "RU-MA-TA-SE",
+            "word": "𐘘𐙁𐘳𐘈"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA20-5",
+            "transliteratedWord": "3",
+            "word": "𐄉"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA20-6",
+            "transliteratedWord": "KU-RA",
+            "word": "𐙂𐘴"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA20-6",
+            "transliteratedWord": "130",
+            "word": "𐄙𐄒"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "𐝫",
+            "word": "𐝫"
+        }
+    ]
+}
+,{
     "name": "ZA14",
     "transactions": [
         {
@@ -14301,6 +14842,102 @@ var transactions = [{
         {
             "transliteratedWord": "¹⁄₅",
             "word": "𐝂"
+        }
+    ]
+}
+,{
+    "name": "ZA7a",
+    "transactions": [
+        {
+            "description": "sender",
+            "transactionID": "ZA7a-1",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA7a-2",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA7a-3",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA7a-1",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA7a-2",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA7a-3",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+    ],
+    "words": [
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA7a-1",
+            "transliteratedWord": "U-JU",
+            "word": "𐘉𐘶"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA7a-1",
+            "transliteratedWord": "5",
+            "word": "𐄋"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA7a-2",
+            "transliteratedWord": "A-RA-TU",
+            "word": "𐘇𐘴𐘹"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA7a-2",
+            "transliteratedWord": "4",
+            "word": "𐄊"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "description": "recipient",
+            "transactionID": "ZA7a-3",
+            "transliteratedWord": "A-RE-TU-MI",
+            "word": "𐘇𐘙𐘹𐘻𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "𐝫",
+            "word": "𐝫"
         }
     ]
 }
@@ -20784,6 +21421,385 @@ var transactions = [{
         }
     ]
 },{
+    "name": "ZA10b",
+    "transactions": [
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-1",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-2",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-3",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-4",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-5",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-6",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-7",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-8",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-9",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-10",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-11",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA10b-1",
+            "transliteratedWord": "men(implied)",
+            "word": ""
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-3",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-4",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-5",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-6",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-7",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-8",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-9",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-10",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-11",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+    ],
+    "words": [
+        {
+            "commodityID": 0,
+            "description": "recipient",
+            "transactionID": "ZA10b-1",
+            "transliteratedWord": "WA-*362",
+            "word": "𐘮𐚖"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA10b-1",
+            "transliteratedWord": "2",
+            "word": "𐄈"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "description": "recipient",
+            "transactionID": "ZA10b-2",
+            "transliteratedWord": "DU-RE-ZA-SE",
+            "word": "𐘬𐘙𐘍𐘈"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-2",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-2",
+            "transliteratedWord": "5",
+            "word": "𐄋"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-3",
+            "transliteratedWord": "U-*49",
+            "word": "𐘉𐘪"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-3",
+            "transliteratedWord": "6",
+            "word": "𐄌"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-4",
+            "transliteratedWord": "MA-ZA",
+            "word": "𐙁𐘍"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-4",
+            "transliteratedWord": "5",
+            "word": "𐄋"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-5",
+            "transliteratedWord": "MA-KI-DE-TE",
+            "word": "𐙁𐘸𐘦𐘃"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-5",
+            "transliteratedWord": "5",
+            "word": "𐄋"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-6",
+            "transliteratedWord": "SA-MA",
+            "word": "𐘞𐙁"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-6",
+            "transliteratedWord": "5",
+            "word": "𐄋"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-7",
+            "transliteratedWord": "A-DE",
+            "word": "𐘇𐘦"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-7",
+            "transliteratedWord": "4",
+            "word": "𐄊"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-8",
+            "transliteratedWord": "A-MI-TA",
+            "word": "𐘇𐘻𐘳"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-8",
+            "transliteratedWord": "3",
+            "word": "𐄉"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-9",
+            "transliteratedWord": "RA₂-RO-RE",
+            "word": "𐘽𐘁𐘙"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-9",
+            "transliteratedWord": "2",
+            "word": "𐄈"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-10",
+            "transliteratedWord": "PA-JA-RE",
+            "word": "𐘂𐘱𐘙"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-10",
+            "transliteratedWord": "1",
+            "word": "𐄇"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-11",
+            "transliteratedWord": "KA-KU-NE-TE",
+            "word": "𐘾𐙂𐘗𐘃"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-11",
+            "transliteratedWord": "¹⁄₂",
+            "word": "𐝆"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-11",
+            "transliteratedWord": "TA",
+            "word": "𐘳"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-11",
+            "transliteratedWord": "2",
+            "word": "𐄈"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 1,
+            "description": "recipient",
+            "transactionID": "ZA10b-11",
+            "transliteratedWord": "DU",
+            "word": "𐘬"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA10b-11",
+            "transliteratedWord": "1",
+            "word": "𐄇𐝫"
+        }
+    ]
+}
+,{
     "name": "HT94b",
     "transactions": [
         {
@@ -21595,6 +22611,185 @@ var transactions = [{
         },
         {
             "description": "quantity",
+            "transliteratedWord": "1",
+            "word": "𐄇"
+        }
+    ]
+}
+,{
+    "name": "ZA9",
+    "transactions": [
+        {
+            "description": "sender",
+            "transactionID": "ZA9-2",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA9-3",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA9-4",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA9-5",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+    ],
+    "words": [
+        {
+            "transliteratedWord": "NU-TI",
+            "word": "𐝫𐘯𐘠"
+        },
+        {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "ZA",
+            "word": "𐘍𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "RA",
+            "word": "𐝫𐘴"
+        },
+        {
+            "transliteratedWord": "QI+SI",
+            "word": "𐚽"
+        },
+        {
+            "transliteratedWord": "5",
+            "word": "𐄋"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "𐝫",
+            "word": "𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "description": "recipient",
+            "transactionID": "ZA9-2",
+            "transliteratedWord": "RO-SI-RA",
+            "word": "𐝫𐘁𐘤𐘴𐝫"
+        },
+        {
+            "commodityID": 0,
+            "description": "commodity",
+            "transactionID": "ZA9-2",
+            "transliteratedWord": "QI+SI",
+            "word": "𐚽"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "ZA9-2",
+            "transliteratedWord": "4",
+            "word": "𐄊"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "description": "recipient",
+            "transactionID": "ZA9-3",
+            "transliteratedWord": "A-TA-NA",
+            "word": "𐘇𐘳𐘅𐝫"
+        },
+        {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
+            "transliteratedWord": "𐝫",
+            "word": "𐝫"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA9-3",
+            "transliteratedWord": "QI+SI",
+            "word": "𐚽"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA9-3",
+            "transliteratedWord": "2",
+            "word": "𐄈"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
+            "description": "recipient",
+            "transactionID": "ZA9-4",
+            "transliteratedWord": "MA-JU",
+            "word": "𐝫𐙁𐘶"
+        },
+        {
+            "commodityID": 2,
+            "description": "commodity",
+            "transactionID": "ZA9-4",
+            "transliteratedWord": "*22F",
+            "word": "𐘓"
+        },
+        {
+            "commodityID": 2,
+            "description": "quantity",
+            "transactionID": "ZA9-4",
+            "transliteratedWord": "2",
+            "word": "𐄈"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "description": "recipient",
+            "transactionID": "ZA9-5",
+            "transliteratedWord": "WI-RA-RE-MI-TE",
+            "word": "𐘣𐘴𐘙𐘻𐘃"
+        },
+        {
+            "commodityID": 3,
+            "description": "commodity",
+            "transactionID": "ZA9-5",
+            "transliteratedWord": "*22F",
+            "word": "𐘓"
+        },
+        {
+            "commodityID": 3,
+            "description": "quantity",
+            "transactionID": "ZA9-5",
             "transliteratedWord": "1",
             "word": "𐄇"
         }
@@ -23404,6 +24599,135 @@ var transactions = [{
             "transactionID": "PE1-4",
             "transliteratedWord": "36",
             "word": "𐄒𐄌"
+        }
+    ]
+}
+,{
+    "name": "ZA11b",
+    "transactions": [
+        {
+            "description": "sender",
+            "transactionID": "ZA11b-4",
+            "transliteratedWord": "E-TO-RI",
+            "word": "𐘡𐘄𐘭"
+        },
+    ],
+    "words": [
+        {
+            "description": "sender",
+            "transactionID": "ZA11b-2",
+            "transliteratedWord": "E-TO-RI",
+            "word": "𐘡𐘄𐘭"
+        },
+        {
+            "transliteratedWord": "*516",
+            "word": "𐛀"
+        },
+        {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "description": "recipient",
+            "transactionID": "ZA11b-2",
+            "transliteratedWord": "SA-*301-RI",
+            "word": "𐘞𐙕𐘭"
+        },
+        {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA11b-2",
+            "transliteratedWord": "GRA+PA",
+            "word": "𐛭"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "ZA11b-2",
+            "transliteratedWord": "1",
+            "word": "𐄇𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 2,
+            "description": "commodity",
+            "transactionID": "ZA11b-2",
+            "transliteratedWord": "I-OLIV",
+            "word": "𐘚𐙋"
+        },
+        {
+            "commodityID": 2,
+            "description": "quantity",
+            "transactionID": "ZA11b-2",
+            "transliteratedWord": "1",
+            "word": "𐄇𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "I-DE",
+            "word": "𐝫𐘚𐘦𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "RA",
+            "word": "𐝫𐘴"
+        },
+        {
+            "transliteratedWord": "2",
+            "word": "𐄈"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "description": "recipient",
+            "transactionID": "ZA11b-4",
+            "transliteratedWord": "KU-PA",
+            "word": "𐙂𐘂"
+        },
+        {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
+            "commodityID": 3,
+            "description": "commodity",
+            "transactionID": "ZA11b-4",
+            "transliteratedWord": "GRA+PA",
+            "word": "𐛭"
+        },
+        {
+            "commodityID": 3,
+            "description": "quantity",
+            "transactionID": "ZA11b-4",
+            "transliteratedWord": "3",
+            "word": "𐄉"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "𐝫",
+            "word": "𐝫"
         }
     ]
 }
