@@ -32,7 +32,7 @@
             "transactionID": "HT24a-3",
             "transliteratedWord": "?",
             "word": "?"
-        },
+        }
     ],
     "words": [
         {

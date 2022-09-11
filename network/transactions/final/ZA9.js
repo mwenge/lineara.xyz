@@ -24,7 +24,7 @@
             "transactionID": "ZA9-5",
             "transliteratedWord": "Zakros Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {

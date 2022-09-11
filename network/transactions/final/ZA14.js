@@ -104,7 +104,7 @@
             "transactionID": "ZA14-8",
             "transliteratedWord": "men (implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -234,7 +234,7 @@
             "word": "\n"
         },
         {
-            "description": "sender",
+            "description": "recipient",
             "transactionID": "ZA14-8",
             "transliteratedWord": "JA-WI",
             "word": "𐘱𐘣𐝫"
@@ -244,7 +244,6 @@
             "word": "\n"
         },
         {
-            "transactionID": "ZA14-8",
             "transliteratedWord": "𐝫",
             "word": "𐝫"
         },
@@ -253,7 +252,6 @@
             "word": "\n"
         },
         {
-            "transactionID": "ZA14-8",
             "transliteratedWord": "𐝫",
             "word": "𐝫"
         }

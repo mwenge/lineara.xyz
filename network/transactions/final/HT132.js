@@ -18,7 +18,7 @@
             "transactionID": "HT132-3",
             "transliteratedWord": "Haghia Triada Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {

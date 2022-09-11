@@ -33,7 +33,7 @@
             "transactionID": "HT86b-4",
             "transliteratedWord": "GRA+K+L",
             "word": "𐛷"
-        },
+        }
     ],
     "words": [
         {

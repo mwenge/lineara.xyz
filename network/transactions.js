@@ -12,7 +12,7 @@ var transactions = [{
             "transactionID": "HT36-3",
             "transliteratedWord": "Haghia Triada Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -117,7 +117,7 @@ var transactions = [{
             "transactionID": "HT123+124a-7",
             "transliteratedWord": "Haghia Triada Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -2234,7 +2234,7 @@ var transactions = [{
             "transactionID": "HT89-1",
             "transliteratedWord": "Haghia Triada Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -5430,7 +5430,7 @@ var transactions = [{
             "transactionID": "PE2-6",
             "transliteratedWord": "?",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -5957,7 +5957,7 @@ var transactions = [{
             "transactionID": "HT26a-4",
             "transliteratedWord": "*406VAS+KE",
             "word": "𐜮"
-        },
+        }
     ],
     "words": [
         {
@@ -7680,7 +7680,7 @@ var transactions = [{
             "transactionID": "ZA10a-8",
             "transliteratedWord": "men(implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -9007,7 +9007,7 @@ var transactions = [{
             "transactionID": "HT7b-1",
             "transliteratedWord": "men (implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -9064,7 +9064,7 @@ var transactions = [{
             "transactionID": "TY3b-3",
             "transliteratedWord": "Tylissos Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -11564,7 +11564,7 @@ var transactions = [{
             "transactionID": "KH7a-1",
             "transliteratedWord": "Khania Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -13125,7 +13125,7 @@ var transactions = [{
             "transactionID": "ZA1a-1",
             "transliteratedWord": "Zakros Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -13480,7 +13480,7 @@ var transactions = [{
             "transactionID": "ZA15b-1",
             "transliteratedWord": "Zakros Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -13598,38 +13598,38 @@ var transactions = [{
         {
             "commodityID": 2,
             "description": "commodity",
-            "transactionID": "ZA20-1",
+            "transactionID": "ZA20-2",
             "transliteratedWord": "men (implied)",
             "word": ""
         },
         {
             "commodityID": 3,
             "description": "commodity",
-            "transactionID": "ZA20-1",
+            "transactionID": "ZA20-3",
             "transliteratedWord": "men (implied)",
             "word": ""
         },
         {
             "commodityID": 4,
             "description": "commodity",
-            "transactionID": "ZA20-1",
+            "transactionID": "ZA20-4",
             "transliteratedWord": "men (implied)",
             "word": ""
         },
         {
             "commodityID": 5,
             "description": "commodity",
-            "transactionID": "ZA20-1",
+            "transactionID": "ZA20-5",
             "transliteratedWord": "men (implied)",
             "word": ""
         },
         {
             "commodityID": 6,
             "description": "commodity",
-            "transactionID": "ZA20-1",
+            "transactionID": "ZA20-6",
             "transliteratedWord": "men (implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -13868,7 +13868,7 @@ var transactions = [{
             "transactionID": "ZA14-8",
             "transliteratedWord": "men (implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -13998,7 +13998,7 @@ var transactions = [{
             "word": "\n"
         },
         {
-            "description": "sender",
+            "description": "recipient",
             "transactionID": "ZA14-8",
             "transliteratedWord": "JA-WI",
             "word": "𐘱𐘣𐝫"
@@ -14008,7 +14008,6 @@ var transactions = [{
             "word": "\n"
         },
         {
-            "transactionID": "ZA14-8",
             "transliteratedWord": "𐝫",
             "word": "𐝫"
         },
@@ -14017,7 +14016,6 @@ var transactions = [{
             "word": "\n"
         },
         {
-            "transactionID": "ZA14-8",
             "transliteratedWord": "𐝫",
             "word": "𐝫"
         }
@@ -14886,7 +14884,7 @@ var transactions = [{
             "transactionID": "ZA7a-3",
             "transliteratedWord": "men(implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -15613,42 +15611,42 @@ var transactions = [{
         {
             "description": "sender",
             "transactionID": "HT116a-2",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-3",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-4",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-5",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-5a",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-6",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-7",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         }
     ],
     "words": [
         {
-            "description": "recipient",
+            "description": "sender",
             "transactionID": "HT116a-1",
             "transliteratedWord": "U-TA-RO",
             "word": "𐘉𐘳𐘁"
@@ -18351,7 +18349,7 @@ var transactions = [{
             "transactionID": "HT86b-4",
             "transliteratedWord": "GRA+K+L",
             "word": "𐛷"
-        },
+        }
     ],
     "words": [
         {
@@ -21490,6 +21488,18 @@ var transactions = [{
             "word": ""
         },
         {
+            "description": "sender",
+            "transactionID": "ZA10b-12",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-13",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
             "commodityID": 0,
             "description": "commodity",
             "transactionID": "ZA10b-1",
@@ -21559,6 +21569,20 @@ var transactions = [{
             "transliteratedWord": "*131B",
             "word": "𐙎"
         },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-12",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-13",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        }
     ],
     "words": [
         {
@@ -21768,14 +21792,14 @@ var transactions = [{
         {
             "commodityID": 1,
             "description": "recipient",
-            "transactionID": "ZA10b-11",
+            "transactionID": "ZA10b-12",
             "transliteratedWord": "TA",
             "word": "𐘳"
         },
         {
             "commodityID": 1,
             "description": "quantity",
-            "transactionID": "ZA10b-11",
+            "transactionID": "ZA10b-12",
             "transliteratedWord": "2",
             "word": "𐄈"
         },
@@ -21786,14 +21810,14 @@ var transactions = [{
         {
             "commodityID": 1,
             "description": "recipient",
-            "transactionID": "ZA10b-11",
+            "transactionID": "ZA10b-13",
             "transliteratedWord": "DU",
             "word": "𐘬"
         },
         {
             "commodityID": 1,
             "description": "quantity",
-            "transactionID": "ZA10b-11",
+            "transactionID": "ZA10b-13",
             "transliteratedWord": "1",
             "word": "𐄇𐝫"
         }
@@ -22642,7 +22666,7 @@ var transactions = [{
             "transactionID": "ZA9-5",
             "transliteratedWord": "Zakros Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -23065,7 +23089,7 @@ var transactions = [{
             "transactionID": "HT11b-5",
             "transliteratedWord": "DE-NU",
             "word": "𐝫𐘦𐘯"
-        },
+        }
     ],
     "words": [
         {
@@ -23238,7 +23262,7 @@ var transactions = [{
             "transactionID": "HT24a-3",
             "transliteratedWord": "?",
             "word": "?"
-        },
+        }
     ],
     "words": [
         {
@@ -24006,7 +24030,7 @@ var transactions = [{
             "transactionID": "HT132-3",
             "transliteratedWord": "Haghia Triada Magazine",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
@@ -24494,7 +24518,7 @@ var transactions = [{
             "transactionID": "PE1-3",
             "transliteratedWord": "¹⁄₂",
             "word": "𐝆"
-        },
+        }
     ],
     "words": [
         {
@@ -24610,7 +24634,7 @@ var transactions = [{
             "transactionID": "ZA11b-4",
             "transliteratedWord": "E-TO-RI",
             "word": "𐘡𐘄𐘭"
-        },
+        }
     ],
     "words": [
         {

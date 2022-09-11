@@ -6,7 +6,7 @@
             "transactionID": "ZA11b-4",
             "transliteratedWord": "E-TO-RI",
             "word": "𐘡𐘄𐘭"
-        },
+        }
     ],
     "words": [
         {

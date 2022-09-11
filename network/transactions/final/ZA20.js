@@ -47,38 +47,38 @@
         {
             "commodityID": 2,
             "description": "commodity",
-            "transactionID": "ZA20-1",
+            "transactionID": "ZA20-2",
             "transliteratedWord": "men (implied)",
             "word": ""
         },
         {
             "commodityID": 3,
             "description": "commodity",
-            "transactionID": "ZA20-1",
+            "transactionID": "ZA20-3",
             "transliteratedWord": "men (implied)",
             "word": ""
         },
         {
             "commodityID": 4,
             "description": "commodity",
-            "transactionID": "ZA20-1",
+            "transactionID": "ZA20-4",
             "transliteratedWord": "men (implied)",
             "word": ""
         },
         {
             "commodityID": 5,
             "description": "commodity",
-            "transactionID": "ZA20-1",
+            "transactionID": "ZA20-5",
             "transliteratedWord": "men (implied)",
             "word": ""
         },
         {
             "commodityID": 6,
             "description": "commodity",
-            "transactionID": "ZA20-1",
+            "transactionID": "ZA20-6",
             "transliteratedWord": "men (implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {

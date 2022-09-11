@@ -68,6 +68,18 @@
             "word": ""
         },
         {
+            "description": "sender",
+            "transactionID": "ZA10b-12",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "ZA10b-13",
+            "transliteratedWord": "Zakros Magazine",
+            "word": ""
+        },
+        {
             "commodityID": 0,
             "description": "commodity",
             "transactionID": "ZA10b-1",
@@ -137,6 +149,20 @@
             "transliteratedWord": "*131B",
             "word": "𐙎"
         },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-12",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA10b-13",
+            "transliteratedWord": "*131B",
+            "word": "𐙎"
+        }
     ],
     "words": [
         {
@@ -346,14 +372,14 @@
         {
             "commodityID": 1,
             "description": "recipient",
-            "transactionID": "ZA10b-11",
+            "transactionID": "ZA10b-12",
             "transliteratedWord": "TA",
             "word": "𐘳"
         },
         {
             "commodityID": 1,
             "description": "quantity",
-            "transactionID": "ZA10b-11",
+            "transactionID": "ZA10b-12",
             "transliteratedWord": "2",
             "word": "𐄈"
         },
@@ -364,14 +390,14 @@
         {
             "commodityID": 1,
             "description": "recipient",
-            "transactionID": "ZA10b-11",
+            "transactionID": "ZA10b-13",
             "transliteratedWord": "DU",
             "word": "𐘬"
         },
         {
             "commodityID": 1,
             "description": "quantity",
-            "transactionID": "ZA10b-11",
+            "transactionID": "ZA10b-13",
             "transliteratedWord": "1",
             "word": "𐄇𐝫"
         }

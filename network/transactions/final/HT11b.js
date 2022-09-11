@@ -12,7 +12,7 @@
             "transactionID": "HT11b-5",
             "transliteratedWord": "DE-NU",
             "word": "𐝫𐘦𐘯"
-        },
+        }
     ],
     "words": [
         {

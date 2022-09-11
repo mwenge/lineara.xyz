@@ -94,7 +94,7 @@
             "transactionID": "PE1-3",
             "transliteratedWord": "¹⁄₂",
             "word": "𐝆"
-        },
+        }
     ],
     "words": [
         {

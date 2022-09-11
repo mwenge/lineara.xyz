@@ -39,7 +39,7 @@
             "transactionID": "ZA7a-3",
             "transliteratedWord": "men(implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {

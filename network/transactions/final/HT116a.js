@@ -9,42 +9,42 @@
         {
             "description": "sender",
             "transactionID": "HT116a-2",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-3",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-4",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-5",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-5a",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-6",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         },
         {
             "description": "sender",
             "transactionID": "HT116a-7",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "U-TA-RO"
         }
     ],
     "words": [
         {
-            "description": "recipient",
+            "description": "sender",
             "transactionID": "HT116a-1",
             "transliteratedWord": "U-TA-RO",
             "word": "𐘉𐘳𐘁"
