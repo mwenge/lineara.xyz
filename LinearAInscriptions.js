@@ -57091,7 +57091,9 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/KNZb52-Inscription.jpg"
+    ],
     "name": "KNZb52",
     "names": [
         "KNZb52"
@@ -69512,7 +69514,9 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/ARGZg1-Inscription.jpg"
+    ],
     "name": "ARGZg1",
     "names": [
         "ARGZg1"
