@@ -23,7 +23,7 @@
         {
             "commodityID": 0,
             "description": "commodity",
-            "transactionID": "HT7b-1",
+            "transactionID": "HT7b-2",
             "transliteratedWord": "men (implied)",
             "word": ""
         }

@@ -50,6 +50,24 @@
             "word": ""
         },
         {
+            "description": "sender",
+            "transactionID": "HT97a-8",
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "HT97a-9",
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "HT97a-10",
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
+        },
+        {
             "commodityID": 1,
             "description": "commodity",
             "transactionID": "HT97a-0",
@@ -97,7 +115,28 @@
             "transactionID": "HT97a-7",
             "transliteratedWord": "VIR+KA",
             "word": "𐛧"
-        }
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "HT97a-8",
+            "transliteratedWord": "VIR+KA",
+            "word": "𐛧"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "HT97a-9",
+            "transliteratedWord": "VIR+KA",
+            "word": "𐛧"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "HT97a-10",
+            "transliteratedWord": "VIR+KA",
+            "word": "𐛧"
+        },
     ],
     "words": [
         {
@@ -247,14 +286,14 @@
         {
             "commodityID": 1,
             "description": "recipient",
-            "transactionID": "HT97a-6",
+            "transactionID": "HT97a-7",
             "transliteratedWord": "JU",
             "word": "𐘶"
         },
         {
             "commodityID": 1,
             "description": "quantity",
-            "transactionID": "HT97a-6",
+            "transactionID": "HT97a-7",
             "transliteratedWord": "15",
             "word": "𐄐𐄋"
         },
@@ -265,14 +304,14 @@
         {
             "commodityID": 1,
             "description": "recipient",
-            "transactionID": "HT97a-6",
+            "transactionID": "HT97a-8",
             "transliteratedWord": "KI",
             "word": "𐘸"
         },
         {
             "commodityID": 1,
             "description": "quantity",
-            "transactionID": "HT97a-6",
+            "transactionID": "HT97a-8",
             "transliteratedWord": "3",
             "word": "𐄉"
         },
@@ -283,14 +322,14 @@
         {
             "commodityID": 1,
             "description": "recipient",
-            "transactionID": "HT97a-6",
+            "transactionID": "HT97a-9",
             "transliteratedWord": "*79",
             "word": "𐙀"
         },
         {
             "commodityID": 1,
             "description": "quantity",
-            "transactionID": "HT97a-6",
+            "transactionID": "HT97a-9",
             "transliteratedWord": "5",
             "word": "𐝫𐄋"
         },
@@ -301,14 +340,14 @@
         {
             "commodityID": 1,
             "description": "recipient",
-            "transactionID": "HT97a-7",
+            "transactionID": "HT97a-10",
             "transliteratedWord": "TA-TI",
             "word": "𐘳𐘠"
         },
         {
             "commodityID": 1,
             "description": "quantity",
-            "transactionID": "HT97a-7",
+            "transactionID": "HT97a-10",
             "transliteratedWord": "2",
             "word": "𐄈"
         },

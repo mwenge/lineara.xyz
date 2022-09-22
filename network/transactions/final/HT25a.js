@@ -118,6 +118,20 @@
             "transliteratedWord": "men(implied)",
             "word": ""
         },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "HT25a-6",
+            "transliteratedWord": "?",
+            "word": "𐄇"
+        },
+        {
+            "commodityID": 0,
+            "description": "quantity",
+            "transactionID": "HT25a-8",
+            "transliteratedWord": "?",
+            "word": "𐄇"
+        },
     ],
     "words": [
         {
@@ -217,7 +231,7 @@
             "word": "\n"
         },
         {
-            "description": "sender",
+            "description": "recipient",
             "transactionID": "HT25a-6",
             "transliteratedWord": "TU-QE-NU",
             "word": "𐘹𐘿𐘯𐝫"
@@ -245,7 +259,7 @@
             "word": "\n"
         },
         {
-            "description": "sender",
+            "description": "recipient",
             "transactionID": "HT25a-8",
             "transliteratedWord": "DU-RU-WI",
             "word": "𐘬𐘘𐘣𐝫"
