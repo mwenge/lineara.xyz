@@ -3,9 +3,15 @@
     "transactions": [
         {
             "description": "sender",
+            "transactionID": "KH88-1",
+            "transliteratedWord": "Kharnia Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
             "transactionID": "KH88-2",
-            "transliteratedWord": "QA-NU-MA",
-            "word": "𐘌𐘯𐙁"
+            "transliteratedWord": "Kharnia Magazine",
+            "word": ""
         },
         {
             "commodityID": 1,
@@ -17,7 +23,7 @@
     ],
     "words": [
         {
-            "description": "sender",
+            "description": "recipient",
             "transactionID": "KH88-1",
             "transliteratedWord": "QA-NU-MA",
             "word": "𐘌𐘯𐙁"
@@ -28,8 +34,6 @@
             "word": "𐄁"
         },
         {
-            "description": "recipient",
-            "transactionID": "KH88-1",
             "transliteratedWord": "*21F-*118",
             "word": "𐘐𐙈"
         },

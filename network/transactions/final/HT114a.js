@@ -1,21 +1,11 @@
 {
     "name": "HT114a",
     "transactions": [
-        {
-            "description": "sender",
-            "transactionID": "HT114a-1",
-            "transliteratedWord": "Haghia Triada Magazine"
-        },
-        {
-            "description": "sender",
-            "transactionID": "HT114a-2",
-            "transliteratedWord": "Haghia Triada Magazine"
-        }
     ],
     "words": [
         {
-            "description": "recipient",
-            "transactionID": "HT114a-1",
+            "description": "sender",
+            "transactionID": "HT114a-2",
             "transliteratedWord": "KI-RI-TA₂",
             "word": "𐘸𐘭𐘷"
         },

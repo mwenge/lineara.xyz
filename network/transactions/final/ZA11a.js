@@ -102,8 +102,15 @@
         {
             "description": "recipient",
             "transactionID": "ZA11a-3",
-            "transliteratedWord": "E-KU-RU",
-            "word": "𐝫𐘡𐙂𐘘"
+            "transliteratedWord": "E-KU",
+            "word": "𐝫𐘡𐙂"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "ZA11a-3",
+            "transliteratedWord": "RU",
+            "word": "𐘘"
         },
         {
             "commodityID": 1,

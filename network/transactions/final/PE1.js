@@ -3,27 +3,21 @@
     "transactions": [
         {
             "description": "sender",
-            "transactionID": "PE1-1",
-            "transliteratedWord": "Petras Magazine",
-            "word": ""
-        },
-        {
-            "description": "sender",
             "transactionID": "PE1-2",
-            "transliteratedWord": "Petras Magazine",
-            "word": ""
+            "transliteratedWord": "U-KA-RE",
+            "word": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅"
         },
         {
             "description": "sender",
             "transactionID": "PE1-3",
-            "transliteratedWord": "Petras Magazine",
-            "word": ""
+            "transliteratedWord": "U-KA-RE",
+            "word": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅"
         },
         {
             "description": "sender",
             "transactionID": "PE1-4",
-            "transliteratedWord": "Petras Magazine",
-            "word": ""
+            "transliteratedWord": "U-KA-RE",
+            "word": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅"
         },
         {
             "commodityID": 0,
@@ -98,7 +92,7 @@
     ],
     "words": [
         {
-            "description": "recipient",
+            "description": "sender",
             "transactionID": "PE1-1",
             "transliteratedWord": "U-KA-RE",
             "word": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅"

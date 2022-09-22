@@ -4,14 +4,14 @@
         {
             "description": "sender",
             "transactionID": "HT7b-1",
-            "transliteratedWord": "Haghia Triada Magazine",
-            "word": ""
+            "transliteratedWord": "QE-TI",
+            "word": "𐘿𐘠"
         },
         {
             "description": "sender",
             "transactionID": "HT7b-2",
-            "transliteratedWord": "Haghia Triada Magazine",
-            "word": ""
+            "transliteratedWord": "QE-TI",
+            "word": "𐘿𐘠"
         },
         {
             "commodityID": 0,

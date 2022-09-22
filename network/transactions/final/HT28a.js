@@ -3,38 +3,38 @@
     "transactions": [
         {
             "description": "sender",
-            "transactionID": "HT28a-1",
-            "transliteratedWord": "Haghia Triada Magazine"
-        },
-        {
-            "description": "sender",
             "transactionID": "HT28a-2",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "A-SI-JA-KA",
+            "word": "𐘇𐘤𐘱𐘾"
         },
         {
             "description": "sender",
             "transactionID": "HT28a-3",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "A-SI-JA-KA",
+            "word": "𐘇𐘤𐘱𐘾"
         },
         {
             "description": "sender",
             "transactionID": "HT28a-4",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "A-SI-JA-KA",
+            "word": "𐘇𐘤𐘱𐘾"
         },
         {
             "description": "sender",
             "transactionID": "HT28a-5",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "A-SI-JA-KA",
+            "word": "𐘇𐘤𐘱𐘾"
         },
         {
             "description": "sender",
             "transactionID": "HT28a-6",
-            "transliteratedWord": "Haghia Triada Magazine"
+            "transliteratedWord": "A-SI-JA-KA",
+            "word": "𐘇𐘤𐘱𐘾"
         }
     ],
     "words": [
         {
-            "description": "recipient",
+            "description": "sender",
             "transactionID": "HT28a-1",
             "transliteratedWord": "A-SI-JA-KA",
             "word": "𐘇𐘤𐘱𐘾"

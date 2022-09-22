@@ -3,44 +3,105 @@
     "transactions": [
         {
             "description": "sender",
-            "transactionID": "HT28b-1",
-            "transliteratedWord": "Haghia Triada Magazine"
-        },
-        {
-            "description": "sender",
-            "transactionID": "HT28b-2",
-            "transliteratedWord": "Haghia Triada Magazine"
-        },
-        {
-            "description": "sender",
             "transactionID": "HT28b-3",
-            "transliteratedWord": "Haghia Triada Magazine"
-        },
-        {
-            "description": "sender",
-            "transactionID": "HT28b-4",
-            "transliteratedWord": "Haghia Triada Magazine"
-        },
-        {
-            "description": "sender",
-            "transactionID": "HT28b-5",
-            "transliteratedWord": "Haghia Triada Magazine"
-        },
-        {
-            "description": "sender",
-            "transactionID": "HT28b-6",
-            "transliteratedWord": "Haghia Triada Magazine"
-        }
-    ],
-    "words": [
-        {
-            "description": "recipient",
-            "transactionID": "HT28b-1",
             "transliteratedWord": "A-SI-JA-KA",
             "word": "𐘇𐘤𐘱𐘾"
         },
         {
-            "transactionID": "HT28b-1",
+            "description": "sender",
+            "transactionID": "HT28b-4",
+            "transliteratedWord": "A-SI-JA-KA",
+            "word": "𐘇𐘤𐘱𐘾"
+        },
+        {
+            "description": "sender",
+            "transactionID": "HT28b-5",
+            "transliteratedWord": "A-SI-JA-KA",
+            "word": "𐘇𐘤𐘱𐘾"
+        },
+        {
+            "description": "sender",
+            "transactionID": "HT28b-6",
+            "transliteratedWord": "A-SI-JA-KA",
+            "word": "𐘇𐘤𐘱𐘾"
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "HT28b-2",
+            "transliteratedWord": "GRA",
+            "word": "𐙉"
+        },
+        {
+            "commodityID": 1,
+            "description": "quantity",
+            "transactionID": "HT28b-2",
+            "transliteratedWord": "20",
+            "word": "𐄑"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 2,
+            "description": "commodity",
+            "transactionID": "HT28b-2",
+            "transliteratedWord": "OLE+DI",
+            "word": "𐜉"
+        },
+        {
+            "commodityID": 2,
+            "description": "quantity",
+            "transactionID": "HT28b-2",
+            "transliteratedWord": "5",
+            "word": "𐄋"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 3,
+            "description": "commodity",
+            "transactionID": "HT28b-2",
+            "transliteratedWord": "NI",
+            "word": "𐘝"
+        },
+        {
+            "commodityID": 3,
+            "description": "quantity",
+            "transactionID": "HT28b-2",
+            "transliteratedWord": "2",
+            "word": "𐄈"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "commodityID": 4,
+            "description": "commodity",
+            "transactionID": "HT28b-2",
+            "transliteratedWord": "VIN",
+            "word": "𐙍"
+        },
+        {
+            "commodityID": 4,
+            "description": "quantity",
+            "transactionID": "HT28b-2",
+            "transliteratedWord": "4",
+            "word": "𐄊"
+        },
+    ],
+    "words": [
+        {
+            "description": "sender",
+            "transactionID": "HT28b-2",
+            "transliteratedWord": "A-SI-JA-KA",
+            "word": "𐘇𐘤𐘱𐘾"
+        },
+        {
             "transliteratedWord": "𐄁",
             "word": "𐄁"
         },

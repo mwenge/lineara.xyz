@@ -3,39 +3,58 @@
     "transactions": [
         {
             "description": "sender",
+            "transactionID": "HT97a-0",
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
+            "transactionID": "HT97a-1",
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
+        },
+        {
+            "description": "sender",
             "transactionID": "HT97a-2",
-            "transliteratedWord": "KA-RU",
-            "word": "𐘾𐘘"
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
         },
         {
             "description": "sender",
             "transactionID": "HT97a-3",
-            "transliteratedWord": "KA-RU",
-            "word": "𐘾𐘘"
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
         },
         {
             "description": "sender",
             "transactionID": "HT97a-4",
-            "transliteratedWord": "KA-RU",
-            "word": "𐘾𐘘"
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
         },
         {
             "description": "sender",
             "transactionID": "HT97a-5",
-            "transliteratedWord": "KA-RU",
-            "word": "𐘾𐘘"
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
         },
         {
             "description": "sender",
             "transactionID": "HT97a-6",
-            "transliteratedWord": "KA-RU",
-            "word": "𐘾𐘘"
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
         },
         {
             "description": "sender",
             "transactionID": "HT97a-7",
-            "transliteratedWord": "KA-RU",
-            "word": "𐘾𐘘"
+            "transliteratedWord": "Haghia Triada Magazine",
+            "word": ""
+        },
+        {
+            "commodityID": 1,
+            "description": "commodity",
+            "transactionID": "HT97a-0",
+            "transliteratedWord": "VIR+KA",
+            "word": "𐛧"
         },
         {
             "commodityID": 1,
@@ -82,8 +101,8 @@
     ],
     "words": [
         {
-            "description": "sender",
-            "transactionID": "HT97a-1",
+            "description": "recipient",
+            "transactionID": "HT97a-0",
             "transliteratedWord": "KA-RU",
             "word": "𐘾𐘘"
         },
@@ -93,12 +112,10 @@
             "word": "𐄁"
         },
         {
-            "transactionID": "HT97a-1",
             "transliteratedWord": "*307+*387",
             "word": "𐜠"
         },
         {
-            "transactionID": "HT97a-1",
             "transliteratedWord": "𐄁",
             "word": "𐄁"
         },
@@ -316,7 +333,6 @@
             "word": "\n"
         },
         {
-            "description": "quantity",
             "transliteratedWord": "3",
             "word": "𐄉𐝫"
         },
@@ -330,7 +346,6 @@
             "word": "𐄋"
         },
         {
-            "transactionID": "HT97a-8",
             "transliteratedWord": "𐝫",
             "word": "𐝫"
         }
