@@ -2,12 +2,6 @@
     "name": "ZA15a",
     "transactions": [
         {
-            "description": "recipient",
-            "transactionID": "ZA15a-2",
-            "transliteratedWord": "*47-KU-NA",
-            "word": "𐘨𐙂𐘅"
-        },
-        {
             "commodityID": 1,
             "description": "commodity",
             "transactionID": "ZA15a-2",
@@ -102,7 +96,7 @@
     "words": [
         {
             "description": "recipient",
-            "transactionID": "ZA15a-1",
+            "transactionID": "ZA15a-2",
             "transliteratedWord": "*47-KU-NA",
             "word": "𐘨𐙂𐘅"
         },

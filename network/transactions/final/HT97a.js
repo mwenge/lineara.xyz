@@ -136,7 +136,7 @@
             "transactionID": "HT97a-10",
             "transliteratedWord": "VIR+KA",
             "word": "𐛧"
-        },
+        }
     ],
     "words": [
         {

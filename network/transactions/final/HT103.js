@@ -51,7 +51,7 @@
             "description": "commodity",
             "transliteratedWord": "PA₃",
             "word": "𐘰"
-        },
+        }
     ],
     "words": [
         {

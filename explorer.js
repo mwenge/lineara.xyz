@@ -1463,7 +1463,7 @@ function showWordChart(searchTerm, item) {
   }
 }
 
-function updateSearchTerms(searchTerm) {
+function addToSearchTerms(searchTerm) {
   return function(evt) {
     if (!searchTerm.length) {
       return;
@@ -1489,6 +1489,17 @@ function updateSearchTerms(searchTerm) {
     item.setAttribute("highlightColor", color);
 
     container.appendChild(item);
+    if (!evt) {
+      return;
+    }
+    evt.stopPropagation();
+  }
+}
+
+function updateSearchTerms(searchTerm) {
+  return function(evt) {
+    console.log(searchTerm);
+    addToSearchTerms(searchTerm)();
     applySearchTerms();
     if (!evt) {
       return;
@@ -1675,6 +1686,7 @@ function hasTag(tag, inscription) {
 
 function applySearchTerms() {
 
+  console.log("applySearchTerms");
   var searchTerms = document.getElementById("search-terms");
   var numberOfSearchTerms = searchTerms.children.length;
   var searchTermValues = Array.prototype.slice.call(searchTerms.children)
@@ -2185,7 +2197,11 @@ window.onload = function() {
 
   function tryWord() {
     const urlParams = new URLSearchParams(window.location.search);
-    const search = urlParams.get('search');
+    if (!urlParams.get('search')) {
+      return false;
+    }
+    const search = urlParams.get('search').replace(/'/g, "\"");
+    console.log(search);
     if (!search) {
       return false;
     }
@@ -2195,7 +2211,8 @@ window.onload = function() {
     } catch {
       terms = [search];
     } finally {
-      terms.forEach(t => updateSearchTerms(t)());;
+      terms.forEach(t => addToSearchTerms(t)());;
+      applySearchTerms();
     }
     return true;
   }

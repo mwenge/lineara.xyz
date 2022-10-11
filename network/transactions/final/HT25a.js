@@ -131,7 +131,7 @@
             "transactionID": "HT25a-8",
             "transliteratedWord": "?",
             "word": "𐄇"
-        },
+        }
     ],
     "words": [
         {

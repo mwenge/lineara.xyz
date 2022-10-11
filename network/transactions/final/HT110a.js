@@ -32,7 +32,7 @@
             "transactionID": "HT110a-3",
             "transliteratedWord": "CYP+E",
             "word": "𐜚"
-        },
+        }
     ],
     "words": [
         {

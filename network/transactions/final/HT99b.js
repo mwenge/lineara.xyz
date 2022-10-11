@@ -56,7 +56,7 @@
             "transactionID": "HT99b-4",
             "transliteratedWord": "VIR+KA",
             "word": "𐛧"
-        },
+        }
     ],
     "words": [
         {

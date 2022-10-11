@@ -92,7 +92,7 @@
             "transactionID": "HT28b-2",
             "transliteratedWord": "4",
             "word": "𐄊"
-        },
+        }
     ],
     "words": [
         {

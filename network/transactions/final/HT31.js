@@ -6,7 +6,7 @@
             "transactionID": "HT31-2",
             "transliteratedWord": "]-TI-SA",
             "word": "𐝫𐘠𐘞"
-        },
+        }
     ],
     "words": [
         {

@@ -39,7 +39,7 @@
             "transactionID": "HT146-3",
             "transliteratedWord": "men(implied)",
             "word": ""
-        },
+        }
     ],
     "words": [
         {
