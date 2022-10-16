@@ -31,7 +31,7 @@ function createNodes() {
 }
 
 function createEdges(nodeLookup) {
-  function createEdge(words, x, i, prevWord) {
+  function createEdge(words, x, i, prevWord, type) {
     function getIndex(i) {
       if (i < words.length) {
         return i;
@@ -71,6 +71,7 @@ function createEdges(nodeLookup) {
         }
         normalizedTransactions.get(tranID).labels = [name];
         normalizedTransactions.get(tranID).title = tranID.split('-')[0];
+        normalizedTransactions.get(tranID).type = type;
         normalizedTransactions.get(tranID).commodityIndex = [[getIndex(i)]];
       } else {
         normalizedTransactions.get(tranID).commodities.push(name);
@@ -109,7 +110,7 @@ function createEdges(nodeLookup) {
     }
     var words = t.words.concat(t.transactions).flat();
     for (var i = 0; i < words.length; i++) {
-      createEdge(t.words, words[i], i, words[i-1]);
+      createEdge(t.words, words[i], i, words[i-1], t.type);
     }
   }
 
@@ -121,6 +122,7 @@ function createEdges(nodeLookup) {
         to: x.to, 
         inscription: x.title, 
         title: x.title, 
+        type: x.type, 
         recipientIndex: x.recipientIndex, senderIndex: x.senderIndex,
         commodityIndex: x.commodityIndex, quantityIndex: x.quantityIndex
       });
@@ -133,6 +135,7 @@ function createEdges(nodeLookup) {
         label: x.labels[i] + ' ' + (x.quantity ? x.quantity[i] : ""),
         inscription: x.title, 
         title: x.title, width: 1,
+        type: x.type, 
         recipientIndex: x.recipientIndex, senderIndex: x.senderIndex,
         commodityIndex: x.commodityIndex[i],
         quantityIndex: (x.quantityIndex ? x.quantityIndex[i] : [])
@@ -153,7 +156,7 @@ function filterNodesAndEdges(nodes, edges, nodeLookup) {
     return searchTerms.some(x => {
       var f = nodeLookup.get(x.toUpperCase());
       if (f == undefined) f = -1;
-      return (v.from == f || v.to == f || v.label.includes(x) || v.inscription == x)
+      return (v.from == f || v.to == f || v.label.includes(x) || v.inscription == x || v.type == x)
     });
   });
   var matchingNodeIDs = matchingEdges.map(e => [e.from, e.to]).flat()
