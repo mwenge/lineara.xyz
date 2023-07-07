@@ -37,6 +37,7 @@ MYZa2
 MYZf1
 
 L. Godart, « Appendice A. L’iscrizione NE Za 1 », dans Scavi a Nerokourou, Kydonias, Fascicolo I, Incunabula Graeca XCI, p. 281-283.
+AA. VV., Scavi a Nerokourou, Kydonias (Ricerche greco-italiane in Creta occidentale - I) Fascicolo I (1989). 
 NE Za 1 (Godart 1989)
 
 unknown
@@ -84,4 +85,10 @@ https://library.catalogue.tcd.ie/record=b11071391~S9
 (La Rosa-Carratelli 1987)
 HT Zb 162
 
+
+PK Za 28
+A Fragment of a Libation Table Inscribed in Linear A from Petsophas, Palaikastro (PK Za 28)
+Megistos Kouros. Studies in honour of Hugh Sackett
+2022 | Book chapter
+CONTRIBUTORS: MAURIZIO DEL FREO; Julien Zurbach; Carl Knappett
 
