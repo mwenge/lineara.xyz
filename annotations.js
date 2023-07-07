@@ -62427,9 +62427,11 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Only instance of word",
+                    "Malia",
+                    "Milos",
                     "word or logoram",
                     "assigned number",
+                    "always assigned number",
                     "place name"
                 ],
                 "transliteratedWord": "RE-TI",
@@ -63419,7 +63421,18 @@ var wordAnnotations =
     },
     {
         "name": "MIZb3",
-        "tagsForWords": []
+        "tagsForWords": [
+            {
+                "tags": [
+                    "word",
+                    "Malia",
+                    "Milos",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "RE-TI",
+                "word": "𐘙𐘠"
+            }
+        ]
     },
     {
         "name": "MILZb1",
@@ -65209,9 +65222,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Only instance of word",
+                    "Phaistos",
+                    "Palaikastro",
                     "word or logoram",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
                 "transliteratedWord": "*418+L2",
                 "word": "𐜶"
@@ -80068,6 +80083,39 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
+            }
+        ]
+    },
+    {
+        "name": "PKZa28",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "PU₂-RE",
+                "word": "𐝫𐘜𐘙"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "logogram",
+                    "Phaistos",
+                    "Palaikastro",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "*418+L2",
+                "word": "𐜶𐝫"
             }
         ]
     }

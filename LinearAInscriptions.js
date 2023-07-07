@@ -71703,6 +71703,42 @@ var inscriptions = new Map([
         "\n"
     ]
 }],
+["PKZa28",{
+    "context": "",
+    "facsimileImages": [
+        "images/PKZa28-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "© J Zurbach and M Del Freo",
+    "imageRightsURL": "https://publications.cnr.it/doc/468917",
+    "images": [
+        "images/PKZa28-Inscription.jpg"
+    ],
+    "name": "PKZa28",
+    "names": [
+        "PKZa28"
+    ],
+    "parsedInscription": "𐝫𐘜𐘙𐄁𐜶𐝫",
+    "scribe": "",
+    "site": "Palaikastro",
+    "support": "Stone vessel",
+    "transcription": "𐝫𐘜𐘙𐄁𐜶𐝫",
+    "translatedWords": [
+        "PU₂-RE",
+        "𐄁",
+        "*418+L2"
+    ],
+    "transliteratedWords": [
+        "PU₂-RE",
+        "𐄁",
+        "*418+L2"
+    ],
+    "words": [
+        "𐝫𐘜𐘙",
+        "𐄁",
+        "𐜶𐝫"
+    ]
+}],
 ]);
 var lexicon = new Map([
 ["𐘇𐙁𐘱", "Greek ἄρμα?"],
@@ -75912,7 +75948,7 @@ var sequences = new Map([
 ]);
 var wordsInCorpus = new Map([
 ["", 2735],
-["𐄁", 467],
+["𐄁", 468],
 ["𐄇", 310],
 ["𐙕", 238],
 ["𐙂", 170],
@@ -76297,6 +76333,7 @@ var wordsInCorpus = new Map([
 ["𐘙𐘠", 2],
 ["𐜅", 2],
 ["𐜱", 2],
+["𐜶", 2],
 ["𐝆𐝆", 2],
 ["𐝈𐝈", 2],
 ["𐘇𐘻", 2],
@@ -77014,7 +77051,6 @@ var wordsInCorpus = new Map([
 ["𐘀𐘴", 1],
 ["𐝈𐝃", 1],
 ["𐜵", 1],
-["𐜶", 1],
 ["𐜢", 1],
 ["𐙩𐘿𐚍", 1],
 ["𐝏", 1],
@@ -77335,6 +77371,7 @@ var wordsInCorpus = new Map([
 ["𐘭𐘀𐘉", 1],
 ["𐘈𐝕", 1],
 ["𐘚𐘞𐘭𐘥", 1],
+["𐘜𐘙", 1],
 ]);
 var ligatures = new Map([
 ["𐚳", ['𐘀', '𐘁']],
