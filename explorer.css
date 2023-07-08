@@ -830,7 +830,12 @@ textarea:focus, input:focus{
 @media only screen 
   and (min-device-width: 280px) 
   and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2) {
+  and (-webkit-min-device-pixel-ratio: 2),
+  only screen 
+  and (min-device-width: 280px) 
+  and (max-device-width: 480px)
+  and (min-device-pixel-ratio: 2),
+  {
 	#filters-container { display: none; }
 	#search-container { bottom: 1vh; }
 	.transliteration-item, .translation-item, .text-item { font-size: 3vw; }
