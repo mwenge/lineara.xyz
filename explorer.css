@@ -309,6 +309,7 @@ input:focus::placeholder { color:transparent; }
   font-family: 'Noto Mono', serif;
   writing-mode: tb-rl;
   display: none;
+  cursor: pointer;
 }
 .concordance-container-label {
   font-size: 1em;
