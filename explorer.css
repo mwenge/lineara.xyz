@@ -839,6 +839,9 @@ textarea:focus, input:focus{
 	.search {
     font-size: 8vw;
    }
+  .word-tip {
+    display: none !important;
+   }
 }
 
 /* Mobiles */
