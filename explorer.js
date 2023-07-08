@@ -140,6 +140,15 @@ function focusSearch() {
   if (document.activeElement == search) {
     return;
   }
+
+  // Don't focus the search input on mobile devices.
+  if ("maxTouchPoints" in navigator) {
+    return;
+  }
+  if ("msMaxTouchPoints" in navigator && navigator.msMaxTouchPoints > 0) {
+    return;
+  }
+
   search.focus();
 }
 function toggleSearch() {
