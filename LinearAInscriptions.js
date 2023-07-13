@@ -59094,11 +59094,15 @@ var inscriptions = new Map([
 }],
 ["NEZa1",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/NEZa1-Facsimile.jpg"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/NEZa1-Inscription.jpg"
+    ],
     "name": "NEZa1",
     "names": [
         "NEZa1"
