@@ -34,3 +34,8 @@
   font-weight: 400;
   src: url(assets/NationalPark-Thin.otf) format('truetype');
 }
+@font-face {
+  font-family: 'JetBrains';
+  font-style: normal;
+  font-weight: 400;
+  src: url(assets/JetBrainsMono-VariableFont_wght.ttf) format('truetype'); 

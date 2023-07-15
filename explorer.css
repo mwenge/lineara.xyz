@@ -24,7 +24,7 @@ body {
   border-radius: 10px;
   box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
   padding: 20px;
-  font-family: 'Routed', 'AegeanRegular', 'Aegean', 'Noto Symbols', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
+  font-family: 'JetBrains', 'AegeanRegular', 'Aegean', 'Noto Symbols', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
 }
 .scribeview-concordance-item-container {
   max-width: 800px;
@@ -41,7 +41,7 @@ body {
   border-radius: 10px;
   box-shadow: 0.2em 0.2em 0.8em rgba(0,0,0,0.3);
   padding: 20px;
-  font-family: 'Routed', 'AegeanRegular', 'Aegean', 'Noto Symbols', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
+  font-family: 'JetBrains', 'AegeanRegular', 'Aegean', 'Noto Symbols', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
 }
 .concordance-item-container {
   max-width: 800px;
@@ -77,7 +77,7 @@ body {
   margin-bottom: 2px;
 }
 .concordance-label {
-  font-family: 'Routed', serif;
+  font-family: 'JetBrains', serif;
   font-size: 10px;
   text-align: center;
   margin-top: 5px;
@@ -95,7 +95,7 @@ body {
   background-color: #f5f5f0;
 }
 .search {
-  font-family: 'Routed', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
+  font-family: 'JetBrains', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
   display: inline-block;
   font-size: 4vh;
   border: none;
@@ -179,7 +179,7 @@ input:focus::placeholder { color:transparent; }
 }
 .item {
   flex-grow: 1;
-  font-family: 'Routed', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
+  font-family: 'JetBrains', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
   padding: 10px;
   max-width: 200px;
   position: relative;
@@ -505,7 +505,7 @@ dt, dd, font {
   transform: translateX(-50%); /* horizontally centre */
   bottom: 0;
   z-index: 5000;
-  font-family: 'Routed', 'Noto Symbols', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Routed', 'Noto Mono' sans-serif;
+  font-family: 'JetBrains', 'Noto Symbols', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'JetBrains', 'Noto Mono' sans-serif;
   font-size: 2vh;
 }
 .filter-command-container {
@@ -746,7 +746,7 @@ textarea:focus, input:focus{
 }
 .autocomplete-item {
   width: 100%;
-  font-family: 'Routed', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Routed', 'Noto Mono', sans-serif;
+  font-family: 'JetBrains', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'JetBrains', 'Noto Mono', sans-serif;
   display: inline-block;
   font-size: 4vh;
   padding-left: .5em;
