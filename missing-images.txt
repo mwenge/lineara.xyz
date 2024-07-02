@@ -41,9 +41,6 @@ PEWs
 PEZb
 
 Some Unpublished Linear A Inscriptions." In: Colloquium Romanum. Atti del XII colloquio internazionale di micenologia. Roma. 20-25 Febbraio 2006, A. Sacconi, M. Del Freo, L. Godart, M. Negri eds., 359-360. Pisa and Rome: Fabrizio Serra editore.
-Literacy at Petras and three hitherto unpublished Linear A inscriptions, in Tsipopoulou M. (ed.), Petras, Siteia. 25 Years of Excavations and Studies, Acts of a two-day conference held at the Danish Institute at Athens, 9-10 October 2010 (Monographs of the Danish Institute at Athens 16), 265-275.
-PE Zb 8 (Siteia Mus.; Hallager 2008: 359), inscribed pithos in the north magazines (LM IB context)
-PE Zg 6 (Siteia Mus.; Hallager 2008: 359), "unique" clay rod found in House II "in an MM III pit with possible remains from cult activities."
 PETS Wc, roundel found, Fall 1993
 
  E. Hallager, « Nomenclature of Administrative Linear A Documents », dans S. DegerJalkotzy, St. Hiller, O. Panagl (éds), Floreant Studia Mycenaea. Akten des X. Internationalen Mykenologischen Colloquiums in Salzburg vom 1.-5. Mai 1995, Österreichische Akademie der Wissenschaften, Phil.-Hist. Klasse, Denkschriften 274, vol. II, p. 277-288.
@@ -60,6 +57,8 @@ http://collections.ashmolean.org/collection/search/category/other/start/-2800/en
 http://collections.ashmolean.org/collection/browse-9148/per_page/100/sort_by/date/sort_order/asc/offset/50500/view_as/list
 AN1936.562 in ashmolean
 CRZf5
+https://collections.ashmolean.org/object/475989
+https://www.ashmolean.org/collections-online#/item/ash-object-475989
 
 
 Carratelli Monumenti Antichi XL 1954
@@ -81,10 +80,4 @@ https://library.catalogue.tcd.ie/record=b11071391~S9
 (La Rosa-Carratelli 1987)
 HT Zb 162
 
-
-PK Za 28
-A Fragment of a Libation Table Inscribed in Linear A from Petsophas, Palaikastro (PK Za 28)
-Megistos Kouros. Studies in honour of Hugh Sackett
-2022 | Book chapter
-CONTRIBUTORS: MAURIZIO DEL FREO; Julien Zurbach; Carl Knappett
 

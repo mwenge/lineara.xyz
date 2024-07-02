@@ -59455,12 +59455,15 @@ var inscriptions = new Map([
 }],
 ["PEZb7",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/PEZb7-Facsimile.png"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [
-        "images/PEZb7-Inscription.jpg"
+        "images/PEZb7-Inscription.jpg",
+        "images/PEZb7-Inscription.png"
     ],
     "name": "PEZb7",
     "names": [
@@ -59492,11 +59495,15 @@ var inscriptions = new Map([
 }],
 ["PEZb8",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/PEZb8-Facsimile.png"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/PEZb8-Inscription.png"
+    ],
     "name": "PEZb8",
     "names": [
         "PEZb8"
@@ -59593,11 +59600,15 @@ var inscriptions = new Map([
 }],
 ["PEZg6",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/PEZg6-Facsimile.png"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/PEZg6-Inscription.png"
+    ],
     "name": "PEZg6",
     "names": [
         "PEZg6",
