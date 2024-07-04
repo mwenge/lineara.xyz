@@ -1,19 +1,35 @@
-1987 “Dyo nees epigraphes grammikis graphis A, apo to iero koryphis tou Yiouchta”, in Festschrift in Honour of Nikolaos Platon (in Greek) 85- 91, ed. Vikelaia Municipal Library of Heraklion
+1987 “Dyo nees epigraphes grammikis graphis A, apo to iero koryphis tou
+Yiouchta”, in Festschrift in Honour of Nikolaos Platon (in Greek) 85- 91, ed.
+Vikelaia Municipal Library of Heraklion
+--------
 IO Za 14, square Libation Table, orange-yellow serpentine (HM 4743; Kar. 1987).
 IO Za 15, square Libation Table, serpentine (HM 4744; Kar. 1987).
 
 Hallager 1996a
 The Minoan Roundel and Other Sealed Documents in the Neopalatial Linear A Administration ((Aegaeum 14, Liège 1996).
+---------------
 KHWc2074
 KHWc2079
 KHWc2095
 KHWc2121
+PH Wb 55 (HM 676) (Vano LI, MM II context) aka PHWb53
 
-No image
+KH Wc 2124 (KH MUS.), roundel; Katre St 1 
+--------
 KHWc2124
 
-unknown
+Uncertain if these even exist
+-----------------------------
 KNWb51
+MYZa2
+MYZf1
+PEWs
+PEZb
+PETS Wc, roundel found, Fall 1993
+ZOZA1
+ANZb1
+MAZb??
+PK Zb ? (AIA meetings, 3 January 2004: pithos sherd, written retrograde)
 
 Le fragment a été récupéré parmi les άγραφα de Cnossos par J.-P. Olivier en 1963-1965 (voir Rapport 1996-2000, p. 425)
 KT4 in CTLA - KN54
@@ -21,47 +37,35 @@ Raison-Pope 1994 as KT4
 Hiraklion Museum
 KN54
 
-MAZb??
 
 FOund in Margiana, Turkmenistan. Probably not Linear A.
 See V.Sarianidi, Margiana and Protozoroastrism, 1998, 88-89 and fig.41:1-2 for what may be 26 nodules bearing the sign AB 77
+----------
 MARGWa1-26
 
 
-For the following two citations, Tom Brogan ("Message from the Director," Kentro. The Newsletter of the INSTAP Study Centerfor East Crete 10 [Winter 2007-2008] 3) mentions "The team preparing the pottery from the LM I houses of Block C at Mochlos identified two pottery fragments incised with Linear A, including a sign for olive oil."
+For the following two citations, Tom Brogan ("Message from the Director,"
+Kentro. The Newsletter of the INSTAP Study Centerfor East Crete 10 [Winter
+2007-2008] 3) mentions "The team preparing the pottery from the LM I houses of
+Block C at Mochlos identified two pottery fragments incised with Linear A,
+including a sign for olive oil."
+----------
 MO Zb 2?
 MO Zb 3?
 
-unknown
-MYZa2
-MYZf1
 
-unknown
-PEWs
-PEZb
-
-Some Unpublished Linear A Inscriptions." In: Colloquium Romanum. Atti del XII colloquio internazionale di micenologia. Roma. 20-25 Febbraio 2006, A. Sacconi, M. Del Freo, L. Godart, M. Negri eds., 359-360. Pisa and Rome: Fabrizio Serra editore.
-PETS Wc, roundel found, Fall 1993
-
- E. Hallager, « Nomenclature of Administrative Linear A Documents », dans S. DegerJalkotzy, St. Hiller, O. Panagl (éds), Floreant Studia Mycenaea. Akten des X. Internationalen Mykenologischen Colloquiums in Salzburg vom 1.-5. Mai 1995, Österreichische Akademie der Wissenschaften, Phil.-Hist. Klasse, Denkschriften 274, vol. II, p. 277-288.
-The Minoan Roundel and Other Sealed Documents in the Neopalatial Linear A Administration ((Aegaeum 14, Liège 1996).
-PH Wb 55 (HM 676) (Vano LI, MM II context) aka PHWb53
-
-PK Zb ? (AIA meetings, 3 January 2004: pithos sherd, written retrograde)
-
-unpublished
-ZOZA1
-ANZb1
 
 http://collections.ashmolean.org/collection/search/category/other/start/-2800/end/-2014
 http://collections.ashmolean.org/collection/browse-9148/per_page/100/sort_by/date/sort_order/asc/offset/50500/view_as/list
-AN1936.562 in ashmolean
-CRZf5
 https://collections.ashmolean.org/object/475989
 https://www.ashmolean.org/collections-online#/item/ash-object-475989
+AN1936.562 in ashmolean
+---------------------------
+CRZf5
 
 
 Carratelli Monumenti Antichi XL 1954
+---------------------------
 HTWb229
 HTZb162bis
 HTZf163
@@ -73,11 +77,13 @@ HTZf168
 HTZf169
 
 Doro Levi Festos 1 p831 Festòs e la civiltà minoica
-KAMZb1
 https://library.catalogue.tcd.ie/record=b11071391~S9
+---------------------------
+KAMZb1
 
 1987    "Nuova rondella con inscrizione in lineare A dall 'Villa Reale' di Haghia Triada," Parole del Pasato 237 (1987) 463-468
 (La Rosa-Carratelli 1987)
+-----------------------
 HT Zb 162
 
 
