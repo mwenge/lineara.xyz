@@ -58730,11 +58730,15 @@ var inscriptions = new Map([
 }],
 ["MARGWa1-26",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/MARGWa1-12-Facsimile.png"
+    ],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/MARGWa1-12-Inscription.png"
+    ],
     "name": "MARGWa1-26",
     "names": [
         "MARGWa1-26"

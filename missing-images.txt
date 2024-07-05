@@ -20,28 +20,35 @@ KHWc2124
 
 Uncertain if these even exist
 -----------------------------
-KNWb51
-MYZa2
-MYZf1
+MYZa2 (cannot find this anywhere)
+MYZf1 (cannot find this anywhere)
+ANZb1 (cannot find this anywhere)
 PEWs
 PEZb
 PETS Wc, roundel found, Fall 1993
-ZOZA1
-ANZb1
 MAZb??
 PK Zb ? (AIA meetings, 3 January 2004: pithos sherd, written retrograde)
+
+https://arachne.dainst.org/entity/1153724?fl=20&q=cms%20279&resultIndex=12
+https://arachne.dainst.org/entity/1162319?fl=20&q=HMS%20369&resultIndex=1
+---------------
+KNWb51
+KN Wb 51 (HMs 369; findspot unknown)
+    a: • 
+    b: ring impression: battle (duel) scene (CMS II 8, no. 279)
+
+
+
+incomplete image, probably not published
+---------------
+ZOZA1
 
 Le fragment a été récupéré parmi les άγραφα de Cnossos par J.-P. Olivier en 1963-1965 (voir Rapport 1996-2000, p. 425)
 KT4 in CTLA - KN54
 Raison-Pope 1994 as KT4
 Hiraklion Museum
+------------------
 KN54
-
-
-FOund in Margiana, Turkmenistan. Probably not Linear A.
-See V.Sarianidi, Margiana and Protozoroastrism, 1998, 88-89 and fig.41:1-2 for what may be 26 nodules bearing the sign AB 77
-----------
-MARGWa1-26
 
 
 For the following two citations, Tom Brogan ("Message from the Director,"
@@ -84,6 +91,6 @@ KAMZb1
 1987    "Nuova rondella con inscrizione in lineare A dall 'Villa Reale' di Haghia Triada," Parole del Pasato 237 (1987) 463-468
 (La Rosa-Carratelli 1987)
 -----------------------
-HT Zb 162
+HTZb162
 
 
