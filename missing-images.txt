@@ -12,6 +12,8 @@ The Minoan Roundel and Other Sealed Documents in the Neopalatial Linear A Admini
 ---------------
 KHWc2074
 KHWc2079
+KHWc2088
+KHWc2089
 KHWc2095
 KHWc2121
 
@@ -49,6 +51,8 @@ Exist but not published
 ARKHZb<10>
 PORZf2
 PKZb26
+ZAZb39
+KHWc2124
 
 https://arachne.dainst.org/entity/1153724?fl=20&q=cms%20279&resultIndex=12
 https://arachne.dainst.org/entity/1162319?fl=20&q=HMS%20369&resultIndex=1
@@ -68,6 +72,7 @@ Le fragment a été récupéré parmi les άγραφα de Cnossos par J.-P. Oliv
 KT4 in CTLA - KN54
 Raison-Pope 1994 as KT4
 Hiraklion Museum
+Not sure where I got KNZb54 from. It was possibly a fragment of this at some point?
 ------------------
 KN54
 
@@ -102,7 +107,9 @@ CRZf5
 Carratelli Monumenti Antichi XL 1954
 ---------------------------
 HTWb229
+HTW231d-f
 HTZb162bis
+HTZb162
 HTZf163
 HTZf164
 HTZf165

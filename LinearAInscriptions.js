@@ -17532,9 +17532,9 @@ var inscriptions = new Map([
     "site": "Haghia Triada",
     "support": "Tablet",
     "transcription": "",
-    "translatedWords": [],
-    "transliteratedWords": [],
-    "words": []
+    "translatedWords": ["None"],
+    "transliteratedWords": ["None"],
+    "words": ["None"]
 }],
 ["HTWa1001",{
     "context": "LMIB",
