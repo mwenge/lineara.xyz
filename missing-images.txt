@@ -1,8 +1,10 @@
 1987 “Dyo nees epigraphes grammikis graphis A, apo to iero koryphis tou
 Yiouchta”, in Festschrift in Honour of Nikolaos Platon (in Greek) 85- 91, ed.
 Vikelaia Municipal Library of Heraklion
+A. Karetsou, « Δύο νέες επιγραφές Γραμμικής Γραφής Α από το Ιερό Κορυφής Γιούχτα »,
+dans L. Kastrinaki, G. Orphanou, N. Giannadakis (éds), ΕΙΛΑΠΙΝΗ. Τόμος Τιμητικός για τον
+Καθηγητή Νικολάο Πλάτωνα, p. 85-91
 --------
-IO Za 14, square Libation Table, orange-yellow serpentine (HM 4743; Kar. 1987).
 IO Za 15, square Libation Table, serpentine (HM 4744; Kar. 1987).
 
 Hallager 1996a
@@ -12,7 +14,20 @@ KHWc2074
 KHWc2079
 KHWc2095
 KHWc2121
-PH Wb 55 (HM 676) (Vano LI, MM II context) aka PHWb53
+
+Recueil:"
+L’examen exclut que les rainures visibles sur le nodule soient des traces d’écriture (voir Rapport 2006-
+2010, p. 14 : traces de ligaments végétaux ?).
+Voir Hallager 1999, p. 282 n. 41 [PH Wb 53], 285 [PH Wb 55]. Hallager donne à ce document le
+numéro « 55 », après avoir attribué les numéros précédents aux deux nodules anépigraphes Wa 53 et
+Wa 54 (ibid., p. 288). Bien qu’elle ne soit pas directement pertinente, nous donnons ici cette précision
+pour rappeler que l’usage d’attribuer des numéros d’inscription à des objets anépigraphes devrait être
+évité, car il est paradoxal et au fond contradictoire.
+"
+Hallager 1996a
+The Minoan Roundel and Other Sealed Documents in the Neopalatial Linear A Administration ((Aegaeum 14, Liège 1996).
+---
+PH Wb 55 (aka PH Wb 53) (HM 676) (Vano LI, MM II context) - No inscription.
 
 KH Wc 2124 (KH MUS.), roundel; Katre St 1 
 --------
@@ -56,9 +71,15 @@ Kentro. The Newsletter of the INSTAP Study Centerfor East Crete 10 [Winter
 2007-2008] 3) mentions "The team preparing the pottery from the LM I houses of
 Block C at Mochlos identified two pottery fragments incised with Linear A,
 including a sign for olive oil."
+Recueil:
+  Voir Kentro. The Newsletter of the INSTAP Study Center for East Crete 10 (Winter 2007-2008), p. 3
+  (voir Rapport 2006-2010, p. 9).
+  Voir Rapport 2006-2010, p. 9.
 ----------
+
 MO Zb 2?
 MO Zb 3?
+MO Zb 4?
 
 
 
@@ -67,6 +88,7 @@ http://collections.ashmolean.org/collection/browse-9148/per_page/100/sort_by/dat
 https://collections.ashmolean.org/object/475989
 https://www.ashmolean.org/collections-online#/item/ash-object-475989
 AN1936.562 in ashmolean
+Low quality image available
 ---------------------------
 CRZf5
 
@@ -85,6 +107,7 @@ HTZf169
 
 Doro Levi Festos 1 p831 Festòs e la civiltà minoica
 https://library.catalogue.tcd.ie/record=b11071391~S9
+There is no image in the book.
 ---------------------------
 KAMZb1
 

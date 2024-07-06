@@ -70607,7 +70607,9 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": [],
+    "images": [
+        "images/CRZf5-Inscription.jpg"
+    ],
     "name": "CRZf5",
     "names": [
         "CRZf5"
