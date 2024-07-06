@@ -48,6 +48,7 @@ Exist but not published
 -----------------------
 ARKHZb<10>
 PORZf2
+PKZb26
 
 https://arachne.dainst.org/entity/1153724?fl=20&q=cms%20279&resultIndex=12
 https://arachne.dainst.org/entity/1162319?fl=20&q=HMS%20369&resultIndex=1

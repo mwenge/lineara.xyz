@@ -71136,14 +71136,20 @@ var inscriptions = new Map([
     "names": [
         "PKZb26"
     ],
-    "parsedInscription": "",
+    "parsedInscription": "𐘄𐘰𐘆",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Clay vessel",
-    "transcription": "",
-    "translatedWords": [],
-    "transliteratedWords": [],
-    "words": []
+    "transcription": "𐘄𐘰𐘆",
+    "translatedWords": [
+      "TO-PA3-DI"
+    ],
+    "transliteratedWords": [
+      "TO-PA3-DI"
+    ],
+    "words": [
+      "𐘄𐘰𐘆"
+    ]
 }],
 ["ZAZb39",{
     "context": "",
@@ -75939,6 +75945,8 @@ var sequences = new Map([
 ],
 ]);
 var wordsInCorpus = new Map([
+["𐘹𐘢𐘳",1],
+["𐘄𐘰𐘆",1],
 ["", 2735],
 ["𐄁", 468],
 ["𐄇", 310],
