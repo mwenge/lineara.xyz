@@ -59022,10 +59022,11 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/MYZf1-Inscription.png"],
     "name": "MYZf1",
     "names": [
-        "MYZf1"
+        "MYZf1",
+        "MYZf2"
     ],
     "parsedInscription": "𐛉",
     "scribe": "",
