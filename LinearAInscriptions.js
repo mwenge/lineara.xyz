@@ -71738,6 +71738,36 @@ var inscriptions = new Map([
         "𐜶𐝫"
     ]
 }],
+["KKHZb1",{
+    "context": "LMIB",
+    "facsimileImages": [
+        "images/KKHZb1-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "N. Daskalakis; I. Androulidakis; A. Karnava",
+    "imageRightsURL": "https://www.academia.edu/113421125/2020_A_TZIGOUNAKI_and_A_KARNAVA_Incised_and_impressed_objects_from_Kalo_Chorafi_Mylopotamos_in_Rethymno_in_N_C_STAMPOLIDIS_M_GIANNOPOULOU_EDS_Eleutherna_Crete_and_the_outside_world_Proceedings_of_the_international_archaeological_conference_319_328",
+    "images": [
+        "images/KKHZb1-Inscription.jpg"
+    ],
+    "name": "KKHZb1",
+    "names": [
+        "KKHZb1"
+    ],
+    "parsedInscription": "𐘸",
+    "scribe": "",
+    "site": "Kalo Chorafi",
+    "support": "Clay vessel",
+    "transcription": "𐘸",
+    "translatedWords": [
+        "KI"
+    ],
+    "transliteratedWords": [
+        "KI"
+    ],
+    "words": [
+        "𐘸"
+    ]
+}],
 ]);
 var lexicon = new Map([
 ["𐘇𐙁𐘱", "Greek ἄρμα?"],

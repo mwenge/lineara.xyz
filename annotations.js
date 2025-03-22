@@ -80093,5 +80093,19 @@ var wordAnnotations =
                 "word": "𐜶𐝫"
             }
         ]
+    },
+    {
+        "name": "KKHZb1",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "KI",
+                "word": "𐘸"
+            },
+        ]
     }
 ]
