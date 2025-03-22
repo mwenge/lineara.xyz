@@ -59619,6 +59619,7 @@ var inscriptions = new Map([
     "name": "PEZg6",
     "names": [
         "PEZg6",
+        "PE6",
         "PE<6>"
     ],
     "parsedInscription": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
