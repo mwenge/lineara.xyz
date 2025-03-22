@@ -80212,5 +80212,19 @@ var wordAnnotations =
                 "word": "𐘚𐘸𐘘𐘿",
             },
         ]
+    },
+    {
+        "name": "VRYZb2",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "PO-SA",
+                "word": "𐘊𐘞",
+            },
+        ]
     }
 ]

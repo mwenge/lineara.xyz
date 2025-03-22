@@ -71880,8 +71880,8 @@ var inscriptions = new Map([
         "images/noimage.jpg"
     ],
     "findspot": "",
-    "imageRights": "Karnava",
-    "imageRightsURL": "https://www.academia.edu/123175402/2019_A_KARNAVA_The_inscribed_loomweight_in_I_NIKOLAKOPOULOU_ED_with_the_collaboration_of_C_J_KNAPPETT_J_HILDITCH_I_MATHIOUDAKI_P_M_DAY_V_KILIKOGLOU_N_M%C3%9CLLER_S_VAKIRTZI_A_KARNAVA_and_C_JEFFRA_Akrotiri_Thera_Middle_Bronze_Age_Pottery_and_stratigraphy_501_504?source=swp_share",
+    "imageRights": "",
+    "imageRightsURL": "",
     "images": [
         "images/noimage.jpg"
     ],
@@ -71905,6 +71905,36 @@ var inscriptions = new Map([
     "words": [
         "𐘿",
         "𐘚𐘸𐘘𐘿",
+    ]
+}],
+["VRYZb2",{
+    "context": "",
+    "facsimileImages": [
+        "images/noimage.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/VRYZb2-Inscription.jpg"
+    ],
+    "name": "VRYZb2",
+    "names": [
+        "VRYZb2"
+    ],
+    "parsedInscription": "𐘊𐘞",
+    "scribe": "",
+    "site": "Vrysinas",
+    "support": "clay vessel",
+    "transcription": "𐘊𐘞",
+    "translatedWords": [
+        "PO-SA",
+    ],
+    "transliteratedWords": [
+        "PO-SA",
+    ],
+    "words": [
+        "𐘊𐘞",
     ]
 }],
 ]);
