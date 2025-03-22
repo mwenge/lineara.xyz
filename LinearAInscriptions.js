@@ -71768,6 +71768,51 @@ var inscriptions = new Map([
         "𐘸"
     ]
 }],
+["KH104",{
+    "context": "",
+    "facsimileImages": [
+        "images/KH104-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "Erik Hallager and Maria Andreadaki-Vlazaki",
+    "imageRightsURL": "https://doi.org/10.1515/kadmos-2018-0004",
+    "images": [
+        "images/KH104-Inscription.jpg"
+    ],
+    "name": "KH104",
+    "names": [
+        "KH104"
+    ],
+    "parsedInscription": "𐙉𐝆\n𐝫𐘀𐘙𐙉",
+    "scribe": "",
+    "site": "Khania",
+    "support": "Tablet",
+    "transcription": "𐙉𐝆\n𐝫𐘀𐘙𐙉",
+    "translatedWords": [
+        "grain",
+        "1/2",
+        "\n",
+        "𐝫",
+        "DA-RE",
+        "grain",
+    ],
+    "transliteratedWords": [
+        "GRA",
+        "1/2",
+        "\n",
+        "𐝫",
+        "DA-RE",
+        "GRA",
+    ],
+    "words": [
+        "𐙉",
+        "𐝆",
+        "\n",
+        "𐝫",
+        "𐘀𐘙",
+        "𐙉",
+    ]
+}],
 ]);
 var lexicon = new Map([
 ["𐘇𐙁𐘱", "Greek ἄρμα?"],

@@ -80107,5 +80107,60 @@ var wordAnnotations =
                 "word": "𐘸"
             },
         ]
+    },
+    {
+        "name": "KH104",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "GRA",
+                "word": "𐙉"
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "1/2",
+                "word": "𐝆"
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                ],
+                "transliteratedWord": "\n",
+                "word": "\n",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "DA-RE",
+                "word": "𐘀𐘙"
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "GRA",
+                "word": "𐙉"
+            },
+        ]
     }
 ]
