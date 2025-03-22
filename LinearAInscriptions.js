@@ -71913,8 +71913,8 @@ var inscriptions = new Map([
         "images/noimage.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Tzachili, I. & Georgakopoulos, K.",
+    "imageRightsURL": "https://elocus.lib.uoc.gr//dlib/d/a/e/attached-metadata-dlib-1467632465-421221-30443/AEK_3_2013___2015__Vol_B_pp_1-680_OK.pdf",
     "images": [
         "images/VRYZb2-Inscription.jpg"
     ],
@@ -71943,8 +71943,8 @@ var inscriptions = new Map([
         "images/noimage.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Tzachili, I. & Georgakopoulos, K.",
+    "imageRightsURL": "https://elocus.lib.uoc.gr//dlib/d/a/e/attached-metadata-dlib-1467632465-421221-30443/AEK_3_2013___2015__Vol_B_pp_1-680_OK.pdf",
     "images": [
         "images/VRYZb3-Inscription.jpg"
     ],
@@ -71973,8 +71973,8 @@ var inscriptions = new Map([
         "images/noimage.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Tzachili, I. & Georgakopoulos, K.",
+    "imageRightsURL": "https://elocus.lib.uoc.gr//dlib/d/a/e/attached-metadata-dlib-1467632465-421221-30443/AEK_3_2013___2015__Vol_B_pp_1-680_OK.pdf",
     "images": [
         "images/VRYZa4-Inscription.jpg"
     ],
