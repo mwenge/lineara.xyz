@@ -71771,7 +71771,7 @@ var inscriptions = new Map([
 ["KH104",{
     "context": "",
     "facsimileImages": [
-        "images/KH104-Facsimile.jpg"
+        "images/noimage.jpg"
     ],
     "findspot": "",
     "imageRights": "Erik Hallager and Maria Andreadaki-Vlazaki",
@@ -71811,6 +71811,36 @@ var inscriptions = new Map([
         "𐝫",
         "𐘀𐘙",
         "𐙉",
+    ]
+}],
+["KH105",{
+    "context": "",
+    "facsimileImages": [
+        "images/noimage.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "Erik Hallager and Maria Andreadaki-Vlazaki",
+    "imageRightsURL": "https://doi.org/10.1515/kadmos-2018-0004",
+    "images": [
+        "images/KH105-Inscription.jpg"
+    ],
+    "name": "KH105",
+    "names": [
+        "KH105"
+    ],
+    "parsedInscription": "𐘦𐘸𐘠",
+    "scribe": "",
+    "site": "Khania",
+    "support": "Tablet",
+    "transcription": "𐘦𐘸𐘠",
+    "translatedWords": [
+        "DE-KI-TI",
+    ],
+    "transliteratedWords": [
+        "DE-KI-TI",
+    ],
+    "words": [
+        "𐘦𐘸𐘠",
     ]
 }],
 ]);

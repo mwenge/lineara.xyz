@@ -80162,5 +80162,19 @@ var wordAnnotations =
                 "word": "𐙉"
             },
         ]
+    },
+    {
+        "name": "KH105",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "DE-KI-TI",
+                "word": "𐘦𐘸𐘠",
+            },
+        ]
     }
 ]
