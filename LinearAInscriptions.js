@@ -71844,6 +71844,36 @@ var inscriptions = new Map([
         "𐘦𐘸𐘠",
     ]
 }],
+["THEZg15",{
+    "context": "",
+    "facsimileImages": [
+        "images/THEZg15-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "Karnava",
+    "imageRightsURL": "https://www.academia.edu/123175402/2019_A_KARNAVA_The_inscribed_loomweight_in_I_NIKOLAKOPOULOU_ED_with_the_collaboration_of_C_J_KNAPPETT_J_HILDITCH_I_MATHIOUDAKI_P_M_DAY_V_KILIKOGLOU_N_M%C3%9CLLER_S_VAKIRTZI_A_KARNAVA_and_C_JEFFRA_Akrotiri_Thera_Middle_Bronze_Age_Pottery_and_stratigraphy_501_504?source=swp_share",
+    "images": [
+        "images/THEZg15-Inscription.jpg"
+    ],
+    "name": "THEZg15",
+    "names": [
+        "THEZg15"
+    ],
+    "parsedInscription": "𐙐𐘭𐘀",
+    "scribe": "",
+    "site": "Thera",
+    "support": "Loom weight",
+    "transcription": "𐙐𐘭𐘀",
+    "translatedWords": [
+        "*164-RI-DA",
+    ],
+    "transliteratedWords": [
+        "*164-RI-DA",
+    ],
+    "words": [
+        "𐙐𐘭𐘀",
+    ]
+}],
 ]);
 var lexicon = new Map([
 ["𐘇𐙁𐘱", "Greek ἄρμα?"],
