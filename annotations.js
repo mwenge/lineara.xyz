@@ -80226,5 +80226,20 @@ var wordAnnotations =
                 "word": "𐘊𐘞",
             },
         ]
+    },
+    {
+        "name": "VRYZb3",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "U-TE",
+                "word": "𐘉𐘃",
+            },
+        ]
     }
 ]
