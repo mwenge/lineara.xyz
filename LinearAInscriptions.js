@@ -71967,6 +71967,36 @@ var inscriptions = new Map([
         "𐘉𐘃",
     ]
 }],
+["VRYZa4",{
+    "context": "",
+    "facsimileImages": [
+        "images/noimage.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": [
+        "images/VRYZa4-Inscription.jpg"
+    ],
+    "name": "VRYZa4",
+    "names": [
+        "VRYZa4"
+    ],
+    "parsedInscription": "𐘝",
+    "scribe": "",
+    "site": "Vrysinas",
+    "support": "stone vessel",
+    "transcription": "𐘝",
+    "translatedWords": [
+        "NI",
+    ],
+    "transliteratedWords": [
+        "NI",
+    ],
+    "words": [
+        "𐘝",
+    ]
+}],
 ]);
 var lexicon = new Map([
 ["𐘇𐙁𐘱", "Greek ἄρμα?"],
