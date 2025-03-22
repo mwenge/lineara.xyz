@@ -80190,5 +80190,27 @@ var wordAnnotations =
                 "word": "𐙐𐘭𐘀",
             },
         ]
+    },
+    {
+        "name": "THEZg16",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "QE",
+                "word": "𐘿",
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "word",
+                ],
+                "transliteratedWord": "I-KI-RU-QE",
+                "word": "𐘚𐘸𐘘𐘿",
+            },
+        ]
     }
 ]
