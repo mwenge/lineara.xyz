@@ -80258,8 +80258,168 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KNZg57",
+        "name": "KNZg57a",
         "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
             {
                 "tags": [
                     "lacuna at start",

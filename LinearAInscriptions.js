@@ -71967,7 +71967,7 @@ var inscriptions = new Map([
         "𐘉𐘃",
     ]
 }],
-["KNZg57",{
+["KNZg57a",{
     "context": "",
     "facsimileImages": [
         "images/noimage.jpg"
@@ -71976,25 +71976,110 @@ var inscriptions = new Map([
     "imageRights": "Ph Saperstein",
     "imageRightsURL": "https://ejournals.lib.uoc.gr/Ariadne/article/view/1841/1751",
     "images": [
-        "images/KNZg57-Inscription.jpg"
+        "images/KNZg57a-Inscription.jpg"
     ],
-    "name": "KNZg57",
+    "name": "KNZg57a",
     "names": [
-        "KNZg57"
+        "KNZg57a"
     ],
-    "parsedInscription": "",
+    "parsedInscription":"𐜪𐜪𐜫𐜩𐜶𐝫𐝫𐝫𐝫𐘝𐝫𐝫𐝫𐝫𐚪𐝫𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "ivory object",
-    "transcription": "",
+    "transcription":"𐜪𐜪𐜫𐜩𐜶𐝫𐝫𐝫𐝫𐘝𐝫𐝫𐝫𐝫𐚪𐝫𐝫",
     "translatedWords": [
-        "",
+        "*401+RU",
+        "*652",
+        "*653",
+        "*401+RU",
+        "*418+L2",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "NI",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "VAS",
+        "𐝫",
+        "𐝫",
     ],
     "transliteratedWords": [
-        "",
+        "*401+RU",
+        "*652",
+        "*653",
+        "*401+RU",
+        "*418+L2",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "NI",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "VAS",
+        "𐝫",
+        "𐝫",
     ],
     "words": [
-        "",
+        "𐜪",
+        "𐜪",
+        "𐜫",
+        "𐜩",
+        "𐜶",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "𐘝",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "𐝫",
+        "𐚪",
+        "𐝫",
+        "𐝫",
+    ]
+}],
+["KNZg57b",{
+    "context": "",
+    "facsimileImages": [
+        "images/noimage.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "Ph Saperstein",
+    "imageRightsURL": "https://ejournals.lib.uoc.gr/Ariadne/article/view/1841/1751",
+    "images": [
+        "images/KNZg57b-Inscription.jpg"
+    ],
+    "name": "KNZg57b",
+    "names": [
+        "KNZg57b"
+    ],
+    "parsedInscription":"𐜪𐜪𐜫𐜩𐜶𐝫𐝫𐝫𐝫𐘝𐝫𐝫𐝫𐝫𐚪𐝫𐝫",
+    "scribe": "",
+    "site": "Knossos",
+    "support": "ivory object",
+    "transcription":"𐜪𐜪𐜫𐜩𐜶𐝫𐝫𐝫𐝫𐘝𐝫𐝫𐝫𐝫𐚪𐝫𐝫",
+    "translatedWords": [
+    ],
+    "transliteratedWords": [
+    ],
+    "words": [
+        "𐘚",
+        "𐙂",
+        "𐘣",
+        "𐘴",
+        "𐘾",
+        "𐘬",
+        "\u{1076b}",
+        "𐙉",
+        "𐙉",
+        "𐙋",
     ]
 }],
 ["KNZg58",{
