@@ -80256,5 +80256,35 @@ var wordAnnotations =
                 "word": "𐘝",
             },
         ]
+    },
+    {
+        "name": "KNZg57",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+        ]
+    },
+    {
+        "name": "KNZg58",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "lacuna at start",
+                    "word",
+                    "word or logoram",
+                    "lacuna at end",
+                ],
+                "transliteratedWord": "",
+                "word": "",
+            },
+        ]
     }
 ]

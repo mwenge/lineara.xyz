@@ -71967,34 +71967,64 @@ var inscriptions = new Map([
         "𐘉𐘃",
     ]
 }],
-["VRYZa4",{
+["KNZg57",{
     "context": "",
     "facsimileImages": [
         "images/noimage.jpg"
     ],
     "findspot": "",
-    "imageRights": "Tzachili, I. & Georgakopoulos, K.",
-    "imageRightsURL": "https://elocus.lib.uoc.gr//dlib/d/a/e/attached-metadata-dlib-1467632465-421221-30443/AEK_3_2013___2015__Vol_B_pp_1-680_OK.pdf",
+    "imageRights": "Ph Saperstein",
+    "imageRightsURL": "https://ejournals.lib.uoc.gr/Ariadne/article/view/1841/1751",
     "images": [
-        "images/VRYZa4-Inscription.jpg"
+        "images/KNZg57-Inscription.jpg"
     ],
-    "name": "VRYZa4",
+    "name": "KNZg57",
     "names": [
-        "VRYZa4"
+        "KNZg57"
     ],
-    "parsedInscription": "𐘝",
+    "parsedInscription": "",
     "scribe": "",
-    "site": "Vrysinas",
-    "support": "stone vessel",
-    "transcription": "𐘝",
+    "site": "Knossos",
+    "support": "ivory object",
+    "transcription": "",
     "translatedWords": [
-        "NI",
+        "",
     ],
     "transliteratedWords": [
-        "NI",
+        "",
     ],
     "words": [
-        "𐘝",
+        "",
+    ]
+}],
+["KNZg58",{
+    "context": "",
+    "facsimileImages": [
+        "images/noimage.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "Ph Saperstein",
+    "imageRightsURL": "https://ejournals.lib.uoc.gr/Ariadne/article/view/1841/1751",
+    "images": [
+        "images/KNZg58-Inscription.jpg"
+    ],
+    "name": "KNZg58",
+    "names": [
+        "KNZg58"
+    ],
+    "parsedInscription": "",
+    "scribe": "",
+    "site": "Knossos",
+    "support": "ivory object",
+    "transcription": "",
+    "translatedWords": [
+        "",
+    ],
+    "transliteratedWords": [
+        "",
+    ],
+    "words": [
+        "",
     ]
 }],
 ]);
