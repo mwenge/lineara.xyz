@@ -55540,11 +55540,15 @@ var inscriptions = new Map([
 }],
 ["KHWc2124",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/KHWc2124-Facsimile.png"
+    ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "imageRights": "Maria Andreadaki-Vlazaki, Erik Hallager",
+    "imageRightsURL": "https://doi.org/10.1515/kadmos-2018-0004",
+    "images": [
+        "images/KHWc2124-Inscription.jpg"
+    ],
     "name": "KHWc2124",
     "names": [
         "KHWc2124"
