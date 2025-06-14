@@ -45314,10 +45314,12 @@ var inscriptions = new Map([
 }],
 ["IOZa14",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/IOZa14-Facsimile.jpg"
+    ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "A. Karetsou",
+    "imageRightsURL": "papers/IOZa15.pdf",
     "images": [
         "images/IOZa14-Inscription.jpg"
     ],
@@ -45348,11 +45350,15 @@ var inscriptions = new Map([
 }],
 ["IOZa15",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": [
+        "images/IOZa15-Facsimile.jpg"
+    ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "imageRights": "A. Karetsou",
+    "imageRightsURL": "papers/IOZa15.pdf",
+    "images": [
+        "images/IOZa15-Inscription.jpg"
+    ],
     "name": "IOZa15",
     "names": [
         "IOZa15"
