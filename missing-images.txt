@@ -99,8 +99,6 @@ Carratelli Monumenti Antichi XL 1954
 ---------------------------
 HTWb229
 HTW231d-f
-HTZb162bis
-HTZb162
 HTZf163
 HTZf164
 HTZf165
@@ -108,6 +106,12 @@ HTZf166
 HTZf167
 HTZf168
 HTZf169
+
+Militello 1988-1989 = P. Militello, « Un peso (?) con segno inciso da Haghia Triada (HT Zg 163) »,
+ASAA LXVI-LXVII, n.s. XLVIII-XLIX (1988-1989) [1993], p. 163-172.
+--
+HTZf163
+HTZg163
 
 Doro Levi Festos 1 p831 Festòs e la civiltà minoica
 https://library.catalogue.tcd.ie/record=b11071391~S9
@@ -117,6 +121,8 @@ KAMZb1
 
 1987    "Nuova rondella con inscrizione in lineare A dall 'Villa Reale' di Haghia Triada," Parole del Pasato 237 (1987) 463-468
 (La Rosa-Carratelli 1987)
+https://www.torrossa.com/it/resources/an/4330772
+La parola del passato : rivista di studi antichi : XLII, 6, 1987 
 -----------------------
 HTZb162
 
@@ -128,6 +134,13 @@ Excavations at the Agia Aikaterini Square Kastelli, Khania 1970-1987,
 Yannis Tzedakis and Carl-Gustaf Styrenius. V. The Late Minoan IIIA:1
 and II Settlements, Skrifter utgivna av Svenska institutet i Athen 47.5,
 290-293.
+
+Bibliographical information
+
+Erik Hallager & Birgitta P. Hallager, eds., The Greek-Swedish Excavations at the Agia Aikaterini Square, Kastelli, Khania 1970–1987, 2001, 2005 and 2008 vol. 5. The Late Minoan IIIA:1 and II Settlements fasc. 1. Text (Skrifter utgivna av Svenska institutet i Athen, 4°, 47:5:2), Stockholm 2016. ISSN 0586-0539. ISBN 9789179160647. Hardcover: 218 plates.
+
+Alternative series title:
+Acta Instituti Atheniensis Regni Sueciae series in 4˚, XLVII:V:2
 ------------
 KHZc106
 
