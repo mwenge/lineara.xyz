@@ -69331,9 +69331,11 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "imageRights": "Yannis and Efi Sakellarakis",
+    "imageRightsURL": "papers/ANZb1.pdf#page=332",
+    "images": [
+      "images/ANZb1-Inscription.png"
+    ],
     "name": "ANZb1",
     "names": [
         "ANZb1"
