@@ -71889,13 +71889,12 @@ var inscriptions = new Map([
 ["THEZg16",{
     "context": "",
     "facsimileImages": [
-        "images/noimage.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Doumas,C",
+    "imageRightsURL": "papers/THEZg16.pdf#page=9",
     "images": [
-        "images/noimage.jpg"
+        "images/THEZg16-Inscription.jpg"
     ],
     "name": "THEZg16",
     "names": [
