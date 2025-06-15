@@ -45501,8 +45501,8 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Levi",
+    "imageRightsURL": "papers/KANZa1.pdf#page=17",
     "images": [
         "images/KANZa1-Inscription.jpg"
     ],
@@ -51515,8 +51515,8 @@ var inscriptions = new Map([
         "images/KH92-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Kadmos",
+    "imageRightsURL": "papers/KH92.pdf",
     "images": [
         "images/KH92-Inscription.jpg"
     ],
@@ -51576,8 +51576,8 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Kadmos",
+    "imageRightsURL": "papers/KH92.pdf",
     "images": [
         "images/KH93-Inscription.jpg"
     ],
@@ -51741,8 +51741,8 @@ var inscriptions = new Map([
         "images/KH97a-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KH97.pdf",
     "images": [
         "images/KH97a-Inscription.jpg"
     ],
@@ -51783,8 +51783,8 @@ var inscriptions = new Map([
         "images/KH97b-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KH97.pdf",
     "images": [
         "images/KH97b-Inscription.jpg"
     ],
@@ -51825,8 +51825,8 @@ var inscriptions = new Map([
         "images/KH99-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KH97.pdf",
     "images": [
         "images/KH99-Inscription.jpg"
     ],
@@ -55514,8 +55514,8 @@ var inscriptions = new Map([
         "images/KHWc2123-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KH97.pdf",
     "images": [
         "images/KHWc2123-Inscription.jpg"
     ],
@@ -55574,8 +55574,8 @@ var inscriptions = new Map([
         "images/KHZb98-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KH97.pdf",
     "images": [
         "images/KHZb98-Inscription.jpg"
     ],
@@ -56178,8 +56178,8 @@ var inscriptions = new Map([
         "images/KNWa50-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KNWa50.pdf",
     "images": [
         "images/KNWa50-Inscription.jpg"
     ],
@@ -57418,8 +57418,8 @@ var inscriptions = new Map([
         "images/KNZe49-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Owens",
+    "imageRightsURL": "papers/KNZe49.pdf",
     "images": [],
     "name": "KNZe49",
     "names": [
@@ -58757,7 +58757,7 @@ var inscriptions = new Map([
     ],
     "parsedInscription": "𐘾",
     "scribe": "",
-    "site": "Malia",
+    "site": "Margiana",
     "support": "Nodule",
     "transcription": "𐘾",
     "translatedWords": [
@@ -59030,8 +59030,8 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Thomas Palaima",
+    "imageRightsURL": "papers/MYZf1.pdf",
     "images": ["images/MYZf1-Inscription.png"],
     "name": "MYZf1",
     "names": [
@@ -59115,8 +59115,8 @@ var inscriptions = new Map([
         "images/NEZa1-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Godart",
+    "imageRightsURL": "papers/NEZa1.pdf",
     "images": [
         "images/NEZa1-Inscription.jpg"
     ],
@@ -63398,8 +63398,8 @@ var inscriptions = new Map([
         "images/PKZb23-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Schoep",
+    "imageRightsURL": "papers/PKZb24.pdf#page=47",
     "images": [],
     "name": "PKZb23",
     "names": [
@@ -63426,8 +63426,8 @@ var inscriptions = new Map([
         "images/PKZb24-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Schoep",
+    "imageRightsURL": "papers/PKZb24.pdf#page=47",
     "images": [],
     "name": "PKZb24",
     "names": [
@@ -63915,7 +63915,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© Judith Weingarten & Doug Fulman",
-    "imageRightsURL": "https://bit.ly/3b2hrIF",
+    "imageRightsURL": "papers/PYRZb5.pdf",
     "images": [
         "images/PYRZb5-Inscription.jpg"
     ],
@@ -64113,8 +64113,8 @@ var inscriptions = new Map([
         "images/SKOZc1-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Perna",
+    "imageRightsURL": "papers/SKOZc1.pdf",
     "images": [
         "images/SKOZc1-Inscription.jpg"
     ],
@@ -64573,8 +64573,8 @@ var inscriptions = new Map([
         "images/TELZb1-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Karnava",
+    "imageRightsURL": "papers/TELZb1.pdf",
     "images": [],
     "name": "TELZb1",
     "names": [
@@ -64612,8 +64612,8 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Boulotis",
+    "imageRightsURL": "papers/THE7.pdf",
     "images": [
         "images/THEfr.1-Inscription.jpg"
     ],
@@ -64641,8 +64641,8 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Boulotis",
+    "imageRightsURL": "papers/THE7.pdf",
     "images": [
         "images/THEfr.2-Inscription.jpg"
     ],
@@ -64670,8 +64670,8 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Boulotis",
+    "imageRightsURL": "papers/THE7.pdf",
     "images": [
         "images/THEfr.3-Inscription.jpg"
     ],
@@ -64699,8 +64699,8 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Boulotis",
+    "imageRightsURL": "papers/THE7.pdf",
     "images": [
         "images/THEtab.4-Inscription.jpg"
     ],
@@ -64740,8 +64740,8 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Boulotis",
+    "imageRightsURL": "papers/THE7.pdf",
     "images": [
         "images/THEtab.5-Inscription.jpg"
     ],
@@ -64772,8 +64772,8 @@ var inscriptions = new Map([
     "context": "",
     "facsimileImages": [],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Boulotis",
+    "imageRightsURL": "papers/THE7.pdf",
     "images": [
         "images/THEtab.6-Inscription.jpg"
     ],
@@ -65055,8 +65055,8 @@ var inscriptions = new Map([
         "images/THEZb13-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Karnava",
+    "imageRightsURL": "papers/THEZb13.pdf",
     "images": [
         "images/THEZb13-Inscription.jpg"
     ],
@@ -69067,8 +69067,8 @@ var inscriptions = new Map([
         "images/ZAWa38-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KNWa50.pdf",
     "images": [
         "images/ZAWa38-Inscription.jpg"
     ],
@@ -69297,8 +69297,8 @@ var inscriptions = new Map([
         "images/ZAZg35-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Kopaka",
+    "imageRightsURL": "papers/ZAZg35.pdf",
     "images": [
         "images/ZAZg35-Inscription.jpg"
     ],
@@ -71088,8 +71088,8 @@ var inscriptions = new Map([
         "images/KH102-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KH102.pdf",
     "images": [
         "images/KH102-Inscription.jpg"
     ],
@@ -71193,8 +71193,8 @@ var inscriptions = new Map([
         "images/THEZb15-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Karnava",
+    "imageRightsURL": "papers/THEZb15.pdf",
     "images": [
         "images/THEZb15-Inscription.jpg"
     ],
@@ -71375,8 +71375,8 @@ var inscriptions = new Map([
         "images/KNWa51-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KNWa50.pdf",
     "images": [
         "images/KNWa51-Inscription.jpg"
     ],
@@ -71435,8 +71435,8 @@ var inscriptions = new Map([
         "images/PHWa52-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KNWa50.pdf",
     "images": [
         "images/PHWa52-Inscription.jpg"
     ],
@@ -71465,8 +71465,8 @@ var inscriptions = new Map([
         "images/DRAZg1-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Fol, Schmitt",
+    "imageRightsURL": "papers/DRAZg1.pdf",
     "images": [
         "images/DRAZg1-Inscription.jpg"
     ],
@@ -71495,8 +71495,8 @@ var inscriptions = new Map([
         "images/INZb1-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Perna",
+    "imageRightsURL": "papers/INZb1.pdf#page=28",
     "images": [
         "images/INZb1-Inscription.jpg"
     ],
@@ -71525,8 +71525,8 @@ var inscriptions = new Map([
         "images/PKZa27-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Knappet",
+    "imageRightsURL": "papers/PKZa27.pdf",
     "images": [
         "images/PKZa27-Inscription.jpg"
     ],
@@ -71561,8 +71561,8 @@ var inscriptions = new Map([
         "images/HTZf(HM767)-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Kanta",
+    "imageRightsURL": "papers/HTZf.pdf",
     "images": [
         "images/HTZf(HM767)-Inscription.jpg"
     ],
@@ -71646,8 +71646,8 @@ var inscriptions = new Map([
         "images/LACHZa1-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Finkelberg",
+    "imageRightsURL": "papers/LACHZa1.pdf",
     "images": [
         "images/LACHZa1-Inscription.jpg"
     ],
@@ -71688,8 +71688,8 @@ var inscriptions = new Map([
         "images/PH54-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Militello",
+    "imageRightsURL": "papers/PH54.pdf",
     "images": [
         "images/PH54-Inscription.jpg"
     ],
@@ -71722,7 +71722,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© J Zurbach and M Del Freo",
-    "imageRightsURL": "https://publications.cnr.it/doc/468917",
+    "imageRightsURL": "papers/PKZa28.pdf",
     "images": [
         "images/PKZa28-Inscription.jpg"
     ],
