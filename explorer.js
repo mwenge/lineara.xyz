@@ -694,11 +694,11 @@ function highlightMatchesInElement(element, searchTerm, highlightColor) {
         continue;
       }
       var translation = document.getElementById(inscription + "-translation-" + j);
-      translation.style.backgroundColor = highlightColor;
+      if (translation) { translation.style.backgroundColor = highlightColor; };
       var transliteration = document.getElementById(inscription + "-transliteration-" + j);
-      transliteration.style.backgroundColor = highlightColor;
+      if (transliteration) { transliteration.style.backgroundColor = highlightColor; };
       var transcription = document.getElementById(inscription + "-transcription-" + j);
-      transcription.style.backgroundColor = highlightColor;
+      if (transcription) { transcription.style.backgroundColor = highlightColor; }
 
       highlightedSearchElements.push(translation);
       highlightedSearchElements.push(transliteration);
@@ -713,6 +713,7 @@ function highlightMatchesInElement(element, searchTerm, highlightColor) {
 var highlightedSearchElements = [];
 function clearHighlights() {
   for (var index in highlightedSearchElements) {
+    if (!highlightedSearchElements[index]) continue;
     highlightedSearchElements[index].style.backgroundColor = "";
     highlightedSearchElements[index].style.border = "none";
   }
@@ -1437,6 +1438,9 @@ function showWordChart(searchTerm, item) {
       }
       for (var i = 0; i < inscription.words.length; i++) {
         var word = stripErased(inscription.words[i]);
+        if (!word) {
+          continue;
+        }
         var transliteratedWord = stripErased(inscription.transliteratedWords[i]);
         if (word != searchTerm && transliteratedWord != searchTerm) {
           continue;
@@ -1452,6 +1456,10 @@ function showWordChart(searchTerm, item) {
         tag.textContent = inscription.name;
         wordContainer.appendChild(tag);
         wordImages.appendChild(wordContainer);
+
+        if (!inscription.wordTags) {
+          continue;
+        }
 
         var tagsForWord = inscription.wordTags[i];
         for (var x of tagsForWord) {

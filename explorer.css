@@ -338,6 +338,7 @@ input:focus::placeholder { color:transparent; }
   font-size: 1vh;
   background-color: gray;
   display: inline-block;
+  z-index: 100;
 }
 .search-term, .tag:hover, .imagerights-label:hover {
   opacity: 1;
@@ -404,6 +405,7 @@ dt, dd, font {
   top:0;
   padding: 0.2vw;
   font-size: 3vh;
+  z-index: 99999;
 }
 
 .search-terms {

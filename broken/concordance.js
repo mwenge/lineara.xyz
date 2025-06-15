@@ -54,6 +54,7 @@ function checkKey(e) {
 }
 
 function stripErased(word) {
+  if (!word) { return ""; }
   return word.replace(/\u{1076b}/gu, "");
 }
 

@@ -38,6 +38,7 @@ var cycleColor = (function () {
 })();
 
 function stripErased(word) {
+  if (!word) { return word; }
   return word.replace(/\u{1076b}/gu, "");
 }
 
