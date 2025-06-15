@@ -640,6 +640,7 @@ area {
 .tip-image-display {
   padding: 0;
   max-height: 8vh;
+  line-height: 0.7;
 }
 .word-image-label {
   padding: 3px;
