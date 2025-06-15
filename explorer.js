@@ -1555,6 +1555,7 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
         (contexts.has(inscription.name) && contexts.get(inscription.name).includes(searchTerm)) ||
         inscription.scribe.includes(searchTerm) ||
         inscription.findspot.includes(searchTerm) ||
+        inscription.support.includes(searchTerm) ||
         inscription.words.includes(searchTerm) ||
         inscription.words.map(x => stripErased(x)).includes(searchTerm)
         );
