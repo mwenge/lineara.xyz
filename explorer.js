@@ -1472,7 +1472,7 @@ function showWordChart(searchTerm, item) {
   }
 }
 
-function addToSearchTerms(searchTerm) {
+function addToSearchTerms(searchTerm, callback=null) {
   return function(evt) {
     if (!searchTerm.length) {
       return;
@@ -1488,6 +1488,12 @@ function addToSearchTerms(searchTerm) {
     item.textContent = searchTerm;
     item.id = "search-for-" + searchTerm;
     item.setAttribute("term", searchTerm);
+
+    // Allow us to clear any tag filters from the search
+    if (callback) {
+      item.addEventListener("click", callback(searchTerm));
+    }
+
     item.addEventListener("click", removeFilter);
     item.addEventListener("mouseenter", showWordChart(searchTerm, item));
     item.addEventListener("mouseout", hideWordChart);
@@ -1677,6 +1683,9 @@ function highlightMatchingWordTags(inscription, wordTags, activeWordTags) {
 }
 
 function hasWordTagCombination(wordTags, activeWordTags) {
+  if (!wordTags) {
+    return false;
+  }
   var matches = getMatchingSequences(wordTags.filter(tag => tag.length), activeWordTags);
   return matches.length > 0;
 }
@@ -1997,6 +2006,7 @@ function consoleButton(button, metadata, activeMetadataName) {
       activeTags.splice(activeTags.indexOf(tag), 1);
     } else {
       activeTags.push(tag);
+      addToSearchTerms(tag, toggleMetadatum)();
     }
     var element = event.target;
     // Don't change the color of the tag if it is not being clicked from the menu
