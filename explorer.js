@@ -1468,7 +1468,7 @@ function showWordChart(searchTerm, item) {
     }
     wordChart.style.top = item.getBoundingClientRect().top + "px";
     wordChart.style.right = document.getElementById("top-right-console").clientWidth + "px";
-    wordChart.style.visibility = "visible";
+    wordChart.style.visibility = wordCount ? "visible" : "hidden";
   }
 }
 
