@@ -1242,14 +1242,14 @@ function addWordTip(word, name, index) {
       tipText = "There is no other instance of this word."
       break;
     case 1:
-      tipText = wordCount + " other instance of this word. Click to add to filter."
+      tipText = wordCount + " other instance of this word.<br> Click to add to filter."
       break;
     default:
-      tipText = wordCount + " other instances of this word. Click to add to filter."
+      tipText = wordCount + " other instances of this word.<br> Click to add to filter."
   }
   var wordCommentElement = document.createElement("span");
   wordCommentElement.className = "tip-text";
-  wordCommentElement.textContent = tipText;
+  wordCommentElement.innerHTML = tipText;
   tip.appendChild(wordCommentElement);
 
   tip.style.top = "-" + tip.offsetHeight + "px";

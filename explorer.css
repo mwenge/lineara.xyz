@@ -67,8 +67,10 @@ body {
   box-shadow:0 0 0 1px black;
 }
 .concordance-item {
-  height: 50px;
-  text-align: center;
+  min-height: 50px;
+  text-align: left;
+  padding-bottom: 4px;
+  padding-top: 4px;
 }
 .concordance-canvas {
   height: left;
@@ -386,9 +388,10 @@ dt, dd, font {
   border-radius: 10px;
   padding: 0.2vw;
   opacity: 0.8;
-  z-index: 100;
+  z-index: 99999999;
   right: 0;
   font-size: 0.7vw;
+  max-width: 18vw; 
 }
 .tip {
   position: fixed;
