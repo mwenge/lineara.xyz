@@ -317,6 +317,7 @@ input:focus::placeholder { color:transparent; }
 }
 .copyright-label {
   border-bottom-right-radius: 0px;
+  z-index: 99999;
 }
 .tag-container {
   position: absolute;
