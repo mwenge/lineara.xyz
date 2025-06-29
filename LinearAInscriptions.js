@@ -44408,12 +44408,12 @@ var inscriptions = new Map([
 }],
 ["HTZb162",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTZb162-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
     "images": [
-        "images/noimage.jpg"
+        "images/HTZb162-Inscription.jpg"
     ],
     "name": "HTZb162",
     "names": [
@@ -55454,11 +55454,11 @@ var inscriptions = new Map([
 }],
 ["KHWc2121",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": ["images/KHWc2121-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/KHWc2121-Inscription.jpg"],
     "name": "KHWc2121",
     "names": [
         "KHWc2121"
@@ -56092,11 +56092,11 @@ var inscriptions = new Map([
 }],
 ["KN54",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": ["images/KN54-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/KN54-Inscription.jpg"],
     "name": "KN54",
     "names": [
         "KN54",
@@ -71114,11 +71114,11 @@ var inscriptions = new Map([
 }],
 ["PORZf2",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": ["images/PORZf2-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/PORZf2-Inscription.jpg"],
     "name": "PORZf2",
     "names": [
         "PORZf2",
@@ -71141,11 +71141,11 @@ var inscriptions = new Map([
 }],
 ["PKZb26",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": ["images/PKZb26-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/PKZb26-Inscription.jpg"],
     "name": "PKZb26",
     "names": [
         "PKZb26"

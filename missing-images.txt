@@ -6,7 +6,6 @@ KHWc2079
 KHWc2088
 KHWc2089
 KHWc2095
-KHWc2121
 
 Recueil:"
 L’examen exclut que les rainures visibles sur le nodule soient des traces d’écriture (voir Rapport 2006-
@@ -40,10 +39,7 @@ PK Zb ? (AIA meetings, 3 January 2004: pithos sherd, written retrograde)
 Exist but not published
 -----------------------
 ARKHZb<10>
-PORZf2
-PKZb26
 ZAZb39
-KHWc2124
 
 https://arachne.dainst.org/entity/1153724?fl=20&q=cms%20279&resultIndex=12
 https://arachne.dainst.org/entity/1162319?fl=20&q=HMS%20369&resultIndex=1
@@ -58,14 +54,6 @@ KN Wb 51 (HMs 369; findspot unknown)
 incomplete image, probably not published
 ---------------
 ZOZA1
-
-Le fragment a été récupéré parmi les άγραφα de Cnossos par J.-P. Olivier en 1963-1965 (voir Rapport 1996-2000, p. 425)
-KT4 in CTLA - KN54
-Raison-Pope 1994 as KT4
-Hiraklion Museum
-Not sure where I got KNZb54 from. It was possibly a fragment of this at some point?
-------------------
-KN54
 
 
 For the following two citations, Tom Brogan ("Message from the Director,"
@@ -118,13 +106,6 @@ https://library.catalogue.tcd.ie/record=b11071391~S9
 There is no image in the book.
 ---------------------------
 KAMZb1
-
-1987    "Nuova rondella con inscrizione in lineare A dall 'Villa Reale' di Haghia Triada," Parole del Pasato 237 (1987) 463-468
-(La Rosa-Carratelli 1987)
-https://www.torrossa.com/it/resources/an/4330772
-La parola del passato : rivista di studi antichi : XLII, 6, 1987 
------------------------
-HTZb162
 
 
 Hallager, E. 2016 An LM IIIA:1 cup with a painted Linear A inscrip-
