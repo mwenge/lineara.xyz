@@ -676,7 +676,7 @@ function hasMatchForHighlight(fullWordMatch, searchTerm, text) {
     return (searchTerm == text);
   }
   searchTerm = searchTerm.replace(/\\/g, "");
-  var re = new RegExp(searchTerm);
+  var re = new RegExp(searchTerm,'i');
   return (re.test(text));
 }
 
@@ -1548,14 +1548,15 @@ function loadSearchTerms(key) {
 
 function hasMatch(fullWordMatch, searchTerm, inscription) {
   searchTerm = searchTerm.replace(/\\/g, "");
+  var searchTermLower = searchTerm.toLowerCase();
   var re = new RegExp(searchTerm);
   if (!fullWordMatch) {
     var containsRegEx = inscription.translatedWords.filter(word => re.test(word)).length > 0;
     containsRegEx |= inscription.transliteratedWords.filter(word => re.test(word)).length > 0;
     containsRegEx |= inscription.words.filter(word => re.test(word)).length > 0;
-    var containsTerm = inscription.translatedWords.filter(word => word.includes(searchTerm)).length > 0;
-    containsTerm |= inscription.transliteratedWords.filter(word => word.includes(searchTerm)).length > 0;
-    containsTerm |= inscription.names.filter(word => word == searchTerm).length > 0;
+    var containsTerm = inscription.translatedWords.filter(word => word.toLowerCase().includes(searchTermLower)).length > 0;
+    containsTerm |= inscription.transliteratedWords.filter(word => word.toLowerCase().includes(searchTermLower)).length > 0;
+    containsTerm |= inscription.names.filter(word => word.toLowerCase() == searchTermLower).length > 0;
     return (containsRegEx || containsTerm ||
         inscription.transcription.includes(searchTerm) ||
         inscription.site.includes(searchTerm) ||
@@ -1569,8 +1570,8 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
         );
   }
 
-  var containsTerm = inscription.translatedWords.filter(word => word == searchTerm).length > 0;
-  containsTerm |= inscription.transliteratedWords.filter(word => word == searchTerm).length > 0;
+  var containsTerm = inscription.translatedWords.filter(word => word.toLowerCase() == searchTermLower).length > 0;
+  containsTerm |= inscription.transliteratedWords.filter(word => word.toLowerCase() == searchTermLower).length > 0;
   return (containsTerm ||
       inscription.name == searchTerm ||
       inscription.words.includes(searchTerm) ||
