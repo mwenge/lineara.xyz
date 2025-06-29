@@ -61987,7 +61987,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/PHWb55-Inscription.jpg"],
     "name": "PHWb55",
     "names": [
         "PHWb55",
