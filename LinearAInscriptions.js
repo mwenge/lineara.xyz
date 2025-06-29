@@ -57181,6 +57181,36 @@ var inscriptions = new Map([
         "𐘁𐛧"
     ]
 }],
+["KHZc106",{
+    "context": "",
+    "facsimileImages": [
+        "images/KHZc106-Facsimile.jpg"
+    ],
+    "findspot": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "images": [
+        "images/KHZc106-Inscription.jpg"
+    ],
+    "name": "KHZc106",
+    "names": [
+        "KHZc106"
+    ],
+    "parsedInscription": "",
+    "scribe": "",
+    "site": "Knossos",
+    "support": "Inked inscription",
+    "transcription": "𐘞𐘞𐘴𐘋",
+    "translatedWords": [
+        "SA-SA-RA-ME"
+    ],
+    "transliteratedWords": [
+        "SA-SA-RA-ME"
+    ],
+    "words": [
+        "𐘞𐘞𐘴𐘋"
+    ]
+}],
 ["KNZc6",{
     "context": "",
     "facsimileImages": [

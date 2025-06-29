@@ -24,6 +24,7 @@ var tagValues = [
   ["IOZa8", "Libation Formula"],
   ["IOZa9", "Libation Formula"],
   ["IOZa9", "written right to left"],
+  ["KHZc106", "written right to left"],
   ["IOZb10", "Libation Formula"],
   ["KAZf1", "Religious Objects"],
   ["KNZa10", "Libation Formula"],

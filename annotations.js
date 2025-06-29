@@ -68220,7 +68220,6 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Only instance of word",
                     "word or logoram"
                 ],
                 "transliteratedWord": "SA-SA-RA-ME",
@@ -80445,6 +80444,19 @@ var wordAnnotations =
                 "transliteratedWord": "",
                 "word": "",
             },
+        ]
+    },
+    {
+        "name": "KHZc106",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "word",
+                    "word or logoram",
+                ],
+                "transliteratedWord": "SA-SA-RA-ME",
+                "word": "𐘞𐘞𐘴𐘋",
+            }
         ]
     }
 ]
