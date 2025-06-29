@@ -2,10 +2,6 @@ Hallager 1996a
 The Minoan Roundel and Other Sealed Documents in the Neopalatial Linear A Administration ((Aegaeum 14, Liège 1996).
 ---------------
 KHWc2074
-KHWc2079
-KHWc2088
-KHWc2089
-KHWc2095
 
 Recueil:"
 L’examen exclut que les rainures visibles sur le nodule soient des traces d’écriture (voir Rapport 2006-
@@ -94,12 +90,6 @@ HTZf166
 HTZf167
 HTZf168
 HTZf169
-
-Militello 1988-1989 = P. Militello, « Un peso (?) con segno inciso da Haghia Triada (HT Zg 163) »,
-ASAA LXVI-LXVII, n.s. XLVIII-XLIX (1988-1989) [1993], p. 163-172.
---
-HTZf163
-HTZg163
 
 Doro Levi Festos 1 p831 Festòs e la civiltà minoica
 https://library.catalogue.tcd.ie/record=b11071391~S9

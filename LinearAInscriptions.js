@@ -54742,11 +54742,11 @@ var inscriptions = new Map([
 }],
 ["KHWc2079",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/KHWc2079-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/KHWc2079-Inscription.jpg"],
     "name": "KHWc2079",
     "names": [
         "KHWc2079"
@@ -54798,11 +54798,11 @@ var inscriptions = new Map([
 }],
 ["KHWc2088",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": ["images/KHWc2088-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/KHWc2088-Inscription.jpg"],
     "name": "KHWc2088",
     "names": [
         "KHWc2088"
@@ -54824,11 +54824,11 @@ var inscriptions = new Map([
 }],
 ["KHWc2089",{
     "context": "",
-    "facsimileImages": [],
+    "facsimileImages": ["images/KHWc2088-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/KHWc2088-Inscription.jpg"],
     "name": "KHWc2089",
     "names": [
         "KHWc2089"
@@ -54850,11 +54850,11 @@ var inscriptions = new Map([
 }],
 ["KHWc2095",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/KHWc2095-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/KHWc2095-Inscription.jpg"],
     "name": "KHWc2095",
     "names": [
         "KHWc2095"
