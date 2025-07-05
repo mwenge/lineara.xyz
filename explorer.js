@@ -297,7 +297,7 @@ function autocomplete(inp, useGlyphs = true) {
       b.addEventListener("click", function(e) {
         /*insert the value for the autocomplete text field:*/
         var v = this.getElementsByTagName("input")[0].value;
-        var e = (wordsInCorpus.has(v)) ? "\"" : "";
+        var e = (wordsInCorpus.has(v) || inscriptions.has(v)) ? "\"" : "";
         inp.value = e + v + e;
         inp.focus();
         /*close the list of autocompleted values,
@@ -1557,6 +1557,7 @@ function hasMatch(fullWordMatch, searchTerm, inscription) {
     var containsTerm = inscription.translatedWords.filter(word => word.toLowerCase().includes(searchTermLower)).length > 0;
     containsTerm |= inscription.transliteratedWords.filter(word => word.toLowerCase().includes(searchTermLower)).length > 0;
     containsTerm |= inscription.names.filter(word => word.toLowerCase() == searchTermLower).length > 0;
+    containsTerm |= inscription.names.filter(word => word.toLowerCase().includes(searchTermLower)).length > 0;
     return (containsRegEx || containsTerm ||
         inscription.transcription.includes(searchTerm) ||
         inscription.site.includes(searchTerm) ||
