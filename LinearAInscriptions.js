@@ -59071,7 +59071,7 @@ var inscriptions = new Map([
     ],
     "name": "MYZg1",
     "names": [
-        "MYZg1"
+        "MYZg1",
         "MYZa2"
     ],
     "parsedInscription": "𐘲",
@@ -70373,38 +70373,6 @@ var inscriptions = new Map([
         "𐝫"
     ]
 }],
-["ARKHZb<10>",{
-    "context": "",
-    "facsimileImages": [],
-    "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
-    "name": "ARKHZb<10>",
-    "names": [
-        "ARKHZb<10>"
-    ],
-    "parsedInscription": "𐘞 ≈ 𐘳𐙁𐝫",
-    "scribe": "",
-    "site": "Arkhalkhori",
-    "support": "Clay vessel",
-    "transcription": "𐘞 ≈ 𐘳𐙁𐝫",
-    "translatedWords": [
-        "flax",
-        "≈",
-        "TA-MA"
-    ],
-    "transliteratedWords": [
-        "SA",
-        "≈",
-        "TA-MA"
-    ],
-    "words": [
-        "𐘞",
-        "≈",
-        "𐘳𐙁𐝫"
-    ]
-}],
 ["ARKHZc8",{
     "context": "MMIA",
     "facsimileImages": [
@@ -70419,6 +70387,7 @@ var inscriptions = new Map([
     "name": "ARKHZc8",
     "names": [
         "ARKHZc8",
+        "ARKHZb<10>",
         "ARKHZb10"
     ],
     "parsedInscription": "𐙚𐘳𐘧",
