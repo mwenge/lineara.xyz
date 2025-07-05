@@ -44436,10 +44436,10 @@ var inscriptions = new Map([
 }],
 ["HTZb162bis",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTZb162bis-Facsimile.jpg"],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Evans",
+    "imageRightsURL": "https://archive.org/details/inscriptionsinmi0000bric/page/90/mode/2up",
     "images": ["images/noimage.jpg"],
     "name": "HTZb162bis",
     "names": [
