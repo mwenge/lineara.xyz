@@ -43316,10 +43316,10 @@ var inscriptions = new Map([
 }],
 ["HTWb229",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTWb229-Facsimile.jpg"],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Halbherr",
+    "imageRightsURL": "papers/HTWb229.pdf#page=379",
     "images": ["images/noimage.jpg"],
     "name": "HTWb229",
     "names": [
