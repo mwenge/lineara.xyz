@@ -59005,32 +59005,6 @@ var inscriptions = new Map([
         "𐙹𐘞𐘕"
     ]
 }],
-["MYZa2",{
-    "context": "",
-    "facsimileImages": [],
-    "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
-    "name": "MYZa2",
-    "names": [
-        "MYZa2"
-    ],
-    "parsedInscription": "𐘲",
-    "scribe": "",
-    "site": "Mycenae",
-    "support": "Stone vessel",
-    "transcription": "𐘲",
-    "translatedWords": [
-        "SU"
-    ],
-    "transliteratedWords": [
-        "SU"
-    ],
-    "words": [
-        "𐘲"
-    ]
-}],
 ["MYZf1",{
     "context": "",
     "facsimileImages": [],
@@ -59098,6 +59072,7 @@ var inscriptions = new Map([
     "name": "MYZg1",
     "names": [
         "MYZg1"
+        "MYZa2"
     ],
     "parsedInscription": "𐘲",
     "scribe": "",
