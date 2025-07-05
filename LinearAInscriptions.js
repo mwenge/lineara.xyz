@@ -51606,8 +51606,8 @@ var inscriptions = new Map([
         "images/KH94-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KH94.pdf",
     "images": [
         "images/KH94-Inscription.jpg"
     ],
@@ -51660,8 +51660,8 @@ var inscriptions = new Map([
         "images/KH95-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "Hallager",
+    "imageRightsURL": "papers/KH94.pdf",
     "images": [
         "images/KH95-Inscription.jpg"
     ],
