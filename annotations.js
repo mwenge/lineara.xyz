@@ -61642,22 +61642,6 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KNZb54",
-        "tagsForWords": [
-            {
-                "tags": [
-                    "lacuna at start",
-                    "lacuna at end",
-                    "word",
-                    "Unique to find site, occurs repeatedly",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "PU-RA",
-                "word": "𐝫𐘫𐘴𐝫"
-            }
-        ]
-    },
-    {
         "name": "KNZb56",
         "tagsForWords": [
             {

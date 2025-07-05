@@ -137,7 +137,6 @@ var tagValues = [
   ["KAMZb1","Missing Image"],
   ["KHWc2074","Missing Image"],
   ["KNWb51","Missing Image"],
-  ["KNZb54","Missing Image"],
   ["MOZb2?","Missing Image"],
   ["MOZb3?","Missing Image"],
   ["MYZa2","Missing Image"],

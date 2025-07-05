@@ -56100,6 +56100,7 @@ var inscriptions = new Map([
     "name": "KN54",
     "names": [
         "KN54",
+        "KNZb54",
         "KT4"
     ],
     "parsedInscription": "𐝫\n𐝫𐘫𐘴𐝫\n𐝫𐙏𐝇𐝫\n𐝫",
@@ -57123,32 +57124,6 @@ var inscriptions = new Map([
     ],
     "words": [
         "𐙀𐘭𐘝𐙁"
-    ]
-}],
-["KNZb54",{
-    "context": "",
-    "facsimileImages": [],
-    "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
-    "name": "KNZb54",
-    "names": [
-        "KNZb54"
-    ],
-    "parsedInscription": "𐝫𐘫𐘴𐝫",
-    "scribe": "",
-    "site": "Knossos",
-    "support": "Clay vessel",
-    "transcription": "𐝫𐘫𐘴𐝫",
-    "translatedWords": [
-        "PU-RA"
-    ],
-    "transliteratedWords": [
-        "PU-RA"
-    ],
-    "words": [
-        "𐝫𐘫𐘴𐝫"
     ]
 }],
 ["KNZb56",{
