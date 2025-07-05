@@ -12,9 +12,10 @@ PETS Wc, roundel found, Fall 1993
 MAZb??
 PK Zb ? (AIA meetings, 3 January 2004: pithos sherd, written retrograde)
 
-Exist but not published
------------------------
-ZAZb39
+ZA Zb 35: selon la rumeur, un fragment de vase, avec les restes de trois ou quatre signes. On es-
+père qu’il sera publié bientôt sous l’appellation ici proposée.
+---
+ZAZb39 aka ZAZb35
 
 https://arachne.dainst.org/entity/1153724?fl=20&q=cms%20279&resultIndex=12
 https://arachne.dainst.org/entity/1162319?fl=20&q=HMS%20369&resultIndex=1
@@ -24,11 +25,6 @@ KN Wb 51 (HMs 369; findspot unknown)
     a: • 
     b: ring impression: battle (duel) scene (CMS II 8, no. 279)
 
-
-
-incomplete image, probably not published
----------------
-ZOZA1
 
 
 For the following two citations, Tom Brogan ("Message from the Director,"
