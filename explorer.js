@@ -1041,6 +1041,17 @@ function loadInscription(inscription, container = document.getElementById("conta
   tagContainer.className = 'tag-container';
   item.appendChild(tagContainer);
 
+  // Add reference if available
+  if (inscription.imageRights) {
+    var label = document.createElement("div");
+    label.className = 'tag';
+    label.style.backgroundColor = "white";
+    label.style.borderColor = "lightgray";
+    label.innerHTML = "🖋";
+    label.addEventListener("click", event => { window.open(inscription.imageRightsURL); event.stopPropagation(); });
+    tagContainer.appendChild(label);
+  }
+
   var tagsToAdd = [[[inscription.support], 'activeSupports'],
                    [[inscription.scribe], 'activeScribes'],
                    [[inscription.findspot], 'activeFindspots'],
