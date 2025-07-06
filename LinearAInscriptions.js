@@ -6,7 +6,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=38",
     "images": [
         "images/HT1-Inscription.jpg"
     ],
@@ -84,7 +84,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=40",
     "images": [
         "images/HT2-Inscription.jpg"
     ],
@@ -168,7 +168,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=42",
     "images": [
         "images/HT3-Inscription.jpg"
     ],
@@ -294,7 +294,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=44",
     "images": [
         "images/HT4-Inscription.jpg"
     ],
@@ -354,7 +354,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=46",
     "images": [
         "images/HT5-Inscription.jpg"
     ],
@@ -420,7 +420,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=48",
     "images": [
         "images/HT6a-Inscription.jpg"
     ],
@@ -555,7 +555,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=48",
     "images": [
         "images/HT6b-Inscription.jpg"
     ],
@@ -651,7 +651,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=50",
     "images": [
         "images/HT7a-Inscription.jpg"
     ],
@@ -732,7 +732,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=50",
     "images": [
         "images/HT7b-Inscription.jpg"
     ],
@@ -774,7 +774,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=52",
     "images": [
         "images/HT8a-Inscription.jpg"
     ],
@@ -870,7 +870,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=52",
     "images": [
         "images/HT8b-Inscription.jpg"
     ],
@@ -972,7 +972,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=54",
     "images": [
         "images/HT9a-Inscription.jpg"
     ],
@@ -1107,7 +1107,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=54",
     "images": [
         "images/HT9b-Inscription.jpg"
     ],
@@ -1233,7 +1233,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=56",
     "images": [
         "images/HT10a-Inscription.jpg"
     ],
@@ -1356,7 +1356,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=56",
     "images": [
         "images/HT10b-Inscription.jpg"
     ],
@@ -1440,7 +1440,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=58",
     "images": [
         "images/HT11a-Inscription.jpg"
     ],
@@ -1530,7 +1530,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=58",
     "images": [
         "images/HT11b-Inscription.jpg"
     ],
@@ -1629,7 +1629,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=60",
     "images": [
         "images/HT12-Inscription.jpg"
     ],
@@ -1752,7 +1752,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=62",
     "images": [
         "images/HT13-Inscription.jpg"
     ],
@@ -1866,7 +1866,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=64",
     "images": [
         "images/HT14-Inscription.jpg"
     ],
@@ -1995,7 +1995,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=66",
     "images": [
         "images/HT15-Inscription.jpg"
     ],
@@ -2067,7 +2067,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=68",
     "images": [
         "images/HT16-Inscription.jpg"
     ],
@@ -2142,7 +2142,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=70",
     "images": [
         "images/HT17-Inscription.jpg"
     ],
@@ -2205,7 +2205,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=70",
     "images": [
         "images/HT18-Inscription.jpg"
     ],
@@ -2280,7 +2280,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=72",
     "images": [
         "images/HT19-Inscription.jpg"
     ],
@@ -2349,7 +2349,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=72",
     "images": [
         "images/HT20-Inscription.jpg"
     ],
@@ -2442,7 +2442,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=74",
     "images": [
         "images/HT21-Inscription.jpg"
     ],
@@ -2532,7 +2532,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=74",
     "images": [
         "images/HT22-Inscription.jpg"
     ],
@@ -2586,7 +2586,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=76",
     "images": [
         "images/HT23a-Inscription.jpg"
     ],
@@ -2742,7 +2742,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=76",
     "images": [
         "images/HT23b-Inscription.jpg"
     ],
@@ -2835,7 +2835,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Corridor 9 and Vestibule 26",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=78",
     "images": [
         "images/HT24a-Inscription.jpg"
     ],
@@ -2919,7 +2919,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Corridor 9 and Vestibule 26",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=78",
     "images": [
         "images/HT24b-Inscription.jpg"
     ],
@@ -2976,7 +2976,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=80",
     "images": [
         "images/HT25a-Inscription.jpg"
     ],
@@ -3093,7 +3093,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=80",
     "images": [
         "images/HT25b-Inscription.jpg"
     ],
@@ -3174,7 +3174,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=82",
     "images": [
         "images/HT26a-Inscription.jpg"
     ],
@@ -3249,7 +3249,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=82",
     "images": [
         "images/HT26b-Inscription.jpg"
     ],
@@ -3342,7 +3342,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=84",
     "images": [
         "images/HT27a-Inscription.jpg"
     ],
@@ -3510,7 +3510,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=84",
     "images": [
         "images/HT27b-Inscription.jpg"
     ],
@@ -3666,7 +3666,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=88",
     "images": [
         "images/HT28a-Inscription.jpg"
     ],
@@ -3831,7 +3831,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=88",
     "images": [
         "images/HT28b-Inscription.jpg"
     ],
@@ -3960,7 +3960,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=90",
     "images": [
         "images/HT29-Inscription.jpg"
     ],
@@ -4059,7 +4059,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=92",
     "images": [
         "images/HT30-Inscription.jpg"
     ],
@@ -4233,7 +4233,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=94",
     "images": [
         "images/HT31-Inscription.jpg"
     ],
@@ -4362,7 +4362,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=96",
     "images": [
         "images/HT32-Inscription.jpg"
     ],
@@ -4491,7 +4491,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=98",
     "images": [
         "images/HT33-Inscription.jpg"
     ],
@@ -4599,7 +4599,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=100",
     "images": [
         "images/HT34-Inscription.jpg"
     ],
@@ -4761,7 +4761,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=102",
     "images": [
         "images/HT35-Inscription.jpg"
     ],
@@ -4872,7 +4872,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=104",
     "images": [
         "images/HT36-Inscription.jpg"
     ],
@@ -4935,7 +4935,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=106",
     "images": [
         "images/HT37-Inscription.jpg"
     ],
@@ -5055,7 +5055,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=108",
     "images": [
         "images/HT38-Inscription.jpg"
     ],
@@ -5148,7 +5148,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=110",
     "images": [
         "images/HT39-Inscription.jpg"
     ],
@@ -5244,7 +5244,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=112",
     "images": [
         "images/HT40-Inscription.jpg"
     ],
@@ -5322,7 +5322,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=114",
     "images": [
         "images/HT41a-Inscription.jpg"
     ],
@@ -5415,7 +5415,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=114",
     "images": [
         "images/HT41b-Inscription.jpg"
     ],
@@ -5592,7 +5592,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=118",
     "images": [
         "images/HT43-Inscription.jpg"
     ],
@@ -5643,7 +5643,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=120",
     "images": [
         "images/HT44a-Inscription.jpg"
     ],
@@ -5736,7 +5736,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=120",
     "images": [
         "images/HT44b-Inscription.jpg"
     ],
@@ -5811,7 +5811,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=122",
     "images": [
         "images/HT45a-Inscription.jpg"
     ],
@@ -5883,7 +5883,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=122",
     "images": [
         "images/HT45b-Inscription.jpg"
     ],
@@ -6015,7 +6015,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=124",
     "images": [
         "images/HT46a-Inscription.jpg"
     ],
@@ -6066,7 +6066,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=124",
     "images": [
         "images/HT46b-Inscription.jpg"
     ],
@@ -6117,7 +6117,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=126",
     "images": [
         "images/HT47a-Inscription.jpg"
     ],
@@ -6204,7 +6204,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=126",
     "images": [
         "images/HT47b-Inscription.jpg"
     ],
@@ -6240,7 +6240,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=128",
     "images": [
         "images/HT49a-Inscription.jpg"
     ],
@@ -6438,7 +6438,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=128",
     "images": [
         "images/HT49b-Inscription.jpg"
     ],
@@ -6507,7 +6507,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=132",
     "images": [
         "images/HT50a-Inscription.jpg"
     ],
@@ -6615,7 +6615,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=132",
     "images": [
         "images/HT50b-Inscription.jpg"
     ],
@@ -6672,7 +6672,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=134",
     "images": [
         "images/HT51a-Inscription.jpg"
     ],
@@ -6750,7 +6750,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=134",
     "images": [
         "images/HT51b-Inscription.jpg"
     ],
@@ -6810,7 +6810,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=136",
     "images": [
         "images/HT52a-Inscription.jpg"
     ],
@@ -6873,7 +6873,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=136",
     "images": [
         "images/HT52b-Inscription.jpg"
     ],
@@ -6924,7 +6924,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=138",
     "images": [
         "images/HT53a-Inscription.jpg"
     ],
@@ -6996,7 +6996,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=138",
     "images": [
         "images/HT53b-Inscription.jpg"
     ],
@@ -7056,7 +7056,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=140",
     "images": [
         "images/HT54a-Inscription.jpg"
     ],
@@ -7110,7 +7110,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=140",
     "images": [
         "images/HT54b-Inscription.jpg"
     ],
@@ -7164,7 +7164,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=142",
     "images": [
         "images/HT55a-Inscription.jpg"
     ],
@@ -7251,7 +7251,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=142",
     "images": [
         "images/HT55b-Inscription.jpg"
     ],
@@ -7317,7 +7317,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=144",
     "images": [
         "images/HT56a-Inscription.jpg"
     ],
@@ -7377,7 +7377,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=144",
     "images": [
         "images/HT56b-Inscription.jpg"
     ],
@@ -7428,7 +7428,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=146",
     "images": [
         "images/HT57a-Inscription.jpg"
     ],
@@ -7482,7 +7482,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=146",
     "images": [
         "images/HT57b-Inscription.jpg"
     ],
@@ -7527,7 +7527,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=148",
     "images": [
         "images/HT58-Inscription.jpg"
     ],
@@ -7608,7 +7608,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=150",
     "images": [
         "images/HT60-Inscription.jpg"
     ],
@@ -7692,7 +7692,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=150",
     "images": [
         "images/HT61-Inscription.jpg"
     ],
@@ -7932,7 +7932,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=154",
     "images": [
         "images/HT63-Inscription.jpg"
     ],
@@ -8007,7 +8007,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=154",
     "images": [
         "images/HT64-Inscription.jpg"
     ],
@@ -8085,7 +8085,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=156",
     "images": [
         "images/HT65-Inscription.jpg"
     ],
@@ -8124,7 +8124,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=156",
     "images": [
         "images/HT66-Inscription.jpg"
     ],
@@ -8199,7 +8199,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=156",
     "images": [
         "images/HT67-Inscription.jpg"
     ],
@@ -8259,7 +8259,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=158",
     "images": [
         "images/HT68-Inscription.jpg"
     ],
@@ -8310,7 +8310,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=158",
     "images": [
         "images/HT69-Inscription.jpg"
     ],
@@ -8379,7 +8379,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=158",
     "images": [
         "images/HT70-Inscription.jpg"
     ],
@@ -8451,7 +8451,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=160",
     "images": [
         "images/HT72-Inscription.jpg"
     ],
@@ -8496,7 +8496,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=160",
     "images": [
         "images/HT74-Inscription.jpg"
     ],
@@ -8547,7 +8547,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=160",
     "images": [
         "images/HT75-Inscription.jpg"
     ],
@@ -8589,7 +8589,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=162",
     "images": [
         "images/HT78-Inscription.jpg"
     ],
@@ -8736,7 +8736,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=162",
     "images": [
         "images/HT80-Inscription.jpg"
     ],
@@ -8784,7 +8784,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=164",
     "images": [
         "images/HT81-Inscription.jpg"
     ],
@@ -8847,7 +8847,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=164",
     "images": [
         "images/HT82-Inscription.jpg"
     ],
@@ -8901,7 +8901,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=164",
     "images": [
         "images/HT84-Inscription.jpg"
     ],
@@ -8955,7 +8955,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=166",
     "images": [
         "images/HT85a-Inscription.jpg"
     ],
@@ -9072,7 +9072,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=166",
     "images": [
         "images/HT85b-Inscription.jpg"
     ],
@@ -9204,7 +9204,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=170",
     "images": [
         "images/HT86a-Inscription.jpg"
     ],
@@ -9312,7 +9312,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=170",
     "images": [
         "images/HT86b-Inscription.jpg"
     ],
@@ -9372,7 +9372,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=172",
     "images": [
         "images/HT87-Inscription.jpg"
     ],
@@ -9471,7 +9471,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=174",
     "images": [
         "images/HT88-Inscription.jpg"
     ],
@@ -9603,7 +9603,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=176",
     "images": [
         "images/HT89-Inscription.jpg"
     ],
@@ -9726,7 +9726,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=178",
     "images": [
         "images/HT90-Inscription.jpg"
     ],
@@ -9825,7 +9825,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=180",
     "images": [
         "images/HT91-Inscription.jpg"
     ],
@@ -9975,7 +9975,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=180",
     "images": [
         "images/HT92-Inscription.jpg"
     ],
@@ -10032,7 +10032,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=182",
     "images": [
         "images/HT93a-Inscription.jpg"
     ],
@@ -10239,7 +10239,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=182",
     "images": [
         "images/HT93b-Inscription.jpg"
     ],
@@ -10278,7 +10278,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=186",
     "images": [
         "images/HT94a-Inscription.jpg"
     ],
@@ -10434,7 +10434,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=186",
     "images": [
         "images/HT94b-Inscription.jpg"
     ],
@@ -10557,7 +10557,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=190",
     "images": [
         "images/HT95a-Inscription.jpg"
     ],
@@ -10647,7 +10647,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=190",
     "images": [
         "images/HT95b-Inscription.jpg"
     ],
@@ -10746,7 +10746,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=192",
     "images": [
         "images/HT96a-Inscription.jpg"
     ],
@@ -10887,7 +10887,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=192",
     "images": [
         "images/HT96b-Inscription.jpg"
     ],
@@ -10974,7 +10974,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=194",
     "images": [
         "images/HT97a-Inscription.jpg"
     ],
@@ -11136,7 +11136,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=194",
     "images": [
         "images/HT97b-Inscription.jpg"
     ],
@@ -11166,7 +11166,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=196",
     "images": [
         "images/HT98a-Inscription.jpg"
     ],
@@ -11259,7 +11259,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=196",
     "images": [
         "images/HT98b-Inscription.jpg"
     ],
@@ -11313,7 +11313,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=198",
     "images": [
         "images/HT99a-Inscription.jpg"
     ],
@@ -11391,7 +11391,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=198",
     "images": [
         "images/HT99b-Inscription.jpg"
     ],
@@ -11451,7 +11451,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=200",
     "images": [
         "images/HT100-Inscription.jpg"
     ],
@@ -11607,7 +11607,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=202",
     "images": [
         "images/HT101-Inscription.jpg"
     ],
@@ -11769,7 +11769,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=204",
     "images": [
         "images/HT102-Inscription.jpg"
     ],
@@ -11880,7 +11880,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=206",
     "images": [
         "images/HT103-Inscription.jpg"
     ],
@@ -11976,7 +11976,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=206",
     "images": [
         "images/HT104-Inscription.jpg"
     ],
@@ -12057,7 +12057,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=208",
     "images": [
         "images/HT105-Inscription.jpg"
     ],
@@ -12117,7 +12117,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=208",
     "images": [
         "images/HT106-Inscription.jpg"
     ],
@@ -12207,7 +12207,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=210",
     "images": [
         "images/HT107-Inscription.jpg"
     ],
@@ -12267,7 +12267,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=210",
     "images": [
         "images/HT108-Inscription.jpg"
     ],
@@ -12360,7 +12360,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=212",
     "images": [
         "images/HT109-Inscription.jpg"
     ],
@@ -12432,7 +12432,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=214",
     "images": [
         "images/HT110a-Inscription.jpg"
     ],
@@ -12501,7 +12501,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=214",
     "images": [
         "images/HT110b-Inscription.jpg"
     ],
@@ -12609,7 +12609,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=216",
     "images": [
         "images/HT111a-Inscription.jpg"
     ],
@@ -12690,7 +12690,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=216",
     "images": [
         "images/HT111b-Inscription.jpg"
     ],
@@ -12765,7 +12765,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=218",
     "images": [
         "images/HT112a-Inscription.jpg"
     ],
@@ -12813,7 +12813,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=218",
     "images": [
         "images/HT112b-Inscription.jpg"
     ],
@@ -12864,7 +12864,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=220",
     "images": [
         "images/HT113-Inscription.jpg"
     ],
@@ -12966,7 +12966,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=222",
     "images": [
         "images/HT114a-Inscription.jpg"
     ],
@@ -13044,7 +13044,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=222",
     "images": [
         "images/HT114b-Inscription.jpg"
     ],
@@ -13077,7 +13077,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=224",
     "images": [
         "images/HT115a-Inscription.jpg"
     ],
@@ -13203,7 +13203,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=224",
     "images": [
         "images/HT115b-Inscription.jpg"
     ],
@@ -13320,7 +13320,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=228",
     "images": [
         "images/HT116a-Inscription.jpg"
     ],
@@ -13515,7 +13515,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=228",
     "images": [
         "images/HT116b-Inscription.jpg"
     ],
@@ -13569,7 +13569,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=232",
     "images": [
         "images/HT117a-Inscription.jpg"
     ],
@@ -13773,7 +13773,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=232",
     "images": [
         "images/HT117b-Inscription.jpg"
     ],
@@ -13824,7 +13824,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=236",
     "images": [
         "images/HT118-Inscription.jpg"
     ],
@@ -13944,7 +13944,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=238",
     "images": [
         "images/HT119-Inscription.jpg"
     ],
@@ -14058,7 +14058,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=240",
     "images": [
         "images/HT120-Inscription.jpg"
     ],
@@ -14163,7 +14163,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=240",
     "images": [
         "images/HT121-Inscription.jpg"
     ],
@@ -14247,7 +14247,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=242",
     "images": [
         "images/HT122a-Inscription.jpg"
     ],
@@ -14445,7 +14445,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=242",
     "images": [
         "images/HT122b-Inscription.jpg"
     ],
@@ -14895,7 +14895,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=250",
     "images": [
         "images/HT125a-Inscription.jpg"
     ],
@@ -14982,7 +14982,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=250",
     "images": [
         "images/HT125b-Inscription.jpg"
     ],
@@ -15066,7 +15066,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=252",
     "images": [
         "images/HT126a-Inscription.jpg"
     ],
@@ -15171,7 +15171,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=252",
     "images": [
         "images/HT126b-Inscription.jpg"
     ],
@@ -15255,7 +15255,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=254",
     "images": [
         "images/HT127a-Inscription.jpg"
     ],
@@ -15303,7 +15303,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=254",
     "images": [
         "images/HT127b-Inscription.jpg"
     ],
@@ -15414,7 +15414,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=256",
     "images": [
         "images/HT128a-Inscription.jpg"
     ],
@@ -15525,7 +15525,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=256",
     "images": [
         "images/HT128b-Inscription.jpg"
     ],
@@ -15594,7 +15594,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=258",
     "images": [
         "images/HT129-Inscription.jpg"
     ],
@@ -15696,7 +15696,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=260",
     "images": [
         "images/HT130-Inscription.jpg"
     ],
@@ -15795,7 +15795,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=262",
     "images": [
         "images/HT131a-Inscription.jpg"
     ],
@@ -15882,7 +15882,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=262",
     "images": [
         "images/HT131b-Inscription.jpg"
     ],
@@ -15954,7 +15954,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=264",
     "images": [
         "images/HT132-Inscription.jpg"
     ],
@@ -16035,7 +16035,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=264",
     "images": [
         "images/HT133-Inscription.jpg"
     ],
@@ -16077,7 +16077,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=266",
     "images": [
         "images/HT135a-Inscription.jpg"
     ],
@@ -16152,7 +16152,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=266",
     "images": [
         "images/HT135b-Inscription.jpg"
     ],
@@ -16197,7 +16197,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=268",
     "images": [
         "images/HT136a-Inscription.jpg"
     ],
@@ -16242,7 +16242,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=268",
     "images": [
         "images/HT136b-Inscription.jpg"
     ],
@@ -16284,7 +16284,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=270",
     "images": [
         "images/HT137-Inscription.jpg"
     ],
@@ -16350,7 +16350,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=270",
     "images": [
         "images/HT139-Inscription.jpg"
     ],
@@ -16410,7 +16410,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=272",
     "images": [
         "images/HT140-Inscription.jpg"
     ],
@@ -16587,7 +16587,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=274",
     "images": [
         "images/HT141-Inscription.jpg"
     ],
@@ -16641,7 +16641,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=274",
     "images": [
         "images/HT142-Inscription.jpg"
     ],
@@ -16695,7 +16695,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=274",
     "images": [
         "images/HT144-Inscription.jpg"
     ],
@@ -16740,7 +16740,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=276",
     "images": [
         "images/HT146-Inscription.jpg"
     ],
@@ -16806,7 +16806,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=276",
     "images": [
         "images/HT147-Inscription.jpg"
     ],
@@ -16932,7 +16932,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
     "images": [
         "images/HT154a-Inscription.jpg"
     ],
@@ -16998,7 +16998,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
     "images": [
         "images/HT154b-Inscription.jpg"
     ],
@@ -17031,7 +17031,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
     "images": [
         "images/HT154c-Inscription.jpg"
     ],
@@ -17076,7 +17076,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
     "images": [
         "images/HT154e-Inscription.jpg"
     ],
@@ -17124,7 +17124,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
     "images": [
         "images/HT154g-Inscription.jpg"
     ],
@@ -17543,7 +17543,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=66",
     "images": [
         "images/HTWa1001-Inscription.jpg"
     ],
@@ -17573,7 +17573,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=66",
     "images": [
         "images/HTWa1002-Inscription.jpg"
     ],
@@ -17603,7 +17603,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=66",
     "images": [
         "images/HTWa1003-Inscription.jpg"
     ],
@@ -17633,7 +17633,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=66",
     "images": [
         "images/HTWa1004-Inscription.jpg"
     ],
@@ -17663,7 +17663,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=68",
     "images": [
         "images/HTWa1005-Inscription.jpg"
     ],
@@ -17693,7 +17693,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=67",
     "images": [
         "images/HTWa1006-Inscription.jpg"
     ],
@@ -17723,7 +17723,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=67",
     "images": [
         "images/HTWa1007-Inscription.jpg"
     ],
@@ -17753,7 +17753,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=67",
     "images": [
         "images/HTWa1008-Inscription.jpg"
     ],
@@ -17783,7 +17783,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=67",
     "images": [
         "images/HTWa1009-Inscription.jpg"
     ],
@@ -17813,7 +17813,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=67",
     "images": [
         "images/HTWa1010-Inscription.jpg"
     ],
@@ -17843,7 +17843,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=67",
     "images": [
         "images/HTWa1011-Inscription.jpg"
     ],
@@ -17873,7 +17873,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=67",
     "images": [
         "images/HTWa1012-Inscription.jpg"
     ],
@@ -17903,7 +17903,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=67",
     "images": [
         "images/HTWa1013-Inscription.jpg"
     ],
@@ -17933,7 +17933,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=68",
     "images": [
         "images/HTWa1014-Inscription.jpg"
     ],
@@ -17963,7 +17963,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=68",
     "images": [
         "images/HTWa1015-Inscription.jpg"
     ],
@@ -17993,7 +17993,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=68",
     "images": [
         "images/HTWa1016-Inscription.jpg"
     ],
@@ -18023,7 +18023,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=68",
     "images": [
         "images/HTWa1017-Inscription.jpg"
     ],
@@ -18053,7 +18053,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=68",
     "images": [
         "images/HTWa1018-Inscription.jpg"
     ],
@@ -18084,7 +18084,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=69",
     "images": [
         "images/HTWa1019-Inscription.jpg",
         "images/HTWa1019a-Inscription.jpg"
@@ -18121,7 +18121,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=69",
     "images": [
         "images/HTWa1020-Inscription.jpg"
     ],
@@ -18163,7 +18163,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=69",
     "images": [
         "images/HTWa1021-Inscription.jpg"
     ],
@@ -18241,7 +18241,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=70",
     "images": [
         "images/HTWa1022-Inscription.jpg"
     ],
@@ -18271,7 +18271,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=70",
     "images": [
         "images/HTWa1023-Inscription.jpg"
     ],
@@ -18301,7 +18301,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=70",
     "images": [
         "images/HTWa1024-Inscription.jpg"
     ],
@@ -18331,7 +18331,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=71",
     "images": [
         "images/HTWa1025-Inscription.jpg"
     ],
@@ -18361,7 +18361,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=71",
     "images": [
         "images/HTWa1026-Inscription.jpg"
     ],
@@ -18391,7 +18391,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=71",
     "images": [
         "images/HTWa1027-Inscription.jpg"
     ],
@@ -18421,7 +18421,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=71",
     "images": [
         "images/HTWa1028-Inscription.jpg",
         "images/HTWa1028a-Inscription.jpg"
@@ -18452,7 +18452,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=71",
     "images": [
         "images/HTWa1029-Inscription.jpg",
         "images/HTWa1029a-Inscription.jpg"
@@ -18484,7 +18484,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=71",
     "images": [
         "images/HTWa1030-Inscription.jpg",
         "images/HTWa1030a-Inscription.jpg"
@@ -18515,7 +18515,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1031-Inscription.jpg"
     ],
@@ -18545,7 +18545,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1032-Inscription.jpg"
     ],
@@ -18575,7 +18575,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1033-Inscription.jpg"
     ],
@@ -18605,7 +18605,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1034-Inscription.jpg"
     ],
@@ -18635,7 +18635,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1035-Inscription.jpg"
     ],
@@ -18665,7 +18665,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1036-Inscription.jpg"
     ],
@@ -18695,7 +18695,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1037-Inscription.jpg"
     ],
@@ -18725,7 +18725,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1038-Inscription.jpg"
     ],
@@ -18755,7 +18755,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1039-Inscription.jpg"
     ],
@@ -18785,7 +18785,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1040-Inscription.jpg"
     ],
@@ -18815,7 +18815,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1041-Inscription.jpg"
     ],
@@ -18845,7 +18845,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1042-Inscription.jpg"
     ],
@@ -18875,7 +18875,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=72",
     "images": [
         "images/HTWa1043-Inscription.jpg"
     ],
@@ -18905,7 +18905,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1044-Inscription.jpg"
     ],
@@ -18935,7 +18935,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1045-Inscription.jpg"
     ],
@@ -18965,7 +18965,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1046-Inscription.jpg"
     ],
@@ -18995,7 +18995,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1047-Inscription.jpg"
     ],
@@ -19025,7 +19025,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1048-Inscription.jpg"
     ],
@@ -19055,7 +19055,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1049-Inscription.jpg"
     ],
@@ -19085,7 +19085,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1050-Inscription.jpg"
     ],
@@ -19115,7 +19115,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1051-Inscription.jpg"
     ],
@@ -19145,7 +19145,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1052-Inscription.jpg"
     ],
@@ -19175,7 +19175,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1053-Inscription.jpg"
     ],
@@ -19205,7 +19205,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1054-Inscription.jpg"
     ],
@@ -19235,7 +19235,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1055-Inscription.jpg"
     ],
@@ -19265,7 +19265,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1056-Inscription.jpg"
     ],
@@ -19295,7 +19295,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1057-Inscription.jpg"
     ],
@@ -19325,7 +19325,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=73",
     "images": [
         "images/HTWa1058-Inscription.jpg"
     ],
@@ -19355,7 +19355,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1059-Inscription.jpg"
     ],
@@ -19385,7 +19385,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1060-Inscription.jpg"
     ],
@@ -19415,7 +19415,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1061-Inscription.jpg"
     ],
@@ -19445,7 +19445,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1062-Inscription.jpg"
     ],
@@ -19475,7 +19475,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1063-Inscription.jpg"
     ],
@@ -19505,7 +19505,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1064-Inscription.jpg"
     ],
@@ -19535,7 +19535,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1065-Inscription.jpg"
     ],
@@ -19565,7 +19565,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1066-Inscription.jpg"
     ],
@@ -19595,7 +19595,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1067-Inscription.jpg"
     ],
@@ -19625,7 +19625,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1068-Inscription.jpg"
     ],
@@ -19655,7 +19655,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1069-Inscription.jpg"
     ],
@@ -19685,7 +19685,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1070-Inscription.jpg"
     ],
@@ -19715,7 +19715,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=74",
     "images": [
         "images/HTWa1073-Inscription.jpg"
     ],
@@ -19745,7 +19745,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1074-Inscription.jpg"
     ],
@@ -19775,7 +19775,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1075-Inscription.jpg"
     ],
@@ -19805,7 +19805,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1076-Inscription.jpg"
     ],
@@ -19835,7 +19835,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1077-Inscription.jpg"
     ],
@@ -19865,7 +19865,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1078-Inscription.jpg"
     ],
@@ -19895,7 +19895,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1079-Inscription.jpg"
     ],
@@ -19925,7 +19925,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1080-Inscription.jpg"
     ],
@@ -19955,7 +19955,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1081-Inscription.jpg"
     ],
@@ -19985,7 +19985,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1082-Inscription.jpg"
     ],
@@ -20015,7 +20015,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1083-Inscription.jpg"
     ],
@@ -20045,7 +20045,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1084-Inscription.jpg"
     ],
@@ -20075,7 +20075,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1085-Inscription.jpg"
     ],
@@ -20105,7 +20105,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1086-Inscription.jpg"
     ],
@@ -20135,7 +20135,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1087-Inscription.jpg"
     ],
@@ -20165,7 +20165,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=75",
     "images": [
         "images/HTWa1088-Inscription.jpg"
     ],
@@ -20195,7 +20195,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1089-Inscription.jpg"
     ],
@@ -20225,7 +20225,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1090-Inscription.jpg"
     ],
@@ -20255,7 +20255,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1091-Inscription.jpg"
     ],
@@ -20285,7 +20285,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1092-Inscription.jpg"
     ],
@@ -20315,7 +20315,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1093-Inscription.jpg"
     ],
@@ -20345,7 +20345,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1094-Inscription.jpg"
     ],
@@ -20375,7 +20375,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1095-Inscription.jpg"
     ],
@@ -20405,7 +20405,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1096-Inscription.jpg"
     ],
@@ -20435,7 +20435,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1097-Inscription.jpg"
     ],
@@ -20465,7 +20465,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1098-Inscription.jpg"
     ],
@@ -20495,7 +20495,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1099-Inscription.jpg"
     ],
@@ -20525,7 +20525,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1100-Inscription.jpg"
     ],
@@ -20555,7 +20555,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1101-Inscription.jpg"
     ],
@@ -20585,7 +20585,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1102-Inscription.jpg"
     ],
@@ -20615,7 +20615,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=76",
     "images": [
         "images/HTWa1103-Inscription.jpg"
     ],
@@ -20645,7 +20645,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1104-Inscription.jpg"
     ],
@@ -20675,7 +20675,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1105-Inscription.jpg"
     ],
@@ -20705,7 +20705,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1106-Inscription.jpg"
     ],
@@ -20735,7 +20735,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1107-Inscription.jpg"
     ],
@@ -20765,7 +20765,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1108-Inscription.jpg"
     ],
@@ -20795,7 +20795,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1109-Inscription.jpg"
     ],
@@ -20825,7 +20825,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1110-Inscription.jpg"
     ],
@@ -20855,7 +20855,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1111-Inscription.jpg"
     ],
@@ -20885,7 +20885,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1112-Inscription.jpg"
     ],
@@ -20915,7 +20915,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1113-Inscription.jpg"
     ],
@@ -20945,7 +20945,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1114-Inscription.jpg"
     ],
@@ -20975,7 +20975,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1115-Inscription.jpg"
     ],
@@ -21005,7 +21005,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1116-Inscription.jpg"
     ],
@@ -21035,7 +21035,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1117-Inscription.jpg"
     ],
@@ -21065,7 +21065,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=77",
     "images": [
         "images/HTWa1118-Inscription.jpg"
     ],
@@ -21095,7 +21095,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1119-Inscription.jpg"
     ],
@@ -21125,7 +21125,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1120-Inscription.jpg"
     ],
@@ -21155,7 +21155,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1121-Inscription.jpg"
     ],
@@ -21185,7 +21185,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1122-Inscription.jpg"
     ],
@@ -21215,7 +21215,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1123-Inscription.jpg"
     ],
@@ -21245,7 +21245,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1124-Inscription.jpg"
     ],
@@ -21275,7 +21275,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1125-Inscription.jpg"
     ],
@@ -21305,7 +21305,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1126-Inscription.jpg"
     ],
@@ -21335,7 +21335,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1127-Inscription.jpg"
     ],
@@ -21365,7 +21365,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1128-Inscription.jpg"
     ],
@@ -21395,7 +21395,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1129-Inscription.jpg"
     ],
@@ -21425,7 +21425,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=78",
     "images": [
         "images/HTWa1130-Inscription.jpg"
     ],
@@ -21455,7 +21455,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1131-Inscription.jpg"
     ],
@@ -21485,7 +21485,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1132-Inscription.jpg"
     ],
@@ -21515,7 +21515,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1133-Inscription.jpg"
     ],
@@ -21545,7 +21545,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1134-Inscription.jpg"
     ],
@@ -21575,7 +21575,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1135-Inscription.jpg"
     ],
@@ -21605,7 +21605,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1136-Inscription.jpg"
     ],
@@ -21635,7 +21635,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1137-Inscription.jpg"
     ],
@@ -21665,7 +21665,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1138-Inscription.jpg"
     ],
@@ -21695,7 +21695,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1139-Inscription.jpg"
     ],
@@ -21725,7 +21725,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1140-Inscription.jpg"
     ],
@@ -21755,7 +21755,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1141-Inscription.jpg"
     ],
@@ -21785,7 +21785,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1142-Inscription.jpg"
     ],
@@ -21815,7 +21815,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1143-Inscription.jpg"
     ],
@@ -21845,7 +21845,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1144-Inscription.jpg"
     ],
@@ -21875,7 +21875,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=79",
     "images": [
         "images/HTWa1145-Inscription.jpg"
     ],
@@ -22653,7 +22653,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=80",
     "images": [
         "images/HTWa1171-Inscription.jpg"
     ],
@@ -22683,7 +22683,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=80",
     "images": [
         "images/HTWa1172-Inscription.jpg"
     ],
@@ -22713,7 +22713,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=80",
     "images": [
         "images/HTWa1173-Inscription.jpg"
     ],
@@ -22743,7 +22743,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=80",
     "images": [
         "images/HTWa1174-Inscription.jpg"
     ],
@@ -22773,7 +22773,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=80",
     "images": [
         "images/HTWa1175-Inscription.jpg"
     ],
@@ -22803,7 +22803,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=80",
     "images": [
         "images/HTWa1176-Inscription.jpg"
     ],
@@ -22833,7 +22833,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=80",
     "images": [
         "images/HTWa1177-Inscription.jpg"
     ],
@@ -22863,7 +22863,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=80",
     "images": [
         "images/HTWa1178-Inscription.jpg"
     ],
@@ -22893,7 +22893,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=80",
     "images": [
         "images/HTWa1179-Inscription.jpg"
     ],
@@ -22923,7 +22923,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=80",
     "images": [
         "images/HTWa1180-Inscription.jpg"
     ],
@@ -22953,7 +22953,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1181-Inscription.jpg"
     ],
@@ -22983,7 +22983,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1182-Inscription.jpg"
     ],
@@ -23013,7 +23013,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1183-Inscription.jpg"
     ],
@@ -23043,7 +23043,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1184-Inscription.jpg"
     ],
@@ -23073,7 +23073,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1185-Inscription.jpg"
     ],
@@ -23103,7 +23103,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1186-Inscription.jpg"
     ],
@@ -23133,7 +23133,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1187-Inscription.jpg"
     ],
@@ -23163,7 +23163,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1188-Inscription.jpg"
     ],
@@ -23193,7 +23193,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1189-Inscription.jpg"
     ],
@@ -23223,7 +23223,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1190-Inscription.jpg"
     ],
@@ -23253,7 +23253,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1191-Inscription.jpg"
     ],
@@ -23283,7 +23283,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1192-Inscription.jpg"
     ],
@@ -23313,7 +23313,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1193-Inscription.jpg"
     ],
@@ -23343,7 +23343,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1194-Inscription.jpg"
     ],
@@ -23373,7 +23373,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=81",
     "images": [
         "images/HTWa1195-Inscription.jpg"
     ],
@@ -23403,7 +23403,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1196-Inscription.jpg"
     ],
@@ -23433,7 +23433,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1197-Inscription.jpg"
     ],
@@ -23463,7 +23463,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1198-Inscription.jpg"
     ],
@@ -23493,7 +23493,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1199-Inscription.jpg"
     ],
@@ -23523,7 +23523,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1200-Inscription.jpg"
     ],
@@ -23553,7 +23553,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1201-Inscription.jpg"
     ],
@@ -23583,7 +23583,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1202-Inscription.jpg"
     ],
@@ -23613,7 +23613,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1203-Inscription.jpg"
     ],
@@ -23643,7 +23643,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1204-Inscription.jpg"
     ],
@@ -23673,7 +23673,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1205-Inscription.jpg"
     ],
@@ -23703,7 +23703,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1206-Inscription.jpg"
     ],
@@ -23733,7 +23733,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1207-Inscription.jpg"
     ],
@@ -23763,7 +23763,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1208-Inscription.jpg"
     ],
@@ -23793,7 +23793,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1209-Inscription.jpg"
     ],
@@ -23823,7 +23823,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=82",
     "images": [
         "images/HTWa1210-Inscription.jpg"
     ],
@@ -23853,7 +23853,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1211-Inscription.jpg"
     ],
@@ -23883,7 +23883,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1212-Inscription.jpg"
     ],
@@ -23913,7 +23913,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1213-Inscription.jpg"
     ],
@@ -23943,7 +23943,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1214-Inscription.jpg"
     ],
@@ -23973,7 +23973,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1215-Inscription.jpg"
     ],
@@ -24003,7 +24003,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1216-Inscription.jpg"
     ],
@@ -24033,7 +24033,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1217-Inscription.jpg"
     ],
@@ -24063,7 +24063,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1218-Inscription.jpg"
     ],
@@ -24093,7 +24093,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1219-Inscription.jpg"
     ],
@@ -24123,7 +24123,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1220-Inscription.jpg"
     ],
@@ -24153,7 +24153,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1221-Inscription.jpg"
     ],
@@ -24183,7 +24183,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1222-Inscription.jpg"
     ],
@@ -24213,7 +24213,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1223-Inscription.jpg"
     ],
@@ -24243,7 +24243,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1224-Inscription.jpg"
     ],
@@ -24273,7 +24273,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=83",
     "images": [
         "images/HTWa1225-Inscription.jpg"
     ],
@@ -24303,7 +24303,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1226-Inscription.jpg"
     ],
@@ -24333,7 +24333,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1227-Inscription.jpg"
     ],
@@ -24363,7 +24363,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1228-Inscription.jpg"
     ],
@@ -24393,7 +24393,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1229-Inscription.jpg"
     ],
@@ -24423,7 +24423,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1230-Inscription.jpg"
     ],
@@ -24453,7 +24453,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1231-Inscription.jpg"
     ],
@@ -24483,7 +24483,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1232-Inscription.jpg"
     ],
@@ -24513,7 +24513,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1233-Inscription.jpg"
     ],
@@ -24543,7 +24543,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1234-Inscription.jpg"
     ],
@@ -24573,7 +24573,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1235-Inscription.jpg"
     ],
@@ -24603,7 +24603,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1236-Inscription.jpg"
     ],
@@ -24633,7 +24633,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1237-Inscription.jpg"
     ],
@@ -24663,7 +24663,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1238-Inscription.jpg"
     ],
@@ -24693,7 +24693,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1239-Inscription.jpg"
     ],
@@ -24723,7 +24723,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=84",
     "images": [
         "images/HTWa1240-Inscription.jpg"
     ],
@@ -24753,7 +24753,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1241-Inscription.jpg"
     ],
@@ -24783,7 +24783,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1242-Inscription.jpg"
     ],
@@ -24813,7 +24813,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1243-Inscription.jpg"
     ],
@@ -24843,7 +24843,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1244-Inscription.jpg"
     ],
@@ -24873,7 +24873,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1245-Inscription.jpg"
     ],
@@ -24903,7 +24903,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1246-Inscription.jpg"
     ],
@@ -24933,7 +24933,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1247-Inscription.jpg"
     ],
@@ -24963,7 +24963,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1248-Inscription.jpg"
     ],
@@ -24993,7 +24993,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1249-Inscription.jpg"
     ],
@@ -25023,7 +25023,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1250-Inscription.jpg"
     ],
@@ -25053,7 +25053,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1251-Inscription.jpg"
     ],
@@ -25083,7 +25083,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1252-Inscription.jpg"
     ],
@@ -25113,7 +25113,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1253-Inscription.jpg"
     ],
@@ -25143,7 +25143,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1254-Inscription.jpg"
     ],
@@ -25173,7 +25173,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=85",
     "images": [
         "images/HTWa1255-Inscription.jpg"
     ],
@@ -25203,7 +25203,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1256-Inscription.jpg"
     ],
@@ -25233,7 +25233,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1257-Inscription.jpg"
     ],
@@ -25263,7 +25263,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1258-Inscription.jpg"
     ],
@@ -25293,7 +25293,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1259-Inscription.jpg"
     ],
@@ -25323,7 +25323,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1260-Inscription.jpg"
     ],
@@ -25353,7 +25353,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1261-Inscription.jpg"
     ],
@@ -25383,7 +25383,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1262-Inscription.jpg"
     ],
@@ -25413,7 +25413,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1263-Inscription.jpg"
     ],
@@ -25443,7 +25443,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1264-Inscription.jpg"
     ],
@@ -25473,7 +25473,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1265-Inscription.jpg"
     ],
@@ -25503,7 +25503,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=86",
     "images": [
         "images/HTWa1266-Inscription.jpg"
     ],
@@ -25533,7 +25533,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1267-Inscription.jpg"
     ],
@@ -25563,7 +25563,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1268-Inscription.jpg"
     ],
@@ -25593,7 +25593,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1269-Inscription.jpg"
     ],
@@ -25623,7 +25623,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1270-Inscription.jpg"
     ],
@@ -25653,7 +25653,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1271-Inscription.jpg"
     ],
@@ -25683,7 +25683,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1272-Inscription.jpg"
     ],
@@ -25713,7 +25713,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1273-Inscription.jpg"
     ],
@@ -25743,7 +25743,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1274-Inscription.jpg"
     ],
@@ -25773,7 +25773,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1275-Inscription.jpg"
     ],
@@ -25803,7 +25803,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1276-Inscription.jpg"
     ],
@@ -25833,7 +25833,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1277-Inscription.jpg"
     ],
@@ -25863,7 +25863,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=87",
     "images": [
         "images/HTWa1278-Inscription.jpg"
     ],
@@ -25893,7 +25893,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1279-Inscription.jpg"
     ],
@@ -25923,7 +25923,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1280-Inscription.jpg"
     ],
@@ -25953,7 +25953,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1281-Inscription.jpg"
     ],
@@ -25983,7 +25983,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1282-Inscription.jpg"
     ],
@@ -26013,7 +26013,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1283-Inscription.jpg"
     ],
@@ -26043,7 +26043,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1284-Inscription.jpg"
     ],
@@ -26073,7 +26073,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1285-Inscription.jpg"
     ],
@@ -26103,7 +26103,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1286-Inscription.jpg"
     ],
@@ -26133,7 +26133,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1287-Inscription.jpg"
     ],
@@ -26163,7 +26163,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1288-Inscription.jpg"
     ],
@@ -26193,7 +26193,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1289-Inscription.jpg"
     ],
@@ -26223,7 +26223,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1290-Inscription.jpg"
     ],
@@ -26253,7 +26253,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1291-Inscription.jpg"
     ],
@@ -26283,7 +26283,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1292-Inscription.jpg"
     ],
@@ -26313,7 +26313,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=88",
     "images": [
         "images/HTWa1293-Inscription.jpg"
     ],
@@ -26343,7 +26343,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1294-Inscription.jpg"
     ],
@@ -26373,7 +26373,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1295-Inscription.jpg"
     ],
@@ -26403,7 +26403,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1296-Inscription.jpg"
     ],
@@ -26433,7 +26433,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1297-Inscription.jpg"
     ],
@@ -26463,7 +26463,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1298-Inscription.jpg"
     ],
@@ -26493,7 +26493,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1299-Inscription.jpg"
     ],
@@ -26523,7 +26523,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1300-Inscription.jpg"
     ],
@@ -26553,7 +26553,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1301-Inscription.jpg"
     ],
@@ -26583,7 +26583,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1302-Inscription.jpg"
     ],
@@ -26613,7 +26613,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1303-Inscription.jpg"
     ],
@@ -26643,7 +26643,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1304-Inscription.jpg"
     ],
@@ -26673,7 +26673,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1305-Inscription.jpg"
     ],
@@ -26703,7 +26703,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1306-Inscription.jpg"
     ],
@@ -26733,7 +26733,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1307-Inscription.jpg"
     ],
@@ -26763,7 +26763,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=89",
     "images": [
         "images/HTWa1308-Inscription.jpg"
     ],
@@ -26793,7 +26793,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1309-Inscription.jpg"
     ],
@@ -26823,7 +26823,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1310-Inscription.jpg"
     ],
@@ -26853,7 +26853,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1311-Inscription.jpg"
     ],
@@ -26883,7 +26883,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1312-Inscription.jpg"
     ],
@@ -26913,7 +26913,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1313-Inscription.jpg"
     ],
@@ -26943,7 +26943,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1314-Inscription.jpg"
     ],
@@ -26973,7 +26973,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1315-Inscription.jpg"
     ],
@@ -27003,7 +27003,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1316-Inscription.jpg"
     ],
@@ -27033,7 +27033,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1317-Inscription.jpg"
     ],
@@ -27063,7 +27063,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1318-Inscription.jpg"
     ],
@@ -27093,7 +27093,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1319-Inscription.jpg"
     ],
@@ -27123,7 +27123,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1320-Inscription.jpg"
     ],
@@ -27153,7 +27153,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=90",
     "images": [
         "images/HTWa1321-Inscription.jpg"
     ],
@@ -27183,7 +27183,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1322-Inscription.jpg"
     ],
@@ -27213,7 +27213,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1323-Inscription.jpg"
     ],
@@ -27243,7 +27243,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1324-Inscription.jpg"
     ],
@@ -27273,7 +27273,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1325-Inscription.jpg"
     ],
@@ -27303,7 +27303,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1326-Inscription.jpg"
     ],
@@ -27333,7 +27333,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1327-Inscription.jpg"
     ],
@@ -27363,7 +27363,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1328-Inscription.jpg"
     ],
@@ -27393,7 +27393,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1329-Inscription.jpg"
     ],
@@ -27423,7 +27423,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1330-Inscription.jpg"
     ],
@@ -27453,7 +27453,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1331-Inscription.jpg"
     ],
@@ -27483,7 +27483,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1332-Inscription.jpg"
     ],
@@ -27513,7 +27513,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1333-Inscription.jpg"
     ],
@@ -27543,7 +27543,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1334-Inscription.jpg"
     ],
@@ -27573,7 +27573,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1335-Inscription.jpg"
     ],
@@ -27603,7 +27603,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=91",
     "images": [
         "images/HTWa1336-Inscription.jpg"
     ],
@@ -27633,7 +27633,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1337-Inscription.jpg"
     ],
@@ -27663,7 +27663,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1338-Inscription.jpg"
     ],
@@ -27693,7 +27693,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1339-Inscription.jpg"
     ],
@@ -27723,7 +27723,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1340-Inscription.jpg"
     ],
@@ -27753,7 +27753,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1341-Inscription.jpg"
     ],
@@ -27783,7 +27783,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1342-Inscription.jpg"
     ],
@@ -27813,7 +27813,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1343-Inscription.jpg"
     ],
@@ -27843,7 +27843,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1344-Inscription.jpg"
     ],
@@ -27873,7 +27873,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1345-Inscription.jpg"
     ],
@@ -27903,7 +27903,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1346-Inscription.jpg"
     ],
@@ -27933,7 +27933,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1347-Inscription.jpg"
     ],
@@ -27963,7 +27963,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1348-Inscription.jpg"
     ],
@@ -27993,7 +27993,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1349-Inscription.jpg"
     ],
@@ -28023,7 +28023,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1350-Inscription.jpg"
     ],
@@ -28053,7 +28053,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=92",
     "images": [
         "images/HTWa1351-Inscription.jpg"
     ],
@@ -28083,7 +28083,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1352-Inscription.jpg"
     ],
@@ -28113,7 +28113,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1353-Inscription.jpg"
     ],
@@ -28143,7 +28143,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1354-Inscription.jpg"
     ],
@@ -28173,7 +28173,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1355-Inscription.jpg"
     ],
@@ -28203,7 +28203,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1356-Inscription.jpg"
     ],
@@ -28233,7 +28233,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1357-Inscription.jpg"
     ],
@@ -28263,7 +28263,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1358-Inscription.jpg"
     ],
@@ -28293,7 +28293,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1359-Inscription.jpg"
     ],
@@ -28323,7 +28323,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1360-Inscription.jpg"
     ],
@@ -28353,7 +28353,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1361-Inscription.jpg"
     ],
@@ -28383,7 +28383,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1362-Inscription.jpg"
     ],
@@ -28413,7 +28413,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1363-Inscription.jpg"
     ],
@@ -28443,7 +28443,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1364-Inscription.jpg"
     ],
@@ -28473,7 +28473,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1365-Inscription.jpg"
     ],
@@ -28503,7 +28503,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=93",
     "images": [
         "images/HTWa1366-Inscription.jpg"
     ],
@@ -28533,7 +28533,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1367-Inscription.jpg"
     ],
@@ -28563,7 +28563,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1368-Inscription.jpg"
     ],
@@ -28593,7 +28593,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1369-Inscription.jpg"
     ],
@@ -28623,7 +28623,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1370-Inscription.jpg"
     ],
@@ -28653,7 +28653,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1371-Inscription.jpg"
     ],
@@ -28683,7 +28683,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1372-Inscription.jpg"
     ],
@@ -28713,7 +28713,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1373-Inscription.jpg"
     ],
@@ -28743,7 +28743,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1374-Inscription.jpg"
     ],
@@ -28773,7 +28773,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1375-Inscription.jpg"
     ],
@@ -28803,7 +28803,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1376-Inscription.jpg"
     ],
@@ -28833,7 +28833,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1377-Inscription.jpg"
     ],
@@ -28863,7 +28863,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1378-Inscription.jpg"
     ],
@@ -28893,7 +28893,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1379-Inscription.jpg"
     ],
@@ -28923,7 +28923,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1380-Inscription.jpg"
     ],
@@ -28953,7 +28953,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=94",
     "images": [
         "images/HTWa1381-Inscription.jpg"
     ],
@@ -28983,7 +28983,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1382-Inscription.jpg"
     ],
@@ -29013,7 +29013,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1383-Inscription.jpg"
     ],
@@ -29043,7 +29043,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1384-Inscription.jpg"
     ],
@@ -29073,7 +29073,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1385-Inscription.jpg"
     ],
@@ -29103,7 +29103,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1386-Inscription.jpg"
     ],
@@ -29133,7 +29133,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1387-Inscription.jpg"
     ],
@@ -29163,7 +29163,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1388-Inscription.jpg"
     ],
@@ -29193,7 +29193,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1389-Inscription.jpg"
     ],
@@ -29223,7 +29223,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1390-Inscription.jpg"
     ],
@@ -29253,7 +29253,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1391-Inscription.jpg"
     ],
@@ -29283,7 +29283,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1392-Inscription.jpg"
     ],
@@ -29313,7 +29313,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1393-Inscription.jpg"
     ],
@@ -29343,7 +29343,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1394-Inscription.jpg"
     ],
@@ -29373,7 +29373,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1395-Inscription.jpg"
     ],
@@ -29403,7 +29403,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=95",
     "images": [
         "images/HTWa1396-Inscription.jpg"
     ],
@@ -29433,7 +29433,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1397-Inscription.jpg"
     ],
@@ -29463,7 +29463,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1398-Inscription.jpg"
     ],
@@ -29493,7 +29493,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1399-Inscription.jpg"
     ],
@@ -29523,7 +29523,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1400-Inscription.jpg"
     ],
@@ -29553,7 +29553,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1401-Inscription.jpg"
     ],
@@ -29583,7 +29583,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1402-Inscription.jpg"
     ],
@@ -29613,7 +29613,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1403-Inscription.jpg"
     ],
@@ -29643,7 +29643,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1404-Inscription.jpg"
     ],
@@ -29673,7 +29673,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1405-Inscription.jpg"
     ],
@@ -29703,7 +29703,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1406-Inscription.jpg"
     ],
@@ -29733,7 +29733,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1407-Inscription.jpg"
     ],
@@ -29763,7 +29763,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1408-Inscription.jpg"
     ],
@@ -29793,7 +29793,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1409-Inscription.jpg"
     ],
@@ -29823,7 +29823,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1410-Inscription.jpg"
     ],
@@ -29853,7 +29853,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=96",
     "images": [
         "images/HTWa1411-Inscription.jpg"
     ],
@@ -29883,7 +29883,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1412-Inscription.jpg"
     ],
@@ -29913,7 +29913,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1413-Inscription.jpg"
     ],
@@ -29943,7 +29943,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1414-Inscription.jpg"
     ],
@@ -29973,7 +29973,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1415-Inscription.jpg"
     ],
@@ -30003,7 +30003,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1416-Inscription.jpg"
     ],
@@ -30033,7 +30033,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1417-Inscription.jpg"
     ],
@@ -30063,7 +30063,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1418-Inscription.jpg"
     ],
@@ -30093,7 +30093,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1419-Inscription.jpg"
     ],
@@ -30123,7 +30123,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1420-Inscription.jpg"
     ],
@@ -30153,7 +30153,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1421-Inscription.jpg"
     ],
@@ -30183,7 +30183,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1422-Inscription.jpg"
     ],
@@ -30213,7 +30213,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1423-Inscription.jpg"
     ],
@@ -30243,7 +30243,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1424-Inscription.jpg"
     ],
@@ -30273,7 +30273,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1425-Inscription.jpg"
     ],
@@ -30303,7 +30303,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=97",
     "images": [
         "images/HTWa1426-Inscription.jpg"
     ],
@@ -30333,7 +30333,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1427-Inscription.jpg"
     ],
@@ -30363,7 +30363,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1428-Inscription.jpg"
     ],
@@ -30393,7 +30393,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1429-Inscription.jpg"
     ],
@@ -30423,7 +30423,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1430-Inscription.jpg"
     ],
@@ -30453,7 +30453,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1431-Inscription.jpg"
     ],
@@ -30483,7 +30483,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1432-Inscription.jpg"
     ],
@@ -30513,7 +30513,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1433-Inscription.jpg"
     ],
@@ -30543,7 +30543,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1434-Inscription.jpg"
     ],
@@ -30573,7 +30573,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1435-Inscription.jpg"
     ],
@@ -30603,7 +30603,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1436-Inscription.jpg"
     ],
@@ -30633,7 +30633,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1437-Inscription.jpg"
     ],
@@ -30663,7 +30663,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1438-Inscription.jpg"
     ],
@@ -30693,7 +30693,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1439-Inscription.jpg"
     ],
@@ -30723,7 +30723,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1440-Inscription.jpg"
     ],
@@ -30753,7 +30753,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=98",
     "images": [
         "images/HTWa1441-Inscription.jpg"
     ],
@@ -30783,7 +30783,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1442-Inscription.jpg"
     ],
@@ -30813,7 +30813,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1443-Inscription.jpg"
     ],
@@ -30843,7 +30843,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1444-Inscription.jpg"
     ],
@@ -30873,7 +30873,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1445-Inscription.jpg"
     ],
@@ -30903,7 +30903,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1446-Inscription.jpg"
     ],
@@ -30933,7 +30933,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1447-Inscription.jpg"
     ],
@@ -30963,7 +30963,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1448-Inscription.jpg"
     ],
@@ -30993,7 +30993,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1449-Inscription.jpg"
     ],
@@ -31023,7 +31023,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1450-Inscription.jpg"
     ],
@@ -31053,7 +31053,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1451-Inscription.jpg"
     ],
@@ -31083,7 +31083,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1452-Inscription.jpg"
     ],
@@ -31113,7 +31113,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1453-Inscription.jpg"
     ],
@@ -31143,7 +31143,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1454-Inscription.jpg"
     ],
@@ -31173,7 +31173,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1455-Inscription.jpg"
     ],
@@ -31203,7 +31203,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=99",
     "images": [
         "images/HTWa1456-Inscription.jpg"
     ],
@@ -31233,7 +31233,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1457-Inscription.jpg"
     ],
@@ -31263,7 +31263,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1458-Inscription.jpg"
     ],
@@ -31293,7 +31293,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1459-Inscription.jpg"
     ],
@@ -31323,7 +31323,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1460-Inscription.jpg"
     ],
@@ -31353,7 +31353,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1461-Inscription.jpg"
     ],
@@ -31383,7 +31383,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1462-Inscription.jpg"
     ],
@@ -31413,7 +31413,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1463-Inscription.jpg"
     ],
@@ -31443,7 +31443,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1464-Inscription.jpg"
     ],
@@ -31473,7 +31473,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1465-Inscription.jpg"
     ],
@@ -31503,7 +31503,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1466-Inscription.jpg"
     ],
@@ -31533,7 +31533,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1467-Inscription.jpg"
     ],
@@ -31563,7 +31563,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1468-Inscription.jpg"
     ],
@@ -31593,7 +31593,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1469-Inscription.jpg"
     ],
@@ -31623,7 +31623,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=100",
     "images": [
         "images/HTWa1470-Inscription.jpg"
     ],
@@ -31653,7 +31653,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1471-Inscription.jpg"
     ],
@@ -31683,7 +31683,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1472-Inscription.jpg"
     ],
@@ -31713,7 +31713,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1473-Inscription.jpg"
     ],
@@ -31743,7 +31743,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1474-Inscription.jpg"
     ],
@@ -31773,7 +31773,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1475-Inscription.jpg"
     ],
@@ -31803,7 +31803,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1476-Inscription.jpg"
     ],
@@ -31833,7 +31833,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1477-Inscription.jpg"
     ],
@@ -31863,7 +31863,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1478-Inscription.jpg"
     ],
@@ -31893,7 +31893,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1479-Inscription.jpg"
     ],
@@ -31923,7 +31923,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1480-Inscription.jpg"
     ],
@@ -31953,7 +31953,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1481-Inscription.jpg"
     ],
@@ -31983,7 +31983,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1482-Inscription.jpg"
     ],
@@ -32013,7 +32013,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1483-Inscription.jpg"
     ],
@@ -32043,7 +32043,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1484-Inscription.jpg"
     ],
@@ -32073,7 +32073,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=101",
     "images": [
         "images/HTWa1485-Inscription.jpg"
     ],
@@ -32103,7 +32103,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1486-Inscription.jpg"
     ],
@@ -32133,7 +32133,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1487-Inscription.jpg"
     ],
@@ -32163,7 +32163,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1488-Inscription.jpg"
     ],
@@ -32193,7 +32193,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1489-Inscription.jpg"
     ],
@@ -32223,7 +32223,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1490-Inscription.jpg"
     ],
@@ -32253,7 +32253,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1491-Inscription.jpg"
     ],
@@ -32283,7 +32283,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1492-Inscription.jpg"
     ],
@@ -32313,7 +32313,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1493-Inscription.jpg"
     ],
@@ -32343,7 +32343,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1494-Inscription.jpg"
     ],
@@ -32373,7 +32373,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1495-Inscription.jpg"
     ],
@@ -32403,7 +32403,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1496-Inscription.jpg"
     ],
@@ -32433,7 +32433,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1497-Inscription.jpg"
     ],
@@ -32463,7 +32463,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1498-Inscription.jpg"
     ],
@@ -32493,7 +32493,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1499-Inscription.jpg"
     ],
@@ -32523,7 +32523,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=102",
     "images": [
         "images/HTWa1500-Inscription.jpg"
     ],
@@ -32553,7 +32553,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1501-Inscription.jpg"
     ],
@@ -32583,7 +32583,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1502-Inscription.jpg"
     ],
@@ -32613,7 +32613,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1503-Inscription.jpg"
     ],
@@ -32643,7 +32643,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1504-Inscription.jpg"
     ],
@@ -32673,7 +32673,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1505-Inscription.jpg"
     ],
@@ -32703,7 +32703,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1506-Inscription.jpg"
     ],
@@ -32733,7 +32733,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1507-Inscription.jpg"
     ],
@@ -32763,7 +32763,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1508-Inscription.jpg"
     ],
@@ -32793,7 +32793,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1509-Inscription.jpg"
     ],
@@ -32823,7 +32823,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1510-Inscription.jpg"
     ],
@@ -32853,7 +32853,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1511-Inscription.jpg"
     ],
@@ -32883,7 +32883,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1512-Inscription.jpg"
     ],
@@ -32913,7 +32913,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1513-Inscription.jpg"
     ],
@@ -32943,7 +32943,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1514-Inscription.jpg"
     ],
@@ -32973,7 +32973,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=103",
     "images": [
         "images/HTWa1515-Inscription.jpg"
     ],
@@ -33003,7 +33003,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1516-Inscription.jpg"
     ],
@@ -33033,7 +33033,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1517-Inscription.jpg"
     ],
@@ -33063,7 +33063,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1518-Inscription.jpg"
     ],
@@ -33093,7 +33093,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1519-Inscription.jpg"
     ],
@@ -33123,7 +33123,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1520-Inscription.jpg"
     ],
@@ -33153,7 +33153,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1521-Inscription.jpg"
     ],
@@ -33183,7 +33183,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1522-Inscription.jpg"
     ],
@@ -33213,7 +33213,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1523-Inscription.jpg"
     ],
@@ -33243,7 +33243,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1524-Inscription.jpg"
     ],
@@ -33273,7 +33273,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1525-Inscription.jpg"
     ],
@@ -33303,7 +33303,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1526-Inscription.jpg"
     ],
@@ -33333,7 +33333,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1527-Inscription.jpg"
     ],
@@ -33363,7 +33363,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1528-Inscription.jpg"
     ],
@@ -33393,7 +33393,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1529-Inscription.jpg"
     ],
@@ -33423,7 +33423,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=104",
     "images": [
         "images/HTWa1530-Inscription.jpg"
     ],
@@ -33453,7 +33453,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1531-Inscription.jpg"
     ],
@@ -33483,7 +33483,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1532-Inscription.jpg"
     ],
@@ -33513,7 +33513,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1533-Inscription.jpg"
     ],
@@ -33543,7 +33543,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1534-Inscription.jpg"
     ],
@@ -33573,7 +33573,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1535-Inscription.jpg"
     ],
@@ -33603,7 +33603,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1536-Inscription.jpg"
     ],
@@ -33633,7 +33633,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1537-Inscription.jpg"
     ],
@@ -33663,7 +33663,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1538-Inscription.jpg"
     ],
@@ -33693,7 +33693,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1539-Inscription.jpg"
     ],
@@ -33723,7 +33723,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1540-Inscription.jpg"
     ],
@@ -33753,7 +33753,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1541-Inscription.jpg"
     ],
@@ -33783,7 +33783,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1542-Inscription.jpg"
     ],
@@ -33813,7 +33813,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1543-Inscription.jpg"
     ],
@@ -33843,7 +33843,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1544-Inscription.jpg"
     ],
@@ -33873,7 +33873,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=105",
     "images": [
         "images/HTWa1545-Inscription.jpg"
     ],
@@ -33903,7 +33903,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1546-Inscription.jpg"
     ],
@@ -33933,7 +33933,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1547-Inscription.jpg"
     ],
@@ -33963,7 +33963,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1548-Inscription.jpg"
     ],
@@ -33993,7 +33993,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1549-Inscription.jpg"
     ],
@@ -34023,7 +34023,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1550-Inscription.jpg"
     ],
@@ -34053,7 +34053,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1551-Inscription.jpg"
     ],
@@ -34083,7 +34083,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1552-Inscription.jpg"
     ],
@@ -34113,7 +34113,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1553-Inscription.jpg"
     ],
@@ -34143,7 +34143,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1554-Inscription.jpg"
     ],
@@ -34173,7 +34173,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1555-Inscription.jpg"
     ],
@@ -34203,7 +34203,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1556-Inscription.jpg"
     ],
@@ -34233,7 +34233,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1557-Inscription.jpg"
     ],
@@ -34263,7 +34263,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1558-Inscription.jpg"
     ],
@@ -34293,7 +34293,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1559-Inscription.jpg"
     ],
@@ -34323,7 +34323,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=106",
     "images": [
         "images/HTWa1560-Inscription.jpg"
     ],
@@ -34353,7 +34353,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1561-Inscription.jpg"
     ],
@@ -34383,7 +34383,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1562-Inscription.jpg"
     ],
@@ -34413,7 +34413,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1563-Inscription.jpg"
     ],
@@ -34443,7 +34443,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1564-Inscription.jpg"
     ],
@@ -34473,7 +34473,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1565-Inscription.jpg"
     ],
@@ -34503,7 +34503,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1566-Inscription.jpg"
     ],
@@ -34533,7 +34533,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1567-Inscription.jpg"
     ],
@@ -34563,7 +34563,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1568-Inscription.jpg"
     ],
@@ -34593,7 +34593,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1569-Inscription.jpg"
     ],
@@ -34623,7 +34623,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1570-Inscription.jpg"
     ],
@@ -34653,7 +34653,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1571-Inscription.jpg"
     ],
@@ -34683,7 +34683,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1572-Inscription.jpg"
     ],
@@ -34713,7 +34713,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1573-Inscription.jpg"
     ],
@@ -34743,7 +34743,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1574-Inscription.jpg"
     ],
@@ -34773,7 +34773,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=107",
     "images": [
         "images/HTWa1575-Inscription.jpg"
     ],
@@ -34803,7 +34803,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1576-Inscription.jpg"
     ],
@@ -34833,7 +34833,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1577-Inscription.jpg"
     ],
@@ -34863,7 +34863,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1578-Inscription.jpg"
     ],
@@ -34893,7 +34893,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1579-Inscription.jpg"
     ],
@@ -34923,7 +34923,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1580-Inscription.jpg"
     ],
@@ -34953,7 +34953,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1581-Inscription.jpg"
     ],
@@ -34983,7 +34983,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1582-Inscription.jpg"
     ],
@@ -35013,7 +35013,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1583-Inscription.jpg"
     ],
@@ -35043,7 +35043,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1584-Inscription.jpg"
     ],
@@ -35073,7 +35073,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1585-Inscription.jpg"
     ],
@@ -35103,7 +35103,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1586-Inscription.jpg"
     ],
@@ -35133,7 +35133,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1587-Inscription.jpg"
     ],
@@ -35163,7 +35163,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1588-Inscription.jpg"
     ],
@@ -35193,7 +35193,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1589-Inscription.jpg"
     ],
@@ -35223,7 +35223,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=108",
     "images": [
         "images/HTWa1590-Inscription.jpg"
     ],
@@ -35253,7 +35253,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1591-Inscription.jpg"
     ],
@@ -35283,7 +35283,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1592-Inscription.jpg"
     ],
@@ -35313,7 +35313,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1593-Inscription.jpg"
     ],
@@ -35343,7 +35343,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1594-Inscription.jpg"
     ],
@@ -35373,7 +35373,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1595-Inscription.jpg"
     ],
@@ -35403,7 +35403,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1596-Inscription.jpg"
     ],
@@ -35433,7 +35433,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1597-Inscription.jpg"
     ],
@@ -35463,7 +35463,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1598-Inscription.jpg"
     ],
@@ -35493,7 +35493,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1599-Inscription.jpg"
     ],
@@ -35523,7 +35523,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1600-Inscription.jpg"
     ],
@@ -35553,7 +35553,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1601-Inscription.jpg"
     ],
@@ -35583,7 +35583,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1602-Inscription.jpg"
     ],
@@ -35613,7 +35613,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1603-Inscription.jpg"
     ],
@@ -35643,7 +35643,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1604-Inscription.jpg"
     ],
@@ -35673,7 +35673,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=109",
     "images": [
         "images/HTWa1605-Inscription.jpg"
     ],
@@ -35703,7 +35703,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1606-Inscription.jpg"
     ],
@@ -35733,7 +35733,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1607-Inscription.jpg"
     ],
@@ -35763,7 +35763,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1608-Inscription.jpg"
     ],
@@ -35793,7 +35793,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1609-Inscription.jpg"
     ],
@@ -35823,7 +35823,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1610-Inscription.jpg"
     ],
@@ -35853,7 +35853,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1611-Inscription.jpg"
     ],
@@ -35883,7 +35883,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1612-Inscription.jpg"
     ],
@@ -35913,7 +35913,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1613-Inscription.jpg"
     ],
@@ -35943,7 +35943,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1614-Inscription.jpg"
     ],
@@ -35973,7 +35973,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1615-Inscription.jpg"
     ],
@@ -36003,7 +36003,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1616-Inscription.jpg"
     ],
@@ -36033,7 +36033,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1618-Inscription.jpg"
     ],
@@ -36063,7 +36063,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1619-Inscription.jpg"
     ],
@@ -36091,7 +36091,7 @@ var inscriptions = new Map([
     "facsimileImages": [],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=110",
     "images": [
         "images/HTWa1620-Inscription.jpg"
     ],
@@ -36121,7 +36121,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1621-Inscription.jpg"
     ],
@@ -36151,7 +36151,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1622-Inscription.jpg"
     ],
@@ -36181,7 +36181,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1623-Inscription.jpg"
     ],
@@ -36211,7 +36211,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1624-Inscription.jpg"
     ],
@@ -36241,7 +36241,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1625-Inscription.jpg"
     ],
@@ -36271,7 +36271,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1626-Inscription.jpg"
     ],
@@ -36301,7 +36301,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1627-Inscription.jpg"
     ],
@@ -36331,7 +36331,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1628-Inscription.jpg"
     ],
@@ -36361,7 +36361,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1629-Inscription.jpg"
     ],
@@ -36391,7 +36391,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1630-Inscription.jpg"
     ],
@@ -36421,7 +36421,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1631-Inscription.jpg"
     ],
@@ -36451,7 +36451,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1632-Inscription.jpg"
     ],
@@ -36481,7 +36481,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1633-Inscription.jpg"
     ],
@@ -36511,7 +36511,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=111",
     "images": [
         "images/HTWa1634-Inscription.jpg"
     ],
@@ -36541,7 +36541,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1635-Inscription.jpg"
     ],
@@ -36571,7 +36571,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1636-Inscription.jpg"
     ],
@@ -36601,7 +36601,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1637-Inscription.jpg"
     ],
@@ -36631,7 +36631,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1638-Inscription.jpg"
     ],
@@ -36661,7 +36661,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1639-Inscription.jpg"
     ],
@@ -36691,7 +36691,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1640-Inscription.jpg"
     ],
@@ -36721,7 +36721,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1641-Inscription.jpg"
     ],
@@ -36751,7 +36751,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1642-Inscription.jpg"
     ],
@@ -36781,7 +36781,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1643-Inscription.jpg"
     ],
@@ -36811,7 +36811,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1644-Inscription.jpg"
     ],
@@ -36841,7 +36841,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1645-Inscription.jpg"
     ],
@@ -36871,7 +36871,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1646-Inscription.jpg"
     ],
@@ -36901,7 +36901,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1647-Inscription.jpg"
     ],
@@ -36931,7 +36931,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1648-Inscription.jpg"
     ],
@@ -36961,7 +36961,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=112",
     "images": [
         "images/HTWa1649-Inscription.jpg"
     ],
@@ -36991,7 +36991,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1650-Inscription.jpg"
     ],
@@ -37021,7 +37021,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1651-Inscription.jpg"
     ],
@@ -37051,7 +37051,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1652-Inscription.jpg"
     ],
@@ -37081,7 +37081,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1653-Inscription.jpg"
     ],
@@ -37111,7 +37111,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1654-Inscription.jpg"
     ],
@@ -37141,7 +37141,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1655-Inscription.jpg"
     ],
@@ -37171,7 +37171,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1656-Inscription.jpg"
     ],
@@ -37201,7 +37201,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1657-Inscription.jpg"
     ],
@@ -37231,7 +37231,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1658-Inscription.jpg"
     ],
@@ -37261,7 +37261,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1659-Inscription.jpg"
     ],
@@ -37291,7 +37291,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1660-Inscription.jpg"
     ],
@@ -37321,7 +37321,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1661-Inscription.jpg"
     ],
@@ -37351,7 +37351,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1662-Inscription.jpg"
     ],
@@ -37381,7 +37381,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=113",
     "images": [
         "images/HTWa1664-Inscription.jpg"
     ],
@@ -37411,7 +37411,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1665-Inscription.jpg"
     ],
@@ -37441,7 +37441,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1666-Inscription.jpg"
     ],
@@ -37471,7 +37471,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1667-Inscription.jpg"
     ],
@@ -37501,7 +37501,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1668-Inscription.jpg"
     ],
@@ -37531,7 +37531,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1669-Inscription.jpg"
     ],
@@ -37561,7 +37561,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1670-Inscription.jpg"
     ],
@@ -37591,7 +37591,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1671-Inscription.jpg"
     ],
@@ -37621,7 +37621,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1672-Inscription.jpg"
     ],
@@ -37651,7 +37651,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1673-Inscription.jpg"
     ],
@@ -37681,7 +37681,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1674-Inscription.jpg"
     ],
@@ -37711,7 +37711,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1675-Inscription.jpg"
     ],
@@ -37741,7 +37741,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1676-Inscription.jpg"
     ],
@@ -37771,7 +37771,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1677-Inscription.jpg"
     ],
@@ -37801,7 +37801,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1678-Inscription.jpg"
     ],
@@ -37831,7 +37831,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=114",
     "images": [
         "images/HTWa1679-Inscription.jpg"
     ],
@@ -37861,7 +37861,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1680-Inscription.jpg"
     ],
@@ -37891,7 +37891,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1681-Inscription.jpg"
     ],
@@ -37921,7 +37921,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1682-Inscription.jpg"
     ],
@@ -37951,7 +37951,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1683-Inscription.jpg"
     ],
@@ -37981,7 +37981,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1684-Inscription.jpg"
     ],
@@ -38011,7 +38011,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1685-Inscription.jpg"
     ],
@@ -38041,7 +38041,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1686-Inscription.jpg"
     ],
@@ -38071,7 +38071,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1687-Inscription.jpg"
     ],
@@ -38101,7 +38101,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1688-Inscription.jpg"
     ],
@@ -38131,7 +38131,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1689-Inscription.jpg"
     ],
@@ -38161,7 +38161,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1690-Inscription.jpg"
     ],
@@ -38191,7 +38191,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1691-Inscription.jpg"
     ],
@@ -38221,7 +38221,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1692-Inscription.jpg"
     ],
@@ -38251,7 +38251,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1693-Inscription.jpg"
     ],
@@ -38281,7 +38281,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=115",
     "images": [
         "images/HTWa1694-Inscription.jpg"
     ],
@@ -38311,7 +38311,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1695-Inscription.jpg"
     ],
@@ -38341,7 +38341,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1696-Inscription.jpg"
     ],
@@ -38371,7 +38371,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1697-Inscription.jpg"
     ],
@@ -38401,7 +38401,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1698-Inscription.jpg"
     ],
@@ -38431,7 +38431,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1699-Inscription.jpg"
     ],
@@ -38461,7 +38461,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1700-Inscription.jpg"
     ],
@@ -38491,7 +38491,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1701-Inscription.jpg"
     ],
@@ -38521,7 +38521,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1702-Inscription.jpg"
     ],
@@ -38551,7 +38551,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1703-Inscription.jpg"
     ],
@@ -38581,7 +38581,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1704-Inscription.jpg"
     ],
@@ -38611,7 +38611,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1705-Inscription.jpg"
     ],
@@ -38641,7 +38641,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1706-Inscription.jpg"
     ],
@@ -38671,7 +38671,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1707-Inscription.jpg"
     ],
@@ -38701,7 +38701,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1708-Inscription.jpg"
     ],
@@ -38731,7 +38731,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=116",
     "images": [
         "images/HTWa1709-Inscription.jpg"
     ],
@@ -38761,7 +38761,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1710-Inscription.jpg"
     ],
@@ -38791,7 +38791,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1711-Inscription.jpg"
     ],
@@ -38821,7 +38821,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1712-Inscription.jpg"
     ],
@@ -38851,7 +38851,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1713-Inscription.jpg"
     ],
@@ -38881,7 +38881,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1714-Inscription.jpg"
     ],
@@ -38911,7 +38911,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1715-Inscription.jpg"
     ],
@@ -38941,7 +38941,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1716-Inscription.jpg"
     ],
@@ -38971,7 +38971,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1717-Inscription.jpg"
     ],
@@ -39001,7 +39001,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1718-Inscription.jpg"
     ],
@@ -39031,7 +39031,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1719-Inscription.jpg"
     ],
@@ -39061,7 +39061,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1720-Inscription.jpg"
     ],
@@ -39091,7 +39091,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1721-Inscription.jpg"
     ],
@@ -39121,7 +39121,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1722-Inscription.jpg"
     ],
@@ -39151,7 +39151,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1723-Inscription.jpg"
     ],
@@ -39181,7 +39181,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=117",
     "images": [
         "images/HTWa1724-Inscription.jpg"
     ],
@@ -39211,7 +39211,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1725-Inscription.jpg"
     ],
@@ -39241,7 +39241,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1726-Inscription.jpg"
     ],
@@ -39271,7 +39271,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1727-Inscription.jpg"
     ],
@@ -39301,7 +39301,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1728-Inscription.jpg"
     ],
@@ -39331,7 +39331,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1729-Inscription.jpg"
     ],
@@ -39361,7 +39361,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1730-Inscription.jpg"
     ],
@@ -39391,7 +39391,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1731-Inscription.jpg"
     ],
@@ -39421,7 +39421,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1732-Inscription.jpg"
     ],
@@ -39451,7 +39451,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1733-Inscription.jpg"
     ],
@@ -39481,7 +39481,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1734-Inscription.jpg"
     ],
@@ -39511,7 +39511,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1735-Inscription.jpg"
     ],
@@ -39541,7 +39541,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1736-Inscription.jpg"
     ],
@@ -39571,7 +39571,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1737-Inscription.jpg"
     ],
@@ -39601,7 +39601,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1738-Inscription.jpg"
     ],
@@ -39631,7 +39631,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=118",
     "images": [
         "images/HTWa1739-Inscription.jpg"
     ],
@@ -39661,7 +39661,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1740-Inscription.jpg"
     ],
@@ -39691,7 +39691,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1741-Inscription.jpg"
     ],
@@ -39721,7 +39721,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1742-Inscription.jpg"
     ],
@@ -39751,7 +39751,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1743-Inscription.jpg"
     ],
@@ -39781,7 +39781,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1744-Inscription.jpg"
     ],
@@ -39811,7 +39811,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1745-Inscription.jpg"
     ],
@@ -39841,7 +39841,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1746-Inscription.jpg"
     ],
@@ -39871,7 +39871,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1747-Inscription.jpg"
     ],
@@ -39901,7 +39901,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1748-Inscription.jpg"
     ],
@@ -39931,7 +39931,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1749-Inscription.jpg"
     ],
@@ -39961,7 +39961,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1750-Inscription.jpg"
     ],
@@ -39991,7 +39991,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1751-Inscription.jpg"
     ],
@@ -40021,7 +40021,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1752-Inscription.jpg"
     ],
@@ -40051,7 +40051,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1753-Inscription.jpg"
     ],
@@ -40081,7 +40081,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=119",
     "images": [
         "images/HTWa1754-Inscription.jpg"
     ],
@@ -40111,7 +40111,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1755-Inscription.jpg"
     ],
@@ -40141,7 +40141,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1756-Inscription.jpg"
     ],
@@ -40171,7 +40171,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1757-Inscription.jpg"
     ],
@@ -40201,7 +40201,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1758-Inscription.jpg"
     ],
@@ -40231,7 +40231,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1759-Inscription.jpg"
     ],
@@ -40261,7 +40261,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1760-Inscription.jpg"
     ],
@@ -40291,7 +40291,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1761-Inscription.jpg"
     ],
@@ -40321,7 +40321,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1762-Inscription.jpg"
     ],
@@ -40351,7 +40351,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1763-Inscription.jpg"
     ],
@@ -40381,7 +40381,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1764-Inscription.jpg"
     ],
@@ -40411,7 +40411,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1765-Inscription.jpg"
     ],
@@ -40441,7 +40441,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1766-Inscription.jpg"
     ],
@@ -40471,7 +40471,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1767-Inscription.jpg"
     ],
@@ -40501,7 +40501,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1768-Inscription.jpg"
     ],
@@ -40531,7 +40531,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=120",
     "images": [
         "images/HTWa1769-Inscription.jpg"
     ],
@@ -40561,7 +40561,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1770-Inscription.jpg"
     ],
@@ -40591,7 +40591,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1771-Inscription.jpg"
     ],
@@ -40621,7 +40621,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1772-Inscription.jpg"
     ],
@@ -40651,7 +40651,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1773-Inscription.jpg"
     ],
@@ -40681,7 +40681,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1774-Inscription.jpg"
     ],
@@ -40711,7 +40711,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1775-Inscription.jpg"
     ],
@@ -40741,7 +40741,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1776-Inscription.jpg"
     ],
@@ -40771,7 +40771,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1777-Inscription.jpg"
     ],
@@ -40801,7 +40801,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1778-Inscription.jpg"
     ],
@@ -40831,7 +40831,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1779-Inscription.jpg"
     ],
@@ -40861,7 +40861,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1780-Inscription.jpg"
     ],
@@ -40891,7 +40891,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1781-Inscription.jpg"
     ],
@@ -40921,7 +40921,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1782-Inscription.jpg"
     ],
@@ -40951,7 +40951,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1783-Inscription.jpg"
     ],
@@ -40981,7 +40981,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=121",
     "images": [
         "images/HTWa1784-Inscription.jpg"
     ],
@@ -41011,7 +41011,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1785-Inscription.jpg"
     ],
@@ -41041,7 +41041,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1786-Inscription.jpg"
     ],
@@ -41071,7 +41071,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1787-Inscription.jpg"
     ],
@@ -41101,7 +41101,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1788-Inscription.jpg"
     ],
@@ -41131,7 +41131,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1789-Inscription.jpg"
     ],
@@ -41161,7 +41161,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1790-Inscription.jpg"
     ],
@@ -41191,7 +41191,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1791-Inscription.jpg"
     ],
@@ -41221,7 +41221,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1792-Inscription.jpg"
     ],
@@ -41251,7 +41251,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1793-Inscription.jpg"
     ],
@@ -41281,7 +41281,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1794-Inscription.jpg"
     ],
@@ -41311,7 +41311,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1795-Inscription.jpg"
     ],
@@ -41341,7 +41341,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1796-Inscription.jpg"
     ],
@@ -41371,7 +41371,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1797-Inscription.jpg"
     ],
@@ -41401,7 +41401,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1798-Inscription.jpg"
     ],
@@ -41431,7 +41431,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=122",
     "images": [
         "images/HTWa1799-Inscription.jpg"
     ],
@@ -41461,7 +41461,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1800-Inscription.jpg"
     ],
@@ -41491,7 +41491,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1801-Inscription.jpg"
     ],
@@ -41521,7 +41521,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1802-Inscription.jpg"
     ],
@@ -41551,7 +41551,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1803-Inscription.jpg"
     ],
@@ -41581,7 +41581,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1804-Inscription.jpg"
     ],
@@ -41611,7 +41611,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1805-Inscription.jpg"
     ],
@@ -41641,7 +41641,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1806-Inscription.jpg"
     ],
@@ -41671,7 +41671,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1807-Inscription.jpg"
     ],
@@ -41701,7 +41701,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1808-Inscription.jpg"
     ],
@@ -41731,7 +41731,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1809-Inscription.jpg"
     ],
@@ -41761,7 +41761,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1810-Inscription.jpg"
     ],
@@ -41791,7 +41791,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1811-Inscription.jpg"
     ],
@@ -41821,7 +41821,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1812-Inscription.jpg"
     ],
@@ -41851,7 +41851,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1813-Inscription.jpg"
     ],
@@ -41881,7 +41881,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=123",
     "images": [
         "images/HTWa1814-Inscription.jpg"
     ],
@@ -41911,7 +41911,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1815-Inscription.jpg"
     ],
@@ -41941,7 +41941,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1816-Inscription.jpg"
     ],
@@ -41971,7 +41971,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1817-Inscription.jpg"
     ],
@@ -42001,7 +42001,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1818-Inscription.jpg"
     ],
@@ -42031,7 +42031,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1819-Inscription.jpg"
     ],
@@ -42061,7 +42061,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1820-Inscription.jpg"
     ],
@@ -42091,7 +42091,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1821-Inscription.jpg"
     ],
@@ -42121,7 +42121,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1822-Inscription.jpg"
     ],
@@ -42151,7 +42151,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1823-Inscription.jpg"
     ],
@@ -42181,7 +42181,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1824-Inscription.jpg"
     ],
@@ -42211,7 +42211,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1825-Inscription.jpg"
     ],
@@ -42241,7 +42241,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1826-Inscription.jpg"
     ],
@@ -42271,7 +42271,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1827-Inscription.jpg"
     ],
@@ -42301,7 +42301,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1828-Inscription.jpg"
     ],
@@ -42331,7 +42331,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=124",
     "images": [
         "images/HTWa1829-Inscription.jpg"
     ],
@@ -42361,7 +42361,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1830-Inscription.jpg"
     ],
@@ -42391,7 +42391,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1831-Inscription.jpg"
     ],
@@ -42421,7 +42421,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1832-Inscription.jpg"
     ],
@@ -42451,7 +42451,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1833-Inscription.jpg"
     ],
@@ -42481,7 +42481,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1834-Inscription.jpg"
     ],
@@ -42511,7 +42511,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1835-Inscription.jpg"
     ],
@@ -42541,7 +42541,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1836-Inscription.jpg"
     ],
@@ -42571,7 +42571,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1837-Inscription.jpg"
     ],
@@ -42601,7 +42601,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1838-Inscription.jpg"
     ],
@@ -42631,7 +42631,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1839-Inscription.jpg"
     ],
@@ -42661,7 +42661,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1840-Inscription.jpg"
     ],
@@ -42691,7 +42691,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1841-Inscription.jpg"
     ],
@@ -42721,7 +42721,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1842-Inscription.jpg"
     ],
@@ -42751,7 +42751,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1843-Inscription.jpg"
     ],
@@ -42781,7 +42781,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=125",
     "images": [
         "images/HTWa1844-Inscription.jpg"
     ],
@@ -42841,7 +42841,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=126",
     "images": [
         "images/HTWa1846-Inscription.jpg"
     ],
@@ -42871,7 +42871,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=126",
     "images": [
         "images/HTWa1847-Inscription.jpg"
     ],
@@ -42901,7 +42901,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=126",
     "images": [
         "images/HTWa1848-Inscription.jpg"
     ],
@@ -42931,7 +42931,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=126",
     "images": [
         "images/HTWa1849-Inscription.jpg"
     ],
@@ -42961,7 +42961,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=126",
     "images": [
         "images/HTWa1850-Inscription.jpg"
     ],
@@ -42991,7 +42991,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=126",
     "images": [
         "images/HTWa1851-Inscription.jpg"
     ],
@@ -43021,7 +43021,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=126",
     "images": [
         "images/HTWa1852-Inscription.jpg"
     ],
@@ -43051,7 +43051,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=126",
     "images": [
         "images/HTWa1853-Inscription.jpg"
     ],
@@ -43081,7 +43081,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=126",
     "images": [
         "images/HTWa1854-Inscription.jpg"
     ],
@@ -43111,7 +43111,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=127",
     "images": [
         "images/HTWa1855-Inscription.jpg"
     ],
@@ -43141,7 +43141,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=127",
     "images": [
         "images/HTWa1856-Inscription.jpg"
     ],
@@ -43171,7 +43171,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=127",
     "images": [
         "images/HTWa1857-Inscription.jpg"
     ],
@@ -43201,7 +43201,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=127",
     "images": [
         "images/HTWa1858-Inscription.jpg"
     ],
@@ -43231,7 +43231,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=127",
     "images": [
         "images/HTWa1859-Inscription.jpg"
     ],
@@ -43261,7 +43261,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=127",
     "images": [
         "images/HTWa1860-Inscription.jpg"
     ],
@@ -43291,7 +43291,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=127",
     "images": [
         "images/HTWa1861-Inscription.jpg"
     ],
@@ -43410,7 +43410,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=132",
     "images": [
         "images/HTWc3001-Inscription.jpg"
     ],
@@ -43443,7 +43443,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=132",
     "images": [
         "images/HTWc3002-Inscription.jpg"
     ],
@@ -43473,7 +43473,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=132",
     "images": [
         "images/HTWc3003-Inscription.jpg"
     ],
@@ -43504,7 +43504,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=133",
     "images": [
         "images/HTWc3004a-Inscription.jpg",
         "images/HTWc3004b-Inscription.jpg"
@@ -43538,7 +43538,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=133",
     "images": [
         "images/HTWc3005-Inscription.jpg"
     ],
@@ -43572,7 +43572,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=133",
     "images": [
         "images/HTWc3006a-Inscription.jpg",
         "images/HTWc3006b-Inscription.jpg"
@@ -43606,7 +43606,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=134",
     "images": [
         "images/HTWc3007-Inscription.jpg"
     ],
@@ -43637,7 +43637,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=134",
     "images": [
         "images/HTWc3008a-Inscription.jpg",
         "images/HTWc3008b-Inscription.jpg"
@@ -43672,7 +43672,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=134",
     "images": [
         "images/HTWc3009a-Inscription.jpg",
         "images/HTWc3009b-Inscription.jpg"
@@ -43706,7 +43706,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=135",
     "images": [
         "images/HTWc3010-Inscription.jpg"
     ],
@@ -43736,7 +43736,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=135",
     "images": [
         "images/HTWc3011-Inscription.jpg"
     ],
@@ -43767,7 +43767,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=135",
     "images": [
         "images/HTWc3012a-Inscription.jpg",
         "images/HTWc3012b-Inscription.jpg"
@@ -43801,7 +43801,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=136",
     "images": [
         "images/HTWc3013-Inscription.jpg"
     ],
@@ -43832,7 +43832,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=136",
     "images": [
         "images/HTWc3014a-Inscription.jpg",
         "images/HTWc3014b-Inscription.jpg"
@@ -43870,7 +43870,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=136",
     "images": [
         "images/HTWc3015a-Inscription.jpg",
         "images/HTWc3015b-Inscription.jpg"
@@ -43904,7 +43904,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=137",
     "images": [
         "images/HTWc3016-Inscription.jpg"
     ],
@@ -43937,7 +43937,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=137",
     "images": [
         "images/HTWc3017-Inscription.jpg"
     ],
@@ -44012,7 +44012,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=138",
     "images": [
         "images/HTWc3019-Inscription.jpg"
     ],
@@ -44045,7 +44045,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=138",
     "images": [
         "images/HTWc3021-Inscription.jpg"
     ],
@@ -45550,7 +45550,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=290",
     "images": [
         "images/KE1-Inscription.jpg"
     ],
@@ -45592,7 +45592,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=140",
     "images": [
         "images/KEWc2-Inscription.jpg"
     ],
@@ -45777,7 +45777,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=46",
     "images": [
         "images/KH1-Inscription.jpg"
     ],
@@ -45837,7 +45837,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=46",
     "images": [
         "images/KH2-Inscription.jpg"
     ],
@@ -45900,7 +45900,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=46",
     "images": [
         "images/KH3-Inscription.jpg"
     ],
@@ -45945,7 +45945,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=48",
     "images": [
         "images/KH4-Inscription.jpg"
     ],
@@ -46005,7 +46005,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=48",
     "images": [
         "images/KH5-Inscription.jpg"
     ],
@@ -46107,7 +46107,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=50",
     "images": [
         "images/KH6-Inscription.jpg"
     ],
@@ -46293,7 +46293,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=52",
     "images": [
         "images/KH7a-Inscription.jpg"
     ],
@@ -46467,7 +46467,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=52",
     "images": [
         "images/KH7b-Inscription.jpg"
     ],
@@ -46554,7 +46554,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=56",
     "images": [
         "images/KH8-Inscription.jpg"
     ],
@@ -46677,7 +46677,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=58",
     "images": [
         "images/KH9-Inscription.jpg"
     ],
@@ -46794,7 +46794,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=60",
     "images": [
         "images/KH10-Inscription.jpg"
     ],
@@ -46872,7 +46872,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=62",
     "images": [
         "images/KH11-Inscription.jpg"
     ],
@@ -47028,7 +47028,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=64",
     "images": [
         "images/KH12-Inscription.jpg"
     ],
@@ -47139,7 +47139,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=66",
     "images": [
         "images/KH13-Inscription.jpg"
     ],
@@ -47223,7 +47223,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=68",
     "images": [
         "images/KH14-Inscription.jpg"
     ],
@@ -47328,7 +47328,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=70",
     "images": [
         "images/KH15-Inscription.jpg"
     ],
@@ -47379,7 +47379,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=70",
     "images": [
         "images/KH16-Inscription.jpg"
     ],
@@ -47445,7 +47445,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=72",
     "images": [
         "images/KH17-Inscription.jpg"
     ],
@@ -47517,7 +47517,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=72",
     "images": [
         "images/KH18-Inscription.jpg"
     ],
@@ -47607,7 +47607,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=74",
     "images": [
         "images/KH19-Inscription.jpg"
     ],
@@ -47655,7 +47655,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=76",
     "images": [
         "images/KH20-Inscription.jpg"
     ],
@@ -47733,7 +47733,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=78",
     "images": [
         "images/KH21-Inscription.jpg"
     ],
@@ -47793,7 +47793,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=78",
     "images": [
         "images/KH22-Inscription.jpg"
     ],
@@ -47859,7 +47859,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=80",
     "images": [
         "images/KH23-Inscription.jpg"
     ],
@@ -47901,7 +47901,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=80",
     "images": [
         "images/KH24-Inscription.jpg"
     ],
@@ -47946,7 +47946,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=80",
     "images": [
         "images/KH25-Inscription.jpg"
     ],
@@ -47994,7 +47994,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=82",
     "images": [
         "images/KH26-Inscription.jpg"
     ],
@@ -48063,7 +48063,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=82",
     "images": [
         "images/KH27-Inscription.jpg"
     ],
@@ -48108,7 +48108,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=82",
     "images": [
         "images/KH28-Inscription.jpg"
     ],
@@ -48156,7 +48156,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=84",
     "images": [
         "images/KH29-Inscription.jpg"
     ],
@@ -48231,7 +48231,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=84",
     "images": [
         "images/KH30-Inscription.jpg"
     ],
@@ -48276,7 +48276,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=86",
     "images": [
         "images/KH31-Inscription.jpg"
     ],
@@ -48342,7 +48342,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=86",
     "images": [
         "images/KH32-Inscription.jpg"
     ],
@@ -48384,7 +48384,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=86",
     "images": [
         "images/KH33-Inscription.jpg"
     ],
@@ -48438,7 +48438,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=88",
     "images": [
         "images/KH34-Inscription.jpg"
     ],
@@ -48489,7 +48489,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=88",
     "images": [
         "images/KH35-Inscription.jpg"
     ],
@@ -48543,7 +48543,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=88",
     "images": [
         "images/KH36-Inscription.jpg"
     ],
@@ -48594,7 +48594,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=90",
     "images": [
         "images/KH37-Inscription.jpg"
     ],
@@ -48645,7 +48645,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=90",
     "images": [
         "images/KH38-Inscription.jpg"
     ],
@@ -48702,7 +48702,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=90",
     "images": [
         "images/KH39-Inscription.jpg"
     ],
@@ -48744,7 +48744,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=92",
     "images": [
         "images/KH40-Inscription.jpg"
     ],
@@ -48786,7 +48786,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=92",
     "images": [
         "images/KH41-Inscription.jpg"
     ],
@@ -48828,7 +48828,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=92",
     "images": [
         "images/KH42-Inscription.jpg"
     ],
@@ -48870,7 +48870,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=94",
     "images": [
         "images/KH43-Inscription.jpg"
     ],
@@ -48915,7 +48915,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=94",
     "images": [
         "images/KH44-Inscription.jpg"
     ],
@@ -48963,7 +48963,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=94",
     "images": [
         "images/KH45-Inscription.jpg"
     ],
@@ -49005,7 +49005,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=96",
     "images": [
         "images/KH46-Inscription.jpg"
     ],
@@ -49059,7 +49059,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=96",
     "images": [
         "images/KH47-Inscription.jpg"
     ],
@@ -49119,7 +49119,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=96",
     "images": [
         "images/KH49-Inscription.jpg"
     ],
@@ -49167,7 +49167,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=98",
     "images": [
         "images/KH50-Inscription.jpg"
     ],
@@ -49239,7 +49239,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=98",
     "images": [
         "images/KH51-Inscription.jpg"
     ],
@@ -49290,7 +49290,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=98",
     "images": [
         "images/KH52-Inscription.jpg"
     ],
@@ -49338,7 +49338,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=100",
     "images": [
         "images/KH53-Inscription.jpg"
     ],
@@ -49383,7 +49383,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=100",
     "images": [
         "images/KH54-Inscription.jpg"
     ],
@@ -49437,7 +49437,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=100",
     "images": [
         "images/KH55-Inscription.jpg"
     ],
@@ -49500,7 +49500,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=102",
     "images": [
         "images/KH56-Inscription.jpg"
     ],
@@ -49542,7 +49542,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=102",
     "images": [
         "images/KH57-Inscription.jpg"
     ],
@@ -49602,7 +49602,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=104",
     "images": [
         "images/KH58-Inscription.jpg"
     ],
@@ -49695,7 +49695,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=104",
     "images": [
         "images/KH59-Inscription.jpg"
     ],
@@ -49755,7 +49755,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=106",
     "images": [
         "images/KH60-Inscription.jpg"
     ],
@@ -49827,7 +49827,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=106",
     "images": [
         "images/KH61-Inscription.jpg"
     ],
@@ -49911,7 +49911,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=108",
     "images": [
         "images/KH62-Inscription.jpg"
     ],
@@ -49947,7 +49947,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=108",
     "images": [
         "images/KH63-Inscription.jpg"
     ],
@@ -50001,7 +50001,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=108",
     "images": [
         "images/KH64-Inscription.jpg"
     ],
@@ -50049,7 +50049,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=110",
     "images": [
         "images/KH65-Inscription.jpg"
     ],
@@ -50091,7 +50091,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=110",
     "images": [
         "images/KH66-Inscription.jpg"
     ],
@@ -50127,7 +50127,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=110",
     "images": [
         "images/KH67-Inscription.jpg"
     ],
@@ -50226,7 +50226,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=112",
     "images": [
         "images/KH69-Inscription.jpg"
     ],
@@ -50268,7 +50268,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=112",
     "images": [
         "images/KH70-Inscription.jpg"
     ],
@@ -50310,7 +50310,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=114",
     "images": [
         "images/KH72-Inscription.jpg"
     ],
@@ -50352,7 +50352,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=114",
     "images": [
         "images/KH73-Inscription.jpg"
     ],
@@ -50436,7 +50436,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=116",
     "images": [
         "images/KH74-Inscription.jpg"
     ],
@@ -50484,7 +50484,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=116",
     "images": [
         "images/KH75-Inscription.jpg"
     ],
@@ -50544,7 +50544,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=116",
     "images": [
         "images/KH76-Inscription.jpg"
     ],
@@ -50598,7 +50598,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=118",
     "images": [
         "images/KH77-Inscription.jpg"
     ],
@@ -50637,7 +50637,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=118",
     "images": [
         "images/KH78-Inscription.jpg"
     ],
@@ -50679,7 +50679,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=118",
     "images": [
         "images/KH79-Inscription.jpg"
     ],
@@ -50775,7 +50775,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=120",
     "images": [
         "images/KH80-Inscription.jpg"
     ],
@@ -50817,7 +50817,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=120",
     "images": [
         "images/KH81-Inscription.jpg"
     ],
@@ -50880,7 +50880,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=120",
     "images": [
         "images/KH82-Inscription.jpg"
     ],
@@ -50946,7 +50946,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=122",
     "images": [
         "images/KH83-Inscription.jpg"
     ],
@@ -51003,7 +51003,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=122",
     "images": [
         "images/KH84-Inscription.jpg"
     ],
@@ -51069,7 +51069,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=122",
     "images": [
         "images/KH85-Inscription.jpg"
     ],
@@ -51150,7 +51150,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=124",
     "images": [
         "images/KH86-Inscription.jpg"
     ],
@@ -51219,7 +51219,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=124",
     "images": [
         "images/KH87-Inscription.jpg"
     ],
@@ -51946,7 +51946,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=128",
     "images": [
         "images/KHWa1001a-Inscription.jpg"
     ],
@@ -51979,7 +51979,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=128",
     "images": [
         "images/KHWa1002a-Inscription.jpg"
     ],
@@ -52012,7 +52012,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=129",
     "images": [
         "images/KHWa1003-Inscription.jpg"
     ],
@@ -52042,7 +52042,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=129",
     "images": [
         "images/KHWa1004-Inscription.jpg"
     ],
@@ -52072,7 +52072,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=129",
     "images": [
         "images/KHWa1005-Inscription.jpg"
     ],
@@ -52102,7 +52102,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=130",
     "images": [
         "images/KHWa1006-Inscription.jpg"
     ],
@@ -52132,7 +52132,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=130",
     "images": [
         "images/KHWa1007-Inscription.jpg"
     ],
@@ -52162,7 +52162,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=130",
     "images": [
         "images/KHWa1008-Inscription.jpg"
     ],
@@ -52192,7 +52192,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=131",
     "images": [
         "images/KHWa1009-Inscription.jpg"
     ],
@@ -52222,7 +52222,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=131",
     "images": [
         "images/KHWa1010-Inscription.jpg"
     ],
@@ -52252,7 +52252,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=131",
     "images": [
         "images/KHWa1011-Inscription.jpg"
     ],
@@ -52282,7 +52282,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=132",
     "images": [
         "images/KHWa1012-Inscription.jpg"
     ],
@@ -52313,7 +52313,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=132",
     "images": [
         "images/KHWa1013a-Inscription.jpg",
         "images/KHWa1013g-Inscription.jpg"
@@ -52344,7 +52344,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=133",
     "images": [
         "images/KHWa1014-Inscription.jpg"
     ],
@@ -52374,7 +52374,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=133",
     "images": [
         "images/KHWa1015-Inscription.jpg"
     ],
@@ -52405,7 +52405,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=134",
     "images": [
         "images/KHWa1016a-Inscription.jpg",
         "images/KHWa1016g-Inscription.jpg"
@@ -52436,7 +52436,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=133",
     "images": [
         "images/KHWa1017-Inscription.jpg"
     ],
@@ -52466,7 +52466,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=134",
     "images": [
         "images/KHWa1018-Inscription.jpg"
     ],
@@ -52496,7 +52496,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=134",
     "images": [
         "images/KHWa1019-Inscription.jpg"
     ],
@@ -52526,7 +52526,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=134",
     "images": [
         "images/KHWa1020-Inscription.jpg"
     ],
@@ -52559,7 +52559,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=138",
     "images": [
         "images/KHWc2001-Inscription.jpg"
     ],
@@ -52589,7 +52589,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=138",
     "images": [
         "images/KHWc2002-Inscription.jpg"
     ],
@@ -52619,7 +52619,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=138",
     "images": [
         "images/KHWc2003-Inscription.jpg"
     ],
@@ -52649,7 +52649,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=139",
     "images": [
         "images/KHWc2004-Inscription.jpg"
     ],
@@ -52679,7 +52679,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=139",
     "images": [
         "images/KHWc2005-Inscription.jpg"
     ],
@@ -52709,7 +52709,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=140",
     "images": [
         "images/KHWc2006-Inscription.jpg"
     ],
@@ -52739,7 +52739,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=140",
     "images": [
         "images/KHWc2007-Inscription.jpg"
     ],
@@ -52769,7 +52769,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=140",
     "images": [
         "images/KHWc2008-Inscription.jpg"
     ],
@@ -52799,7 +52799,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=141",
     "images": [
         "images/KHWc2009-Inscription.jpg"
     ],
@@ -52829,7 +52829,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=141",
     "images": [
         "images/KHWc2010-Inscription.jpg"
     ],
@@ -52859,7 +52859,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=142",
     "images": [
         "images/KHWc2011-Inscription.jpg"
     ],
@@ -52889,7 +52889,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=142",
     "images": [
         "images/KHWc2012-Inscription.jpg"
     ],
@@ -52919,7 +52919,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=142",
     "images": [
         "images/KHWc2013-Inscription.jpg"
     ],
@@ -52949,7 +52949,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=143",
     "images": [
         "images/KHWc2014-Inscription.jpg"
     ],
@@ -52979,7 +52979,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=143",
     "images": [
         "images/KHWc2015-Inscription.jpg"
     ],
@@ -53009,7 +53009,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=143",
     "images": [
         "images/KHWc2016-Inscription.jpg"
     ],
@@ -53039,7 +53039,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=144",
     "images": [
         "images/KHWc2017-Inscription.jpg"
     ],
@@ -53069,7 +53069,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=144",
     "images": [
         "images/KHWc2018-Inscription.jpg"
     ],
@@ -53099,7 +53099,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=145",
     "images": [
         "images/KHWc2019-Inscription.jpg"
     ],
@@ -53129,7 +53129,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=145",
     "images": [
         "images/KHWc2020-Inscription.jpg"
     ],
@@ -53159,7 +53159,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=146",
     "images": [
         "images/KHWc2021-Inscription.jpg"
     ],
@@ -53189,7 +53189,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=146",
     "images": [
         "images/KHWc2022-Inscription.jpg"
     ],
@@ -53219,7 +53219,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=146",
     "images": [
         "images/KHWc2023-Inscription.jpg"
     ],
@@ -53249,7 +53249,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=147",
     "images": [
         "images/KHWc2024-Inscription.jpg"
     ],
@@ -53279,7 +53279,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=147",
     "images": [
         "images/KHWc2025-Inscription.jpg"
     ],
@@ -53309,7 +53309,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=148",
     "images": [
         "images/KHWc2026-Inscription.jpg"
     ],
@@ -53339,7 +53339,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=148",
     "images": [
         "images/KHWc2027-Inscription.jpg"
     ],
@@ -53369,7 +53369,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=148",
     "images": [
         "images/KHWc2028-Inscription.jpg"
     ],
@@ -53399,7 +53399,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=149",
     "images": [
         "images/KHWc2029-Inscription.jpg"
     ],
@@ -53429,7 +53429,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=149",
     "images": [
         "images/KHWc2030-Inscription.jpg"
     ],
@@ -53459,7 +53459,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=150",
     "images": [
         "images/KHWc2031-Inscription.jpg"
     ],
@@ -53489,7 +53489,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=150",
     "images": [
         "images/KHWc2032-Inscription.jpg"
     ],
@@ -53519,7 +53519,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=151",
     "images": [
         "images/KHWc2033-Inscription.jpg"
     ],
@@ -53549,7 +53549,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=151",
     "images": [
         "images/KHWc2034-Inscription.jpg"
     ],
@@ -53579,7 +53579,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=151",
     "images": [
         "images/KHWc2035-Inscription.jpg"
     ],
@@ -53609,7 +53609,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=152",
     "images": [
         "images/KHWc2036-Inscription.jpg"
     ],
@@ -53639,7 +53639,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=152",
     "images": [
         "images/KHWc2037-Inscription.jpg"
     ],
@@ -53669,7 +53669,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=152",
     "images": [
         "images/KHWc2038-Inscription.jpg"
     ],
@@ -53699,7 +53699,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
     "images": [
         "images/KHWc2039-Inscription.jpg"
     ],
@@ -53729,7 +53729,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
     "images": [
         "images/KHWc2040-Inscription.jpg"
     ],
@@ -53759,7 +53759,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
     "images": [
         "images/KHWc2041-Inscription.jpg"
     ],
@@ -53789,7 +53789,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
     "images": [
         "images/KHWc2042-Inscription.jpg"
     ],
@@ -53819,7 +53819,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=154",
     "images": [
         "images/KHWc2043-Inscription.jpg"
     ],
@@ -53849,7 +53849,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=154",
     "images": [
         "images/KHWc2044-Inscription.jpg"
     ],
@@ -53879,7 +53879,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=154",
     "images": [
         "images/KHWc2045-Inscription.jpg"
     ],
@@ -53909,7 +53909,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=155",
     "images": [
         "images/KHWc2046-Inscription.jpg"
     ],
@@ -53939,7 +53939,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=155",
     "images": [
         "images/KHWc2047-Inscription.jpg"
     ],
@@ -53969,7 +53969,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=155",
     "images": [
         "images/KHWc2048-Inscription.jpg"
     ],
@@ -53999,7 +53999,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=156",
     "images": [
         "images/KHWc2049-Inscription.jpg"
     ],
@@ -54029,7 +54029,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=156",
     "images": [
         "images/KHWc2050-Inscription.jpg"
     ],
@@ -54059,7 +54059,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=156",
     "images": [
         "images/KHWc2051-Inscription.jpg"
     ],
@@ -54089,7 +54089,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=157",
     "images": [
         "images/KHWc2052-Inscription.jpg"
     ],
@@ -54119,7 +54119,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=157",
     "images": [
         "images/KHWc2053-Inscription.jpg"
     ],
@@ -54149,7 +54149,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=158",
     "images": [
         "images/KHWc2054-Inscription.jpg"
     ],
@@ -54179,7 +54179,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=158",
     "images": [
         "images/KHWc2055-Inscription.jpg"
     ],
@@ -54209,7 +54209,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=159",
     "images": [
         "images/KHWc2056-Inscription.jpg"
     ],
@@ -54239,7 +54239,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=159",
     "images": [
         "images/KHWc2057-Inscription.jpg"
     ],
@@ -54269,7 +54269,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=160",
     "images": [
         "images/KHWc2058-Inscription.jpg"
     ],
@@ -54359,7 +54359,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=160",
     "images": [
         "images/KHWc2059-Inscription.jpg"
     ],
@@ -54389,7 +54389,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=161",
     "images": [
         "images/KHWc2060-Inscription.jpg"
     ],
@@ -54419,7 +54419,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=161",
     "images": [
         "images/KHWc2061-Inscription.jpg"
     ],
@@ -54449,7 +54449,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=161",
     "images": [
         "images/KHWc2062-Inscription.jpg"
     ],
@@ -54479,7 +54479,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=162",
     "images": [
         "images/KHWc2063-Inscription.jpg"
     ],
@@ -54509,7 +54509,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=162",
     "images": [
         "images/KHWc2064-Inscription.jpg"
     ],
@@ -54539,7 +54539,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=162",
     "images": [
         "images/KHWc2065-Inscription.jpg"
     ],
@@ -54569,7 +54569,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=163",
     "images": [
         "images/KHWc2066-Inscription.jpg"
     ],
@@ -54599,7 +54599,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=163",
     "images": [
         "images/KHWc2067-Inscription.jpg"
     ],
@@ -54629,7 +54629,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=163",
     "images": [
         "images/KHWc2068-Inscription.jpg"
     ],
@@ -54659,7 +54659,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=164",
     "images": [
         "images/KHWc2069-Inscription.jpg"
     ],
@@ -54690,7 +54690,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=164",
     "images": [
         "images/KHWc2070a-Inscription.jpg",
         "images/KHWc2070b-Inscription.jpg"
@@ -54773,7 +54773,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=165",
     "images": [
         "images/KHWc2084-Inscription.jpg"
     ],
@@ -54881,7 +54881,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=165",
     "images": [
         "images/KHWc2097-Inscription.jpg"
     ],
@@ -54941,7 +54941,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=165",
     "images": [
         "images/KHWc2098-Inscription.jpg"
     ],
@@ -54971,7 +54971,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=166",
     "images": [
         "images/KHWc2099-Inscription.jpg"
     ],
@@ -55001,7 +55001,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=166",
     "images": [
         "images/KHWc2100-Inscription.jpg"
     ],
@@ -55031,7 +55031,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=167",
     "images": [
         "images/KHWc2101-Inscription.jpg"
     ],
@@ -55061,7 +55061,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=167",
     "images": [
         "images/KHWc2102-Inscription.jpg"
     ],
@@ -55091,7 +55091,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=167",
     "images": [
         "images/KHWc2103-Inscription.jpg"
     ],
@@ -55121,7 +55121,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=168",
     "images": [
         "images/KHWc2104-Inscription.jpg"
     ],
@@ -55151,7 +55151,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=168",
     "images": [
         "images/KHWc2105-Inscription.jpg"
     ],
@@ -55181,7 +55181,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=168",
     "images": [
         "images/KHWc2106-Inscription.jpg"
     ],
@@ -55211,7 +55211,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=169",
     "images": [
         "images/KHWc2109-Inscription.jpg"
     ],
@@ -55241,7 +55241,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=169",
     "images": [
         "images/KHWc2110-Inscription.jpg"
     ],
@@ -55271,7 +55271,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=169",
     "images": [
         "images/KHWc2111-Inscription.jpg"
     ],
@@ -55301,7 +55301,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=170",
     "images": [
         "images/KHWc2113-Inscription.jpg"
     ],
@@ -55331,7 +55331,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=170",
     "images": [
         "images/KHWc2114-Inscription.jpg"
     ],
@@ -55605,7 +55605,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=292",
     "images": [
         "images/KN1a-Inscription.jpg"
     ],
@@ -55641,7 +55641,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=292",
     "images": [
         "images/KN1b-Inscription.jpg"
     ],
@@ -55677,7 +55677,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=294",
     "images": [
         "images/KN2-Inscription.jpg"
     ],
@@ -55734,7 +55734,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=296",
     "images": [
         "images/KN22a-Inscription.jpg"
     ],
@@ -55773,7 +55773,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=296",
     "images": [
         "images/KN22b-Inscription.jpg"
     ],
@@ -55806,7 +55806,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=296",
     "images": [
         "images/KN22c-Inscription.jpg"
     ],
@@ -55854,7 +55854,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=298",
     "images": [
         "images/KN28a-Inscription.jpg"
     ],
@@ -55923,7 +55923,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=298",
     "images": [
         "images/KN28b-Inscription.jpg"
     ],
@@ -55989,7 +55989,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=300",
     "images": [
         "images/KN32a-Inscription.jpg"
     ],
@@ -56037,7 +56037,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=300",
     "images": [
         "images/KN32b-Inscription.jpg"
     ],
@@ -56302,7 +56302,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=144",
     "images": [
         "images/KNWc3-Inscription.jpg"
     ],
@@ -56361,7 +56361,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=145",
     "images": [
         "images/KNWc26a-Inscription.jpg",
         "images/KNWc26b-Inscription.jpg"
@@ -56395,7 +56395,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=145",
     "images": [
         "images/KNWc29-Inscription.jpg"
     ],
@@ -56425,7 +56425,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=145",
     "images": [
         "images/KNWc30-Inscription.jpg"
     ],
@@ -57843,7 +57843,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=304",
     "images": [
         "images/MA1a-Inscription.jpg"
     ],
@@ -57885,7 +57885,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=304",
     "images": [
         "images/MA1b-Inscription.jpg"
     ],
@@ -57927,7 +57927,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=304",
     "images": [
         "images/MA1c-Inscription.jpg"
     ],
@@ -57957,7 +57957,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=306",
     "images": [
         "images/MA2a-Inscription.jpg"
     ],
@@ -57990,7 +57990,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=306",
     "images": [
         "images/MA2b-Inscription.jpg"
     ],
@@ -58047,7 +58047,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=306",
     "images": [
         "images/MA2c-Inscription.jpg"
     ],
@@ -58089,7 +58089,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=308",
     "images": [
         "images/MA4a-Inscription.jpg"
     ],
@@ -58149,7 +58149,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=308",
     "images": [
         "images/MA4b-Inscription.jpg"
     ],
@@ -58191,7 +58191,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=310",
     "images": [
         "images/MA6a-Inscription.jpg"
     ],
@@ -58233,7 +58233,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=310",
     "images": [
         "images/MA6b-Inscription.jpg"
     ],
@@ -58266,7 +58266,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=310",
     "images": [
         "images/MA6c-Inscription.jpg"
     ],
@@ -58317,7 +58317,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=310",
     "images": [
         "images/MA6d-Inscription.jpg"
     ],
@@ -58350,7 +58350,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Malia Palace Room III 8",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=314",
     "images": [
         "images/MA9a-Inscription.jpg"
     ],
@@ -58632,7 +58632,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Malia Palace Room III 8",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=148",
     "images": [
         "images/MAWc7-Inscription.jpg"
     ],
@@ -59126,7 +59126,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=320",
     "images": [
         "images/PA1-Inscription.jpg"
     ],
@@ -59678,7 +59678,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=322",
     "images": [
         "images/PH1a-Inscription.jpg"
     ],
@@ -59747,7 +59747,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=322",
     "images": [
         "images/PH1b-Inscription.jpg"
     ],
@@ -59801,7 +59801,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=324",
     "images": [
         "images/PH2-Inscription.jpg"
     ],
@@ -59867,7 +59867,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=326",
     "images": [
         "images/PH3a-Inscription.jpg"
     ],
@@ -59960,7 +59960,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=326",
     "images": [
         "images/PH3b-Inscription.jpg"
     ],
@@ -60026,7 +60026,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=328",
     "images": [
         "images/PH6-Inscription.jpg"
     ],
@@ -60083,7 +60083,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=330",
     "images": [
         "images/PH7a-Inscription.jpg"
     ],
@@ -60137,7 +60137,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=330",
     "images": [
         "images/PH7b-Inscription.jpg"
     ],
@@ -60203,7 +60203,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=332",
     "images": [
         "images/PH8a-Inscription.jpg"
     ],
@@ -60299,7 +60299,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=332",
     "images": [
         "images/PH8b-Inscription.jpg"
     ],
@@ -60350,7 +60350,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=334",
     "images": [
         "images/PH9a-Inscription.jpg"
     ],
@@ -60383,7 +60383,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=334",
     "images": [
         "images/PH9b-Inscription.jpg"
     ],
@@ -60419,7 +60419,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=335",
     "images": [
         "images/PH10-Inscription.jpg"
     ],
@@ -60455,7 +60455,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=335",
     "images": [
         "images/PH11-Inscription.jpg"
     ],
@@ -60497,7 +60497,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=336",
     "images": [
         "images/PH12a-Inscription.jpg"
     ],
@@ -60533,7 +60533,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=336",
     "images": [
         "images/PH12b-Inscription.jpg"
     ],
@@ -60569,7 +60569,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=336",
     "images": [
         "images/PH12c-Inscription.jpg"
     ],
@@ -60599,7 +60599,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=338",
     "images": [
         "images/PH13a-Inscription.jpg"
     ],
@@ -60632,7 +60632,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=338",
     "images": [
         "images/PH13b-Inscription.jpg"
     ],
@@ -60662,7 +60662,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=338",
     "images": [
         "images/PH13c-Inscription.jpg"
     ],
@@ -60695,7 +60695,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=340",
     "images": [
         "images/PH14a-Inscription.jpg"
     ],
@@ -60728,7 +60728,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=340",
     "images": [
         "images/PH14b-Inscription.jpg"
     ],
@@ -60758,7 +60758,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=340",
     "images": [
         "images/PH15a-Inscription.jpg"
     ],
@@ -60794,7 +60794,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=340",
     "images": [
         "images/PH15b-Inscription.jpg"
     ],
@@ -60827,7 +60827,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=342",
     "images": [
         "images/PH16a-Inscription.jpg"
     ],
@@ -60869,7 +60869,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=342",
     "images": [
         "images/PH16b-Inscription.jpg"
     ],
@@ -60911,7 +60911,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=342",
     "images": [
         "images/PH17a-Inscription.jpg"
     ],
@@ -60941,7 +60941,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=342",
     "images": [
         "images/PH17b-Inscription.jpg"
     ],
@@ -60971,7 +60971,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=344",
     "images": [
         "images/PH18a-Inscription.jpg"
     ],
@@ -61007,7 +61007,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=344",
     "images": [
         "images/PH18b-Inscription.jpg"
     ],
@@ -61043,7 +61043,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=344",
     "images": [
         "images/PH19a-Inscription.jpg"
     ],
@@ -61079,7 +61079,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=346",
     "images": [
         "images/PH22a-Inscription.jpg"
     ],
@@ -61109,7 +61109,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=346",
     "images": [
         "images/PH22b-Inscription.jpg"
     ],
@@ -61139,7 +61139,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=346",
     "images": [
         "images/PH24-Inscription.jpg"
     ],
@@ -61169,7 +61169,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=346",
     "images": [
         "images/PH25-Inscription.jpg"
     ],
@@ -61214,7 +61214,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=348",
     "images": [
         "images/PH26-Inscription.jpg"
     ],
@@ -61247,7 +61247,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=348",
     "images": [
         "images/PH27-Inscription.jpg"
     ],
@@ -61295,7 +61295,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=350",
     "images": [
         "images/PH28a-Inscription.jpg"
     ],
@@ -61349,7 +61349,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=350",
     "images": [
         "images/PH28b-Inscription.jpg"
     ],
@@ -61788,7 +61788,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=150",
     "images": [
         "images/PHWa32-Inscription.jpg"
     ],
@@ -61965,7 +61965,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=154",
     "images": [
         "images/PHWc37-Inscription.jpg"
     ],
@@ -61998,7 +61998,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=154",
     "images": [
         "images/PHWc38-Inscription.jpg"
     ],
@@ -62028,7 +62028,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=154",
     "images": [
         "images/PHWc39-Inscription.jpg"
     ],
@@ -62062,7 +62062,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=155",
     "images": [
         "images/PHWc40a-Inscription.jpg",
         "images/PHWc40b-Inscription.jpg"
@@ -62096,7 +62096,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=155",
     "images": [
         "images/PHWc41-Inscription.jpg"
     ],
@@ -62132,7 +62132,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=155",
     "images": [
         "images/PHWc43-Inscription.jpg"
     ],
@@ -62162,7 +62162,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=156",
     "images": [
         "images/PHWc44-Inscription.jpg"
     ],
@@ -62192,7 +62192,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=156",
     "images": [
         "images/PHWc46-Inscription.jpg"
     ],
@@ -62448,7 +62448,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=316",
     "images": [
         "images/PK1a-Inscription.jpg",
         "images/PK1b-Inscription.jpg"
@@ -65989,7 +65989,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=172",
     "images": [
         "images/ZA4a-Inscription.jpg"
     ],
@@ -66130,7 +66130,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=172",
     "images": [
         "images/ZA4b-Inscription.jpg"
     ],
@@ -66169,7 +66169,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=176",
     "images": [
         "images/ZA5a-Inscription.jpg"
     ],
@@ -66253,7 +66253,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=176",
     "images": [
         "images/ZA5b-Inscription.jpg"
     ],
@@ -66307,7 +66307,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=180",
     "images": [
         "images/ZA6a-Inscription.jpg"
     ],
@@ -66439,7 +66439,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=180",
     "images": [
         "images/ZA6b-Inscription.jpg"
     ],
@@ -66532,7 +66532,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=184",
     "images": [
         "images/ZA7a-Inscription.jpg"
     ],
@@ -66586,7 +66586,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=184",
     "images": [
         "images/ZA7b-Inscription.jpg"
     ],
@@ -66628,7 +66628,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=188",
     "images": [
         "images/ZA8-Inscription.jpg",
         "images/ZA8a-Inscription.jpg"
@@ -66743,7 +66743,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=190",
     "images": [
         "images/ZA9-Inscription.jpg"
     ],
@@ -66857,7 +66857,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=192",
     "images": [
         "images/ZA10a-Inscription.jpg"
     ],
@@ -66953,7 +66953,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=192",
     "images": [
         "images/ZA10b-Inscription.jpg"
     ],
@@ -67097,7 +67097,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=196",
     "images": [
         "images/ZA11a-Inscription.jpg"
     ],
@@ -67229,7 +67229,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=196",
     "images": [
         "images/ZA11b-Inscription.jpg"
     ],
@@ -67325,7 +67325,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=200",
     "images": [
         "images/ZA12a-Inscription.jpg"
     ],
@@ -67388,7 +67388,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=200",
     "images": [
         "images/ZA12b-Inscription.jpg"
     ],
@@ -67454,7 +67454,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=202",
     "images": [
         "images/ZA13-Inscription.jpg"
     ],
@@ -67496,7 +67496,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=204",
     "images": [
         "images/ZA14-Inscription.jpg"
     ],
@@ -67601,7 +67601,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=206",
     "images": [
         "images/ZA15a-Inscription.jpg"
     ],
@@ -67715,7 +67715,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=206",
     "images": [
         "images/ZA15b-Inscription.jpg"
     ],
@@ -67784,7 +67784,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=210",
     "images": [
         "images/ZA16-Inscription.jpg"
     ],
@@ -67850,7 +67850,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=212",
     "images": [
         "images/ZA17-Inscription.jpg"
     ],
@@ -67892,7 +67892,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=214",
     "images": [
         "images/ZA18a-Inscription.jpg"
     ],
@@ -67979,7 +67979,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=214",
     "images": [
         "images/ZA18b-Inscription.jpg"
     ],
@@ -68024,7 +68024,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=216",
     "images": [
         "images/ZA19-Inscription.jpg"
     ],
@@ -68066,7 +68066,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=216",
     "images": [
         "images/ZA20-Inscription.jpg"
     ],
@@ -68165,7 +68165,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=218",
     "images": [
         "images/ZA21a-Inscription.jpg"
     ],
@@ -68273,7 +68273,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=218",
     "images": [
         "images/ZA21b-Inscription.jpg"
     ],
@@ -68339,7 +68339,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=222",
     "images": [
         "images/ZA22-Inscription.jpg"
     ],
@@ -68429,7 +68429,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=224",
     "images": [
         "images/ZA23-Inscription.jpg"
     ],
@@ -68477,7 +68477,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=224",
     "images": [
         "images/ZA24a-Inscription.jpg"
     ],
@@ -68522,7 +68522,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=224",
     "images": [
         "images/ZA24b-Inscription.jpg"
     ],
@@ -68558,7 +68558,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=226",
     "images": [
         "images/ZA25-Inscription.jpg"
     ],
@@ -68594,7 +68594,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=226",
     "images": [
         "images/ZA26a-Inscription.jpg"
     ],
@@ -68657,7 +68657,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=226",
     "images": [
         "images/ZA26b-Inscription.jpg"
     ],
@@ -68696,7 +68696,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=228",
     "images": [
         "images/ZA27-Inscription.jpg"
     ],
@@ -68747,7 +68747,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=228",
     "images": [
         "images/ZA28-Inscription.jpg"
     ],
@@ -68792,7 +68792,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=230",
     "images": [
         "images/ZA29-Inscription.jpg"
     ],
@@ -68843,7 +68843,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=230",
     "images": [
         "images/ZA30-Inscription.jpg"
     ],
@@ -68891,7 +68891,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=232",
     "images": [
         "images/ZA31-Inscription.jpg"
     ],
@@ -68936,7 +68936,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=232",
     "images": [
         "images/ZA32-Inscription.jpg"
     ],
@@ -68978,7 +68978,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "https://bit.ly/2H6Ohwe",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=232",
     "images": [
         "images/ZA33-Inscription.jpg"
     ],
@@ -69106,7 +69106,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=158",
     "images": [
         "images/ZAWc2-Inscription.jpg"
     ],
