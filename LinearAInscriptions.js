@@ -71934,7 +71934,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "Ph Saperstein",
-    "imageRightsURL": "https://ejournals.lib.uoc.gr/Ariadne/article/view/1841/1751",
+    "imageRightsURL": "papers/KNZg57.pdf",
     "images": [
         "images/KNZg57a-Inscription.jpg"
     ],
