@@ -1042,7 +1042,7 @@ function loadInscription(inscription, container = document.getElementById("conta
   item.appendChild(tagContainer);
 
   // Add reference if available
-  if (inscription.imageRights) {
+  if (inscription.imageRightsURL) {
     var label = document.createElement("div");
     label.className = 'tag';
     label.style.backgroundColor = "white";
