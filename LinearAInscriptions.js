@@ -69564,7 +69564,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=27",
     "images": [
         "images/ARKH1a-Inscription.jpg"
     ],
@@ -69660,7 +69660,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=29",
     "images": [
         "images/ARKH1b-Inscription.jpg"
     ],
@@ -69726,7 +69726,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=31",
     "images": [
         "images/ARKH2-Inscription.jpg"
     ],
@@ -69807,7 +69807,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=33",
     "images": [
         "images/ARKH3a-Inscription.jpg"
     ],
@@ -69936,7 +69936,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=33",
     "images": [
         "images/ARKH3b-Inscription.jpg"
     ],
@@ -70023,7 +70023,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=35",
     "images": [
         "images/ARKH4a-Inscription.jpg"
     ],
@@ -70116,7 +70116,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=37",
     "images": [
         "images/ARKH4b-Inscription.jpg"
     ],
@@ -70209,7 +70209,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=41",
     "images": [
         "images/ARKH5-Inscription.jpg"
     ],
@@ -70281,7 +70281,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=43",
     "images": [
         "images/ARKH6-Inscription.jpg"
     ],
@@ -70329,7 +70329,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=43",
     "images": [
         "images/ARKH7-Inscription.jpg"
     ],

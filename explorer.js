@@ -1047,7 +1047,7 @@ function loadInscription(inscription, container = document.getElementById("conta
     label.className = 'tag';
     label.style.backgroundColor = "white";
     label.style.borderColor = "lightgray";
-    label.innerHTML = "🖋";
+    label.innerHTML = "&#x1f517";
     label.addEventListener("click", event => { window.open(inscription.imageRightsURL); event.stopPropagation(); });
     tagContainer.appendChild(label);
   }
