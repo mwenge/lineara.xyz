@@ -844,6 +844,7 @@ textarea:focus, input:focus{
   and (min-device-pixel-ratio: 2),
   {
 	#filters-container { display: none; }
+	#credits { display: none; }
 	#search-container { bottom: 1vh; }
 	.transliteration-item, .translation-item, .text-item { font-size: 3vw; }
 	.item { max-width: 20vw; line-height: 2vh;}
