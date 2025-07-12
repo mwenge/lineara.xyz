@@ -44582,8 +44582,8 @@ var inscriptions = new Map([
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "imageRightsURL": "papers/HTZf163.pdf#page=3",
+    "images": ["images/HTZf163-Inscription.jpg"],
     "name": "HTZf163",
     "names": [
         "HTZf163"
@@ -44608,8 +44608,8 @@ var inscriptions = new Map([
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "imageRightsURL": "papers/HTZf163.pdf#page=3",
+    "images": ["images/HTZf163-Inscription.jpg"],
     "name": "HTZf164",
     "names": [
         "HTZf164"
@@ -54716,11 +54716,11 @@ var inscriptions = new Map([
 }],
 ["KHWc2074",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/KHWc2074-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/KHWc2074-Inscription.jpg"],
     "name": "KHWc2074",
     "names": [
         "KHWc2074"
@@ -71733,7 +71733,7 @@ var inscriptions = new Map([
 ["KH104",{
     "context": "",
     "facsimileImages": [
-        "images/noimage.jpg"
+        "images/KH104-Facsimile.jpg"
     ],
     "findspot": "",
     "imageRights": "Erik Hallager and Maria Andreadaki-Vlazaki",
@@ -71778,7 +71778,7 @@ var inscriptions = new Map([
 ["KH105",{
     "context": "",
     "facsimileImages": [
-        "images/noimage.jpg"
+        "images/KH105-Facsimile.jpg"
     ],
     "findspot": "",
     "imageRights": "Erik Hallager and Maria Andreadaki-Vlazaki",
@@ -71870,11 +71870,11 @@ var inscriptions = new Map([
 ["VRYZb2",{
     "context": "",
     "facsimileImages": [
-        "images/noimage.jpg"
+        "images/VRYZb2-Facsimile.jpg"
     ],
     "findspot": "",
     "imageRights": "Tzachili, I. & Georgakopoulos, K.",
-    "imageRightsURL": "https://elocus.lib.uoc.gr//dlib/d/a/e/attached-metadata-dlib-1467632465-421221-30443/AEK_3_2013___2015__Vol_B_pp_1-680_OK.pdf",
+    "imageRightsURL": "papers/VRYZb2.pdf",
     "images": [
         "images/VRYZb2-Inscription.jpg"
     ],
@@ -71900,11 +71900,11 @@ var inscriptions = new Map([
 ["VRYZb3",{
     "context": "",
     "facsimileImages": [
-        "images/noimage.jpg"
+        "images/VRYZb3-Facsimile.jpg"
     ],
     "findspot": "",
     "imageRights": "Tzachili, I. & Georgakopoulos, K.",
-    "imageRightsURL": "https://elocus.lib.uoc.gr//dlib/d/a/e/attached-metadata-dlib-1467632465-421221-30443/AEK_3_2013___2015__Vol_B_pp_1-680_OK.pdf",
+    "imageRightsURL": "papers/VRYZb2.pdf",
     "images": [
         "images/VRYZb3-Inscription.jpg"
     ],
