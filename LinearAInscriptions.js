@@ -62221,36 +62221,6 @@ var inscriptions = new Map([
         "𐘠"
     ]
 }],
-["PHWc52",{
-    "context": "MMII",
-    "facsimileImages": [
-        "images/PHWc52-Facsimile.jpg"
-    ],
-    "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": [
-        "images/PHWc52-Inscription.jpg"
-    ],
-    "name": "PHWc52",
-    "names": [
-        "PHWc52"
-    ],
-    "parsedInscription": "𐙍",
-    "scribe": "",
-    "site": "Phaistos",
-    "support": "Roundel",
-    "transcription": "𐙍",
-    "translatedWords": [
-        "wine"
-    ],
-    "transliteratedWords": [
-        "VIN"
-    ],
-    "words": [
-        "𐙍"
-    ]
-}],
 ["PHWg45",{
     "context": "MMII",
     "facsimileImages": [
@@ -71379,7 +71349,7 @@ var inscriptions = new Map([
     ]
 }],
 ["PHWa52",{
-    "context": "",
+    "context": "MMII",
     "facsimileImages": [
         "images/PHWa52-Facsimile.jpg"
     ],
@@ -71391,7 +71361,8 @@ var inscriptions = new Map([
     ],
     "name": "PHWa52",
     "names": [
-        "PHWa52"
+        "PHWa52",
+        "PHWc52"
     ],
     "parsedInscription": "𐙍",
     "scribe": "",
