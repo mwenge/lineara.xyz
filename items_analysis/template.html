@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../item.css"/>
+<link rel="stylesheet" href="../Aegean.css"/>
+<link rel="icon" type="image/x-icon" href="../assets/archer.png" id="icon">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'JetBrains', 'Noto Symbols', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
+    font-size: 16px;
+  }
+</style>
+</head>
+<div class="masthead-container">
+  <div class="masthead"><a href="/">LINEAR A</a></div>
+</div>
+<itemwrapper>
+  <item>
+    <name>
+    %NAME%
+    </name>
+    <hr>
+    <metadata-container>
+      <metadata-item>
+        <heading>Names</heading>
+        <names>
+        %NAMES%
+        </names>
+      </metadata-item>
+      <metadata-item>
+        <heading>Support</heading>
+        <support>
+        %SUPPORT%
+        </support>
+      </metadata-item>
+      <metadata-item>
+        <heading>Location</heading>
+        <site>
+        %SITE%
+        </site>
+      </metadata-item>
+      <metadata-item>
+        <heading>Findspot</heading>
+        <findspot>
+        %FINDSPOT%
+        </findspot>
+      </metadata-item>
+    </metadata-container>
+    <hr>
+    <itemimages>
+      <photo-images-container>
+        <photo-image source="%PHOTO_SOURCE%">
+        <!--<itemimage></itemimage> -->
+        %PHOTO_IMAGES%
+        </photo-image>
+      </photo-images-container>
+      <drawing-images-container>
+        <drawing-image source="%DRAWING_SOURCE%">
+        <!--<itemimage></itemimage> -->
+        %DRAWING_IMAGES%
+        </drawing-image>
+      </drawing-images-container>
+    </itemimages>
+    <hr>
+    <metadata-container>
+      <metadata-item>
+        <heading>Scribe</heading>
+        <scribe>
+        %SCRIBE%
+        </scribe>
+      </metadata-item>
+      <metadata-item>
+        <heading>Context</heading>
+        <context>
+        %CONTEXT%
+        </context>
+      </metadata-item>
+      <metadata-item>
+        <heading>Dimensions</heading>
+        <object-information>
+          <dimensions>
+            <height>%HEIGHT%</height>
+            <length>%LENGTH%</length>
+            <thickness>%THICKNESS%</thickness>
+            <unit>%UNIT%</unit>
+            <dimensions-source>%SOURCE%</dimensions-source>
+          </dimensions>
+        </object-information>
+      </metadata-item>
+      <metadata-item>
+      <heading>Catalogue</heading>
+      <catalogue-information>
+        <catalogue-number>%CATALOG%</catalogue-number>
+        <catalogue-name>Hiraklion Museum</catalogue-name>
+      </catalogue-information>
+      </metadata-item>
+    </metadata-container>
+    <hr>
+    <heading>Readings</heading>
+    <readings>
+      <reading editor="Younger">
+        <reading-spec>
+        <!---
+          "Row Index", "Line Index", "Word Index", "Syllabogram", "Status of Reading"
+          R L W I  S 
+          1 0 1 PA certain
+        -->
+%SPEC%
+        </reading-spec>
+        <transcribed-reading-unicode>
+%TRANSCRIBED_UNICODE%
+        </transcribed-reading-unicode>
+        <transcribed-reading-ascii>
+%TRANSCRIBED_ASCII%
+        </transcribed-reading-ascii>
+        <parsed-reading-unicode>
+%PARSED_UNICODE%
+        </parsed-reading-unicode>
+        <parsed-reading-ascii>
+%PARSED_ASCII%
+        </parsed-reading-ascii>
+      <reading>
+    </readings>
+    <hr>
+    <commentaries>
+      <commentary author="Commentary (Younger 2023)">
+        <commentary-entry>
+          %YOUNGER%
+        </commentary-entry>
+      </commentary>
+    </commentaries>
+    <hr>
+    <heading>References</heading>
+    <bibliography>
+      <bibliography-entry>
+%REFERENCES%
+      </bibliography-entry>
+    </bibliography>
+  </item>
+</itemwrapper>

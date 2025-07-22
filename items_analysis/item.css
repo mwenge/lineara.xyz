@@ -1,0 +1,283 @@
+.masthead {
+  font-family: 'Routed Wide', serif;
+  background-color: purple;
+  opacity: 0.6;
+  font-size: 4vh;
+  color: white;
+  border: white 0.2vw solid;
+  display: inline-block;
+  padding: 0.2vw;
+}
+.masthead-container {
+  position: absolute;
+  display: inline-flex;
+  top: 0px;
+  left: 0px;
+  z-index: 100;
+}
+.masthead > div > a:link, .masthead > div> a:visited,
+.masthead > a:link, .masthead >  a:visited
+{ 
+  color: white;
+  text-decoration: none;
+}
+
+.masthead > a:link:active, .masthead > a:visited:active,
+.masthead > div > a:link:active, .masthead > div > a:visited:active { 
+  color: white;
+}
+
+metadata-container {
+  display: block;
+}
+metadata-item {
+  display: inline-block;
+  margin-left: 30px;
+  margin-right: 30px;
+  vertical-align: top;
+}
+names {
+  display:block;
+}
+names::after {
+  content:"\A Aliases for the inscription.";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+item {
+  display: block;
+}
+
+heading {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+name {
+  display: block;
+  font-size: 3em;
+  text-align: center;
+}
+
+itemimages {
+  display:block;
+}
+
+photo-images-container {
+  display: inline-block;
+}
+photo-image {
+  display: inline-block;
+}
+drawing-image {
+  display: inline-block;
+}
+photo-image::after {
+  content: "\A" ' ' attr(source);
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+drawing-image::after {
+  content: "\A" ' ' attr(source);
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+support {
+  display:block;
+}
+support::after {
+  content:"\A Type of object.";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+scribe {
+  display:block;
+}
+scribe::after {
+  content:"\A Writer of inscription.";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+site {
+  display:block;
+}
+site::after {
+  content:"\ASite where object found.";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+context {
+  display:block;
+}
+context::after {
+  content:"\A Date of Inscription";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+findspot {
+  display:block;
+}
+findspot::after {
+  content:"\A Location at Site";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+object-information {
+  display:block;
+}
+dimensions {
+  display:block;
+}
+dimensions::after {
+  content:"\AHeight x Length x Thickness";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+length::before,thickness::before {
+  content: " x ";
+}
+
+dimensions-source::before {
+  content:"Source:";
+  font-weight: bold;
+}
+
+dimensions-source {
+  display:none;
+}
+
+catalogue-information {
+  display:block
+}
+catalogue-information::after {
+  content:"Museum reference number for this object.";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+catalogue-name {
+  display: block;
+}
+
+catalogue-number {
+  display: block;
+}
+
+reading-spec {
+  display:none;
+}
+
+readings,reading {
+  display:block;
+}
+
+number+number::before {
+  content: "+";
+}
+transcribed-reading-ascii ideogram+ideogram::before {
+  content: "-";
+}
+parsed-reading-ascii ideogram+ideogram::before {
+  content: "-";
+}
+
+transcribed-reading-unicode::before {
+  content:"Linear A Transcription";
+  font-weight: bold;
+}
+
+transcribed-reading-unicode {
+  vertical-align: top;
+  display:inline-block;
+  margin-left:50px;
+  margin-right:50px;
+}
+
+transcribed-reading-unicode::after {
+  content:"A Linear A transcription with words parsed separately.\A Line breaks match the inscription.";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+transcribed-reading-ascii::before {
+  content:"Ascii Transcription";
+  font-weight: bold;
+}
+transcribed-reading-ascii {
+  vertical-align: top;
+  display:inline-block;
+  margin-left:50px;
+  margin-right:50px;
+}
+transcribed-reading-ascii::after {
+  content:"An ASCII transcription with words parsed separately.\A Line breaks match the inscription.";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+parsed-reading-unicode::before {
+  content:"Linear A Tabulation";
+  font-weight: bold;
+}
+parsed-reading-unicode {
+  vertical-align: top;
+  display:inline-block;
+  margin-left:50px;
+  margin-right:50px;
+}
+parsed-reading-unicode::after {
+  content:"A Linear A transcription with words parsed separately.\A Line breaks are logical, e.g. to represent a list.";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+parsed-reading-ascii::before {
+  content:"Ascii Tabulation";
+  font-weight: bold;
+}
+parsed-reading-ascii {
+  vertical-align: top;
+  display:inline-block;
+  margin-left:50px;
+  margin-right:50px;
+}
+parsed-reading-ascii::after {
+  content:"An ASCII transcription with words parsed separately.\A Line breaks are logical, e.g. to represent a list.";
+  white-space: pre-wrap;
+  font-size: 10px;
+}
+
+commentary {
+  display: block;
+}
+commentary::before {
+  content: attr(author);
+  font-weight: bold;
+  font-size: 24px;
+}
+commentary-entry {
+  display: block;
+  margin-left: 50px;
+}
+line {
+  display:block;
+}
+
+bibliography {
+  display: block;
+}
+
+bibliography-entry {
+  display: block;
+  margin-left: 50px;
+}
+word::before {
+  content:" ";
+}
