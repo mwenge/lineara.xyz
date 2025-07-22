@@ -997,7 +997,10 @@ function loadInscription(inscription, container = document.getElementById("conta
   var item = document.createElement("div");
   item.className = 'item-container';
   item.id = inscription.name;
-  item.addEventListener("click", showInscriptionApparatus(inscription.name));
+
+  // Don't make the main body of the inscription clickable anymore.
+  //item.addEventListener("click", event => { window.open(`items/${inscription.name}.html`); event.stopPropagation(); });
+
   item.addEventListener("dblclick", makeZoomItem(item));
 
   inscription.images.forEach( image => {
@@ -1080,7 +1083,7 @@ function loadInscription(inscription, container = document.getElementById("conta
 
   var label = document.createElement("div");
   label.className = "label";
-  label.textContent = (inscription.names).join(',');
+  label.innerHTML = `<a href="items/${inscription.name}.html" target="_blank">${(inscription.names).join(',')}</a>`;
   item.appendChild(label);
 
   var label = document.createElement("div");

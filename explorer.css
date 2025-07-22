@@ -426,6 +426,7 @@ dt, dd, font {
 
 .sort-status { display: none; }
 
+.label > a:link, .label > a:visited,
 .image-label > a:link, .image-label > a:visited,
 .masthead > div > a:link, .masthead > div> a:visited,
 .masthead > a:link, .masthead >  a:visited
@@ -434,6 +435,7 @@ dt, dd, font {
   text-decoration: none;
 }
 
+.label > a:link:active, .label > a:visited:active,
 .image-label > a:link:active, .image-label > a:visited:active,
 .masthead > a:link:active, .masthead > a:visited:active,
 .masthead > div > a:link:active, .masthead > div > a:visited:active { 
