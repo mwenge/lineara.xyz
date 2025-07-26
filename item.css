@@ -27,6 +27,17 @@
   color: white;
 }
 
+commentary-entry,
+bibliography-entry,
+metadata-item,
+parsed-reading-ascii,
+transcribed-reading-ascii,
+parsed-reading-unicode,
+transcribed-reading-unicode {
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
 metadata-container {
   display: block;
 }
@@ -140,8 +151,16 @@ dimensions::after {
   white-space: pre-wrap;
   font-size: 10px;
 }
+
 length::before,thickness::before {
   content: " x ";
+}
+
+length:empty::before,thickness:empty::before {
+  content: "";
+}
+height:empty::before {
+  content: "Unavailable"
 }
 
 dimensions-source::before {
@@ -156,6 +175,7 @@ dimensions-source {
 catalogue-information {
   display:block
 }
+
 catalogue-information::after {
   content:"Museum reference number for this object.";
   white-space: pre-wrap;
@@ -164,6 +184,9 @@ catalogue-information::after {
 
 catalogue-name {
   display: block;
+}
+catalogue-name:empty::before {
+  content: "Unavailable";
 }
 
 catalogue-number {
@@ -181,6 +204,7 @@ readings,reading {
 number+number::before {
   content: "+";
 }
+
 transcribed-reading-ascii ideogram+ideogram::before {
   content: "-";
 }
@@ -196,8 +220,8 @@ transcribed-reading-unicode::before {
 transcribed-reading-unicode {
   vertical-align: top;
   display:inline-block;
-  margin-left:50px;
-  margin-right:50px;
+  margin-left:30px;
+  margin-right:30px;
 }
 
 transcribed-reading-unicode::after {
@@ -213,8 +237,8 @@ transcribed-reading-ascii::before {
 transcribed-reading-ascii {
   vertical-align: top;
   display:inline-block;
-  margin-left:50px;
-  margin-right:50px;
+  margin-left:30px;
+  margin-right:30px;
 }
 transcribed-reading-ascii::after {
   content:"An ASCII transcription with words parsed separately.\A Line breaks match the inscription.";
@@ -229,8 +253,8 @@ parsed-reading-unicode::before {
 parsed-reading-unicode {
   vertical-align: top;
   display:inline-block;
-  margin-left:50px;
-  margin-right:50px;
+  margin-left:30px;
+  margin-right:30px;
 }
 parsed-reading-unicode::after {
   content:"A Linear A transcription with words parsed separately.\A Line breaks are logical, e.g. to represent a list.";
@@ -245,8 +269,8 @@ parsed-reading-ascii::before {
 parsed-reading-ascii {
   vertical-align: top;
   display:inline-block;
-  margin-left:50px;
-  margin-right:50px;
+  margin-left:30px;
+  margin-right:30px;
 }
 parsed-reading-ascii::after {
   content:"An ASCII transcription with words parsed separately.\A Line breaks are logical, e.g. to represent a list.";
@@ -264,7 +288,7 @@ commentary::before {
 }
 commentary-entry {
   display: block;
-  margin-left: 50px;
+  margin-left: 30px;
 }
 line {
   display:block;
@@ -276,8 +300,33 @@ bibliography {
 
 bibliography-entry {
   display: block;
-  margin-left: 50px;
+  margin-left: 30px;
 }
 word::before {
   content:" ";
 }
+
+/* Mobiles */
+@media only screen 
+	and (min-device-width: 280px) 
+	and (max-device-width: 480px)
+	and (-webkit-min-device-pixel-ratio: 2),
+	only screen 
+	and (min-device-width: 280px) 
+	and (max-device-width: 480px)
+	and (min-device-pixel-ratio: 2),
+	{
+	name { 
+		text-align: right; 
+    font-size: 2em;
+  }
+  parsed-reading-ascii,
+  transcribed-reading-ascii,
+  parsed-reading-unicode,
+  transcribed-reading-unicode {
+    margin-top:20px;
+  }
+  metadata-item {
+    margin-top: 10px;
+  }
+	}
