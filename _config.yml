@@ -1,6 +1,0 @@
-plugins:
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-twitter:
-  username: LinearABot
-  card: summary
