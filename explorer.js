@@ -69,28 +69,8 @@ function checkKey(e) {
     case "w": // 'w' - highlight words according to frequency
       updateDisplayOfWordFrequency(document, true);
       break;
-    case "i": // 'i' - copy image of inscription to clipboard
-      var current = getInscriptionHoveredOver();
-      result.style.animationDelay = "90s";
-      result.style.display = "inline-block";
-      result.textContent = "Copying Image to clipboard";
-      if (current) {
-        captureImage(current);
-      }
-      break;
-    case "y": // 'y' - show commentary for inscription currently hovered over
-      var current = getInscriptionHoveredOver();
-      if (current) {
-        showInscriptionApparatus(current.id);
-      }
-      break;
     case "Escape":
       hideSearch();
-      zoomItem(current);
-      break;
-    case "z": // 'z' - zoom
-      var current = getInscriptionHoveredOver();
-      zoomItem(current);
       break;
     case "1": // '1 to 9' - save state to 1 to 9
     case "2": 
@@ -368,296 +348,6 @@ function autocomplete(inp, useGlyphs = true) {
   });
 }
 
-
-function closeZoomedWindow(e) {
-  zoomItem(null);
-  e.stopPropagation();
-}
-
-var commentaries = {};
-commentaries["HT118"] = "https://docs.google.com/document/d/e/2PACX-1vQN17sMMY9JAehLGo8kfNHNq5qQMZFIhBrZhjuPRZemRXBcbAyxk9uIeLaEHuWFeZQ7-MgPM0iYgB5Y/pub?embedded=true";
-commentaries["HT123+124b"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4OWVOOuhdcv54lX942IcbCXEt1BazXLAoQiByVIQKHHymG1K1WEUFm9OLDyQuKmMGxUJ9w6IttC/pub?embedded=true";
-commentaries["HT123+124a"] = "https://docs.google.com/document/d/e/2PACX-1vSgQ4OWVOOuhdcv54lX942IcbCXEt1BazXLAoQiByVIQKHHymG1K1WEUFm9OLDyQuKmMGxUJ9w6IttC/pub?embedded=true";
-commentaries["HT95a"] = "https://docs.google.com/document/d/e/2PACX-1vTBHvxagDkbtGQrRGB7S2D79hzuAuBISJLLkmoTFChHB0VD0pgsucIg0Bysq9N9TfAn6OzmrycYooHK/pub?embedded=true";
-commentaries["HT95b"] = "https://docs.google.com/document/d/e/2PACX-1vTBHvxagDkbtGQrRGB7S2D79hzuAuBISJLLkmoTFChHB0VD0pgsucIg0Bysq9N9TfAn6OzmrycYooHK/pub?embedded=true";
-
-function showInscriptionApparatus(inscription) {
-  return function(e) {
-    var inscriptionElement = document.getElementById(inscription);
-    var apparatusBox = document.getElementById("apparatus-box-" + inscription);
-    if (apparatusBox) {
-      focusSearch();
-      document.body.offsetTop;
-      apparatusBox.style.top = inscriptionElement.offsetHeight + "px";
-      if (apparatusBox.style.display == "block") {
-        apparatusBox.style.display = "none";
-        return;
-      }
-      apparatusBox.style.display = "block";
-      return;
-    }
-
-    var apparatusBox = document.createElement("div")
-    apparatusBox.className = 'apparatus-box';
-    apparatusBox.id = 'apparatus-box-' + inscription;
-    apparatusBox.style.top = inscriptionElement.offsetHeight + "px";
-    apparatusBox.height = "400px";
-    apparatusBox.addEventListener("click", makeHideElements([apparatusBox]));
-    apparatusBox.style.display = "block";
-
-
-    appendNotesForInscription(inscription);
-    appendFindSpots();
-    appendYoungerCommentaryForInscription(inscription);
-    appendCommentaryForInscription(inscription);
-
-    inscriptionElement.appendChild(apparatusBox);
-    focusSearch();
-
-
-    function appendFindSpots() {
-      var findSpots = [
-        {
-          "imageName": "./images/Hagia-Triada-Royal-Villa-Magazine.jpg" ,
-          "tag": "Villa Magazine" ,
-          "title": "Hagia Triada Villa Magazine Area",
-          "roomMap": magazineRooms,
-          "productMap": magazineRoomForProduct,
-          "findSpot": "59"
-        },
-        {
-          "imageName": "./images/Hagia-Triada-Portico.jpg" ,
-          "tag": "Portico 11 and Room 13" ,
-          "title": "Hagia Triada Villa Portico Area",
-          "roomMap": porticoRooms,
-          "productMap": null,
-          "findSpot": "findspot"
-        },
-        {
-          "imageName": "./images/Hagia-Triada-Royal-Villa-Magazine.jpg" ,
-          "tag": "Villa Magazine Room 5" ,
-          "title": "Hagia Triada Villa Magazine Area",
-          "roomMap": magazineRooms,
-          "productMap": magazineRoomForProduct,
-          "findSpot": "5"
-        },
-        {
-          "imageName": "./images/Hagia-Triada-Plan.jpg" ,
-          "tag": "Corridor 9 and Vestibule 26" ,
-          "title": "Hagia Triada",
-          "roomMap": mainPlanRooms,
-          "productMap": null,
-          "findSpot": "9"
-        },
-        {
-          "imageName": "./images/CasaDelLebete.jpg" ,
-          "tag": "Casa Room 9" ,
-          "title": "Hagia Triada 'Casa del Lebete'",
-          "roomMap": casaDelLebeteRooms,
-          "productMap": null,
-          "findSpot": "9"
-        },
-        {
-          "imageName": "./images/CasaDelLebete.jpg" ,
-          "tag": "Casa Room 7" ,
-          "title": "Hagia Triada 'Casa del Lebete'",
-          "roomMap": casaDelLebeteRooms,
-          "productMap": null,
-          "findSpot": "7"
-        },
-        {
-          "imageName": "./images/CasaDelLebete.jpg" ,
-          "tag": "Casa del Lebete" ,
-          "title": "Hagia Triada 'Casa del Lebete'",
-          "roomMap": casaDelLebeteRooms,
-          "productMap": null,
-          "findSpot": null
-        },
-        {
-          "imageName": "./images/Malia-Plan2.jpg" ,
-          "tag": "Malia Palace Room III 8" ,
-          "title": "Malia Palace",
-          "roomMap": maliaRooms,
-          "productMap": null,
-          "findSpot": "8"
-        },
-        {
-          "imageName": "./images/Malia-Plan2.jpg" ,
-          "tag": "Malia South NW Corridor" ,
-          "title": "Malia Palace",
-          "roomMap": maliaRooms,
-          "productMap": null,
-          "findSpot": "NW"
-        },
-        {
-          "imageName": "./images/Malia-Plan2.jpg" ,
-          "tag": "Bastion E" ,
-          "title": "Malia Palace",
-          "roomMap": maliaRooms,
-          "productMap": null,
-          "findSpot": "E"
-        },
-      ];
-      findSpots.forEach(f => appendFindspotAnimation(inscription, f));
-    }
-    function appendFindspotAnimation(inscription, config) {
-      var findspot = inscriptions.get(inscription).findspot;
-      if (findspot != config.tag) {
-        return;
-      }
-
-      var commentBox = document.createElement("div")
-      commentBox.className = 'comment-box';
-      apparatusBox.appendChild(commentBox);
-
-      var img = document.createElement("img");
-      img.src = config.imageName;
-      img.addEventListener("load", animateProductAllocation());
-      commentBox.appendChild(img);
-
-      var title = document.createElement("div");
-      title.className = "tip-tag findspot-title";
-      title.textContent = config.title;
-      commentBox.appendChild(title);
-
-      function animateProductAllocation() {
-        return function (e) {
-          if (!config.findSpot) {
-            return;
-          }
-          var area = config.roomMap.get(config.findSpot);
-          var roomElement = document.createElement("div");
-          roomElement.className = "room-highlight";
-          roomElement.style.width = ((area.width / img.naturalWidth) * 100) + '%';
-          roomElement.style.height = ((area.height / img.naturalHeight) * 100) + '%';
-          roomElement.style.top = ((area.y / img.naturalHeight) * 100) + '%';
-          roomElement.style.left = ((area.x / img.naturalWidth) * 100) + '%';
-          commentBox.appendChild(roomElement);
-
-          var product = document.createElement("div");
-          product.textContent = "📍";
-          product.className = "findspot-tag";
-          roomElement.appendChild(product);
-
-          if (!config.productMap) {
-            return;
-          }
-          var inscriptionData = inscriptions.get(inscription);
-
-          for (var i = 0; i < inscriptionData.words.length; i++) {
-            var word = stripErased(inscriptionData.words[i]);
-            if (!config.productMap.has(word)) {
-              continue;
-            }
-            var room = config.productMap.get(word);
-            var area = config.roomMap.get(room);
-
-            var roomID = inscription + "-room-" + room;
-            var productContainer = document.getElementById(roomID);
-            if (!productContainer) {
-              var roomElement = document.createElement("div");
-              roomElement.className = "room-highlight";
-              roomElement.style.width = ((area.width / img.naturalWidth) * 100) + '%';
-              roomElement.style.height = ((area.height / img.naturalHeight) * 100) + '%';
-              roomElement.style.top = ((area.y / img.naturalHeight) * 100) + '%';
-              roomElement.style.left = ((area.x / img.naturalWidth) * 100) + '%';
-              commentBox.appendChild(roomElement);
-              var productContainer = document.createElement("div");
-              productContainer.className = "product-container";
-              productContainer.id = inscription + "-room-" + room;
-              roomElement.appendChild(productContainer);
-            }
-            var product = document.createElement("div");
-            product.id = inscription + "-product-" + i;
-            product.textContent = word;
-            product.className = "product-tag";
-            product.addEventListener("mouseenter", highlightWords(inscription, i));
-            product.addEventListener("mouseout", clearHighlight(inscription, i));
-            productContainer.appendChild(product);
-          }
-        }
-      }
-    }
-
-    function appendCommentaryForInscription(inscription) {
-      if (!commentaries[inscription]) {
-        return;
-      }
-
-      var commentBox = document.createElement("div")
-      commentBox.className = 'comment-box';
-      commentBox.id = 'mycomment-box-' + inscription;
-      commentBox.addEventListener("click", makeHideElements([apparatusBox]));
-      apparatusBox.appendChild(commentBox);
-
-      var iframe = document.createElement("iframe")
-      iframe.src = commentaries[inscription];
-      iframe.height = "400px";
-      iframe.style.width = "100%";
-      iframe.addEventListener("click", makeHideElements([iframe]));
-      commentBox.appendChild(iframe);
-    }
-
-    function appendNotesForInscription(inscription) {
-      var commentBox = document.createElement("div")
-      commentBox.className = 'comment-box';
-      commentBox.id = 'comment-box-' + inscription;
-      commentBox.addEventListener("click", makeHideElements([apparatusBox]));
-      apparatusBox.appendChild(commentBox);
-
-      inscription = inscription.replace(/[a-z]$/g, "");
-      var commentaries = ["notes/" + inscription]
-      commentBox.innerHTML = "";
-      var failures = 0;
-      commentaries.forEach( commentary => {
-        var xhttp = new XMLHttpRequest();
-        xhttp.onloadend = function() {
-            if (xhttp.status == 404) {
-              failures++;
-            } else {
-              commentBox.innerHTML += xhttp.responseText;
-              commentBox.style.display = "block";
-            }
-            if (failures >= commentaries.length) {
-              commentBox.style.display = "none";
-            }
-        };
-        xhttp.open("GET", commentary, true);
-        xhttp.send();
-      });
-    }
-
-    function appendYoungerCommentaryForInscription(inscription) {
-      var commentBox = document.createElement("div")
-      commentBox.className = 'comment-box';
-      commentBox.id = 'comment-box-' + inscription;
-      commentBox.addEventListener("click", makeHideElements([apparatusBox]));
-      apparatusBox.appendChild(commentBox);
-
-      inscription = inscription.replace(/[a-z]$/g, "");
-      var commentaries = ["commentary/" + inscription + ".html"]
-      commentBox.innerHTML = "";
-      var failures = 0;
-      commentaries.forEach( commentary => {
-        var xhttp = new XMLHttpRequest();
-        xhttp.onloadend = function() {
-            if (xhttp.status == 404) {
-              failures++;
-            } else {
-              commentBox.innerHTML += xhttp.responseText;
-              commentBox.style.display = "block";
-            }
-            if (failures >= commentaries.length) {
-              commentBox.style.display = "none";
-            }
-        };
-        xhttp.open("GET", commentary, true);
-        xhttp.send();
-      });
-    }
-  }
-}
-
 function getInscriptionHoveredOver() {
   var n = document.querySelector(":hover");
   var nn;
@@ -720,48 +410,6 @@ function clearHighlights() {
   highlightedSearchElements = [];
 }
 
-function makeMoveLens(img, result, imageToAdd, name) {
-  return function(e) {
-    result.style.display = "flex";
-
-    var lensD = 80;
-    /* Calculate the ratio between itemZoom DIV and lens: */
-    var cx = 200 / lensD;
-    var cy = 200 / lensD;
-
-    var pos, x, y;
-    /* Prevent any other actions that may occur when moving over the image */
-    e.preventDefault();
-    /* Get the cursor's x and y positions: */
-    pos = getCursorPos(e);
-    /* Calculate the position of the lens: */
-    x = pos.x - (lensD / 2);
-    y = pos.y - (lensD / 2);
-    /* Prevent the lens from being positioned outside the image: */
-    if (x > img.width - lensD) {x = img.width - lensD;}
-    if (x < 0) {x = 0;}
-    if (y > img.height - lensD) {y = img.height - lensD;}
-    if (y < 0) {y = 0;}
-    /* Display what the lens "sees": */
-    result.style.backgroundSize = (img.width * cx) + "px " + (img.height * cy) + "px";
-    result.style.backgroundPosition = "-" + (x * cx) + "px -" + (y * cy) + "px";
-
-    function getCursorPos(e) {
-      var a, x = 0, y = 0;
-      e = e || window.event;
-      /* Get the x and y positions of the image: */
-      a = img.getBoundingClientRect();
-      /* Calculate the cursor's x and y coordinates, relative to the image: */
-      x = e.pageX - a.left;
-      y = e.pageY - a.top;
-      /* Consider any page scrolling: */
-      x = x - window.pageXOffset;
-      y = y - window.pageYOffset;
-      return {x : x, y : y};
-    }
-  };
-}
-
 function makeGiveUpOnImages(elements) {
   return function(e) {
     for (var index in elements) {
@@ -778,12 +426,6 @@ function makeHideElements(elements) {
     }
     e.stopPropagation();
     focusSearch();
-  };
-}
-
-function makeZoomItem(item) {
-  return function(e) {
-    zoomItem(item);
   };
 }
 
@@ -925,41 +567,6 @@ function wordIndexForLetterIndex(name, index, from) {
 }
 
 
-var captureImage = function(root) {
-  html2canvas(root, {
-    backgroundColor: 'white'
-  })
-    .then(function(canvas) {
-      canvas.toBlob(function(blob) { 
-            const item = new ClipboardItem({ "image/png": blob });
-            navigator.clipboard.write([item]); 
-            result.style.animationDelay = "0s";
-            result.textContent = "Image copied to clipboard";
-      });
-    })
-};
-
-var zoomItem = (function(item) {
-  var zoomedElement = null;
-  return function(item) {
-    var itemToZoom = item;
-    if (zoomedElement) {
-      itemToZoom = zoomedElement;
-      zoomedElement = null;
-    } else {
-      zoomedElement = item;
-    }
-    if (!itemToZoom) {
-      return;
-    }
-    
-    Array.prototype.map.call(itemToZoom.getElementsByClassName("item-shell"), x => x.classList.toggle("zoomed-item"));
-    Array.prototype.map.call(itemToZoom.getElementsByClassName("item"), x => x.classList.toggle("zoomed-item"));
-    Array.prototype.map.call(itemToZoom.getElementsByClassName("close-window"), x => x.classList.toggle("zoomed-close-window"));
-    itemToZoom.classList.toggle("zoomed-item-container");
-  }
-})();
-
 var updateDisplayOfWordFrequency = (function(root, update) {
   var displayed = true;
   return function(root, update) {
@@ -1000,8 +607,6 @@ function loadInscription(inscription, container = document.getElementById("conta
 
   // Don't make the main body of the inscription clickable anymore.
   //item.addEventListener("click", event => { window.open(`items/${inscription.name}.html`); event.stopPropagation(); });
-
-  item.addEventListener("dblclick", makeZoomItem(item));
 
   inscription.images.forEach( image => {
     addImageToItem(item, imgprefix + image, inscription, "photo")
@@ -1084,12 +689,6 @@ function loadInscription(inscription, container = document.getElementById("conta
   var label = document.createElement("div");
   label.className = "label";
   label.innerHTML = `<a href="items/${inscription.name}.html" target="_blank">${(inscription.names).join(',')}</a>`;
-  item.appendChild(label);
-
-  var label = document.createElement("div");
-  label.className = "close-window";
-  label.id = inscription.name + "-close-window";
-  label.onclick = closeZoomedWindow;
   item.appendChild(label);
 
   inscription.element = item;
@@ -1285,37 +884,6 @@ function setHighlightLettersInTranscription(name, index, highlight) {
     });
   }
   return highlightedElements;
-}
-
-function paintHighlightOnZoomImage(itemZoom, img, element ) {
-  return function(e) {
-    var canvas = document.createElement('canvas');
-    var ctx = canvas.getContext('2d', {alpha: false});
-
-    var imageWidth = img.naturalWidth;
-    var imageHeight = img.naturalHeight;
-    canvas.width = imageWidth;
-    canvas.height = imageHeight;
-    ctx.drawImage(img, 0, 0, imageWidth, imageHeight);
-
-    for (var i = 0; i < element.children.length; i++) {
-      var highlight = element.children[i];
-      if (highlight.tagName != "DIV") {
-        continue;
-      }
-      var x = Math.floor((imageWidth * parseFloat(highlight.style.left)) / 100)
-      var y = Math.floor((imageHeight * parseFloat(highlight.style.top)) / 100)
-      var width = Math.floor((imageWidth * parseFloat(highlight.style.width)) / 100)
-      var height = Math.floor((imageHeight * parseFloat(highlight.style.height)) / 100)
-      ctx.fillStyle = highlight.style.backgroundColor;
-      ctx.fillRect(x, y, width, height);
-      ctx.fillStyle = "black";
-      ctx.lineWidth = 0.2;
-      ctx.strokeRect(x, y, width, height);
-    }
-    var dataURI = canvas.toDataURL();
-    itemZoom.style.backgroundImage = "url('" + dataURI + "')";
-  }
 }
 
 function highlightWords(name, index, showWordTip = true, color = "rgba(255, 255, 0, 0.5)") {
@@ -1535,7 +1103,6 @@ function addToSearchTerms(searchTerm, callback=null) {
 
 function updateSearchTerms(searchTerm) {
   return function(evt) {
-    console.log(searchTerm);
     addToSearchTerms(searchTerm)();
     applySearchTerms();
     if (!evt) {
@@ -1686,7 +1253,6 @@ function highlightMatchingWordTags(inscription, wordTags, activeWordTags) {
       var highlightColor = tagColors[activeWordTags[j]];
       var translation = document.getElementById(inscription.name + "-translation-" + i);
       if (!translation) {
-        console.log(inscription.name);
         i++;
         continue;
       }
@@ -1729,7 +1295,6 @@ function hasTag(tag, inscription) {
 
 function applySearchTerms() {
 
-  console.log("applySearchTerms");
   var searchTerms = document.getElementById("search-terms");
   var numberOfSearchTerms = searchTerms.children.length;
   var searchTermValues = Array.prototype.slice.call(searchTerms.children)
@@ -2220,32 +1785,12 @@ window.onload = function() {
     return;
   }
 
-  if (tryInscription(document.referrer)) {
-    return;
-  }
-
-  function tryInscription(ref) {
-    var urlPath = /\/\/(.+)\/(.+)/.exec(ref);
-    if (!urlPath) {
-      return false;
-    }
-    var id = urlPath[2];
-    if (!inscriptions.has(id)) {
-      return false;
-    }
-    loadInscription(inscriptions.get(id))
-    var inscription = document.getElementById(id);
-    zoomItem(inscription);
-    return true;
-  }
-
   function tryWord() {
     const urlParams = new URLSearchParams(window.location.search);
     if (!urlParams.get('search')) {
       return false;
     }
     const search = urlParams.get('search').replace(/'/g, "\"");
-    console.log(search);
     if (!search) {
       return false;
     }

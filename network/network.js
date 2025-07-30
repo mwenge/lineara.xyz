@@ -203,11 +203,11 @@ function draw() {
     },
     physics: {
       forceAtlas2Based: {
-        gravitationalConstant: -26,
+        gravitationalConstant: -16,
         centralGravity: 0.005,
         springLength: 230,
         springConstant: 0.09,
-        damping: 0.1,
+        damping: 0.8,
       },
       maxVelocity: 146,
       solver: "forceAtlas2Based",
