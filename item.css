@@ -302,6 +302,8 @@ bibliography-entry {
   display: block;
   margin-left: 30px;
 }
+
+word:hover { cursor: pointer; }
 word::before {
   content:" ";
 }
@@ -329,4 +331,11 @@ word::before {
   metadata-item {
     margin-top: 10px;
   }
-	}
+}
+
+@media print{
+  .noprint{
+    display:none;
+  }
+}
+
