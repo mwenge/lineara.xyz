@@ -1,6 +1,11 @@
 /*
  * Enable highlighting of words when hovered.
  */
+document.querySelectorAll('support,site,findspot,scribe,context').forEach( x =>  {
+  const searchURL = `/?search=["${x.innerText.replace('\n', ' ')}"]`
+  x.addEventListener("click", event => { window.open(searchURL); event.stopPropagation(); });
+});
+
 const unicodeContainer = document.querySelector('transcribed-reading-unicode');
 document.querySelectorAll('word').forEach( x =>  {
   x.addEventListener("mouseenter", highlightWords());
