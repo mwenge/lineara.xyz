@@ -19,7 +19,7 @@ function highlightWords(e) {
   const color = "rgba(255, 255, 0, 0.5)";
   return function(e) {
     const number = e.target.getAttribute("number");
-    const words = document.querySelectorAll(`word[number='${number}']`);
+    const words = document.querySelectorAll(`word[number='${number}'],.letter-highlight[number='${number}']`);
     words.forEach( x => {
       x.style.backgroundColor = color;
     });
@@ -30,88 +30,49 @@ function clearHighlight(e) {
   return function(e) {
     const color = "rgba(255, 255, 0, 0.5)";
     const number = e.target.getAttribute("number");
-    const words = document.querySelectorAll(`word[number='${number}']`);
+    const words = document.querySelectorAll(`word[number='${number}'],.letter-highlight[number='${number}']`);
     words.forEach( x => {
       x.style.backgroundColor = "";
     });
   }
 }
 
-/*
 document.querySelectorAll('img').forEach( img =>  {
   const imagePath = new URL(img.src).pathname;
-  addWordsToImage(imagePath
+  const imageLookup = imagePath.substring(imagePath.lastIndexOf('/')+1).split('.')[0];
+  const container = img.parentElement.parentElement;
+  const test_img = new Image();
+  test_img.src = imagePath;
+  test_img.onload = () => {
+    addWordsToImage(imageLookup, img, container, test_img.naturalWidth, test_img.naturalHeight);
+  };
 });
 
-function addWordsToImage(imagePath, name, imageType, img, imageWrapper, itemZoom, item) {
-  return function(e) {
-    if (!coordinates.has(imagePath)) {
+function addWordsToImage(imageLookup, img, container, naturalWidth, naturalHeight) {
+    var imageCoords = coordinates[imageLookup];
+    if (!imageCoords) {
       return;
     }
-    var imageCoords = coordinates.get(imagePath);
-    var currentWord = 0;
-    var prevWord = -1;
-    var wordContainer = null;
-    for (var i = 0; i < imageCoords.length; i++) {
-      var area = imageCoords[i].coords;
-      currentWord = wordIndexForLetterIndex(name, i, currentWord);
 
-      if (currentWord != prevWord) {
-        wordContainer = document.createElement("div");
-        var wordID = "image-" + imageType + "-" + name + "-word-highlight-" + currentWord;
-        wordContainer.className = "word-highlight";
-        wordContainer.style.top = ((area.y / img.naturalHeight) * 100) + '%';
-        wordContainer.style.left = ((area.x / img.naturalWidth) * 100) + '%';
-        wordContainer.id = wordID;
-        wordContainer.addEventListener("mouseout", clearHighlight(name, currentWord));
-        imageWrapper.appendChild(wordContainer);
-      }
-      prevWord = currentWord;
+    imageCoords.forEach( c => {
+      const area = c.coords;
+      const word = c.word;
 
       var highlight = document.createElement("div");
       highlight.className = "letter-highlight";
-      highlight.id = "image-" + imageType + "-" + name + "-letter-highlight-" + i;
-      highlight.style.width = ((area.width / img.naturalWidth) * 100) + '%';
-      highlight.style.height = ((area.height / img.naturalHeight) * 100) + '%';
-      highlight.style.top = ((area.y / img.naturalHeight) * 100) + '%';
-      highlight.style.left = ((area.x / img.naturalWidth) * 100) + '%';
-      highlight.addEventListener("mouseenter", highlightWords(name, currentWord));
-      highlight.addEventListener("click", updateSearchTerms("\"" + inscriptions.get(name).words[currentWord] + "\""));
-      highlight.addEventListener("mouseout", clearHighlight(name, currentWord));
-      wordContainer.appendChild(highlight);
-    }
+      highlight.setAttribute("number",word);
+      highlight.style.width = ((area.width / naturalWidth) * 100) + '%';
+      highlight.style.height = ((area.height / naturalHeight) * 100) + '%';
+      highlight.style.top = ((area.y / naturalHeight) * 100) + '%';
+      highlight.style.left = ((area.x / naturalWidth) * 100) + '%';
+      highlight.addEventListener("mouseenter", highlightWords());
+      highlight.addEventListener("mouseout", clearHighlight());
 
-    // Highlight any search terms in the image
-    var searchTerms = document.getElementById("search-terms");
-    if (searchTerms) {
-      for (var i = 0; i < searchTerms.children.length; i++) {
-        var searchElement = searchTerms.children[i];
-        if (!searchElement) {
-          continue;
-        }
-        var term = searchElement.textContent;
-        for (var j = 0; j < item.children.length; j++) {
-          var element = item.children[j];
-          var highlightColor = searchElement.getAttribute("highlightColor");
-          highlightMatchesInElement(element, term, highlightColor);
-        }
-      }
-    }
+      const w = unicodeContainer.querySelector(`word[number='${word}']`);
+      const searchURL = `/?search=["\\"${w.innerText}\\""]`
+      highlight.addEventListener("click", event => { window.open(searchURL); event.stopPropagation(); });
 
-    if (consoleButtons.get('activeWordTags')) {
-      var inscription = inscriptions.get(name);
-      for (var tag of consoleButtons.get('activeWordTags').currentActiveTags()) {
-        var highlightColor = tagColors[tag];
-        for (var index in inscription.wordTags) {
-          if (!inscription.wordTags[index].includes(tag)) {
-            continue;
-          }
-
-          var highlightedElements = setHighlightLettersInTranscription(name, index, highlightColor);
-          highlightedSearchElements = highlightedSearchElements.concat(highlightedElements);
-        }
-      }
-    }
-  };
+      container.appendChild(highlight);
+    });
 }
-*/
+

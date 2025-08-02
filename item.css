@@ -27,6 +27,17 @@
   color: white;
 }
 
+photo-images-container,drawing-images-container {
+  position: relative;
+  display: inline-block;
+}
+photo-image,drawing-imag {
+  position: relative;
+}
+.letter-highlight {
+  position: absolute;
+}
+
 commentary-entry,
 bibliography-entry,
 metadata-item,
@@ -75,24 +86,11 @@ itemimages {
   display:block;
 }
 
-photo-images-container {
-  display: inline-block;
-}
 photo-image {
   display: inline-block;
 }
 drawing-image {
   display: inline-block;
-}
-photo-image::after {
-  content: "\A" ' ' attr(source);
-  white-space: pre-wrap;
-  font-size: 10px;
-}
-drawing-image::after {
-  content: "\A" ' ' attr(source);
-  white-space: pre-wrap;
-  font-size: 10px;
 }
 
 support {
@@ -235,7 +233,7 @@ bibliography-entry {
 }
 
 scribe,support,site,findspot,context:hover { cursor: pointer; }
-word:hover { cursor: pointer; }
+.letter-highlight,word:hover { cursor: pointer; }
 word::before {
   content:" ";
 }
