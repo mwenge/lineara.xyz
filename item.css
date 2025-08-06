@@ -27,7 +27,7 @@
   color: white;
 }
 
-photo-images-container,drawing-images-container {
+photo-images-container,drawing-images-container,reading-spec-container {
   position: relative;
   display: inline-block;
 }
@@ -36,6 +36,27 @@ photo-image,drawing-imag {
 }
 .letter-highlight {
   position: absolute;
+}
+
+reading-spec {
+  border: black 1px solid;
+  white-space: pre-wrap;
+  padding: 5px;
+  max-height: 400px;
+  overflow: scroll;
+}
+
+.save:hover { cursor: pointer; }
+.save {
+  position: absolute;
+  top: 0;
+  right: 20px;
+  border: darkgray 1px solid;
+  border-radius: 20px;
+  color: white;
+  padding: 10px;
+  background-color: gray;
+  font-weight: bold;
 }
 
 commentary-entry,
@@ -207,13 +228,16 @@ parsed-reading-ascii {
   margin-right:30px;
 }
 
+commentaries {
+  display: block;
+}
 commentary {
   display: block;
 }
 commentary::before {
   content: attr(author);
   font-weight: bold;
-  font-size: 24px;
+  font-size: 20px;
 }
 commentary-entry {
   display: block;
