@@ -70,6 +70,12 @@ function addDownloadElement() {
   wrapper.appendChild(saveButton);
 }
 
+function removeLinks() {
+  document.querySelectorAll('.link').forEach( x =>  {
+    x.remove();
+  });
+}
+
 function getFileName() {
   let path = window.location.pathname;
   let fileName = path.substring(path.lastIndexOf('/') + 1);
@@ -78,6 +84,7 @@ function getFileName() {
 
 function download() {
   readingSpecBox.style.display = "none";
+  removeLinks();
   removeDownloadElement();
   removeHighlightElements(); // So that they don't clutter up the saved doc.
   let htmlText = "<!DOCTYPE html>\n" +  document.documentElement.outerHTML;
@@ -85,6 +92,7 @@ function download() {
   saveAs(blob, getFileName());
   addHighlightElements(); // Add the highlights back again.
   addDownloadElement();
+  addLinks(); // Add the links back.
 }
 
 /*

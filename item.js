@@ -1,12 +1,25 @@
 /*
- * Enable highlighting of words when hovered.
+ * Make metadata clickable.
  */
 const unicodeContainer = document.querySelector('parsed-reading-unicode');
-document.querySelectorAll('support,site,findspot,scribe,context').forEach( x =>  {
-  const searchURL = `/?search=["${x.innerText.replace('\n', ' ')}"]`
-  x.addEventListener("click", event => { window.open(searchURL); event.stopPropagation(); });
-});
 
+addLinks();
+
+function addLinks() {
+  document.querySelectorAll('support,site,findspot,scribe,context').forEach( x =>  {
+    const searchURL = `/?search=["${x.innerText.replace('\n', ' ')}"]`
+    var link = document.createElement("span");
+    link.className = "link";
+    link.setAttribute("contenteditable", "false");
+    link.innerText = "🔗";
+    x.appendChild(link);
+    link.addEventListener("click", event => { window.open(searchURL); event.stopPropagation(); });
+  });
+}
+
+/*
+ * Enable highlighting of words when hovered.
+ */
 enableHighlighting();
 addHighlightElements();
 

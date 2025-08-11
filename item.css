@@ -256,7 +256,9 @@ bibliography-entry {
   margin-left: 30px;
 }
 
-scribe,support,site,findspot,context:hover { cursor: pointer; }
+.link {
+}
+.link:hover { cursor: pointer; }
 .letter-highlight,word:hover { cursor: pointer; }
 word::before {
   content:" ";
