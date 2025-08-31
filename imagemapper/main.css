@@ -38,6 +38,13 @@ body {
     line-height: 1;
     overflow-y: scroll;
 }
+#comp_img {
+  max-height:500px;
+}
+#image > img {
+  max-height:500px;
+}
+
 img {
     border: 0;
 }
