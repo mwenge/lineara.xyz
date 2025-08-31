@@ -503,7 +503,6 @@ var summerHtmlImageMapCreator = (function() {
                     continue;
                   }
                   for (var imageToLoad of [inscription.images[0], inscription.facsimileImages[0]]) {
-                    console.log(imageToLoad);
                     if (coordinates.has(imageToLoad)) {
                       continue;
                     }
