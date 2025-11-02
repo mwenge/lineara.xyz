@@ -162,6 +162,19 @@ input:focus::placeholder { color:transparent; }
     opacity: 0.1;
   }
 }
+/* Used to split the transcription into columns when there
+ * are numbers present.
+ */
+.spanning-line {
+  grid-column: 1/3;
+}
+.left-line {
+  grid-column: 1/1;
+}
+.right-line {
+  grid-column: 2/2;
+}
+
 .item {
   flex-grow: 1;
   font-family: 'JetBrains', 'AegeanRegular', 'Aegean', 'Noto Sans Linear A and B', 'Noto Mono', sans-serif;
@@ -176,6 +189,11 @@ input:focus::placeholder { color:transparent; }
   word-break: break-word;
   border-left: 1px solid grey;
   overflow: hidden;
+  grid-auto-rows: min-content;
+  grid-template-columns: auto auto;
+  display: grid;
+  column-gap: 8px;
+  align-items: baseline;
 }
 .text-item:first-child, .item-shell:first-child {
   border-bottom-left-radius: 10px;
@@ -286,7 +304,7 @@ input:focus::placeholder { color:transparent; }
   opacity: 1;
 }
 .letter-highlight:hover, .search-term, .tag:hover, 
-.item > span, .imagerights-label:hover {
+.item > div > span, .imagerights-label:hover {
   cursor: pointer;
 }
 .image-label {
