@@ -616,7 +616,26 @@ function loadInscription(inscription, container = document.getElementById("conta
   });
 
 
-  var transcript = populateText(inscription, "transcription", inscription.words);
+  var transcript = document.createElement("div");
+  transcript.className = 'item text-item';
+  transcript.setAttribute("inscription", inscription.name);
+  for (var i = 0; i < inscription.words.length; i++) {
+    var word = inscription.words[i];
+    var elementName = word == "\n" ? "br" : "span";
+    var span = document.createElement(elementName);
+    if (elementName == "span") {
+      span.textContent = word;
+      span.className = getClassNameForWord(word);
+      span.classList.add("word-frequency-none");
+
+      var searchTerm = stripErased(word);
+      span.id = inscription.name + "-transcription-" + i;
+      span.addEventListener("mouseenter", highlightWords(inscription.name, i));
+      span.addEventListener("mouseout", clearHighlight(inscription.name, i));
+      span.addEventListener("click", updateSearchTerms("\"" + span.textContent + "\""));
+    }
+    transcript.appendChild(span);
+  }
   item.appendChild(transcript);
 
   var transliteration = populateText(inscription, "transliteration", inscription.transliteratedWords);
@@ -682,82 +701,15 @@ function loadInscription(inscription, container = document.getElementById("conta
   return item;
 }
 
-/*
- * Is the character a number (Ascii or Aegean) or a number literal?
- */
-function isNumber(word) {
-  // If it's empty it's not a number.
-  if (word.trim() == "") return false;
-  // Is it an 'ascii' number?
-  if (!isNaN(word)) return true;
-  // Some special cases.
-  if (["double mina","13/20"].includes(word)) return true;
-  if ("¹⁄₂≈¹⁄₆³⁄₄".includes(word[0])) return true;
-
-  // Is it a number in the Aegean Unicode codepoints?
-  var unicode = word.codePointAt(0);
-  // See https://en.wikipedia.org/wiki/Aegean_numerals#Unicode
-  // This is 0x10104 to 0x1013F
-  if (unicode > 65793 && unicode <= 65855) {
-    return true;
-  }
-  // See https://en.wikipedia.org/wiki/Linear_A#Unicode
-  // This is: 0x10740 to 0x10755
-  if (unicode >= 67392 && unicode <= 67413) {
-    return true;
-  }
-
-  // Otherwise it's not a number.
-  return false;
-}
-
-/*
- * Figure out which lines in a transcription have numbers in 
- * them so we can split them into a separate column.
- */
-function getLinesWithNumbers(words) {
-  let lines = []; 
-  let hasNumber = false;
-  for (var i = 0; i < words.length; i++) {
-    var word = words[i];
-    if (word == "\n") {
-      lines.push(hasNumber);
-      hasNumber = false;
-    }
-    if (isNumber(word)) {
-      hasNumber = true;
-    }
-  }
-  lines.push(hasNumber);
-  return lines
-}
-
 function populateText(inscription, type, words) {
-  const linesWithNumbers = getLinesWithNumbers(words);
   var transcript = document.createElement("div");
   transcript.className = 'item text-item ' + type + '-item';
   transcript.setAttribute("inscription", inscription.name);
-
-  // We're detecting if there's a number in the line and 
-  // whether we should split the transaction into two columns
-  // with the number in the right hand column.
-  let lineNumber = 0;
-  let splitAlready = false;
-  var lineSpan = document.createElement("div");
-  lineSpan.className = linesWithNumbers[lineNumber] ? "left-line" : "spanning-line"; 
-  transcript.appendChild(lineSpan);
   for (var i = 0; i < words.length; i++) {
     var word = words[i];
     var elementName = word == "\n" ? "br" : "span";
-
-    if (!splitAlready && isNumber(word)) {
-      lineSpan = document.createElement("div");
-      lineSpan.className = "right-line"; 
-      transcript.appendChild(lineSpan);
-      splitAlready = true;
-    }
+    var span = document.createElement(elementName);
     if (elementName == "span") {
-      var span = document.createElement(elementName);
       span.textContent = word + " ";
       span.className = getClassNameForWord(inscription.words[i]);
       span.classList.add("word-frequency-none");
@@ -765,15 +717,8 @@ function populateText(inscription, type, words) {
       span.addEventListener("mouseenter", highlightWords(inscription.name, i));
       span.addEventListener("mouseout", clearHighlight(inscription.name, i));
       span.addEventListener("click", updateSearchTerms("\"" + inscription.words[i] + "\""));
-      lineSpan.appendChild(span);
     }
-    if (elementName == "br") {
-      lineNumber++;
-      lineSpan = document.createElement("div");
-      lineSpan.className = linesWithNumbers[lineNumber] ? "left-line" : "spanning-line"; 
-      transcript.appendChild(lineSpan);
-      splitAlready = false;
-    }
+    transcript.appendChild(span);
   }
   transcript.appendChild(document.createElement("br"));
   transcript.appendChild(document.createElement("br"));

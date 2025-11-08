@@ -71240,7 +71240,7 @@ var inscriptions = new Map([
     "names": [
         "KH103"
     ],
-    "parsedInscription": "𐙖𐄐𐄇𐝫\n𐙖𐘱𐝫𐄇\n𐙖𐘳𐄎\n𐝫𐘝\n𐙗𐄑𐄉\n𐝫𐙍",
+    "parsedInscription": "𐙖𐄐𐄇𐝫\n𐙖𐘱𐝫𐄇𐙖𐘳𐄎𐝫𐘝\n𐙗𐄑𐄉𐝫𐙍",
     "scribe": "",
     "site": "Khania",
     "support": "Tablet",
@@ -71251,15 +71251,12 @@ var inscriptions = new Map([
         "\n",
         "OLE-JA",
         "1",
-        "\n",
         "OLE-TA",
         "8",
-        "\n",
         "figs",
         "\n",
         "cyperus",
         "23",
-        "\n",
         "wine"
     ],
     "transliteratedWords": [
@@ -71268,15 +71265,12 @@ var inscriptions = new Map([
         "\n",
         "OLE-JA",
         "1",
-        "\n",
         "OLE-TA",
         "8",
-        "\n",
         "NI",
         "\n",
         "CYP",
         "23",
-        "\n",
         "VIN"
     ],
     "words": [
@@ -71285,15 +71279,12 @@ var inscriptions = new Map([
         "\n",
         "𐙖𐘱",
         "𐝫𐄇",
-        "\n",
         "𐙖𐘳",
         "𐄎𐝫",
-        "\n",
         "𐘝",
         "\n",
         "𐙗",
         "𐄑𐄉",
-        "\n",
         "𐝫𐙍"
     ]
 }],
