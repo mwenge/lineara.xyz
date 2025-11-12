@@ -130,13 +130,9 @@ var tagValues = [
   ["MOZb3?","Missing Image"],
   ["PEWs","Missing Image"],
   ["PEZb","Missing Image"],
-  ["CRZf5","Missing Image"],
   ["PETSWc","Missing Image"],
   ["ARKHZb<10>","Missing Image"],
   ["ZAZb39","Missing Image"],
-  ["KNZg57a","Missing Image"],
-  ["KNZg57b","Missing Image"],
-  ["KNZg58","Missing Image"],
 ];
 
 var tags = new Map();
