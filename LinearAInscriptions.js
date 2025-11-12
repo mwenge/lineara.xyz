@@ -17428,7 +17428,7 @@ var inscriptions = new Map([
 }],
 ["HTW231a",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTW231a-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
@@ -17456,7 +17456,7 @@ var inscriptions = new Map([
 }],
 ["HTW231b",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTW231b-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
@@ -17484,7 +17484,7 @@ var inscriptions = new Map([
 }],
 ["HTW231c",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTW231c-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
@@ -17516,16 +17516,56 @@ var inscriptions = new Map([
         "𐝫"
     ]
 }],
-["HTW231d-f",{
+["HTW231d",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTW231d-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
-    "name": "HTW231d-f",
+    "images": ["images/HTW231d-Inscription.jpg"],
+    "name": "HTW231d",
     "names": [
-        "HTW231d-f"
+        "HTW231d"
+    ],
+    "parsedInscription": "",
+    "scribe": "",
+    "site": "Haghia Triada",
+    "support": "Tablet",
+    "transcription": "",
+    "translatedWords": ["None"],
+    "transliteratedWords": ["None"],
+    "words": ["None"]
+}],
+["HTW231e",{
+    "context": "LMIB",
+    "facsimileImages": ["images/HTW231e-Facsimile.jpg"],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": ["images/HTW231e-Inscription.jpg"],
+    "name": "HTW231e",
+    "names": [
+        "HTW231e"
+    ],
+    "parsedInscription": "",
+    "scribe": "",
+    "site": "Haghia Triada",
+    "support": "Tablet",
+    "transcription": "",
+    "translatedWords": ["None"],
+    "transliteratedWords": ["None"],
+    "words": ["None"]
+}],
+["HTW231f",{
+    "context": "LMIB",
+    "facsimileImages": ["images/HTW231f-Facsimile.jpg"],
+    "findspot": "",
+    "imageRights": "",
+    "imageRightsURL": "",
+    "images": ["images/HTW231f-Inscription.jpg"],
+    "name": "HTW231f",
+    "names": [
+        "HTW231f"
     ],
     "parsedInscription": "",
     "scribe": "",
@@ -44579,7 +44619,7 @@ var inscriptions = new Map([
 }],
 ["HTZf163",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTZf163-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "papers/HTZf163.pdf#page=3",
@@ -44609,7 +44649,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "papers/HTZf163.pdf#page=3",
-    "images": ["images/HTZf163-Inscription.jpg"],
+    "images": ["images/HTZf164-Inscription.jpg"],
     "name": "HTZf164",
     "names": [
         "HTZf164"
@@ -44635,7 +44675,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/HTZf165-Inscription.jpg"],
     "name": "HTZf165",
     "names": [
         "HTZf165"
@@ -44657,7 +44697,7 @@ var inscriptions = new Map([
 }],
 ["HTZf166",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTZf166-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
@@ -44683,7 +44723,7 @@ var inscriptions = new Map([
 }],
 ["HTZf167",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTZf167-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
@@ -44713,7 +44753,7 @@ var inscriptions = new Map([
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
-    "images": ["images/noimage.jpg"],
+    "images": ["images/HTZf168-Inscription.jpg"],
     "name": "HTZf168",
     "names": [
         "HTZf168"
@@ -44741,7 +44781,7 @@ var inscriptions = new Map([
 }],
 ["HTZf169",{
     "context": "LMIB",
-    "facsimileImages": [],
+    "facsimileImages": ["images/HTZf169-Facsimile.jpg"],
     "findspot": "",
     "imageRights": "",
     "imageRightsURL": "",
