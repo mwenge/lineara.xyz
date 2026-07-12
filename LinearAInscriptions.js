@@ -15344,7 +15344,7 @@ var inscriptions = new Map([
         "14",
         "\n",
         "\"total\"",
-        "291"
+        "292"
     ],
     "transliteratedWords": [
         "𐝫",
@@ -15374,7 +15374,7 @@ var inscriptions = new Map([
         "14",
         "\n",
         "KU-RO",
-        "291"
+        "292"
     ],
     "words": [
         "𐝫",
