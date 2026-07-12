@@ -44216,7 +44216,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙂",
     "scribe": "",
     "site": "Haghia Triada",
-    "support": "Tablet",
+    "support": "Nodule",
     "transcription": "𐙂",
     "translatedWords": [
         "KU"
@@ -44246,7 +44246,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙕",
     "scribe": "HT Wa Scribe 10",
     "site": "Haghia Triada",
-    "support": "Tablet",
+    "support": "Nodule",
     "transcription": "𐙕",
     "translatedWords": [
         "*301"
@@ -60470,7 +60470,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐚏𐘡𐚎𐙒𐝈𐝈",
     "scribe": "",
     "site": "Phaistos",
-    "support": "Label",
+    "support": "Tablet",
     "transcription": "𐚏𐘡𐚎𐙒𐝈𐝈",
     "translatedWords": [
         "*355-E-*354",
@@ -61220,7 +61220,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍𐄈𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Phaistos",
-    "support": "Label",
+    "support": "Tablet",
     "transcription": "𐙍𐄈𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "wine",
@@ -62279,7 +62279,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘡𐘷𐘿",
     "scribe": "",
     "site": "Phaistos",
-    "support": "Tablet",
+    "support": "Nodule",
     "transcription": "𐘡𐘷𐘿",
     "translatedWords": [
         "E-TA₂-QE"
@@ -63989,7 +63989,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝠",
     "scribe": "",
     "site": "Samothrace",
-    "support": "Tablet",
+    "support": "Nodule",
     "transcription": "𐝠",
     "translatedWords": [
         "*800"
@@ -65896,7 +65896,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐛀𐄁\n𐘸𐘙𐘍𐄁𐘝𐄓𐄈𐝆\n𐘍𐄋\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐛀𐄁𐘸𐘙𐘍𐄁𐘝\n𐄓𐄈𐝆𐘍𐄋\n𐝫",
     "translatedWords": [
         "*516",
@@ -65962,7 +65962,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘡𐘻𐝫\n𐝫𐘁𐙉𐄓𐄍\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘡𐘻𐝫𐘁\n𐙉𐄓𐄍\n𐝫",
     "translatedWords": [
         "E-MI",
@@ -66010,7 +66010,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘡𐝫\n𐝫𐘢𐝫𐄁𐝫𐘈𐝫𐝫𐄋\n𐘱𐘄𐘱𐝫𐝫𐄉𐝫\n𐘇𐘠𐘘𐄊\n𐘱𐘂𐄇𐝫\n𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊\n𐘛𐘯𐙁𐘙𐄐𐄉\n𐘤𐘢𐘸𐄋\n𐘡𐙃𐄔\n𐘾𐘆𐄉",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘡𐝫\n𐘢𐝫𐄁𐝫𐘈𐝫𐄋𐘱𐘄𐘱\n𐝫𐄉𐝫𐘇𐘠𐘘𐄊𐘱\n𐘂𐄇𐝫𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊𐘛\n𐘯𐙁𐘙𐄐𐄉𐘤𐘢\n𐘸𐄋𐘡𐙃𐄔\n𐘾𐘆𐄉",
     "translatedWords": [
         "𐝫",
@@ -66151,7 +66151,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙍𐄙𐄊𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙍𐄙𐄊𐝫",
     "translatedWords": [
         "𐝫",
@@ -66190,7 +66190,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘐𐙈𐄁𐙍𐘲\n𐘸𐘝𐙁𐄍\n𐘵𐘳𐘝𐘍𐘈𐄌\n𐘞𐘻𐘀𐘡𐝫\n𐝫\n𐝫\n𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘐𐙈𐄁𐙍𐘲𐘸𐘝\n𐙁𐄍𐘵𐘳𐘝𐘍\n𐘈𐄌𐘞𐘻𐘀𐘡\n𐝫",
     "translatedWords": [
         "*21F-*118",
@@ -66274,7 +66274,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆\n𐙁𐘾𐘚𐘳𐄉",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘛𐘯𐙁𐘙𐄑\n𐘤𐘢𐘸𐄇𐝆𐙁𐘾\n𐘚𐘳𐄉",
     "translatedWords": [
         "*28B-NU-MA-RE",
@@ -66328,7 +66328,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙙𐘮𐘅𐙑𐄐𐄏\n𐘟𐘶𐘃𐘻𐝫\n𐝫𐄙𐄗\n𐘚𐘈𐝫\n𐝫𐙋𐄐𐄋\n𐝫𐙋𐄐\n𐘚𐝫\n𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫\n𐝫𐙋𐝫\n𐝫𐄑𐄋\n𐙘𐝫\n𐝫𐄑\n𐘚𐘈𐝫𐄁",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐙙𐘮𐘅𐙑𐄐𐄏𐘟𐘶\n𐘃𐘻𐝫𐄙𐄗\n𐘚𐘈𐝫𐙋\n𐄐𐄋𐝫𐙋𐄐\n𐘚𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫𐙋𐝫\n𐝫𐄑𐄋𐙘𐝫\n𐝫𐄑𐘚𐘈\n𐝫𐄁",
     "translatedWords": [
         "*305-WA-NA",
@@ -66460,7 +66460,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓\n𐜁𐄐\n𐙢𐘷𐛭𐄓𐝫\n𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘚𐙂𐘶𐘠𐘛𐛭𐄔𐝃\n𐛿𐄓𐜁𐄐𐙢𐘷\n𐛭𐄓𐝫𐄑\n—\n𐘂𐘍𐝫\n𐝫𐘚𐙁𐝫",
     "translatedWords": [
         "I-KU-JU-TI-*28B",
@@ -66553,7 +66553,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘉𐘶𐄋\n𐘇𐘴𐘹𐄊\n𐘇𐘙𐘹𐘻𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘉𐘶𐄋𐘇\n𐘴𐘹𐄊𐘇𐘙𐘹\n𐘻𐝫\n𐝫",
     "translatedWords": [
         "U-JU",
@@ -66607,7 +66607,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘇𐙁𐝫\n𐝫𐝄𐝉𐝫",
     "translatedWords": [
         "A-MA",
@@ -66650,7 +66650,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘸𐘴𐄁\n𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝂𐝂\n𐘇𐘭𐘝𐘳𐄇𐝫𐝁𐝁\n𐘳𐘚𐘯𐙁𐘂𐝆\n𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝁𐝁",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘸𐘴𐄁𐘇𐘳𐘙𐄁𐘝𐝆\n𐙂𐘹𐘺𐘙𐝓𐘇𐘭\n𐘝𐘳𐄇𐝫𐝁𐝁𐘳𐘚𐘯𐙁\n𐘂𐝆𐙁𐘾𐘚𐘈𐄈𐝃𐝆\n𐘀𐘚𐘢𐘳𐄈𐝆\n𐘾𐘚𐘁𐄊𐝒",
     "translatedWords": [
         "\"balance\"",
@@ -66764,7 +66764,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘯𐘠𐄁\n𐘍𐝫\n𐝫𐘴𐚽𐄋\n𐝫\n𐝫𐘁𐘤𐘴𐝫𐚽𐄊\n𐘇𐘳𐘅𐝫𐄁𐝫𐚽𐄈\n𐝫𐄁𐝫𐙁𐘶𐘓𐄈\n𐘣𐘴𐘙𐘻𐘃𐘓𐄇",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫𐘯𐘠𐄁𐘍𐝫\n𐝫𐝢𐚽𐄋𐝫\n𐝫𐘁𐘤𐝢\n𐝫𐚽𐄊𐘇𐘳𐘅𐝫𐄁𐝫\n𐚽𐄈𐝫𐄁𐝫𐙁𐘶𐘐𐄈\n𐘣𐝢𐘙𐘻𐘃𐘐𐄇",
     "translatedWords": [
         "NU-TI",
@@ -66878,7 +66878,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘳𐘅𐘃𐄈\n𐘂𐝫𐄇\n𐘇𐙂𐘻𐘅𐄇\n𐘇𐘳𐘅𐘃𐄇\n𐘇𐘻𐘀𐘉𐄇\n𐘇𐘬𐙂𐘻𐘅𐄇\n𐘀𐘚𐘢𐘳𐄇\n𐘬𐘙𐘍𐘈𐄈",
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘳𐘅𐘃𐄈𐘂𐝫𐄇𐘇𐙂\n𐘻𐘅𐄇𐘇𐘳𐘅𐝠𐄇\n𐘇𐘻𐘀𐘉𐄇𐘇𐘬\n𐙂𐘻𐘅𐄇𐘀𐘚𐘢\n𐘳𐄇𐘬𐘙𐘍𐘈𐄈",
     "translatedWords": [
         "TA-NA-TE",
@@ -66974,7 +66974,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘮𐚖𐄈\n𐘬𐘙𐘍𐘈𐙎𐄋\n𐘉𐘪𐄌\n𐙁𐘍𐄋\n𐙁𐘸𐘦𐘃𐄋\n𐘞𐙁𐄋\n𐘇𐘦𐄊\n𐘇𐘻𐘳𐄉\n𐘽𐘁𐘙𐄈\n𐘂𐘱𐘙𐄇\n𐘾𐙂𐘗𐘃𐝆\n𐘳𐄈\n𐘬𐄇𐝫",
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘮𐚖𐄈𐘬𐘙𐘍𐘈\n𐙎𐄋𐘉𐘪𐄌𐙁𐘍\n𐄋𐙁𐘸𐘦𐝠𐄋𐘞\n𐙁𐄋𐘇𐘦𐄊𐘇𐘻\n𐘳𐄉𐘽𐘁𐘙𐄈𐘂𐘱𐘙\n𐄇𐘾𐙂𐘗𐘃𐝆𐘳\n𐄈𐘬𐄇𐝫",
     "translatedWords": [
         "WA-*362",
@@ -67118,7 +67118,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁\n𐛭𐝫\n𐝫𐘴𐙁𐘤𐙍𐝆𐝫\n𐝫𐘡𐙂𐘘𐄈𐝃\n𐘶𐝈𐝉\n𐙍𐝆\n𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫\n𐘢𐙠𐘇𐝫\n𐝫𐙋𐄈\n𐝫",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘆𐘆𐘺𐘴𐘋𐝫𐘷𐄁𐛀𐄁𐛭𐝫\n𐝫𐘴𐙁𐘤\n𐙍𐝆𐝫𐝫𐘡𐙂𐘘𐄈\n𐝃𐘶𐝈𐝉𐙍𐝆𐛟𐄊\n𐙂𐘂𐄁𐛭𐄇𐝫𐘢𐙠𐘇\n𐝫𐙋𐄈\n𐝫",
     "translatedWords": [
         "DI-DI-KO-RA-ME-TA₂",
@@ -67250,7 +67250,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘡𐘄𐘭𐛀𐄁\n𐘞𐙕𐘭𐄁𐛭𐄇𐝫\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈\n𐙂𐘂𐄁𐛭𐄉\n𐝫",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘡𐘄𐘭𐛀𐄁𐘞𐙕𐘭𐄁𐛭𐄇\n𐘚𐙋𐄇𐝫\n𐝫𐘚𐘦𐝫\n𐝫𐘴𐄈𐙂𐘂𐄁𐛭𐄉\n𐝫",
     "translatedWords": [
         "E-TO-RI",
@@ -67346,7 +67346,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐘂𐝫𐄕𐄊𐝫\n𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐘂𐝫𐄕𐄊𐝫𐘠𐄐𐄉𐝫\n𐘘𐄑𐄎\n𐄌",
     "translatedWords": [
         "𐝫",
@@ -67409,7 +67409,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘹𐝫𐄌𐝫\n𐘂𐝫𐄓𐝫\n𐘠𐄐𐄉\n𐘘𐄑𐄌",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘹𐝫𐄌𐝫𐘂𐝫𐄓𐝫\n𐘠𐄐𐄉𐘘𐄑𐄌",
     "translatedWords": [
         "𐝫",
@@ -67475,7 +67475,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫",
     "scribe": "ZA Scribe 3",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘲𐘂𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -67517,7 +67517,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘋𐘸𐘆𐄇\n𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉\n𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇\n𐘹𐘻𐘠𐘍𐘈𐄓𐄋𐝫\n𐘂𐘯𐘿𐄈\n𐘱𐘣𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘋𐘸𐘆𐄇𐘐𐙈𐄇\n𐘫𐘝𐘾𐚗𐄉𐘌𐘠𐘶𐄎\n𐙂𐘢𐄇𐘹𐘻𐘠𐘍𐘈\n𐄓𐄋𐝫𐘂𐘯𐘿𐄈𐘱𐘣𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "ME-KI-DI",
@@ -67622,7 +67622,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐\n𐘋𐙍\n𐘻𐘍𐘈𐄉\n𐘛𐘯𐙁𐘙𐄌\n𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋\n𐘞𐘻𐘀𐘡𐄊\n𐚗𐘥𐙁𐘈𐄋",
     "scribe": "ZA Scribe 5",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘨𐙂𐘅𐘞𐙍\n𐘿𐘤𐙀𐘡𐄔𐄍\n𐘚𐘠𐘝𐘞𐄐𐘋𐙍\n𐘻𐘍𐘈𐄉𐘛𐘯𐙁\n𐘙𐄌𐘤𐘢𐘸𐄈𐝆\n𐘱𐘞𐘕𐄋𐘞𐘻𐘀\n𐘡𐄊𐚗𐘥𐙁𐘈𐄋",
     "translatedWords": [
         "*47-KU-NA",
@@ -67736,7 +67736,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍",
     "scribe": "ZA Scribe 5",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘾𐘆𐄁𐙍𐄉\n—\n𐙂𐘁𐄁𐙍𐄖𐄎\n𐛿𐄐𐄍",
     "translatedWords": [
         "KA-DI",
@@ -67805,7 +67805,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫\n𐝫𐘲𐄊𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘤𐝫\n𐝫\n𐝫𐘂𐄌𐝫𐘲𐄊𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -67871,7 +67871,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -67913,7 +67913,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘀𐘙𐙂𐝫𐝫𐄁\n𐙂𐙭𐄁𐛭𐄈𐝂𐝂\n𐙉𐝫𐄈𐝂𐝂\n𐜓𐝁𐝁\n𐙋𐝃\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘀𐘙𐙂𐝫𐄁𐙂𐙭𐄁𐛭𐄈𐝓\n𐙉𐝫𐄈𐝓𐜓𐝒𐙋𐝃\n𐝫",
     "translatedWords": [
         "DA-RE-KU",
@@ -68000,7 +68000,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐄈𐝕𐝉𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐄈𐝆𐝃𐝉𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -68045,7 +68045,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘴𐘃𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘴𐘃𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -68087,7 +68087,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘬𐘙𐘍𐘈𐝫𐝫𐘻𐝫\n𐝫𐄁𐄊\n𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌\n𐘃𐙌𐄐𐄈\n𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫",
     "scribe": "ZA Scribe 3",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘬𐘙𐘍\n𐘈𐝫𐘻𐝫𐄁𐝫𐄊𐘤𐘃𐘹𐄇\n𐘤𐘹𐄌𐘃𐙌𐄐𐄈𐘘𐙁𐘳𐘈𐄉\n𐙂𐘴𐄙𐄒\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -68186,7 +68186,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁\n𐝫𐘃𐄈\n𐘳𐘥𐝫\n𐝫\n𐝫𐘂𐝫𐄋\n𐘳𐙁𐘢𐝫\n𐝫𐄉\n𐘇𐝫\n𐝫𐙈𐘻𐝫𐝫𐄈",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫𐘋𐝫\n𐝫𐘢𐘕𐄓𐝫\n𐝫\n𐝫𐙁𐝫𐘃𐄈𐘳𐘥\n𐝫\n𐝫𐘂𐝫𐄋𐘳𐙁𐘢𐝫\n𐝫𐄉𐘇𐝫𐝫𐙈𐘻𐝫𐄈",
     "translatedWords": [
         "ME",
@@ -68294,7 +68294,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈\n𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘚𐘀𐝫\n𐝫𐘸𐝫\n𐝫𐄈𐘞𐘭𐝫\n𐝫\n𐝫\n𐘋",
     "translatedWords": [
         "Mt Ida",
@@ -68360,7 +68360,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘓𐝫\n𐘔𐄇𐝫\n𐝫𐄇\n𐘴𐝫𐄁𐝫𐘓𐄇𐝫\n𐝫𐄌\n𐘬𐘶𐝫\n𐘓𐄙𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘐𐝫\n𐘑𐄇𐝫\n𐝫𐄇𐘴𐝫𐄁𐝫𐘐𐄇𐝫\n𐝫𐄌𐘬𐘶𐝫\n𐘐𐄙𐝫",
     "translatedWords": [
         "𐝫",
@@ -68450,7 +68450,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n—\n𐝫𐘃𐘃𐝫\n𐝫𐘻𐘙𐝫",
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n—\n𐝫𐘃𐘃𐝫\n𐝫𐘻𐘙𐝫",
     "translatedWords": [
         "𐝫",
@@ -68498,7 +68498,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘚𐘀𐙉𐝫\n𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘚𐘀𐙉𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "Mt Ida",
@@ -68543,7 +68543,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘳𐝫\n𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫𐘳𐝫\n𐝫",
     "translatedWords": [
         "TA",
@@ -68579,7 +68579,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -68615,7 +68615,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘓𐄐𐄉\n𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘐𐄐𐄉𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
     "translatedWords": [
         "SI-TE",
@@ -68678,7 +68678,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘓𐄍\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫𐘐𐄍\n𐝫",
     "translatedWords": [
         "she-goat",
@@ -68717,7 +68717,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐘆𐘸𐄈\n𐘵𐘻𐝫",
     "scribe": "ZA Scribe 3",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐘆𐘸𐄈𐘵𐘻𐝫",
     "translatedWords": [
         "𐝫",
@@ -68768,7 +68768,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐛭𐄇𐝫\n𐝫",
     "scribe": "ZA Scribe 2",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐛭𐄇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -68813,7 +68813,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐙁𐄙𐝫\n𐝫𐘃𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐙁𐄙𐝫\n𐝫𐘃𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -68864,7 +68864,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫\n𐝫𐄍𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫\n𐝫𐄍𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -68912,7 +68912,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘬𐄈𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘬𐄈𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -68957,7 +68957,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐘱𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐘱𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -68999,7 +68999,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫\n𐝫𐄑𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Tablet",
     "transcription": "𐝫\n𐝫𐄑𐄇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
@@ -69163,7 +69163,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐙍𐄒𐄈\n𐘆𐘆𐘾𐘈𐘇𐘞𐘕𐘗𐘇𐘈\n𐘇𐘳𐘚𐙕𐘦𐘾𐄁𐘇𐘙𐘢𐘙𐘅𐄁𐘠𐘠𐙂",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Clay vessel",
     "transcription": "𐙍𐄒𐄈𐘆𐘆𐘾𐘈𐄁𐘇𐘞𐘕𐘗𐄁𐘇𐘈\n𐘇𐘳𐘚𐙕𐘦𐘾𐄁𐘇𐘙𐘢𐘙𐘅𐄁𐘠𐘠𐙂",
     "translatedWords": [
         "wine",
@@ -69226,7 +69226,7 @@ var inscriptions = new Map([
     "parsedInscription": "𐝫𐘜𐘙𐘱𐄁𐘺𐘕𐄁𐘘𐘆𐝫",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Clay vessel",
     "transcription": "𐝫𐘜𐘙𐘱𐄁𐘺𐘕𐄁𐘘𐘆𐝫",
     "translatedWords": [
         "PU₂-RE-JA",
@@ -71140,7 +71140,7 @@ var inscriptions = new Map([
     "parsedInscription": "",
     "scribe": "",
     "site": "Zakros",
-    "support": "Stone vessel",
+    "support": "Clay vessel",
     "transcription": "",
     "translatedWords": [],
     "transliteratedWords": [],
