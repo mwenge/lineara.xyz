@@ -1,3 +1,11 @@
+/*
+ * The author disclaims copyright to this source code. In place of a legal notice, here is a blessing:
+ *
+ *     May you do good and not evil.
+ *     May you find forgiveness for yourself and forgive others.
+ *     May you share freely, never taking more than you give.
+ *
+ */
 var identicalWords = new Map([
 ["MA-DI", ['KN As(1) 603', 'KN Db 1168']],
 ["PA-RE", ['KN Dl(1) 8177', 'KN Sc 247']],

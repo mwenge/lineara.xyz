@@ -1,3 +1,11 @@
+/*
+ * The author disclaims copyright to this source code. In place of a legal notice, here is a blessing:
+ *
+ *     May you do good and not evil.
+ *     May you find forgiveness for yourself and forgive others.
+ *     May you share freely, never taking more than you give.
+ *
+ */
 var inscriptionCoordinates = [
 {"areas":[{"coords":{"x":0,"y":74,"width":31,"height":76}},{"coords":{"x":24,"y":75,"width":46,"height":77}},{"coords":{"x":83,"y":81,"width":57,"height":89}},{"coords":{"x":145,"y":77,"width":53,"height":83}}],"img":"images/HT61-Inscription.jpg"},
 {"areas":[{"coords":{"x":1,"y":10,"width":70,"height":65}}],"img":"images/WA1470-Facsimile.jpg"},
