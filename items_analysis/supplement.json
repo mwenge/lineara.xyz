@@ -999,13 +999,13 @@
     "dimensions": "",
     "dimensionsRaw": "",
     "name": "HT42+59",
-    "tabulatedWords": ["𐘳", "𐄁", "𐛉", "𐄁", "𐘃", "𐄁", "𐜓", "𐄎", "𐜋", "𐄍", "𐘞𐘁", "𐜓", "𐄎", "𐜋", "𐄈", "𐄈", "𐙂", "𐙖", "𐜗", "𐄈", "𐘲𐘬", "𐘙𐘃", "𐜓", "𐝕", "𐜋"],
+    "tabulatedWords": ["𐘳", "𐄁", "𐛉", "𐄁", "𐘃", "𐄁", "𐜓", "𐄎", "𐜋", "𐄍", "𐘞𐘁", "𐜓", "𐄎", "𐜋", "𐄈", "𐄈", "𐙂", "𐙖", "𐜗", "𐄈", "𐘲𐘬", "𐘙𐘹", "𐜓", "𐝕", "𐜋"],
     "tabulation": [
       [["𐘳", "certain", 0], ["𐄁", "certain", 1], ["𐛉", "certain", 2], ["𐄁", "certain", 3], ["𐘃", "certain", 4], ["𐄁", "certain", 5], ["𐜓", "certain", 6], ["𐄎", "certain", 7], ["𐜋", "certain", 8]],
       [["𐄍", "certain", 9], ["𐘞", "certain", 10], ["𐘁", "certain", 10], ["𐜓", "certain", 11], ["𐄎", "certain", 12], ["𐜋", "certain", 13], ["𐄈", "certain", 14]],
       [["𐄈", "certain", 15], ["𐙂", "doubtful", 16], ["𐙖", "doubtful", 17]],
       [["𐜗", "certain", 18], ["𐄈", "doubtful", 19], ["𐘲", "certain", 20], ["𐘬", "certain", 20]],
-      [["𐘙", "certain", 21], ["𐘃", "certain", 21], ["𐜓", "certain", 22]],
+      [["𐘙", "certain", 21], ["𐘹", "certain", 21], ["𐜓", "certain", 22]],
       [["𐝕", "certain", 23], ["𐜋", "certain", 24]]
     ]
   },
