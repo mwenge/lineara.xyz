@@ -15280,18 +15280,19 @@ var inscriptions = new Map([
     "names": [
         "HT127a"
     ],
-    "parsedInscription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
+    "parsedInscription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝 𐘀𐘨𐙂𐄇",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝𐘀𐘨𐙂𐄇",
+    "transcription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝 𐘀𐘨𐙂𐄇",
     "translatedWords": [
         "𐝫",
         "\n",
         "DU-NE-MI",
         "1",
         "\n",
-        "*304+PA-DA-*47-KU",
+        "*304+PA",
+        "DA-*47-KU",
         "1"
     ],
     "transliteratedWords": [
@@ -15300,7 +15301,8 @@ var inscriptions = new Map([
         "DU-NE-MI",
         "1",
         "\n",
-        "*304+PA-DA-*47-KU",
+        "*304+PA",
+        "DA-*47-KU",
         "1"
     ],
     "words": [
@@ -15309,7 +15311,8 @@ var inscriptions = new Map([
         "𐝫𐘬𐘗𐘻",
         "𐄇𐝫",
         "\n",
-        "𐝫𐜝𐘀𐘨𐙂",
+        "𐝫𐜝",
+        "𐘀𐘨𐙂",
         "𐄇"
     ]
 }],
@@ -18186,27 +18189,30 @@ var inscriptions = new Map([
     "names": [
         "HTWa1020"
     ],
-    "parsedInscription": "𐜝𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
+    "parsedInscription": "𐜝 𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Nodule",
-    "transcription": "𐜝𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
+    "transcription": "𐜝 𐙂𐘂\n𐝃\n𐘧𐘳𐘅",
     "translatedWords": [
-        "*304+PA-KU-PA",
+        "*304+PA",
+        "KU-PA",
         "\n",
         "¹⁄₄",
         "\n",
         "JE-TA-NA"
     ],
     "transliteratedWords": [
-        "*304+PA-KU-PA",
+        "*304+PA",
+        "KU-PA",
         "\n",
         "¹⁄₄",
         "\n",
         "JE-TA-NA"
     ],
     "words": [
-        "𐜝𐙂𐘂",
+        "𐜝",
+        "𐙂𐘂",
         "\n",
         "𐝃",
         "\n",
@@ -18273,21 +18279,24 @@ var inscriptions = new Map([
     "names": [
         "HTWa1021bis"
     ],
-    "parsedInscription": "𐜝𐜙𐄉",
+    "parsedInscription": "𐜝 𐜙𐄉",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Nodule",
-    "transcription": "𐜝𐝧𐄉",
+    "transcription": "𐜝 𐝧𐄉",
     "translatedWords": [
-        "*304+PA-CYP+D",
+        "*304+PA",
+        "CYP+D",
         "3"
     ],
     "transliteratedWords": [
-        "*304+PA-CYP+D",
+        "*304+PA",
+        "CYP+D",
         "3"
     ],
     "words": [
-        "𐜝𐜙",
+        "𐜝",
+        "𐜙",
         "𐄉"
     ]
 }],
@@ -43969,22 +43978,25 @@ var inscriptions = new Map([
     "names": [
         "HTWc3016"
     ],
-    "parsedInscription": "𐘾𐙂𐘂𐜝𐜙",
+    "parsedInscription": "𐘾𐙂𐘂𐜝 𐜙",
     "scribe": "HT Wc Scribe 11",
     "site": "Haghia Triada",
     "support": "Roundel",
-    "transcription": "𐘾𐙂𐘂𐜝𐜙",
+    "transcription": "𐘾𐙂𐘂𐜝 𐜙",
     "translatedWords": [
         "KA-KU-PA",
-        "*304+PA-CYP+D"
+        "*304+PA",
+        "CYP+D"
     ],
     "transliteratedWords": [
         "KA-KU-PA",
-        "*304+PA-CYP+D"
+        "*304+PA",
+        "CYP+D"
     ],
     "words": [
         "𐘾𐙂𐘂",
-        "𐜝𐜙"
+        "𐜝",
+        "𐜙"
     ]
 }],
 ["HTWc3017",{
@@ -44002,31 +44014,34 @@ var inscriptions = new Map([
     "names": [
         "HTWc3017"
     ],
-    "parsedInscription": "𐘌𐙂𐘙𐄁𐘆𐙚𐄁𐜙𐜝",
+    "parsedInscription": "𐘌𐙂𐘙𐄁𐘆𐙚𐄁𐜙 𐜝",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Roundel",
-    "transcription": "𐘌𐙂𐘙𐄁𐘆𐙗𐝂𐜝𐜝",
+    "transcription": "𐘌𐙂𐘙𐄁𐘆𐙗𐝂 𐜝",
     "translatedWords": [
         "QA-KU-RE",
         "𐄁",
         "DI-*306",
         "𐄁",
-        "CYP+D-*304+PA"
+        "CYP+D",
+        "*304+PA"
     ],
     "transliteratedWords": [
         "QA-KU-RE",
         "𐄁",
         "DI-*306",
         "𐄁",
-        "CYP+D-*304+PA"
+        "CYP+D",
+        "*304+PA"
     ],
     "words": [
         "𐘌𐙂𐘙",
         "𐄁",
         "𐘆𐙚",
         "𐄁",
-        "𐜙𐜝"
+        "𐜙",
+        "𐜝"
     ]
 }],
 ["HTWc<3018>",{
@@ -44292,22 +44307,25 @@ var inscriptions = new Map([
     "names": [
         "HTWeWc3020"
     ],
-    "parsedInscription": "𐙓𐘬𐜝𐜙",
+    "parsedInscription": "𐙓𐘬𐜝 𐜙",
     "scribe": "HT Wc Scribe 11",
     "site": "Haghia Triada",
     "support": "Roundel",
-    "transcription": "𐙓𐘬𐜝𐜙",
+    "transcription": "𐙓𐘬𐜝 𐜙",
     "translatedWords": [
         "*188-DU",
-        "*304+PA-CYP+D"
+        "*304+PA",
+        "CYP+D"
     ],
     "transliteratedWords": [
         "*188-DU",
-        "*304+PA-CYP+D"
+        "*304+PA",
+        "CYP+D"
     ],
     "words": [
         "𐙓𐘬",
-        "𐜝𐜙"
+        "𐜝",
+        "𐜙"
     ]
 }],
 ["HTZb158a",{
@@ -76358,6 +76376,7 @@ var wordsInCorpus = new Map([
 ["𐙘", 25],
 ["𐙋", 24],
 ["𐝁", 24],
+["𐜙", 23],
 ["𐜋", 22],
 ["𐙖", 22],
 ["𐝂", 22],
@@ -76366,7 +76385,6 @@ var wordsInCorpus = new Map([
 ["𐘞𐘽", 20],
 ["𐜗", 19],
 ["𐛭", 19],
-["𐜙", 19],
 ["𐄐𐄋", 18],
 ["𐘸", 18],
 ["𐘵", 17],
@@ -76409,6 +76427,7 @@ var wordsInCorpus = new Map([
 ["𐛀", 9],
 ["𐙒", 9],
 ["≈", 9],
+["𐜝", 9],
 ["𐙂𐘰𐘯", 8],
 ["𐘘", 8],
 ["𐄐𐄌", 8],
@@ -76463,6 +76482,7 @@ var wordsInCorpus = new Map([
 ["𐝇𐝉", 5],
 ["𐚩", 5],
 ["𐘚𐘀", 5],
+["𐙂𐘂", 5],
 ["𐜎", 4],
 ["𐘸𐘙𐘳𐘅", 4],
 ["𐘞𐙁", 4],
@@ -76495,7 +76515,6 @@ var wordsInCorpus = new Map([
 ["𐄕𐄈", 4],
 ["𐛪", 4],
 ["𐄒𐄉", 4],
-["𐙂𐘂", 4],
 ["𐘐", 4],
 ["𐝆𐝁", 4],
 ["𐘉𐘅𐘾𐘅𐘤", 4],
@@ -76552,14 +76571,12 @@ var wordsInCorpus = new Map([
 ["𐘌𐘌𐘘", 3],
 ["𐘂𐘈𐘱", 3],
 ["𐘂𐘳𐘗", 3],
-["𐜝", 3],
 ["𐄙𐄕", 3],
 ["𐙓𐘬", 3],
 ["𐘽", 3],
 ["𐛵", 3],
 ["𐄖𐄈", 3],
 ["𐘇𐘭", 3],
-["𐜝𐜙", 3],
 ["𐘋", 3],
 ["𐘧", 3],
 ["𐝕𐝉", 3],
@@ -77114,7 +77131,6 @@ var wordsInCorpus = new Map([
 ["𐘇𐘅", 1],
 ["𐘤𐘆𐘱", 1],
 ["𐘬𐘗𐘻", 1],
-["𐜝𐘀𐘨𐙂", 1],
 ["𐄙𐄔𐄌", 1],
 ["𐛫", 1],
 ["𐄚𐄘𐄈", 1],
@@ -77142,7 +77158,6 @@ var wordsInCorpus = new Map([
 ["𐘭𐘾𐘳", 1],
 ["𐘹𐘋𐘂𐘱", 1],
 ["𐘯𐘃", 1],
-["𐜝𐙂𐘂", 1],
 ["𐘧𐘳𐘅", 1],
 ["𐛉𐛔", 1],
 ["𐝆𐙕", 1],
@@ -77162,7 +77177,6 @@ var wordsInCorpus = new Map([
 ["𐘙𐘁", 1],
 ["𐘌𐙂𐘙", 1],
 ["𐘆𐙚", 1],
-["𐜙𐜝", 1],
 ["𐘇𐘴𐘹𐘋", 1],
 ["𐘹𐘈𐘲𐘸", 1],
 ["𐘲𐘸𐘭𐘃𐘚𐘱", 1],
@@ -77747,6 +77761,7 @@ var wordsInCorpus = new Map([
 ["𐘈𐝕", 1],
 ["𐘚𐘞𐘭𐘥", 1],
 ["𐘜𐘙", 1],
+["𐘀𐘨𐙂", 1],
 ]);
 var ligatures = new Map([
 ["𐚳", ['𐘀', '𐘁']],
