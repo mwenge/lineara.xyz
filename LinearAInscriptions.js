@@ -1132,7 +1132,7 @@ var inscriptions = new Map([
         "PA₃",
         "𐄁",
         "\n",
-        "WA-JA-PI",
+        "WA-JA-PI-[?]",
         "\n",
         "—",
         "\n",
@@ -1167,7 +1167,7 @@ var inscriptions = new Map([
         "PA₃",
         "𐄁",
         "\n",
-        "WA-JA-PI",
+        "WA-JA-PI-[?]",
         "\n",
         "—",
         "\n",
@@ -13270,11 +13270,11 @@ var inscriptions = new Map([
     "names": [
         "HT115b"
     ],
-    "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
+    "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇𐜞𐄇𐙂𐘳𐝫",
+    "transcription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐝫𐄇𐜞𐄇𐙂𐘳𐝫",
     "translatedWords": [
         "RU",
         "𐄁",
@@ -13299,7 +13299,7 @@ var inscriptions = new Map([
         "*306-TU-JA",
         "1",
         "\n",
-        "A-I",
+        "A-I-[?]-[?]",
         "1",
         "\n",
         "*306+MI",
@@ -13331,7 +13331,7 @@ var inscriptions = new Map([
         "*306-TU-JA",
         "1",
         "\n",
-        "A-I",
+        "A-I-[?]-[?]",
         "1",
         "\n",
         "*306+MI",
@@ -13363,7 +13363,7 @@ var inscriptions = new Map([
         "𐙚𐘹𐘱",
         "𐄇",
         "\n",
-        "𐘇𐘚𐝫",
+        "𐘇𐘚𐝫𐝫",
         "𐄇",
         "\n",
         "𐜞",
@@ -57340,7 +57340,7 @@ var inscriptions = new Map([
         "NI-JA-NU",
         "𐄁",
         "\n",
-        "JU-KU-NA-PA-KU-NU-U-I-ZU",
+        "JU-KU-NA-PA-KU-NU-U-[?]-I-ZU",
         "𐄁"
     ],
     "transliteratedWords": [
@@ -57351,7 +57351,7 @@ var inscriptions = new Map([
         "NI-JA-NU",
         "𐄁",
         "\n",
-        "JU-KU-NA-PA-KU-NU-U-I-ZU",
+        "JU-KU-NA-PA-KU-NU-U-[?]-I-ZU",
         "𐄁"
     ],
     "words": [
@@ -58304,27 +58304,27 @@ var inscriptions = new Map([
     "names": [
         "MA4b"
     ],
-    "parsedInscription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄒𐄍\n𐄙𐄕",
+    "parsedInscription": "𐘇𐝫𐝫𐝫𐘱𐙒𐄙𐄒𐄍\n𐄙𐄕",
     "scribe": "",
     "site": "Malia",
     "support": "Tablet",
-    "transcription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄒𐄍𐄙𐄕",
+    "transcription": "𐘇𐝫𐝫𐝫𐘱𐙒𐄙𐄒𐄍𐄙𐄕",
     "translatedWords": [
-        "[[A-JA]]",
+        "[[A-[?]-[?]-[?]-JA]]",
         "[[hide?]]",
         "[[137]]",
         "\n",
         "[[160]]"
     ],
     "transliteratedWords": [
-        "[[A-JA]]",
+        "[[A-[?]-[?]-[?]-JA]]",
         "[[HIDE+[?]]]",
         "[[137]]",
         "\n",
         "[[160]]"
     ],
     "words": [
-        "𐘇𐝫𐝫𐘱",
+        "𐘇𐝫𐝫𐝫𐘱",
         "𐙒",
         "𐄙𐄒𐄍",
         "\n",
@@ -63120,11 +63120,11 @@ var inscriptions = new Map([
     "names": [
         "PKZa12"
     ],
-    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤𐄁\n𐘇𐘂𐘬𐘂𐝫𐘱𐝫𐘱𐘂𐘌",
+    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐘱𐘤𐄁\n𐘇𐘂𐘬𐘂𐝫𐘱𐝫𐘱𐘂𐘌",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Stone vessel",
-    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤\n𐄁𐘇𐘂𐘬𐘂𐝫𐝫𐘱𐝫𐝫𐘱𐘂𐘌",
+    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐘱𐘤\n𐄁𐘇𐘂𐘬𐘂𐝫𐝫𐘱𐝫𐝫𐘱𐘂𐘌",
     "translatedWords": [
         "gives",
         "𐄁",
@@ -63133,9 +63133,9 @@ var inscriptions = new Map([
         "SI",
         "RA-ME",
         "\n",
-        "A-NE",
+        "A-[ ]-NE",
         "𐄁",
-        "U-NA-RU-KA-JA-SI",
+        "U-NA-RU-KA-[?]-JA-SI",
         "𐄁",
         "\n",
         "A-PA-DU-PA",
@@ -63150,9 +63150,9 @@ var inscriptions = new Map([
         "SI",
         "RA-ME",
         "\n",
-        "A-NE",
+        "A-[ ]-NE",
         "𐄁",
-        "U-NA-RU-KA-JA-SI",
+        "U-NA-RU-KA-[?]-JA-SI",
         "𐄁",
         "\n",
         "A-PA-DU-PA",
@@ -63169,7 +63169,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐘇𐝫𐝫𐘗",
         "𐄁",
-        "𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤",
+        "𐘉𐘅𐘘𐘾𐝫𐘱𐘤",
         "𐄁",
         "\n",
         "𐘇𐘂𐘬𐘂𐝫𐝫",
@@ -63764,14 +63764,14 @@ var inscriptions = new Map([
     "support": "Stone vessel",
     "transcription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐘴𐘋",
     "translatedWords": [
-        "TA-NA-SU-TE-KE",
+        "TA-NA-SU-TE-[ ]-KE",
         "\n",
         "Archanes? Ioukhtas?",
         "\n",
         "A-SA-SA-RA-ME"
     ],
     "transliteratedWords": [
-        "TA-NA-SU-TE-KE",
+        "TA-NA-SU-TE-[ ]-KE",
         "\n",
         "SE-TO-I-JA",
         "\n",
@@ -65170,28 +65170,28 @@ var inscriptions = new Map([
     "names": [
         "THEZb13"
     ],
-    "parsedInscription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃",
+    "parsedInscription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐝫𐘃",
     "scribe": "",
     "site": "Thera",
     "support": "Clay vessel",
-    "transcription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃",
+    "transcription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐝫𐘃",
     "translatedWords": [
         "sheep",
         "wine",
         "120",
-        "KA-A-SI-TE"
+        "KA-A-SI-[[[?]-[?]-TE]]"
     ],
     "transliteratedWords": [
         "QI",
         "VIN+TE",
         "120",
-        "KA-A-SI-TE"
+        "KA-A-SI-[[[?]-[?]-TE]]"
     ],
     "words": [
         "𐘏",
         "𐛻",
         "𐄙𐄑",
-        "𐘾𐘇𐘤𐝫𐘃"
+        "𐘾𐘇𐘤𐝫𐝫𐘃"
     ]
 }],
 ["TIZb1",{
@@ -65417,19 +65417,19 @@ var inscriptions = new Map([
     "names": [
         "TY2"
     ],
-    "parsedInscription": "𐙞𐝫𐘟𐘫𐘢𐄝\n𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔\n𐙝𐘀𐘫𐝫𐄐\n𐘂𐘀𐘘𐙝𐘶𐘸𐄙\n𐙝𐘭𐘶𐝫\n𐙝𐝫𐝫𐄌\n𐙇𐄗𐄊\n𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒\n𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔\n𐙞𐝫\n𐝫",
+    "parsedInscription": "𐙞𐝫𐘟𐘫𐘢𐄝\n𐙝𐝫𐄚𐄘\n𐙞𐝫𐘸𐘫𐄔\n𐙝𐘀𐘫𐝫𐄐\n𐘂𐘀𐘘𐙝𐘶𐘸𐄙\n𐙝𐘭𐘶𐝫\n𐙝𐝫𐝫𐄌\n𐙇𐄗𐄊\n𐙟𐘀𐝫𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒\n𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔\n𐙞𐝫\n𐝫",
     "scribe": "",
     "site": "Tylissos",
     "support": "Tablet",
-    "transcription": "𐙞𐝫𐘟𐘫𐘢𐄝𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔𐙝𐘀𐘫𐝫𐄐𐘂\n𐘀𐘘𐙝𐘶𐘸𐄙𐙝𐘭𐘶𐝫𐙝𐝫𐄌𐙇\n𐄗𐄊𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔𐙞𐝫\n𐝫",
+    "transcription": "𐙞𐝫𐘟𐘫𐘢𐄝𐙝𐝫𐄚𐄘\n𐙞𐝫𐘸𐘫𐄔𐙝𐘀𐘫𐝫𐄐𐘂\n𐘀𐘘𐙝𐘶𐘸𐄙𐙝𐘭𐘶𐝫𐙝𐝫𐄌𐙇\n𐄗𐄊𐙟𐘀𐝫𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔𐙞𐝫\n𐝫",
     "translatedWords": [
-        "*309B-*34-PU-PI",
+        "*309B-[?]-*34-PU-PI",
         "500",
         "\n",
         "*309",
         "290",
         "\n",
-        "*309B-KI-PU",
+        "*309B-[?]-KI-PU",
         "50",
         "\n",
         "*309-DA-PU",
@@ -65447,7 +65447,7 @@ var inscriptions = new Map([
         "VIR+[?]",
         "84",
         "\n",
-        "*309C-DA-JU",
+        "*309C-DA-[?]-JU",
         "17",
         "\n",
         "*309C-RU-KA",
@@ -65464,13 +65464,13 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
-        "*309B-*34-PU-PI",
+        "*309B-[?]-*34-PU-PI",
         "500",
         "\n",
         "*309",
         "290",
         "\n",
-        "*309B-KI-PU",
+        "*309B-[?]-KI-PU",
         "50",
         "\n",
         "*309-DA-PU",
@@ -65488,7 +65488,7 @@ var inscriptions = new Map([
         "VIR+[?]",
         "84",
         "\n",
-        "*309C-DA-JU",
+        "*309C-DA-[?]-JU",
         "17",
         "\n",
         "*309C-RU-KA",
@@ -65511,7 +65511,7 @@ var inscriptions = new Map([
         "𐙝𐝫",
         "𐄚𐄘",
         "\n",
-        "𐙞𐘸𐘫",
+        "𐙞𐝫𐘸𐘫",
         "𐄔",
         "\n",
         "𐙝𐘀𐘫𐝫",
@@ -65529,7 +65529,7 @@ var inscriptions = new Map([
         "𐙇",
         "𐄗𐄊",
         "\n",
-        "𐙟𐘀𐘶",
+        "𐙟𐘀𐝫𐘶",
         "𐄐𐄍𐝫",
         "\n",
         "𐙟𐘘𐘾",
@@ -66480,7 +66480,7 @@ var inscriptions = new Map([
         "\n",
         "20",
         "\n",
-        "I-SE"
+        "I-SE-[?]"
     ],
     "transliteratedWords": [
         "*305-WA-NA",
@@ -66516,7 +66516,7 @@ var inscriptions = new Map([
         "\n",
         "20",
         "\n",
-        "I-SE"
+        "I-SE-[?]"
     ],
     "words": [
         "𐙙𐘮𐘅",
@@ -76623,7 +76623,6 @@ var wordsInCorpus = new Map([
 ["𐚨", 4],
 ["𐙎", 4],
 ["𐛵", 4],
-["𐘇𐘱", 4],
 ["𐄓𐄋", 4],
 ["𐘱𐘞", 4],
 ["𐘿𐘽𐘉", 3],
@@ -76697,6 +76696,7 @@ var wordsInCorpus = new Map([
 ["𐙯", 3],
 ["𐘓", 3],
 ["𐘣", 3],
+["𐘇𐘱", 3],
 ["𐄔𐄈", 2],
 ["𐄙𐄋", 2],
 ["𐜊", 2],
@@ -76826,7 +76826,6 @@ var wordsInCorpus = new Map([
 ["𐙄𐘤𐘙", 2],
 ["𐙁𐘾𐘚𐘳", 2],
 ["𐘚𐘢𐘅𐘻𐘅", 2],
-["𐘇𐘗", 2],
 ["𐘱𐘱", 2],
 ["𐙑", 2],
 ["𐙝", 2],
@@ -77407,7 +77406,6 @@ var wordsInCorpus = new Map([
 ["𐙀𐘭𐘝𐙁", 1],
 ["𐘁𐛧", 1],
 ["𐘝𐘱𐘯", 1],
-["𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐘚𐙀", 1],
 ["𐘇𐘾𐘯𐘍𐘠", 1],
 ["𐘬𐘴𐘙", 1],
 ["𐘇𐙀𐘴", 1],
@@ -77570,7 +77568,6 @@ var wordsInCorpus = new Map([
 ["𐘚𐘅𐘱𐘂𐘌", 1],
 ["𐘇𐘆𐘸𐘃", 1],
 ["𐘴𐘋", 1],
-["𐘉𐘅𐘘𐘾𐘱𐘤", 1],
 ["𐘇𐘂𐘬𐘂", 1],
 ["𐘱𐘂𐘌", 1],
 ["𐘱𐘞𐘞", 1],
@@ -77587,7 +77584,6 @@ var wordsInCorpus = new Map([
 ["𐘳𐘯𐘝𐘸𐘅", 1],
 ["𐘝𐘯𐘝", 1],
 ["𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱", 1],
-["𐘳𐘅𐘲𐘃𐘥", 1],
 ["𐘈𐘄𐘚𐘱", 1],
 ["𐘙𐘚𐘥", 1],
 ["𐘳𐘅𐘚𐙕𐘠", 1],
@@ -77618,23 +77614,19 @@ var wordsInCorpus = new Map([
 ["𐘇𐘙𐘞𐘅", 1],
 ["𐘇𐘙", 1],
 ["𐘇𐘧", 1],
-["𐘾𐘇𐘤𐘃", 1],
 ["𐙕𐘤", 1],
 ["𐘵𐘲𐘌𐘙", 1],
 ["𐘢𐘻𐘳𐘠𐘽", 1],
 ["𐘬𐘻𐘳𐘠𐘽", 1],
 ["𐘗𐘻", 1],
 ["𐘻𐘗", 1],
-["𐙞𐘟𐘫𐘢", 1],
 ["𐄝", 1],
 ["𐄚𐄘", 1],
-["𐙞𐘸𐘫", 1],
 ["𐙝𐘀𐘫", 1],
 ["𐘂𐘀𐘘", 1],
 ["𐙝𐘶𐘸", 1],
 ["𐙝𐘭𐘶", 1],
 ["𐄗𐄊", 1],
-["𐙟𐘀𐘶", 1],
 ["𐙟𐘘𐘾", 1],
 ["𐙝𐘭𐘮𐘶", 1],
 ["𐙞𐘭𐘶", 1],
@@ -77843,6 +77835,7 @@ var wordsInCorpus = new Map([
 ["𐝦", 1],
 ["𐘒", 1],
 ["𐘤𐘍𐘗𐙠", 1],
+["𐘇𐘗", 1],
 ]);
 var ligatures = new Map([
 ["𐚳", ['𐘀', '𐘁']],

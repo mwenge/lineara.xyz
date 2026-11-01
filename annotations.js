@@ -2195,7 +2195,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "WA-JA-PI",
+                "transliteratedWord": "WA-JA-PI-[?]",
                 "word": "𐘮𐘱𐘢𐝫"
             },
             {
@@ -25889,8 +25889,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-I",
-                "word": "𐘇𐘚𐝫"
+                "transliteratedWord": "A-I-[?]-[?]",
+                "word": "𐘇𐘚𐝫𐝫"
             },
             {
                 "tags": [
@@ -62073,7 +62073,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JU-KU-NA-PA-KU-NU-U-I-ZU",
+                "transliteratedWord": "JU-KU-NA-PA-KU-NU-U-[?]-I-ZU",
                 "word": "𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀"
             },
             {
@@ -63063,8 +63063,8 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "[[A-JA]]",
-                "word": "𐘇𐝫𐝫𐘱"
+                "transliteratedWord": "[[A-[?]-[?]-[?]-JA]]",
+                "word": "𐘇𐝫𐝫𐝫𐘱"
             },
             {
                 "tags": [
@@ -68795,7 +68795,7 @@ var wordAnnotations =
                     "Thera",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-NE",
+                "transliteratedWord": "A-[ ]-NE",
                 "word": "𐝫𐘇𐝫𐝫𐘗"
             },
             {
@@ -68811,8 +68811,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "U-NA-RU-KA-JA-SI",
-                "word": "𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤"
+                "transliteratedWord": "U-NA-RU-KA-[?]-JA-SI",
+                "word": "𐘉𐘅𐘘𐘾𐝫𐘱𐘤"
             },
             {
                 "tags": [
@@ -69380,7 +69380,7 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "TA-NA-SU-TE-KE",
+                "transliteratedWord": "TA-NA-SU-TE-[ ]-KE",
                 "word": "𐘳𐘅𐘲𐘃𐝫𐘥"
             },
             {
@@ -70639,8 +70639,8 @@ var wordAnnotations =
                     "word or logoram",
                     "place name"
                 ],
-                "transliteratedWord": "KA-A-SI-TE",
-                "word": "𐘾𐘇𐘤𐝫𐘃"
+                "transliteratedWord": "KA-A-SI-[[[?]-[?]-TE]]",
+                "word": "𐘾𐘇𐘤𐝫𐝫𐘃"
             }
         ]
     },
@@ -70846,7 +70846,7 @@ var wordAnnotations =
                     "place name",
                     "head word"
                 ],
-                "transliteratedWord": "*309B-*34-PU-PI",
+                "transliteratedWord": "*309B-[?]-*34-PU-PI",
                 "word": "𐙞𐝫𐘟𐘫𐘢"
             },
             {
@@ -70892,8 +70892,8 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*309B-KI-PU",
-                "word": "𐙞𐘸𐘫"
+                "transliteratedWord": "*309B-[?]-KI-PU",
+                "word": "𐙞𐝫𐘸𐘫"
             },
             {
                 "tags": [
@@ -71029,8 +71029,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*309C-DA-JU",
-                "word": "𐙟𐘀𐘶"
+                "transliteratedWord": "*309C-DA-[?]-JU",
+                "word": "𐙟𐘀𐝫𐘶"
             },
             {
                 "tags": [
@@ -72974,7 +72974,7 @@ var wordAnnotations =
                     "word repeated in Inscription",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I-SE",
+                "transliteratedWord": "I-SE-[?]",
                 "word": "𐘚𐘈𐝫"
             }
         ]

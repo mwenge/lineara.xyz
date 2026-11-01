@@ -1124,7 +1124,7 @@
         "PA₃",
         "𐄁",
         "\n",
-        "WA-JA-PI",
+        "WA-JA-PI-[?]",
         "\n",
         "—",
         "\n",
@@ -1159,7 +1159,7 @@
         "PA₃",
         "𐄁",
         "\n",
-        "WA-JA-PI",
+        "WA-JA-PI-[?]",
         "\n",
         "—",
         "\n",
@@ -13250,11 +13250,11 @@
     "names": [
         "HT115b"
     ],
-    "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
+    "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇𐜞𐄇𐙂𐘳𐝫",
+    "transcription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐝫𐄇𐜞𐄇𐙂𐘳𐝫",
     "translatedWords": [
         "RU",
         "𐄁",
@@ -13279,7 +13279,7 @@
         "*306-TU-JA",
         "1",
         "\n",
-        "A-I",
+        "A-I-[?]-[?]",
         "1",
         "\n",
         "*306+MI",
@@ -13311,7 +13311,7 @@
         "*306-TU-JA",
         "1",
         "\n",
-        "A-I",
+        "A-I-[?]-[?]",
         "1",
         "\n",
         "*306+MI",
@@ -13343,7 +13343,7 @@
         "𐙚𐘹𐘱",
         "𐄇",
         "\n",
-        "𐘇𐘚𐝫",
+        "𐘇𐘚𐝫𐝫",
         "𐄇",
         "\n",
         "𐜞",
@@ -57262,7 +57262,7 @@
         "NI-JA-NU",
         "𐄁",
         "\n",
-        "JU-KU-NA-PA-KU-NU-U-I-ZU",
+        "JU-KU-NA-PA-KU-NU-U-[?]-I-ZU",
         "𐄁"
     ],
     "transliteratedWords": [
@@ -57273,7 +57273,7 @@
         "NI-JA-NU",
         "𐄁",
         "\n",
-        "JU-KU-NA-PA-KU-NU-U-I-ZU",
+        "JU-KU-NA-PA-KU-NU-U-[?]-I-ZU",
         "𐄁"
     ],
     "words": [
@@ -58226,27 +58226,27 @@
     "names": [
         "MA4b"
     ],
-    "parsedInscription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄒𐄍\n𐄙𐄕",
+    "parsedInscription": "𐘇𐝫𐝫𐝫𐘱𐙒𐄙𐄒𐄍\n𐄙𐄕",
     "scribe": "",
     "site": "Malia",
     "support": "Tablet",
-    "transcription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄒𐄍𐄙𐄕",
+    "transcription": "𐘇𐝫𐝫𐝫𐘱𐙒𐄙𐄒𐄍𐄙𐄕",
     "translatedWords": [
-        "[[A-JA]]",
+        "[[A-[?]-[?]-[?]-JA]]",
         "[[hide?]]",
         "[[137]]",
         "\n",
         "[[160]]"
     ],
     "transliteratedWords": [
-        "[[A-JA]]",
+        "[[A-[?]-[?]-[?]-JA]]",
         "[[HIDE+[?]]]",
         "[[137]]",
         "\n",
         "[[160]]"
     ],
     "words": [
-        "𐘇𐝫𐝫𐘱",
+        "𐘇𐝫𐝫𐝫𐘱",
         "𐙒",
         "𐄙𐄒𐄍",
         "\n",
@@ -63042,11 +63042,11 @@
     "names": [
         "PKZa12"
     ],
-    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤𐄁\n𐘇𐘂𐘬𐘂𐝫𐘱𐝫𐘱𐘂𐘌",
+    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐘱𐘤𐄁\n𐘇𐘂𐘬𐘂𐝫𐘱𐝫𐘱𐘂𐘌",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Stone vessel",
-    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤\n𐄁𐘇𐘂𐘬𐘂𐝫𐝫𐘱𐝫𐝫𐘱𐘂𐘌",
+    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐘱𐘤\n𐄁𐘇𐘂𐘬𐘂𐝫𐝫𐘱𐝫𐝫𐘱𐘂𐘌",
     "translatedWords": [
         "gives",
         "𐄁",
@@ -63055,9 +63055,9 @@
         "SI",
         "RA-ME",
         "\n",
-        "A-NE",
+        "A-[ ]-NE",
         "𐄁",
-        "U-NA-RU-KA-JA-SI",
+        "U-NA-RU-KA-[?]-JA-SI",
         "𐄁",
         "\n",
         "A-PA-DU-PA",
@@ -63072,9 +63072,9 @@
         "SI",
         "RA-ME",
         "\n",
-        "A-NE",
+        "A-[ ]-NE",
         "𐄁",
-        "U-NA-RU-KA-JA-SI",
+        "U-NA-RU-KA-[?]-JA-SI",
         "𐄁",
         "\n",
         "A-PA-DU-PA",
@@ -63091,7 +63091,7 @@
         "\n",
         "𐝫𐘇𐝫𐝫𐘗",
         "𐄁",
-        "𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤",
+        "𐘉𐘅𐘘𐘾𐝫𐘱𐘤",
         "𐄁",
         "\n",
         "𐘇𐘂𐘬𐘂𐝫𐝫",
@@ -63683,14 +63683,14 @@
     "support": "Stone vessel",
     "transcription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐘴𐘋",
     "translatedWords": [
-        "TA-NA-SU-TE-KE",
+        "TA-NA-SU-TE-[ ]-KE",
         "\n",
         "Archanes? Ioukhtas?",
         "\n",
         "A-SA-SA-RA-ME"
     ],
     "transliteratedWords": [
-        "TA-NA-SU-TE-KE",
+        "TA-NA-SU-TE-[ ]-KE",
         "\n",
         "SE-TO-I-JA",
         "\n",
@@ -65089,28 +65089,28 @@
     "names": [
         "THEZb13"
     ],
-    "parsedInscription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃",
+    "parsedInscription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐝫𐘃",
     "scribe": "",
     "site": "Thera",
     "support": "Clay vessel",
-    "transcription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃",
+    "transcription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐝫𐘃",
     "translatedWords": [
         "sheep",
         "wine",
         "120",
-        "KA-A-SI-TE"
+        "KA-A-SI-[[[?]-[?]-TE]]"
     ],
     "transliteratedWords": [
         "QI",
         "VIN+TE",
         "120",
-        "KA-A-SI-TE"
+        "KA-A-SI-[[[?]-[?]-TE]]"
     ],
     "words": [
         "𐘏",
         "𐛻",
         "𐄙𐄑",
-        "𐘾𐘇𐘤𐝫𐘃"
+        "𐘾𐘇𐘤𐝫𐝫𐘃"
     ]
 }],
 ["TIZb1",{
@@ -65336,11 +65336,11 @@
     "names": [
         "TY2"
     ],
-    "parsedInscription": "𐙞𐝫𐘟𐘫𐘢𐄝\n𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔\n𐙝𐘀𐘫𐝫𐄐\n𐘂𐘀𐘘𐙝𐘶𐘸𐄙\n𐙝𐘭𐘶𐝫\n𐙝𐝫𐝫𐄌\n𐙇𐄗𐄊\n𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒\n𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔\n𐙞𐝫\n𐝫",
+    "parsedInscription": "𐙞𐝫𐘟𐘫𐘢𐄝\n𐙝𐝫𐄚𐄘\n𐙞𐝫𐘸𐘫𐄔\n𐙝𐘀𐘫𐝫𐄐\n𐘂𐘀𐘘𐙝𐘶𐘸𐄙\n𐙝𐘭𐘶𐝫\n𐙝𐝫𐝫𐄌\n𐙇𐄗𐄊\n𐙟𐘀𐝫𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒\n𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔\n𐙞𐝫\n𐝫",
     "scribe": "",
     "site": "Tylissos",
     "support": "Tablet",
-    "transcription": "𐙞𐝫𐘟𐘫𐘢𐄝𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔𐙝𐘀𐘫𐝫𐄐𐘂\n𐘀𐘘𐙝𐘶𐘸𐄙𐙝𐘭𐘶𐝫𐙝𐝫𐄌𐙇\n𐄗𐄊𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔𐙞𐝫\n𐝫",
+    "transcription": "𐙞𐝫𐘟𐘫𐘢𐄝𐙝𐝫𐄚𐄘\n𐙞𐝫𐘸𐘫𐄔𐙝𐘀𐘫𐝫𐄐𐘂\n𐘀𐘘𐙝𐘶𐘸𐄙𐙝𐘭𐘶𐝫𐙝𐝫𐄌𐙇\n𐄗𐄊𐙟𐘀𐝫𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔𐙞𐝫\n𐝫",
     "translatedWords": [
         "*309B-*34-PU-PI",
         "500",
@@ -65430,7 +65430,7 @@
         "𐙝𐝫",
         "𐄚𐄘",
         "\n",
-        "𐙞𐘸𐘫",
+        "𐙞𐝫𐘸𐘫",
         "𐄔",
         "\n",
         "𐙝𐘀𐘫𐝫",
@@ -65448,7 +65448,7 @@
         "𐙇",
         "𐄗𐄊",
         "\n",
-        "𐙟𐘀𐘶",
+        "𐙟𐘀𐝫𐘶",
         "𐄐𐄍𐝫",
         "\n",
         "𐙟𐘘𐘾",
@@ -66399,7 +66399,7 @@
         "\n",
         "20",
         "\n",
-        "I-SE"
+        "I-SE-[?]"
     ],
     "transliteratedWords": [
         "*305-WA-NA",
@@ -66435,7 +66435,7 @@
         "\n",
         "20",
         "\n",
-        "I-SE"
+        "I-SE-[?]"
     ],
     "words": [
         "𐙙𐘮𐘅",
