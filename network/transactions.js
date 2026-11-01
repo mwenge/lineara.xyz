@@ -12121,12 +12121,8 @@ var transactions = [
         "type": "Multiple-Commodity Inter-Entity Transfer List",
         "words": [
             {
-                "transliteratedWord": "NE",
-                "word": "𐝫𐘗𐝫"
-            },
-            {
-                "transliteratedWord": "KI",
-                "word": "𐝫𐘸"
+                "transliteratedWord": "NE-[?]-KI",
+                "word": "𐝫𐘗𐝫𐘸"
             },
             {
                 "transliteratedWord": "*334",

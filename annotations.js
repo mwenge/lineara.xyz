@@ -8191,7 +8191,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "KI-TA",
+                "transliteratedWord": "[?]-KI-TA",
                 "word": "𐝫𐘸𐘳"
             },
             {
@@ -8678,7 +8678,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "TI-SA",
+                "transliteratedWord": "[?]-TI-SA",
                 "word": "𐝫𐘠𐘞"
             },
             {
@@ -16435,17 +16435,8 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "SI-VIR+[?]",
+                "transliteratedWord": "SI-VIR+[?]-[?]",
                 "word": "𐘤𐙇𐝫"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -47838,8 +47829,8 @@ var wordAnnotations =
                     "Appears at 7 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I",
-                "word": "𐘚𐝫"
+                "transliteratedWord": "I-[?]-[?]",
+                "word": "𐘚𐝫𐝫"
             }
         ]
     },
@@ -49615,25 +49606,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "lacuna at end",
-                    "logogram",
-                    "Appears at 4 find sites",
-                    "word or logoram",
-                    "head word elsewhere"
-                ],
-                "transliteratedWord": "NE",
-                "word": "𐝫𐘗𐝫"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "logogram",
-                    "transaction sign",
-                    "Appears at 7 find sites",
+                    "word",
+                    "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "KI",
-                "word": "𐝫𐘸"
+                "transliteratedWord": "NE-[?]-KI",
+                "word": "𐝫𐘗𐝫𐘸"
             },
             {
                 "tags": [
@@ -63347,7 +63325,7 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "PU",
+                "transliteratedWord": "PU-[?]",
                 "word": "𐘫𐝫"
             },
             {
@@ -69354,7 +69332,7 @@ var wordAnnotations =
                     "Appears at 9 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JA",
+                "transliteratedWord": "JA-[?]",
                 "word": "𐘱𐝫"
             }
         ]
@@ -70558,8 +70536,8 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*309C-RU-KA",
-                "word": "𐙟𐘘𐘾"
+                "transliteratedWord": "*309C-[?]-RU-KA",
+                "word": "𐙟𐝫𐘘𐘾"
             },
             {
                 "tags": [
@@ -70581,8 +70559,8 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*309-RI-WA-JU",
-                "word": "𐙝𐘭𐘮𐘶"
+                "transliteratedWord": "*309-RI-[?]-WA-JU",
+                "word": "𐙝𐘭𐝫𐘮𐘶"
             },
             {
                 "tags": [
@@ -78331,7 +78309,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "PI-TI-NE-A",
+                "transliteratedWord": "PI-TI-NE-A-[?]",
                 "word": "𐘢𐘠𐘗𐘇𐝫"
             },
             {
