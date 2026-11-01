@@ -563,11 +563,11 @@
     "names": [
         "HT6b"
     ],
-    "parsedInscription": "𐘮𐘬𐘝𐘻𐄉𐝅\n𐘴𐘠𐘈𐄇\n𐙁𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃\n𐘞𐙁𐄒𐄋\n𐘰𐘝𐘅𐄐𐄍𐝆",
+    "parsedInscription": "𐘮𐘬𐘝𐘻𐄉𐝅\n𐘴𐘠𐘈𐄇\n𐙁𐘭𐝫𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃\n𐘞𐙁𐄒𐄋\n𐘰𐘝𐘅𐄐𐄍𐝆",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘮𐘬𐘝𐘻\n𐄉𐝅𐘴𐘠𐘈𐄇𐙁\n𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃𐘞𐙁𐄒\n𐄋𐘰𐘝𐘅𐄐𐄍𐝆",
+    "transcription": "𐘮𐘬𐘝𐘻\n𐄉𐝅𐘴𐘠𐘈𐄇𐙁\n𐘭𐝫𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃𐘞𐙁𐄒\n𐄋𐘰𐘝𐘅𐄐𐄍𐝆",
     "translatedWords": [
         "WA-DU-NI-MI",
         "3",
@@ -576,7 +576,7 @@
         "RA-TI-SE",
         "1",
         "\n",
-        "MA-RI-RE-I",
+        "MA-RI-[?]-I",
         "3",
         "\n",
         "DU-DA-MA",
@@ -601,7 +601,7 @@
         "RA-TI-SE",
         "1",
         "\n",
-        "MA-RI-RE-I",
+        "MA-RI-[?]-I",
         "3",
         "\n",
         "DU-DA-MA",
@@ -626,7 +626,7 @@
         "𐘴𐘠𐘈",
         "𐄇",
         "\n",
-        "𐙁𐘭𐘙𐘚",
+        "𐙁𐘭𐝫𐘚",
         "𐄉",
         "\n",
         "𐘬𐘀𐙁",
@@ -6257,16 +6257,15 @@
     "names": [
         "HT49a"
     ],
-    "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫\n𐝫𐘭𐄇\n𐘲𐘸𐝫\n𐝫𐄇\n𐘠𐘬𐘝𐄇𐝫\n𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇\n𐚞𐄇\n𐙢𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘲𐘜𐄇\n𐘸𐄇\n—\n𐝫𐄋\n𐘹𐄊\n𐘸𐄇𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫\n𐝫𐘭𐄇\n𐘲𐝫\n𐝫𐄇\n𐘠𐘬𐘝𐄇𐝫\n𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇\n𐝫𐄇\n𐙢𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘲𐘜𐄇\n𐘸𐄇\n—\n𐝫𐄋\n𐘹𐄊\n𐘸𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫𐘭𐄇𐘲𐘸𐝫\n𐝫𐄇𐘠𐘬𐘝𐄇𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇𐚞𐄇𐙢𐄇𐙂\n𐘰𐘯𐄇𐘹𐘲𐘜𐄇𐘸𐄇\n—\n𐝫𐄋𐘹𐄊𐘸𐄇𐝫\n𐝫",
+    "transcription": "𐝫\n𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫𐘭𐄇𐘲𐝫\n𐝫𐄇𐘠𐘬𐘝𐄇𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇𐝫𐄇𐙢𐄇𐙂\n𐘰𐘯𐄇𐘹𐘲𐘜𐄇𐘸𐄇\n—\n𐝫𐄋𐘹𐄊𐘸𐄇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐄁",
-        "RA₂-DU",
+        "[?]-RA₂-DU",
         "\n",
         "TA-NA-TI",
         "𐄁",
@@ -6277,7 +6276,7 @@
         "RI",
         "1",
         "\n",
-        "SU-KI",
+        "SU-[?]",
         "\n",
         "𐝫",
         "1",
@@ -6293,7 +6292,7 @@
         "A-RU",
         "1",
         "\n",
-        "*370",
+        "[?]",
         "1",
         "\n",
         "*312",
@@ -6324,8 +6323,7 @@
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐄁",
-        "RA₂-DU",
+        "[?]-RA₂-DU",
         "\n",
         "TA-NA-TI",
         "𐄁",
@@ -6336,7 +6334,7 @@
         "RI",
         "1",
         "\n",
-        "SU-KI",
+        "SU-[?]",
         "\n",
         "𐝫",
         "1",
@@ -6352,7 +6350,7 @@
         "A-RU",
         "1",
         "\n",
-        "*370",
+        "[?]",
         "1",
         "\n",
         "*312",
@@ -6383,7 +6381,6 @@
     "words": [
         "𐝫",
         "\n",
-        "𐄁",
         "𐝫𐘽𐘬𐝫",
         "\n",
         "𐝫𐘳𐘅𐘠",
@@ -6395,7 +6392,7 @@
         "𐝫𐘭",
         "𐄇",
         "\n",
-        "𐘲𐘸𐝫",
+        "𐘲𐝫",
         "\n",
         "𐝫",
         "𐄇",
@@ -6411,7 +6408,7 @@
         "𐘇𐘘",
         "𐄇",
         "\n",
-        "𐚞",
+        "𐝫",
         "𐄇",
         "\n",
         "𐙢",
@@ -56178,19 +56175,19 @@
     "names": [
         "KNWb51"
     ],
-    "parsedInscription": "𐄁",
+    "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "Sealing",
-    "transcription": "𐄁",
+    "transcription": "𐝫",
     "translatedWords": [
-        "𐄁"
+        "[?]"
     ],
     "transliteratedWords": [
-        "𐄁"
+        "[?]"
     ],
     "words": [
-        "𐄁"
+        "𐝫"
     ]
 }],
 ["KNWc3",{
@@ -71111,19 +71108,19 @@
     "names": [
         "KNWa51"
     ],
-    "parsedInscription": "𐘻",
+    "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "Nodule",
-    "transcription": "𐘻",
+    "transcription": "𐝫",
     "translatedWords": [
-        "liquid?"
+        "[?]"
     ],
     "transliteratedWords": [
-        "MI"
+        "[?]"
     ],
     "words": [
-        "𐘻"
+        "𐝫"
     ]
 }],
 ["THEZb6",{
