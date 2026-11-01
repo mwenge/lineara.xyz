@@ -63,8 +63,12 @@
             "commodityID": 1,
             "description": "recipient",
             "transactionID": "HT99b-1",
-            "transliteratedWord": "SI+SE-NI",
+            "transliteratedWord": "SI+SE",
             "word": "𐛉"
+        },
+        {
+            "transliteratedWord": "NI",
+            "word": "𐘝"
         },
         {
             "commodityID": 1,
@@ -99,7 +103,7 @@
             "commodityID": 1,
             "description": "recipient",
             "transactionID": "HT99b-3",
-            "transliteratedWord": "*79-DU",
+            "transliteratedWord": "ZU-DU",
             "word": "𐙀𐘬"
         },
         {

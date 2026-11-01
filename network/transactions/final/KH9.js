@@ -173,11 +173,15 @@
             "word": "\n"
         },
         {
+            "transliteratedWord": "SI+TA2",
+            "word": "𐛌"
+        },
+        {
             "commodityID": 1,
             "description": "commodity",
             "transactionID": "KH9-3",
-            "transliteratedWord": "SI+TA2-*304",
-            "word": "𐛌𐙘"
+            "transliteratedWord": "*304",
+            "word": "𐙘"
         },
         {
             "commodityID": 1,

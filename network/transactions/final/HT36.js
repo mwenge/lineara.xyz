@@ -22,11 +22,15 @@
             "word": "𐘧𐘆"
         },
         {
+            "transliteratedWord": "*307+*307",
+            "word": "𐜠"
+        },
+        {
             "commodityID": 0,
             "description": "commodity",
             "transactionID": "HT36-1",
-            "transliteratedWord": "*307+*387-GRA+QE",
-            "word": "𐜠𐛱"
+            "transliteratedWord": "GRA+QE",
+            "word": "𐛱"
         },
         {
             "commodityID": 0,

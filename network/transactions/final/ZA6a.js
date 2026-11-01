@@ -175,30 +175,13 @@
             "word": "\n"
         },
         {
-            "transliteratedWord": "\n",
-            "word": "\n"
-        },
-        {
-            "transliteratedWord": "\n",
-            "word": "\n"
-        },
-        {
-            "transliteratedWord": "\n",
-            "word": "\n"
-        },
-        {
-            "transliteratedWord": "\n",
-            "word": "\n"
-        },
-        {
-            "transactionID": "ZA6a-4",
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
             "transactionID": "ZA6a-4",
             "transliteratedWord": "OLIV",
-            "word": "𐙋𐝫"
+            "word": "𐝫𐙋𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
         },
         {
             "commodityID": 0,
@@ -208,9 +191,17 @@
             "word": "𐝫𐄑𐄋"
         },
         {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
             "transactionID": "ZA6a-4",
             "transliteratedWord": "*304",
             "word": "𐙘𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
         },
         {
             "commodityID": 0,
@@ -218,6 +209,10 @@
             "transactionID": "ZA6a-4",
             "transliteratedWord": "20",
             "word": "𐝫𐄑"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
         },
         {
             "description": "recipient",

@@ -9,6 +9,18 @@
     ],
     "words": [
         {
+            "transliteratedWord": "𐝫",
+            "word": "𐝫"
+        },
+        {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
             "description": "recipient",
             "transactionID": "HT33-1",
             "transliteratedWord": "SA-RA₂",
@@ -32,8 +44,8 @@
             "commodityID": 1,
             "description": "commodity",
             "transactionID": "HT33-1",
-            "transliteratedWord": "QA2+[?]+RE+PU",
-            "word": "𐚺"
+            "transliteratedWord": "QA2+[?]+PU",
+            "word": "𐚻"
         },
         {
             "commodityID": 1,

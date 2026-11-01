@@ -45,8 +45,8 @@
             "commodityID": 0,
             "description": "commodity",
             "transactionID": "HT24a-1",
-            "transliteratedWord": "KI-MA-RU",
-            "word": "𐘸𐙁𐘘𐝫"
+            "transliteratedWord": "*546",
+            "word": "𐘸𐛢𐝫"
         },
         {
             "transliteratedWord": "\n",
@@ -67,8 +67,8 @@
             "commodityID": 1,
             "description": "commodity",
             "transactionID": "HT24a-1",
-            "transliteratedWord": "MA-RU-ME",
-            "word": "𐙁𐘘𐘋"
+            "transliteratedWord": "*561",
+            "word": "𐛢𐘋"
         },
         {
             "commodityID": 1,
@@ -97,8 +97,8 @@
             "commodityID": 0,
             "description": "commodity",
             "transactionID": "HT24a-1",
-            "transliteratedWord": "MA-RU-ME",
-            "word": "𐙁𐘘𐘋"
+            "transliteratedWord": "*561",
+            "word": "𐛢𐘋"
         },
         {
             "commodityID": 0,
@@ -118,15 +118,15 @@
             "word": "𐘂𐘞𐘭𐘱"
         },
         {
-            "transliteratedWord": "\n",
-            "word": "\n"
-        },
-        {
             "commodityID": 0,
             "description": "commodity",
             "transactionID": "HT24a-2",
-            "transliteratedWord": "MA-RU-ME",
-            "word": "𐙁𐘘𐘋𐝫"
+            "transliteratedWord": "*561",
+            "word": "𐛢𐘋𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
         },
         {
             "description": "recipient",

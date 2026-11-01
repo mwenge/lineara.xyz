@@ -65225,7 +65225,7 @@ var inscriptions = new Map([
     "names": [
         "TLZa1"
     ],
-    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘵𐘲𐘌𐘙𐄁\n𐘱𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘾𐘅𐘤𐝫\n𐝫𐘅𐙁𐘤𐘘𐝫",
+    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘵𐘲𐘌𐘙𐄁\n𐘱𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫𐘅𐙁𐘤𐘘𐝫𐘃",
     "scribe": "",
     "site": "Troullos",
     "support": "Stone vessel",
