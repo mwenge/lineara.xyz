@@ -109,12 +109,8 @@
             "word": "\n"
         },
         {
-            "transliteratedWord": "DA",
+            "transliteratedWord": "DA-[?]",
             "word": "𐘀𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
         },
         {
             "transliteratedWord": "\n",

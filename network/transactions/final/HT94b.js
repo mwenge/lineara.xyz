@@ -234,22 +234,11 @@
             "word": "\n"
         },
         {
-            "description": "sender",
-            "transactionID": "HT94b-7",
-            "transliteratedWord": "RA",
-            "word": "𐘴𐝫"
-        },
-        {
-            "transactionID": "HT94b-7",
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
             "commodityID": 2,
             "description": "recipient",
             "transactionID": "HT94b-8",
-            "transliteratedWord": "DE-ME-TE",
-            "word": "𐝫𐘦𐘋𐘃"
+            "transliteratedWord": "RA-[?]-DE-ME-TE",
+            "word": "𐘴𐝫𐘦𐘋𐘃"
         },
         {
             "commodityID": 2,
@@ -265,12 +254,8 @@
         {
             "description": "recipient",
             "transactionID": "HT94b-9",
-            "transliteratedWord": "*21F-TU",
+            "transliteratedWord": "*21F-TU-[?]",
             "word": "𐘐𐘹𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
         },
         {
             "commodityID": 1,

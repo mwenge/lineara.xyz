@@ -10,10 +10,6 @@
     ],
     "words": [
         {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
             "description": "sender",
             "transactionID": "HT31-1",
             "transliteratedWord": "]-TI-SA",

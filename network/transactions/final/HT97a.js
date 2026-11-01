@@ -356,24 +356,16 @@
             "word": "\n"
         },
         {
-            "transliteratedWord": "DE",
+            "transliteratedWord": "DE-[?]",
             "word": "𐘦𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
-            "transliteratedWord": "\n",
-            "word": "\n"
-        },
-        {
-            "transliteratedWord": "\n",
-            "word": "\n"
         },
         {
             "transliteratedWord": "3",
             "word": "𐄉𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
         },
         {
             "transliteratedWord": "A",
@@ -383,6 +375,10 @@
             "description": "quantity",
             "transliteratedWord": "5",
             "word": "𐄋"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
         },
         {
             "transliteratedWord": "𐝫",

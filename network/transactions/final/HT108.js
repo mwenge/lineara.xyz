@@ -147,14 +147,10 @@
             "word": "\n"
         },
         {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
             "commodityID": 1,
             "description": "recipient",
             "transactionID": "HT108-5",
-            "transliteratedWord": "RA₂-TI",
+            "transliteratedWord": "[?]-RA₂-TI",
             "word": "𐝫𐘽𐘠"
         },
         {

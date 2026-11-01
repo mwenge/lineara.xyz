@@ -91,19 +91,15 @@
         {
             "description": "recipient",
             "transactionID": "HT11a-1",
-            "transliteratedWord": "A-RU-RA",
+            "transliteratedWord": "A-RU-RA-[?]",
             "word": "𐘇𐘘𐘴𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
         },
         {
             "commodityID": 0,
             "description": "quantity",
             "transactionID": "HT11a-1",
             "transliteratedWord": "3",
-            "word": "𐝫𐄉"
+            "word": "𐄉"
         },
         {
             "transliteratedWord": "\n",

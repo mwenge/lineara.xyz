@@ -120,8 +120,8 @@
             "word": "\n"
         },
         {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
+            "transliteratedWord": "[?]",
+            "word": "𐝫"
         },
         {
             "transliteratedWord": "1",
@@ -184,11 +184,6 @@
         {
             "transliteratedWord": "\n",
             "word": "\n"
-        },
-        {
-            "transactionID": "HT29-4",
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
         },
         {
             "commodityID": 0,

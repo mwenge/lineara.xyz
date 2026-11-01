@@ -263,12 +263,8 @@
         {
             "description": "recipient",
             "transactionID": "HT122a-4",
-            "transliteratedWord": "PA-[I-TO",
-            "word": "𐘂𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
+            "transliteratedWord": "PA-[?]-[?]",
+            "word": "𐘂𐝫𐝫"
         },
         {
             "transliteratedWord": "\n",

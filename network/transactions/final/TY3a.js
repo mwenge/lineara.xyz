@@ -166,18 +166,8 @@
         {
             "description": "recipient",
             "transactionID": "TY3a-2",
-            "transliteratedWord": "A-DU",
-            "word": "𐘇𐘬𐝫"
-        },
-        {
-            "transactionID": "TY3a-2",
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
-            "transactionID": "TY3a-2",
-            "transliteratedWord": "𐝫",
-            "word": "𐝫"
+            "transliteratedWord": "A-DU-[?]-[?]",
+            "word": "𐘇𐘬𐝫𐝫"
         },
         {
             "commodityID": 1,
