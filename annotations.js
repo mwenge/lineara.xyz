@@ -57879,12 +57879,15 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
-                    "Only instance of word",
+                    "lacuna at end",
+                    "logogram",
+                    "commodity",
+                    "Haghia Triada",
+                    "Khania",
                     "word or logoram"
                 ],
-                "transliteratedWord": "QA-PU",
-                "word": "𐝫𐘌𐝫𐘫"
+                "transliteratedWord": "QA2+[?]+PU",
+                "word": "𐝫𐚻𐝫"
             },
             {
                 "tags": [],

@@ -115776,22 +115776,12 @@ const coordinates =
     "KH94-Inscription": [
         {
             "word": "0",
-            "ideogram": "QA",
+            "ideogram": "QA2+[?]+PU",
             "coords": {
                 "x": 55,
-                "y": 21,
-                "width": 45,
-                "height": 55
-            }
-        },
-        {
-            "word": "0",
-            "ideogram": "PU",
-            "coords": {
-                "x": 90,
                 "y": 15,
-                "width": 54,
-                "height": 52
+                "width": 89,
+                "height": 61
             }
         },
         {
@@ -115838,21 +115828,11 @@ const coordinates =
     "KH94-Facsimile": [
         {
             "word": "0",
-            "ideogram": "QA",
+            "ideogram": "QA2+[?]+PU",
             "coords": {
                 "x": 65,
-                "y": 15,
-                "width": 28,
-                "height": 65
-            }
-        },
-        {
-            "word": "0",
-            "ideogram": "PU",
-            "coords": {
-                "x": 96,
                 "y": 10,
-                "width": 50,
+                "width": 81,
                 "height": 71
             }
         },

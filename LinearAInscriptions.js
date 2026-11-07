@@ -51609,7 +51609,7 @@ var inscriptions = new Map([
     "names": [
         "KH94"
     ],
-    "parsedInscription": "𐝫\n𐝫𐘌𐝫𐘫\n𐝫𐄐𐄍\n𐘚𐝫𐘍𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐚻𐝫\n𐝫𐄐𐄍\n𐘚𐝫𐘍𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
     "support": "Tablet",
@@ -51617,7 +51617,7 @@ var inscriptions = new Map([
     "translatedWords": [
         "𐝫",
         "\n",
-        "QA-PU",
+        "liquid?",
         "\n",
         "17",
         "\n",
@@ -51629,7 +51629,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "QA-PU",
+        "QA2+[?]+PU",
         "\n",
         "17",
         "\n",
@@ -51641,7 +51641,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
-        "𐝫𐘌𐝫𐘫",
+        "𐝫𐚻𐝫",
         "\n",
         "𐝫𐄐𐄍",
         "\n",
@@ -76244,13 +76244,13 @@ var wordsInCorpus = new Map([
 ["𐘇𐘳𐘚𐙕𐘮𐘱", 11],
 ["𐘅", 11],
 ["𐘠", 11],
+["𐚻", 11],
 ["𐘗", 10],
 ["𐄐𐄍", 10],
 ["𐄏", 10],
 ["𐘡", 10],
 ["𐄐𐄇", 10],
 ["𐜈", 10],
-["𐚻", 10],
 ["𐘲", 10],
 ["𐘀", 9],
 ["𐙓", 9],
@@ -77085,7 +77085,6 @@ var wordsInCorpus = new Map([
 ["𐘇𐘀𐘐𐘭", 1],
 ["𐙂𐘝𐘃", 1],
 ["𐘅𐘸", 1],
-["𐘌𐘫", 1],
 ["𐝈𐝀𐝀", 1],
 ["𐘈𐘚", 1],
 ["𐘂𐘭𐘦", 1],
