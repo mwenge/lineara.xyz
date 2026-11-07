@@ -51763,6 +51763,7 @@
     "transcription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫\n𐝫",
     "translatedWords": [
         "PA-RI-DE",
+        "[[[?]]]",
         "\n",
         "A-SI-*118",
         "\n",
@@ -51770,13 +51771,15 @@
     ],
     "transliteratedWords": [
         "PA-RI-DE",
+        "[[[?]]]",
         "\n",
         "A-SI-*118",
         "\n",
         "KU-KA"
     ],
     "words": [
-        "𐝫𐘂𐘭𐘦𐝫",
+        "𐝫𐘂𐘭𐘦",
+        "𐝫",
         "\n",
         "𐝫𐘇𐘤𐙈",
         "\n",
@@ -64687,10 +64690,10 @@
     "support": "Clay vessel",
     "transcription": "𐘇𐘗𐝫",
     "translatedWords": [
-        "A-NE"
+        "A-NE-[[ ]]"
     ],
     "transliteratedWords": [
-        "A-NE"
+        "A-NE-[[ ]]"
     ],
     "words": [
         "𐘇𐘗𐝫"

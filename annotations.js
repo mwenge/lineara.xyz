@@ -58127,13 +58127,21 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "lacuna at end",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
                 "transliteratedWord": "PA-RI-DE",
-                "word": "𐝫𐘂𐘭𐘦𐝫"
+                "word": "𐝫𐘂𐘭𐘦"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "[[[?]]]",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -69829,7 +69837,7 @@ var wordAnnotations =
                     "Thera",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-NE",
+                "transliteratedWord": "A-NE-[[ ]]",
                 "word": "𐘇𐘗𐝫"
             }
         ]

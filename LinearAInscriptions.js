@@ -51841,6 +51841,7 @@ var inscriptions = new Map([
     "transcription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫\n𐝫",
     "translatedWords": [
         "PA-RI-DE",
+        "[[[?]]]",
         "\n",
         "A-SI-*118",
         "\n",
@@ -51848,13 +51849,15 @@ var inscriptions = new Map([
     ],
     "transliteratedWords": [
         "PA-RI-DE",
+        "[[[?]]]",
         "\n",
         "A-SI-*118",
         "\n",
         "KU-KA"
     ],
     "words": [
-        "𐝫𐘂𐘭𐘦𐝫",
+        "𐝫𐘂𐘭𐘦",
+        "𐝫",
         "\n",
         "𐝫𐘇𐘤𐙈",
         "\n",
@@ -64768,10 +64771,10 @@ var inscriptions = new Map([
     "support": "Clay vessel",
     "transcription": "𐘇𐘗𐝫",
     "translatedWords": [
-        "A-NE"
+        "A-NE-[[ ]]"
     ],
     "transliteratedWords": [
-        "A-NE"
+        "A-NE-[[ ]]"
     ],
     "words": [
         "𐘇𐘗𐝫"
@@ -76168,7 +76171,7 @@ var sequences = new Map([
 var wordsInCorpus = new Map([
 ["𐘹𐘢𐘳",1],
 ["𐘄𐘰𐘆",1],
-["", 2737],
+["", 2738],
 ["𐄁", 403],
 ["𐄇", 310],
 ["𐙕", 238],
