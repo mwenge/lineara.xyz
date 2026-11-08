@@ -32,11 +32,15 @@ var transactions = [
                 "word": "𐘧𐘆"
             },
             {
+                "transliteratedWord": "*307+*307",
+                "word": "𐜠"
+            },
+            {
                 "commodityID": 0,
                 "description": "commodity",
                 "transactionID": "HT36-1",
-                "transliteratedWord": "*307+*387-GRA+QE",
-                "word": "𐜠𐛱"
+                "transliteratedWord": "GRA+QE",
+                "word": "𐛱"
             },
             {
                 "commodityID": 0,
@@ -1051,19 +1055,15 @@ var transactions = [
             {
                 "description": "recipient",
                 "transactionID": "HT11a-1",
-                "transliteratedWord": "A-RU-RA",
+                "transliteratedWord": "A-RU-RA-[?]",
                 "word": "𐘇𐘘𐘴𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "commodityID": 0,
                 "description": "quantity",
                 "transactionID": "HT11a-1",
                 "transliteratedWord": "3",
-                "word": "𐝫𐄉"
+                "word": "𐄉"
             },
             {
                 "transliteratedWord": "\n",
@@ -4030,18 +4030,10 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "transliteratedWord": "PI",
-                "word": "𐝫𐘢𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
                 "description": "recipient",
                 "transactionID": "ZA4a-1",
-                "transliteratedWord": "SE",
-                "word": "𐝫𐘈𐝫"
+                "transliteratedWord": "PI-[?]-SE",
+                "word": "𐝫𐘢𐝫𐘈𐝫"
             },
             {
                 "commodityID": 2,
@@ -4108,15 +4100,10 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "transactionID": "ZA4a-4",
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
                 "commodityID": 2,
                 "description": "recipient",
                 "transactionID": "ZA4a-5",
-                "transliteratedWord": "TU-ME-SE",
+                "transliteratedWord": "[?]-TU-ME-SE",
                 "word": "𐝫𐘹𐘋𐘈"
             },
             {
@@ -4644,14 +4631,10 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
                 "commodityID": 1,
                 "description": "recipient",
                 "transactionID": "HT108-5",
-                "transliteratedWord": "RA₂-TI",
+                "transliteratedWord": "[?]-RA₂-TI",
                 "word": "𐝫𐘽𐘠"
             },
             {
@@ -6720,11 +6703,15 @@ var transactions = [
                 "word": "\n"
             },
             {
+                "transliteratedWord": "VIR+KA",
+                "word": "𐛧"
+            },
+            {
                 "commodityID": 1,
                 "description": "commodity",
                 "transactionID": "HT28a-4",
-                "transliteratedWord": "VIR+KA-VIN",
-                "word": "𐛧𐙍"
+                "transliteratedWord": "VIN",
+                "word": "𐙍"
             },
             {
                 "commodityID": 1,
@@ -7155,8 +7142,8 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "[?]",
+                "word": "𐝫"
             },
             {
                 "transliteratedWord": "1",
@@ -7219,11 +7206,6 @@ var transactions = [
             {
                 "transliteratedWord": "\n",
                 "word": "\n"
-            },
-            {
-                "transactionID": "HT29-4",
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "commodityID": 0,
@@ -8837,20 +8819,8 @@ var transactions = [
                 "commodityID": 6,
                 "description": "commodity",
                 "transactionID": "HT87-8",
-                "transliteratedWord": "A-RA",
-                "word": "𐘇𐘴𐝫"
-            },
-            {
-                "transactionID": "HT87-8",
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "commodityID": 6,
-                "description": "commodity",
-                "transactionID": "HT87-8",
-                "transliteratedWord": "A-TU",
-                "word": "𐝫𐘇𐘹"
+                "transliteratedWord": "A-RA-[?]-A-TU",
+                "word": "𐘇𐘴𐝫𐘇𐘹"
             },
             {
                 "commodityID": 6,
@@ -12151,16 +12121,8 @@ var transactions = [
         "type": "Multiple-Commodity Inter-Entity Transfer List",
         "words": [
             {
-                "transliteratedWord": "NE",
-                "word": "𐝫𐘗𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "transliteratedWord": "KI",
-                "word": "𐝫𐘸"
+                "transliteratedWord": "NE-[?]-KI",
+                "word": "𐝫𐘗𐝫𐘸"
             },
             {
                 "transliteratedWord": "*334",
@@ -12325,16 +12287,8 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "transliteratedWord": "KU",
-                "word": "𐙂𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "transliteratedWord": "KO-E",
-                "word": "𐝫𐘺𐘡"
+                "transliteratedWord": "KU-[?]-KO-E",
+                "word": "𐙂𐝫𐘺𐘡"
             },
             {
                 "transliteratedWord": "VIR+*313b",
@@ -12490,15 +12444,7 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "transliteratedWord": "𐝫",
+                "transliteratedWord": "[?]",
                 "word": "𐝫"
             },
             {
@@ -12813,8 +12759,12 @@ var transactions = [
                 "commodityID": 1,
                 "description": "quantity",
                 "transactionID": "HT10a-5",
-                "transliteratedWord": "14",
-                "word": "𐄐𐄊𐝫"
+                "transliteratedWord": "10",
+                "word": "𐄐"
+            },
+            {
+                "transliteratedWord": "[[4]]",
+                "word": "𐄊𐝫"
             },
             {
                 "transliteratedWord": "\n",
@@ -13031,8 +12981,16 @@ var transactions = [
             {
                 "description": "recipient",
                 "transactionID": "KNZb35-1",
-                "transliteratedWord": "JA-DI-WI",
-                "word": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫"
+                "transliteratedWord": "JA",
+                "word": "𐝫𐘱𐝫"
+            },
+            {
+                "transliteratedWord": "DI",
+                "word": "𐘆𐝫"
+            },
+            {
+                "transliteratedWord": "WI",
+                "word": "𐘣𐝫"
             },
             {
                 "commodityID": 1,
@@ -13450,18 +13408,8 @@ var transactions = [
             {
                 "description": "recipient",
                 "transactionID": "TY3a-2",
-                "transliteratedWord": "A-DU",
-                "word": "𐘇𐘬𐝫"
-            },
-            {
-                "transactionID": "TY3a-2",
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "transactionID": "TY3a-2",
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
+                "transliteratedWord": "A-DU-[?]-[?]",
+                "word": "𐘇𐘬𐝫𐝫"
             },
             {
                 "commodityID": 1,
@@ -14952,30 +14900,13 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "transactionID": "ZA6a-4",
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
                 "transactionID": "ZA6a-4",
                 "transliteratedWord": "OLIV",
-                "word": "𐙋𐝫"
+                "word": "𐝫𐙋𐝫"
+            },
+            {
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "commodityID": 0,
@@ -14985,9 +14916,17 @@ var transactions = [
                 "word": "𐝫𐄑𐄋"
             },
             {
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "transactionID": "ZA6a-4",
                 "transliteratedWord": "*304",
                 "word": "𐙘𐝫"
+            },
+            {
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "commodityID": 0,
@@ -14995,6 +14934,10 @@ var transactions = [
                 "transactionID": "ZA6a-4",
                 "transliteratedWord": "20",
                 "word": "𐝫𐄑"
+            },
+            {
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "description": "recipient",
@@ -15922,10 +15865,6 @@ var transactions = [
         ],
         "type": "Multiple-Commodity Inter-Entity Transfer List",
         "words": [
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
             {
                 "description": "sender",
                 "transactionID": "HT31-1",
@@ -17247,11 +17186,15 @@ var transactions = [
                 "word": "\n"
             },
             {
+                "transliteratedWord": "SI+TA2",
+                "word": "𐛌"
+            },
+            {
                 "commodityID": 1,
                 "description": "commodity",
                 "transactionID": "KH9-3",
-                "transliteratedWord": "SI+TA2-*304",
-                "word": "𐛌𐙘"
+                "transliteratedWord": "*304",
+                "word": "𐙘"
             },
             {
                 "commodityID": 1,
@@ -17471,6 +17414,18 @@ var transactions = [
         "type": "Transfer List",
         "words": [
             {
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "description": "recipient",
                 "transactionID": "HT33-1",
                 "transliteratedWord": "SA-RA₂",
@@ -17494,8 +17449,8 @@ var transactions = [
                 "commodityID": 1,
                 "description": "commodity",
                 "transactionID": "HT33-1",
-                "transliteratedWord": "QA2+[?]+RE+PU",
-                "word": "𐚺"
+                "transliteratedWord": "QA2+[?]+PU",
+                "word": "𐚻"
             },
             {
                 "commodityID": 1,
@@ -19054,8 +19009,12 @@ var transactions = [
                 "commodityID": 1,
                 "description": "recipient",
                 "transactionID": "HT99b-1",
-                "transliteratedWord": "SI+SE-NI",
+                "transliteratedWord": "SI+SE",
                 "word": "𐛉"
+            },
+            {
+                "transliteratedWord": "NI",
+                "word": "𐘝"
             },
             {
                 "commodityID": 1,
@@ -19090,7 +19049,7 @@ var transactions = [
                 "commodityID": 1,
                 "description": "recipient",
                 "transactionID": "HT99b-3",
-                "transliteratedWord": "*79-DU",
+                "transliteratedWord": "ZU-DU",
                 "word": "𐙀𐘬"
             },
             {
@@ -19136,6 +19095,10 @@ var transactions = [
                 "transactionID": "HT23b-1",
                 "transliteratedWord": "NI-RA",
                 "word": "𐘝𐘴"
+            },
+            {
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "commodityID": 1,
@@ -20179,24 +20142,16 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "transliteratedWord": "DE",
+                "transliteratedWord": "DE-[?]",
                 "word": "𐘦𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "transliteratedWord": "\n",
-                "word": "\n"
             },
             {
                 "transliteratedWord": "3",
                 "word": "𐄉𐝫"
+            },
+            {
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "transliteratedWord": "A",
@@ -20206,6 +20161,10 @@ var transactions = [
                 "description": "quantity",
                 "transliteratedWord": "5",
                 "word": "𐄋"
+            },
+            {
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "transliteratedWord": "𐝫",
@@ -21180,18 +21139,8 @@ var transactions = [
             {
                 "description": "recipient",
                 "transactionID": "KH11-1",
-                "transliteratedWord": "A-DU",
-                "word": "𐘇𐘬𐝫"
-            },
-            {
-                "transactionID": "KH11-1",
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "transactionID": "KH11-1",
-                "transliteratedWord": "ZA",
-                "word": "𐝫𐘍"
+                "transliteratedWord": "A-DU-[?]-ZA",
+                "word": "𐘇𐘬𐝫𐘍"
             },
             {
                 "commodityID": 1,
@@ -21658,12 +21607,8 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "transliteratedWord": "DA",
+                "transliteratedWord": "DA-[?]",
                 "word": "𐘀𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "transliteratedWord": "\n",
@@ -22984,22 +22929,11 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "description": "sender",
-                "transactionID": "HT94b-7",
-                "transliteratedWord": "RA",
-                "word": "𐘴𐝫"
-            },
-            {
-                "transactionID": "HT94b-7",
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
                 "commodityID": 2,
                 "description": "recipient",
                 "transactionID": "HT94b-8",
-                "transliteratedWord": "DE-ME-TE",
-                "word": "𐝫𐘦𐘋𐘃"
+                "transliteratedWord": "RA-[?]-DE-ME-TE",
+                "word": "𐘴𐝫𐘦𐘋𐘃"
             },
             {
                 "commodityID": 2,
@@ -23015,12 +22949,8 @@ var transactions = [
             {
                 "description": "recipient",
                 "transactionID": "HT94b-9",
-                "transliteratedWord": "*21F-TU",
+                "transliteratedWord": "*21F-TU-[?]",
                 "word": "𐘐𐘹𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "commodityID": 1,
@@ -23297,12 +23227,8 @@ var transactions = [
             {
                 "description": "recipient",
                 "transactionID": "HT122a-4",
-                "transliteratedWord": "PA-[I-TO",
-                "word": "𐘂𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "PA-[?]-[?]",
+                "word": "𐘂𐝫𐝫"
             },
             {
                 "transliteratedWord": "\n",
@@ -23667,16 +23593,8 @@ var transactions = [
             {
                 "description": "recipient",
                 "transactionID": "ZA9-3",
-                "transliteratedWord": "A-TA-NA",
+                "transliteratedWord": "A-TA-NA-[?]",
                 "word": "𐘇𐘳𐘅𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
             },
             {
                 "commodityID": 1,
@@ -23697,13 +23615,9 @@ var transactions = [
                 "word": "\n"
             },
             {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
                 "description": "recipient",
                 "transactionID": "ZA9-4",
-                "transliteratedWord": "MA-JU",
+                "transliteratedWord": "[?]-MA-JU",
                 "word": "𐝫𐙁𐘶"
             },
             {
@@ -24205,8 +24119,8 @@ var transactions = [
                 "commodityID": 0,
                 "description": "commodity",
                 "transactionID": "HT24a-1",
-                "transliteratedWord": "KI-MA-RU",
-                "word": "𐘸𐙁𐘘𐝫"
+                "transliteratedWord": "*546",
+                "word": "𐘸𐛢𐝫"
             },
             {
                 "transliteratedWord": "\n",
@@ -24227,8 +24141,8 @@ var transactions = [
                 "commodityID": 1,
                 "description": "commodity",
                 "transactionID": "HT24a-1",
-                "transliteratedWord": "MA-RU-ME",
-                "word": "𐙁𐘘𐘋"
+                "transliteratedWord": "*561",
+                "word": "𐛢𐘋"
             },
             {
                 "commodityID": 1,
@@ -24257,8 +24171,8 @@ var transactions = [
                 "commodityID": 0,
                 "description": "commodity",
                 "transactionID": "HT24a-1",
-                "transliteratedWord": "MA-RU-ME",
-                "word": "𐙁𐘘𐘋"
+                "transliteratedWord": "*561",
+                "word": "𐛢𐘋"
             },
             {
                 "commodityID": 0,
@@ -24278,15 +24192,15 @@ var transactions = [
                 "word": "𐘂𐘞𐘭𐘱"
             },
             {
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "commodityID": 0,
                 "description": "commodity",
                 "transactionID": "HT24a-2",
-                "transliteratedWord": "MA-RU-ME",
-                "word": "𐙁𐘘𐘋𐝫"
+                "transliteratedWord": "*561",
+                "word": "𐛢𐘋𐝫"
+            },
+            {
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "description": "recipient",
@@ -24364,6 +24278,10 @@ var transactions = [
                 "transactionID": "HT128a-1",
                 "transliteratedWord": "PA-RA",
                 "word": "𐘂𐘴"
+            },
+            {
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "transliteratedWord": "\n",
@@ -24462,6 +24380,18 @@ var transactions = [
             {
                 "transliteratedWord": "DI",
                 "word": "𐘆𐝫"
+            },
+            {
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "transliteratedWord": "GRA",
+                "word": "𐝫𐙉𐝫"
+            },
+            {
+                "transliteratedWord": "1",
+                "word": "𐄇"
             },
             {
                 "transliteratedWord": "\n",
@@ -25243,8 +25173,12 @@ var transactions = [
                 "commodityID": 1,
                 "description": "recipient",
                 "transactionID": "HT96a-3",
-                "transliteratedWord": "*323-*317",
-                "word": "𐙯𐙩"
+                "transliteratedWord": "*323",
+                "word": "𐙯"
+            },
+            {
+                "transliteratedWord": "*317",
+                "word": "𐙩"
             },
             {
                 "commodityID": 1,
@@ -25283,8 +25217,12 @@ var transactions = [
                 "commodityID": 1,
                 "description": "recipient",
                 "transactionID": "HT96a-5",
-                "transliteratedWord": "*323-*344",
-                "word": "𐙯𐚄"
+                "transliteratedWord": "*323",
+                "word": "𐙯"
+            },
+            {
+                "transliteratedWord": "*344",
+                "word": "𐚄"
             },
             {
                 "commodityID": 1,
@@ -25318,8 +25256,12 @@ var transactions = [
                 "word": "𐄁"
             },
             {
-                "transliteratedWord": "TE-NI",
-                "word": "𐘃𐘝"
+                "transliteratedWord": "TE",
+                "word": "𐘃"
+            },
+            {
+                "transliteratedWord": "NI",
+                "word": "𐘝"
             },
             {
                 "transliteratedWord": "20",
@@ -25455,13 +25397,13 @@ var transactions = [
                 "description": "sender",
                 "transactionID": "PE1-1",
                 "transliteratedWord": "U-KA-RE",
-                "word": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅"
+                "word": "𐘉𐘾𐘙"
             },
             {
                 "description": "recipient",
                 "transactionID": "PE1-2",
                 "transliteratedWord": "A-SE-SI-NA",
-                "word": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅"
+                "word": "𐘇𐘈𐘤𐘅"
             },
             {
                 "transliteratedWord": "\n",
@@ -25747,19 +25689,15 @@ var transactions = [
             {
                 "description": "sender",
                 "transactionID": "HT126a-1",
-                "transliteratedWord": "A-NA",
+                "transliteratedWord": "A-NA-[?]",
                 "word": "𐘇𐘅𐝫"
-            },
-            {
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "commodityID": 1,
                 "description": "quantity",
                 "transactionID": "HT126a-1",
                 "transliteratedWord": "1",
-                "word": "𐝫𐄇"
+                "word": "𐄇"
             },
             {
                 "transliteratedWord": "\n",

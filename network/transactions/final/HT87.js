@@ -215,20 +215,8 @@
             "commodityID": 6,
             "description": "commodity",
             "transactionID": "HT87-8",
-            "transliteratedWord": "A-RA",
-            "word": "𐘇𐘴𐝫"
-        },
-        {
-            "transactionID": "HT87-8",
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
-            "commodityID": 6,
-            "description": "commodity",
-            "transactionID": "HT87-8",
-            "transliteratedWord": "A-TU",
-            "word": "𐝫𐘇𐘹"
+            "transliteratedWord": "A-RA-[?]-A-TU",
+            "word": "𐘇𐘴𐝫𐘇𐘹"
         },
         {
             "commodityID": 6,

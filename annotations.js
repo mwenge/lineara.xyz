@@ -1138,8 +1138,8 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "MA-RI-RE-I",
-                "word": "𐙁𐘭𐘙𐘚"
+                "transliteratedWord": "MA-RI-[?]-I",
+                "word": "𐙁𐘭𐝫𐘚"
             },
             {
                 "tags": [
@@ -2195,7 +2195,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "WA-JA-PI",
+                "transliteratedWord": "WA-JA-PI-[?]",
                 "word": "𐘮𐘱𐘢𐝫"
             },
             {
@@ -2598,11 +2598,18 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "number"
+                ],
+                "transliteratedWord": "10",
+                "word": "𐄐"
+            },
+            {
+                "tags": [
                     "lacuna at end",
                     "number"
                 ],
-                "transliteratedWord": "14",
-                "word": "𐄐𐄊𐝫"
+                "transliteratedWord": "[[4]]",
+                "word": "𐄊𐝫"
             },
             {
                 "tags": [],
@@ -2854,23 +2861,15 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "A-RU-RA",
+                "transliteratedWord": "A-RU-RA-[?]",
                 "word": "𐘇𐘘𐘴𐝫"
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
                     "number"
                 ],
                 "transliteratedWord": "3",
-                "word": "𐝫𐄉"
+                "word": "𐄉"
             },
             {
                 "tags": [],
@@ -3356,7 +3355,7 @@ var wordAnnotations =
                     "Phaistos",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*560",
+                "transliteratedWord": "*559",
                 "word": "𐛢"
             },
             {
@@ -4080,7 +4079,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "GRA+L4+L4",
+                "transliteratedWord": "GRA+L3+L3",
                 "word": "𐛹"
             },
             {
@@ -4297,8 +4296,8 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "RA-󽇫-TI",
-                "word": "𐘴󽇫𐘠"
+                "transliteratedWord": "RA-*164-TI",
+                "word": "𐘴𐙐𐘠"
             },
             {
                 "tags": [
@@ -4341,8 +4340,8 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "37",
-                "word": "𐄒𐄍"
+                "transliteratedWord": "38",
+                "word": "𐄒𐄎"
             },
             {
                 "tags": [],
@@ -4750,11 +4749,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "Appears at 4 find sites",
+                    "Phaistos",
+                    "Zakros",
                     "assigned number"
                 ],
-                "transliteratedWord": "*21M",
-                "word": "𐘑"
+                "transliteratedWord": "*22M",
+                "word": "𐘔"
             },
             {
                 "tags": [
@@ -5289,12 +5289,14 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Unique to find site, occurs repeatedly",
+                    "Haghia Triada",
+                    "Khania",
                     "word or logoram",
-                    "assigned number"
+                    "assigned number",
+                    "always assigned number"
                 ],
-                "transliteratedWord": "QA2+[?]+RE",
-                "word": "𐚹"
+                "transliteratedWord": "QA2+[?]+PU",
+                "word": "𐚻"
             },
             {
                 "tags": [
@@ -5314,11 +5316,10 @@ var wordAnnotations =
                     "commodity",
                     "Unique to find site, occurs repeatedly",
                     "word or logoram",
-                    "assigned number",
-                    "always assigned number"
+                    "assigned number"
                 ],
-                "transliteratedWord": "QA2+[?]+RE+PU",
-                "word": "𐚺"
+                "transliteratedWord": "QA2+[?]+RE",
+                "word": "𐚹"
             },
             {
                 "tags": [
@@ -5458,6 +5459,13 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "NI-RA",
                 "word": "𐘝𐘴"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [
@@ -5650,8 +5658,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "KI-MA-RU",
-                "word": "𐘸𐙁𐘘𐝫"
+                "transliteratedWord": "*546",
+                "word": "𐘸𐛢𐝫"
             },
             {
                 "tags": [],
@@ -5680,8 +5688,8 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "MA-RU-ME",
-                "word": "𐙁𐘘𐘋"
+                "transliteratedWord": "*561",
+                "word": "𐛢𐘋"
             },
             {
                 "tags": [
@@ -5725,8 +5733,8 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "MA-RU-ME",
-                "word": "𐙁𐘘𐘋"
+                "transliteratedWord": "*561",
+                "word": "𐛢𐘋"
             },
             {
                 "tags": [
@@ -5751,11 +5759,6 @@ var wordAnnotations =
                 "word": "𐘂𐘞𐘭𐘱"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
                     "lacuna at end",
                     "logogram",
@@ -5763,8 +5766,13 @@ var wordAnnotations =
                     "logogram repeated in Inscription",
                     "word or logoram"
                 ],
-                "transliteratedWord": "MA-RU-ME",
-                "word": "𐙁𐘘𐘋𐝫"
+                "transliteratedWord": "*561",
+                "word": "𐛢𐘋𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -5798,6 +5806,7 @@ var wordAnnotations =
                     "logogram",
                     "Haghia Triada",
                     "Knossos",
+                    "logogram repeated in Inscription",
                     "word or logoram",
                     "assigned number",
                     "always assigned number"
@@ -5828,14 +5837,26 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
+                    "logogram",
                     "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "SI+ME-KI",
+                "word": "𐛋"
+            },
+            {
+                "tags": [
+                    "weight",
+                    "logogram",
+                    "Haghia Triada",
+                    "Knossos",
+                    "logogram repeated in Inscription",
                     "word or logoram",
                     "assigned number",
-                    "place name"
+                    "always assigned number"
                 ],
-                "transliteratedWord": "SI+ME-KI-*118",
-                "word": "𐛋𐙈"
+                "transliteratedWord": "*118",
+                "word": "𐙈"
             },
             {
                 "tags": [
@@ -5860,14 +5881,26 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
+                    "logogram",
                     "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "*539",
+                "word": "𐛒"
+            },
+            {
+                "tags": [
+                    "weight",
+                    "logogram",
+                    "Haghia Triada",
+                    "Knossos",
+                    "logogram repeated in Inscription",
                     "word or logoram",
                     "assigned number",
-                    "place name"
+                    "always assigned number"
                 ],
-                "transliteratedWord": "*539-*118",
-                "word": "𐛒𐙈"
+                "transliteratedWord": "*118",
+                "word": "𐙈"
             },
             {
                 "tags": [
@@ -7574,6 +7607,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 8 find sites",
+                    "logogram repeated in Inscription",
                     "word or logoram",
                     "assigned number",
                     "head word elsewhere"
@@ -7595,14 +7629,26 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "Haghia Triada",
+                    "Khania",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "VIR+KA",
+                "word": "𐛧"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 8 find sites",
+                    "logogram repeated in Inscription",
                     "word or logoram",
                     "assigned number",
-                    "place name"
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "VIR+KA-VIN",
-                "word": "𐛧𐙍"
+                "transliteratedWord": "VIN",
+                "word": "𐙍"
             },
             {
                 "tags": [
@@ -8044,11 +8090,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator",
-                    "assigned number"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "[?]",
+                "word": "𐝫"
             },
             {
                 "tags": [
@@ -8137,13 +8184,6 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "word",
                     "Only instance of word",
@@ -8151,7 +8191,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "KI-TA",
+                "transliteratedWord": "[?]-KI-TA",
                 "word": "𐝫𐘸𐘳"
             },
             {
@@ -8633,19 +8673,12 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "TI-SA",
+                "transliteratedWord": "[?]-TI-SA",
                 "word": "𐝫𐘠𐘞"
             },
             {
@@ -9187,11 +9220,31 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
                     "word",
                     "Unique to find site, occurs repeatedly",
                     "word or logoram",
-                    "place name",
-                    "head word"
+                    "place name"
                 ],
                 "transliteratedWord": "SA-RA₂",
                 "word": "𐘞𐘽"
@@ -9223,13 +9276,14 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Unique to find site, occurs repeatedly",
+                    "Haghia Triada",
+                    "Khania",
                     "word or logoram",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "QA2+[?]+RE+PU",
-                "word": "𐚺"
+                "transliteratedWord": "QA2+[?]+PU",
+                "word": "𐚻"
             },
             {
                 "tags": [
@@ -9719,8 +9773,15 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "37",
-                "word": "𐄒𐄍"
+                "transliteratedWord": "30",
+                "word": "𐄒"
+            },
+            {
+                "tags": [
+                    "number"
+                ],
+                "transliteratedWord": "[[7]]",
+                "word": "𐄍"
             },
             {
                 "tags": [],
@@ -10030,21 +10091,38 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "Unique to find site, occurs repeatedly",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "*307+*307",
+                "word": "𐜠"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Unique to find site, occurs repeatedly",
                     "word or logoram",
                     "assigned number",
-                    "place name"
+                    "always assigned number"
                 ],
-                "transliteratedWord": "*307+*387-GRA+QE",
-                "word": "𐜠𐛱"
+                "transliteratedWord": "GRA+QE",
+                "word": "𐛱"
             },
             {
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "64",
-                "word": "𐄑𐄓𐄊"
+                "transliteratedWord": "[[20]]",
+                "word": "𐄑"
+            },
+            {
+                "tags": [
+                    "number"
+                ],
+                "transliteratedWord": "44",
+                "word": "𐄓𐄊"
             },
             {
                 "tags": [
@@ -10108,7 +10186,7 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "6",
+                "transliteratedWord": "[[6]]",
                 "word": "𐄌"
             }
         ]
@@ -10150,13 +10228,6 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "KA-KI",
                 "word": "𐘾𐘸"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "tags": [
@@ -10332,13 +10403,6 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "logogram",
                     "Appears at 3 find sites",
@@ -10346,7 +10410,7 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "QE",
+                "transliteratedWord": "[?]-QE",
                 "word": "𐝫𐘿"
             },
             {
@@ -10452,12 +10516,13 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Appears at 3 find sites",
+                    "Khania",
+                    "Phaistos",
                     "word or logoram",
                     "assigned number"
                 ],
-                "transliteratedWord": "CAP",
-                "word": "𐘒"
+                "transliteratedWord": "QI",
+                "word": "𐘏"
             },
             {
                 "tags": [
@@ -10473,14 +10538,25 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
+                    "logogram",
                     "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "*554",
+                "word": "𐛞"
+            },
+            {
+                "tags": [
+                    "weight",
+                    "logogram",
+                    "Haghia Triada",
+                    "Knossos",
                     "word or logoram",
                     "assigned number",
-                    "place name"
+                    "always assigned number"
                 ],
-                "transliteratedWord": "*554-*118",
-                "word": "𐛞𐙈"
+                "transliteratedWord": "*118",
+                "word": "𐙈"
             },
             {
                 "tags": [
@@ -10662,7 +10738,7 @@ var wordAnnotations =
                     "word or logoram",
                     "assigned number"
                 ],
-                "transliteratedWord": "*414+A",
+                "transliteratedWord": "*407+A",
                 "word": "𐜯"
             },
             {
@@ -11689,13 +11765,24 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
+                    "transaction sign",
                     "word",
-                    "Only instance of word",
-                    "word or logoram"
+                    "Appears at 9 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "TE-GRA+F",
-                "word": "𐘃𐛵𐝫"
+                "transliteratedWord": "TE",
+                "word": "𐘃"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "commodity",
+                    "Haghia Triada",
+                    "Khania"
+                ],
+                "transliteratedWord": "GRA+F",
+                "word": "𐛵𐝫"
             },
             {
                 "tags": [],
@@ -12106,32 +12193,14 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
-                    "transaction sign",
                     "word",
-                    "Appears at 5 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "PA",
-                "word": "𐘂𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "Appears at 10 find sites",
+                    "Only instance of word",
+                    "word or logoram",
                     "assigned number",
-                    "always assigned number",
-                    "head word elsewhere"
+                    "place name"
                 ],
-                "transliteratedWord": "A",
-                "word": "𐝫𐘇"
+                "transliteratedWord": "PA-[?]-A",
+                "word": "𐘂𐝫𐘇"
             },
             {
                 "tags": [
@@ -12337,8 +12406,15 @@ var wordAnnotations =
                     "lacuna at start",
                     "number"
                 ],
-                "transliteratedWord": "6",
-                "word": "𐝫𐄈𐄊"
+                "transliteratedWord": "2",
+                "word": "𐝫𐄈"
+            },
+            {
+                "tags": [
+                    "number"
+                ],
+                "transliteratedWord": "[[4]]",
+                "word": "𐄊"
             }
         ]
     },
@@ -12555,20 +12631,13 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "lacuna at end",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "RA₂-DU",
+                "transliteratedWord": "[?]-RA₂-DU",
                 "word": "𐝫𐘽𐘬𐝫"
             },
             {
@@ -12649,12 +12718,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "Appears at 4 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "SU-KI",
-                "word": "𐘲𐘸𐝫"
+                "transliteratedWord": "SU-[?]",
+                "word": "𐘲𐝫"
             },
             {
                 "tags": [],
@@ -12773,13 +12842,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "logogram",
-                    "Unique to find site, occurs repeatedly",
-                    "word or logoram",
-                    "assigned number"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "*370",
-                "word": "𐚞"
+                "transliteratedWord": "[?]",
+                "word": "𐝫"
             },
             {
                 "tags": [
@@ -15091,8 +15159,8 @@ var wordAnnotations =
                     "Samothrace",
                     "word or logoram"
                 ],
-                "transliteratedWord": "SA-RA",
-                "word": "𐝫𐘞𐘴"
+                "transliteratedWord": "[?]-[?]-SA-RA",
+                "word": "𐝫𐝫𐘞𐘴"
             },
             {
                 "tags": [
@@ -15138,20 +15206,13 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "word",
                     "Appears at 6 find sites",
                     "word or logoram",
                     "place name"
                 ],
-                "transliteratedWord": "NA",
+                "transliteratedWord": "[?]-NA",
                 "word": "𐝫𐘅"
             },
             {
@@ -15229,16 +15290,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*28B-TI",
+                "transliteratedWord": "*28B-TI-[?]",
                 "word": "𐘛𐘠𐝫"
-            },
-            {
-                "tags": [
-                    "word separator",
-                    "assigned number"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "tags": [
@@ -15745,11 +15798,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "Appears at 4 find sites",
+                    "Phaistos",
+                    "Zakros",
                     "assigned number"
                 ],
-                "transliteratedWord": "*21M",
-                "word": "𐘑"
+                "transliteratedWord": "*22M",
+                "word": "𐘔"
             },
             {
                 "tags": [
@@ -16009,7 +16063,7 @@ var wordAnnotations =
                     "lacuna at end",
                     "number"
                 ],
-                "transliteratedWord": "402",
+                "transliteratedWord": "420",
                 "word": "𐄜𐄑𐝫"
             },
             {
@@ -16061,20 +16115,13 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "logogram",
                     "commodity",
                     "Appears at 4 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JU",
+                "transliteratedWord": "[?]-JU",
                 "word": "𐝫𐘶"
             },
             {
@@ -16380,24 +16427,8 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "SI-VIR+[?]",
+                "transliteratedWord": "SI-VIR+[?]-[?]",
                 "word": "𐘤𐙇𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -16707,23 +16738,15 @@ var wordAnnotations =
                     "Appears at 4 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "TU",
+                "transliteratedWord": "TU-[?]",
                 "word": "𐝫𐘹𐝫"
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
                     "number"
                 ],
                 "transliteratedWord": "3",
-                "word": "𐝫𐄉"
+                "word": "𐄉"
             },
             {
                 "tags": [],
@@ -16992,14 +17015,15 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "lacuna at start",
                     "logogram",
                     "Haghia Triada",
                     "Khania",
                     "word or logoram",
-                    "head word elsewhere"
+                    "always assigned number"
                 ],
-                "transliteratedWord": "*304+[ ]",
-                "word": "𐜜"
+                "transliteratedWord": "*401+*304",
+                "word": "𐝫𐜫"
             },
             {
                 "tags": [
@@ -17133,7 +17157,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*307+*387",
+                "transliteratedWord": "*307+*307",
                 "word": "𐜠"
             },
             {
@@ -17692,7 +17716,7 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "GRA+K+L",
+                "transliteratedWord": "GRA+K+L2",
                 "word": "𐛷"
             },
             {
@@ -17878,14 +17902,14 @@ var wordAnnotations =
                     "head word",
                     "recurring head word"
                 ],
-                "transliteratedWord": "A-KA-RU",
+                "transliteratedWord": "[[A-KA-RU]]",
                 "word": "𐘇𐘾𐘘"
             },
             {
                 "tags": [
                     "word separator"
                 ],
-                "transliteratedWord": "𐄁",
+                "transliteratedWord": "[[𐄁]]",
                 "word": "𐄁"
             },
             {
@@ -17902,7 +17926,7 @@ var wordAnnotations =
                     "place name",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "KU-NI-SU",
+                "transliteratedWord": "[[KU-NI-SU]]",
                 "word": "𐙂𐘝𐘲"
             },
             {
@@ -17912,14 +17936,14 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "GRA+K+L",
+                "transliteratedWord": "[[GRA+K+L2]]",
                 "word": "𐛷"
             },
             {
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "20",
+                "transliteratedWord": "[[20]]",
                 "word": "𐄑"
             },
             {
@@ -17935,14 +17959,14 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "SA-RU",
+                "transliteratedWord": "[[SA-RU]]",
                 "word": "𐘞𐘘"
             },
             {
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "20",
+                "transliteratedWord": "[[20]]",
                 "word": "𐄑"
             },
             {
@@ -17956,7 +17980,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "DI-DE",
+                "transliteratedWord": "[[DI-DE]]",
                 "word": "𐘆𐘦"
             }
         ]
@@ -18128,32 +18152,14 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
-                    "word",
-                    "Appears at 3 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "A-RA",
-                "word": "𐘇𐘴𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
                     "word",
                     "Only instance of word",
                     "word or logoram",
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "A-TU",
-                "word": "𐝫𐘇𐘹"
+                "transliteratedWord": "A-RA-[?]-A-TU",
+                "word": "𐘇𐘴𐝫𐘇𐘹"
             },
             {
                 "tags": [
@@ -19679,16 +19685,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "O-TI",
+                "transliteratedWord": "O-TI-[?]",
                 "word": "𐘵𐘠𐝫"
-            },
-            {
-                "tags": [
-                    "word separator",
-                    "assigned number"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "tags": [
@@ -20444,32 +20442,14 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
-                    "logogram",
-                    "Appears at 3 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "RA",
-                "word": "𐘴𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
                     "word",
                     "Only instance of word",
                     "word or logoram",
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "DE-ME-TE",
-                "word": "𐝫𐘦𐘋𐘃"
+                "transliteratedWord": "RA-[?]-DE-ME-TE",
+                "word": "𐘴𐝫𐘦𐘋𐘃"
             },
             {
                 "tags": [
@@ -20491,16 +20471,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*21F-TU",
+                "transliteratedWord": "*21F-TU-[?]",
                 "word": "𐘐𐘹𐝫"
-            },
-            {
-                "tags": [
-                    "word separator",
-                    "assigned number"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "tags": [
@@ -20745,23 +20717,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end"
                 ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
+                "transliteratedWord": "[?]",
                 "word": "𐝫"
             },
             {
@@ -21002,14 +20958,25 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "Unique to find site, occurs repeatedly",
+                    "logogram repeated in Inscription",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "*323",
+                "word": "𐙯"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "Haghia Triada",
+                    "Arkhalkhori",
                     "word or logoram",
                     "assigned number",
-                    "place name"
+                    "always assigned number"
                 ],
-                "transliteratedWord": "*323-*317",
-                "word": "𐙯𐙩"
+                "transliteratedWord": "*317",
+                "word": "𐙩"
             },
             {
                 "tags": [
@@ -21056,14 +21023,23 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
+                    "logogram",
+                    "Unique to find site, occurs repeatedly",
+                    "logogram repeated in Inscription",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "*323",
+                "word": "𐙯"
+            },
+            {
+                "tags": [
+                    "logogram",
                     "Only instance of word",
                     "word or logoram",
-                    "assigned number",
-                    "place name"
+                    "assigned number"
                 ],
-                "transliteratedWord": "*323-*344",
-                "word": "𐙯𐚄"
+                "transliteratedWord": "*344",
+                "word": "𐚄"
             },
             {
                 "tags": [
@@ -21116,14 +21092,26 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "transaction sign",
                     "word",
-                    "Only instance of word",
+                    "Appears at 9 find sites",
                     "word or logoram",
-                    "assigned number",
-                    "place name"
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "TE-NI",
-                "word": "𐘃𐘝"
+                "transliteratedWord": "TE",
+                "word": "𐘃"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 7 find sites",
+                    "logogram repeated in Inscription",
+                    "word or logoram",
+                    "assigned number"
+                ],
+                "transliteratedWord": "NI",
+                "word": "𐘝"
             },
             {
                 "tags": [
@@ -21143,6 +21131,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 7 find sites",
+                    "logogram repeated in Inscription",
                     "word or logoram",
                     "assigned number"
                 ],
@@ -21374,7 +21363,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*307+*387",
+                "transliteratedWord": "*307+*307",
                 "word": "𐜠"
             },
             {
@@ -21655,25 +21644,8 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "word or logoram"
                 ],
-                "transliteratedWord": "DE",
+                "transliteratedWord": "DE-[?]",
                 "word": "𐘦𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
             },
             {
                 "tags": [
@@ -21682,6 +21654,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "3",
                 "word": "𐄉𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -21700,6 +21677,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "5",
                 "word": "𐄋"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -22145,15 +22127,25 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "Haghia Triada",
+                    "Mycenae",
                     "word or logoram",
-                    "assigned number",
-                    "place name",
                     "head word"
                 ],
-                "transliteratedWord": "SI+SE-NI",
-                "word": "𐛉𐘝"
+                "transliteratedWord": "SI+SE",
+                "word": "𐛉"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 7 find sites",
+                    "word or logoram",
+                    "assigned number"
+                ],
+                "transliteratedWord": "NI",
+                "word": "𐘝"
             },
             {
                 "tags": [
@@ -23764,15 +23756,8 @@ var wordAnnotations =
                     "Gournia",
                     "word or logoram"
                 ],
-                "transliteratedWord": "DA",
+                "transliteratedWord": "DA-[?]",
                 "word": "𐘀𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "tags": [],
@@ -23884,7 +23869,7 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "84",
+                "transliteratedWord": "86",
                 "word": "𐄗𐄌"
             },
             {
@@ -24031,13 +24016,6 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "word",
                     "Only instance of word",
@@ -24045,7 +24023,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "RA₂-TI",
+                "transliteratedWord": "[?]-RA₂-TI",
                 "word": "𐝫𐘽𐘠"
             },
             {
@@ -24778,16 +24756,6 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
-                    "word",
-                    "Appears at 6 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "NA",
-                "word": "𐘅𐝫"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "logogram",
                     "commodity",
@@ -24805,6 +24773,16 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "1",
                 "word": "𐄇𐝫"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "word",
+                    "Appears at 6 find sites",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "NA",
+                "word": "𐘅𐝫"
             },
             {
                 "tags": [],
@@ -25299,7 +25277,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "GRA+BOSm",
+                "transliteratedWord": "GRA+CAPm",
                 "word": "𐛯"
             },
             {
@@ -25336,7 +25314,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*301-U-RA",
+                "transliteratedWord": "[[*301-U-RA]]",
                 "word": "𐙕𐘉𐘴"
             },
             {
@@ -25473,7 +25451,7 @@ var wordAnnotations =
                     "Unique to find site, occurs repeatedly",
                     "word or logoram"
                 ],
-                "transliteratedWord": "RI-SU-MA",
+                "transliteratedWord": "[[RI-SU-MA]]",
                 "word": "𐘭𐘲𐙁𐝫"
             },
             {
@@ -25488,14 +25466,14 @@ var wordAnnotations =
                     "word or logoram",
                     "assigned number"
                 ],
-                "transliteratedWord": "SU",
+                "transliteratedWord": "[[SU]]",
                 "word": "𐘲"
             },
             {
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "2",
+                "transliteratedWord": "[[2]]",
                 "word": "𐄈"
             },
             {
@@ -25506,7 +25484,7 @@ var wordAnnotations =
                     "weight",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "¹⁄₅",
+                "transliteratedWord": "[[¹⁄₅]]",
                 "word": "𐝂𐝫"
             },
             {
@@ -25722,8 +25700,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-I",
-                "word": "𐘇𐘚𐝫"
+                "transliteratedWord": "A-I-[?]-[?]",
+                "word": "𐘇𐘚𐝫𐝫"
             },
             {
                 "tags": [
@@ -27181,8 +27159,8 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "67",
-                "word": "𐄕𐄍"
+                "transliteratedWord": "68",
+                "word": "𐄕𐄎"
             },
             {
                 "tags": [],
@@ -27416,7 +27394,7 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "GRA+K+L",
+                "transliteratedWord": "GRA+K+L2",
                 "word": "𐛷"
             },
             {
@@ -27847,15 +27825,8 @@ var wordAnnotations =
                     "Appears at 5 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "PA",
-                "word": "𐘂𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "PA-[?]-[?]",
+                "word": "𐘂𐝫𐝫"
             },
             {
                 "tags": [],
@@ -29159,6 +29130,18 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
                     "lacuna at end",
                     "word",
                     "Unique to find site, occurs repeatedly",
@@ -29649,24 +29632,16 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-NA",
+                "transliteratedWord": "A-NA-[?]",
                 "word": "𐘇𐘅𐝫"
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "'one'",
-                    "lacuna at start",
                     "number"
                 ],
                 "transliteratedWord": "1",
-                "word": "𐝫𐄇"
+                "word": "𐄇"
             },
             {
                 "tags": [],
@@ -30006,22 +29981,33 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
+                    "logogram",
+                    "Haghia Triada",
+                    "Khania",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "*304+PA",
+                "word": "𐝫𐜝"
+            },
+            {
+                "tags": [
                     "word",
                     "Only instance of word",
                     "word or logoram",
-                    "assigned number",
-                    "place name"
+                    "place name",
+                    "assigned number"
                 ],
-                "transliteratedWord": "*304+PA-DA-*47-KU",
-                "word": "𐝫𐜝𐘀𐘨𐙂"
+                "transliteratedWord": "DA-*47-KU",
+                "word": "𐘀𐘨𐙂"
             },
             {
                 "tags": [
                     "'one'",
+                    "lacuna at end",
                     "number"
                 ],
                 "transliteratedWord": "1",
-                "word": "𐄇"
+                "word": "𐄇𐝫"
             }
         ]
     },
@@ -30129,9 +30115,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
-                    "Appears at 3 find sites",
-                    "word or logoram"
+                    "number"
                 ],
                 "transliteratedWord": "72",
                 "word": "𐄖𐄈"
@@ -30219,14 +30203,14 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "KI+MU",
+                "transliteratedWord": "[[KI+MU]]",
                 "word": "𐛖"
             },
             {
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "14",
+                "transliteratedWord": "[[14]]",
                 "word": "𐄐𐄊"
             },
             {
@@ -30251,7 +30235,7 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "291",
+                "transliteratedWord": "292",
                 "word": "𐄚𐄘𐄈"
             }
         ]
@@ -30295,6 +30279,13 @@ var wordAnnotations =
                 "word": "𐘂𐘴"
             },
             {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -30314,6 +30305,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 5 find sites",
+                    "logogram repeated in Inscription",
                     "word or logoram",
                     "head word elsewhere"
                 ],
@@ -30445,6 +30437,32 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "lacuna at start",
+                    "lacuna at end",
+                    "logogram",
+                    "commodity",
+                    "Appears at 5 find sites",
+                    "logogram repeated in Inscription",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "GRA",
+                "word": "𐝫𐙉𐝫"
+            },
+            {
+                "tags": [
+                    "number"
+                ],
+                "transliteratedWord": "1",
+                "word": "𐄇"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
                     "logogram",
                     "commodity",
                     "Unique to find site, occurs repeatedly",
@@ -30565,24 +30583,8 @@ var wordAnnotations =
                     "Appears at 5 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "RU",
-                "word": "𐘘𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
+                "transliteratedWord": "RU-[?]-[?]",
+                "word": "𐘘𐝫𐝫"
             },
             {
                 "tags": [
@@ -30857,6 +30859,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 7 find sites",
+                    "logogram repeated in Inscription",
                     "word or logoram",
                     "assigned number",
                     "head word elsewhere"
@@ -30893,6 +30896,7 @@ var wordAnnotations =
                     "logogram",
                     "commodity",
                     "Appears at 3 find sites",
+                    "logogram repeated in Inscription",
                     "word or logoram"
                 ],
                 "transliteratedWord": "CYP",
@@ -30967,14 +30971,25 @@ var wordAnnotations =
             {
                 "tags": [
                     "logogram",
-                    "Haghia Triada",
-                    "Khania",
+                    "Appears at 7 find sites",
+                    "logogram repeated in Inscription",
                     "word or logoram",
-                    "assigned number",
-                    "always assigned number"
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "SI-CYP",
-                "word": "𐘤𐙗"
+                "transliteratedWord": "SI",
+                "word": "𐘤"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 3 find sites",
+                    "logogram repeated in Inscription",
+                    "word or logoram",
+                    "assigned number"
+                ],
+                "transliteratedWord": "CYP",
+                "word": "𐙗"
             },
             {
                 "tags": [
@@ -31311,7 +31326,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "number"
                 ],
-                "transliteratedWord": "451",
+                "transliteratedWord": "452",
                 "word": "𐝫𐄜𐄔𐄈"
             },
             {
@@ -31355,7 +31370,7 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*904",
+                "transliteratedWord": "*319",
                 "word": "𐙫"
             },
             {
@@ -31389,11 +31404,13 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "Appears at 4 find sites",
-                    "assigned number"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "assigned number",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐘓"
+                "transliteratedWord": "*21F",
+                "word": "𐘐"
             },
             {
                 "tags": [
@@ -31676,21 +31693,14 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "lacuna at end",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "TA-NE",
-                "word": "𐝫𐘳𐘗𐝫"
+                "transliteratedWord": "[?]-[?]-TA-NE",
+                "word": "𐝫𐝫𐘳𐘗𐝫"
             },
             {
                 "tags": [],
@@ -31713,10 +31723,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "Appears at 4 find sites"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐝫𐘓"
+                "transliteratedWord": "*21F",
+                "word": "𐝫𐘐"
             },
             {
                 "tags": [
@@ -33864,13 +33876,24 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "Haghia Triada",
+                    "Khania",
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "*304+PA-KU-PA",
-                "word": "𐜝𐙂𐘂"
+                "transliteratedWord": "*304+PA",
+                "word": "𐜝"
+            },
+            {
+                "tags": [
+                    "transaction term",
+                    "word",
+                    "Appears at 3 find sites",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "KU-PA",
+                "word": "𐙂𐘂"
             },
             {
                 "tags": [],
@@ -33943,12 +33966,22 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
+                    "logogram",
+                    "Haghia Triada",
+                    "Mycenae",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "SI+SE",
+                "word": "𐛉"
+            },
+            {
+                "tags": [
+                    "logogram",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "SI+SE-RA+KA",
-                "word": "𐛉𐛔"
+                "transliteratedWord": "RA+KA",
+                "word": "𐛔"
             }
         ]
     },
@@ -33957,15 +33990,26 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word",
-                    "Unique to find site, occurs repeatedly",
+                    "logogram",
+                    "Haghia Triada",
+                    "Khania",
                     "word or logoram",
-                    "assigned number",
-                    "place name",
                     "head word"
                 ],
-                "transliteratedWord": "*304+PA-CYP+D",
-                "word": "𐜝𐜙"
+                "transliteratedWord": "*304+PA",
+                "word": "𐜝"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Haghia Triada",
+                    "Khania",
+                    "word or logoram",
+                    "assigned number"
+                ],
+                "transliteratedWord": "CYP+D",
+                "word": "𐜙"
             },
             {
                 "tags": [
@@ -46941,14 +46985,24 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
-                    "Unique to find site, occurs repeatedly",
-                    "word or logoram",
-                    "place name",
-                    "head word elsewhere"
+                    "logogram",
+                    "Haghia Triada",
+                    "Khania",
+                    "word or logoram"
                 ],
-                "transliteratedWord": "*304+PA-CYP+D",
-                "word": "𐜝𐜙"
+                "transliteratedWord": "*304+PA",
+                "word": "𐜝"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Haghia Triada",
+                    "Khania",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "CYP+D",
+                "word": "𐜙"
             }
         ]
     },
@@ -46990,12 +47044,24 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "commodity",
+                    "Haghia Triada",
+                    "Khania",
                     "word or logoram"
                 ],
-                "transliteratedWord": "CYP+D-*304+PA",
-                "word": "𐜙𐜝"
+                "transliteratedWord": "CYP+D",
+                "word": "𐜙"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "Haghia Triada",
+                    "Khania",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "*304+PA",
+                "word": "𐜝"
             }
         ]
     },
@@ -47161,14 +47227,24 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
-                    "Unique to find site, occurs repeatedly",
-                    "word or logoram",
-                    "place name",
-                    "head word elsewhere"
+                    "logogram",
+                    "Haghia Triada",
+                    "Khania",
+                    "word or logoram"
                 ],
-                "transliteratedWord": "*304+PA-CYP+D",
-                "word": "𐜝𐜙"
+                "transliteratedWord": "*304+PA",
+                "word": "𐜝"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Haghia Triada",
+                    "Khania",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "CYP+D",
+                "word": "𐜙"
             }
         ]
     },
@@ -47177,19 +47253,12 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "TU-SE-SU-KI",
+                "transliteratedWord": "[?]-TU-SE-SU-KI",
                 "word": "𐝫𐘹𐘈𐘲𐘸"
             }
         ]
@@ -47260,12 +47329,31 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
+                    "transaction sign",
+                    "word",
+                    "Haghia Triada",
+                    "Palaikastro",
+                    "word or logoram",
+                    "assigned number"
+                ],
+                "transliteratedWord": "DI",
+                "word": "𐘆"
+            },
+            {
+                "tags": [
+                    "number"
+                ],
+                "transliteratedWord": "3",
+                "word": "𐄉"
+            },
+            {
+                "tags": [
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "DI-𐄉-TI-DU",
-                "word": "𐘆𐄉𐘠𐘬"
+                "transliteratedWord": "TI-DU",
+                "word": "𐘠𐘬"
             }
         ]
     },
@@ -47310,7 +47398,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "NA-MA-MA-TI-TI-*904",
+                "transliteratedWord": "NA-MA-MA-TI-TI-*319",
                 "word": "𐘅𐙁𐙁𐘠𐘠𐙫"
             }
         ]
@@ -47320,25 +47408,31 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
-                    "word or logoram",
-                    "head word"
+                    "word separator"
                 ],
-                "transliteratedWord": "WI-JA-SU-MA-TI-TI",
-                "word": "𐘣𐘱𐘲𐙁𐘠𐘠"
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "WI-JA-SU-MA-TI-TI-*319",
+                "word": "𐘣𐘱𐘲𐙁𐘠𐘠𐙫"
+            },
+            {
+                "tags": [
+                    "lacuna at start",
                     "logogram",
-                    "Unique to find site, occurs repeatedly",
-                    "logogram repeated in Inscription",
+                    "Appears at 4 find sites",
                     "word or logoram",
                     "assigned number",
-                    "always assigned number"
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*904",
-                "word": "𐙫"
+                "transliteratedWord": "NE",
+                "word": "𐝫𐘗"
             },
             {
                 "tags": [
@@ -47349,21 +47443,15 @@ var wordAnnotations =
                 "word": "𐄇"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
                     "logogram",
-                    "Unique to find site, occurs repeatedly",
-                    "logogram repeated in Inscription",
+                    "Appears at 4 find sites",
                     "word or logoram",
                     "assigned number",
-                    "always assigned number"
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*904",
-                "word": "𐙫"
+                "transliteratedWord": "NE",
+                "word": "𐘗"
             },
             {
                 "tags": [
@@ -47382,11 +47470,6 @@ var wordAnnotations =
                 "word": "𐝆"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
@@ -47395,7 +47478,7 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*904",
+                "transliteratedWord": "*319",
                 "word": "𐙫"
             },
             {
@@ -47415,11 +47498,6 @@ var wordAnnotations =
                 "word": "𐝃"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
                     "logogram",
                     "Unique to find site, occurs repeatedly",
@@ -47428,7 +47506,7 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*904",
+                "transliteratedWord": "*319",
                 "word": "𐙫"
             },
             {
@@ -47445,11 +47523,6 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "³⁄₈",
                 "word": "𐝃𐝄"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
             },
             {
                 "tags": [
@@ -47748,15 +47821,8 @@ var wordAnnotations =
                     "Appears at 7 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I",
-                "word": "𐘚𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "I-[?]-[?]",
+                "word": "𐘚𐝫𐝫"
             }
         ]
     },
@@ -48014,36 +48080,11 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "word",
-                    "Appears at 6 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "NA",
-                "word": "𐝫𐘅𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "lacuna at end",
-                    "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "DA-DA",
-                "word": "𐝫𐘀𐘀𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "NA-[?]-DA-DA-[?]-[?]-[?]",
+                "word": "𐝫𐘅𐝫𐘀𐘀𐝫𐝫𐝫"
             },
             {
                 "tags": [],
@@ -48074,7 +48115,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I-NA-I-DA",
+                "transliteratedWord": "I-NA-I-DA-[?]",
                 "word": "𐘚𐘅𐘚𐘀𐝫"
             }
         ]
@@ -48084,10 +48125,12 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word separator"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "[?]-[?]",
+                "word": "𐝫𐝫"
             },
             {
                 "tags": [
@@ -48095,16 +48138,6 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "𐄁",
                 "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "word",
-                    "Appears at 4 find sites",
-                    "word or logoram",
-                    "head word elsewhere"
-                ],
-                "transliteratedWord": "JA-SA",
-                "word": "𐘱𐘞"
             },
             {
                 "tags": [],
@@ -48114,11 +48147,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Only instance of word",
-                    "word or logoram"
+                    "Appears at 5 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "SA-RA-ME",
-                "word": "𐘞𐘴𐘋"
+                "transliteratedWord": "JA-SA-SA-RA-ME",
+                "word": "𐘱𐘞𐘞𐘴𐘋"
             },
             {
                 "tags": [
@@ -48145,20 +48179,13 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "lacuna at end",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "MA-I",
+                "transliteratedWord": "[?]-MA-I",
                 "word": "𐝫𐙁𐘚𐝫"
             }
         ]
@@ -48250,28 +48277,13 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "uses to prefix (I-/J-)",
                     "word",
-                    "Only instance of word",
-                    "word or logoram"
+                    "Appears at 5 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "JA-SA-SA-RA",
-                "word": "𐘱𐘞𐘞𐘴"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "logogram",
-                    "Iouktas",
-                    "Zakros",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "ME",
-                "word": "𐘋"
+                "transliteratedWord": "JA-SA-SA-RA-ME",
+                "word": "𐘱𐘞𐘞𐘴𐘋"
             },
             {
                 "tags": [
@@ -48279,6 +48291,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "𐄁",
                 "word": "𐄁"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -48329,17 +48346,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "[?]-[?]-[?]",
+                "word": "𐝫𐝫𐝫"
             }
         ]
     },
@@ -48348,30 +48360,13 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "lacuna at end",
-                    "Appears at 10 find sites",
-                    "head word",
-                    "recurring head word"
+                    "word",
+                    "Only instance of word",
+                    "word or logoram",
+                    "head word"
                 ],
-                "transliteratedWord": "A",
-                "word": "𐘇𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "logogram",
-                    "Appears at 7 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "I",
-                "word": "𐝫𐘚"
+                "transliteratedWord": "A-[?]-I",
+                "word": "𐘇𐝫𐘚"
             },
             {
                 "tags": [],
@@ -49263,12 +49258,13 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "Appears at 4 find sites",
+                    "Phaistos",
+                    "Zakros",
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*21M",
-                "word": "𐝫𐘑"
+                "transliteratedWord": "*22M",
+                "word": "𐝫𐘔"
             },
             {
                 "tags": [
@@ -49550,32 +49546,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "lacuna at end",
-                    "logogram",
-                    "Appears at 4 find sites",
-                    "word or logoram",
-                    "head word elsewhere"
-                ],
-                "transliteratedWord": "NE",
-                "word": "𐝫𐘗𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "logogram",
-                    "transaction sign",
-                    "Appears at 7 find sites",
+                    "word",
+                    "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "KI",
-                "word": "𐝫𐘸"
+                "transliteratedWord": "NE-[?]-KI",
+                "word": "𐝫𐘗𐝫𐘸"
             },
             {
                 "tags": [
@@ -49847,31 +49823,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
-                    "logogram",
-                    "transaction sign",
-                    "Appears at 5 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "KU",
-                "word": "𐙂𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "KO-E",
-                "word": "𐝫𐘺𐘡"
+                "transliteratedWord": "KU-[?]-KO-E",
+                "word": "𐙂𐝫𐘺𐘡"
             },
             {
                 "tags": [
@@ -50218,7 +50175,7 @@ var wordAnnotations =
                     "word or logoram",
                     "assigned number"
                 ],
-                "transliteratedWord": "NI",
+                "transliteratedWord": "[[NI]]",
                 "word": "𐘝"
             },
             {
@@ -50226,7 +50183,7 @@ var wordAnnotations =
                     "number",
                     "fraction"
                 ],
-                "transliteratedWord": "¹⁄₂",
+                "transliteratedWord": "[[¹⁄₂]]",
                 "word": "𐝆"
             },
             {
@@ -50632,12 +50589,22 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
+                    "logogram",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "SI+TA2-*304",
-                "word": "𐛌𐙘"
+                "transliteratedWord": "SI+TA2",
+                "word": "𐛌"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 5 find sites",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "*304",
+                "word": "𐙘"
             },
             {
                 "tags": [
@@ -50794,34 +50761,13 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "lacuna at end",
-                    "transaction term",
                     "word",
-                    "Appears at 3 find sites",
+                    "Only instance of word",
                     "word or logoram",
-                    "head word",
-                    "recurring head word"
+                    "head word"
                 ],
-                "transliteratedWord": "A-DU",
-                "word": "𐘇𐘬𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "logogram",
-                    "Khania",
-                    "Zakros",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "ZA",
-                "word": "𐝫𐘍"
+                "transliteratedWord": "A-DU-[?]-ZA",
+                "word": "𐘇𐘬𐝫𐘍"
             },
             {
                 "tags": [
@@ -53274,7 +53220,7 @@ var wordAnnotations =
                     "Milos",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*401+RO",
+                "transliteratedWord": "*401+RA",
                 "word": "𐜪𐝫"
             },
             {
@@ -53985,7 +53931,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*560-RE",
+                "transliteratedWord": "*562",
                 "word": "𐝫𐛢𐘙"
             },
             {
@@ -54425,15 +54371,8 @@ var wordAnnotations =
                     "Appears at 3 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "QE",
+                "transliteratedWord": "QE-[?]",
                 "word": "𐘿𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "tags": [],
@@ -56161,6 +56100,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "logogram",
                     "Appears at 7 find sites",
+                    "logogram repeated in Inscription",
                     "word or logoram",
                     "head word elsewhere"
                 ],
@@ -56192,12 +56132,23 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "Appears at 7 find sites",
+                    "logogram repeated in Inscription",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐝫𐘤"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "Unique to find site, occurs repeatedly",
                     "word or logoram"
                 ],
-                "transliteratedWord": "SI-*805-MI",
-                "word": "𐝫𐘤𐝥𐘻"
+                "transliteratedWord": "*805-MI",
+                "word": "𐝥𐘻"
             },
             {
                 "tags": [],
@@ -56490,7 +56441,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "𐝫𐘂𐘀𐝫",
+                "transliteratedWord": "PA-DA",
                 "word": "𐝫𐘂𐘀𐝫"
             },
             {
@@ -57510,20 +57461,13 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
                     "Appears at 9 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JA",
+                "transliteratedWord": "[?]-JA",
                 "word": "𐝫𐘱𐝫"
             },
             {
@@ -57595,23 +57539,7 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end"
                 ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
+                "transliteratedWord": "[?]",
                 "word": "𐝫"
             },
             {
@@ -57799,7 +57727,7 @@ var wordAnnotations =
                     "Milos",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*401+RO",
+                "transliteratedWord": "*401+RA",
                 "word": "𐜪𐝫"
             },
             {
@@ -57951,12 +57879,15 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
-                    "Only instance of word",
+                    "lacuna at end",
+                    "logogram",
+                    "commodity",
+                    "Haghia Triada",
+                    "Khania",
                     "word or logoram"
                 ],
-                "transliteratedWord": "QA-PU",
-                "word": "𐝫𐘌𐝫𐘫"
+                "transliteratedWord": "QA2+[?]+PU",
+                "word": "𐝫𐚻𐝫"
             },
             {
                 "tags": [],
@@ -57979,12 +57910,23 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at end",
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "Appears at 7 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I-ZA",
-                "word": "𐘚𐝫𐘍𐝫"
+                "transliteratedWord": "I",
+                "word": "𐘚𐝫"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "logogram",
+                    "Khania",
+                    "Zakros",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "ZA",
+                "word": "𐘍𐝫"
             },
             {
                 "tags": [],
@@ -58087,13 +58029,24 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "lacuna at end",
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "transaction sign",
+                    "Appears at 5 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "RE-A-JA",
-                "word": "𐝫𐘙𐘇𐘱𐝫"
+                "transliteratedWord": "RE",
+                "word": "𐝫𐘙"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "word",
+                    "Appears at 4 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "A-JA",
+                "word": "𐘇𐘱𐝫"
             },
             {
                 "tags": [],
@@ -58177,13 +58130,21 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "lacuna at end",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
                 "transliteratedWord": "PA-RI-DE",
-                "word": "𐝫𐘂𐘭𐘦𐝫"
+                "word": "𐝫𐘂𐘭𐘦"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "[[[?]]]",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -58303,10 +58264,6 @@ var wordAnnotations =
         ]
     },
     {
-        "name": "KH101",
-        "tagsForWords": []
-    },
-    {
         "name": "KHWa1001",
         "tagsForWords": [
             {
@@ -58317,7 +58274,7 @@ var wordAnnotations =
                     "head word",
                     "recurring head word"
                 ],
-                "transliteratedWord": "*316+KI",
+                "transliteratedWord": "*317+KI",
                 "word": "𐜡"
             },
             {
@@ -58342,7 +58299,7 @@ var wordAnnotations =
                     "head word",
                     "recurring head word"
                 ],
-                "transliteratedWord": "*316+KI",
+                "transliteratedWord": "*317+KI",
                 "word": "𐜡"
             },
             {
@@ -59561,11 +59518,12 @@ var wordAnnotations =
                 "tags": [
                     "logogram",
                     "commodity",
-                    "Appears at 3 find sites",
+                    "Khania",
+                    "Phaistos",
                     "word or logoram"
                 ],
-                "transliteratedWord": "CAP",
-                "word": "𐘒"
+                "transliteratedWord": "QI",
+                "word": "𐘏"
             }
         ]
     },
@@ -60086,8 +60044,17 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*810-PI-KA",
-                "word": "𐝭𐘢𐘾"
+                "transliteratedWord": "[[*810]]",
+                "word": "𐝭"
+            },
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "[[PI-KA]]",
+                "word": "𐘢𐘾"
             }
         ]
     },
@@ -60360,29 +60327,13 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "lacuna at end",
                     "word",
                     "Appears at 6 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "NA",
+                "transliteratedWord": "[?]-NA",
                 "word": "𐝫𐘅𐝫"
             },
             {
@@ -60436,10 +60387,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "Appears at 4 find sites"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐝫𐘓"
+                "transliteratedWord": "*21F",
+                "word": "𐝫𐘐"
             },
             {
                 "tags": [
@@ -60925,10 +60878,12 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word separator"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "[?]",
+                "word": "𐝫"
             }
         ]
     },
@@ -60993,10 +60948,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "Appears at 4 find sites"
+                    "Phaistos",
+                    "Zakros"
                 ],
-                "transliteratedWord": "*21M",
-                "word": "𐘑"
+                "transliteratedWord": "*22M",
+                "word": "𐘔"
             }
         ]
     },
@@ -61054,10 +61010,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "[?]",
+                "word": "𐝫"
             }
         ]
     },
@@ -61104,8 +61062,15 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JA-SA-SA-RA-MA",
-                "word": "𐘱𐘞𐘞𐘴𐙁"
+                "transliteratedWord": "JA-SA-SA-RA-MA-NA",
+                "word": "𐘱𐘞𐘞𐘴𐙁𐘅"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [],
@@ -61115,45 +61080,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Appears at 6 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "NA",
-                "word": "𐘅"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at end",
-                    "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "DA-WA",
-                "word": "𐘀𐘮𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "word",
-                    "Only instance of word",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "DU-WA-TO",
-                "word": "𐝫𐘬𐘮𐘄"
+                "transliteratedWord": "DA-WA-[?]-DU-WA-TO",
+                "word": "𐘀𐘮𐝫𐘬𐘮𐘄"
             },
             {
                 "tags": [
@@ -61202,37 +61133,14 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "logogram",
                     "Appears at 9 find sites",
                     "logogram repeated in Inscription",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JA",
-                "word": "𐝫𐘱"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
+                "transliteratedWord": "[?]-[?]-JA",
+                "word": "𐝫𐝫𐘱"
             },
             {
                 "tags": [
@@ -61249,8 +61157,8 @@ var wordAnnotations =
                     "logogram repeated in Inscription",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JA",
-                "word": "𐝫𐘱"
+                "transliteratedWord": "[?]-[?]-[?]-JA",
+                "word": "𐝫𐝫𐝫𐘱"
             },
             {
                 "tags": [
@@ -61271,10 +61179,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "[?]",
+                "word": "𐝫"
             }
         ]
     },
@@ -61294,10 +61204,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "[?]",
+                "word": "𐝫"
             },
             {
                 "tags": [],
@@ -61482,12 +61394,36 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "Appears at 9 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JA-DI-WI",
-                "word": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫"
+                "transliteratedWord": "JA",
+                "word": "𐝫𐘱𐝫"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "transaction sign",
+                    "word",
+                    "Haghia Triada",
+                    "Palaikastro",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "DI",
+                "word": "𐘆𐝫"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "logogram",
+                    "transaction sign",
+                    "Haghia Triada",
+                    "Khania",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "WI",
+                "word": "𐘣𐝫"
             },
             {
                 "tags": [
@@ -61665,8 +61601,22 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "*34-TI-RI-A-DI-DA-KI-TI-PA-KU",
-                "word": "𐘟𐘠𐘭𐘇𐘆𐘀𐘸𐘠𐘂𐙂"
+                "transliteratedWord": "*34-TI-RI",
+                "word": "𐘟𐘠𐘭"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "A-DI-DA-KI-TI-PA-KU",
+                "word": "𐘇𐘆𐘀𐘸𐘠𐘂𐙂"
             },
             {
                 "tags": [
@@ -61674,11 +61624,6 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "𐄁",
                 "word": "𐄁"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
             },
             {
                 "tags": [
@@ -61707,7 +61652,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JU-KU-NA-PA-KU-NU-U-I-ZU",
+                "transliteratedWord": "JU-KU-NA-PA-KU-NU-U-[?]-I-ZU",
                 "word": "𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀"
             },
             {
@@ -61799,15 +61744,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "WI-PI",
+                "transliteratedWord": "WI-PI-[?]",
                 "word": "𐘣𐘢𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             }
         ]
     },
@@ -61852,7 +61790,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I-WA-JA",
+                "transliteratedWord": "I-[?]-WA-JA",
                 "word": "𐘚𐝫𐘮𐘱"
             }
         ]
@@ -61920,12 +61858,23 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
+                    "lacuna at end",
+                    "logogram",
+                    "Appears at 7 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "SI",
+                "word": "𐝫𐘤𐝫"
+            },
+            {
+                "tags": [
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "SI-SI-ZA-NE-*310",
-                "word": "𐝫𐘤𐝫𐘤𐘍𐘗𐙠"
+                "transliteratedWord": "SI-ZA-NE-*310",
+                "word": "𐘤𐘍𐘗𐙠"
             },
             {
                 "tags": [
@@ -62282,8 +62231,24 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "*903-I-DU-WI",
-                "word": "𐄂𐘚𐘬𐘣"
+                "transliteratedWord": "*903",
+                "word": "𐄂"
+            },
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "I-DU-WI",
+                "word": "𐘚𐘬𐘣"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [
@@ -62293,6 +62258,13 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "*47",
                 "word": "𐘨"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [],
@@ -62347,6 +62319,13 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "*47",
                 "word": "𐘨"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [],
@@ -62551,15 +62530,25 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "transaction sign",
+                    "Appears at 7 find sites",
                     "word or logoram",
-                    "assigned number",
-                    "place name",
                     "head word"
                 ],
-                "transliteratedWord": "TA-HIDE+B",
-                "word": "𐘳𐜅"
+                "transliteratedWord": "TA",
+                "word": "𐘳"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "Unique to find site, occurs repeatedly",
+                    "word or logoram",
+                    "assigned number",
+                    "always assigned number"
+                ],
+                "transliteratedWord": "HIDE+B",
+                "word": "𐜅"
             },
             {
                 "tags": [
@@ -62609,8 +62598,8 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "53",
-                "word": "𐄔𐄉"
+                "transliteratedWord": "63",
+                "word": "𐄕𐄉"
             },
             {
                 "tags": [],
@@ -62646,8 +62635,8 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "A-JA",
-                "word": "𐘇𐝫𐝫𐘱"
+                "transliteratedWord": "[[A-[?]-[?]-[?]-JA]]",
+                "word": "𐘇𐝫𐝫𐝫𐘱"
             },
             {
                 "tags": [
@@ -62658,15 +62647,15 @@ var wordAnnotations =
                     "word or logoram",
                     "assigned number"
                 ],
-                "transliteratedWord": "HIDE+[?]",
+                "transliteratedWord": "[[HIDE+[?]]]",
                 "word": "𐙒"
             },
             {
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "123",
-                "word": "𐄙𐄑𐄉"
+                "transliteratedWord": "[[137]]",
+                "word": "𐄙𐄒𐄍"
             },
             {
                 "tags": [],
@@ -62677,7 +62666,7 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "160",
+                "transliteratedWord": "[[160]]",
                 "word": "𐄙𐄕"
             }
         ]
@@ -62725,8 +62714,8 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "35",
-                "word": "𐄒𐄋"
+                "transliteratedWord": "45",
+                "word": "𐄓𐄋"
             }
         ]
     },
@@ -63040,7 +63029,7 @@ var wordAnnotations =
                     "word or logoram",
                     "assigned number"
                 ],
-                "transliteratedWord": "*402+A",
+                "transliteratedWord": "*404+A",
                 "word": "𐜬"
             },
             {
@@ -63291,7 +63280,7 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "PU",
+                "transliteratedWord": "PU-[?]",
                 "word": "𐘫𐝫"
             },
             {
@@ -63329,25 +63318,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
+                "transliteratedWord": "[?]-[?]",
+                "word": "𐝫𐝫"
             },
             {
                 "tags": [
@@ -63357,8 +63333,13 @@ var wordAnnotations =
                     "Milos",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*401+RO",
+                "transliteratedWord": "*401+RA",
                 "word": "𐜪𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -63366,6 +63347,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "—",
                 "word": "—"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -63377,6 +63363,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "KA",
                 "word": "𐘾"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -63491,7 +63482,7 @@ var wordAnnotations =
                 "tags": [
                     "Only instance of word"
                 ],
-                "transliteratedWord": "𐁁",
+                "transliteratedWord": "AI",
                 "word": "𐁁"
             }
         ]
@@ -63562,8 +63553,17 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "U-KA-RE-A-SE-SI-NA",
-                "word": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅"
+                "transliteratedWord": "U-KA-RE",
+                "word": "𐘉𐘾𐘙"
+            },
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "A-SE-SI-NA",
+                "word": "𐘇𐘈𐘤𐘅"
             },
             {
                 "tags": [],
@@ -63658,9 +63658,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
-                    "Appears at 3 find sites",
-                    "word or logoram"
+                    "number"
                 ],
                 "transliteratedWord": "72",
                 "word": "𐄖𐄈"
@@ -63736,7 +63734,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "RU-PI-*305-MI",
+                "transliteratedWord": "RU-PI-[ ]-*305-MI",
                 "word": "𐘘𐘢𐝫𐙙𐘻"
             },
             {
@@ -64121,34 +64119,13 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "lacuna at end",
-                    "word also in linear b",
                     "word",
                     "Only instance of word",
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "I-NA",
-                "word": "𐘚𐘅𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "transaction sign",
-                    "word",
-                    "Appears at 9 find sites",
-                    "word or logoram",
-                    "head word elsewhere"
-                ],
-                "transliteratedWord": "TE",
-                "word": "𐝫𐘃"
+                "transliteratedWord": "I-NA-[?]-TE",
+                "word": "𐘚𐘅𐝫𐘃"
             },
             {
                 "tags": [],
@@ -64220,11 +64197,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator",
-                    "assigned number"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "[?]",
+                "word": "𐝫"
             },
             {
                 "tags": [
@@ -64321,13 +64299,6 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "word",
                     "Appears at 6 find sites",
@@ -64335,7 +64306,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "NA",
+                "transliteratedWord": "[?]-NA",
                 "word": "𐝫𐘅"
             },
             {
@@ -64607,7 +64578,7 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*560",
+                "transliteratedWord": "*558",
                 "word": "𐝫𐛢"
             },
             {
@@ -65103,7 +65074,7 @@ var wordAnnotations =
                     "word or logoram",
                     "assigned number"
                 ],
-                "transliteratedWord": "*416+L2",
+                "transliteratedWord": "*417+L2",
                 "word": "𐝫𐜵"
             },
             {
@@ -66175,26 +66146,6 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
                     "lacuna at end",
                     "number"
@@ -66203,12 +66154,22 @@ var wordAnnotations =
                 "word": "𐄙𐄈𐝫"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at start",
                     "number"
                 ],
                 "transliteratedWord": "2",
                 "word": "𐝫𐄈"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -66230,12 +66191,22 @@ var wordAnnotations =
                 "word": "𐄌"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at start",
                     "number"
                 ],
                 "transliteratedWord": "6",
                 "word": "𐝫𐄌"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -66480,22 +66451,17 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "commodity",
-                    "Appears at 4 find sites"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐘓𐝫"
+                "transliteratedWord": "*21F",
+                "word": "𐘐𐝫"
             },
             {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "tags": [
@@ -66775,14 +66741,23 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "Appears at 4 find sites",
                     "word or logoram",
-                    "assigned number",
-                    "place name"
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "NE-*22M",
-                "word": "𐝫𐘗𐘔"
+                "transliteratedWord": "NE",
+                "word": "𐝫𐘗"
+            },
+            {
+                "tags": [
+                    "commodity",
+                    "Phaistos",
+                    "Zakros",
+                    "assigned number"
+                ],
+                "transliteratedWord": "*22M",
+                "word": "𐘔"
             },
             {
                 "tags": [
@@ -66906,11 +66881,10 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "Phaistos",
-                    "Zakros"
+                    "Appears at 4 find sites"
                 ],
-                "transliteratedWord": "*22M",
-                "word": "𐘔"
+                "transliteratedWord": "*21M",
+                "word": "𐘑"
             },
             {
                 "tags": [
@@ -67311,18 +67285,10 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Only instance of word",
-                    "word or logoram",
-                    "head word"
+                    "word or logoram"
                 ],
-                "transliteratedWord": "QA-*305",
+                "transliteratedWord": "QA-*305-[?]",
                 "word": "𐘌𐙙𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             }
         ]
     },
@@ -67331,34 +67297,15 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "lacuna at end",
-                    "logogram",
-                    "Appears at 7 find sites",
-                    "word or logoram",
-                    "head word",
-                    "recurring head word"
-                ],
-                "transliteratedWord": "SI",
-                "word": "𐘤𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
                     "word",
                     "Only instance of word",
                     "word or logoram",
                     "assigned number",
-                    "place name"
+                    "place name",
+                    "head word"
                 ],
-                "transliteratedWord": "NE-TI",
-                "word": "𐝫𐘗𐘠"
+                "transliteratedWord": "SI-[?]-NE-TI",
+                "word": "𐘤𐝫𐘗𐘠"
             },
             {
                 "tags": [
@@ -67806,9 +67753,7 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
-                    "Appears at 3 find sites",
-                    "word or logoram"
+                    "number"
                 ],
                 "transliteratedWord": "72",
                 "word": "𐄖𐄈"
@@ -67962,11 +67907,22 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Only instance of word",
+                    "Appears at 4 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "JA-SA",
+                "word": "𐘱𐘞𐝫"
+            },
+            {
+                "tags": [
+                    "lacuna at end",
+                    "word",
+                    "Appears at 3 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JA-SA-U-NA-KA-NA-SI",
-                "word": "𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫"
+                "transliteratedWord": "U-NA-KA-NA-SI",
+                "word": "𐘉𐘅𐘾𐘅𐘤𐝫"
             },
             {
                 "tags": [],
@@ -68010,28 +67966,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JA-U-PA-MA-I-DA",
-                "word": "𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "lacuna at end",
-                    "transaction sign",
-                    "word",
-                    "Haghia Triada",
-                    "Palaikastro",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "DI",
-                "word": "𐝫𐘆𐝫"
+                "transliteratedWord": "JA-U-PA-MA-I-DA-[?]-DI",
+                "word": "𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐘆𐝫"
             }
         ]
     },
@@ -68109,15 +68045,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
-                    "place name",
-                    "uses from suffix (-TE/-TI)",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-DI-KI-TE-TE",
-                "word": "𐘇𐘆𐘸𐘃𐘃𐝫"
+                "transliteratedWord": "A-DI-KI-TE-TE-[?]-[?]-RE",
+                "word": "𐘇𐘆𐘸𐘃𐘃𐝫𐝫𐘙"
             },
             {
                 "tags": [
@@ -68130,31 +68063,6 @@ var wordAnnotations =
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "logogram",
-                    "transaction sign",
-                    "Appears at 5 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "RE",
-                "word": "𐝫𐘙"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "tags": [
@@ -68189,14 +68097,6 @@ var wordAnnotations =
                 "word": "𐄁"
             },
             {
-                "tags": [
-                    "Appears at 10 find sites",
-                    "head word elsewhere"
-                ],
-                "transliteratedWord": "A",
-                "word": "𐘇"
-            },
-            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -68204,10 +68104,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
+                    "Iouktas",
+                    "Palaikastro",
                     "word or logoram"
                 ],
-                "transliteratedWord": "SA-SA-RA-ME",
-                "word": "𐘞𐘞𐘴𐘋"
+                "transliteratedWord": "A-SA-SA-RA-ME",
+                "word": "𐘇𐘞𐘞𐘴𐘋"
             },
             {
                 "tags": [
@@ -68255,24 +68157,8 @@ var wordAnnotations =
                     "Palaikastro",
                     "word or logoram"
                 ],
-                "transliteratedWord": "SI-RU",
+                "transliteratedWord": "SI-RU-[?]",
                 "word": "𐘤𐘘𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
             },
             {
                 "tags": [
@@ -68342,30 +68228,6 @@ var wordAnnotations =
                 "word": "𐝫𐘤𐝫"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
@@ -68377,6 +68239,11 @@ var wordAnnotations =
                 "word": "𐝫𐘴𐘋𐝫"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at start",
                     "word",
@@ -68384,8 +68251,15 @@ var wordAnnotations =
                     "Thera",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-NE",
+                "transliteratedWord": "A-[ ]-NE",
                 "word": "𐝫𐘇𐝫𐝫𐘗"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [
@@ -68393,8 +68267,20 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "U-NA-RU-KA-JA-SI",
-                "word": "𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤"
+                "transliteratedWord": "U-NA-RU-KA-[?]-JA-SI",
+                "word": "𐘉𐘅𐘘𐘾𐝫𐘱𐘤"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -68434,25 +68320,11 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "word",
-                    "Only instance of word",
+                    "Unique to find site, occurs repeatedly",
                     "word or logoram"
                 ],
-                "transliteratedWord": "TU-ME",
-                "word": "𐝫𐘹𐘋"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [
-                    "logogram",
-                    "Appears at 7 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "I",
-                "word": "𐘚"
+                "transliteratedWord": "TU-ME-I",
+                "word": "𐝫𐘹𐘋𐘚"
             },
             {
                 "tags": [
@@ -68460,6 +68332,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "𐄁",
                 "word": "𐄁"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -68511,16 +68388,6 @@ var wordAnnotations =
                 "word": "𐄁"
             },
             {
-                "tags": [
-                    "word",
-                    "Kea",
-                    "Palaikastro",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "PU₂",
-                "word": "𐘜"
-            },
-            {
                 "tags": [],
                 "transliteratedWord": "\n",
                 "word": "\n"
@@ -68530,11 +68397,11 @@ var wordAnnotations =
                     "lacuna at end",
                     "word",
                     "Palaikastro",
-                    "Traostalos",
+                    "Zakros",
                     "word or logoram"
                 ],
-                "transliteratedWord": "RE-JA",
-                "word": "𐘙𐘱𐝫"
+                "transliteratedWord": "PU₂-RE-JA",
+                "word": "𐘜𐘙𐘱𐝫"
             }
         ]
     },
@@ -68562,10 +68429,12 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
+                "transliteratedWord": "[?]",
+                "word": "𐝫"
             }
         ]
     },
@@ -68775,12 +68644,27 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
-                    "word or logoram"
+                    "logogram",
+                    "commodity",
+                    "Appears at 8 find sites",
+                    "word or logoram",
+                    "head word elsewhere",
+                    "logogram repeated in Inscription"
                 ],
-                "transliteratedWord": "VIN-VIN",
-                "word": "𐙍𐙍"
+                "transliteratedWord": "VIN",
+                "word": "𐙍"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 8 find sites",
+                    "word or logoram",
+                    "head word elsewhere",
+                    "logogram repeated in Inscription"
+                ],
+                "transliteratedWord": "[[VIN]]",
+                "word": "𐙍"
             }
         ]
     },
@@ -68888,37 +68772,14 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "lacuna at end",
                     "logogram",
                     "Appears at 7 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I",
+                "transliteratedWord": "[?]-I-[?]",
                 "word": "𐝫𐘚𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             }
         ]
     },
@@ -68954,7 +68815,7 @@ var wordAnnotations =
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "TA-NA-SU-TE-KE",
+                "transliteratedWord": "TA-NA-SU-TE-[ ]-KE",
                 "word": "𐘳𐘅𐘲𐘃𐝫𐘥"
             },
             {
@@ -68984,8 +68845,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-SA-SA-*802-ME",
-                "word": "𐘇𐘞𐘞𐝢𐘋"
+                "transliteratedWord": "A-SA-SA-RA-ME",
+                "word": "𐘇𐘞𐘞𐘴𐘋"
             }
         ]
     },
@@ -69030,8 +68891,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "𐄌-JA-TI",
-                "word": "𐝫𐄌𐝫𐘱𐘠"
+                "transliteratedWord": "JA-TI",
+                "word": "𐝫𐘱𐘠"
             },
             {
                 "tags": [
@@ -69112,12 +68973,22 @@ var wordAnnotations =
                 "tags": [
                     "word",
                     "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "*806",
+                "word": "𐝦"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 8 find sites",
                     "word or logoram",
                     "assigned number",
-                    "place name"
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*806-VIN",
-                "word": "𐝦𐙍"
+                "transliteratedWord": "VIN",
+                "word": "𐙍"
             },
             {
                 "tags": [
@@ -69159,33 +69030,22 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "lacuna at end",
-                    "logogram",
-                    "transaction sign",
-                    "Appears at 6 find sites",
+                    "word",
+                    "Only instance of word",
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "TI",
-                "word": "𐘠𐝫"
+                "transliteratedWord": "TI-[?]-I-SI",
+                "word": "𐘠𐝫𐘚𐘤"
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
                     "word",
-                    "Khania",
-                    "Pyrgos",
+                    "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I-SI",
-                "word": "𐝫𐘚𐘤"
+                "transliteratedWord": "*829",
+                "word": "𐝯"
             }
         ]
     },
@@ -69217,16 +69077,6 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "JA-SA",
                 "word": "𐘱𐘞"
-            },
-            {
-                "tags": [
-                    "word",
-                    "Haghia Triada",
-                    "Samothrace",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "SA-RA",
-                "word": "𐘞𐘴"
             },
             {
                 "tags": [
@@ -69290,30 +69140,12 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "lacuna at end",
-                    "Appears at 10 find sites",
-                    "head word",
-                    "recurring head word"
-                ],
-                "transliteratedWord": "A",
-                "word": "𐘇𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "DA-*118",
-                "word": "𐝫𐘀𐙈"
+                "transliteratedWord": "A-[?]-DA-*118",
+                "word": "𐘇𐝫𐘀𐙈"
             }
         ]
     },
@@ -69365,8 +69197,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "QA-KI-TI",
-                "word": "𐝫𐘌𐘸𐘠𐝫"
+                "transliteratedWord": "QA-KI-ZU",
+                "word": "𐝫𐘌𐘸𐙀𐝫"
             }
         ]
     },
@@ -69414,7 +69246,7 @@ var wordAnnotations =
                     "Appears at 9 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JA",
+                "transliteratedWord": "JA-[?]",
                 "word": "𐘱𐝫"
             }
         ]
@@ -69445,19 +69277,27 @@ var wordAnnotations =
                     "word",
                     "Only instance of word",
                     "word or logoram",
-                    "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "JA-SU-MA-TU-OLIV",
-                "word": "𐘱𐘲𐙁𐘹𐙋"
+                "transliteratedWord": "JA-SU-MA-TU",
+                "word": "𐘱𐘲𐙁𐘹"
             },
             {
                 "tags": [
-                    "'one'",
-                    "number"
+                    "logogram",
+                    "commodity",
+                    "Appears at 4 find sites",
+                    "word or logoram"
                 ],
-                "transliteratedWord": "1",
-                "word": "𐄇"
+                "transliteratedWord": "OLIV",
+                "word": "𐙋"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [],
@@ -69467,11 +69307,22 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Only instance of word",
+                    "Appears at 3 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "U-NA-KA-NA-SI-OLE",
-                "word": "𐘉𐘅𐘾𐘅𐘤𐙖"
+                "transliteratedWord": "U-NA-KA-NA-SI",
+                "word": "𐘉𐘅𐘾𐘅𐘤"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 7 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "OLE",
+                "word": "𐙖"
             },
             {
                 "tags": [],
@@ -69630,8 +69481,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "RA-KI-NI-SE",
-                "word": "𐝫𐘴𐘸𐘝𐘈"
+                "transliteratedWord": "[?]-RA-KI-[?]-NI-SE",
+                "word": "𐝫𐘴𐘸𐝫𐘝𐘈"
             }
         ]
     },
@@ -69664,8 +69515,8 @@ var wordAnnotations =
                     "Syme",
                     "word or logoram"
                 ],
-                "transliteratedWord": "JA-JA",
-                "word": "𐘱𐘱𐝫"
+                "transliteratedWord": "JA-JA-[?]-[?]-[?]",
+                "word": "𐘱𐘱𐝫𐝫𐝫"
             }
         ]
     },
@@ -69735,7 +69586,7 @@ var wordAnnotations =
                     "Appears at 10 find sites",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "A",
+                "transliteratedWord": "A-[?]",
                 "word": "𐘇𐝫"
             }
         ]
@@ -69848,14 +69699,11 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram",
                     "commodity",
-                    "Appears at 3 find sites",
-                    "logogram repeated in Inscription",
-                    "word or logoram"
+                    "Appears at 4 find sites"
                 ],
-                "transliteratedWord": "CAP",
-                "word": "𐝫𐘒"
+                "transliteratedWord": "*21M",
+                "word": "𐝫𐘑"
             },
             {
                 "tags": [
@@ -69873,14 +69721,13 @@ var wordAnnotations =
             {
                 "tags": [
                     "lacuna at start",
-                    "logogram",
                     "commodity",
-                    "Appears at 3 find sites",
-                    "logogram repeated in Inscription",
-                    "word or logoram"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "CAP",
-                "word": "𐝫𐘒"
+                "transliteratedWord": "*21F",
+                "word": "𐝫𐘐"
             },
             {
                 "tags": [
@@ -69993,7 +69840,7 @@ var wordAnnotations =
                     "Thera",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-NE",
+                "transliteratedWord": "A-NE-[[ ]]",
                 "word": "𐘇𐘗𐝫"
             }
         ]
@@ -70154,15 +70001,26 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
+                    "logogram",
+                    "commodity",
+                    "Appears at 3 find sites",
                     "word or logoram",
-                    "assigned number",
-                    "place name",
                     "head word"
                 ],
-                "transliteratedWord": "QI-VIN+TE",
-                "word": "𐘏𐛻"
+                "transliteratedWord": "QI",
+                "word": "𐘏"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Knossos",
+                    "Thera",
+                    "word or logoram",
+                    "assigned number"
+                ],
+                "transliteratedWord": "VIN+TE",
+                "word": "𐛻"
             },
             {
                 "tags": [
@@ -70176,18 +70034,10 @@ var wordAnnotations =
                     "word",
                     "Only instance of word",
                     "word or logoram",
-                    "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "KA-A-SI-TE",
-                "word": "𐘾𐘇𐘤𐝫𐘃"
-            },
-            {
-                "tags": [
-                    "number"
-                ],
-                "transliteratedWord": "120",
-                "word": "𐄙𐄑"
+                "transliteratedWord": "KA-A-SI-[[[?]-[?]-TE]]",
+                "word": "𐘾𐘇𐘤𐝫𐝫𐘃"
             }
         ]
     },
@@ -70267,19 +70117,19 @@ var wordAnnotations =
                 "word": "𐄁"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
                     "lacuna at end",
                     "word",
-                    "Only instance of word",
+                    "Appears at 3 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "U-NA-KA-NA",
-                "word": "𐘉𐘅𐘾𐘅𐝫"
+                "transliteratedWord": "U-NA-KA-NA-SI",
+                "word": "𐘉𐘅𐘾𐘅𐘤𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -70393,7 +70243,7 @@ var wordAnnotations =
                     "place name",
                     "head word"
                 ],
-                "transliteratedWord": "*309B-*34-PU-PI",
+                "transliteratedWord": "*309B-[?]-*34-PU-PI",
                 "word": "𐙞𐝫𐘟𐘫𐘢"
             },
             {
@@ -70439,8 +70289,8 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*309B-KI-PU",
-                "word": "𐙞𐘸𐘫"
+                "transliteratedWord": "*309B-[?]-KI-PU",
+                "word": "𐙞𐝫𐘸𐘫"
             },
             {
                 "tags": [
@@ -70562,7 +70412,7 @@ var wordAnnotations =
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "82",
+                "transliteratedWord": "84",
                 "word": "𐄗𐄊"
             },
             {
@@ -70576,8 +70426,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "*309C-DA-JU",
-                "word": "𐙟𐘀𐘶"
+                "transliteratedWord": "*309C-DA-[?]-JU",
+                "word": "𐙟𐘀𐝫𐘶"
             },
             {
                 "tags": [
@@ -70600,8 +70450,8 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*309C-RU-KA",
-                "word": "𐙟𐘘𐘾"
+                "transliteratedWord": "*309C-[?]-RU-KA",
+                "word": "𐙟𐝫𐘘𐘾"
             },
             {
                 "tags": [
@@ -70623,8 +70473,8 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*309-RI-WA-JU",
-                "word": "𐙝𐘭𐘮𐘶"
+                "transliteratedWord": "*309-RI-[?]-WA-JU",
+                "word": "𐙝𐘭𐝫𐘮𐘶"
             },
             {
                 "tags": [
@@ -70767,7 +70617,7 @@ var wordAnnotations =
                     "word or logoram",
                     "assigned number"
                 ],
-                "transliteratedWord": "NE-KI",
+                "transliteratedWord": "NE-KI+[?]",
                 "word": "𐘗𐘸"
             },
             {
@@ -70887,24 +70737,8 @@ var wordAnnotations =
                     "word or logoram",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "A-DU",
-                "word": "𐘇𐘬𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
+                "transliteratedWord": "A-DU-[?]-[?]",
+                "word": "𐘇𐘬𐝫𐝫"
             },
             {
                 "tags": [
@@ -71197,7 +71031,7 @@ var wordAnnotations =
                     "word or logoram",
                     "assigned number"
                 ],
-                "transliteratedWord": "KI",
+                "transliteratedWord": "KI+[?]",
                 "word": "𐝫𐘸"
             },
             {
@@ -71723,30 +71557,12 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "lacuna at end",
-                    "logogram",
-                    "Appears at 3 find sites",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "PI",
-                "word": "𐝫𐘢𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "lacuna at end",
                     "word",
-                    "Appears at 4 find sites",
+                    "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "SE",
-                "word": "𐝫𐘈𐝫"
+                "transliteratedWord": "PI-[?]-SE",
+                "word": "𐝫𐘢𐝫𐘈𐝫"
             },
             {
                 "tags": [
@@ -71833,13 +71649,6 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "word",
                     "Only instance of word",
@@ -71847,7 +71656,7 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "TU-ME-SE",
+                "transliteratedWord": "[?]-TU-ME-SE",
                 "word": "𐝫𐘹𐘋𐘈"
             },
             {
@@ -72454,34 +72263,8 @@ var wordAnnotations =
                 "word": "\n"
             },
             {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
-            },
-            {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
+                    "lacuna at start",
                     "lacuna at end",
                     "logogram",
                     "commodity",
@@ -72490,7 +72273,12 @@ var wordAnnotations =
                     "word or logoram"
                 ],
                 "transliteratedWord": "OLIV",
-                "word": "𐙋𐝫"
+                "word": "𐝫𐙋𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -72499,6 +72287,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "25",
                 "word": "𐝫𐄑𐄋"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -72512,12 +72305,22 @@ var wordAnnotations =
                 "word": "𐙘𐝫"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at start",
                     "number"
                 ],
                 "transliteratedWord": "20",
                 "word": "𐝫𐄑"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -72527,7 +72330,7 @@ var wordAnnotations =
                     "word repeated in Inscription",
                     "word or logoram"
                 ],
-                "transliteratedWord": "I-SE",
+                "transliteratedWord": "I-SE-[?]",
                 "word": "𐘚𐘈𐝫"
             }
         ]
@@ -73205,24 +73008,8 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "A-TA-NA",
+                "transliteratedWord": "A-TA-NA-[?]",
                 "word": "𐘇𐘳𐘅𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
             },
             {
                 "tags": [
@@ -73250,29 +73037,24 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "MA-JU",
+                "transliteratedWord": "[?]-MA-JU",
                 "word": "𐝫𐙁𐘶"
             },
             {
                 "tags": [
                     "commodity",
-                    "Appears at 4 find sites",
-                    "assigned number"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "assigned number",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐘓"
+                "transliteratedWord": "*21F",
+                "word": "𐘐"
             },
             {
                 "tags": [
@@ -73298,11 +73080,13 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "Appears at 4 find sites",
-                    "assigned number"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "assigned number",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐘓"
+                "transliteratedWord": "*21F",
+                "word": "𐘐"
             },
             {
                 "tags": [
@@ -76048,7 +75832,7 @@ var wordAnnotations =
                     "Zakros",
                     "word or logoram"
                 ],
-                "transliteratedWord": "ME",
+                "transliteratedWord": "[[ME]]",
                 "word": "𐘋"
             }
         ]
@@ -76075,10 +75859,12 @@ var wordAnnotations =
                     "lacuna at start",
                     "lacuna at end",
                     "commodity",
-                    "Appears at 4 find sites"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐝫𐘓𐝫"
+                "transliteratedWord": "*21F",
+                "word": "𐝫𐘐𐝫"
             },
             {
                 "tags": [],
@@ -76088,11 +75874,10 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "Phaistos",
-                    "Zakros"
+                    "Appears at 4 find sites"
                 ],
-                "transliteratedWord": "*22M",
-                "word": "𐘔"
+                "transliteratedWord": "*21M",
+                "word": "𐘑"
             },
             {
                 "tags": [
@@ -76129,32 +75914,18 @@ var wordAnnotations =
                     "Appears at 3 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "RA",
+                "transliteratedWord": "RA-[?]",
                 "word": "𐘴𐝫"
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna",
-                    "lacuna at start",
-                    "lacuna at end"
-                ],
-                "transliteratedWord": "𐝫",
-                "word": "𐝫"
-            },
-            {
-                "tags": [
                     "commodity",
-                    "Appears at 4 find sites"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐘓"
+                "transliteratedWord": "*21F",
+                "word": "𐘐"
             },
             {
                 "tags": [
@@ -76175,8 +75946,8 @@ var wordAnnotations =
                     "lacuna at start",
                     "number"
                 ],
-                "transliteratedWord": "6",
-                "word": "𐝫𐄌"
+                "transliteratedWord": "7",
+                "word": "𐝫𐄍"
             },
             {
                 "tags": [],
@@ -76201,10 +75972,12 @@ var wordAnnotations =
             {
                 "tags": [
                     "commodity",
-                    "Appears at 4 find sites"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐘓"
+                "transliteratedWord": "*21F",
+                "word": "𐘐"
             },
             {
                 "tags": [
@@ -76430,11 +76203,13 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "Appears at 4 find sites",
-                    "assigned number"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "assigned number",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐝫𐘓"
+                "transliteratedWord": "*21F",
+                "word": "𐝫𐘐"
             },
             {
                 "tags": [
@@ -76498,11 +76273,13 @@ var wordAnnotations =
                 "tags": [
                     "lacuna at start",
                     "commodity",
-                    "Appears at 4 find sites",
-                    "assigned number"
+                    "Haghia Triada",
+                    "Phaistos",
+                    "assigned number",
+                    "head word elsewhere"
                 ],
-                "transliteratedWord": "*22F",
-                "word": "𐝫𐘓"
+                "transliteratedWord": "*21F",
+                "word": "𐝫𐘐"
             },
             {
                 "tags": [
@@ -76961,29 +76738,32 @@ var wordAnnotations =
             {
                 "tags": [
                     "word",
-                    "Unique to find site, occurs repeatedly",
-                    "word repeated in Inscription",
+                    "Only instance of word",
                     "word or logoram",
                     "head word"
                 ],
-                "transliteratedWord": "A-TI-KA-A-DU-KO-MI",
-                "word": "𐘇𐘠𐘾𐘇𐘬𐘺𐘻"
-            },
-            {
-                "tags": [],
-                "transliteratedWord": "\n",
-                "word": "\n"
+                "transliteratedWord": "A-TI-KA",
+                "word": "𐘇𐘠𐘾"
             },
             {
                 "tags": [
                     "word",
-                    "Unique to find site, occurs repeatedly",
-                    "word repeated in Inscription",
+                    "Only instance of word",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "A-DU-KO",
+                "word": "𐘇𐘬𐘺"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 5 find sites",
                     "word or logoram",
                     "head word elsewhere"
                 ],
-                "transliteratedWord": "A-TI-KA-A-DU-KO-MI",
-                "word": "𐘇𐘠𐘾𐘇𐘬𐘺𐘻"
+                "transliteratedWord": "[[MI]]",
+                "word": "𐘻"
             }
         ]
     },
@@ -77026,12 +76806,26 @@ var wordAnnotations =
             },
             {
                 "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
+            },
+            {
+                "tags": [
                     "word",
                     "Only instance of word",
                     "word or logoram"
                 ],
                 "transliteratedWord": "A-SA-MU-NE",
                 "word": "𐘇𐘞𐘕𐘗"
+            },
+            {
+                "tags": [
+                    "word separator"
+                ],
+                "transliteratedWord": "𐄁",
+                "word": "𐄁"
             },
             {
                 "tags": [
@@ -77285,13 +77079,6 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
                     "lacuna at start",
                     "lacuna at end",
                     "word",
@@ -77332,13 +77119,6 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "I-NA-JA-RE-TA",
                 "word": "𐘚𐘅𐘱𐘙𐘳𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
             },
             {
                 "tags": [
@@ -77702,14 +77482,14 @@ var wordAnnotations =
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "NA",
+                "transliteratedWord": "[[NA]]",
                 "word": "𐝫𐘅"
             },
             {
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "8",
+                "transliteratedWord": "[[8]]",
                 "word": "𐄎"
             }
         ]
@@ -77984,14 +77764,14 @@ var wordAnnotations =
                     "assigned number",
                     "always assigned number"
                 ],
-                "transliteratedWord": "*317",
+                "transliteratedWord": "[[*317]]",
                 "word": "𐙩"
             },
             {
                 "tags": [
                     "number"
                 ],
-                "transliteratedWord": "2",
+                "transliteratedWord": "[[2]]",
                 "word": "𐄈"
             },
             {
@@ -78392,31 +78172,14 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
-                    "Appears at 10 find sites",
-                    "head word elsewhere"
-                ],
-                "transliteratedWord": "A",
-                "word": "𐘇𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
-                    "logogram",
-                    "commodity",
-                    "Appears at 4 find sites",
+                    "word",
+                    "Only instance of word",
                     "word or logoram",
-                    "assigned number"
+                    "assigned number",
+                    "place name"
                 ],
-                "transliteratedWord": "JU",
-                "word": "𐝫𐘶"
+                "transliteratedWord": "A-[?]-[?]-JU",
+                "word": "𐘇𐝫𐝫𐘶"
             },
             {
                 "tags": [
@@ -78432,32 +78195,14 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "lacuna at end",
-                    "word",
-                    "Only instance of word",
-                    "word or logoram"
-                ],
-                "transliteratedWord": "DE-SU",
-                "word": "𐘦𐘲𐝫"
-            },
-            {
-                "tags": [
-                    "word separator"
-                ],
-                "transliteratedWord": "𐄁",
-                "word": "𐄁"
-            },
-            {
-                "tags": [
-                    "lacuna at start",
                     "word",
                     "Only instance of word",
                     "word or logoram",
                     "assigned number",
                     "place name"
                 ],
-                "transliteratedWord": "*47-TE",
-                "word": "𐝫𐘨𐘃"
+                "transliteratedWord": "DE-SU-[?]-*47-TE",
+                "word": "𐘦𐘲𐝫𐘨𐘃"
             },
             {
                 "tags": [
@@ -78478,7 +78223,7 @@ var wordAnnotations =
                     "Only instance of word",
                     "word or logoram"
                 ],
-                "transliteratedWord": "PI-TI-NE-A",
+                "transliteratedWord": "PI-TI-NE-A-[?]",
                 "word": "𐘢𐘠𐘗𐘇𐝫"
             },
             {
@@ -79344,7 +79089,7 @@ var wordAnnotations =
                     "Appears at 4 find sites",
                     "word or logoram"
                 ],
-                "transliteratedWord": "SE",
+                "transliteratedWord": "[?]-SE",
                 "word": "𐝫𐘈𐝫"
             },
             {
@@ -79532,12 +79277,17 @@ var wordAnnotations =
             },
             {
                 "tags": [
-                    "word",
-                    "Only instance of word",
-                    "word or logoram"
+                    "number"
                 ],
-                "transliteratedWord": "𐄑,𐄈",
-                "word": "𐄑,𐄈"
+                "transliteratedWord": "20",
+                "word": "𐄑"
+            },
+            {
+                "tags": [
+                    "number"
+                ],
+                "transliteratedWord": "2",
+                "word": "𐄈"
             }
         ]
     },
@@ -79619,27 +79369,27 @@ var wordAnnotations =
     {
         "name": "PORZf2",
         "tagsForWords": [
-          {
-            "tags": [
-              "word",
-              "Only instance of word"
-            ],
-            "transliteratedWord": [ "TU-PI-TA" ],
-            "words": [ "𐘹𐘢𐘳" ]
-          }
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word"
+                ],
+                "transliteratedWord": "TU-PI-TA",
+                "word": "𐘹𐘢𐘳"
+            }
         ]
     },
     {
         "name": "PKZb26",
         "tagsForWords": [
-          {
-            "tags": [
-              "word",
-              "Only instance of word"
-            ],
-            "transliteratedWord": [ "TO-PA3-DI" ],
-            "word": [ "𐘄𐘰𐘆" ]
-          }
+            {
+                "tags": [
+                    "word",
+                    "Only instance of word"
+                ],
+                "transliteratedWord": "TO-PA3-DI",
+                "word": "𐘄𐘰𐘆"
+            }
         ]
     },
     {
@@ -79763,6 +79513,11 @@ var wordAnnotations =
                 "word": "𐝫𐄇"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "word",
                     "Only instance of word",
@@ -79778,6 +79533,11 @@ var wordAnnotations =
                 ],
                 "transliteratedWord": "8",
                 "word": "𐄎𐝫"
+            },
+            {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
             },
             {
                 "tags": [
@@ -79813,6 +79573,11 @@ var wordAnnotations =
                 "word": "𐄑𐄉"
             },
             {
+                "tags": [],
+                "transliteratedWord": "\n",
+                "word": "\n"
+            },
+            {
                 "tags": [
                     "lacuna at start",
                     "logogram",
@@ -79831,14 +79596,12 @@ var wordAnnotations =
         "tagsForWords": [
             {
                 "tags": [
-                    "logogram",
-                    "commodity",
-                    "Appears at 5 find sites",
-                    "word or logoram",
-                    "head word elsewhere"
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
                 ],
-                "transliteratedWord": "MI",
-                "word": "𐘻"
+                "transliteratedWord": "[?]",
+                "word": "𐝫"
             }
         ]
     },
@@ -80413,6 +80176,114 @@ var wordAnnotations =
                 "transliteratedWord": "",
                 "word": "",
             },
+        ]
+    },
+    {
+        "name": "KNZg57b",
+        "tagsForWords": [
+            {
+                "tags": [
+                    "logogram",
+                    "Appears at 7 find sites",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "I",
+                "word": "𐘚"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "transaction sign",
+                    "Appears at 5 find sites",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "KU",
+                "word": "𐙂"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "transaction sign",
+                    "Haghia Triada",
+                    "Khania",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "WI",
+                "word": "𐘣"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "Appears at 3 find sites",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "RA",
+                "word": "𐘴"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "transaction sign",
+                    "Appears at 6 find sites",
+                    "word or logoram",
+                    "head word elsewhere"
+                ],
+                "transliteratedWord": "KA",
+                "word": "𐘾"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "Haghia Triada",
+                    "Zakros",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "DU",
+                "word": "𐘬"
+            },
+            {
+                "tags": [
+                    "lacuna",
+                    "lacuna at start",
+                    "lacuna at end"
+                ],
+                "transliteratedWord": "𐝫",
+                "word": "𐝫"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 5 find sites",
+                    "word or logoram",
+                    "head word elsewhere",
+                    "logogram repeated in Inscription"
+                ],
+                "transliteratedWord": "GRA",
+                "word": "𐙉"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 5 find sites",
+                    "word or logoram",
+                    "head word elsewhere",
+                    "logogram repeated in Inscription"
+                ],
+                "transliteratedWord": "GRA",
+                "word": "𐙉"
+            },
+            {
+                "tags": [
+                    "logogram",
+                    "commodity",
+                    "Appears at 4 find sites",
+                    "word or logoram"
+                ],
+                "transliteratedWord": "OLIV",
+                "word": "𐙋"
+            }
         ]
     },
     {

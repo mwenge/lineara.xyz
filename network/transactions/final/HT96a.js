@@ -175,8 +175,12 @@
             "commodityID": 1,
             "description": "recipient",
             "transactionID": "HT96a-3",
-            "transliteratedWord": "*323-*317",
-            "word": "𐙯𐙩"
+            "transliteratedWord": "*323",
+            "word": "𐙯"
+        },
+        {
+            "transliteratedWord": "*317",
+            "word": "𐙩"
         },
         {
             "commodityID": 1,
@@ -215,8 +219,12 @@
             "commodityID": 1,
             "description": "recipient",
             "transactionID": "HT96a-5",
-            "transliteratedWord": "*323-*344",
-            "word": "𐙯𐚄"
+            "transliteratedWord": "*323",
+            "word": "𐙯"
+        },
+        {
+            "transliteratedWord": "*344",
+            "word": "𐚄"
         },
         {
             "commodityID": 1,
@@ -250,8 +258,12 @@
             "word": "𐄁"
         },
         {
-            "transliteratedWord": "TE-NI",
-            "word": "𐘃𐘝"
+            "transliteratedWord": "TE",
+            "word": "𐘃"
+        },
+        {
+            "transliteratedWord": "NI",
+            "word": "𐘝"
         },
         {
             "transliteratedWord": "20",

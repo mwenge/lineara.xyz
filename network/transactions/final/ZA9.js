@@ -98,16 +98,8 @@
         {
             "description": "recipient",
             "transactionID": "ZA9-3",
-            "transliteratedWord": "A-TA-NA",
+            "transliteratedWord": "A-TA-NA-[?]",
             "word": "𐘇𐘳𐘅𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
-            "transliteratedWord": "𐝫",
-            "word": "𐝫"
         },
         {
             "commodityID": 1,
@@ -128,13 +120,9 @@
             "word": "\n"
         },
         {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
             "description": "recipient",
             "transactionID": "ZA9-4",
-            "transliteratedWord": "MA-JU",
+            "transliteratedWord": "[?]-MA-JU",
             "word": "𐝫𐙁𐘶"
         },
         {

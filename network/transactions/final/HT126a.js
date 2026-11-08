@@ -58,19 +58,15 @@
         {
             "description": "sender",
             "transactionID": "HT126a-1",
-            "transliteratedWord": "A-NA",
+            "transliteratedWord": "A-NA-[?]",
             "word": "𐘇𐘅𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
         },
         {
             "commodityID": 1,
             "description": "quantity",
             "transactionID": "HT126a-1",
             "transliteratedWord": "1",
-            "word": "𐝫𐄇"
+            "word": "𐄇"
         },
         {
             "transliteratedWord": "\n",

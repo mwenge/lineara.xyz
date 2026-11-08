@@ -217,8 +217,12 @@
             "commodityID": 1,
             "description": "quantity",
             "transactionID": "HT10a-5",
-            "transliteratedWord": "14",
-            "word": "𐄐𐄊𐝫"
+            "transliteratedWord": "10",
+            "word": "𐄐"
+        },
+        {
+            "transliteratedWord": "[[4]]",
+            "word": "𐄊𐝫"
         },
         {
             "transliteratedWord": "\n",

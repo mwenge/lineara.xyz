@@ -210,11 +210,15 @@
             "word": "\n"
         },
         {
+            "transliteratedWord": "VIR+KA",
+            "word": "𐛧"
+        },
+        {
             "commodityID": 1,
             "description": "commodity",
             "transactionID": "HT28a-4",
-            "transliteratedWord": "VIR+KA-VIN",
-            "word": "𐛧𐙍"
+            "transliteratedWord": "VIN",
+            "word": "𐙍"
         },
         {
             "commodityID": 1,

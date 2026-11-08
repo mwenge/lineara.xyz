@@ -60,6 +60,10 @@
             "word": "𐘂𐘴"
         },
         {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
             "transliteratedWord": "\n",
             "word": "\n"
         },
@@ -156,6 +160,18 @@
         {
             "transliteratedWord": "DI",
             "word": "𐘆𐝫"
+        },
+        {
+            "transliteratedWord": "\n",
+            "word": "\n"
+        },
+        {
+            "transliteratedWord": "GRA",
+            "word": "𐝫𐙉𐝫"
+        },
+        {
+            "transliteratedWord": "1",
+            "word": "𐄇"
         },
         {
             "transliteratedWord": "\n",

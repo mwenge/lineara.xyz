@@ -11,8 +11,16 @@
         {
             "description": "recipient",
             "transactionID": "KNZb35-1",
-            "transliteratedWord": "JA-DI-WI",
-            "word": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫"
+            "transliteratedWord": "JA",
+            "word": "𐝫𐘱𐝫"
+        },
+        {
+            "transliteratedWord": "DI",
+            "word": "𐘆𐝫"
+        },
+        {
+            "transliteratedWord": "WI",
+            "word": "𐘣𐝫"
         },
         {
             "commodityID": 1,

@@ -166,18 +166,10 @@
             "word": "\n"
         },
         {
-            "transliteratedWord": "PI",
-            "word": "𐝫𐘢𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
             "description": "recipient",
             "transactionID": "ZA4a-1",
-            "transliteratedWord": "SE",
-            "word": "𐝫𐘈𐝫"
+            "transliteratedWord": "PI-[?]-SE",
+            "word": "𐝫𐘢𐝫𐘈𐝫"
         },
         {
             "commodityID": 2,
@@ -244,15 +236,10 @@
             "word": "\n"
         },
         {
-            "transactionID": "ZA4a-4",
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
             "commodityID": 2,
             "description": "recipient",
             "transactionID": "ZA4a-5",
-            "transliteratedWord": "TU-ME-SE",
+            "transliteratedWord": "[?]-TU-ME-SE",
             "word": "𐝫𐘹𐘋𐘈"
         },
         {

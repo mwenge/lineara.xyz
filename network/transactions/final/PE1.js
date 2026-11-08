@@ -95,13 +95,13 @@
             "description": "sender",
             "transactionID": "PE1-1",
             "transliteratedWord": "U-KA-RE",
-            "word": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅"
+            "word": "𐘉𐘾𐘙"
         },
         {
             "description": "recipient",
             "transactionID": "PE1-2",
             "transliteratedWord": "A-SE-SI-NA",
-            "word": "𐘉𐘾𐘙𐘇𐘈𐘤𐘅"
+            "word": "𐘇𐘈𐘤𐘅"
         },
         {
             "transliteratedWord": "\n",

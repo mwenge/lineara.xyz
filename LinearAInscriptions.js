@@ -571,11 +571,11 @@ var inscriptions = new Map([
     "names": [
         "HT6b"
     ],
-    "parsedInscription": "𐘮𐘬𐘝𐘻𐄉𐝅\n𐘴𐘠𐘈𐄇\n𐙁𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃\n𐘞𐙁𐄒𐄋\n𐘰𐘝𐘅𐄐𐄍𐝆",
+    "parsedInscription": "𐘮𐘬𐘝𐘻𐄉𐝅\n𐘴𐘠𐘈𐄇\n𐙁𐘭𐝫𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃\n𐘞𐙁𐄒𐄋\n𐘰𐘝𐘅𐄐𐄍𐝆",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘮𐘬𐘝𐘻\n𐄉𐝅𐝢𐘠𐘈𐄇𐙁\n𐘭𐘙𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃𐘞𐙁𐄒\n𐄋𐘰𐘝𐘅𐄐𐄍𐝆",
+    "transcription": "𐘮𐘬𐘝𐘻\n𐄉𐝅𐘴𐘠𐘈𐄇𐙁\n𐘭𐝫𐘚𐄉\n𐘬𐘀𐙁𐄕𐄌\n𐘀𐘸𐄉𐝃𐘞𐙁𐄒\n𐄋𐘰𐘝𐘅𐄐𐄍𐝆",
     "translatedWords": [
         "WA-DU-NI-MI",
         "3",
@@ -584,7 +584,7 @@ var inscriptions = new Map([
         "RA-TI-SE",
         "1",
         "\n",
-        "MA-RI-RE-I",
+        "MA-RI-[?]-I",
         "3",
         "\n",
         "DU-DA-MA",
@@ -609,7 +609,7 @@ var inscriptions = new Map([
         "RA-TI-SE",
         "1",
         "\n",
-        "MA-RI-RE-I",
+        "MA-RI-[?]-I",
         "3",
         "\n",
         "DU-DA-MA",
@@ -634,7 +634,7 @@ var inscriptions = new Map([
         "𐘴𐘠𐘈",
         "𐄇",
         "\n",
-        "𐙁𐘭𐘙𐘚",
+        "𐙁𐘭𐝫𐘚",
         "𐄉",
         "\n",
         "𐘬𐘀𐙁",
@@ -1132,7 +1132,7 @@ var inscriptions = new Map([
         "PA₃",
         "𐄁",
         "\n",
-        "WA-JA-PI",
+        "WA-JA-PI-[?]",
         "\n",
         "—",
         "\n",
@@ -1167,7 +1167,7 @@ var inscriptions = new Map([
         "PA₃",
         "𐄁",
         "\n",
-        "WA-JA-PI",
+        "WA-JA-PI-[?]",
         "\n",
         "—",
         "\n",
@@ -1276,7 +1276,8 @@ var inscriptions = new Map([
         "6",
         "\n",
         "U-*325-ZA",
-        "14",
+        "10",
+        "[[4]]",
         "\n",
         "*305-RU",
         "2",
@@ -1310,7 +1311,8 @@ var inscriptions = new Map([
         "6",
         "\n",
         "U-*325-ZA",
-        "14",
+        "10",
+        "[[4]]",
         "\n",
         "*305-RU",
         "2",
@@ -1344,7 +1346,8 @@ var inscriptions = new Map([
         "𐄌",
         "\n",
         "𐘉𐙱𐘍",
-        "𐄐𐄊𐝫",
+        "𐄐",
+        "𐄊𐝫",
         "\n",
         "𐙙𐘘",
         "𐄈",
@@ -1456,14 +1459,13 @@ var inscriptions = new Map([
     "names": [
         "HT11a"
     ],
-    "parsedInscription": "𐘇𐘘𐘴𐝫𐄁𐝫𐄉\n𐘾𐘁𐘅𐄈\n𐙮𐘭𐄇\n𐙂𐘁𐄐\n𐘇𐘲𐘱𐄇\n𐙇𐘚𐄉\n𐘷𐄐𐄋",
+    "parsedInscription": "𐘇𐘘𐘴𐝫𐄉\n𐘾𐘁𐘅𐄈\n𐙮𐘭𐄇\n𐙂𐘁𐄐\n𐘇𐘲𐘱𐄇\n𐙇𐘚𐄉\n𐘷𐄐𐄋",
     "scribe": "HT Scribe 24",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘇𐘘𐘴𐝫𐄁𐝫\n𐄉𐘾𐘁𐘅𐄈𐘇\n𐙮𐘭𐄇𐙂𐘁𐄐𐘇\n𐘲𐘱𐄇𐙇𐘚\n𐄉𐘷𐄐𐄋",
+    "transcription": "𐘇𐘘𐘴𐝫\n𐄉𐘾𐘁𐘅𐄈𐘇\n𐙮𐘭𐄇𐙂𐘁𐄐𐘇\n𐘲𐘱𐄇𐙇𐘚\n𐄉𐘷𐄐𐄋",
     "translatedWords": [
-        "A-RU-RA",
-        "𐄁",
+        "A-RU-RA-[?]",
         "3",
         "\n",
         "KA-RO-NA",
@@ -1485,8 +1487,7 @@ var inscriptions = new Map([
         "15"
     ],
     "transliteratedWords": [
-        "A-RU-RA",
-        "𐄁",
+        "A-RU-RA-[?]",
         "3",
         "\n",
         "KA-RO-NA",
@@ -1509,8 +1510,7 @@ var inscriptions = new Map([
     ],
     "words": [
         "𐘇𐘘𐘴𐝫",
-        "𐄁",
-        "𐝫𐄉",
+        "𐄉",
         "\n",
         "𐘾𐘁𐘅",
         "𐄈",
@@ -1667,7 +1667,7 @@ var inscriptions = new Map([
         "E",
         "30",
         "\n",
-        "*560",
+        "*559",
         "𐄁",
         "talent",
         "5",
@@ -1701,7 +1701,7 @@ var inscriptions = new Map([
         "E",
         "30",
         "\n",
-        "*560",
+        "*559",
         "𐄁",
         "*118",
         "5",
@@ -2023,7 +2023,7 @@ var inscriptions = new Map([
         "DU-AROM-A",
         "684",
         "\n",
-        "GRA+L4+L4",
+        "GRA+L3+L3",
         "570",
         "\n",
         "*188",
@@ -2040,7 +2040,7 @@ var inscriptions = new Map([
         "DU-AROM-A",
         "684",
         "\n",
-        "GRA+L4+L4",
+        "GRA+L3+L3",
         "570",
         "\n",
         "*188",
@@ -2158,18 +2158,18 @@ var inscriptions = new Map([
     "names": [
         "HT17"
     ],
-    "parsedInscription": "𐘴󽇫𐘠𐄁𐘃𐄁𐙍𐄒𐄍\n𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
+    "parsedInscription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍𐄒𐄎\n𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
     "scribe": "HT Scribe 18",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍\n𐄒𐄍𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
+    "transcription": "𐘴𐙐𐘠𐄁𐘃𐄁𐙍\n𐄒𐄎𐘞𐘁𐄐\n𐘤𐘀𐘙𐄋",
     "translatedWords": [
-        "RA-󽇫-TI",
+        "RA-*164-TI",
         "𐄁",
         "TE",
         "𐄁",
         "wine",
-        "37",
+        "38",
         "\n",
         "SA-RO",
         "10",
@@ -2178,12 +2178,12 @@ var inscriptions = new Map([
         "5"
     ],
     "transliteratedWords": [
-        "RA-󽇫-TI",
+        "RA-*164-TI",
         "𐄁",
         "TE",
         "𐄁",
         "VIN",
-        "37",
+        "38",
         "\n",
         "SA-RO",
         "10",
@@ -2192,12 +2192,12 @@ var inscriptions = new Map([
         "5"
     ],
     "words": [
-        "𐘴󽇫𐘠",
+        "𐘴𐙐𐘠",
         "𐄁",
         "𐘃",
         "𐄁",
         "𐙍",
-        "𐄒𐄍",
+        "𐄒𐄎",
         "\n",
         "𐘞𐘁",
         "𐄐",
@@ -2365,11 +2365,11 @@ var inscriptions = new Map([
     "names": [
         "HT20"
     ],
-    "parsedInscription": "𐘂𐘁𐘲𐄁\n𐙂𐙁𐘶𐝃\n𐘿𐙂𐘙𐄁𐘆𐝆\n𐘑𐝄\n𐘞𐘙𐘶𐝄\n𐘮𐝃\n𐜇𐝆",
+    "parsedInscription": "𐘂𐘁𐘲𐄁\n𐙂𐙁𐘶𐝃\n𐘿𐙂𐘙𐄁𐘆𐝆\n𐘔𐝄\n𐘞𐘙𐘶𐝄\n𐘮𐝃\n𐜇𐝆",
     "scribe": "HT Scribe 10",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘂𐘁𐘲𐄁𐙂\n𐙁𐘶𐝃𐘿𐙂\n𐘙𐄁𐘆𐝆𐘑𐝄\n𐘞𐘙𐘶𐝄𐘮\n𐝃𐜇𐝆",
+    "transcription": "𐘂𐘁𐘲𐄁𐙂\n𐙁𐘶𐝃𐘿𐙂\n𐘙𐄁𐘆𐝆𐘔𐝄\n𐘞𐘙𐘶𐝄𐘮\n𐝃𐜇𐝆",
     "translatedWords": [
         "PA-RO-SU",
         "𐄁",
@@ -2382,7 +2382,7 @@ var inscriptions = new Map([
         "DI",
         "¹⁄₂",
         "\n",
-        "ram",
+        "he-goat",
         "¹⁄₈",
         "\n",
         "SA-RE-JU",
@@ -2406,7 +2406,7 @@ var inscriptions = new Map([
         "DI",
         "¹⁄₂",
         "\n",
-        "*21M",
+        "*22M",
         "¹⁄₈",
         "\n",
         "SA-RE-JU",
@@ -2430,7 +2430,7 @@ var inscriptions = new Map([
         "𐘆",
         "𐝆",
         "\n",
-        "𐘑",
+        "𐘔",
         "𐝄",
         "\n",
         "𐘞𐘙𐘶",
@@ -2602,11 +2602,11 @@ var inscriptions = new Map([
     "names": [
         "HT23a"
     ],
-    "parsedInscription": "𐘾𐘅𐄁𐙗𐝁\n𐙜𐝅\n𐜍𐝅\n𐜖𐝅\n𐜏𐝅\n𐛚𐝅\n𐙍𐄐\n𐚹𐄐\n𐚺𐄐\n𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇\n𐘞𐘞𐘋𐝇\n𐛊𐄐\n𐘺𐘘𐄇",
+    "parsedInscription": "𐘾𐘅𐄁𐙗𐝁\n𐙜𐝅\n𐜍𐝅\n𐜖𐝅\n𐜏𐝅\n𐛚𐝅\n𐙍𐄐\n𐚻𐄐\n𐚹𐄐\n𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇\n𐘞𐘞𐘋𐝇\n𐛊𐄐\n𐘺𐘘𐄇",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘾𐘅𐄁𐙗𐝁𐙜𐝅𐜍𐝅\n𐜖𐝅𐜏𐝅𐛚𐝅𐙍\n𐄐𐚹𐄐𐚺𐄐𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇𐘞𐘞\n𐘋𐝇𐛊𐄐𐘺𐘘𐄇",
+    "transcription": "𐘾𐘅𐄁𐙗𐝁𐙜𐝅𐜍𐝅\n𐜖𐝅𐜏𐝅𐛚𐝅𐙍\n𐄐𐚻𐄐𐚹𐄐𐘡𐄐𐄍\n𐘐𐘭𐘹𐘌𐝇𐘞𐘞\n𐘋𐝇𐛊𐄐𐘺𐘘𐄇",
     "translatedWords": [
         "KA-NA",
         "𐄁",
@@ -2676,10 +2676,10 @@ var inscriptions = new Map([
         "VIN",
         "10",
         "\n",
-        "QA2+[?]+RE",
+        "QA2+[?]+PU",
         "10",
         "\n",
-        "QA2+[?]+RE+PU",
+        "QA2+[?]+RE",
         "10",
         "\n",
         "E",
@@ -2721,10 +2721,10 @@ var inscriptions = new Map([
         "𐙍",
         "𐄐",
         "\n",
-        "𐚹",
+        "𐚻",
         "𐄐",
         "\n",
-        "𐚺",
+        "𐚹",
         "𐄐",
         "\n",
         "𐘡",
@@ -2758,13 +2758,14 @@ var inscriptions = new Map([
     "names": [
         "HT23b"
     ],
-    "parsedInscription": "𐘝𐘴𐙗𐝁\n𐙖𐝫𐝁\n𐛚\n𐝫𐘕𐝫\n𐚻𐝫\n𐚹𐄇\n𐝫\n𐘡𐄍𐝫\n𐝫",
+    "parsedInscription": "𐘝𐘴𐄁𐙗𐝁\n𐙖𐝫𐝁\n𐛚\n𐝫𐘕𐝫\n𐚻𐝫\n𐚹𐄇\n𐝫\n𐘡𐄍𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘝𐘴𐙗𐝁𐙖𐝫𐝁\n𐛚𐝫𐘕𐝫𐚻𐝫𐚹𐄇\n𐝫𐘡𐄍𐝫\n𐝫\n𐝫",
+    "transcription": "𐘝𐘴𐄁𐙗𐝁𐙖𐝫𐝁\n𐛚𐝫𐘕𐝫𐚻𐝫𐚹𐄇\n𐝫𐘡𐄍𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "NI-RA",
+        "𐄁",
         "cyperus",
         "¹⁄₃",
         "\n",
@@ -2789,6 +2790,7 @@ var inscriptions = new Map([
     ],
     "transliteratedWords": [
         "NI-RA",
+        "𐄁",
         "CYP",
         "¹⁄₃",
         "\n",
@@ -2813,6 +2815,7 @@ var inscriptions = new Map([
     ],
     "words": [
         "𐘝𐘴",
+        "𐄁",
         "𐙗",
         "𐝁",
         "\n",
@@ -2851,71 +2854,71 @@ var inscriptions = new Map([
     "names": [
         "HT24a"
     ],
-    "parsedInscription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌\n𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆\n𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐙁𐘘𐘋\n𐘘𐘚𐘺𐛢𐝫",
+    "parsedInscription": "𐙂𐘰𐘭𐘱𐘸𐛢𐝫\n𐝫𐄌\n𐛢𐘋𐄐\n𐝫𐄏𐝆\n𐛢𐘋𐄌\n𐘂𐘞𐘭𐘱𐛢𐘋𐝫\n𐘘𐘚𐘺𐛢𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐙂𐘰𐘭𐘱𐘸𐙁𐘘𐝫\n𐝫𐄌𐙁𐘘𐘋𐄐\n𐝫𐄏𐝆𐙁𐘘𐘋𐄌\n𐘂𐘞𐘭𐘱𐛢𐝫\n𐘘𐘚𐘺𐛢𐝫",
+    "transcription": "𐙂𐘰𐘭𐘱𐘸𐛢𐝫\n𐝫𐄌𐛢𐘋𐄐\n𐝫𐄏𐝆𐛢𐘋𐄌\n𐘂𐘞𐘭𐘱𐛢𐘋𐝫\n𐘘𐘚𐘺𐛢𐝫",
     "translatedWords": [
         "KU-PA₃-RI-JA",
-        "KI-MA-RU",
+        "*546",
         "\n",
         "6",
         "\n",
-        "MA-RU-ME",
+        "*561",
         "10",
         "\n",
         "9",
         "¹⁄₂",
         "\n",
-        "MA-RU-ME",
+        "*561",
         "6",
         "\n",
         "from PA-SA-RI",
+        "*561",
         "\n",
-        "MA-RU-ME",
         "RU-I-KO",
         "*560"
     ],
     "transliteratedWords": [
         "KU-PA₃-RI-JA",
-        "KI-MA-RU",
+        "*546",
         "\n",
         "6",
         "\n",
-        "MA-RU-ME",
+        "*561",
         "10",
         "\n",
         "9",
         "¹⁄₂",
         "\n",
-        "MA-RU-ME",
+        "*561",
         "6",
         "\n",
         "PA-SA-RI-JA",
+        "*561",
         "\n",
-        "MA-RU-ME",
         "RU-I-KO",
         "*560"
     ],
     "words": [
         "𐙂𐘰𐘭𐘱",
-        "𐘸𐙁𐘘𐝫",
+        "𐘸𐛢𐝫",
         "\n",
         "𐝫𐄌",
         "\n",
-        "𐙁𐘘𐘋",
+        "𐛢𐘋",
         "𐄐",
         "\n",
         "𐝫𐄏",
         "𐝆",
         "\n",
-        "𐙁𐘘𐘋",
+        "𐛢𐘋",
         "𐄌",
         "\n",
         "𐘂𐘞𐘭𐘱",
+        "𐛢𐘋𐝫",
         "\n",
-        "𐙁𐘘𐘋𐝫",
         "𐘘𐘚𐘺",
         "𐛢𐝫"
     ]
@@ -2945,11 +2948,13 @@ var inscriptions = new Map([
         "1",
         "³⁄₄",
         "\n",
-        "SI+ME-KI-*118",
+        "SI+ME-KI",
+        "talent",
         "1",
         "³⁄₄",
         "\n",
-        "*539-*118",
+        "*539",
+        "talent",
         "1"
     ],
     "transliteratedWords": [
@@ -2957,11 +2962,13 @@ var inscriptions = new Map([
         "1",
         "³⁄₄",
         "\n",
-        "SI+ME-KI-*118",
+        "SI+ME-KI",
+        "*118",
         "1",
         "³⁄₄",
         "\n",
-        "*539-*118",
+        "*539",
+        "*118",
         "1"
     ],
     "words": [
@@ -2969,11 +2976,13 @@ var inscriptions = new Map([
         "𐄇",
         "𐝕",
         "\n",
-        "𐛋𐙈",
+        "𐛋",
+        "𐙈",
         "𐄇",
         "𐝕",
         "\n",
-        "𐛒𐙈",
+        "𐛒",
+        "𐙈",
         "𐄇"
     ]
 }],
@@ -3518,7 +3527,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=84",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=86",
     "images": [
         "images/HT27b-Inscription.jpg"
     ],
@@ -3530,7 +3539,7 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 11",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐙉𐄁𐘞𐄇𐘙𐄐𐄊𐙍𐘤\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊𐘙𐝫𐄓",
+    "transcription": "𐝫𐘻𐘀𐄁𐛾𐄁𐘞𐄍\n𐝫𐙍𐄁𐙉𐄁𐘞𐄇𐘙𐄐𐄊𐙍𐄁𐘤𐄁\n𐝫\n𐘂𐘈𐄁𐛽𐄁𐘞𐄊𐘙𐄖\n𐙍𐝫𐄁𐝫𐙉𐄁𐘞𐄊𐘙𐝫𐄓",
     "translatedWords": [
         "MI-DA",
         "𐄁",
@@ -3718,7 +3727,8 @@ var inscriptions = new Map([
         "wine",
         "3",
         "\n",
-        "VIR+KA-VIN",
+        "VIR+KA",
+        "wine",
         "6",
         "\n",
         "A-RU-DA-RA",
@@ -3766,7 +3776,8 @@ var inscriptions = new Map([
         "VIN",
         "3",
         "\n",
-        "VIR+KA-VIN",
+        "VIR+KA",
+        "VIN",
         "6",
         "\n",
         "A-RU-DA-RA",
@@ -3814,7 +3825,8 @@ var inscriptions = new Map([
         "𐙍",
         "𐄉",
         "\n",
-        "𐛧𐙍",
+        "𐛧",
+        "𐙍",
         "𐄌",
         "\n",
         "𐘇𐘘𐘀𐘴",
@@ -3851,7 +3863,7 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 13",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻𐄁\n𐘅𐘤𐘞𐘽𐙉𐄑𐜉\n𐄋𐘝𐄈𐙍𐄊𐘫𐘽\n𐘝𐄌𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉𐙍𐄉\n𐝫𐝃𐝫",
+    "transcription": "𐘇𐘤𐘱𐘾𐄁𐘉𐘻\n𐘅𐘤𐄁𐘞𐘽𐙉𐄑𐜉\n𐄋𐘝𐄈𐙍𐄊𐘫𐘽\n𐘝𐄌𐘱𐘐𐙍𐄌\n𐘣𐘆𐘅𐜉𐄉𐙍𐄉\n𐝫𐝃𐝫",
     "translatedWords": [
         "A-SI-JA-KA",
         "𐄁",
@@ -3976,16 +3988,16 @@ var inscriptions = new Map([
     "names": [
         "HT29"
     ],
-    "parsedInscription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐄇\n𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇\n𐝫𐄁𐝫𐘸𐘳𐄈\n𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
+    "parsedInscription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄇\n𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇\n𐝫𐘸𐘳𐄈\n𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄁𐝫𐄇𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇𐝫𐄁𐝫𐘸𐘳\n𐄈𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
+    "transcription": "𐘘𐙁𐘳𐄈𐝫\n𐝫𐄇𐘂𐘱𐘙𐄈𐝫\n𐝫𐘆𐘱𐘚𐄈\n𐘞𐙯𐘻𐄇𐝫𐘸𐘳\n𐄈𐘇𐘙𐘀𐘚𐄈\n𐘾𐘬𐙁𐘗𐄇",
     "translatedWords": [
         "RU-MA-TA",
         "2",
         "\n",
-        "𐄁",
+        "[?]",
         "1",
         "\n",
         "PA-JA-RE",
@@ -3997,8 +4009,7 @@ var inscriptions = new Map([
         "SA-*323-MI",
         "1",
         "\n",
-        "𐄁",
-        "KI-TA",
+        "[?]-KI-TA",
         "2",
         "\n",
         "A-RE-DA-I",
@@ -4011,7 +4022,7 @@ var inscriptions = new Map([
         "RU-MA-TA",
         "2",
         "\n",
-        "𐄁",
+        "[?]",
         "1",
         "\n",
         "PA-JA-RE",
@@ -4023,8 +4034,7 @@ var inscriptions = new Map([
         "SA-*323-MI",
         "1",
         "\n",
-        "𐄁",
-        "KI-TA",
+        "[?]-KI-TA",
         "2",
         "\n",
         "A-RE-DA-I",
@@ -4037,7 +4047,7 @@ var inscriptions = new Map([
         "𐘘𐙁𐘳",
         "𐄈𐝫",
         "\n",
-        "𐄁",
+        "𐝫",
         "𐄇",
         "\n",
         "𐘂𐘱𐘙",
@@ -4049,7 +4059,6 @@ var inscriptions = new Map([
         "𐘞𐙯𐘻",
         "𐄇",
         "\n",
-        "𐄁",
         "𐝫𐘸𐘳",
         "𐄈",
         "\n",
@@ -4249,14 +4258,13 @@ var inscriptions = new Map([
     "names": [
         "HT31"
     ],
-    "parsedInscription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋\n𐚢𐘌𐘰𐄐\n𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐\n𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐\n𐘸𐘦𐙁𐙯𐘅\n𐚢𐄜\n𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
+    "parsedInscription": "𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋\n𐚢𐘌𐘰𐄐\n𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐\n𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐\n𐘸𐘦𐙁𐙯𐘅\n𐚢𐄜\n𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
     "scribe": "HT Scribe 12",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫𐄁𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋𐚢𐘌𐘰𐄐𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐𐘸𐘦𐙁𐙯𐘅\n𐝫𐚢𐝫𐄜𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
+    "transcription": "𐝫𐘠𐘞𐄁𐘫𐘺𐄁𐚪𐝫\n𐝫𐄋𐚢𐘌𐘰𐄐𐚯𐘲𐘫𐄐\n𐝫𐚰𐘾𐘁𐘰𐄐𐘞𐘱𐙁𐄒𐝫\n𐝫𐄐𐘸𐘦𐙁𐙯𐘅\n𐝫𐚢𐝫𐄜𐚢𐘲𐘰𐘴𐄛\n𐚢𐘂𐘳𐘿𐄤",
     "translatedWords": [
-        "𐄁",
-        "TI-SA",
+        "[?]-TI-SA",
         "𐄁",
         "PU-KO",
         "𐄁",
@@ -4291,8 +4299,7 @@ var inscriptions = new Map([
         "3000"
     ],
     "transliteratedWords": [
-        "𐄁",
-        "TI-SA",
+        "[?]-TI-SA",
         "𐄁",
         "PU-KO",
         "𐄁",
@@ -4327,7 +4334,6 @@ var inscriptions = new Map([
         "3000"
     ],
     "words": [
-        "𐄁",
         "𐝫𐘠𐘞",
         "𐄁",
         "𐘫𐘺",
@@ -4507,12 +4513,15 @@ var inscriptions = new Map([
     "names": [
         "HT33"
     ],
-    "parsedInscription": "𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃\n𐚹𐝉𐝋𐝫\n𐝫𐄉\n𐛆𐝃𐝉\n𐛜𐝂\n𐙙𐄘\n𐜦𐄙\n𐛐𐄙",
+    "parsedInscription": "𐝫𐄁\n𐘞𐘽𐄁𐜫\n𐚻𐄇𐝃\n𐚹𐝉𐝋𐝫\n𐝫𐄉\n𐛆𐝃𐝉\n𐛜𐝂\n𐙙𐄘\n𐜦𐄙\n𐛐𐄙",
     "scribe": "HT Scribe 1",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘞𐘽𐄁𐜫\n𐚺𐄇𐝃𐚹𐝉𐝋𐝫\n𐝫𐄉𐛆𐝃𐝉𐛜𐝂\n𐙙𐄘𐜦𐄙𐛐𐄙",
+    "transcription": "𐝫𐄁𐘞𐘽𐄁𐜫\n𐚻𐄇𐝃𐚹𐝉𐝋𐝫\n𐝫𐄉𐛆𐝃𐝉𐛜𐝂\n𐙙𐄘𐜦𐄙𐛐𐄙",
     "translatedWords": [
+        "𐝫",
+        "𐄁",
+        "\n",
         "SA-RA₂",
         "𐄁",
         "*401+*304",
@@ -4542,11 +4551,14 @@ var inscriptions = new Map([
         "100"
     ],
     "transliteratedWords": [
+        "𐝫",
+        "𐄁",
+        "\n",
         "SA-RA₂",
         "𐄁",
         "*401+*304",
         "\n",
-        "QA2+[?]+RE+PU",
+        "QA2+[?]+PU",
         "1",
         "¹⁄₄",
         "\n",
@@ -4571,11 +4583,14 @@ var inscriptions = new Map([
         "100"
     ],
     "words": [
+        "𐝫",
+        "𐄁",
+        "\n",
         "𐘞𐘽",
         "𐄁",
         "𐜫",
         "\n",
-        "𐚺",
+        "𐚻",
         "𐄇",
         "𐝃",
         "\n",
@@ -4898,7 +4913,8 @@ var inscriptions = new Map([
     "transcription": "𐘧𐘆𐜠𐛱𐄑\n𐄓𐄊𐝆𐘬𐙀𐘮\n𐄍𐝆\n𐝫\n𐄌",
     "translatedWords": [
         "JE-DI",
-        "*307+*387-GRA+QE",
+        "*307+*307",
+        "grain",
         "[[20]]",
         "44",
         "¹⁄₂",
@@ -4913,7 +4929,8 @@ var inscriptions = new Map([
     ],
     "transliteratedWords": [
         "JE-DI",
-        "*307+*387-GRA+QE",
+        "*307+*307",
+        "GRA+QE",
         "[[20]]",
         "44",
         "¹⁄₂",
@@ -4928,7 +4945,8 @@ var inscriptions = new Map([
     ],
     "words": [
         "𐘧𐘆",
-        "𐜠𐛱",
+        "𐜠",
+        "𐛱",
         "𐄑",
         "𐄓𐄊",
         "𐝆",
@@ -4957,17 +4975,16 @@ var inscriptions = new Map([
     "names": [
         "HT37"
     ],
-    "parsedInscription": "𐛛𐄁\n𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐝫\n𐝫𐄌\n𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁\n𐘾𐘸𐄐𐄇\n𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍",
+    "parsedInscription": "𐛛𐄁\n𐘾𐘸𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐝫\n𐝫𐄌\n𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁\n𐘾𐘸𐄐𐄇\n𐘇𐄐𐄋\n𐝫𐘿𐄐𐄍",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐛛𐄁𐘾𐘸𐄁𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐄌𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁𐘾𐘸𐄐𐄇𐘇𐄐𐄋\n𐝫𐄁𐝫𐘿𐄐𐄍",
+    "transcription": "𐛛𐄁𐘾𐘸𐄁𐘲𐝫\n𐝫𐘙𐘲𐝫\n𐄌𐝫\n𐘸𐙠𐘙𐄇\n𐘸𐘁𐄁𐘾𐘸𐄐𐄇𐘇𐄐𐄋\n𐝫𐘿𐄐𐄍",
     "translatedWords": [
         "liquid?",
         "𐄁",
         "\n",
         "KA-KI",
-        "𐄁",
         "𐄁",
         "SU",
         "\n",
@@ -4991,8 +5008,7 @@ var inscriptions = new Map([
         "A",
         "15",
         "\n",
-        "𐄁",
-        "QE",
+        "[?]-QE",
         "17"
     ],
     "transliteratedWords": [
@@ -5000,7 +5016,6 @@ var inscriptions = new Map([
         "𐄁",
         "\n",
         "KA-KI",
-        "𐄁",
         "𐄁",
         "SU",
         "\n",
@@ -5024,8 +5039,7 @@ var inscriptions = new Map([
         "A",
         "15",
         "\n",
-        "𐄁",
-        "QE",
+        "[?]-QE",
         "17"
     ],
     "words": [
@@ -5033,7 +5047,6 @@ var inscriptions = new Map([
         "𐄁",
         "\n",
         "𐘾𐘸",
-        "𐄁",
         "𐄁",
         "𐘲𐝫",
         "\n",
@@ -5057,7 +5070,6 @@ var inscriptions = new Map([
         "𐘇",
         "𐄐𐄋",
         "\n",
-        "𐄁",
         "𐝫𐘿",
         "𐄐𐄍"
     ]
@@ -5077,11 +5089,11 @@ var inscriptions = new Map([
     "names": [
         "HT38"
     ],
-    "parsedInscription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇\n𐙄𐄇\n𐘒𐄉\n𐛞𐙈𐄉\n𐛎𐄈\n𐛏𐄇",
+    "parsedInscription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇\n𐙄𐄇\n𐘏𐄉\n𐛞𐙈𐄉\n𐛎𐄈\n𐛏𐄇",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇𐙄𐄇𐘒𐄉𐛞\n𐙈𐄉𐛎𐄈𐛏𐄇",
+    "transcription": "𐝫\n𐝫\n𐘀𐘁𐘂𐚣𐄇𐙄𐄇𐘏𐄉𐛞\n𐙈𐄉𐛎𐄈𐛏𐄇",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5094,10 +5106,11 @@ var inscriptions = new Map([
         "pig",
         "1",
         "\n",
-        "goat",
+        "sheep",
         "3",
         "\n",
-        "*554-*118",
+        "*554",
+        "talent",
         "3",
         "\n",
         "TELA+KU",
@@ -5118,10 +5131,11 @@ var inscriptions = new Map([
         "AU",
         "1",
         "\n",
-        "CAP",
+        "QI",
         "3",
         "\n",
-        "*554-*118",
+        "*554",
+        "*118",
         "3",
         "\n",
         "TELA+KU",
@@ -5142,10 +5156,11 @@ var inscriptions = new Map([
         "𐙄",
         "𐄇",
         "\n",
-        "𐘒",
+        "𐘏",
         "𐄉",
         "\n",
-        "𐛞𐙈",
+        "𐛞",
+        "𐙈",
         "𐄉",
         "\n",
         "𐛎",
@@ -5190,7 +5205,7 @@ var inscriptions = new Map([
         "KU-RE",
         "\n",
         "\"total\"",
-        "*414+A",
+        "*407+A",
         "100",
         "\n",
         "KU+[ ]",
@@ -5215,7 +5230,7 @@ var inscriptions = new Map([
         "KU-RE",
         "\n",
         "KU-RO",
-        "*414+A",
+        "*407+A",
         "100",
         "\n",
         "KU+[ ]",
@@ -5483,7 +5498,7 @@ var inscriptions = new Map([
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎𐜋𐝫\n𐝫𐄍𐘞𐘁𐜓𐄎𐜋𐄈𐝫\n𐝫𐄈𐙂𐝫𐙖𐝫\n𐝫\n𐜗𐄈𐘲𐘬𐝫\n𐝫𐘙𐘃𐜓\n𐝫𐝕𐜋𐝫",
+    "transcription": "𐝫𐘳𐄁𐛉𐄁𐘃𐄁𐜓𐄎𐜋𐝫\n𐝫𐄍𐘞𐘁𐜓𐄎𐜋𐄈𐝫\n𐝫𐄈𐙂𐝫𐙖𐝫\n𐝫\n𐜗𐄈𐘲𐘬𐝫\n𐝫𐘙𐘹𐜓\n𐝫𐝕𐜋𐝫",
     "translatedWords": [
         "TA",
         "𐄁",
@@ -5766,7 +5781,8 @@ var inscriptions = new Map([
     "translatedWords": [
         "JA",
         "𐄁",
-        "TE-GRA+F",
+        "TE",
+        "grain",
         "\n",
         "5",
         "\n",
@@ -5784,7 +5800,8 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "JA",
         "𐄁",
-        "TE-GRA+F",
+        "TE",
+        "GRA+F",
         "\n",
         "5",
         "\n",
@@ -5802,7 +5819,8 @@ var inscriptions = new Map([
     "words": [
         "𐝫𐘱",
         "𐄁",
-        "𐘃𐛵𐝫",
+        "𐘃",
+        "𐛵𐝫",
         "\n",
         "𐝫𐄋",
         "\n",
@@ -5905,11 +5923,11 @@ var inscriptions = new Map([
     "names": [
         "HT45b"
     ],
-    "parsedInscription": "𐝫\n—\n𐝫𐄎𐝂𐝂\n𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍\n𐚺𐝉\n𐘂𐝫𐄁𐝫𐘇𐄑𐝁\n𐄁𐙂𐝃\n𐙂𐝃",
+    "parsedInscription": "𐝫\n—\n𐝫𐄎𐝂𐝂\n𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍\n𐚺𐝉\n𐘂𐝫𐘇𐄑𐝁\n𐄁𐙂𐝃\n𐙂𐝃",
     "scribe": "HT Scribe 14",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫\n—\n𐝫𐄎𐝓𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍𐚺𐝉𐘂𐝫𐄁𐝫𐘇𐄑\n𐝁𐄁𐙂𐝃\n𐙂𐝃",
+    "transcription": "𐝫\n—\n𐝫𐄎𐝓𐚺𐝉\n𐝫𐙂𐝃\n—\n𐙪𐄁𐙙𐄍𐚺𐝉𐘂𐝫𐘇𐄑\n𐝁𐄁𐙂𐝃\n𐙂𐝃",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -5934,9 +5952,7 @@ var inscriptions = new Map([
         "liquid?",
         "𐝉",
         "\n",
-        "PA",
-        "𐄁",
-        "A",
+        "PA-[?]-A",
         "20",
         "¹⁄₃",
         "\n",
@@ -5971,9 +5987,7 @@ var inscriptions = new Map([
         "QA2+[?]+RE+PU",
         "𐝉",
         "\n",
-        "PA",
-        "𐄁",
-        "A",
+        "PA-[?]-A",
         "20",
         "¹⁄₃",
         "\n",
@@ -6008,9 +6022,7 @@ var inscriptions = new Map([
         "𐚺",
         "𐝉",
         "\n",
-        "𐘂𐝫",
-        "𐄁",
-        "𐝫𐘇",
+        "𐘂𐝫𐘇",
         "𐄑",
         "𐝁",
         "\n",
@@ -6265,16 +6277,15 @@ var inscriptions = new Map([
     "names": [
         "HT49a"
     ],
-    "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫\n𐝫𐘭𐄇\n𐘲𐘸𐝫\n𐝫𐄇\n𐘠𐘬𐘝𐄇𐝫\n𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇\n𐚞𐄇\n𐙢𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘲𐘜𐄇\n𐘸𐄇\n—\n𐝫𐄋\n𐘹𐄊\n𐘸𐄇𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫\n𐝫𐘭𐄇\n𐘲𐝫\n𐝫𐄇\n𐘠𐘬𐘝𐄇𐝫\n𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇\n𐝫𐄇\n𐙢𐄇\n𐙂𐘰𐘯𐄇\n𐘹𐘲𐘜𐄇\n𐘸𐄇\n—\n𐝫𐄋\n𐘹𐄊\n𐘸𐄇𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐄁𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫𐘭𐄇𐘲𐘸𐝫\n𐝫𐄇𐘠𐘬𐘝𐄇𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇𐚞𐄇𐙢𐄇𐙂\n𐘰𐘯𐄇𐘹𐘲𐘜𐄇𐘸𐄇\n—\n𐝫𐄋𐘹𐄊𐘸𐄇𐝫\n𐝫",
+    "transcription": "𐝫\n𐝫𐘽𐘬𐝫\n𐝫𐘳𐘅𐘠𐄁𐄇𐝫\n𐝫𐘭𐄇𐘲𐝫\n𐝫𐄇𐘠𐘬𐘝𐄇𐝫\n𐝫𐘤𐘴𐄇\n𐘇𐘘𐄇𐝫𐄇𐙢𐄇𐙂\n𐘰𐘯𐄇𐘹𐘲𐘜𐄇𐘸𐄇\n—\n𐝫𐄋𐘹𐄊𐘸𐄇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐄁",
-        "RA₂-DU",
+        "[?]-RA₂-DU",
         "\n",
         "TA-NA-TI",
         "𐄁",
@@ -6285,7 +6296,7 @@ var inscriptions = new Map([
         "RI",
         "1",
         "\n",
-        "SU-KI",
+        "SU-[?]",
         "\n",
         "𐝫",
         "1",
@@ -6301,7 +6312,7 @@ var inscriptions = new Map([
         "A-RU",
         "1",
         "\n",
-        "*370",
+        "[?]",
         "1",
         "\n",
         "*312",
@@ -6332,8 +6343,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐄁",
-        "RA₂-DU",
+        "[?]-RA₂-DU",
         "\n",
         "TA-NA-TI",
         "𐄁",
@@ -6344,7 +6354,7 @@ var inscriptions = new Map([
         "RI",
         "1",
         "\n",
-        "SU-KI",
+        "SU-[?]",
         "\n",
         "𐝫",
         "1",
@@ -6360,7 +6370,7 @@ var inscriptions = new Map([
         "A-RU",
         "1",
         "\n",
-        "*370",
+        "[?]",
         "1",
         "\n",
         "*312",
@@ -6391,7 +6401,6 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
-        "𐄁",
         "𐝫𐘽𐘬𐝫",
         "\n",
         "𐝫𐘳𐘅𐘠",
@@ -6403,7 +6412,7 @@ var inscriptions = new Map([
         "𐝫𐘭",
         "𐄇",
         "\n",
-        "𐘲𐘸𐝫",
+        "𐘲𐝫",
         "\n",
         "𐝫",
         "𐄇",
@@ -6419,7 +6428,7 @@ var inscriptions = new Map([
         "𐘇𐘘",
         "𐄇",
         "\n",
-        "𐚞",
+        "𐝫",
         "𐄇",
         "\n",
         "𐙢",
@@ -6455,7 +6464,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=128",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=130",
     "images": [
         "images/HT49b-Inscription.jpg"
     ],
@@ -7721,7 +7730,7 @@ var inscriptions = new Map([
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫\n𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃𐘾𐙂𐄊𐝫",
+    "transcription": "𐝫\n𐝫𐘻𐘠𐄁𐛲𐄌𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -7762,20 +7771,19 @@ var inscriptions = new Map([
     "names": [
         "HT62+73"
     ],
-    "parsedInscription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫\n𐝫𐄁𐝫𐘅𐙉𐄐𐄋𐝃\n𐘾𐙂𐄊𐝫\n𐝫𐄐𐄎\n𐘛𐘠𐝫𐄁𐄌\n𐘆𐝫\n𐝫𐄊𐝃\n𐘾𐝫\n𐝫𐙇𐝫𐝫𐄊\n𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n𐝫𐙂𐝫\n𐝫𐄁𐝫𐄇𐝫\n𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
+    "parsedInscription": "𐝫𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫\n𐝫𐘅𐙉𐄐𐄋𐝃\n𐘾𐙂𐄊𐝫\n𐝫𐄐𐄎\n𐘛𐘠𐝫𐄌\n𐘆𐝫\n𐝫𐄊𐝃\n𐘾𐝫\n𐝫𐙇𐝫𐝫𐄊\n𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n𐝫𐙂𐝫\n𐝫𐄁𐝫𐄇𐝫\n𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫\n𐝫𐄐𐄎𐘛𐘠𐝫𐄁𐝫𐄌𐘆𐝫\n𐝫𐄊𐝃𐘾𐝫\n𐝫𐙇𐝫𐄊𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n𐝫𐙂𐝫\n𐝫𐄇𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
+    "transcription": "𐝫𐝫𐘞𐘴𐄁𐘃𐄁𐙍𐝫\n𐝫𐘅𐙉𐄐𐄋𐝃𐘾𐙂𐄊𐝫\n𐝫𐄐𐄎𐘛𐘠𐝫𐄌𐘆𐝫\n𐝫𐄊𐝃𐘾𐝫\n𐝫𐙇𐝫𐄊𐘺𐝫\n𐝫𐘯𐄐𐄍𐝫\n𐝫𐄑𐄋𐝫\n𐝫\n𐝫𐙂𐝫\n𐝫𐄁𐝫𐄇𐘂𐘚𐘸𐝫\n𐝫𐄎\n𐘞𐘁𐘿𐝫\n𐝫𐄑𐄎\n𐝫\n𐝫",
     "translatedWords": [
-        "SA-RA",
+        "[?]-[?]-SA-RA",
         "𐄁",
         "TE",
         "𐄁",
         "wine",
         "\n",
-        "𐄁",
-        "NA",
+        "[?]-NA",
         "grain",
         "15",
         "¹⁄₄",
@@ -7785,8 +7793,7 @@ var inscriptions = new Map([
         "\n",
         "18",
         "\n",
-        "*28B-TI",
-        "𐄁",
+        "*28B-TI-[?]",
         "6",
         "\n",
         "DI",
@@ -7826,14 +7833,13 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
-        "SA-RA",
+        "[?]-[?]-SA-RA",
         "𐄁",
         "TE",
         "𐄁",
         "VIN",
         "\n",
-        "𐄁",
-        "NA",
+        "[?]-NA",
         "GRA",
         "15",
         "¹⁄₄",
@@ -7843,8 +7849,7 @@ var inscriptions = new Map([
         "\n",
         "18",
         "\n",
-        "*28B-TI",
-        "𐄁",
+        "*28B-TI-[?]",
         "6",
         "\n",
         "DI",
@@ -7884,13 +7889,12 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "words": [
-        "𐝫𐘞𐘴",
+        "𐝫𐝫𐘞𐘴",
         "𐄁",
         "𐘃",
         "𐄁",
         "𐙍𐝫",
         "\n",
-        "𐄁",
         "𐝫𐘅",
         "𐙉",
         "𐄐𐄋",
@@ -7902,7 +7906,6 @@ var inscriptions = new Map([
         "𐝫𐄐𐄎",
         "\n",
         "𐘛𐘠𐝫",
-        "𐄁",
         "𐄌",
         "\n",
         "𐘆𐝫",
@@ -8032,11 +8035,11 @@ var inscriptions = new Map([
     "names": [
         "HT64"
     ],
-    "parsedInscription": "𐝫\n𐝫𐙂𐙀𐘅𐝫\n𐝫𐘅𐄈\n𐘘𐙁𐝫\n𐝫𐄉\n𐘑𐄌\n𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐙂𐙀𐘅𐝫\n𐝫𐘅𐄈\n𐘘𐙁𐝫\n𐝫𐄉\n𐘔𐄌\n𐝫\n𐝫",
     "scribe": "HT Scribe 21",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐙂𐙀𐘅\n𐝫𐘅𐄈𐘘𐙁\n𐝫𐄉𐘑𐄌\n𐝫\n𐝫",
+    "transcription": "𐝫\n𐝫𐙂𐙀𐘅\n𐝫𐘅𐄈𐘘𐙁\n𐝫𐄉𐘔𐄌\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -8049,7 +8052,7 @@ var inscriptions = new Map([
         "\n",
         "3",
         "\n",
-        "ram",
+        "he-goat",
         "6",
         "\n",
         "𐝫",
@@ -8068,7 +8071,7 @@ var inscriptions = new Map([
         "\n",
         "3",
         "\n",
-        "*21M",
+        "*22M",
         "6",
         "\n",
         "𐝫",
@@ -8087,7 +8090,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐄉",
         "\n",
-        "𐘑",
+        "𐘔",
         "𐄌",
         "\n",
         "𐝫",
@@ -8284,14 +8287,13 @@ var inscriptions = new Map([
     "names": [
         "HT68"
     ],
-    "parsedInscription": "𐝫𐄁𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
+    "parsedInscription": "𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫𐄁𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
+    "transcription": "𐝫𐘶𐄁𐙇𐝫\n𐝫𐄊𐝫\n𐝫",
     "translatedWords": [
-        "𐄁",
-        "flour",
+        "[?]-JU",
         "𐄁",
         "VIR+[?]",
         "\n",
@@ -8300,8 +8302,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
-        "𐄁",
-        "JU",
+        "[?]-JU",
         "𐄁",
         "VIR+[?]",
         "\n",
@@ -8310,7 +8311,6 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "words": [
-        "𐄁",
         "𐝫𐘶",
         "𐄁",
         "𐙇𐝫",
@@ -8476,31 +8476,25 @@ var inscriptions = new Map([
     "names": [
         "HT72"
     ],
-    "parsedInscription": "𐘤𐙇𐝫𐄁𐝫\n𐝫\n𐝫",
+    "parsedInscription": "𐘤𐙇𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘤𐙇𐝫𐄁𐝫\n𐝫\n𐝫",
+    "transcription": "𐘤𐙇𐝫\n𐝫\n𐝫",
     "translatedWords": [
-        "SI-VIR+[?]",
-        "𐄁",
-        "𐝫",
+        "SI-VIR+[?]-[?]",
         "\n",
         "𐝫",
         "\n"
     ],
     "transliteratedWords": [
-        "SI-VIR+[?]",
-        "𐄁",
-        "𐝫",
+        "SI-VIR+[?]-[?]",
         "\n",
         "𐝫",
         "\n"
     ],
     "words": [
         "𐘤𐙇𐝫",
-        "𐄁",
-        "𐝫",
         "\n",
         "𐝫",
         "\n"
@@ -8668,11 +8662,11 @@ var inscriptions = new Map([
     "names": [
         "HT79+83"
     ],
-    "parsedInscription": "𐝫𐘚𐄁𐙙𐝫\n𐝫𐘾𐄁\n𐘀𐘰𐝫\n𐝫𐘹𐘂𐘭𐄇𐝫\n𐝫𐘹𐝫𐄁𐝫𐄉\n𐝫𐙂𐘝𐝫\n𐝫𐙀𐄉\n𐝫",
+    "parsedInscription": "𐝫𐘚𐄁𐙙𐝫\n𐝫𐘾𐄁\n𐘀𐘰𐝫\n𐝫𐘹𐘂𐘭𐄇𐝫\n𐝫𐘹𐝫𐄉\n𐝫𐙂𐘝𐝫\n𐝫𐙀𐄉\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫𐘚𐄁𐙙𐝫𐘾𐄁𐘀𐘰\n𐝫𐘹𐘂𐘭𐄇𐝫𐘹𐝫𐄁𐝫𐄉\n𐝫𐙂𐘝𐝫𐙀𐄉\n𐝫",
+    "transcription": "𐝫𐘚𐄁𐙙𐝫𐘾𐄁𐘀𐘰\n𐝫𐘹𐘂𐘭𐄇𐝫𐘹𐝫𐄉\n𐝫𐙂𐘝𐝫𐙀𐄉\n𐝫",
     "translatedWords": [
         "I",
         "𐄁",
@@ -8686,8 +8680,7 @@ var inscriptions = new Map([
         "TU-PA-RI",
         "1",
         "\n",
-        "TU",
-        "𐄁",
+        "TU-[?]",
         "3",
         "\n",
         "KU-NI",
@@ -8710,8 +8703,7 @@ var inscriptions = new Map([
         "TU-PA-RI",
         "1",
         "\n",
-        "TU",
-        "𐄁",
+        "TU-[?]",
         "3",
         "\n",
         "KU-NI",
@@ -8735,8 +8727,7 @@ var inscriptions = new Map([
         "𐄇𐝫",
         "\n",
         "𐝫𐘹𐝫",
-        "𐄁",
-        "𐝫𐄉",
+        "𐄉",
         "\n",
         "𐝫𐙂𐘝𐝫",
         "\n",
@@ -8872,18 +8863,18 @@ var inscriptions = new Map([
     "names": [
         "HT82"
     ],
-    "parsedInscription": "𐝫\n𐝫𐛮𐝇𐝫\n𐜜𐝃𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐛮𐝇𐝫\n𐝫𐜫𐝃𐝫\n𐝫",
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐛮𐝇𐝫\n𐜜𐝃𐝫\n𐝫",
+    "transcription": "𐝫\n𐝫𐛮𐝇𐝫\n𐝫𐜫𐝃𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
         "grain",
         "¹⁄₁₆",
         "\n",
-        "*304+[ ]",
+        "*401+*304",
         "¹⁄₄",
         "\n",
         "𐝫"
@@ -8894,7 +8885,7 @@ var inscriptions = new Map([
         "GRA+QIf",
         "¹⁄₁₆",
         "\n",
-        "*304+[ ]",
+        "*401+*304",
         "¹⁄₄",
         "\n",
         "𐝫"
@@ -8905,7 +8896,7 @@ var inscriptions = new Map([
         "𐝫𐛮",
         "𐝇𐝫",
         "\n",
-        "𐜜",
+        "𐝫𐜫",
         "𐝃𐝫",
         "\n",
         "𐝫"
@@ -8988,7 +8979,7 @@ var inscriptions = new Map([
     "translatedWords": [
         "\"assessment\"?",
         "𐄁",
-        "*307+*387",
+        "*307+*307",
         "𐄁",
         "VIR+[?]",
         "𐄁",
@@ -9020,7 +9011,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "A-DU",
         "𐄁",
-        "*307+*387",
+        "*307+*307",
         "𐄁",
         "VIR+[?]",
         "𐄁",
@@ -9089,7 +9080,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=166",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=168",
     "images": [
         "images/HT85b-Inscription.jpg"
     ],
@@ -9268,7 +9259,7 @@ var inscriptions = new Map([
         "𐄁",
         "\n",
         "KU-NI-SU",
-        "GRA+K+L",
+        "GRA+K+L2",
         "20",
         "\n",
         "SA-RU",
@@ -9343,30 +9334,30 @@ var inscriptions = new Map([
     "support": "Tablet",
     "transcription": "𐘇𐘾𐘘𐄁𐙂𐘝\n𐘲𐛷𐄑𐘞𐘘𐄑\n𐘆𐘦",
     "translatedWords": [
-        "A-KA-RU",
-        "𐄁",
+        "[[A-KA-RU]]",
+        "[[𐄁]]",
         "\n",
-        "Kunisu (a place)",
-        "grain",
-        "20",
+        "[[Kunisu (a place)]]",
+        "[[grain]]",
+        "[[20]]",
         "\n",
-        "SA-RU",
-        "20",
+        "[[SA-RU]]",
+        "[[20]]",
         "\n",
-        "DI-DE"
+        "[[DI-DE]]"
     ],
     "transliteratedWords": [
-        "A-KA-RU",
-        "𐄁",
+        "[[A-KA-RU]]",
+        "[[𐄁]]",
         "\n",
-        "KU-NI-SU",
-        "GRA+K+L",
-        "20",
+        "[[KU-NI-SU]]",
+        "[[GRA+K+L2]]",
+        "[[20]]",
         "\n",
-        "SA-RU",
-        "20",
+        "[[SA-RU]]",
+        "[[20]]",
         "\n",
-        "DI-DE"
+        "[[DI-DE]]"
     ],
     "words": [
         "𐘇𐘾𐘘",
@@ -9397,11 +9388,11 @@ var inscriptions = new Map([
     "names": [
         "HT87"
     ],
-    "parsedInscription": "𐘐𐘹𐘗𐄁𐙁𐘾𐘭𐘃𐄁\n𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇\n𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇\n𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇",
+    "parsedInscription": "𐘐𐘹𐘗𐄁𐙁𐘾𐘭𐘃𐄁\n𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇\n𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇\n𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐘇𐘹𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘐𐘹𐘗𐄁𐙁𐘾\n𐘭𐘃𐄁𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐄁𐝫𐘇𐘹𐄇",
+    "transcription": "𐘐𐘹𐘗𐄁𐙁𐘾\n𐘭𐘃𐄁𐘢𐘳𐘥𐘤𐄇\n𐘱𐘙𐘻𐄇𐘆𐘸𐘈𐄇\n𐘿𐘲𐘫𐄇𐙂𐘘𐙂𐄇\n𐘇𐘴𐝫𐘇𐘹𐄇",
     "translatedWords": [
         "*21F-TU-NE",
         "𐄁",
@@ -9423,9 +9414,7 @@ var inscriptions = new Map([
         "KU-RU-KU",
         "1",
         "\n",
-        "A-RA",
-        "𐄁",
-        "A-TU",
+        "A-RA-[?]-A-TU",
         "1"
     ],
     "transliteratedWords": [
@@ -9449,9 +9438,7 @@ var inscriptions = new Map([
         "KU-RU-KU",
         "1",
         "\n",
-        "A-RA",
-        "𐄁",
-        "A-TU",
+        "A-RA-[?]-A-TU",
         "1"
     ],
     "words": [
@@ -9475,9 +9462,7 @@ var inscriptions = new Map([
         "𐙂𐘘𐙂",
         "𐄇",
         "\n",
-        "𐘇𐘴𐝫",
-        "𐄁",
-        "𐝫𐘇𐘹",
+        "𐘇𐘴𐝫𐘇𐘹",
         "𐄇"
     ]
 }],
@@ -10057,11 +10042,11 @@ var inscriptions = new Map([
     "names": [
         "HT93a"
     ],
-    "parsedInscription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈\n𐘆𐘭𐘅𐄁𐚴𐄓𐄉𐝆\n𐘸𐘆𐘝𐄋𐝆𐝅\n𐘇𐘈𐄁𐘚𐛭𐄑𐄌𐝕\n𐘞𐘽𐄑\n𐘌𐘌𐘘𐄁𐘚𐛭𐄋\n𐙇𐘚𐄌\n𐘦𐘶𐙂𐄇𐝆\n𐘵𐘠𐝫𐄁𐄉\n𐘀𐘭𐘀𐚦𐄈\n𐚃𐄈\n𐘰𐘝𐘅𐝫\n𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫\n𐝫𐘾𐄊",
+    "parsedInscription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈\n𐘆𐘭𐘅𐄁𐚴𐄓𐄉𐝆\n𐘸𐘆𐘝𐄋𐝆𐝅\n𐘇𐘈𐄁𐘚𐛭𐄑𐄌𐝕\n𐘞𐘽𐄑\n𐘌𐘌𐘘𐄁𐘚𐛭𐄋\n𐙇𐘚𐄌\n𐘦𐘶𐙂𐄇𐝆\n𐘵𐘠𐝫𐄉\n𐘀𐘭𐘀𐚦𐄈\n𐚃𐄈\n𐘰𐘝𐘅𐝫\n𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫\n𐝫𐘾𐄊",
     "scribe": "HT Scribe 5",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈𐘆\n𐘭𐘅𐄁𐚴𐄓𐄉𐝆𐘸𐘆\n𐘝𐄋𐝆𐝅𐘇𐘈𐄁𐘚\n𐛭𐄑𐄌𐝆𐝃𐘞𐘽𐄑𐘌𐘌\n𐘘𐄁𐘚𐛭𐄋𐙇𐘚\n𐄌𐘦𐘶𐙂𐄇𐝆𐘵𐘠\n𐝫𐄁𐝫𐄉𐘀𐘭𐘀𐚦𐄈𐚃𐄈\n𐘰𐘝𐘅𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫𐘾𐄊",
+    "transcription": "𐘰𐘝𐘅𐄁𐙉𐘰𐄁𐚿𐄐𐄈𐘆\n𐘭𐘅𐄁𐚴𐄓𐄉𐝆𐘸𐘆\n𐘝𐄋𐝆𐝅𐘇𐘈𐄁𐘚\n𐛭𐄑𐄌𐝆𐝃𐘞𐘽𐄑𐘌𐘌\n𐘘𐄁𐘚𐛭𐄋𐙇𐘚\n𐄌𐘦𐘶𐙂𐄇𐝆𐘵𐘠\n𐝫𐄉𐘀𐘭𐘀𐚦𐄈𐚃𐄈\n𐘰𐘝𐘅𐝫𐘂𐘈𐘱𐄑\n𐙇𐄐𐝄𐝫𐘾𐄊",
     "translatedWords": [
         "PA₃-NI-NA",
         "𐄁",
@@ -10101,8 +10086,7 @@ var inscriptions = new Map([
         "1",
         "¹⁄₂",
         "\n",
-        "O-TI",
-        "𐄁",
+        "O-TI-[?]",
         "3",
         "\n",
         "DA-RI-DA",
@@ -10163,8 +10147,7 @@ var inscriptions = new Map([
         "1",
         "¹⁄₂",
         "\n",
-        "O-TI",
-        "𐄁",
+        "O-TI-[?]",
         "3",
         "\n",
         "DA-RI-DA",
@@ -10226,7 +10209,6 @@ var inscriptions = new Map([
         "𐝆",
         "\n",
         "𐘵𐘠𐝫",
-        "𐄁",
         "𐄉",
         "\n",
         "𐘀𐘭𐘀",
@@ -10256,7 +10238,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=182",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=184",
     "images": [
         "images/HT93b-Inscription.jpg"
     ],
@@ -10451,7 +10433,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 7",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=186",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=188",
     "images": [
         "images/HT94b-Inscription.jpg"
     ],
@@ -10459,11 +10441,11 @@ var inscriptions = new Map([
     "names": [
         "HT94b"
     ],
-    "parsedInscription": "𐘸𐘁𐄁\n𐘹𐙁𐄇\n𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇\n𐘥𐘸𐘘𐄇\n𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁\n𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
+    "parsedInscription": "𐘸𐘁𐄁\n𐘹𐙁𐄇\n𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇\n𐘥𐘸𐘘𐄇\n𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁\n𐘴𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘸𐘁𐄁𐘹𐙁𐄇𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇𐘥𐘸𐘘𐄇𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁𐘴𐝫𐄁𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄁𐝫𐄇",
+    "transcription": "𐘸𐘁𐄁𐘹𐙁𐄇𐘂𐘳𐘗𐄇\n𐘦𐘆𐄇𐘥𐘸𐘘𐄇𐘞𐘘𐄇\n𐙂𐘁𐄋\n𐙅𐄁𐘴𐝫𐘦𐘋𐘃𐄇\n𐘐𐘹𐝫𐄇",
     "translatedWords": [
         "\"owed\"",
         "𐄁",
@@ -10489,13 +10471,10 @@ var inscriptions = new Map([
         "*86",
         "𐄁",
         "\n",
-        "RA",
-        "𐄁",
-        "DE-ME-TE",
+        "RA-[?]-DE-ME-TE",
         "1",
         "\n",
-        "*21F-TU",
-        "𐄁",
+        "*21F-TU-[?]",
         "1"
     ],
     "transliteratedWords": [
@@ -10523,13 +10502,10 @@ var inscriptions = new Map([
         "*86",
         "𐄁",
         "\n",
-        "RA",
-        "𐄁",
-        "DE-ME-TE",
+        "RA-[?]-DE-ME-TE",
         "1",
         "\n",
-        "*21F-TU",
-        "𐄁",
+        "*21F-TU-[?]",
         "1"
     ],
     "words": [
@@ -10557,13 +10533,10 @@ var inscriptions = new Map([
         "𐙅",
         "𐄁",
         "\n",
-        "𐘴𐝫",
-        "𐄁",
-        "𐝫𐘦𐘋𐘃",
+        "𐘴𐝫𐘦𐘋𐘃",
         "𐄇",
         "\n",
         "𐘐𐘹𐝫",
-        "𐄁",
         "𐄇"
     ]
 }],
@@ -10672,11 +10645,11 @@ var inscriptions = new Map([
     "names": [
         "HT95b"
     ],
-    "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘘𐄐\n𐝫𐄁𐝫\n𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄐",
+    "parsedInscription": "𐘇𐘬𐄁\n𐘞𐘘𐄐\n𐝫𐘀𐘋𐄐\n𐘻𐘯𐘃𐄐\n𐙂𐘝𐘲𐄐\n𐘆𐘦𐘘𐄐\n𐘿𐘽𐘉𐄐",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘇𐘬𐄁𐘞𐘘𐄐\n𐝫𐄁𐝫𐘀𐘋𐄐𐘻\n𐘯𐘃𐄐𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄐",
+    "transcription": "𐘇𐘬𐄁𐘞𐘘𐄐\n𐝫𐘀𐘋𐄐𐘻\n𐘯𐘃𐄐𐙂𐘝𐘲\n𐄐𐘆𐘦𐘘𐄐𐘿\n𐘽𐘉𐄐",
     "translatedWords": [
         "\"assessment\"?",
         "𐄁",
@@ -10684,9 +10657,7 @@ var inscriptions = new Map([
         "SA-RU",
         "10",
         "\n",
-        "𐝫",
-        "𐄁",
-        "𐝫",
+        "[?]",
         "\n",
         "DA-ME",
         "10",
@@ -10710,9 +10681,7 @@ var inscriptions = new Map([
         "SA-RU",
         "10",
         "\n",
-        "𐝫",
-        "𐄁",
-        "𐝫",
+        "[?]",
         "\n",
         "DA-ME",
         "10",
@@ -10736,8 +10705,6 @@ var inscriptions = new Map([
         "𐘞𐘘",
         "𐄐",
         "\n",
-        "𐝫",
-        "𐄁",
         "𐝫",
         "\n",
         "𐘀𐘋",
@@ -10791,14 +10758,16 @@ var inscriptions = new Map([
         "RU-SA",
         "4",
         "\n",
-        "*323-*317",
+        "*323",
+        "*317",
         "1",
         "\n",
         "PI-TA-RA",
         "𐄁",
         "1",
         "\n",
-        "*323-*344",
+        "*323",
+        "*344",
         "1",
         "\n",
         "—",
@@ -10806,7 +10775,8 @@ var inscriptions = new Map([
         "KU-MA-RO",
         "𐄁",
         "𐄁",
-        "TE-NI",
+        "TE",
+        "figs",
         "20",
         "\n",
         "figs",
@@ -10831,14 +10801,16 @@ var inscriptions = new Map([
         "RU-SA",
         "4",
         "\n",
-        "*323-*317",
+        "*323",
+        "*317",
         "1",
         "\n",
         "PI-TA-RA",
         "𐄁",
         "1",
         "\n",
-        "*323-*344",
+        "*323",
+        "*344",
         "1",
         "\n",
         "—",
@@ -10846,7 +10818,8 @@ var inscriptions = new Map([
         "KU-MA-RO",
         "𐄁",
         "𐄁",
-        "TE-NI",
+        "TE",
+        "NI",
         "20",
         "\n",
         "NI",
@@ -10871,14 +10844,16 @@ var inscriptions = new Map([
         "𐘘𐘞",
         "𐄊",
         "\n",
-        "𐙯𐙩",
+        "𐙯",
+        "𐙩",
         "𐄇",
         "\n",
         "𐘢𐘳𐘴",
         "𐄁",
         "𐄇",
         "\n",
-        "𐙯𐚄",
+        "𐙯",
+        "𐚄",
         "𐄇",
         "\n",
         "—",
@@ -10886,7 +10861,8 @@ var inscriptions = new Map([
         "𐝫𐙂𐙁𐘁",
         "𐄁",
         "𐄁",
-        "𐘃𐘝",
+        "𐘃",
+        "𐘝",
         "𐄑",
         "\n",
         "𐝫𐘝",
@@ -10999,15 +10975,15 @@ var inscriptions = new Map([
     "names": [
         "HT97a"
     ],
-    "parsedInscription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈\n𐙳𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋\n𐘂𐘚𐘄𐄌\n𐘆𐄊\n𐘅𐘠𐄊\n𐙁𐘆𐄋\n𐘶𐄐𐄋\n𐘸𐄉\n𐙀𐝫𐄋\n𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫\n𐝫𐘇𐄋\n𐝫",
+    "parsedInscription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈\n𐙳𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋\n𐘂𐘚𐘄𐄌\n𐘆𐄊\n𐘅𐘠𐄊\n𐙁𐘆𐄋\n𐘶𐄐𐄋\n𐘸𐄉\n𐙀𐝫𐄋\n𐘳𐘠𐄈\n𐘦𐝫𐄉𐝫\n𐝫𐘇𐄋\n𐝫",
     "scribe": "HT Scribe 7",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈𐙳\n𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋𐘂𐘚𐘄𐄌\n𐘆𐄊𐘅𐘠𐄊𐙁𐘆𐄋𐘶\n𐄐𐄋𐘸𐄉𐙀𐝫𐄋𐘳𐘠𐄈\n𐘦𐝫𐄁𐝫𐄉𐝫𐘇𐄋\n𐝫",
+    "transcription": "𐘾𐘘𐄁𐜠𐄁𐛧𐄗𐄈𐙳\n𐄒𐄉\n𐘾𐘯𐘠𐄑𐄋𐘂𐘚𐘄𐄌\n𐘆𐄊𐘅𐘠𐄊𐙁𐘆𐄋𐘶\n𐄐𐄋𐘸𐄉𐙀𐝫𐄋𐘳𐘠𐄈\n𐘦𐝫𐄉𐝫𐘇𐄋\n𐝫",
     "translatedWords": [
         "KA-RU",
         "𐄁",
-        "*307+*387",
+        "*307+*307",
         "𐄁",
         "VIR+KA",
         "82",
@@ -11042,19 +11018,18 @@ var inscriptions = new Map([
         "TA-TI",
         "2",
         "\n",
-        "DE",
-        "𐄁",
-        "\n",
-        "\n",
+        "DE-[?]",
         "3",
+        "\n",
         "A",
         "5",
+        "\n",
         "𐝫"
     ],
     "transliteratedWords": [
         "KA-RU",
         "𐄁",
-        "*307+*387",
+        "*307+*307",
         "𐄁",
         "VIR+KA",
         "82",
@@ -11089,13 +11064,12 @@ var inscriptions = new Map([
         "TA-TI",
         "2",
         "\n",
-        "DE",
-        "𐄁",
-        "\n",
-        "\n",
+        "DE-[?]",
         "3",
+        "\n",
         "A",
         "5",
+        "\n",
         "𐝫"
     ],
     "words": [
@@ -11137,12 +11111,11 @@ var inscriptions = new Map([
         "𐄈",
         "\n",
         "𐘦𐝫",
-        "𐄁",
-        "\n",
-        "\n",
         "𐄉𐝫",
+        "\n",
         "𐝫𐘇",
         "𐄋",
+        "\n",
         "𐝫"
     ]
 }],
@@ -11422,7 +11395,8 @@ var inscriptions = new Map([
     "support": "Tablet",
     "transcription": "𐛉𐘝𐄌𐘀𐘤𐙈𐄈\n𐙀𐘬𐄇𐘘𐙁𐘳\n𐄇",
     "translatedWords": [
-        "SI+SE-NI",
+        "SI+SE",
+        "figs",
         "6",
         "\n",
         "DA-SI-*118",
@@ -11435,7 +11409,8 @@ var inscriptions = new Map([
         "1"
     ],
     "transliteratedWords": [
-        "SI+SE-NI",
+        "SI+SE",
+        "NI",
         "6",
         "\n",
         "DA-SI-*118",
@@ -11448,7 +11423,8 @@ var inscriptions = new Map([
         "1"
     ],
     "words": [
-        "𐛉𐘝",
+        "𐛉",
+        "𐘝",
         "𐄌",
         "\n",
         "𐘀𐘤𐙈",
@@ -11909,7 +11885,7 @@ var inscriptions = new Map([
     "scribe": "HT Scribe 3",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘉𐘷𐄁𐘝𐄓\n𐘰𐘀𐙂𐘈𐘗\n𐝫𐄌𐝆𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇𐘀𐙂𐘈\n𐘗𐄇𐘸𐝢𐄋𐝆",
+    "transcription": "𐘉𐘷𐄁𐘝𐄓\n𐘰𐘀𐙂𐘈𐘗\n𐝫𐄌𐝆𐙓𐄐𐄉\n𐘀𐙂𐘅𐄇𐘀𐙂𐘈\n𐘗𐄇𐘸𐘴𐄋𐝆",
     "translatedWords": [
         "U-TA₂",
         "𐄁",
@@ -12142,11 +12118,11 @@ var inscriptions = new Map([
     "names": [
         "HT106"
     ],
-    "parsedInscription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆\n𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
+    "parsedInscription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆\n𐘤𐄇\n—\n𐘀𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
     "scribe": "HT Scribe 19",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆𐘤𐄇\n—\n𐘀𐝫𐄁𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
+    "transcription": "𐘻𐘯𐘃𐙗𐄌𐝫\n𐘤𐄋𐝆𐘤𐄇\n—\n𐘀𐝫𐄎𐝫\n𐝫𐘤𐄉𐝫\n𐝫",
     "translatedWords": [
         "MI-NU-TE",
         "cyperus",
@@ -12161,8 +12137,7 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "DA",
-        "𐄁",
+        "DA-[?]",
         "\n",
         "\n",
         "8",
@@ -12184,8 +12159,7 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "DA",
-        "𐄁",
+        "DA-[?]",
         "\n",
         "\n",
         "8",
@@ -12208,7 +12182,6 @@ var inscriptions = new Map([
         "—",
         "\n",
         "𐘀𐝫",
-        "𐄁",
         "\n",
         "\n",
         "𐄎𐝫",
@@ -12292,11 +12265,11 @@ var inscriptions = new Map([
     "names": [
         "HT108"
     ],
-    "parsedInscription": "𐘸𐘙𐘳𐘅𐙇𐄇\n𐛶𐄖\n—\n𐘆𐘅𐘁𐄈\n𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐\n𐘶𐝫\n𐝫",
+    "parsedInscription": "𐘸𐘙𐘳𐘅𐙇𐄇\n𐛶𐄖\n—\n𐘆𐘅𐘁𐄈\n𐘬𐘲𐘝𐄋𐝫\n𐝫𐘽𐘠𐄐\n𐘶𐝫\n𐝫",
     "scribe": "HT Scribe 2",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘸𐘙𐘳𐘅𐙇𐄇𐛶𐄖\n—\n𐘆𐘅𐘁𐄈𐘬𐘲𐘝𐄋𐝫\n𐝫𐄁𐝫𐘽𐘠𐄐𐘶𐝫\n𐝫",
+    "transcription": "𐘸𐘙𐘳𐘅𐙇𐄇𐛶𐄖\n—\n𐘆𐘅𐘁𐄈𐘬𐘲𐘝𐄋𐝫\n𐝫𐘽𐘠𐄐𐘶𐝫\n𐝫",
     "translatedWords": [
         "KI-RE-TA-NA",
         "VIR+[?]",
@@ -12313,8 +12286,7 @@ var inscriptions = new Map([
         "DU-SU-NI",
         "5",
         "\n",
-        "𐄁",
-        "RA₂-TI",
+        "[?]-RA₂-TI",
         "10",
         "\n",
         "flour",
@@ -12337,8 +12309,7 @@ var inscriptions = new Map([
         "DU-SU-NI",
         "5",
         "\n",
-        "𐄁",
-        "RA₂-TI",
+        "[?]-RA₂-TI",
         "10",
         "\n",
         "JU",
@@ -12361,7 +12332,6 @@ var inscriptions = new Map([
         "𐘬𐘲𐘝",
         "𐄋𐝫",
         "\n",
-        "𐄁",
         "𐝫𐘽𐘠",
         "𐄐",
         "\n",
@@ -12715,7 +12685,7 @@ var inscriptions = new Map([
     "names": [
         "HT111b"
     ],
-    "parsedInscription": "𐝫\n𐝫𐄐𐄎\n𐘞𐘆𐄊𐝫\n𐝫𐄉\n𐘿𐝫\n𐘅𐝫𐝫𐘝𐄇𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐄐𐄎\n𐘞𐘆𐄊𐝫\n𐝫𐄉\n𐘿𐝫\n𐝫𐘝𐄇𐝫𐘅𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
@@ -12732,9 +12702,9 @@ var inscriptions = new Map([
         "\n",
         "QE",
         "\n",
-        "NA",
         "figs",
         "1",
+        "NA",
         "\n",
         "𐝫"
     ],
@@ -12750,9 +12720,9 @@ var inscriptions = new Map([
         "\n",
         "QE",
         "\n",
-        "NA",
         "NI",
         "1",
+        "NA",
         "\n",
         "𐝫"
     ],
@@ -12768,9 +12738,9 @@ var inscriptions = new Map([
         "\n",
         "𐘿𐝫",
         "\n",
-        "𐘅𐝫",
         "𐝫𐘝",
         "𐄇𐝫",
+        "𐘅𐝫",
         "\n",
         "𐝫"
     ]
@@ -13117,7 +13087,7 @@ var inscriptions = new Map([
         "RI-TA-MA-NU-WI",
         "2",
         "\n",
-        "*301-U-RA",
+        "[[*301-U-RA]]",
         "\n",
         "NA-*21F-NE-MI-NA",
         "1",
@@ -13134,11 +13104,11 @@ var inscriptions = new Map([
         "KA-PO-RU",
         "1",
         "\n",
-        "RI-SU-MA",
+        "[[RI-SU-MA]]",
         "\n",
-        "SU",
-        "2",
-        "¹⁄₅",
+        "[[SU]]",
+        "[[2]]",
+        "[[¹⁄₅]]",
         "\n",
         "𐝫"
     ],
@@ -13147,12 +13117,12 @@ var inscriptions = new Map([
         "𐄁",
         "I",
         "𐄁",
-        "GRA+BOSm",
+        "GRA+CAPm",
         "\n",
         "RI-TA-MA-NU-WI",
         "2",
         "\n",
-        "*301-U-RA",
+        "[[*301-U-RA]]",
         "\n",
         "NA-*21F-NE-MI-NA",
         "1",
@@ -13169,11 +13139,11 @@ var inscriptions = new Map([
         "KA-PO-RU",
         "1",
         "\n",
-        "RI-SU-MA",
+        "[[RI-SU-MA]]",
         "\n",
-        "SU",
-        "2",
-        "¹⁄₅",
+        "[[SU]]",
+        "[[2]]",
+        "[[¹⁄₅]]",
         "\n",
         "𐝫"
     ],
@@ -13220,7 +13190,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=224",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=226",
     "images": [
         "images/HT115b-Inscription.jpg"
     ],
@@ -13228,11 +13198,11 @@ var inscriptions = new Map([
     "names": [
         "HT115b"
     ],
-    "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
+    "parsedInscription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆\n𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆\n𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐝫𐄇\n𐜞𐄇\n𐙂𐘳𐝫",
     "scribe": "HT Scribe 8",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐄁𐝫𐄇𐜞𐄇𐙂𐘳𐝫",
+    "transcription": "𐝫𐘘𐄁𐘂𐘴𐘗𐝆\n𐘠𐘯𐘱𐄁𐘯𐘣𐄁𐙉𐝆𐘬𐘰𐘅𐄇\n𐙂𐘘𐙁𐄁𐘚𐝆𐙚𐘹𐘱𐄇\n𐘇𐘚𐝫𐝫𐄇𐜞𐄇𐙂𐘳𐝫",
     "translatedWords": [
         "RU",
         "𐄁",
@@ -13257,7 +13227,7 @@ var inscriptions = new Map([
         "*306-TU-JA",
         "1",
         "\n",
-        "A-I",
+        "A-I-[?]-[?]",
         "1",
         "\n",
         "*306+MI",
@@ -13289,7 +13259,7 @@ var inscriptions = new Map([
         "*306-TU-JA",
         "1",
         "\n",
-        "A-I",
+        "A-I-[?]-[?]",
         "1",
         "\n",
         "*306+MI",
@@ -13321,7 +13291,7 @@ var inscriptions = new Map([
         "𐙚𐘹𐘱",
         "𐄇",
         "\n",
-        "𐘇𐘚𐝫",
+        "𐘇𐘚𐝫𐝫",
         "𐄇",
         "\n",
         "𐜞",
@@ -13532,7 +13502,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=228",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=230",
     "images": [
         "images/HT116b-Inscription.jpg"
     ],
@@ -13790,7 +13760,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa Room 9",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=232",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=234",
     "images": [
         "images/HT117b-Inscription.jpg"
     ],
@@ -14121,7 +14091,7 @@ var inscriptions = new Map([
         "𐄁",
         "\n",
         "DA-ME",
-        "GRA+K+L",
+        "GRA+K+L2",
         "74",
         "\n",
         "GRA+PA",
@@ -14272,11 +14242,11 @@ var inscriptions = new Map([
     "names": [
         "HT122a"
     ],
-    "parsedInscription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈𐝫\n𐝫𐄈\n𐘀𐘤𐙈𐄈\n𐘂𐝫𐄁𐝫\n𐝫𐘆𐄇\n𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉\n𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇\n𐙰𐘆𐘴𐄇\n𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘳𐘗𐄇\n𐙚𐘹𐄇\n𐝫𐘬𐄇\n𐙂𐘰𐘯𐄇\n𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇\n𐙂𐘀𐄇",
+    "parsedInscription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈𐝫\n𐝫𐄈\n𐘀𐘤𐙈𐄈\n𐘂𐝫𐝫\n𐝫𐘆𐄇\n𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉\n𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇\n𐙰𐘆𐘴𐄇\n𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇\n𐘂𐘳𐘗𐄇\n𐙚𐘹𐄇\n𐝫𐘬𐄇\n𐙂𐘰𐘯𐄇\n𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇\n𐙂𐘀𐄇",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈\n𐝫𐄈𐘀𐘤𐙈𐄈𐘂\n𐝫𐄁𐝫𐘆𐄇𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇𐙰𐘆𐘴𐄇𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇𐘂𐘳𐘗𐄇𐙚𐘹𐄇\n𐝫𐘬𐄇𐙂𐘰𐘯𐄇𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇𐙂𐘀𐄇",
+    "transcription": "𐝫𐘴𐘭𐄁𐘉𐘦𐘍𐄈\n𐝫𐄈𐘀𐘤𐙈𐄈𐘂\n𐝫𐝫𐘆𐄇𐘃𐘸𐄈\n𐘌𐙠𐘚𐄉𐘱𐘻𐘀𐘙𐄇\n𐘤𐘀𐘙𐄇𐙰𐘆𐘴𐄇𐘂𐘦𐄇\n𐙂𐘰𐘯𐄇𐘂𐘳𐘗𐄇𐙚𐘹𐄇\n𐝫𐘬𐄇𐙂𐘰𐘯𐄇𐘀𐘭𐘀𐄇\n𐙂𐘁𐄒𐄇𐙂𐘀𐄇",
     "translatedWords": [
         "RA-RI",
         "𐄁",
@@ -14288,8 +14258,7 @@ var inscriptions = new Map([
         "DA-SI-*118",
         "2",
         "\n",
-        "PA",
-        "𐄁",
+        "PA-[?]-[?]",
         "\n",
         "DI",
         "1",
@@ -14347,8 +14316,7 @@ var inscriptions = new Map([
         "DA-SI-*118",
         "2",
         "\n",
-        "PA",
-        "𐄁",
+        "PA-[?]-[?]",
         "\n",
         "DI",
         "1",
@@ -14406,8 +14374,7 @@ var inscriptions = new Map([
         "𐘀𐘤𐙈",
         "𐄈",
         "\n",
-        "𐘂𐝫",
-        "𐄁",
+        "𐘂𐝫𐝫",
         "\n",
         "𐝫𐘆",
         "𐄇",
@@ -14462,7 +14429,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=242",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=244",
     "images": [
         "images/HT122b-Inscription.jpg"
     ],
@@ -14785,11 +14752,11 @@ var inscriptions = new Map([
     "names": [
         "HT123+124b"
     ],
-    "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫",
+    "parsedInscription": "𐙓𐙜𐄐𐄇\n𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁\n𐘢𐘞𐄊\n𐙓𐄇\n𐙓𐘬𐄁𐄐\n𐘹𐘂𐘆𐘀𐝆𐝉\n𐄁\n𐘾𐘅𐝫\n𐝫𐘤𐘬𐝀\n𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑\n𐘸𐘁𐄋𐝫",
     "scribe": "HT Scribe 6",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐙓𐙜𐄐𐄇𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁𐘢𐘞𐄊𐙓\n𐄇𐙓𐘬𐄐𐘹𐘂𐘆𐘀\n𐝆𐝉𐘾𐘅𐝫𐘤𐘬\n𐝀𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑𐘸𐘁𐄋",
+    "transcription": "𐙓𐙜𐄐𐄇𐙢𐄇𐝕\n𐘠𐘀𐘳𐄁𐘢𐘞𐄊𐙓\n𐄇𐙓𐘬𐄁𐄐𐘹𐘂𐘆𐘀\n𐝆𐝉𐄁𐘾𐘅𐝫𐘤𐘬\n𐝀𐘬𐙁𐘚𐘅𐝃𐝄\n𐙂𐘁𐄑𐘸𐘁𐄋",
     "translatedWords": [
         "*188-*308",
         "11",
@@ -14813,6 +14780,8 @@ var inscriptions = new Map([
         "\n",
         "TU-PA-DI-DA",
         "13/20",
+        "\n",
+        "𐄁",
         "\n",
         "KA-NA",
         "\n",
@@ -14852,6 +14821,8 @@ var inscriptions = new Map([
         "TU-PA-DI-DA",
         "13/20",
         "\n",
+        "𐄁",
+        "\n",
         "KA-NA",
         "\n",
         "SI-DU",
@@ -14889,6 +14860,8 @@ var inscriptions = new Map([
         "\n",
         "𐘹𐘂𐘆𐘀",
         "𐝆𐝉",
+        "\n",
+        "𐄁",
         "\n",
         "𐘾𐘅𐝫",
         "\n",
@@ -15091,19 +15064,18 @@ var inscriptions = new Map([
     "names": [
         "HT126a"
     ],
-    "parsedInscription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇\n𐘉𐝫\n𐝫𐝆\n𐘤𐘆𐘱𐄇𐝫\n𐝫𐘉𐘪𐄇\n𐘢𐝫\n𐝫𐄕𐄈𐝫\n𐝫𐄈𐝫\n𐝫",
+    "parsedInscription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄇\n𐘉𐝫\n𐝫𐝆\n𐘤𐘆𐘱𐄇𐝫\n𐝫𐘉𐘪𐄇\n𐘢𐝫\n𐝫𐄕𐄈𐝫\n𐝫𐄈𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄁𐝫𐄇𐘉𐝫\n𐝆𐘤𐘆𐘱𐄇𐝫\n𐘉𐘪𐄇𐘢𐝫\n𐄕𐄈𐝫\n𐄈𐝫\n𐝫",
+    "transcription": "𐘀𐘅𐘤𐄁𐙪𐄁𐝫\n𐘇𐘅𐝫𐄇𐘉𐝫\n𐝆𐘤𐘆𐘱𐄇𐝫\n𐘉𐘪𐄇𐘢𐝫\n𐄕𐄈𐝫\n𐄈𐝫\n𐝫",
     "translatedWords": [
         "DA-NA-SI",
         "𐄁",
         "*318",
         "𐄁",
         "\n",
-        "A-NA",
-        "𐄁",
+        "A-NA-[?]",
         "1",
         "\n",
         "U",
@@ -15130,8 +15102,7 @@ var inscriptions = new Map([
         "*318",
         "𐄁",
         "\n",
-        "A-NA",
-        "𐄁",
+        "A-NA-[?]",
         "1",
         "\n",
         "U",
@@ -15159,8 +15130,7 @@ var inscriptions = new Map([
         "𐄁",
         "\n",
         "𐘇𐘅𐝫",
-        "𐄁",
-        "𐝫𐄇",
+        "𐄇",
         "\n",
         "𐘉𐝫",
         "\n",
@@ -15280,11 +15250,11 @@ var inscriptions = new Map([
     "names": [
         "HT127a"
     ],
-    "parsedInscription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝 𐘀𐘨𐙂𐄇",
+    "parsedInscription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝 𐘀𐘨𐙂𐄇𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝 𐘀𐘨𐙂𐄇",
+    "transcription": "𐝫\n𐝫𐘬𐘗𐘻𐄇𐝫\n𐝫𐜝 𐘀𐘨𐙂𐄇𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -15313,7 +15283,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐜝",
         "𐘀𐘨𐙂",
-        "𐄇"
+        "𐄇𐝫"
     ]
 }],
 ["HT127b",{
@@ -15442,16 +15412,17 @@ var inscriptions = new Map([
     "names": [
         "HT128a"
     ],
-    "parsedInscription": "𐙲𐄁\n𐘂𐘴\n𐘹𐘘𐘯𐘈𐘋𐙉𐝫𐄐\n𐘮𐘹𐙁𐘙𐛲𐄐𐄈𐝫\n𐝫𐘻𐘳𐛭𐝆𐝫\n𐛲𐄌\n𐘆𐝫\n𐛲𐄊\n𐙁𐘭𐝫\n𐝫",
+    "parsedInscription": "𐙲𐄁\n𐘂𐘴𐄁\n𐘹𐘘𐘯𐘈𐘋𐙉𐝫𐄐\n𐘮𐘹𐙁𐘙𐛲𐄐𐄈𐝫\n𐝫𐘻𐘳𐛭𐝆𐝫\n𐛲𐄌\n𐘆𐝫\n𐝫𐙉𐝫𐄇\n𐛲𐄊\n𐙁𐘭𐝫\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐙲𐄁𐘂𐘴𐘹𐘘𐘯𐘈𐘋\n𐙉𐝫𐄐𐘮𐘹𐙁𐘙𐛲𐄐𐄈\n𐝫𐘻𐘳𐛭𐝆𐝫𐛲𐄌𐘆\n𐝫𐛲𐄊𐙁𐘭\n𐝫",
+    "transcription": "𐙲𐄁𐘂𐘴𐄁𐘹𐘘𐘯𐘈𐘋\n𐙉𐝫𐄐𐘮𐘹𐙁𐘙𐛲𐄐𐄈\n𐝫𐘻𐘳𐛭𐝆𐝫𐛲𐄌𐘆\n𐝫𐙉𐝫𐄇𐛲𐄊𐙁𐘭\n𐝫",
     "translatedWords": [
         "*326",
         "𐄁",
         "\n",
         "PA-RA",
+        "𐄁",
         "\n",
         "TU-RU-NU-SE-ME",
         "grain",
@@ -15471,6 +15442,9 @@ var inscriptions = new Map([
         "DI",
         "\n",
         "grain",
+        "1",
+        "\n",
+        "grain",
         "4",
         "\n",
         "MA-RI",
@@ -15482,6 +15456,7 @@ var inscriptions = new Map([
         "𐄁",
         "\n",
         "PA-RA",
+        "𐄁",
         "\n",
         "TU-RU-NU-SE-ME",
         "GRA",
@@ -15500,6 +15475,9 @@ var inscriptions = new Map([
         "\n",
         "DI",
         "\n",
+        "GRA",
+        "1",
+        "\n",
         "GRA+KU",
         "4",
         "\n",
@@ -15512,6 +15490,7 @@ var inscriptions = new Map([
         "𐄁",
         "\n",
         "𐘂𐘴",
+        "𐄁",
         "\n",
         "𐘹𐘘𐘯𐘈𐘋",
         "𐙉𐝫",
@@ -15529,6 +15508,9 @@ var inscriptions = new Map([
         "𐄌",
         "\n",
         "𐘆𐝫",
+        "\n",
+        "𐝫𐙉𐝫",
+        "𐄇",
         "\n",
         "𐛲",
         "𐄊",
@@ -15553,11 +15535,11 @@ var inscriptions = new Map([
     "names": [
         "HT128b"
     ],
-    "parsedInscription": "𐛲𐄌\n𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫",
+    "parsedInscription": "𐛲𐄌\n𐙇𐙵𐛲𐄇\n𐘘𐝫𐝫𐛲𐄌\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐛲𐄌𐙇𐙵𐛲𐄇\n𐘘𐝫𐄁𐝫𐛲𐄌\n𐝫",
+    "transcription": "𐛲𐄌𐙇𐙵𐛲𐄇\n𐘘𐝫𐝫𐛲𐄌\n𐝫",
     "translatedWords": [
         "grain",
         "6",
@@ -15566,9 +15548,7 @@ var inscriptions = new Map([
         "grain",
         "1",
         "\n",
-        "RU",
-        "𐄁",
-        "𐝫",
+        "RU-[?]-[?]",
         "grain",
         "6",
         "\n",
@@ -15582,9 +15562,7 @@ var inscriptions = new Map([
         "GRA+KU",
         "1",
         "\n",
-        "RU",
-        "𐄁",
-        "𐝫",
+        "RU-[?]-[?]",
         "GRA+KU",
         "6",
         "\n",
@@ -15598,9 +15576,7 @@ var inscriptions = new Map([
         "𐛲",
         "𐄇",
         "\n",
-        "𐘘𐝫",
-        "𐄁",
-        "𐝫",
+        "𐘘𐝫𐝫",
         "𐛲",
         "𐄌",
         "\n",
@@ -15746,7 +15722,8 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "SI-CYP",
+        "SI",
+        "cyperus",
         "8",
         "\n",
         "figs",
@@ -15772,7 +15749,8 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "SI-CYP",
+        "SI",
+        "CYP",
         "8",
         "\n",
         "NI",
@@ -15798,7 +15776,8 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "𐘤𐙗",
+        "𐘤",
+        "𐙗",
         "𐄎",
         "\n",
         "𐘝",
@@ -15982,7 +15961,7 @@ var inscriptions = new Map([
     "names": [
         "HT132"
     ],
-    "parsedInscription": "𐘇𐘈𐄁𐙫𐄋\n𐘌𐘙𐘄𐄁𐘓𐄑𐄍\n𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫",
+    "parsedInscription": "𐘇𐘈𐄁𐙫𐄋\n𐘌𐘙𐘄𐄁𐘐𐄑𐄍\n𐘰𐄁𐙙𐄇𐝫\n𐝫\n𐝫",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
     "support": "Tablet",
@@ -15990,12 +15969,12 @@ var inscriptions = new Map([
     "translatedWords": [
         "A-SE",
         "𐄁",
-        "*904",
+        "*319",
         "5",
         "\n",
         "QA-RE-TO",
         "𐄁",
-        "she-goat",
+        "ewe",
         "27",
         "\n",
         "PA₃",
@@ -16010,12 +15989,12 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "A-SE",
         "𐄁",
-        "*904",
+        "*319",
         "5",
         "\n",
         "QA-RE-TO",
         "𐄁",
-        "*22F",
+        "*21F",
         "27",
         "\n",
         "PA₃",
@@ -16035,7 +16014,7 @@ var inscriptions = new Map([
         "\n",
         "𐘌𐘙𐘄",
         "𐄁",
-        "𐘓",
+        "𐘐",
         "𐄑𐄍",
         "\n",
         "𐘰",
@@ -16180,32 +16159,29 @@ var inscriptions = new Map([
     "names": [
         "HT135b"
     ],
-    "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈",
+    "parsedInscription": "𐝫\n𐝫𐝫𐘳𐘗𐝫\n𐄈",
     "scribe": "HT Scribe 9",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐄁𐝫𐘳𐘗𐝫\n𐄈\n𐘐𐄒𐝫",
+    "transcription": "𐝫\n𐝫𐝫𐘳𐘗𐝫\n𐄈",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐄁",
-        "TA-NE",
+        "[?]-[?]-TA-NE",
         "\n",
         "2"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐄁",
-        "TA-NE",
+        "[?]-[?]-TA-NE",
         "\n",
         "2"
     ],
     "words": [
         "𐝫",
         "\n",
-        "𐄁",
-        "𐝫𐘳𐘗𐝫",
+        "𐝫𐝫𐘳𐘗𐝫",
         "\n",
         "𐄈"
     ]
@@ -16225,13 +16201,13 @@ var inscriptions = new Map([
     "names": [
         "HT136a"
     ],
-    "parsedInscription": "𐝫𐘓𐄒𐝫\n𐝫𐄑𐄉𐝫\n𐝫",
+    "parsedInscription": "𐝫𐘐𐄒𐝫\n𐝫𐄑𐄉𐝫\n𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Tablet",
-    "transcription": "𐄑𐄉𐝫\n𐝫",
+    "transcription": "𐘐𐄒𐝫\n𐄑𐄉𐝫\n𐝫",
     "translatedWords": [
-        "she-goat",
+        "ewe",
         "30",
         "\n",
         "23",
@@ -16239,7 +16215,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
-        "*22F",
+        "*21F",
         "30",
         "\n",
         "23",
@@ -16247,7 +16223,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "words": [
-        "𐝫𐘓",
+        "𐝫𐘐",
         "𐄒𐝫",
         "\n",
         "𐝫𐄑𐄉𐝫",
@@ -17018,7 +16994,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=280",
     "images": [
         "images/HT154b-Inscription.jpg"
     ],
@@ -17051,7 +17027,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=280",
     "images": [
         "images/HT154c-Inscription.jpg"
     ],
@@ -17096,7 +17072,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=280",
     "images": [
         "images/HT154e-Inscription.jpg"
     ],
@@ -17144,7 +17120,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=282",
     "images": [
         "images/HT154g-Inscription.jpg"
     ],
@@ -17183,7 +17159,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=282",
     "images": [
         "images/HT154ja-Inscription.jpg"
     ],
@@ -17231,7 +17207,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=282",
     "images": [
         "images/HT154jb-Inscription.jpg"
     ],
@@ -17273,7 +17249,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=284",
     "images": [
         "images/HT154k-Inscription.jpg"
     ],
@@ -17321,7 +17297,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=284",
     "images": [
         "images/HT154l-Inscription.jpg"
     ],
@@ -17357,7 +17333,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=286",
     "images": [
         "images/HT154m-Inscription.jpg"
     ],
@@ -17393,7 +17369,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Casa del Lebete",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=278",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=286",
     "images": [
         "images/HT154n-Inscription.jpg"
     ],
@@ -17552,9 +17528,9 @@ var inscriptions = new Map([
     "site": "Haghia Triada",
     "support": "Tablet",
     "transcription": "",
-    "translatedWords": ["None"],
-    "transliteratedWords": ["None"],
-    "words": ["None"]
+    "translatedWords": [],
+    "transliteratedWords": [],
+    "words": []
 }],
 ["HTW231e",{
     "context": "LMIB",
@@ -17572,9 +17548,9 @@ var inscriptions = new Map([
     "site": "Haghia Triada",
     "support": "Tablet",
     "transcription": "",
-    "translatedWords": ["None"],
-    "transliteratedWords": ["None"],
-    "words": ["None"]
+    "translatedWords": [],
+    "transliteratedWords": [],
+    "words": []
 }],
 ["HTW231f",{
     "context": "LMIB",
@@ -17592,9 +17568,9 @@ var inscriptions = new Map([
     "site": "Haghia Triada",
     "support": "Tablet",
     "transcription": "",
-    "translatedWords": ["None"],
-    "transliteratedWords": ["None"],
-    "words": ["None"]
+    "translatedWords": [],
+    "transliteratedWords": [],
+    "words": []
 }],
 ["HTWa1001",{
     "context": "LMIB",
@@ -17723,7 +17699,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Portico 11 and Room 13",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=68",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=66",
     "images": [
         "images/HTWa1005-Inscription.jpg"
     ],
@@ -18245,7 +18221,8 @@ var inscriptions = new Map([
         "\n",
         "³⁄₄",
         "\n",
-        "SI+SE-RA+KA"
+        "SI+SE",
+        "RA+KA"
     ],
     "transliteratedWords": [
         "*188-DU",
@@ -18253,7 +18230,8 @@ var inscriptions = new Map([
         "\n",
         "³⁄₄",
         "\n",
-        "SI+SE-RA+KA"
+        "SI+SE",
+        "RA+KA"
     ],
     "words": [
         "𐙓𐘬",
@@ -18261,7 +18239,8 @@ var inscriptions = new Map([
         "\n",
         "𐝕",
         "\n",
-        "𐛉𐛔"
+        "𐛉",
+        "𐛔"
     ]
 }],
 ["HTWa1021bis",{
@@ -44209,7 +44188,7 @@ var inscriptions = new Map([
     "names": [
         "HTWc3024"
     ],
-    "parsedInscription": "𐘇𐘴𐘹𐘋\n𐘓𐘓",
+    "parsedInscription": "𐘇𐘴𐘹𐘋\n𐘓",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Roundel",
@@ -44297,8 +44276,8 @@ var inscriptions = new Map([
         "images/HTWeWc3020b-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol2.pdf#page=138",
     "images": [
         "images/HTWeWc3020a-Inscription.jpg",
         "images/HTWeWc3020b-Inscription.jpg"
@@ -44335,7 +44314,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Villa Magazine Room 5",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=108",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=107",
     "images": [
         "images/HTZb158a-Inscription.jpg"
     ],
@@ -44343,21 +44322,18 @@ var inscriptions = new Map([
     "names": [
         "HTZb158a"
     ],
-    "parsedInscription": "𐝫𐄁𐝫𐘹𐘈𐘲𐘸",
+    "parsedInscription": "𐝫𐘹𐘈𐘲𐘸",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Clay vessel",
-    "transcription": "𐝫𐄁𐝫𐘹𐘈𐘲𐘸",
+    "transcription": "𐝫𐘹𐘈𐘲𐘸",
     "translatedWords": [
-        "𐄁",
-        "TU-SE-SU-KI"
+        "[?]-TU-SE-SU-KI"
     ],
     "transliteratedWords": [
-        "𐄁",
-        "TU-SE-SU-KI"
+        "[?]-TU-SE-SU-KI"
     ],
     "words": [
-        "𐄁",
         "𐝫𐘹𐘈𐘲𐘸"
     ]
 }],
@@ -44398,7 +44374,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=108",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=109",
     "images": [
         "images/HTZb159-Inscription.jpg"
     ],
@@ -44428,7 +44404,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=109",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=110",
     "images": [
         "images/HTZb160-Inscription.jpg"
     ],
@@ -44500,13 +44476,19 @@ var inscriptions = new Map([
     "support": "Clay vessel",
     "transcription": "𐘆𐄉𐘠𐘬",
     "translatedWords": [
-        "DI-𐄉-TI-DU"
+        "DI",
+        "3",
+        "TI-DU"
     ],
     "transliteratedWords": [
-        "DI-𐄉-TI-DU"
+        "DI",
+        "3",
+        "TI-DU"
     ],
     "words": [
-        "𐘆𐄉𐘠𐘬"
+        "𐘆",
+        "𐄉",
+        "𐘠𐘬"
     ]
 }],
 ["HTZb162bis",{
@@ -44542,7 +44524,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=172",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=173",
     "images": [
         "images/HTZd155-Inscription.jpg"
     ],
@@ -44558,12 +44540,12 @@ var inscriptions = new Map([
     "translatedWords": [
         "A-JU",
         "𐄁",
-        "NA-MA-MA-TI-TI-*904"
+        "NA-MA-MA-TI-TI-*319"
     ],
     "transliteratedWords": [
         "A-JU",
         "𐄁",
-        "NA-MA-MA-TI-TI-*904"
+        "NA-MA-MA-TI-TI-*319"
     ],
     "words": [
         "𐘇𐘶",
@@ -44586,68 +44568,59 @@ var inscriptions = new Map([
     "names": [
         "HTZd157+156"
     ],
-    "parsedInscription": "𐘣𐘱𐘲𐙁𐘠𐘠𐙫𐄇\n𐙫𐄇𐝆\n𐙫𐄈𐝃\n𐙫𐄉𐝃𐝄\n𐘳𐘱𐝇𐝫",
+    "parsedInscription": "𐄁𐘣𐘱𐘲𐙁𐘠𐘠𐙫𐝫𐘗𐄇𐘗𐄇𐝆𐙫𐄈𐝃𐙫𐄉𐝃𐝄𐘳𐘱𐝇𐝫",
     "scribe": "",
     "site": "Haghia Triada",
     "support": "Graffito",
     "transcription": "𐝫𐘗𐄇𐘗𐄇𐝆𐙫𐄈𐝃𐙫𐄉𐝃𐝄𐘳𐘱𐝇𐝫",
     "translatedWords": [
-        "WI-JA-SU-MA-TI-TI",
-        "*904",
+        "𐄁",
+        "WI-JA-SU-MA-TI-TI-*319",
+        "NE",
         "1",
-        "\n",
-        "*904",
+        "NE",
         "1",
         "¹⁄₂",
-        "\n",
-        "*904",
+        "*319",
         "2",
         "¹⁄₄",
-        "\n",
-        "*904",
+        "*319",
         "3",
         "³⁄₈",
-        "\n",
         "TA-JA",
         "¹⁄₁₆"
     ],
     "transliteratedWords": [
-        "WI-JA-SU-MA-TI-TI",
-        "*904",
+        "𐄁",
+        "WI-JA-SU-MA-TI-TI-*319",
+        "NE",
         "1",
-        "\n",
-        "*904",
+        "NE",
         "1",
         "¹⁄₂",
-        "\n",
-        "*904",
+        "*319",
         "2",
         "¹⁄₄",
-        "\n",
-        "*904",
+        "*319",
         "3",
         "³⁄₈",
-        "\n",
         "TA-JA",
         "¹⁄₁₆"
     ],
     "words": [
-        "𐘣𐘱𐘲𐙁𐘠𐘠",
-        "𐙫",
+        "𐄁",
+        "𐘣𐘱𐘲𐙁𐘠𐘠𐙫",
+        "𐝫𐘗",
         "𐄇",
-        "\n",
-        "𐙫",
+        "𐘗",
         "𐄇",
         "𐝆",
-        "\n",
         "𐙫",
         "𐄈",
         "𐝃",
-        "\n",
         "𐙫",
         "𐄉",
         "𐝃𐝄",
-        "\n",
         "𐘳𐘱",
         "𐝇𐝫"
     ]
@@ -44913,11 +44886,11 @@ var inscriptions = new Map([
     "names": [
         "IOZa2"
     ],
-    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐄁𐝫",
+    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐝫",
     "scribe": "",
     "site": "Iouktas",
     "support": "Stone vessel",
-    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐄁𐝫",
+    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘆𐘸𐘹𐄁𐘱𐘞𐘞𐘴𐝫𐘋𐄁𐘉𐘅𐘾𐘅𐝫𐘤𐝫𐄁𐝫𐘚𐘢𐘅𐙁𐄁\n𐘤𐘘𐘃𐄁𐘳𐘅𐘴𐘃𐘉𐘠𐘯𐄁𐘚𐝫𐝫",
     "translatedWords": [
         "gives",
         "𐄁",
@@ -44934,8 +44907,7 @@ var inscriptions = new Map([
         "𐄁",
         "TA-NA-RA-TE-U-TI-NU",
         "𐄁",
-        "I",
-        "𐄁"
+        "I-[?]-[?]"
     ],
     "transliteratedWords": [
         "A-TA-I-*301-WA-JA",
@@ -44953,8 +44925,7 @@ var inscriptions = new Map([
         "𐄁",
         "TA-NA-RA-TE-U-TI-NU",
         "𐄁",
-        "I",
-        "𐄁"
+        "I-[?]-[?]"
     ],
     "words": [
         "𐘇𐘳𐘚𐙕𐘮𐘱",
@@ -44972,8 +44943,7 @@ var inscriptions = new Map([
         "𐄁",
         "𐘳𐘅𐘴𐘃𐘉𐘠𐘯",
         "𐄁",
-        "𐘚𐝫",
-        "𐄁"
+        "𐘚𐝫𐝫"
     ]
 }],
 ["IOZa3",{
@@ -45274,36 +45244,27 @@ var inscriptions = new Map([
     "names": [
         "IOZa11"
     ],
-    "parsedInscription": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
+    "parsedInscription": "𐝫𐘅𐝫𐘀𐘀𐝫𐝫𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
     "scribe": "",
     "site": "Iouktas",
     "support": "Stone vessel",
-    "transcription": "𐝫𐘅𐝫𐄁𐝫𐘀𐘀𐝫𐄁𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
+    "transcription": "𐝫𐘅𐝫𐘀𐘀𐝫𐝫𐝫\n𐝫𐘉𐘠𐘯𐄁𐘚𐘅𐘚𐘀𐝫",
     "translatedWords": [
-        "NA",
-        "𐄁",
-        "DA-DA",
-        "𐄁",
+        "NA-[?]-DA-DA-[?]-[?]-[?]",
         "\n",
         "U-TI-NU",
         "𐄁",
-        "I-NA-I-DA"
+        "I-NA-I-DA-[?]"
     ],
     "transliteratedWords": [
-        "NA",
-        "𐄁",
-        "DA-DA",
-        "𐄁",
+        "NA-[?]-DA-DA-[?]-[?]-[?]",
         "\n",
         "U-TI-NU",
         "𐄁",
-        "I-NA-I-DA"
+        "I-NA-I-DA-[?]"
     ],
     "words": [
-        "𐝫𐘅𐝫",
-        "𐄁",
-        "𐝫𐘀𐘀𐝫",
-        "𐄁",
+        "𐝫𐘅𐝫𐘀𐘀𐝫𐝫𐝫",
         "\n",
         "𐝫𐘉𐘠𐘯",
         "𐄁",
@@ -45323,35 +45284,32 @@ var inscriptions = new Map([
     "names": [
         "IOZa12"
     ],
-    "parsedInscription": "𐝫𐄁𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
+    "parsedInscription": "𐝫𐝫𐄁\n𐘱𐘞𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
     "scribe": "",
     "site": "Iouktas",
     "support": "Stone vessel",
-    "transcription": "𐝫𐄁𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
+    "transcription": "𐝫𐝫𐄁𐘱𐘞\n𐘞𐘴𐘋𐄁𐘚𐘠𐝫",
     "translatedWords": [
+        "[?]-[?]",
         "𐄁",
-        "𐄁",
-        "JA-SA",
         "\n",
-        "SA-RA-ME",
+        "this dedication",
         "𐄁",
         "I-TI"
     ],
     "transliteratedWords": [
+        "[?]-[?]",
         "𐄁",
-        "𐄁",
-        "JA-SA",
         "\n",
-        "SA-RA-ME",
+        "JA-SA-SA-RA-ME",
         "𐄁",
         "I-TI"
     ],
     "words": [
+        "𐝫𐝫",
         "𐄁",
-        "𐄁",
-        "𐘱𐘞",
         "\n",
-        "𐘞𐘴𐘋",
+        "𐘱𐘞𐘞𐘴𐘋",
         "𐄁",
         "𐘚𐘠𐝫"
     ]
@@ -45369,21 +45327,18 @@ var inscriptions = new Map([
     "names": [
         "IOZa13"
     ],
-    "parsedInscription": "𐝫𐄁𐝫𐙁𐘚𐝫",
+    "parsedInscription": "𐝫𐙁𐘚𐝫",
     "scribe": "",
     "site": "Iouktas",
     "support": "Stone vessel",
-    "transcription": "𐝫𐄁𐝫𐙁𐘚𐝫",
+    "transcription": "𐝫𐙁𐘚𐝫",
     "translatedWords": [
-        "𐄁",
-        "MA-I"
+        "[?]-MA-I"
     ],
     "transliteratedWords": [
-        "𐄁",
-        "MA-I"
+        "[?]-MA-I"
     ],
     "words": [
-        "𐄁",
         "𐝫𐙁𐘚𐝫"
     ]
 }],
@@ -45474,7 +45429,7 @@ var inscriptions = new Map([
     "names": [
         "IOZa16"
     ],
-    "parsedInscription": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴\n𐘋𐄁𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
+    "parsedInscription": "𐝫𐙌𐄁𐘱𐘞𐘞𐘴𐘋𐄁\n𐘉𐘅𐘘𐘾𐝫𐘅𐘤",
     "scribe": "",
     "site": "Iouktas",
     "support": "Stone vessel",
@@ -45482,28 +45437,25 @@ var inscriptions = new Map([
     "translatedWords": [
         "spice",
         "𐄁",
-        "\"to\" A-SA-SA-RA",
-        "\n",
-        "ME",
+        "this dedication",
         "𐄁",
+        "\n",
         "U-NA-RU-KA-NA-SI"
     ],
     "transliteratedWords": [
         "AROM",
         "𐄁",
-        "JA-SA-SA-RA",
-        "\n",
-        "ME",
+        "JA-SA-SA-RA-ME",
         "𐄁",
+        "\n",
         "U-NA-RU-KA-NA-SI"
     ],
     "words": [
         "𐝫𐙌",
         "𐄁",
-        "𐘱𐘞𐘞𐘴",
-        "\n",
-        "𐘋",
+        "𐘱𐘞𐘞𐘴𐘋",
         "𐄁",
+        "\n",
         "𐘉𐘅𐘘𐘾𐝫𐘅𐘤"
     ]
 }],
@@ -45514,7 +45466,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=191",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=192",
     "images": [
         "images/KAZf1-Inscription.jpg"
     ],
@@ -45551,25 +45503,22 @@ var inscriptions = new Map([
     "names": [
         "KAMZb1"
     ],
-    "parsedInscription": "𐘯𐘁𐄁𐝫𐄁",
+    "parsedInscription": "𐘯𐘁𐝫𐝫𐝫",
     "scribe": "",
     "site": "Kamilari",
     "support": "Clay vessel",
-    "transcription": "𐘯𐘁𐄁𐝫𐄁",
+    "transcription": "𐘯𐘁𐝫𐝫𐝫",
     "translatedWords": [
         "NU-RO",
-        "𐄁",
-        "𐄁"
+        "[?]-[?]-[?]"
     ],
     "transliteratedWords": [
         "NU-RO",
-        "𐄁",
-        "𐄁"
+        "[?]-[?]-[?]"
     ],
     "words": [
         "𐘯𐘁",
-        "𐄁",
-        "𐄁"
+        "𐝫𐝫𐝫"
     ]
 }],
 ["KANZa1",{
@@ -45585,33 +45534,27 @@ var inscriptions = new Map([
     "names": [
         "KANZa1"
     ],
-    "parsedInscription": "𐘇𐝫𐄁𐝫𐘚\n𐝫\n𐝫",
+    "parsedInscription": "𐘇𐝫𐘚\n𐝫\n𐝫",
     "scribe": "",
     "site": "Kannia",
     "support": "Stone vessel",
-    "transcription": "𐘇𐝫𐄁𐝫𐘚\n𐝫\n𐝫",
+    "transcription": "𐘇𐝫𐘚\n𐝫\n𐝫",
     "translatedWords": [
-        "A",
-        "𐄁",
-        "I",
+        "A-[?]-I",
         "\n",
         "𐝫",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
-        "A",
-        "𐄁",
-        "I",
+        "A-[?]-I",
         "\n",
         "𐝫",
         "\n",
         "𐝫"
     ],
     "words": [
-        "𐘇𐝫",
-        "𐄁",
-        "𐝫𐘚",
+        "𐘇𐝫𐘚",
         "\n",
         "𐝫",
         "\n",
@@ -45703,7 +45646,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=113",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=114",
     "images": [
         "images/KEZb3-Inscription.jpg"
     ],
@@ -45733,7 +45676,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=114",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=115",
     "images": [
         "images/KEZb4-Inscription.jpg"
     ],
@@ -45766,7 +45709,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=115",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=116",
     "images": [
         "images/KEZb5-Inscription.jpg"
     ],
@@ -45852,7 +45795,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=46",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=47",
     "images": [
         "images/KH1-Inscription.jpg"
     ],
@@ -45912,7 +45855,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=46",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=47",
     "images": [
         "images/KH2-Inscription.jpg"
     ],
@@ -45975,7 +45918,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=46",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=47",
     "images": [
         "images/KH3-Inscription.jpg"
     ],
@@ -46020,7 +45963,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=48",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=49",
     "images": [
         "images/KH4-Inscription.jpg"
     ],
@@ -46080,7 +46023,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=48",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=49",
     "images": [
         "images/KH5-Inscription.jpg"
     ],
@@ -46182,7 +46125,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=50",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=51",
     "images": [
         "images/KH6-Inscription.jpg"
     ],
@@ -46190,11 +46133,11 @@ var inscriptions = new Map([
     "names": [
         "KH6"
     ],
-    "parsedInscription": "𐝫𐜙𐝆\n𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆\n𐚇𐝫\n𐝫𐙗𐝫𐝆\n𐘭𐘳𐘧𐜙𐝫\n𐝫𐘑𐄇\n𐜙𐝆\n𐘕𐄇\n𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇\n𐜙𐝆\n𐘢𐘞𐝫\n𐝫𐜙𐝆\n𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎\n𐙗𐄈𐝆𐝁",
+    "parsedInscription": "𐝫𐜙𐝆\n𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆\n𐚇𐝫\n𐝫𐙗𐝫𐝆\n𐘭𐘳𐘧𐜙𐝫\n𐝫𐘔𐄇\n𐜙𐝆\n𐘕𐄇\n𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇\n𐜙𐝆\n𐘢𐘞𐝫\n𐝫𐜙𐝆\n𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎\n𐙗𐄈𐝆𐝁",
     "scribe": "KH Scribe 2",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐝫𐜙𐝆𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆𐚇\n𐝫𐙗𐝫𐝆𐘭𐘳𐘧𐜙𐝫\n𐝫𐘔𐄇𐜙𐝆𐘕𐄇𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇𐜙𐝆𐘢𐘞𐝫\n𐝫𐜙𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎𐙗𐄈𐝆𐝁",
+    "transcription": "𐝫𐜙𐝆𐘆𐘤𐝫\n𐝫𐘃𐘯𐘙𐝫\n𐝫𐘸𐘞𐘗𐜙𐝆𐚇\n𐝫𐙗𐝫𐝆𐘭𐘳𐘧𐜙𐝫\n𐝫𐘔𐄇𐜙𐝆𐘕𐄇𐘂𐝫\n𐝫𐘙𐄁𐙺𐄇𐜙𐝆𐘢𐘞𐝫\n𐝫𐜙𐝆𐙄𐘙𐘃𐄁𐙚𐄇\n𐝫𐄎𐙗𐄈𐝆𐝁",
     "translatedWords": [
         "cyperus",
         "¹⁄₂",
@@ -46215,7 +46158,7 @@ var inscriptions = new Map([
         "RI-TA-JE",
         "cyperus",
         "\n",
-        "ram",
+        "he-goat",
         "1",
         "\n",
         "cyperus",
@@ -46270,7 +46213,7 @@ var inscriptions = new Map([
         "RI-TA-JE",
         "CYP+D",
         "\n",
-        "*21M",
+        "*22M",
         "1",
         "\n",
         "CYP+D",
@@ -46325,7 +46268,7 @@ var inscriptions = new Map([
         "𐘭𐘳𐘧",
         "𐜙𐝫",
         "\n",
-        "𐝫𐘑",
+        "𐝫𐘔",
         "𐄇",
         "\n",
         "𐜙",
@@ -46368,7 +46311,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=52",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=53",
     "images": [
         "images/KH7a-Inscription.jpg"
     ],
@@ -46376,15 +46319,13 @@ var inscriptions = new Map([
     "names": [
         "KH7a"
     ],
-    "parsedInscription": "𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊\n𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇\n𐘡𐘅𐘤𐄁𐛪𐄐\n𐜙𐝆\n𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐛪𐄊\n𐜙𐝁\n𐘈𐙙𐄁\n𐙂𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎\n𐜙𐄇𐝕𐝉𐝫\n𐝫𐝁𐝌\n𐝫",
+    "parsedInscription": "𐝫𐘗𐝫𐘸𐙺𐄊\n𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇\n𐘡𐘅𐘤𐄁𐛪𐄐\n𐜙𐝆\n𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐛪𐄊\n𐜙𐝁\n𐘈𐙙𐄁\n𐙂𐝫𐘺𐘡𐛪𐝫𐄐𐄎\n𐜙𐄇𐝕𐝉𐝫\n𐝫𐝁𐝌\n𐝫",
     "scribe": "KH Scribe 2",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐘗𐝫𐄁𐝫𐘸𐙺𐄊𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇𐘡𐘅𐘤𐄁\n𐛪𐄐𐜙𐝆𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐙇𐄊𐜙𐝁𐘈𐙙𐄁𐙂\n𐝫𐄁𐝫𐘺𐘡𐛪𐝫𐄐𐄎𐜙𐄇𐝆𐝃𐝉𐝫\n𐝫𐝁𐝌",
+    "transcription": "𐝫\n𐝫𐘗𐝫𐘸𐙺𐄊𐜙𐄇𐝫\n𐝫𐘚𐜚𐝇𐘡𐘅𐘤𐄁\n𐛪𐄐𐜙𐝆𐘚𐘱𐘂𐘋𐄁𐘳𐘳𐄁\n𐘌𐘠𐘸𐛪𐄊𐜙𐝁𐘈𐙙𐄁𐙂\n𐝫𐘺𐘡𐛪𐝫𐄐𐄎𐜙𐄇𐝆𐝃𐝉𐝫\n𐝫𐝁𐝌",
     "translatedWords": [
-        "NE",
-        "𐄁",
-        "KI",
+        "NE-[?]-KI",
         "*334",
         "4",
         "\n",
@@ -46418,9 +46359,7 @@ var inscriptions = new Map([
         "SE-*305",
         "𐄁",
         "\n",
-        "KU",
-        "𐄁",
-        "KO-E",
+        "KU-[?]-KO-E",
         "VIR+*313b",
         "18",
         "\n",
@@ -46433,9 +46372,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
-        "NE",
-        "𐄁",
-        "KI",
+        "NE-[?]-KI",
         "*334",
         "4",
         "\n",
@@ -46469,9 +46406,7 @@ var inscriptions = new Map([
         "SE-*305",
         "𐄁",
         "\n",
-        "KU",
-        "𐄁",
-        "KO-E",
+        "KU-[?]-KO-E",
         "VIR+*313b",
         "18",
         "\n",
@@ -46484,9 +46419,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "words": [
-        "𐝫𐘗𐝫",
-        "𐄁",
-        "𐝫𐘸",
+        "𐝫𐘗𐝫𐘸",
         "𐙺",
         "𐄊",
         "\n",
@@ -46520,9 +46453,7 @@ var inscriptions = new Map([
         "𐘈𐙙",
         "𐄁",
         "\n",
-        "𐙂𐝫",
-        "𐄁",
-        "𐝫𐘺𐘡",
+        "𐙂𐝫𐘺𐘡",
         "𐛪",
         "𐝫𐄐𐄎",
         "\n",
@@ -46542,7 +46473,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=52",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=55",
     "images": [
         "images/KH7b-Inscription.jpg"
     ],
@@ -46629,7 +46560,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=56",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=57",
     "images": [
         "images/KH8-Inscription.jpg"
     ],
@@ -46752,7 +46683,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=58",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=59",
     "images": [
         "images/KH9-Inscription.jpg"
     ],
@@ -46794,7 +46725,8 @@ var inscriptions = new Map([
         "\n",
         ".3",
         "\n",
-        "SI+TA2-*304",
+        "SI+TA2",
+        "olive oil",
         "1"
     ],
     "transliteratedWords": [
@@ -46826,7 +46758,8 @@ var inscriptions = new Map([
         "\n",
         ".3",
         "\n",
-        "SI+TA2-*304",
+        "SI+TA2",
+        "*304",
         "1"
     ],
     "words": [
@@ -46858,7 +46791,8 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐝎",
         "\n",
-        "𐛌𐙘",
+        "𐛌",
+        "𐙘",
         "𐄇𐝫"
     ]
 }],
@@ -46869,7 +46803,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=60",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=61",
     "images": [
         "images/KH10-Inscription.jpg"
     ],
@@ -46947,7 +46881,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=62",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=63",
     "images": [
         "images/KH11-Inscription.jpg"
     ],
@@ -46955,15 +46889,13 @@ var inscriptions = new Map([
     "names": [
         "KH11"
     ],
-    "parsedInscription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉\n𐜚𐝇𐝉\n𐙍𐝀\n𐙚𐄊\n𐙗𐝁\n𐚈𐙗𐝇𐝉\n𐘇𐘄𐚉𐘄𐘚𐜚𐄉\n𐘝𐄇\n𐙍𐄉\n𐘇𐘳𐚊𐙕𐄇\n𐙚𐄇\n𐘤𐙗𐝇𐝉",
+    "parsedInscription": "𐘇𐘬𐝫𐘍𐙗𐝇\n𐘲𐄉\n𐜚𐝇𐝉\n𐙍𐝀\n𐙚𐄊\n𐙗𐝁\n𐚈𐙗𐝇𐝉\n𐘇𐘄𐚉𐘄𐘚𐜚𐄉\n𐘝𐄇\n𐙍𐄉\n𐘇𐘳𐚊𐙕𐄇\n𐙚𐄇\n𐘤𐙗𐝇𐝉",
     "scribe": "KH Scribe 2",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐘇𐘬𐝫𐄁𐝫𐘍𐙗𐝇\n𐘲𐄉𐜚𐝇𐝉𐙍𐝀\n𐙚𐄊𐙗𐝁𐚈𐙗𐝇\n𐝉𐘇𐘄𐚉𐘄𐘚𐜚\n𐄉𐘝𐄇𐙍𐄉𐘇𐘳𐚊\n𐙕𐄇𐙚𐄇𐘤𐙗𐝇𐝉",
+    "transcription": "𐘇𐘬𐝫𐘍𐙗𐝇\n𐘲𐄉𐜚𐝇𐝉𐙍𐝀\n𐙚𐄊𐙗𐝁𐚈𐙗𐝇\n𐝉𐘇𐘄𐚉𐘄𐘚𐜚\n𐄉𐘝𐄇𐙍𐄉𐘇𐘳𐚊\n𐙕𐄇𐙚𐄇𐘤𐙗𐝇𐝉",
     "translatedWords": [
-        "\"assessment\"?",
-        "𐄁",
-        "ZA",
+        "A-DU-[?]-ZA",
         "cyperus",
         "¹⁄₁₆",
         "\n",
@@ -47006,9 +46938,7 @@ var inscriptions = new Map([
         "𐝇𐝉"
     ],
     "transliteratedWords": [
-        "A-DU",
-        "𐄁",
-        "ZA",
+        "A-DU-[?]-ZA",
         "CYP",
         "¹⁄₁₆",
         "\n",
@@ -47051,9 +46981,7 @@ var inscriptions = new Map([
         "𐝇𐝉"
     ],
     "words": [
-        "𐘇𐘬𐝫",
-        "𐄁",
-        "𐝫𐘍",
+        "𐘇𐘬𐝫𐘍",
         "𐙗",
         "𐝇",
         "\n",
@@ -47103,7 +47031,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=64",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=65",
     "images": [
         "images/KH12-Inscription.jpg"
     ],
@@ -47214,7 +47142,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=66",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=67",
     "images": [
         "images/KH13-Inscription.jpg"
     ],
@@ -47226,7 +47154,7 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉𐙘𐝁𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫",
+    "transcription": "𐝫\n𐝫𐄈𐝆𐝫\n𐝫𐘇𐘈𐘙𐘍𐝫\n𐝫𐝃𐝉𐙘𐝫𐙗𐝁𐝫\n𐝫𐘀𐘚𐝫\n𐝫𐄉\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -47298,7 +47226,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=68",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=69",
     "images": [
         "images/KH14-Inscription.jpg"
     ],
@@ -47403,7 +47331,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=70",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=71",
     "images": [
         "images/KH15-Inscription.jpg"
     ],
@@ -47454,7 +47382,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=70",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=71",
     "images": [
         "images/KH16-Inscription.jpg"
     ],
@@ -47520,7 +47448,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=72",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=73",
     "images": [
         "images/KH17-Inscription.jpg"
     ],
@@ -47592,7 +47520,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=72",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=73",
     "images": [
         "images/KH18-Inscription.jpg"
     ],
@@ -47682,7 +47610,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=74",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=75",
     "images": [
         "images/KH19-Inscription.jpg"
     ],
@@ -47730,7 +47658,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=76",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=77",
     "images": [
         "images/KH20-Inscription.jpg"
     ],
@@ -47808,7 +47736,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=78",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=79",
     "images": [
         "images/KH21-Inscription.jpg"
     ],
@@ -47868,7 +47796,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=78",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=79",
     "images": [
         "images/KH22-Inscription.jpg"
     ],
@@ -47934,7 +47862,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=80",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=81",
     "images": [
         "images/KH23-Inscription.jpg"
     ],
@@ -47976,7 +47904,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=80",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=81",
     "images": [
         "images/KH24-Inscription.jpg"
     ],
@@ -47988,7 +47916,7 @@ var inscriptions = new Map([
     "scribe": "",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐝫𐘲𐄐𐄈𐝫\n𐝫𐝈𐝉\n𐝫",
+    "transcription": "𐝫𐘲𐄐𐄈𐝫\n𐝫𐝉\n𐝫",
     "translatedWords": [
         "SU",
         "12",
@@ -48021,7 +47949,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=80",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=81",
     "images": [
         "images/KH25-Inscription.jpg"
     ],
@@ -48069,7 +47997,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=82",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=83",
     "images": [
         "images/KH26-Inscription.jpg"
     ],
@@ -48138,7 +48066,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=82",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=83",
     "images": [
         "images/KH27-Inscription.jpg"
     ],
@@ -48183,7 +48111,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=82",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=83",
     "images": [
         "images/KH28-Inscription.jpg"
     ],
@@ -48231,7 +48159,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=84",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=85",
     "images": [
         "images/KH29-Inscription.jpg"
     ],
@@ -48306,7 +48234,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=84",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=85",
     "images": [
         "images/KH30-Inscription.jpg"
     ],
@@ -48351,7 +48279,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=86",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=87",
     "images": [
         "images/KH31-Inscription.jpg"
     ],
@@ -48373,7 +48301,7 @@ var inscriptions = new Map([
         "\n",
         "¹⁄₂",
         "\n",
-        "*401+RO",
+        "*401+RA",
         "\n",
         "1",
         "\n",
@@ -48388,7 +48316,7 @@ var inscriptions = new Map([
         "\n",
         "¹⁄₂",
         "\n",
-        "*401+RO",
+        "*401+RA",
         "\n",
         "1",
         "\n",
@@ -48417,7 +48345,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=86",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=87",
     "images": [
         "images/KH32-Inscription.jpg"
     ],
@@ -48459,7 +48387,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=86",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=87",
     "images": [
         "images/KH33-Inscription.jpg"
     ],
@@ -48513,7 +48441,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=88",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=89",
     "images": [
         "images/KH34-Inscription.jpg"
     ],
@@ -48564,7 +48492,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=88",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=89",
     "images": [
         "images/KH35-Inscription.jpg"
     ],
@@ -48618,7 +48546,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=88",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=89",
     "images": [
         "images/KH36-Inscription.jpg"
     ],
@@ -48669,7 +48597,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=90",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=91",
     "images": [
         "images/KH37-Inscription.jpg"
     ],
@@ -48720,7 +48648,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=90",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=91",
     "images": [
         "images/KH38-Inscription.jpg"
     ],
@@ -48777,7 +48705,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=90",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=91",
     "images": [
         "images/KH39-Inscription.jpg"
     ],
@@ -48819,7 +48747,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=92",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=93",
     "images": [
         "images/KH40-Inscription.jpg"
     ],
@@ -48861,7 +48789,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=92",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=93",
     "images": [
         "images/KH41-Inscription.jpg"
     ],
@@ -48903,7 +48831,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=92",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=93",
     "images": [
         "images/KH42-Inscription.jpg"
     ],
@@ -48945,7 +48873,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=94",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=95",
     "images": [
         "images/KH43-Inscription.jpg"
     ],
@@ -48957,9 +48885,9 @@ var inscriptions = new Map([
     "scribe": "",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐝫𐙁𐘘𐘙𐄈𐛇𐝫\n𐝫",
+    "transcription": "𐝫𐛢𐘙𐄈𐛇𐝫\n𐝫",
     "translatedWords": [
-        "*560-RE",
+        "*562",
         "2",
         "\n",
         "WI+ZE[",
@@ -48967,7 +48895,7 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
-        "*560-RE",
+        "*562",
         "2",
         "\n",
         "WI+ZE[",
@@ -48990,7 +48918,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=94",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=95",
     "images": [
         "images/KH44-Inscription.jpg"
     ],
@@ -49038,7 +48966,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=94",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=95",
     "images": [
         "images/KH45-Inscription.jpg"
     ],
@@ -49080,7 +49008,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=96",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=97",
     "images": [
         "images/KH46-Inscription.jpg"
     ],
@@ -49134,7 +49062,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=96",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=97",
     "images": [
         "images/KH47-Inscription.jpg"
     ],
@@ -49194,7 +49122,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=96",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=97",
     "images": [
         "images/KH49-Inscription.jpg"
     ],
@@ -49242,7 +49170,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=98",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=99",
     "images": [
         "images/KH50-Inscription.jpg"
     ],
@@ -49250,11 +49178,11 @@ var inscriptions = new Map([
     "names": [
         "KH50"
     ],
-    "parsedInscription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈\n𐘿𐝫𐄁𐝫𐄇\n—\n—",
+    "parsedInscription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈\n𐘿𐝫𐄇\n—\n—",
     "scribe": "",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈𐘿𐝫𐄁𐝫𐄇\n—\n—",
+    "transcription": "𐝫\n𐝫𐘳𐄈\n𐝫𐘧𐄈𐘿𐝫𐄇\n—\n—",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -49264,8 +49192,7 @@ var inscriptions = new Map([
         "3/4",
         "2",
         "\n",
-        "QE",
-        "𐄁",
+        "QE-[?]",
         "\n",
         "\n",
         "1",
@@ -49281,8 +49208,7 @@ var inscriptions = new Map([
         "JE",
         "2",
         "\n",
-        "QE",
-        "𐄁",
+        "QE-[?]",
         "\n",
         "\n",
         "1",
@@ -49299,7 +49225,6 @@ var inscriptions = new Map([
         "𐄈",
         "\n",
         "𐘿𐝫",
-        "𐄁",
         "\n",
         "\n",
         "𐄇",
@@ -49314,7 +49239,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=98",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=99",
     "images": [
         "images/KH51-Inscription.jpg"
     ],
@@ -49365,7 +49290,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=98",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=99",
     "images": [
         "images/KH52-Inscription.jpg"
     ],
@@ -49413,7 +49338,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=100",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=101",
     "images": [
         "images/KH53-Inscription.jpg"
     ],
@@ -49458,7 +49383,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=100",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=101",
     "images": [
         "images/KH54-Inscription.jpg"
     ],
@@ -49512,7 +49437,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=100",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=101",
     "images": [
         "images/KH55-Inscription.jpg"
     ],
@@ -49575,7 +49500,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=102",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=103",
     "images": [
         "images/KH56-Inscription.jpg"
     ],
@@ -49617,7 +49542,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=102",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=103",
     "images": [
         "images/KH57-Inscription.jpg"
     ],
@@ -49677,7 +49602,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=104",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=105",
     "images": [
         "images/KH58-Inscription.jpg"
     ],
@@ -49770,7 +49695,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=104",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=105",
     "images": [
         "images/KH59-Inscription.jpg"
     ],
@@ -49830,7 +49755,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=106",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=107",
     "images": [
         "images/KH60-Inscription.jpg"
     ],
@@ -49902,7 +49827,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=106",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=107",
     "images": [
         "images/KH61-Inscription.jpg"
     ],
@@ -49986,7 +49911,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=108",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=109",
     "images": [
         "images/KH62-Inscription.jpg"
     ],
@@ -50022,7 +49947,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=108",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=109",
     "images": [
         "images/KH63-Inscription.jpg"
     ],
@@ -50076,7 +50001,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=108",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=109",
     "images": [
         "images/KH64-Inscription.jpg"
     ],
@@ -50124,7 +50049,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=110",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=111",
     "images": [
         "images/KH65-Inscription.jpg"
     ],
@@ -50166,7 +50091,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=110",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=111",
     "images": [
         "images/KH66-Inscription.jpg"
     ],
@@ -50202,7 +50127,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=110",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=111",
     "images": [
         "images/KH67-Inscription.jpg"
     ],
@@ -50301,7 +50226,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=112",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=113",
     "images": [
         "images/KH69-Inscription.jpg"
     ],
@@ -50343,7 +50268,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=112",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=113",
     "images": [
         "images/KH70-Inscription.jpg"
     ],
@@ -50385,7 +50310,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=114",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=115",
     "images": [
         "images/KH72-Inscription.jpg"
     ],
@@ -50427,7 +50352,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=114",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=115",
     "images": [
         "images/KH73-Inscription.jpg"
     ],
@@ -50511,7 +50436,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=116",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=117",
     "images": [
         "images/KH74-Inscription.jpg"
     ],
@@ -50529,7 +50454,8 @@ var inscriptions = new Map([
         "𐄁",
         "JA-DA-SU",
         "\n",
-        "SI-*805-MI",
+        "SI",
+        "*805-MI",
         "\n",
         "𐝫"
     ],
@@ -50538,7 +50464,8 @@ var inscriptions = new Map([
         "𐄁",
         "JA-DA-SU",
         "\n",
-        "SI-*805-MI",
+        "SI",
+        "*805-MI",
         "\n",
         "𐝫"
     ],
@@ -50547,7 +50474,8 @@ var inscriptions = new Map([
         "𐄁",
         "𐘱𐘀𐘲𐝫",
         "\n",
-        "𐝫𐘤𐝥𐘻",
+        "𐝫𐘤",
+        "𐝥𐘻",
         "\n",
         "𐝫"
     ]
@@ -50559,7 +50487,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=116",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=117",
     "images": [
         "images/KH75-Inscription.jpg"
     ],
@@ -50619,7 +50547,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=116",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=117",
     "images": [
         "images/KH76-Inscription.jpg"
     ],
@@ -50673,7 +50601,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=118",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=119",
     "images": [
         "images/KH77-Inscription.jpg"
     ],
@@ -50712,7 +50640,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=118",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=119",
     "images": [
         "images/KH78-Inscription.jpg"
     ],
@@ -50754,7 +50682,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=118",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=119",
     "images": [
         "images/KH79-Inscription.jpg"
     ],
@@ -50770,14 +50698,14 @@ var inscriptions = new Map([
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫𐘂𐘀𐝫",
+        "PA-DA",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫𐘂𐘀𐝫",
+        "PA-DA",
         "\n",
         "𐝫"
     ],
@@ -50796,7 +50724,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=118",
+    "imageRightsURL": "papers/GORILA-Vol5.pdf#page=91",
     "images": [
         "images/KH79+89-Inscription.jpg"
     ],
@@ -50850,7 +50778,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=120",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=121",
     "images": [
         "images/KH80-Inscription.jpg"
     ],
@@ -50892,7 +50820,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=120",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=121",
     "images": [
         "images/KH81-Inscription.jpg"
     ],
@@ -50955,7 +50883,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=120",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=121",
     "images": [
         "images/KH82-Inscription.jpg"
     ],
@@ -51021,7 +50949,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=122",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=123",
     "images": [
         "images/KH83-Inscription.jpg"
     ],
@@ -51033,7 +50961,7 @@ var inscriptions = new Map([
     "scribe": "",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐝫𐄁𐘇𐘆𐘗𐝫\n𐝫𐄐𐄋𐚡𐘇𐝫\n𐝫",
+    "transcription": "𐝫𐄁𐘇𐘆𐘗𐝫\n𐝫𐄐𐄋𐜩𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "𐄁",
@@ -51078,7 +51006,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=122",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=123",
     "images": [
         "images/KH84-Inscription.jpg"
     ],
@@ -51144,7 +51072,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=122",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=123",
     "images": [
         "images/KH85-Inscription.jpg"
     ],
@@ -51156,7 +51084,7 @@ var inscriptions = new Map([
     "scribe": "KH Scribe 1",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐜐𐝆𐙜𐝫\n𐝫𐜩𐝇𐙏𐝫\n𐝫𐙘𐝂𐝫\n𐝫",
+    "transcription": "𐝫\n𐝫𐜐𐝆𐙜𐝫\n𐝫𐜩𐝇𐙏𐝫\n𐝫𐙘𐝫𐝫𐙗𐝫𐝂𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -51225,7 +51153,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=124",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=125",
     "images": [
         "images/KH86-Inscription.jpg"
     ],
@@ -51294,7 +51222,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=124",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=125",
     "images": [
         "images/KH87-Inscription.jpg"
     ],
@@ -51425,16 +51353,15 @@ var inscriptions = new Map([
     "names": [
         "KH90"
     ],
-    "parsedInscription": "𐝫\n𐝫𐄁𐝫𐘱𐝫\n𐝫𐙁𐘳𐘭𐘳𐝫\n𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐘱𐝫\n𐝫𐙁𐘳𐘭𐘳𐝫\n𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐄁𐝫𐘱𐝫\n𐝫𐙁𐘳𐘭𐘳𐝫\n𐝫\n𐝫",
+    "transcription": "𐝫\n𐝫𐘱𐝫\n𐝫𐙁𐘳𐘭𐘳𐝫\n𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐄁",
-        "JA",
+        "[?]-JA",
         "\n",
         "MA-TA-RI-TA",
         "\n",
@@ -51445,8 +51372,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐄁",
-        "JA",
+        "[?]-JA",
         "\n",
         "MA-TA-RI-TA",
         "\n",
@@ -51457,7 +51383,6 @@ var inscriptions = new Map([
     "words": [
         "𐝫",
         "\n",
-        "𐄁",
         "𐝫𐘱𐝫",
         "\n",
         "𐝫𐙁𐘳𐘭𐘳𐝫",
@@ -51482,17 +51407,15 @@ var inscriptions = new Map([
     "names": [
         "KH91"
     ],
-    "parsedInscription": "𐝫\n𐝫𐄁𐝫\n𐙉𐄇\n𐙍𐝫\n𐝫𐙨𐄇𐝆𐝉\n𐙀𐝫\n𐝫𐝀\n𐘹𐝇\n𐘝𐝫\n𐝫𐜩𐝇\n𐜪𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫\n𐙉𐄇\n𐙍𐝫\n𐝫𐙨𐄇𐝆𐝉\n𐙀𐝫\n𐝫𐝀\n𐘹𐝇\n𐘝𐝫\n𐝫𐜩𐝇\n𐜪𐝫\n𐝫",
     "scribe": "KH Scribe 6",
     "site": "Khania",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐄁𐝫𐙉𐄇𐙍𐝫\n𐝫𐙨𐄇𐝆𐝉𐙀𐝫\n𐝫𐝀𐘹𐝇𐘝𐝫\n𐝫𐜩𐝇𐜪𐝫\n𐝫",
+    "transcription": "𐝫\n𐝫𐙉𐄇𐙍𐝫\n𐝫𐙨𐄇𐝆𐝉𐙀𐝫\n𐝫𐝀𐘹𐝇𐘝𐝫\n𐝫𐜩𐝇𐜪𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "𐝫",
-        "𐄁",
-        "𐝫",
+        "[?]",
         "\n",
         "grain",
         "1",
@@ -51515,16 +51438,14 @@ var inscriptions = new Map([
         "*401+RU",
         "¹⁄₁₆",
         "\n",
-        "*401+RO",
+        "*401+RA",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "𐝫",
-        "𐄁",
-        "𐝫",
+        "[?]",
         "\n",
         "GRA",
         "1",
@@ -51547,15 +51468,13 @@ var inscriptions = new Map([
         "*401+RU",
         "¹⁄₁₆",
         "\n",
-        "*401+RO",
+        "*401+RA",
         "\n",
         "𐝫"
     ],
     "words": [
         "𐝫",
         "\n",
-        "𐝫",
-        "𐄁",
         "𐝫",
         "\n",
         "𐙉",
@@ -51690,7 +51609,7 @@ var inscriptions = new Map([
     "names": [
         "KH94"
     ],
-    "parsedInscription": "𐝫\n𐝫𐘌𐝫𐘫\n𐝫𐄐𐄍\n𐘚𐝫𐘍𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐚻𐝫\n𐝫𐄐𐄍\n𐘚𐝫𐘍𐝫\n𐝫",
     "scribe": "",
     "site": "Khania",
     "support": "Tablet",
@@ -51698,33 +51617,36 @@ var inscriptions = new Map([
     "translatedWords": [
         "𐝫",
         "\n",
-        "QA-PU",
+        "liquid?",
         "\n",
         "17",
         "\n",
-        "I-ZA",
+        "I",
+        "ZA",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "QA-PU",
+        "QA2+[?]+PU",
         "\n",
         "17",
         "\n",
-        "I-ZA",
+        "I",
+        "ZA",
         "\n",
         "𐝫"
     ],
     "words": [
         "𐝫",
         "\n",
-        "𐝫𐘌𐝫𐘫",
+        "𐝫𐚻𐝫",
         "\n",
         "𐝫𐄐𐄍",
         "\n",
-        "𐘚𐝫𐘍𐝫",
+        "𐘚𐝫",
+        "𐘍𐝫",
         "\n",
         "𐝫"
     ]
@@ -51831,21 +51753,24 @@ var inscriptions = new Map([
     "support": "Tablet",
     "transcription": "𐝫𐘙𐘇𐘱𐝫\n𐝫𐘅𐝫\n𐝫",
     "translatedWords": [
-        "RE-A-JA",
+        "RE",
+        "A-JA",
         "\n",
         "NA",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
-        "RE-A-JA",
+        "RE",
+        "A-JA",
         "\n",
         "NA",
         "\n",
         "𐝫"
     ],
     "words": [
-        "𐝫𐘙𐘇𐘱𐝫",
+        "𐝫𐘙",
+        "𐘇𐘱𐝫",
         "\n",
         "𐝫𐘅𐝫",
         "\n",
@@ -51916,6 +51841,7 @@ var inscriptions = new Map([
     "transcription": "𐝫𐘂𐘭𐘦𐝫\n𐝫𐘇𐘤𐙈\n𐝫𐙂𐘾𐝫\n𐝫",
     "translatedWords": [
         "PA-RI-DE",
+        "[[[?]]]",
         "\n",
         "A-SI-*118",
         "\n",
@@ -51923,13 +51849,15 @@ var inscriptions = new Map([
     ],
     "transliteratedWords": [
         "PA-RI-DE",
+        "[[[?]]]",
         "\n",
         "A-SI-*118",
         "\n",
         "KU-KA"
     ],
     "words": [
-        "𐝫𐘂𐘭𐘦𐝫",
+        "𐝫𐘂𐘭𐘦",
+        "𐝫",
         "\n",
         "𐝫𐘇𐘤𐙈",
         "\n",
@@ -51990,30 +51918,6 @@ var inscriptions = new Map([
         "𐝫"
     ]
 }],
-["KH101",{
-    "context": "",
-    "facsimileImages": [
-        "images/KH101-Facsimile.jpg"
-    ],
-    "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "",
-    "images": [
-        "images/KH101-Inscription.jpg"
-    ],
-    "name": "KH101",
-    "names": [
-        "KH101"
-    ],
-    "parsedInscription": "",
-    "scribe": "",
-    "site": "Khania",
-    "support": "Tablet",
-    "transcription": "",
-    "translatedWords": [],
-    "transliteratedWords": [],
-    "words": []
-}],
 ["KHWa1001",{
     "context": "LMIB",
     "facsimileImages": [
@@ -52021,7 +51925,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=128",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=129",
     "images": [
         "images/KHWa1001a-Inscription.jpg"
     ],
@@ -52035,11 +51939,11 @@ var inscriptions = new Map([
     "support": "Nodule",
     "transcription": "𐜡𐚳 𐜡𐚳¹⁰⁰²",
     "translatedWords": [
-        "*316+KI",
+        "*317+KI",
         "DA+RO"
     ],
     "transliteratedWords": [
-        "*316+KI",
+        "*317+KI",
         "DA+RO"
     ],
     "words": [
@@ -52054,7 +51958,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=128",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=129",
     "images": [
         "images/KHWa1002a-Inscription.jpg"
     ],
@@ -52068,11 +51972,11 @@ var inscriptions = new Map([
     "support": "Nodule",
     "transcription": "",
     "translatedWords": [
-        "*316+KI",
+        "*317+KI",
         "DA+RO"
     ],
     "transliteratedWords": [
-        "*316+KI",
+        "*317+KI",
         "DA+RO"
     ],
     "words": [
@@ -52087,7 +51991,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=129",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=130",
     "images": [
         "images/KHWa1003-Inscription.jpg"
     ],
@@ -52117,7 +52021,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=129",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=130",
     "images": [
         "images/KHWa1004-Inscription.jpg"
     ],
@@ -52147,7 +52051,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=129",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=130",
     "images": [
         "images/KHWa1005-Inscription.jpg"
     ],
@@ -52177,7 +52081,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=130",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=131",
     "images": [
         "images/KHWa1006-Inscription.jpg"
     ],
@@ -52206,8 +52110,8 @@ var inscriptions = new Map([
         "images/KHWa1007-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=130",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=131",
     "images": [
         "images/KHWa1007-Inscription.jpg"
     ],
@@ -52237,7 +52141,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=130",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=131",
     "images": [
         "images/KHWa1008-Inscription.jpg"
     ],
@@ -52267,7 +52171,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=131",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=132",
     "images": [
         "images/KHWa1009-Inscription.jpg"
     ],
@@ -52297,7 +52201,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=131",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=132",
     "images": [
         "images/KHWa1010-Inscription.jpg"
     ],
@@ -52327,7 +52231,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=131",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=132",
     "images": [
         "images/KHWa1011-Inscription.jpg"
     ],
@@ -52357,7 +52261,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=132",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=133",
     "images": [
         "images/KHWa1012-Inscription.jpg"
     ],
@@ -52388,7 +52292,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=132",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=133",
     "images": [
         "images/KHWa1013a-Inscription.jpg",
         "images/KHWa1013g-Inscription.jpg"
@@ -52419,7 +52323,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=133",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=134",
     "images": [
         "images/KHWa1014-Inscription.jpg"
     ],
@@ -52449,7 +52353,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=133",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=134",
     "images": [
         "images/KHWa1015-Inscription.jpg"
     ],
@@ -52480,7 +52384,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=134",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=135",
     "images": [
         "images/KHWa1016a-Inscription.jpg",
         "images/KHWa1016g-Inscription.jpg"
@@ -52510,8 +52414,8 @@ var inscriptions = new Map([
         "images/KHWa1017-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=133",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=135",
     "images": [
         "images/KHWa1017-Inscription.jpg"
     ],
@@ -52540,8 +52444,8 @@ var inscriptions = new Map([
         "images/KHWa1018-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=134",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=136",
     "images": [
         "images/KHWa1018-Inscription.jpg"
     ],
@@ -52571,7 +52475,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=134",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=136",
     "images": [
         "images/KHWa1019-Inscription.jpg"
     ],
@@ -52600,8 +52504,8 @@ var inscriptions = new Map([
         "images/KHWa1020-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=134",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=136",
     "images": [
         "images/KHWa1020-Inscription.jpg"
     ],
@@ -52634,7 +52538,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=138",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=139",
     "images": [
         "images/KHWc2001-Inscription.jpg"
     ],
@@ -52664,7 +52568,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=138",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=139",
     "images": [
         "images/KHWc2002-Inscription.jpg"
     ],
@@ -52694,7 +52598,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=138",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=139",
     "images": [
         "images/KHWc2003-Inscription.jpg"
     ],
@@ -52724,7 +52628,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=139",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=140",
     "images": [
         "images/KHWc2004-Inscription.jpg"
     ],
@@ -52754,7 +52658,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=139",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=140",
     "images": [
         "images/KHWc2005-Inscription.jpg"
     ],
@@ -52784,7 +52688,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=140",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=141",
     "images": [
         "images/KHWc2006-Inscription.jpg"
     ],
@@ -52814,7 +52718,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=140",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=141",
     "images": [
         "images/KHWc2007-Inscription.jpg"
     ],
@@ -52844,7 +52748,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=140",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=141",
     "images": [
         "images/KHWc2008-Inscription.jpg"
     ],
@@ -52874,7 +52778,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=141",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=142",
     "images": [
         "images/KHWc2009-Inscription.jpg"
     ],
@@ -52904,7 +52808,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=141",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=142",
     "images": [
         "images/KHWc2010-Inscription.jpg"
     ],
@@ -52934,7 +52838,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=142",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=143",
     "images": [
         "images/KHWc2011-Inscription.jpg"
     ],
@@ -52964,7 +52868,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=142",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=143",
     "images": [
         "images/KHWc2012-Inscription.jpg"
     ],
@@ -52993,8 +52897,8 @@ var inscriptions = new Map([
         "images/KHWc2013-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=142",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=143",
     "images": [
         "images/KHWc2013-Inscription.jpg"
     ],
@@ -53024,7 +52928,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=143",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=144",
     "images": [
         "images/KHWc2014-Inscription.jpg"
     ],
@@ -53054,7 +52958,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=143",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=144",
     "images": [
         "images/KHWc2015-Inscription.jpg"
     ],
@@ -53084,7 +52988,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=143",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=144",
     "images": [
         "images/KHWc2016-Inscription.jpg"
     ],
@@ -53114,7 +53018,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=144",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=145",
     "images": [
         "images/KHWc2017-Inscription.jpg"
     ],
@@ -53144,7 +53048,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=144",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=145",
     "images": [
         "images/KHWc2018-Inscription.jpg"
     ],
@@ -53174,7 +53078,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=145",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=146",
     "images": [
         "images/KHWc2019-Inscription.jpg"
     ],
@@ -53204,7 +53108,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=145",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=146",
     "images": [
         "images/KHWc2020-Inscription.jpg"
     ],
@@ -53234,7 +53138,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=146",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=147",
     "images": [
         "images/KHWc2021-Inscription.jpg"
     ],
@@ -53264,7 +53168,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=146",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=147",
     "images": [
         "images/KHWc2022-Inscription.jpg"
     ],
@@ -53294,7 +53198,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=146",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=147",
     "images": [
         "images/KHWc2023-Inscription.jpg"
     ],
@@ -53324,7 +53228,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=147",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=148",
     "images": [
         "images/KHWc2024-Inscription.jpg"
     ],
@@ -53354,7 +53258,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=147",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=148",
     "images": [
         "images/KHWc2025-Inscription.jpg"
     ],
@@ -53384,7 +53288,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=148",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=149",
     "images": [
         "images/KHWc2026-Inscription.jpg"
     ],
@@ -53414,7 +53318,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=148",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=149",
     "images": [
         "images/KHWc2027-Inscription.jpg"
     ],
@@ -53444,7 +53348,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=148",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=149",
     "images": [
         "images/KHWc2028-Inscription.jpg"
     ],
@@ -53474,7 +53378,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=149",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=150",
     "images": [
         "images/KHWc2029-Inscription.jpg"
     ],
@@ -53503,8 +53407,8 @@ var inscriptions = new Map([
         "images/KHWc2030-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=149",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=150",
     "images": [
         "images/KHWc2030-Inscription.jpg"
     ],
@@ -53534,7 +53438,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=150",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=151",
     "images": [
         "images/KHWc2031-Inscription.jpg"
     ],
@@ -53564,7 +53468,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=150",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=151",
     "images": [
         "images/KHWc2032-Inscription.jpg"
     ],
@@ -53594,7 +53498,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=151",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=152",
     "images": [
         "images/KHWc2033-Inscription.jpg"
     ],
@@ -53623,8 +53527,8 @@ var inscriptions = new Map([
         "images/KHWc2034-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=151",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=152",
     "images": [
         "images/KHWc2034-Inscription.jpg"
     ],
@@ -53654,7 +53558,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=151",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=152",
     "images": [
         "images/KHWc2035-Inscription.jpg"
     ],
@@ -53684,7 +53588,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=152",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
     "images": [
         "images/KHWc2036-Inscription.jpg"
     ],
@@ -53714,7 +53618,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=152",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
     "images": [
         "images/KHWc2037-Inscription.jpg"
     ],
@@ -53744,7 +53648,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=152",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
     "images": [
         "images/KHWc2038-Inscription.jpg"
     ],
@@ -53774,7 +53678,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=154",
     "images": [
         "images/KHWc2039-Inscription.jpg"
     ],
@@ -53804,7 +53708,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=154",
     "images": [
         "images/KHWc2040-Inscription.jpg"
     ],
@@ -53833,8 +53737,8 @@ var inscriptions = new Map([
         "images/KHWc2041-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=154",
     "images": [
         "images/KHWc2041-Inscription.jpg"
     ],
@@ -53864,7 +53768,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=153",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=154",
     "images": [
         "images/KHWc2042-Inscription.jpg"
     ],
@@ -53894,7 +53798,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=154",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=155",
     "images": [
         "images/KHWc2043-Inscription.jpg"
     ],
@@ -53924,7 +53828,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=154",
+    "imageRightsURL": "papers/GORILA-Vol5.pdf#page=99",
     "images": [
         "images/KHWc2044-Inscription.jpg"
     ],
@@ -53953,8 +53857,8 @@ var inscriptions = new Map([
         "images/KHWc2045-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=154",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=155",
     "images": [
         "images/KHWc2045-Inscription.jpg"
     ],
@@ -53984,7 +53888,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=155",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=156",
     "images": [
         "images/KHWc2046-Inscription.jpg"
     ],
@@ -54014,7 +53918,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=155",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=156",
     "images": [
         "images/KHWc2047-Inscription.jpg"
     ],
@@ -54044,7 +53948,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=155",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=156",
     "images": [
         "images/KHWc2048-Inscription.jpg"
     ],
@@ -54074,7 +53978,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=156",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=157",
     "images": [
         "images/KHWc2049-Inscription.jpg"
     ],
@@ -54104,7 +54008,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=156",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=157",
     "images": [
         "images/KHWc2050-Inscription.jpg"
     ],
@@ -54134,7 +54038,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=156",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=157",
     "images": [
         "images/KHWc2051-Inscription.jpg"
     ],
@@ -54164,7 +54068,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=157",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=158",
     "images": [
         "images/KHWc2052-Inscription.jpg"
     ],
@@ -54194,7 +54098,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=157",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=158",
     "images": [
         "images/KHWc2053-Inscription.jpg"
     ],
@@ -54224,7 +54128,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=158",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=159",
     "images": [
         "images/KHWc2054-Inscription.jpg"
     ],
@@ -54254,7 +54158,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=158",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=159",
     "images": [
         "images/KHWc2055-Inscription.jpg"
     ],
@@ -54284,7 +54188,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=159",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=160",
     "images": [
         "images/KHWc2056-Inscription.jpg"
     ],
@@ -54314,7 +54218,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=159",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=160",
     "images": [
         "images/KHWc2057-Inscription.jpg"
     ],
@@ -54344,7 +54248,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=160",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=161",
     "images": [
         "images/KHWc2058-Inscription.jpg"
     ],
@@ -54434,7 +54338,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=160",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=161",
     "images": [
         "images/KHWc2059-Inscription.jpg"
     ],
@@ -54464,7 +54368,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=161",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=162",
     "images": [
         "images/KHWc2060-Inscription.jpg"
     ],
@@ -54493,8 +54397,8 @@ var inscriptions = new Map([
         "images/KHWc2061-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=161",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=162",
     "images": [
         "images/KHWc2061-Inscription.jpg"
     ],
@@ -54524,7 +54428,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=161",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=162",
     "images": [
         "images/KHWc2062-Inscription.jpg"
     ],
@@ -54554,7 +54458,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=162",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=163",
     "images": [
         "images/KHWc2063-Inscription.jpg"
     ],
@@ -54562,19 +54466,19 @@ var inscriptions = new Map([
     "names": [
         "KHWc2063"
     ],
-    "parsedInscription": "𐘒",
+    "parsedInscription": "𐘏",
     "scribe": "",
     "site": "Khania",
     "support": "Roundel",
-    "transcription": "𐘒",
+    "transcription": "𐘏",
     "translatedWords": [
-        "goat"
+        "sheep"
     ],
     "transliteratedWords": [
-        "CAP"
+        "QI"
     ],
     "words": [
-        "𐘒"
+        "𐘏"
     ]
 }],
 ["KHWc2064",{
@@ -54584,7 +54488,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=162",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=163",
     "images": [
         "images/KHWc2064-Inscription.jpg"
     ],
@@ -54614,7 +54518,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=162",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=163",
     "images": [
         "images/KHWc2065-Inscription.jpg"
     ],
@@ -54644,7 +54548,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=163",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=164",
     "images": [
         "images/KHWc2066-Inscription.jpg"
     ],
@@ -54674,7 +54578,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=163",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=164",
     "images": [
         "images/KHWc2067-Inscription.jpg"
     ],
@@ -54704,7 +54608,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=163",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=164",
     "images": [
         "images/KHWc2068-Inscription.jpg"
     ],
@@ -54734,7 +54638,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=164",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=165",
     "images": [
         "images/KHWc2069-Inscription.jpg"
     ],
@@ -54764,8 +54668,8 @@ var inscriptions = new Map([
         "images/KHWc2070b-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=164",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=165",
     "images": [
         "images/KHWc2070a-Inscription.jpg",
         "images/KHWc2070b-Inscription.jpg"
@@ -54848,7 +54752,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=165",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=166",
     "images": [
         "images/KHWc2084-Inscription.jpg"
     ],
@@ -54955,8 +54859,8 @@ var inscriptions = new Map([
         "images/KHWc2097-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=165",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=166",
     "images": [
         "images/KHWc2097-Inscription.jpg"
     ],
@@ -55016,7 +54920,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=165",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=166",
     "images": [
         "images/KHWc2098-Inscription.jpg"
     ],
@@ -55046,7 +54950,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=166",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=167",
     "images": [
         "images/KHWc2099-Inscription.jpg"
     ],
@@ -55076,7 +54980,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=166",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=167",
     "images": [
         "images/KHWc2100-Inscription.jpg"
     ],
@@ -55106,7 +55010,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=167",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=168",
     "images": [
         "images/KHWc2101-Inscription.jpg"
     ],
@@ -55136,7 +55040,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=167",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=168",
     "images": [
         "images/KHWc2102-Inscription.jpg"
     ],
@@ -55166,7 +55070,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=167",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=168",
     "images": [
         "images/KHWc2103-Inscription.jpg"
     ],
@@ -55196,7 +55100,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=168",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=169",
     "images": [
         "images/KHWc2104-Inscription.jpg"
     ],
@@ -55226,7 +55130,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=168",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=169",
     "images": [
         "images/KHWc2105-Inscription.jpg"
     ],
@@ -55256,7 +55160,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=168",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=169",
     "images": [
         "images/KHWc2106-Inscription.jpg"
     ],
@@ -55285,8 +55189,8 @@ var inscriptions = new Map([
         "images/KHWc2109-Facsimile.jpg"
     ],
     "findspot": "",
-    "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=169",
+    "imageRights": "© École Française d'Athènes",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=170",
     "images": [
         "images/KHWc2109-Inscription.jpg"
     ],
@@ -55316,7 +55220,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=169",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=170",
     "images": [
         "images/KHWc2110-Inscription.jpg"
     ],
@@ -55346,7 +55250,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=169",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=170",
     "images": [
         "images/KHWc2111-Inscription.jpg"
     ],
@@ -55376,7 +55280,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=170",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=171",
     "images": [
         "images/KHWc2113-Inscription.jpg"
     ],
@@ -55406,7 +55310,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=170",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=171",
     "images": [
         "images/KHWc2114-Inscription.jpg"
     ],
@@ -55604,13 +55508,16 @@ var inscriptions = new Map([
     "support": "Roundel",
     "transcription": "𐝭𐘢𐘾",
     "translatedWords": [
-        "*810-PI-KA"
+        "[[*810]]",
+        "[[PI-KA]]"
     ],
     "transliteratedWords": [
-        "*810-PI-KA"
+        "[[*810]]",
+        "[[PI-KA]]"
     ],
     "words": [
-        "𐝭𐘢𐘾"
+        "𐝭",
+        "𐘢𐘾"
     ]
 }],
 ["KHWc2124",{
@@ -55889,33 +55796,27 @@ var inscriptions = new Map([
     "names": [
         "KN22c"
     ],
-    "parsedInscription": "𐝫𐙁𐘲𐘻𐄁𐝫𐄁𐝫𐘅𐝫\n𐝫",
+    "parsedInscription": "𐝫𐙁𐘲𐘻𐄁𐝫𐘅𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "Lames (short thin tablet)",
-    "transcription": "𐝫𐙁𐘲𐘻𐄁𐝫𐄁𐝫𐘅𐝫\n𐝫",
+    "transcription": "𐝫𐙁𐘲𐘻𐄁𐝫𐘅𐝫\n𐝫",
     "translatedWords": [
         "MA-SU-MI",
         "𐄁",
-        "𐝫",
-        "𐄁",
-        "NA",
+        "[?]-NA",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
         "MA-SU-MI",
         "𐄁",
-        "𐝫",
-        "𐄁",
-        "NA",
+        "[?]-NA",
         "\n",
         "𐝫"
     ],
     "words": [
         "𐝫𐙁𐘲𐘻",
-        "𐄁",
-        "𐝫",
         "𐄁",
         "𐝫𐘅𐝫",
         "\n",
@@ -55937,17 +55838,17 @@ var inscriptions = new Map([
     "names": [
         "KN28a"
     ],
-    "parsedInscription": "𐝫\n𐝫\n𐝫𐘓𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐘐𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫\n𐝫𐘓𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
+    "transcription": "𐝫\n𐝫\n𐝫𐘐𐄇𐝫\n𐝫𐙠𐄏𐝫\n𐝫𐙉𐝫𐄋𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
         "𐝫",
         "\n",
-        "she-goat",
+        "ewe",
         "1",
         "\n",
         "*310",
@@ -55963,7 +55864,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫",
         "\n",
-        "*22F",
+        "*21F",
         "1",
         "\n",
         "*310",
@@ -55979,7 +55880,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫",
         "\n",
-        "𐝫𐘓",
+        "𐝫𐘐",
         "𐄇𐝫",
         "\n",
         "𐝫𐙠",
@@ -56355,19 +56256,19 @@ var inscriptions = new Map([
     "names": [
         "KNWb51"
     ],
-    "parsedInscription": "𐄁",
+    "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "Sealing",
-    "transcription": "𐄁",
+    "transcription": "𐝫",
     "translatedWords": [
-        "𐄁"
+        "[?]"
     ],
     "transliteratedWords": [
-        "𐄁"
+        "[?]"
     ],
     "words": [
-        "𐄁"
+        "𐝫"
     ]
 }],
 ["KNWc3",{
@@ -56478,19 +56379,19 @@ var inscriptions = new Map([
     "names": [
         "KNWc29"
     ],
-    "parsedInscription": "𐘑",
+    "parsedInscription": "𐘔",
     "scribe": "",
     "site": "Knossos",
     "support": "Roundel",
-    "transcription": "𐘑",
+    "transcription": "𐘔",
     "translatedWords": [
-        "ram"
+        "he-goat"
     ],
     "transliteratedWords": [
-        "*21M"
+        "*22M"
     ],
     "words": [
-        "𐘑"
+        "𐘔"
     ]
 }],
 ["KNWc30",{
@@ -56568,22 +56469,22 @@ var inscriptions = new Map([
         "KNWc43",
         "KNWy43"
     ],
-    "parsedInscription": "𐝫𐝫𐄁𐝫",
+    "parsedInscription": "𐝫𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "Roundel",
-    "transcription": "𐝫𐄁𐝫",
+    "transcription": "𐝫𐝫",
     "translatedWords": [
         "𐝫",
-        "𐄁"
+        "[?]"
     ],
     "transliteratedWords": [
         "𐝫",
-        "𐄁"
+        "[?]"
     ],
     "words": [
         "𐝫",
-        "𐄁"
+        "𐝫"
     ]
 }],
 ["KNWc48",{
@@ -56629,47 +56530,38 @@ var inscriptions = new Map([
     "names": [
         "KNZa10"
     ],
-    "parsedInscription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
+    "parsedInscription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁𐘅𐄁\n𐘀𐘮𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "Stone vessel",
-    "transcription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐄁𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
+    "transcription": "𐝫𐘳𐘯𐘕𐘠𐄁𐘱𐘞𐘞𐘴𐙁\n𐘅𐄁𐘀𐘮𐝫𐘬𐘮𐘄𐄁𐘚𐘱𐝫",
     "translatedWords": [
         "TA-NU-MU-TI",
         "𐄁",
         "this dedication",
+        "𐄁",
         "\n",
-        "NA",
-        "𐄁",
-        "DA-WA",
-        "𐄁",
-        "DU-WA-TO",
+        "DA-WA-[?]-DU-WA-TO",
         "𐄁",
         "I-JA"
     ],
     "transliteratedWords": [
         "TA-NU-MU-TI",
         "𐄁",
-        "JA-SA-SA-RA-MA",
+        "JA-SA-SA-RA-MA-NA",
+        "𐄁",
         "\n",
-        "NA",
-        "𐄁",
-        "DA-WA",
-        "𐄁",
-        "DU-WA-TO",
+        "DA-WA-[?]-DU-WA-TO",
         "𐄁",
         "I-JA"
     ],
     "words": [
         "𐝫𐘳𐘯𐘕𐘠",
         "𐄁",
-        "𐘱𐘞𐘞𐘴𐙁",
+        "𐘱𐘞𐘞𐘴𐙁𐘅",
+        "𐄁",
         "\n",
-        "𐘅",
-        "𐄁",
-        "𐘀𐘮𐝫",
-        "𐄁",
-        "𐝫𐘬𐘮𐘄",
+        "𐘀𐘮𐝫𐘬𐘮𐘄",
         "𐄁",
         "𐘚𐘱𐝫"
     ]
@@ -56722,43 +56614,34 @@ var inscriptions = new Map([
     "names": [
         "KNZa18"
     ],
-    "parsedInscription": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
+    "parsedInscription": "𐝫𐝫𐘱𐄁𐝫𐝫𐝫𐘱𐄁𐘱𐘮𐝫𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "Stone vessel",
-    "transcription": "𐝫𐄁𐝫𐘱𐄁𐝫𐄁𐝫𐘱𐄁𐘱𐘮𐝫𐄁𐝫",
+    "transcription": "𐝫𐝫𐘱𐄁𐝫𐝫𐝫𐘱𐄁𐘱𐘮𐝫𐝫",
     "translatedWords": [
+        "[?]-[?]-JA",
         "𐄁",
-        "JA",
-        "𐄁",
-        "𐝫",
-        "𐄁",
-        "JA",
+        "[?]-[?]-[?]-JA",
         "𐄁",
         "JA-WA",
-        "𐄁"
+        "[?]"
     ],
     "transliteratedWords": [
+        "[?]-[?]-JA",
         "𐄁",
-        "JA",
-        "𐄁",
-        "𐝫",
-        "𐄁",
-        "JA",
+        "[?]-[?]-[?]-JA",
         "𐄁",
         "JA-WA",
-        "𐄁"
+        "[?]"
     ],
     "words": [
+        "𐝫𐝫𐘱",
         "𐄁",
-        "𐝫𐘱",
-        "𐄁",
-        "𐝫",
-        "𐄁",
-        "𐝫𐘱",
+        "𐝫𐝫𐝫𐘱",
         "𐄁",
         "𐘱𐘮𐝫",
-        "𐄁"
+        "𐝫"
     ]
 }],
 ["KNZa19",{
@@ -56776,14 +56659,14 @@ var inscriptions = new Map([
     "names": [
         "KNZa19"
     ],
-    "parsedInscription": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
+    "parsedInscription": "𐝫𐘥𐘶𐘻𐝫𐝫\n—\n𐝫𐙈𐘻𐘅",
     "scribe": "",
     "site": "Knossos",
     "support": "Stone vessel",
-    "transcription": "𐝫𐘥𐘶𐘻𐝫𐄁𐝫\n—\n𐝫𐙈𐘻𐘅",
+    "transcription": "𐝫𐘥𐘶𐘻𐝫𐝫\n—\n𐝫𐙈𐘻𐘅",
     "translatedWords": [
         "KE-JU-MI",
-        "𐄁",
+        "[?]",
         "\n",
         "—",
         "\n",
@@ -56791,7 +56674,7 @@ var inscriptions = new Map([
     ],
     "transliteratedWords": [
         "KE-JU-MI",
-        "𐄁",
+        "[?]",
         "\n",
         "—",
         "\n",
@@ -56799,7 +56682,7 @@ var inscriptions = new Map([
     ],
     "words": [
         "𐝫𐘥𐘶𐘻𐝫",
-        "𐄁",
+        "𐝫",
         "\n",
         "—",
         "\n",
@@ -56813,7 +56696,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=117",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=118",
     "images": [
         "images/KNZb4-Inscription.jpg"
     ],
@@ -56855,7 +56738,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=118",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=119",
     "images": [
         "images/KNZb5-Inscription.jpg"
     ],
@@ -56888,7 +56771,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=119",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=120",
     "images": [
         "images/KNZb20-Inscription.jpg"
     ],
@@ -56918,7 +56801,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=120",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=121",
     "images": [
         "images/KNZb<27>-Inscription.jpg"
     ],
@@ -56957,7 +56840,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=121",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=122",
     "images": [
         "images/KNZb34-Inscription.jpg"
     ],
@@ -56987,7 +56870,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=122",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=123",
     "images": [
         "images/KNZb35-Inscription.jpg"
     ],
@@ -57001,7 +56884,9 @@ var inscriptions = new Map([
     "support": "Clay vessel",
     "transcription": "𐝫𐘱𐝫𐘆𐝫𐘣𐝫𐙖𐄙𐘝𐄈",
     "translatedWords": [
-        "JA-DI-WI",
+        "JA",
+        "DI",
+        "WI",
         "olive oil",
         "100",
         "\n",
@@ -57009,7 +56894,9 @@ var inscriptions = new Map([
         "2"
     ],
     "transliteratedWords": [
-        "JA-DI-WI",
+        "JA",
+        "DI",
+        "WI",
         "OLE",
         "100",
         "\n",
@@ -57017,7 +56904,9 @@ var inscriptions = new Map([
         "2"
     ],
     "words": [
-        "𐝫𐘱𐝫𐘆𐝫𐘣𐝫",
+        "𐝫𐘱𐝫",
+        "𐘆𐝫",
+        "𐘣𐝫",
         "𐝫𐙖",
         "𐄙",
         "\n",
@@ -57032,7 +56921,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=124",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=125",
     "images": [],
     "name": "KNZb<36>",
     "names": [
@@ -57060,7 +56949,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=124",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=125",
     "images": [],
     "name": "KNZb<37>",
     "names": [
@@ -57088,7 +56977,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=124",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=125",
     "images": [],
     "name": "KNZb<38>",
     "names": [
@@ -57116,7 +57005,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=124",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=125",
     "images": [],
     "name": "KNZb<39>",
     "names": [
@@ -57144,7 +57033,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=125",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=126",
     "images": [
         "images/KNZb40-Inscription.jpg"
     ],
@@ -57246,7 +57135,7 @@ var inscriptions = new Map([
     "names": [
         "KHZc106"
     ],
-    "parsedInscription": "",
+    "parsedInscription": "𐘞𐘞𐘴𐘋",
     "scribe": "",
     "site": "Knossos",
     "support": "Inked inscription",
@@ -57276,35 +57165,38 @@ var inscriptions = new Map([
     "names": [
         "KNZc6"
     ],
-    "parsedInscription": "𐘟𐘠𐘭𐘇𐘆𐘀𐘸𐘠𐘂𐙂𐄁\n𐘝𐘱𐘯𐄁\n𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀𐄁",
+    "parsedInscription": "𐘟𐘠𐘭\n𐘇𐘆𐘀𐘸𐘠𐘂𐙂𐄁𐘝𐘱𐘯𐄁\n𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀𐄁",
     "scribe": "",
     "site": "Knossos",
     "support": "Inked inscription",
     "transcription": "𐘟𐘠𐘭\n𐘇𐘆𐘀𐘸𐘠𐘂𐙂𐄁𐘝𐘱𐘯𐄁\n𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐝫𐘚𐙀𐄁",
     "translatedWords": [
-        "*34-TI-RI-A-DI-DA-KI-TI-PA-KU",
-        "𐄁",
+        "*34-TI-RI",
         "\n",
+        "A-DI-DA-KI-TI-PA-KU",
+        "𐄁",
         "NI-JA-NU",
         "𐄁",
         "\n",
-        "JU-KU-NA-PA-KU-NU-U-I-ZU",
+        "JU-KU-NA-PA-KU-NU-U-[?]-I-ZU",
         "𐄁"
     ],
     "transliteratedWords": [
-        "*34-TI-RI-A-DI-DA-KI-TI-PA-KU",
-        "𐄁",
+        "*34-TI-RI",
         "\n",
+        "A-DI-DA-KI-TI-PA-KU",
+        "𐄁",
         "NI-JA-NU",
         "𐄁",
         "\n",
-        "JU-KU-NA-PA-KU-NU-U-I-ZU",
+        "JU-KU-NA-PA-KU-NU-U-[?]-I-ZU",
         "𐄁"
     ],
     "words": [
-        "𐘟𐘠𐘭𐘇𐘆𐘀𐘸𐘠𐘂𐙂",
-        "𐄁",
+        "𐘟𐘠𐘭",
         "\n",
+        "𐘇𐘆𐘀𐘸𐘠𐘂𐙂",
+        "𐄁",
         "𐘝𐘱𐘯",
         "𐄁",
         "\n",
@@ -57329,11 +57221,11 @@ var inscriptions = new Map([
     "names": [
         "KNZc7"
     ],
-    "parsedInscription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫𐄁𐝫",
+    "parsedInscription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "Inked inscription",
-    "transcription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫𐄁𐝫",
+    "transcription": "𐘇𐘾𐘯𐘍𐘠𐄁𐘬𐘴𐘙𐄁𐘇𐙀𐘴𐄁\n𐘱𐘞𐘴𐘇𐘅𐘗𐄁𐘣𐘢𐝫",
     "translatedWords": [
         "A-KA-NU-ZA-TI",
         "𐄁",
@@ -57344,8 +57236,7 @@ var inscriptions = new Map([
         "\n",
         "JA-SA-RA-A-NA-NE",
         "𐄁",
-        "WI-PI",
-        "𐄁"
+        "WI-PI-[?]"
     ],
     "transliteratedWords": [
         "A-KA-NU-ZA-TI",
@@ -57357,8 +57248,7 @@ var inscriptions = new Map([
         "\n",
         "JA-SA-RA-A-NA-NE",
         "𐄁",
-        "WI-PI",
-        "𐄁"
+        "WI-PI-[?]"
     ],
     "words": [
         "𐘇𐘾𐘯𐘍𐘠",
@@ -57370,8 +57260,7 @@ var inscriptions = new Map([
         "\n",
         "𐘱𐘞𐘴𐘇𐘅𐘗",
         "𐄁",
-        "𐘣𐘢𐝫",
-        "𐄁"
+        "𐘣𐘢𐝫"
     ]
 }],
 ["KNZd46",{
@@ -57411,7 +57300,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=180",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=181",
     "images": [
         "images/KNZe16-Inscription.jpg"
     ],
@@ -57455,10 +57344,10 @@ var inscriptions = new Map([
     "support": "Architecture",
     "transcription": "𐘚𐝫𐘮𐘱",
     "translatedWords": [
-        "I-WA-JA"
+        "I-[?]-WA-JA"
     ],
     "transliteratedWords": [
-        "I-WA-JA"
+        "I-[?]-WA-JA"
     ],
     "words": [
         "𐘚𐝫𐘮𐘱"
@@ -57557,7 +57446,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=194",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=195",
     "images": [
         "images/KNZf13-Inscription.jpg"
     ],
@@ -57587,7 +57476,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=196",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=197",
     "images": [
         "images/KNZf31-Inscription.jpg"
     ],
@@ -57601,7 +57490,8 @@ var inscriptions = new Map([
     "support": "Metal object",
     "transcription": "𐝫𐘤𐝫𐘤𐘍𐘗𐙠𐄁𐘀𐘬𐘻𐘗𐄁𐘌𐘻𐘨𐘅𐘴𐄁𐘇𐘮𐘢𐄁𐘃𐘲𐘦𐘈𐘥𐘚𐄁𐘇𐘀𐘴𐄁𐘠𐘆𐘃𐘌𐘠𐄁𐘳𐘞𐘍𐄁𐘳𐘃𐘚𐘥𐘍𐘙𐄁𐝫",
     "translatedWords": [
-        "SI-SI-ZA-NE-*310",
+        "SI",
+        "SI-ZA-NE-*310",
         "𐄁",
         "DA-DU-MI-NE",
         "𐄁",
@@ -57621,7 +57511,8 @@ var inscriptions = new Map([
         "𐄁"
     ],
     "transliteratedWords": [
-        "SI-SI-ZA-NE-*310",
+        "SI",
+        "SI-ZA-NE-*310",
         "𐄁",
         "DA-DU-MI-NE",
         "𐄁",
@@ -57641,7 +57532,8 @@ var inscriptions = new Map([
         "𐄁"
     ],
     "words": [
-        "𐝫𐘤𐝫𐘤𐘍𐘗𐙠",
+        "𐝫𐘤𐝫",
+        "𐘤𐘍𐘗𐙠",
         "𐄁",
         "𐘀𐘬𐘻𐘗",
         "𐄁",
@@ -57668,7 +57560,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=206",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=207",
     "images": [
         "images/KNZg<21>-Inscription.jpg"
     ],
@@ -57726,7 +57618,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=60",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=61",
     "images": [
         "images/KOZa1-Inscription.jpg"
     ],
@@ -57858,7 +57750,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=208",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=209",
     "images": [
         "images/KYZg1-Inscription.jpg"
     ],
@@ -57866,7 +57758,7 @@ var inscriptions = new Map([
     "names": [
         "KYZg1"
     ],
-    "parsedInscription": "𐛴𐛴",
+    "parsedInscription": "𐛴",
     "scribe": "",
     "site": "Kythera",
     "support": "Stone object",
@@ -57926,28 +57818,37 @@ var inscriptions = new Map([
     "names": [
         "MA1a"
     ],
-    "parsedInscription": "𐄂𐘚𐘬𐘣𐘨\n𐘿𐘦𐘻𐘯𐄁",
+    "parsedInscription": "𐄂𐘚𐘬𐘣𐄁𐘨𐄁\n𐘿𐘦𐘻𐘯𐄁",
     "scribe": "",
     "site": "Malia",
     "support": "3-sided bar",
     "transcription": "𐄂𐘚𐘬𐘣𐄁𐘨𐄁𐘿𐘦𐘻𐘯𐄁",
     "translatedWords": [
-        "*903-I-DU-WI",
+        "*903",
+        "I-DU-WI",
+        "𐄁",
         "*47",
+        "𐄁",
         "\n",
         "QE-DE-MI-NU",
         "𐄁"
     ],
     "transliteratedWords": [
-        "*903-I-DU-WI",
+        "*903",
+        "I-DU-WI",
+        "𐄁",
         "*47",
+        "𐄁",
         "\n",
         "QE-DE-MI-NU",
         "𐄁"
     ],
     "words": [
-        "𐄂𐘚𐘬𐘣",
+        "𐄂",
+        "𐘚𐘬𐘣",
+        "𐄁",
         "𐘨",
+        "𐄁",
         "\n",
         "𐘿𐘦𐘻𐘯",
         "𐄁"
@@ -57968,7 +57869,7 @@ var inscriptions = new Map([
     "names": [
         "MA1b"
     ],
-    "parsedInscription": "𐘇𐙁𐄁𐘨\n𐘿𐘦𐘻𐘯",
+    "parsedInscription": "𐘇𐙁𐄁𐘨𐄁\n𐘿𐘦𐘻𐘯",
     "scribe": "",
     "site": "Malia",
     "support": "3-sided bar",
@@ -57977,6 +57878,7 @@ var inscriptions = new Map([
         "A-MA",
         "𐄁",
         "*47",
+        "𐄁",
         "\n",
         "QE-DE-MI-NU"
     ],
@@ -57984,6 +57886,7 @@ var inscriptions = new Map([
         "A-MA",
         "𐄁",
         "*47",
+        "𐄁",
         "\n",
         "QE-DE-MI-NU"
     ],
@@ -57991,6 +57894,7 @@ var inscriptions = new Map([
         "𐘇𐙁",
         "𐄁",
         "𐘨",
+        "𐄁",
         "\n",
         "𐘿𐘦𐘻𐘯"
     ]
@@ -58172,46 +58076,49 @@ var inscriptions = new Map([
     "names": [
         "MA4a"
     ],
-    "parsedInscription": "𐘳𐜅𐄐𐄋\n𐜆𐄙𐄑\n𐜄𐄔𐄉\n𐜃𐄒",
+    "parsedInscription": "𐘳𐜅𐄐𐄋\n𐜆𐄙𐄑\n𐜄𐄕𐄉\n𐜃𐄒",
     "scribe": "",
     "site": "Malia",
     "support": "Tablet",
-    "transcription": "𐘳𐜅𐄐𐄋𐜆𐄙𐄑𐜄𐄔𐄉𐜃𐄒",
+    "transcription": "𐘳𐜅𐄐𐄋𐜆𐄙𐄑𐜄𐄕𐄉𐜃𐄒",
     "translatedWords": [
-        "TA-HIDE+B",
+        "TA",
+        "HIDE+B",
         "15",
         "\n",
         "HIDE+L",
         "120",
         "\n",
         "HIDE+SA+L",
-        "53",
+        "63",
         "\n",
         "HIDE+SA+B",
         "30"
     ],
     "transliteratedWords": [
-        "TA-HIDE+B",
+        "TA",
+        "HIDE+B",
         "15",
         "\n",
         "HIDE+L",
         "120",
         "\n",
         "HIDE+SA+L",
-        "53",
+        "63",
         "\n",
         "HIDE+SA+B",
         "30"
     ],
     "words": [
-        "𐘳𐜅",
+        "𐘳",
+        "𐜅",
         "𐄐𐄋",
         "\n",
         "𐜆",
         "𐄙𐄑",
         "\n",
         "𐜄",
-        "𐄔𐄉",
+        "𐄕𐄉",
         "\n",
         "𐜃",
         "𐄒"
@@ -58232,29 +58139,29 @@ var inscriptions = new Map([
     "names": [
         "MA4b"
     ],
-    "parsedInscription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉\n𐄙𐄕",
+    "parsedInscription": "𐘇𐝫𐝫𐝫𐘱𐙒𐄙𐄒𐄍\n𐄙𐄕",
     "scribe": "",
     "site": "Malia",
     "support": "Tablet",
-    "transcription": "𐘇𐝫𐝫𐘱𐙒𐄙𐄑𐄉𐄙𐄕",
+    "transcription": "𐘇𐝫𐝫𐝫𐘱𐙒𐄙𐄒𐄍𐄙𐄕",
     "translatedWords": [
-        "A-JA",
-        "hide?",
-        "123",
+        "[[A-[?]-[?]-[?]-JA]]",
+        "[[hide?]]",
+        "[[137]]",
         "\n",
-        "160"
+        "[[160]]"
     ],
     "transliteratedWords": [
-        "A-JA",
-        "HIDE+[?]",
-        "123",
+        "[[A-[?]-[?]-[?]-JA]]",
+        "[[HIDE+[?]]]",
+        "[[137]]",
         "\n",
-        "160"
+        "[[160]]"
     ],
     "words": [
-        "𐘇𐝫𐝫𐘱",
+        "𐘇𐝫𐝫𐝫𐘱",
         "𐙒",
-        "𐄙𐄑𐄉",
+        "𐄙𐄒𐄍",
         "\n",
         "𐄙𐄕"
     ]
@@ -58274,31 +58181,31 @@ var inscriptions = new Map([
     "names": [
         "MA6a"
     ],
-    "parsedInscription": "𐝫𐙒𐝫𐄡𐄓𐄇\n𐜅𐄒𐄋",
+    "parsedInscription": "𐝫𐙒𐝫𐄡𐄓𐄇\n𐜅𐄓𐄋",
     "scribe": "",
     "site": "Malia",
     "support": "Tablet",
-    "transcription": "𐝫𐙒𐝫𐄡𐄓𐄇𐜅𐄒𐄋",
+    "transcription": "𐝫𐙒𐝫𐄡𐄓𐄇𐜅𐄓𐄋",
     "translatedWords": [
         "hide?",
         "941",
         "\n",
         "HIDE+B",
-        "35"
+        "45"
     ],
     "transliteratedWords": [
         "HIDE+[?]",
         "941",
         "\n",
         "HIDE+B",
-        "35"
+        "45"
     ],
     "words": [
         "𐝫𐙒𐝫",
         "𐄡𐄓𐄇",
         "\n",
         "𐜅",
-        "𐄒𐄋"
+        "𐄓𐄋"
     ]
 }],
 ["MA6b",{
@@ -58341,7 +58248,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=310",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=312",
     "images": [
         "images/MA6c-Inscription.jpg"
     ],
@@ -58392,7 +58299,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=310",
+    "imageRightsURL": "papers/GORILA-Vol1.pdf#page=312",
     "images": [
         "images/MA6d-Inscription.jpg"
     ],
@@ -58536,7 +58443,7 @@ var inscriptions = new Map([
         "\n",
         "4",
         "\n",
-        "*402+A",
+        "*404+A",
         "2",
         "\n",
         "TI+*412VAS",
@@ -58553,7 +58460,7 @@ var inscriptions = new Map([
         "\n",
         "4",
         "\n",
-        "*402+A",
+        "*404+A",
         "2",
         "\n",
         "TI+*412VAS",
@@ -58767,7 +58674,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Bastion E",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=131",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=132",
     "images": [
         "images/MAZb8-Inscription.jpg"
     ],
@@ -58797,7 +58704,7 @@ var inscriptions = new Map([
     ],
     "findspot": "Malia South NW Corridor",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=182",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=183",
     "images": [
         "images/MAZe11-Inscription.jpg"
     ],
@@ -58865,41 +58772,41 @@ var inscriptions = new Map([
     "names": [
         "MI2"
     ],
-    "parsedInscription": "𐘫𐝫\n—\n𐝫𐘬𐘾𐝫\n𐝫𐄁𐝫𐜪𐝫\n—\n𐝫𐘾𐝫\n𐝫",
+    "parsedInscription": "𐘫𐝫\n—\n𐝫𐘬𐘾𐝫\n𐝫𐝫𐜪𐝫\n—\n𐝫𐘾𐝫\n𐝫",
     "scribe": "",
     "site": "Milos",
     "support": "Tablet",
-    "transcription": "𐘫𐝫\n—\n𐝫𐘬𐘾𐝫\n𐝫𐄁𐝫𐜪𐝫\n—\n𐝫𐘾𐝫\n𐝫",
+    "transcription": "𐘫𐝫\n—\n𐝫𐘬𐘾𐝫\n𐝫𐝫𐜪𐝫\n—\n𐝫𐘾𐝫\n𐝫",
     "translatedWords": [
-        "PU",
+        "PU-[?]",
         "\n",
         "—",
         "\n",
         "DU-KA",
         "\n",
-        "𐄁",
+        "[?]-[?]",
+        "*401+RA",
         "\n",
-        "\n",
-        "\n",
-        "*401+RO",
         "—",
+        "\n",
         "KA",
+        "\n",
         "𐝫"
     ],
     "transliteratedWords": [
-        "PU",
+        "PU-[?]",
         "\n",
         "—",
         "\n",
         "DU-KA",
         "\n",
-        "𐄁",
+        "[?]-[?]",
+        "*401+RA",
         "\n",
-        "\n",
-        "\n",
-        "*401+RO",
         "—",
+        "\n",
         "KA",
+        "\n",
         "𐝫"
     ],
     "words": [
@@ -58909,13 +58816,13 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐘬𐘾𐝫",
         "\n",
-        "𐄁",
-        "\n",
-        "\n",
-        "\n",
+        "𐝫𐝫",
         "𐜪𐝫",
+        "\n",
         "—",
+        "\n",
         "𐘾",
+        "\n",
         "𐝫"
     ]
 }],
@@ -58926,7 +58833,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=133",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=134",
     "images": [
         "images/MIZb1-Inscription.jpg"
     ],
@@ -59126,10 +59033,10 @@ var inscriptions = new Map([
     "support": "Metal object",
     "transcription": "𐁁",
     "translatedWords": [
-        "𐁁"
+        "AI"
     ],
     "transliteratedWords": [
-        "𐁁"
+        "AI"
     ],
     "words": [
         "𐁁"
@@ -59248,7 +59155,8 @@ var inscriptions = new Map([
     "support": "Tablet",
     "transcription": "𐘉𐘾𐘙𐘇𐘈𐘤\n𐘅𐙂𐘂𐘭𐙇𐄔𐝫\n𐛭𐄑𐄌𐝆𐘡𐘾𐝫\n𐙇𐄖𐄈𐛭𐄒\n𐄌",
     "translatedWords": [
-        "U-KA-RE-A-SE-SI-NA",
+        "U-KA-RE",
+        "A-SE-SI-NA",
         "\n",
         "KU-PA-RI",
         "VIR+[?]",
@@ -59266,7 +59174,8 @@ var inscriptions = new Map([
         "36"
     ],
     "transliteratedWords": [
-        "U-KA-RE-A-SE-SI-NA",
+        "U-KA-RE",
+        "A-SE-SI-NA",
         "\n",
         "KU-PA-RI",
         "VIR+[?]",
@@ -59284,7 +59193,8 @@ var inscriptions = new Map([
         "36"
     ],
     "words": [
-        "𐘉𐘾𐘙𐘇𐘈𐘤𐘅",
+        "𐘉𐘾𐘙",
+        "𐘇𐘈𐘤𐘅",
         "\n",
         "𐙂𐘂𐘭",
         "𐙇",
@@ -59328,7 +59238,7 @@ var inscriptions = new Map([
         "3",
         "¹⁄₃",
         "\n",
-        "RU-PI-*305-MI",
+        "RU-PI-[ ]-*305-MI",
         "1",
         "¹⁄₈",
         "\n",
@@ -59355,7 +59265,7 @@ var inscriptions = new Map([
         "3",
         "¹⁄₃",
         "\n",
-        "RU-PI-*305-MI",
+        "RU-PI-[ ]-*305-MI",
         "1",
         "¹⁄₈",
         "\n",
@@ -59687,15 +59597,13 @@ var inscriptions = new Map([
         "PE6",
         "PE<6>"
     ],
-    "parsedInscription": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
+    "parsedInscription": "𐘚𐘅𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
     "scribe": "",
     "site": "Petras",
     "support": "Stone object",
-    "transcription": "𐘚𐘅𐝫𐄁𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
+    "transcription": "𐘚𐘅𐝫𐘃\n—\n𐘳𐘅𐙁𐘧\n—",
     "translatedWords": [
-        "I-NA",
-        "𐄁",
-        "TE",
+        "I-NA-[?]-TE",
         "\n",
         "—",
         "\n",
@@ -59704,9 +59612,7 @@ var inscriptions = new Map([
         "—"
     ],
     "transliteratedWords": [
-        "I-NA",
-        "𐄁",
-        "TE",
+        "I-NA-[?]-TE",
         "\n",
         "—",
         "\n",
@@ -59715,9 +59621,7 @@ var inscriptions = new Map([
         "—"
     ],
     "words": [
-        "𐘚𐘅𐝫",
-        "𐄁",
-        "𐝫𐘃",
+        "𐘚𐘅𐝫𐘃",
         "\n",
         "—",
         "\n",
@@ -59761,15 +59665,15 @@ var inscriptions = new Map([
     "names": [
         "PH1a"
     ],
-    "parsedInscription": "𐝫𐘆𐘴𐘆𐘅𐙨𐄁𐝉\n𐝫𐘱𐄁𐙨𐄇\n𐙗𐝅\n𐝫",
+    "parsedInscription": "𐝫𐘆𐘴𐘆𐘅𐙨𐝫𐝉\n𐝫𐘱𐄁𐙨𐄇\n𐙗𐝅\n𐝫",
     "scribe": "",
     "site": "Phaistos",
     "support": "Tablet",
-    "transcription": "𐝫𐘆𐘴𐘆𐘅𐙨𐝫𐄁𐝫𐝉\n𐝫𐘱𐄁𐙨𐄇𐙗𐝅\n𐝫",
+    "transcription": "𐝫𐘆𐘴𐘆𐘅𐙨𐝫𐝉\n𐝫𐘱𐄁𐙨𐄇𐙗𐝅\n𐝫",
     "translatedWords": [
         "DI-RA-DI-NA",
         "*316",
-        "𐄁",
+        "[?]",
         "𐝉",
         "\n",
         "JA",
@@ -59785,7 +59689,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "DI-RA-DI-NA",
         "*316",
-        "𐄁",
+        "[?]",
         "𐝉",
         "\n",
         "JA",
@@ -59801,7 +59705,7 @@ var inscriptions = new Map([
     "words": [
         "𐝫𐘆𐘴𐘆𐘅",
         "𐙨",
-        "𐄁",
+        "𐝫",
         "𐝉",
         "\n",
         "𐝫𐘱",
@@ -59830,14 +59734,13 @@ var inscriptions = new Map([
     "names": [
         "PH1b"
     ],
-    "parsedInscription": "𐝫𐄁𐝫𐘅𐄇\n𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
+    "parsedInscription": "𐝫𐘅𐄇\n𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
     "scribe": "",
     "site": "Phaistos",
     "support": "Tablet",
-    "transcription": "𐝫𐄁𐝫𐘅𐄇𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
+    "transcription": "𐝫𐘅𐄇𐘂𐝫\n𐝫𐘝𐄈𐝄𐝇",
     "translatedWords": [
-        "𐄁",
-        "NA",
+        "[?]-NA",
         "1",
         "\n",
         "PA",
@@ -59847,8 +59750,7 @@ var inscriptions = new Map([
         "𐝄𐝇"
     ],
     "transliteratedWords": [
-        "𐄁",
-        "NA",
+        "[?]-NA",
         "1",
         "\n",
         "PA",
@@ -59858,7 +59760,6 @@ var inscriptions = new Map([
         "𐝄𐝇"
     ],
     "words": [
-        "𐄁",
         "𐝫𐘅",
         "𐄇",
         "\n",
@@ -59967,7 +59868,7 @@ var inscriptions = new Map([
         "*563",
         "𐝓",
         "\n",
-        "*560",
+        "*558",
         "𐝓",
         "\n",
         "PA-RA",
@@ -59991,7 +59892,7 @@ var inscriptions = new Map([
         "*563",
         "𐝓",
         "\n",
-        "*560",
+        "*558",
         "𐝓",
         "\n",
         "PA-RA",
@@ -60294,7 +60195,7 @@ var inscriptions = new Map([
     "translatedWords": [
         "𐝫",
         "\n",
-        "*416+L2",
+        "*417+L2",
         "7",
         "\n",
         "—",
@@ -60319,7 +60220,7 @@ var inscriptions = new Map([
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "*416+L2",
+        "*417+L2",
         "7",
         "\n",
         "—",
@@ -61440,43 +61341,43 @@ var inscriptions = new Map([
     "translatedWords": [
         "𐝫",
         "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
         "102",
+        "\n",
         "2",
+        "\n",
         "olive oil",
         "6",
+        "\n",
         "6",
+        "\n",
         "*811"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
         "102",
+        "\n",
         "2",
+        "\n",
         "*304",
         "6",
+        "\n",
         "6",
+        "\n",
         "*811"
     ],
     "words": [
         "𐝫",
         "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
         "𐄙𐄈𐝫",
+        "\n",
         "𐝫𐄈",
+        "\n",
         "𐙘",
         "𐄌",
+        "\n",
         "𐝫𐄌",
+        "\n",
         "𐝮"
     ]
 }],
@@ -61616,11 +61517,11 @@ var inscriptions = new Map([
     "names": [
         "PH(?)31a"
     ],
-    "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇\n𐙁𐘆𐘑𐄇\n𐘓𐝫\n𐄁𐝫𐘗𐄇\n𐙂𐘰𐘯𐙄𐘤𐘙𐄇\n𐘂𐘳𐘀𐝫𐝫𐄇\n𐙂𐘁𐚾𐄇\n𐘑𐄋\n𐘐𐄉𐝫",
+    "parsedInscription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇\n𐙁𐘆𐘑𐄇\n𐘐𐝫\n𐝫𐘗𐄇\n𐙂𐘰𐘯𐙄𐘤𐘙𐄇\n𐘂𐘳𐘀𐝫𐝫𐄇\n𐙂𐘁𐚾𐄇\n𐘑𐄋\n𐘐𐄉𐝫",
     "scribe": "",
     "site": "Phaistos",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇𐙁𐘆𐘑𐄇𐘐𐝫\n𐄁𐝫𐘗𐄇𐙂𐘰𐘯𐙄𐘤𐘙𐄇𐘂𐘳𐘀\n𐝫𐄇𐙂𐘁𐚾𐄇𐘑𐄋𐘐𐄉𐝫",
+    "transcription": "𐝫\n𐝫𐘇𐝫\n𐝫𐘘𐚾𐄇𐙁𐘆𐘑𐄇𐘐𐝫\n𐝫𐘗𐄇𐙂𐘰𐘯𐙄𐘤𐘙𐄇𐘂𐘳𐘀\n𐝫𐄇𐙂𐘁𐚾𐄇𐘑𐄋𐘐𐄉𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -61634,9 +61535,8 @@ var inscriptions = new Map([
         "ram",
         "1",
         "\n",
-        "she-goat",
+        "ewe",
         "\n",
-        "𐄁",
         "NE",
         "1",
         "\n",
@@ -61670,9 +61570,8 @@ var inscriptions = new Map([
         "*21M",
         "1",
         "\n",
-        "*22F",
+        "*21F",
         "\n",
-        "𐄁",
         "NE",
         "1",
         "\n",
@@ -61706,9 +61605,8 @@ var inscriptions = new Map([
         "𐘑",
         "𐄇",
         "\n",
-        "𐘓𐝫",
+        "𐘐𐝫",
         "\n",
-        "𐄁",
         "𐝫𐘗",
         "𐄇",
         "\n",
@@ -61765,7 +61663,8 @@ var inscriptions = new Map([
         "\n",
         "TU",
         "\n",
-        "NE-*22M",
+        "NE",
+        "he-goat",
         "1",
         "\n",
         "she-goat",
@@ -61782,7 +61681,7 @@ var inscriptions = new Map([
         "AU-SI-RE",
         "\n",
         "A-MI-DA-O",
-        "he-goat",
+        "ram",
         "1"
     ],
     "transliteratedWords": [
@@ -61800,7 +61699,8 @@ var inscriptions = new Map([
         "\n",
         "TU",
         "\n",
-        "NE-*22M",
+        "NE",
+        "*22M",
         "1",
         "\n",
         "*22F",
@@ -61817,7 +61717,7 @@ var inscriptions = new Map([
         "AU-SI-RE",
         "\n",
         "A-MI-DA-O",
-        "*22M",
+        "*21M",
         "1"
     ],
     "words": [
@@ -61835,7 +61735,8 @@ var inscriptions = new Map([
         "\n",
         "𐘹𐝫",
         "\n",
-        "𐝫𐘗𐘔",
+        "𐝫𐘗",
+        "𐘔",
         "𐄇",
         "\n",
         "𐘓",
@@ -61852,7 +61753,7 @@ var inscriptions = new Map([
         "𐙄𐘤𐘙",
         "\n",
         "𐘇𐘻𐘀𐘵",
-        "𐘔",
+        "𐘑",
         "𐄇𐝫"
     ]
 }],
@@ -62363,7 +62264,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=135",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=136",
     "images": [
         "images/PHZb4-Inscription.jpg"
     ],
@@ -62399,7 +62300,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=136",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=137",
     "images": [
         "images/PHZb5-Inscription.jpg"
     ],
@@ -62459,7 +62360,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=137",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=138",
     "images": [
         "images/PHZb48-Inscription.jpg"
     ],
@@ -62467,22 +62368,19 @@ var inscriptions = new Map([
     "names": [
         "PHZb48"
     ],
-    "parsedInscription": "𐘌𐙙𐝫𐄁𐝫",
+    "parsedInscription": "𐘌𐙙𐝫",
     "scribe": "",
     "site": "Phaistos",
     "support": "Clay vessel",
-    "transcription": "𐘌𐙙𐝫𐄁𐝫",
+    "transcription": "𐘌𐙙𐝫",
     "translatedWords": [
-        "QA-*305",
-        "𐄁"
+        "QA-*305-[?]"
     ],
     "transliteratedWords": [
-        "QA-*305",
-        "𐄁"
+        "QA-*305-[?]"
     ],
     "words": [
-        "𐘌𐙙𐝫",
-        "𐄁"
+        "𐘌𐙙𐝫"
     ]
 }],
 ["PK1",{
@@ -62502,15 +62400,13 @@ var inscriptions = new Map([
     "names": [
         "PK1"
     ],
-    "parsedInscription": "𐘤𐝫𐄁𐝫𐘗𐘠𐄇\n𐘾𐘌𐄈\n—\n𐘇𐘬𐘍𐄇\n𐘷𐘳𐘙𐄇\n—\n𐘷𐘠𐘃𐄇\n𐘵𐘾𐘻𐘍𐘤𐘚𐘅𐄇\n—\n𐘵𐘃𐘱𐄇\n—\n𐘴𐘅𐘹𐘲𐄇\n𐘝𐘻𐄇\n—\n𐘹𐘲𐄇\n𐙁𐘠𐘍𐘚𐘃𐄇\n—\n𐙁𐘃𐘠𐄇\n𐙁𐘾𐘚𐘳𐄇",
+    "parsedInscription": "𐘤𐝫𐘗𐘠𐄇\n𐘾𐘌𐄈\n—\n𐘇𐘬𐘍𐄇\n𐘷𐘳𐘙𐄇\n—\n𐘷𐘠𐘃𐄇\n𐘵𐘾𐘻𐘍𐘤𐘚𐘅𐄇\n—\n𐘵𐘃𐘱𐄇\n—\n𐘴𐘅𐘹𐘲𐄇\n𐘝𐘻𐄇\n—\n𐘹𐘲𐄇\n𐙁𐘠𐘍𐘚𐘃𐄇\n—\n𐙁𐘃𐘠𐄇\n𐙁𐘾𐘚𐘳𐄇",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Tablet",
-    "transcription": "𐘤𐝫𐄁𐝫𐘗𐘠𐄇𐘾𐘌𐄈\n—\n𐘇𐘬𐘍𐄇𐘷𐘳𐘙𐄇\n—\n𐘷𐘠𐘃𐄇𐘵𐘾𐘻𐘍𐘤\n—\n𐘚𐘅𐄇\n—\n𐘵𐘃𐘱𐄇\n—\n𐘴𐘅𐘹𐘲𐄇𐘝𐘻𐄇𐘹\n—\n𐘲𐄇𐙁𐘠𐘍𐘚𐘃𐄇\n—\n𐙁𐘃𐘠𐄇𐙁𐘾𐘚𐘳𐄇",
+    "transcription": "𐘤𐝫𐘗𐘠𐄇𐘾𐘌𐄈\n—\n𐘇𐘬𐘍𐄇𐘷𐘳𐘙𐄇\n—\n𐘷𐘠𐘃𐄇𐘵𐘾𐘻𐘍𐘤\n—\n𐘚𐘅𐄇\n—\n𐘵𐘃𐘱𐄇\n—\n𐘴𐘅𐘹𐘲𐄇𐘝𐘻𐄇𐘹\n—\n𐘲𐄇𐙁𐘠𐘍𐘚𐘃𐄇\n—\n𐙁𐘃𐘠𐄇𐙁𐘾𐘚𐘳𐄇",
     "translatedWords": [
-        "SI",
-        "𐄁",
-        "NE-TI",
+        "SI-[?]-NE-TI",
         "1",
         "\n",
         "KA-QA",
@@ -62562,9 +62458,7 @@ var inscriptions = new Map([
         "1"
     ],
     "transliteratedWords": [
-        "SI",
-        "𐄁",
-        "NE-TI",
+        "SI-[?]-NE-TI",
         "1",
         "\n",
         "KA-QA",
@@ -62616,9 +62510,7 @@ var inscriptions = new Map([
         "1"
     ],
     "words": [
-        "𐘤𐝫",
-        "𐄁",
-        "𐝫𐘗𐘠",
+        "𐘤𐝫𐘗𐘠",
         "𐄇",
         "\n",
         "𐘾𐘌",
@@ -62758,7 +62650,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=65",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=66",
     "images": [
         "images/PKZa4-Inscription.jpg"
     ],
@@ -62813,7 +62705,8 @@ var inscriptions = new Map([
         "𐄁",
         "TU-ME-I",
         "\n",
-        "JA-SA-U-NA-KA-NA-SI",
+        "JA-SA",
+        "requesting",
         "\n",
         "I-PI"
     ],
@@ -62826,7 +62719,8 @@ var inscriptions = new Map([
         "𐄁",
         "TU-ME-I",
         "\n",
-        "JA-SA-U-NA-KA-NA-SI",
+        "JA-SA",
+        "U-NA-KA-NA-SI",
         "\n",
         "I-PI"
     ],
@@ -62839,7 +62733,8 @@ var inscriptions = new Map([
         "𐄁",
         "𐘹𐘋𐘚",
         "\n",
-        "𐘱𐘞𐝫𐘉𐘅𐘾𐘅𐘤𐝫",
+        "𐘱𐘞𐝫",
+        "𐘉𐘅𐘾𐘅𐘤𐝫",
         "\n",
         "𐘚𐘢𐝫"
     ]
@@ -62851,7 +62746,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=70",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=71",
     "images": [
         "images/PKZa9-Inscription.jpg"
     ],
@@ -62859,31 +62754,25 @@ var inscriptions = new Map([
     "names": [
         "PKZa9"
     ],
-    "parsedInscription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
+    "parsedInscription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐘆𐝫",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Stone vessel",
-    "transcription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐄁𐝫𐘆𐝫",
+    "transcription": "𐝫\n𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐘆𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "JA-U-PA-MA-I-DA",
-        "𐄁",
-        "DI"
+        "JA-U-PA-MA-I-DA-[?]-DI"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "JA-U-PA-MA-I-DA",
-        "𐄁",
-        "DI"
+        "JA-U-PA-MA-I-DA-[?]-DI"
     ],
     "words": [
         "𐝫",
         "\n",
-        "𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫",
-        "𐄁",
-        "𐝫𐘆𐝫"
+        "𐝫𐘱𐘉𐘂𐙁𐘚𐘀𐝫𐘆𐝫"
     ]
 }],
 ["PKZa10",{
@@ -62935,7 +62824,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=74",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=75",
     "images": [
         "images/PKZa11-Inscription.jpg"
     ],
@@ -62943,89 +62832,71 @@ var inscriptions = new Map([
     "names": [
         "PKZa11"
     ],
-    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐄁\n𐄁𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
+    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐝫𐘙𐄁\n𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁\n𐘇𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Stone vessel",
-    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫𐄁\n𐄁𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
+    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘡𐄁𐘇𐘆𐘸𐘃𐘃𐝫\n𐝫𐘙𐄁𐘢𐘃𐘭𐄁𐘇𐘺𐘇𐘗𐄁𐘇\n𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘘𐘾𐘅𐘠𐄁\n𐘚𐘢𐘅𐘻𐘅𐝫𐘤𐘘𐝫𐄁𐘚𐘅𐘱𐘂𐘌",
     "translatedWords": [
         "gives",
         "𐄁",
-        "from Dikte",
+        "A-DI-KI-TE-TE-[?]-[?]-RE",
         "𐄁",
         "\n",
-        "𐄁",
-        "RE",
-        "𐄁",
         "PI-TE-RI",
         "𐄁",
         "A-KO-A-NE",
         "𐄁",
-        "A",
         "\n",
-        "SA-SA-RA-ME",
+        "A-SA-SA-RA-ME",
         "𐄁",
         "U-NA-RU-KA-NA-TI",
         "𐄁",
         "\n",
         "I-PI-NA-MI-NA",
-        "SI-RU",
-        "𐄁",
-        "𐝫",
+        "SI-RU-[?]",
         "𐄁",
         "I-NA-JA-PA-QA"
     ],
     "transliteratedWords": [
         "A-TA-I-*301-WA-E",
         "𐄁",
-        "A-DI-KI-TE-TE",
+        "A-DI-KI-TE-TE-[?]-[?]-RE",
         "𐄁",
         "\n",
-        "𐄁",
-        "RE",
-        "𐄁",
         "PI-TE-RI",
         "𐄁",
         "A-KO-A-NE",
         "𐄁",
-        "A",
         "\n",
-        "SA-SA-RA-ME",
+        "A-SA-SA-RA-ME",
         "𐄁",
         "U-NA-RU-KA-NA-TI",
         "𐄁",
         "\n",
         "I-PI-NA-MI-NA",
-        "SI-RU",
-        "𐄁",
-        "𐝫",
+        "SI-RU-[?]",
         "𐄁",
         "I-NA-JA-PA-QA"
     ],
     "words": [
         "𐘇𐘳𐘚𐙕𐘮𐘡",
         "𐄁",
-        "𐘇𐘆𐘸𐘃𐘃𐝫",
+        "𐘇𐘆𐘸𐘃𐘃𐝫𐝫𐘙",
         "𐄁",
         "\n",
-        "𐄁",
-        "𐝫𐘙",
-        "𐄁",
         "𐘢𐘃𐘭",
         "𐄁",
         "𐘇𐘺𐘇𐘗",
         "𐄁",
-        "𐘇",
         "\n",
-        "𐘞𐘞𐘴𐘋",
+        "𐘇𐘞𐘞𐘴𐘋",
         "𐄁",
         "𐘉𐘅𐘘𐘾𐘅𐘠",
         "𐄁",
         "\n",
         "𐘚𐘢𐘅𐘻𐘅𐝫",
         "𐘤𐘘𐝫",
-        "𐄁",
-        "𐝫",
         "𐄁",
         "𐘚𐘅𐘱𐘂𐘌"
     ]
@@ -63037,7 +62908,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=78",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=79",
     "images": [
         "images/PKZa12-Inscription.jpg"
     ],
@@ -63045,24 +62916,24 @@ var inscriptions = new Map([
     "names": [
         "PKZa12"
     ],
-    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐄇𐝫𐘱𐘤𐄁\n𐘇𐘂𐘬𐘂𐝫𐘱𐝫𐘱𐘂𐘌",
+    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐘱𐘤𐄁\n𐘇𐘂𐘬𐘂𐝫𐘱𐝫𐘱𐘂𐘌",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Stone vessel",
-    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘘𐝫𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤\n𐄁𐘇𐘂𐘬𐝫𐝫𐘱𐝫𐝫𐘱𐘂𐘌",
+    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘇𐘆𐘸𐘃𐝫\n𐝫𐘤𐝫𐝫𐘴𐘋𐝫\n𐝫𐘇𐝫𐝫𐘗𐄁𐘉𐘅𐘘𐘾𐝫𐘱𐘤\n𐄁𐘇𐘂𐘬𐘂𐝫𐝫𐘱𐝫𐝫𐘱𐘂𐘌",
     "translatedWords": [
         "gives",
         "𐄁",
         "Dikte",
         "\n",
         "SI",
-        "\n",
-        "𐄁",
-        "𐄁",
-        "\n",
         "RA-ME",
-        "A-NE",
-        "U-NA-RU-KA-JA-SI",
+        "\n",
+        "A-[ ]-NE",
+        "𐄁",
+        "U-NA-RU-KA-[?]-JA-SI",
+        "𐄁",
+        "\n",
         "A-PA-DU-PA",
         "JA",
         "JA-PA-QA"
@@ -63073,13 +62944,13 @@ var inscriptions = new Map([
         "A-DI-KI-TE",
         "\n",
         "SI",
-        "\n",
-        "𐄁",
-        "𐄁",
-        "\n",
         "RA-ME",
-        "A-NE",
-        "U-NA-RU-KA-JA-SI",
+        "\n",
+        "A-[ ]-NE",
+        "𐄁",
+        "U-NA-RU-KA-[?]-JA-SI",
+        "𐄁",
+        "\n",
         "A-PA-DU-PA",
         "JA",
         "JA-PA-QA"
@@ -63090,13 +62961,13 @@ var inscriptions = new Map([
         "𐘇𐘆𐘸𐘃𐝫",
         "\n",
         "𐝫𐘤𐝫",
-        "\n",
-        "𐄁",
-        "𐄁",
-        "\n",
         "𐝫𐘴𐘋𐝫",
+        "\n",
         "𐝫𐘇𐝫𐝫𐘗",
-        "𐘉𐘅𐘘𐘾𐝫𐝫𐘱𐘤",
+        "𐄁",
+        "𐘉𐘅𐘘𐘾𐝫𐘱𐘤",
+        "𐄁",
+        "\n",
         "𐘇𐘂𐘬𐘂𐝫𐝫",
         "𐘱𐝫",
         "𐘱𐘂𐘌"
@@ -63109,7 +62980,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=82",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=83",
     "images": [
         "images/PKZa14-Inscription.jpg"
     ],
@@ -63117,30 +62988,27 @@ var inscriptions = new Map([
     "names": [
         "PKZa14"
     ],
-    "parsedInscription": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
+    "parsedInscription": "𐝫𐘹𐘋𐘚𐄁\n𐘱𐘞𐘞𐝫",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Stone vessel",
     "transcription": "𐝫𐘹𐘋\n𐘚𐄁𐘱𐘞𐘞𐝫",
     "translatedWords": [
-        "TU-ME",
-        "\n",
-        "I",
+        "TU-ME-I",
         "𐄁",
+        "\n",
         "this dedication"
     ],
     "transliteratedWords": [
-        "TU-ME",
-        "\n",
-        "I",
+        "TU-ME-I",
         "𐄁",
+        "\n",
         "JA-SA-SA"
     ],
     "words": [
-        "𐝫𐘹𐘋",
-        "\n",
-        "𐘚",
+        "𐝫𐘹𐘋𐘚",
         "𐄁",
+        "\n",
         "𐘱𐘞𐘞𐝫"
     ]
 }],
@@ -63151,7 +63019,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=83",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=84",
     "images": [
         "images/PKZa15-Inscription.jpg"
     ],
@@ -63181,7 +63049,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=84",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=85",
     "images": [
         "images/PKZa16-Inscription.jpg"
     ],
@@ -63189,7 +63057,7 @@ var inscriptions = new Map([
     "names": [
         "PKZa16"
     ],
-    "parsedInscription": "𐝫𐘄𐘞𐄁𐘜\n𐘙𐘱𐝫",
+    "parsedInscription": "𐝫𐘄𐘞𐄁\n𐘜𐘙𐘱𐝫",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Stone vessel",
@@ -63197,23 +63065,20 @@ var inscriptions = new Map([
     "translatedWords": [
         "TO-SA",
         "𐄁",
-        "PU₂",
         "\n",
-        "RE-JA"
+        "PU₂-RE-JA"
     ],
     "transliteratedWords": [
         "TO-SA",
         "𐄁",
-        "PU₂",
         "\n",
-        "RE-JA"
+        "PU₂-RE-JA"
     ],
     "words": [
         "𐝫𐘄𐘞",
         "𐄁",
-        "𐘜",
         "\n",
-        "𐘙𐘱𐝫"
+        "𐘜𐘙𐘱𐝫"
     ]
 }],
 ["PKZa17",{
@@ -63223,7 +63088,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=85",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=86",
     "images": [
         "images/PKZa17-Inscription.jpg"
     ],
@@ -63231,25 +63096,25 @@ var inscriptions = new Map([
     "names": [
         "PKZa17"
     ],
-    "parsedInscription": "𐝫𐘚𐘀𐄁𐝫𐄁𐝫",
+    "parsedInscription": "𐝫𐘚𐘀𐄁𐝫",
     "scribe": "",
     "site": "Palaikastro",
     "support": "Stone vessel",
-    "transcription": "𐝫𐘚𐘀𐄁𐝫𐄁𐝫",
+    "transcription": "𐝫𐘚𐘀𐄁𐝫",
     "translatedWords": [
         "Mt Ida",
         "𐄁",
-        "𐄁"
+        "[?]"
     ],
     "transliteratedWords": [
         "I-DA",
         "𐄁",
-        "𐄁"
+        "[?]"
     ],
     "words": [
         "𐝫𐘚𐘀",
         "𐄁",
-        "𐄁"
+        "𐝫"
     ]
 }],
 ["PKZa18",{
@@ -63259,7 +63124,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=86",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=87",
     "images": [
         "images/PKZa18-Inscription.jpg"
     ],
@@ -63508,7 +63373,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=169",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=170",
     "images": [
         "images/PKZc13-Inscription.jpg"
     ],
@@ -63572,7 +63437,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=203",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=204",
     "images": [
         "images/PLZf1-Inscription.jpg"
     ],
@@ -63580,11 +63445,11 @@ var inscriptions = new Map([
     "names": [
         "PLZf1"
     ],
-    "parsedInscription": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐄁𐝫𐘚𐝫𐄁𐝫",
+    "parsedInscription": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐘚𐝫",
     "scribe": "",
     "site": "Platanos",
     "support": "Metal object",
-    "transcription": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐄁𐝫𐘚𐝫𐄁𐝫",
+    "transcription": "𐝫𐘳𐄁𐘣𐘃𐘱𐘕𐄁𐘉𐘿𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁𐘳𐘯𐘝𐘸𐘅𐄁𐘝𐘯𐘝𐄁𐝫𐘚𐝫",
     "translatedWords": [
         "TA",
         "𐄁",
@@ -63598,10 +63463,7 @@ var inscriptions = new Map([
         "𐄁",
         "NI-NU-NI",
         "𐄁",
-        "𐝫",
-        "𐄁",
-        "I",
-        "𐄁"
+        "[?]-I-[?]"
     ],
     "transliteratedWords": [
         "TA",
@@ -63616,10 +63478,7 @@ var inscriptions = new Map([
         "𐄁",
         "NI-NU-NI",
         "𐄁",
-        "𐝫",
-        "𐄁",
-        "I",
-        "𐄁"
+        "[?]-I-[?]"
     ],
     "words": [
         "𐝫𐘳",
@@ -63634,10 +63493,7 @@ var inscriptions = new Map([
         "𐄁",
         "𐘝𐘯𐘝",
         "𐄁",
-        "𐝫",
-        "𐄁",
-        "𐝫𐘚𐝫",
-        "𐄁"
+        "𐝫𐘚𐝫"
     ]
 }],
 ["POZc1",{
@@ -63689,31 +63545,31 @@ var inscriptions = new Map([
     "names": [
         "PRZa1"
     ],
-    "parsedInscription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
+    "parsedInscription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐘴𐘋",
     "scribe": "",
     "site": "Prassa",
     "support": "Stone vessel",
-    "transcription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐝢𐘋",
+    "transcription": "𐘳𐘅𐘲𐘃𐝫𐘥\n𐘈𐘄𐘚𐘱\n𐘇𐘞𐘞𐘴𐘋",
     "translatedWords": [
-        "TA-NA-SU-TE-KE",
+        "TA-NA-SU-TE-[ ]-KE",
         "\n",
         "Archanes? Ioukhtas?",
         "\n",
-        "A-SA-SA-*802-ME"
+        "A-SA-SA-RA-ME"
     ],
     "transliteratedWords": [
-        "TA-NA-SU-TE-KE",
+        "TA-NA-SU-TE-[ ]-KE",
         "\n",
         "SE-TO-I-JA",
         "\n",
-        "A-SA-SA-*802-ME"
+        "A-SA-SA-RA-ME"
     ],
     "words": [
         "𐘳𐘅𐘲𐘃𐝫𐘥",
         "\n",
         "𐘈𐘄𐘚𐘱",
         "\n",
-        "𐘇𐘞𐘞𐝢𐘋"
+        "𐘇𐘞𐘞𐘴𐘋"
     ]
 }],
 ["PSZa2",{
@@ -63723,7 +63579,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=94",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=95",
     "images": [
         "images/PSZa2-Inscription.jpg",
         "images/PSZa2a-Inscription.jpg"
@@ -63732,17 +63588,17 @@ var inscriptions = new Map([
     "names": [
         "PSZa2"
     ],
-    "parsedInscription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
+    "parsedInscription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "scribe": "PS Scribe 1",
     "site": "Psykhro",
     "support": "Stone vessel",
-    "transcription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐄌𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐝢𐘋𐄁",
+    "transcription": "𐝫𐘙𐘚𐘥\n𐘳𐘅𐘚𐙕𐘠𐄁𐝫𐘱𐘠𐄁𐘱𐘞𐘞𐘴𐘋𐄁",
     "translatedWords": [
         "RE-I-KE",
         "\n",
         "gives",
         "𐄁",
-        "𐄌-JA-TI",
+        "JA-TI",
         "𐄁",
         "this dedication",
         "𐄁"
@@ -63752,7 +63608,7 @@ var inscriptions = new Map([
         "\n",
         "TA-NA-I-*301-TI",
         "𐄁",
-        "𐄌-JA-TI",
+        "JA-TI",
         "𐄁",
         "JA-SA-SA-RA-ME",
         "𐄁"
@@ -63762,7 +63618,7 @@ var inscriptions = new Map([
         "\n",
         "𐘳𐘅𐘚𐙕𐘠",
         "𐄁",
-        "𐝫𐄌𐝫𐘱𐘠",
+        "𐝫𐘱𐘠",
         "𐄁",
         "𐘱𐘞𐘞𐘴𐘋",
         "𐄁"
@@ -63853,17 +63709,20 @@ var inscriptions = new Map([
     "transcription": "𐘠𐙁𐘘𐘣𐘃\n𐝦𐙍𐄘",
     "translatedWords": [
         "TI-MA-RU-WI-TE",
-        "*806-VIN",
+        "*806",
+        "wine",
         "90"
     ],
     "transliteratedWords": [
         "TI-MA-RU-WI-TE",
-        "*806-VIN",
+        "*806",
+        "VIN",
         "90"
     ],
     "words": [
         "𐘠𐙁𐘘𐘣𐘃",
-        "𐝦𐙍",
+        "𐝦",
+        "𐙍",
         "𐄘"
     ]
 }],
@@ -63874,7 +63733,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol5.pdf#page=113",
+    "imageRightsURL": "papers/GORILA-Vol5.pdf#page=112",
     "images": [
         "images/PYR2-Inscription.jpg"
     ],
@@ -63915,25 +63774,22 @@ var inscriptions = new Map([
     "names": [
         "PYRWc4"
     ],
-    "parsedInscription": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
+    "parsedInscription": "𐘠𐝫𐘚𐘤𐝯",
     "scribe": "",
     "site": "Pyrgos",
     "support": "Roundel",
-    "transcription": "𐘠𐝫𐄁𐝫𐘚𐘤𐝯",
+    "transcription": "𐘠𐝫𐘚𐘤𐝯",
     "translatedWords": [
-        "TI",
-        "𐄁",
-        "I-SI"
+        "TI-[?]-I-SI",
+        "*829"
     ],
     "transliteratedWords": [
-        "TI",
-        "𐄁",
-        "I-SI"
+        "TI-[?]-I-SI",
+        "*829"
     ],
     "words": [
-        "𐘠𐝫",
-        "𐄁",
-        "𐝫𐘚𐘤"
+        "𐘠𐝫𐘚𐘤",
+        "𐝯"
     ]
 }],
 ["PYRZb5",{
@@ -63981,28 +63837,25 @@ var inscriptions = new Map([
     "names": [
         "SAMWa1"
     ],
-    "parsedInscription": "𐘱𐘞𐝫𐘞𐘴𐝫𐘃𐄐𐝇",
+    "parsedInscription": "𐘱𐘞𐘃𐄐𐝇",
     "scribe": "",
     "site": "Samothrace",
     "support": "Nodule",
-    "transcription": "𐘱𐘞𐝫𐘞𐘴𐝫𐘃𐄐𐝇",
+    "transcription": "𐘱𐘞𐘃𐄐𐝇",
     "translatedWords": [
         "JA-SA",
-        "SA-RA",
         "TE",
         "10",
         "¹⁄₁₆"
     ],
     "transliteratedWords": [
         "JA-SA",
-        "SA-RA",
         "TE",
         "10",
         "¹⁄₁₆"
     ],
     "words": [
         "𐘱𐘞",
-        "𐘞𐘴",
         "𐘃",
         "𐄐",
         "𐝇"
@@ -64076,7 +63929,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=210",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=211",
     "images": [
         "images/SIZg1-Inscription.jpg"
     ],
@@ -64084,25 +63937,19 @@ var inscriptions = new Map([
     "names": [
         "SIZg1"
     ],
-    "parsedInscription": "𐘇𐝫𐄁𐝫𐘀𐙈",
+    "parsedInscription": "𐘇𐝫𐘀𐙈",
     "scribe": "",
     "site": "Sitia",
     "support": "Stone object",
-    "transcription": "𐘇𐝫𐄁𐝫𐘀𐙈",
+    "transcription": "𐘇𐝫𐘀𐙈",
     "translatedWords": [
-        "A",
-        "𐄁",
-        "DA-*118"
+        "A-[?]-DA-*118"
     ],
     "transliteratedWords": [
-        "A",
-        "𐄁",
-        "DA-*118"
+        "A-[?]-DA-*118"
     ],
     "words": [
-        "𐘇𐝫",
-        "𐄁",
-        "𐝫𐘀𐙈"
+        "𐘇𐝫𐘀𐙈"
     ]
 }],
 ["SKZb1",{
@@ -64112,7 +63959,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=140",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=141",
     "images": [
         "images/SKZb1-Inscription.jpg"
     ],
@@ -64150,28 +63997,28 @@ var inscriptions = new Map([
     "names": [
         "SKOZc1"
     ],
-    "parsedInscription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐘠𐝫",
+    "parsedInscription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐙀𐝫",
     "scribe": "",
     "site": "Skoteino Cave",
     "support": "Inked inscription",
-    "transcription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐘠𐝫",
+    "transcription": "𐝫𐄁𐘅𐘹𐙕𐘗𐝫\n𐝫𐘌𐘸𐙀𐝫",
     "translatedWords": [
         "𐄁",
         "NA-TU-*301-NE",
         "\n",
-        "QA-KI-TI"
+        "QA-KI-ZU"
     ],
     "transliteratedWords": [
         "𐄁",
         "NA-TU-*301-NE",
         "\n",
-        "QA-KI-TI"
+        "QA-KI-ZU"
     ],
     "words": [
         "𐄁",
         "𐘅𐘹𐙕𐘗𐝫",
         "\n",
-        "𐝫𐘌𐘸𐘠𐝫"
+        "𐝫𐘌𐘸𐙀𐝫"
     ]
 }],
 ["SYZa1",{
@@ -64199,14 +64046,14 @@ var inscriptions = new Map([
         "𐄁",
         "I-DA-MI",
         "𐄁",
-        "JA"
+        "JA-[?]"
     ],
     "transliteratedWords": [
         "A-TA-I-*301-WA-JA",
         "𐄁",
         "I-DA-MI",
         "𐄁",
-        "JA"
+        "JA-[?]"
     ],
     "words": [
         "𐝫𐘇𐘳𐘚𐙕𐘮𐘱",
@@ -64223,44 +64070,50 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol5.pdf#page=115",
+    "imageRightsURL": "papers/GORILA-Vol5.pdf#page=117",
     "images": [],
     "name": "SYZa2",
     "names": [
         "SYZa2"
     ],
-    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
+    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄁\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "scribe": "",
     "site": "Syme",
     "support": "Stone vessel",
-    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄇\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
+    "transcription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘱𐘲𐙁𐘹𐙋𐄁\n𐘉𐘅𐘾𐘅𐘤𐙖\n𐘇𐘱",
     "translatedWords": [
         "gives",
         "𐄁",
-        "JA-SU-MA-TU-OLIV",
-        "1",
+        "JA-SU-MA-TU",
+        "olives",
+        "𐄁",
         "\n",
-        "U-NA-KA-NA-SI-OLE",
+        "requesting",
+        "olive oil",
         "\n",
         "A-JA"
     ],
     "transliteratedWords": [
         "A-TA-I-*301-WA-JA",
         "𐄁",
-        "JA-SU-MA-TU-OLIV",
-        "1",
+        "JA-SU-MA-TU",
+        "OLIV",
+        "𐄁",
         "\n",
-        "U-NA-KA-NA-SI-OLE",
+        "U-NA-KA-NA-SI",
+        "OLE",
         "\n",
         "A-JA"
     ],
     "words": [
         "𐘇𐘳𐘚𐙕𐘮𐘱",
         "𐄁",
-        "𐘱𐘲𐙁𐘹𐙋",
-        "𐄇",
+        "𐘱𐘲𐙁𐘹",
+        "𐙋",
+        "𐄁",
         "\n",
-        "𐘉𐘅𐘾𐘅𐘤𐙖",
+        "𐘉𐘅𐘾𐘅𐘤",
+        "𐙖",
         "\n",
         "𐘇𐘱"
     ]
@@ -64418,19 +64271,19 @@ var inscriptions = new Map([
     "names": [
         "SYZb7"
     ],
-    "parsedInscription": "𐝫𐘴𐘸𐘝𐘈",
+    "parsedInscription": "𐝫𐘴𐘸𐝫𐘝𐘈",
     "scribe": "",
     "site": "Syme",
     "support": "Clay vessel",
-    "transcription": "𐝫𐘴𐘸𐘝𐘈",
+    "transcription": "𐝫𐘴𐘸𐝫𐘝𐘈",
     "translatedWords": [
-        "RA-KI-NI-SE"
+        "[?]-RA-KI-[?]-NI-SE"
     ],
     "transliteratedWords": [
-        "RA-KI-NI-SE"
+        "[?]-RA-KI-[?]-NI-SE"
     ],
     "words": [
-        "𐝫𐘴𐘸𐘝𐘈"
+        "𐝫𐘴𐘸𐝫𐘝𐘈"
     ]
 }],
 ["SYZa8",{
@@ -64448,25 +64301,25 @@ var inscriptions = new Map([
     "names": [
         "SYZa8"
     ],
-    "parsedInscription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
+    "parsedInscription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫𐝫𐝫",
     "scribe": "",
     "site": "Syme",
     "support": "Stone vessel",
-    "transcription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫",
+    "transcription": "𐘇𐘳𐝫𐘚𐙕𐘮𐘱𐄁𐘱𐘱𐝫𐝫𐝫",
     "translatedWords": [
         "gives",
         "𐄁",
-        "JA-JA"
+        "JA-JA-[?]-[?]-[?]"
     ],
     "transliteratedWords": [
         "A-TA-I-*301-WA-JA",
         "𐄁",
-        "JA-JA"
+        "JA-JA-[?]-[?]-[?]"
     ],
     "words": [
         "𐘇𐘳𐝫𐘚𐙕𐘮𐘱",
         "𐄁",
-        "𐘱𐘱𐝫"
+        "𐘱𐘱𐝫𐝫𐝫"
     ]
 }],
 ["SYZa9",{
@@ -64584,11 +64437,11 @@ var inscriptions = new Map([
     "transcription": "𐝫𐄁𐘇𐝫",
     "translatedWords": [
         "𐄁",
-        "A"
+        "A-[?]"
     ],
     "transliteratedWords": [
         "𐄁",
-        "A"
+        "A-[?]"
     ],
     "words": [
         "𐄁",
@@ -64737,30 +64590,30 @@ var inscriptions = new Map([
         "THEtab.4",
         "THE7"
     ],
-    "parsedInscription": "𐝫𐘒𐄍𐝫\n𐝫𐘒𐄓𐄌𐝫",
+    "parsedInscription": "𐝫𐘑𐄍𐝫\n𐝫𐘐𐄓𐄌𐝫",
     "scribe": "",
     "site": "Thera",
     "support": "Tablet",
-    "transcription": "𐝫𐘒𐄍𐝫\n𐝫𐘒𐄓𐄌𐝫",
+    "transcription": "𐝫𐘑𐄍𐝫\n𐝫𐘐𐄓𐄌𐝫",
     "translatedWords": [
-        "goat",
+        "ram",
         "7",
         "\n",
-        "goat",
+        "ewe",
         "46"
     ],
     "transliteratedWords": [
-        "CAP",
+        "*21M",
         "7",
         "\n",
-        "CAP",
+        "*21F",
         "46"
     ],
     "words": [
-        "𐝫𐘒",
+        "𐝫𐘑",
         "𐄍𐝫",
         "\n",
-        "𐝫𐘒",
+        "𐝫𐘐",
         "𐄓𐄌𐝫"
     ]
 }],
@@ -64841,7 +64694,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=143",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=144",
     "images": [
         "images/THEZb1-Inscription.jpg"
     ],
@@ -64872,7 +64725,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=144",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=145",
     "images": [
         "images/THEZb2-Inscription.jpg"
     ],
@@ -64903,7 +64756,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=145",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=146",
     "images": [
         "images/THEZb3-Inscription.jpg"
     ],
@@ -64918,10 +64771,10 @@ var inscriptions = new Map([
     "support": "Clay vessel",
     "transcription": "𐘇𐘗𐝫",
     "translatedWords": [
-        "A-NE"
+        "A-NE-[[ ]]"
     ],
     "transliteratedWords": [
-        "A-NE"
+        "A-NE-[[ ]]"
     ],
     "words": [
         "𐘇𐘗𐝫"
@@ -64934,7 +64787,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=146",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=147",
     "images": [
         "images/THEZb4-Inscription.jpg"
     ],
@@ -65022,7 +64875,7 @@ var inscriptions = new Map([
     "facsimileImages": [],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=145",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=146",
     "images": [
         "images/THEZb5-Inscription.jpg"
     ],
@@ -65092,28 +64945,28 @@ var inscriptions = new Map([
     "names": [
         "THEZb13"
     ],
-    "parsedInscription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
+    "parsedInscription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐝫𐘃",
     "scribe": "",
     "site": "Thera",
     "support": "Clay vessel",
-    "transcription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐘃𐄙𐄑",
+    "transcription": "𐘏𐛻𐄙𐄑𐘾𐘇𐘤𐝫𐝫𐘃",
     "translatedWords": [
-        "QI-VIN+TE",
+        "sheep",
+        "wine",
         "120",
-        "KA-A-SI-TE",
-        "120"
+        "KA-A-SI-[[[?]-[?]-TE]]"
     ],
     "transliteratedWords": [
-        "QI-VIN+TE",
+        "QI",
+        "VIN+TE",
         "120",
-        "KA-A-SI-TE",
-        "120"
+        "KA-A-SI-[[[?]-[?]-TE]]"
     ],
     "words": [
-        "𐘏𐛻",
+        "𐘏",
+        "𐛻",
         "𐄙𐄑",
-        "𐘾𐘇𐘤𐝫𐘃",
-        "𐄙𐄑"
+        "𐘾𐘇𐘤𐝫𐝫𐘃"
     ]
 }],
 ["TIZb1",{
@@ -65151,7 +65004,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=100",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=101",
     "images": [
         "images/TLZa1-Inscription.jpg"
     ],
@@ -65159,7 +65012,7 @@ var inscriptions = new Map([
     "names": [
         "TLZa1"
     ],
-    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘵𐘲𐘌𐘙𐄁\n𐘱𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘾𐘅𐘤𐝫\n𐝫𐘅𐙁𐘤𐘘𐝫",
+    "parsedInscription": "𐘇𐘳𐘚𐙕𐘮𐘱𐄁𐘵𐘲𐘌𐘙𐄁\n𐘱𐘞𐘞𐘴𐘋𐄁𐘉𐘅𐘾𐘅𐘤𐝫\n𐘚𐘢𐝫𐘅𐙁𐘤𐘘𐝫𐘃",
     "scribe": "",
     "site": "Troullos",
     "support": "Stone vessel",
@@ -65172,8 +65025,8 @@ var inscriptions = new Map([
         "\n",
         "this dedication",
         "𐄁",
+        "requesting",
         "\n",
-        "U-NA-KA-NA",
         "a favour",
         "divine"
     ],
@@ -65185,8 +65038,8 @@ var inscriptions = new Map([
         "\n",
         "JA-SA-SA-RA-ME",
         "𐄁",
+        "U-NA-KA-NA-SI",
         "\n",
-        "U-NA-KA-NA",
         "I-PI-NA-MA",
         "SI-RU-TE"
     ],
@@ -65198,8 +65051,8 @@ var inscriptions = new Map([
         "\n",
         "𐘱𐘞𐘞𐘴𐘋",
         "𐄁",
+        "𐘉𐘅𐘾𐘅𐘤𐝫",
         "\n",
-        "𐘉𐘅𐘾𐘅𐝫",
         "𐘚𐘢𐝫𐘅𐙁",
         "𐘤𐘘𐝫𐘃"
     ]
@@ -65211,7 +65064,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=149",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=150",
     "images": [
         "images/TRAZb1-Inscription.jpg"
     ],
@@ -65339,19 +65192,19 @@ var inscriptions = new Map([
     "names": [
         "TY2"
     ],
-    "parsedInscription": "𐙞𐝫𐘟𐘫𐘢𐄝\n𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔\n𐙝𐘀𐘫𐝫𐄐\n𐘂𐘀𐘘𐙝𐘶𐘸𐄙\n𐙝𐘭𐘶𐝫\n𐙝𐝫𐝫𐄌\n𐙇𐄗𐄊\n𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒\n𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔\n𐙞𐝫\n𐝫",
+    "parsedInscription": "𐙞𐝫𐘟𐘫𐘢𐄝\n𐙝𐝫𐄚𐄘\n𐙞𐝫𐘸𐘫𐄔\n𐙝𐘀𐘫𐝫𐄐\n𐘂𐘀𐘘𐙝𐘶𐘸𐄙\n𐙝𐘭𐘶𐝫\n𐙝𐝫𐝫𐄌\n𐙇𐄗𐄊\n𐙟𐘀𐝫𐘶𐄐𐄍𐝫\n𐙟𐝫𐘘𐘾𐄒\n𐙝𐘭𐝫𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔\n𐙞𐝫\n𐝫",
     "scribe": "",
     "site": "Tylissos",
     "support": "Tablet",
-    "transcription": "𐙞𐝫𐘟𐘫𐘢𐄝𐙝𐝫𐄚𐄘\n𐙞𐘸𐘫𐄔𐙝𐘀𐘫𐝫𐄐𐘂\n𐘀𐘘𐙝𐘶𐘸𐄙𐙝𐘭𐘶𐝫𐙝𐝫𐄌𐙇\n𐄗𐄊𐙟𐘀𐘶𐄐𐄍𐝫\n𐙟𐘘𐘾𐄒𐙝𐘭𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔𐙞𐝫\n𐝫",
+    "transcription": "𐙞𐝫𐘟𐘫𐘢𐄝𐙝𐝫𐄚𐄘\n𐙞𐝫𐘸𐘫𐄔𐙝𐘀𐘫𐝫𐄐𐘂\n𐘀𐘘𐙝𐘶𐘸𐄙𐙝𐘭𐘶𐝫𐙝𐝫𐄌𐙇\n𐄗𐄊𐙟𐘀𐝫𐘶𐄐𐄍𐝫\n𐙟𐝫𐘘𐘾𐄒𐙝𐘭𐝫𐘮𐘶𐄙𐄕\n𐝫𐙞𐘭𐘶𐄚𐄔𐙞𐝫\n𐝫",
     "translatedWords": [
-        "*309B-*34-PU-PI",
+        "*309B-[?]-*34-PU-PI",
         "500",
         "\n",
         "*309",
         "290",
         "\n",
-        "*309B-KI-PU",
+        "*309B-[?]-KI-PU",
         "50",
         "\n",
         "*309-DA-PU",
@@ -65369,13 +65222,13 @@ var inscriptions = new Map([
         "VIR+[?]",
         "84",
         "\n",
-        "*309C-DA-JU",
+        "*309C-DA-[?]-JU",
         "17",
         "\n",
-        "*309C-RU-KA",
+        "*309C-[?]-RU-KA",
         "30",
         "\n",
-        "*309-RI-WA-JU",
+        "*309-RI-[?]-WA-JU",
         "160",
         "\n",
         "*309B-RI-JU",
@@ -65386,13 +65239,13 @@ var inscriptions = new Map([
         "𐝫"
     ],
     "transliteratedWords": [
-        "*309B-*34-PU-PI",
+        "*309B-[?]-*34-PU-PI",
         "500",
         "\n",
         "*309",
         "290",
         "\n",
-        "*309B-KI-PU",
+        "*309B-[?]-KI-PU",
         "50",
         "\n",
         "*309-DA-PU",
@@ -65410,13 +65263,13 @@ var inscriptions = new Map([
         "VIR+[?]",
         "84",
         "\n",
-        "*309C-DA-JU",
+        "*309C-DA-[?]-JU",
         "17",
         "\n",
-        "*309C-RU-KA",
+        "*309C-[?]-RU-KA",
         "30",
         "\n",
-        "*309-RI-WA-JU",
+        "*309-RI-[?]-WA-JU",
         "160",
         "\n",
         "*309B-RI-JU",
@@ -65433,7 +65286,7 @@ var inscriptions = new Map([
         "𐙝𐝫",
         "𐄚𐄘",
         "\n",
-        "𐙞𐘸𐘫",
+        "𐙞𐝫𐘸𐘫",
         "𐄔",
         "\n",
         "𐙝𐘀𐘫𐝫",
@@ -65451,13 +65304,13 @@ var inscriptions = new Map([
         "𐙇",
         "𐄗𐄊",
         "\n",
-        "𐙟𐘀𐘶",
+        "𐙟𐘀𐝫𐘶",
         "𐄐𐄍𐝫",
         "\n",
-        "𐙟𐘘𐘾",
+        "𐙟𐝫𐘘𐘾",
         "𐄒",
         "\n",
-        "𐙝𐘭𐘮𐘶",
+        "𐙝𐘭𐝫𐘮𐘶",
         "𐄙𐄕",
         "\n",
         "𐝫𐙞𐘭𐘶",
@@ -65483,11 +65336,11 @@ var inscriptions = new Map([
     "names": [
         "TY3a"
     ],
-    "parsedInscription": "𐝫𐘍𐙭𐜓𐄐𐄋𐝃\n𐜋𐄑𐄈\n𐘗𐘸𐄋\n𐜌𐄉𐝆\n𐜗𐝫\n𐜋𐄍𐝆\n—\n𐘇𐘬𐝫𐄁𐝫𐜓𐄔𐄇\n𐜔𐄈𐝂\n𐜕𐄇\n𐜌𐄊𐝆\n𐝫𐙋𐝫𐄊𐝫\n—\n𐘇𐘀𐜋𐄑𐄇\n𐜗𐄈𐝫\n𐝫𐘺𐘇𐘬𐘮𐙖𐝫𐄍𐝂\n—\n𐘇𐙂𐘹𐚕𐝫\n𐝫𐘸𐄋\n𐜖𐄇\n—",
+    "parsedInscription": "𐝫𐘍𐙭𐜓𐄐𐄋𐝃\n𐜋𐄑𐄈\n𐘗𐘸𐄋\n𐜌𐄉𐝆\n𐜗𐝫\n𐜋𐄍𐝆\n—\n𐘇𐘬𐝫𐝫𐜓𐄔𐄇\n𐜔𐄈𐝂\n𐜕𐄇\n𐜌𐄊𐝆\n𐝫𐙋𐝫𐄊𐝫\n—\n𐘇𐘀𐜋𐄑𐄇\n𐜗𐄈𐝫\n𐝫𐘺𐘇𐘬𐘮𐙖𐝫𐄍𐝂\n—\n𐘇𐙂𐘹𐚕𐝫\n𐝫𐘸𐄋\n𐜖𐄇\n—",
     "scribe": "",
     "site": "Tylissos",
     "support": "Tablet",
-    "transcription": "𐝫𐘍𐙭𐜓𐄐𐄋𐝃𐜋𐄑𐄈𐘗\n𐘸𐄋𐜌𐄉𐝆𐜗𐝫𐜋𐄍𐝆\n—\n𐘇𐘬𐝫𐄁𐝫𐜓𐄔𐄇𐜔𐄈𐝂\n𐜕𐄇𐜌𐄊𐝆𐝫𐙋𐄊𐝫\n—\n𐘇𐘀𐜋𐄑𐄇𐜗𐄈𐝫\n𐝫𐘺𐘇𐘬𐘮𐙖𐝫𐄍𐝂\n—\n𐘇𐙂𐘹𐚕𐝫𐘸𐄋𐜖𐄇\n—",
+    "transcription": "𐝫𐘍𐙭𐜓𐄐𐄋𐝃𐜋𐄑𐄈𐘗\n𐘸𐄋𐜌𐄉𐝆𐜗𐝫𐜋𐄍𐝆\n—\n𐘇𐘬𐝫𐝫𐜓𐄔𐄇𐜔𐄈𐝂\n𐜕𐄇𐜌𐄊𐝆𐝫𐙋𐄊𐝫\n—\n𐘇𐘀𐜋𐄑𐄇𐜗𐄈𐝫\n𐝫𐘺𐘇𐘬𐘮𐙖𐝫𐄍𐝂\n—\n𐘇𐙂𐘹𐚕𐝫𐘸𐄋𐜖𐄇\n—",
     "translatedWords": [
         "ZA-*321",
         "olive oil",
@@ -65497,7 +65350,7 @@ var inscriptions = new Map([
         "olive oil",
         "22",
         "\n",
-        "NE-KI",
+        "NE-KI+[?]",
         "5",
         "\n",
         "olive oil",
@@ -65512,9 +65365,7 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "\"assessment\"?",
-        "𐄁",
-        "𐝫",
+        "A-DU-[?]-[?]",
         "olive oil",
         "51",
         "\n",
@@ -65550,7 +65401,7 @@ var inscriptions = new Map([
         "\n",
         "A-KU-TU-*361",
         "\n",
-        "KI",
+        "KI+[?]",
         "5",
         "\n",
         "olive oil",
@@ -65567,7 +65418,7 @@ var inscriptions = new Map([
         "OLE+U",
         "22",
         "\n",
-        "NE-KI",
+        "NE-KI+[?]",
         "5",
         "\n",
         "OLE+QIf",
@@ -65582,9 +65433,7 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "A-DU",
-        "𐄁",
-        "𐝫",
+        "A-DU-[?]-[?]",
         "OLE+KI",
         "51",
         "\n",
@@ -65620,7 +65469,7 @@ var inscriptions = new Map([
         "\n",
         "A-KU-TU-*361",
         "\n",
-        "KI",
+        "KI+[?]",
         "5",
         "\n",
         "OLE+TU",
@@ -65652,9 +65501,7 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "𐘇𐘬𐝫",
-        "𐄁",
-        "𐝫",
+        "𐘇𐘬𐝫𐝫",
         "𐜓",
         "𐄔𐄇",
         "\n",
@@ -65824,7 +65671,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=151",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=152",
     "images": [
         "images/TYZb4-Inscription.jpg"
     ],
@@ -65854,7 +65701,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=212",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=213",
     "images": [
         "images/TYZg1-Inscription.jpg"
     ],
@@ -65884,7 +65731,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=103",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=104",
     "images": [
         "images/VRYZa1-Inscription.jpg"
     ],
@@ -66037,7 +65884,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=172",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=173",
     "images": [
         "images/ZA4a-Inscription.jpg"
     ],
@@ -66045,11 +65892,11 @@ var inscriptions = new Map([
     "names": [
         "ZA4a"
     ],
-    "parsedInscription": "𐝫\n𐝫\n𐝫𐘡𐝫\n𐝫𐘢𐝫𐄁𐝫𐘈𐝫𐝫𐄋\n𐘱𐘄𐘱𐝫𐝫𐄉𐝫\n𐘇𐘠𐘘𐄊\n𐘱𐘂𐄇𐝫\n𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊\n𐘛𐘯𐙁𐘙𐄐𐄉\n𐘤𐘢𐘸𐄋\n𐘡𐙃𐄔\n𐘾𐘆𐄉",
+    "parsedInscription": "𐝫\n𐝫\n𐝫𐘡𐝫\n𐝫𐘢𐝫𐘈𐝫𐝫𐄋\n𐘱𐘄𐘱𐝫𐝫𐄉𐝫\n𐘇𐘠𐘘𐄊\n𐘱𐘂𐄇𐝫\n𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊\n𐘛𐘯𐙁𐘙𐄐𐄉\n𐘤𐘢𐘸𐄋\n𐘡𐙃𐄔\n𐘾𐘆𐄉",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐘡𐝫\n𐘢𐝫𐄁𐝫𐘈𐝫𐄋𐘱𐘄𐘱\n𐝫𐄉𐝫𐘇𐘠𐘘𐄊𐘱\n𐘂𐄇𐝫𐝫𐄁𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊𐘛\n𐘯𐙁𐘙𐄐𐄉𐘤𐘢\n𐘸𐄋𐘡𐙃𐄔\n𐘾𐘆𐄉",
+    "transcription": "𐝫\n𐝫𐘡𐝫\n𐘢𐝫𐘈𐝫𐄋𐘱𐘄𐘱\n𐝫𐄉𐝫𐘇𐘠𐘘𐄊𐘱\n𐘂𐄇𐝫𐝫𐘹𐘋𐘈𐄐𐄎\n𐘿𐘤𐙀𐘡𐄊𐘛\n𐘯𐙁𐘙𐄐𐄉𐘤𐘢\n𐘸𐄋𐘡𐙃𐄔\n𐘾𐘆𐄉",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -66057,9 +65904,7 @@ var inscriptions = new Map([
         "\n",
         "E",
         "\n",
-        "PI",
-        "𐄁",
-        "SE",
+        "PI-[?]-SE",
         "5",
         "\n",
         "JA-TO-JA",
@@ -66071,8 +65916,7 @@ var inscriptions = new Map([
         "JA-PA",
         "1",
         "\n",
-        "𐄁",
-        "TU-ME-SE",
+        "[?]-TU-ME-SE",
         "18",
         "\n",
         "QE-SI-ZU-E",
@@ -66097,9 +65941,7 @@ var inscriptions = new Map([
         "\n",
         "E",
         "\n",
-        "PI",
-        "𐄁",
-        "SE",
+        "PI-[?]-SE",
         "5",
         "\n",
         "JA-TO-JA",
@@ -66111,8 +65953,7 @@ var inscriptions = new Map([
         "JA-PA",
         "1",
         "\n",
-        "𐄁",
-        "TU-ME-SE",
+        "[?]-TU-ME-SE",
         "18",
         "\n",
         "QE-SI-ZU-E",
@@ -66137,9 +65978,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐘡𐝫",
         "\n",
-        "𐝫𐘢𐝫",
-        "𐄁",
-        "𐝫𐘈𐝫",
+        "𐝫𐘢𐝫𐘈𐝫",
         "𐝫𐄋",
         "\n",
         "𐘱𐘄𐘱𐝫",
@@ -66151,7 +65990,6 @@ var inscriptions = new Map([
         "𐘱𐘂",
         "𐄇𐝫",
         "\n",
-        "𐄁",
         "𐝫𐘹𐘋𐘈",
         "𐄐𐄎",
         "\n",
@@ -66178,7 +66016,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=172",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=175",
     "images": [
         "images/ZA4b-Inscription.jpg"
     ],
@@ -66217,7 +66055,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=176",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=177",
     "images": [
         "images/ZA5a-Inscription.jpg"
     ],
@@ -66301,7 +66139,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=176",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=179",
     "images": [
         "images/ZA5b-Inscription.jpg"
     ],
@@ -66355,7 +66193,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=180",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=181",
     "images": [
         "images/ZA6a-Inscription.jpg"
     ],
@@ -66363,11 +66201,11 @@ var inscriptions = new Map([
     "names": [
         "ZA6a"
     ],
-    "parsedInscription": "𐙙𐘮𐘅𐙑𐄐𐄏\n𐘟𐘶𐘃𐘻𐝫\n𐝫𐄙𐄗\n𐘚𐘈𐝫\n𐝫𐙋𐄐𐄋\n𐝫𐙋𐄐\n𐘚𐝫\n𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫\n𐝫𐙋𐝫\n𐝫𐄑𐄋\n𐙘𐝫\n𐝫𐄑\n𐘚𐘈𐝫𐄁",
+    "parsedInscription": "𐙙𐘮𐘅𐙑𐄐𐄏\n𐘟𐘶𐘃𐘻𐝫\n𐝫𐄙𐄗\n𐘚𐘈𐝫\n𐝫𐙋𐄐𐄋\n𐝫𐙋𐄐\n𐘚𐝫\n𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫\n𐝫𐙋𐝫\n𐝫𐄑𐄋\n𐙘𐝫\n𐝫𐄑\n𐘚𐘈𐝫",
     "scribe": "ZA Scribe 1",
     "site": "Zakros",
     "support": "Tablet",
-    "transcription": "𐙙𐘮𐘅𐙑𐄐𐄏𐘟𐘶\n𐘃𐘻𐝫𐄙𐄗\n𐘚𐘈𐝫𐙋\n𐄐𐄋𐝫𐙋𐄐\n𐘚𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫𐙋𐝫\n𐝫𐄑𐄋𐙘𐝫\n𐝫𐄑𐘚𐘈\n𐝫𐄁",
+    "transcription": "𐙙𐘮𐘅𐙑𐄐𐄏𐘟𐘶\n𐘃𐘻𐝫𐄙𐄗\n𐘚𐘈𐝫𐙋\n𐄐𐄋𐝫𐙋𐄐\n𐘚𐝫𐄈\n𐝫𐘜𐘽𐛭𐝫\n𐝫𐄑𐝫𐙋𐝫\n𐝫𐄑𐄋𐙘𐝫\n𐝫𐄑𐘚𐘈\n𐝫",
     "translatedWords": [
         "*305-WA-NA",
         "fodder?",
@@ -66394,16 +66232,15 @@ var inscriptions = new Map([
         "\n",
         "20",
         "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "𐄁",
         "olives",
+        "\n",
         "25",
+        "\n",
         "olive oil",
+        "\n",
         "20",
-        "I-SE"
+        "\n",
+        "I-SE-[?]"
     ],
     "transliteratedWords": [
         "*305-WA-NA",
@@ -66431,16 +66268,15 @@ var inscriptions = new Map([
         "\n",
         "20",
         "\n",
-        "\n",
-        "\n",
-        "\n",
-        "\n",
-        "𐄁",
         "OLIV",
+        "\n",
         "25",
+        "\n",
         "*304",
+        "\n",
         "20",
-        "I-SE"
+        "\n",
+        "I-SE-[?]"
     ],
     "words": [
         "𐙙𐘮𐘅",
@@ -66468,15 +66304,14 @@ var inscriptions = new Map([
         "\n",
         "𐝫𐄑𐝫",
         "\n",
+        "𐝫𐙋𐝫",
         "\n",
-        "\n",
-        "\n",
-        "\n",
-        "𐄁",
-        "𐙋𐝫",
         "𐝫𐄑𐄋",
+        "\n",
         "𐙘𐝫",
+        "\n",
         "𐝫𐄑",
+        "\n",
         "𐘚𐘈𐝫"
     ]
 }],
@@ -66487,7 +66322,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=180",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=183",
     "images": [
         "images/ZA6b-Inscription.jpg"
     ],
@@ -66580,7 +66415,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=184",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=185",
     "images": [
         "images/ZA7a-Inscription.jpg"
     ],
@@ -66634,7 +66469,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=184",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=187",
     "images": [
         "images/ZA7b-Inscription.jpg"
     ],
@@ -66676,7 +66511,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=188",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=189",
     "images": [
         "images/ZA8-Inscription.jpg",
         "images/ZA8a-Inscription.jpg"
@@ -66791,7 +66626,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=190",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=191",
     "images": [
         "images/ZA9-Inscription.jpg"
     ],
@@ -66799,11 +66634,11 @@ var inscriptions = new Map([
     "names": [
         "ZA9"
     ],
-    "parsedInscription": "𐝫𐘯𐘠𐄁\n𐘍𐝫\n𐝫𐘴𐚽𐄋\n𐝫\n𐝫𐘁𐘤𐘴𐝫𐚽𐄊\n𐘇𐘳𐘅𐝫𐄁𐝫𐚽𐄈\n𐝫𐄁𐝫𐙁𐘶𐘓𐄈\n𐘣𐘴𐘙𐘻𐘃𐘓𐄇",
+    "parsedInscription": "𐝫𐘯𐘠𐄁\n𐘍𐝫\n𐝫𐘴𐚽𐄋\n𐝫\n𐝫𐘁𐘤𐘴𐝫𐚽𐄊\n𐘇𐘳𐘅𐝫𐚽𐄈\n𐝫𐙁𐘶𐘐𐄈\n𐘣𐘴𐘙𐘻𐘃𐘐𐄇",
     "scribe": "",
     "site": "Zakros",
     "support": "Tablet",
-    "transcription": "𐝫𐘯𐘠𐄁𐘍𐝫\n𐝫𐝢𐚽𐄋𐝫\n𐝫𐘁𐘤𐝢\n𐝫𐚽𐄊𐘇𐘳𐘅𐝫𐄁𐝫\n𐚽𐄈𐝫𐄁𐝫𐙁𐘶𐘐𐄈\n𐘣𐝢𐘙𐘻𐘃𐘐𐄇",
+    "transcription": "𐝫𐘯𐘠𐄁𐘍𐝫\n𐝫𐘴𐚽𐄋𐝫\n𐝫𐘁𐘤𐘴\n𐝫𐚽𐄊𐘇𐘳𐘅𐝫\n𐚽𐄈𐝫𐙁𐘶𐘐𐄈\n𐘣𐘴𐘙𐘻𐘃𐘐𐄇",
     "translatedWords": [
         "NU-TI",
         "𐄁",
@@ -66820,19 +66655,16 @@ var inscriptions = new Map([
         "QI+SI",
         "4",
         "\n",
-        "A-TA-NA",
-        "𐄁",
-        "𐝫",
+        "A-TA-NA-[?]",
         "QI+SI",
         "2",
         "\n",
-        "𐄁",
-        "MA-JU",
-        "she-goat",
+        "[?]-MA-JU",
+        "ewe",
         "2",
         "\n",
         "WI-RA-RE-MI-TE",
-        "she-goat",
+        "ewe",
         "1"
     ],
     "transliteratedWords": [
@@ -66851,19 +66683,16 @@ var inscriptions = new Map([
         "QI+SI",
         "4",
         "\n",
-        "A-TA-NA",
-        "𐄁",
-        "𐝫",
+        "A-TA-NA-[?]",
         "QI+SI",
         "2",
         "\n",
-        "𐄁",
-        "MA-JU",
-        "*22F",
+        "[?]-MA-JU",
+        "*21F",
         "2",
         "\n",
         "WI-RA-RE-MI-TE",
-        "*22F",
+        "*21F",
         "1"
     ],
     "words": [
@@ -66883,18 +66712,15 @@ var inscriptions = new Map([
         "𐄊",
         "\n",
         "𐘇𐘳𐘅𐝫",
-        "𐄁",
-        "𐝫",
         "𐚽",
         "𐄈",
         "\n",
-        "𐄁",
         "𐝫𐙁𐘶",
-        "𐘓",
+        "𐘐",
         "𐄈",
         "\n",
         "𐘣𐘴𐘙𐘻𐘃",
-        "𐘓",
+        "𐘐",
         "𐄇"
     ]
 }],
@@ -66905,7 +66731,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=192",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=193",
     "images": [
         "images/ZA10a-Inscription.jpg"
     ],
@@ -66917,7 +66743,7 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
     "support": "Tablet",
-    "transcription": "𐘳𐘅𐘃𐄈𐘂𐝫𐄇𐘇𐙂\n𐘻𐘅𐄇𐘇𐘳𐘅𐝠𐄇\n𐘇𐘻𐘀𐘉𐄇𐘇𐘬\n𐙂𐘻𐘅𐄇𐘀𐘚𐘢\n𐘳𐄇𐘬𐘙𐘍𐘈𐄈",
+    "transcription": "𐘳𐘅𐘃𐄈𐘂𐝫𐄇𐘇𐙂\n𐘻𐘅𐄇𐘇𐘳𐘅𐘃𐄇\n𐘇𐘻𐘀𐘉𐄇𐘇𐘬\n𐙂𐘻𐘅𐄇𐘀𐘚𐘢\n𐘳𐄇𐘬𐘙𐘍𐘈𐄈",
     "translatedWords": [
         "TA-NA-TE",
         "2",
@@ -67001,7 +66827,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=192",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=195",
     "images": [
         "images/ZA10b-Inscription.jpg"
     ],
@@ -67013,7 +66839,7 @@ var inscriptions = new Map([
     "scribe": "ZA Scribe 4",
     "site": "Zakros",
     "support": "Tablet",
-    "transcription": "𐘮𐚖𐄈𐘬𐘙𐘍𐘈\n𐙎𐄋𐘉𐘪𐄌𐙁𐘍\n𐄋𐙁𐘸𐘦𐝠𐄋𐘞\n𐙁𐄋𐘇𐘦𐄊𐘇𐘻\n𐘳𐄉𐘽𐘁𐘙𐄈𐘂𐘱𐘙\n𐄇𐘾𐙂𐘗𐘃𐝆𐘳\n𐄈𐘬𐄇𐝫",
+    "transcription": "𐘮𐚖𐄈𐘬𐘙𐘍𐘈\n𐙎𐄋𐘉𐘪𐄌𐙁𐘍\n𐄋𐙁𐘸𐘦𐘃𐄋𐘞\n𐙁𐄋𐘇𐘦𐄊𐘇𐘻\n𐘳𐄉𐘽𐘁𐘙𐄈𐘂𐘱𐘙\n𐄇𐘾𐙂𐘗𐘃𐝆𐘳\n𐄈𐘬𐄇𐝫",
     "translatedWords": [
         "WA-*362",
         "2",
@@ -67145,7 +66971,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=196",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=197",
     "images": [
         "images/ZA11a-Inscription.jpg"
     ],
@@ -67277,7 +67103,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=196",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=199",
     "images": [
         "images/ZA11b-Inscription.jpg"
     ],
@@ -67373,7 +67199,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=200",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=201",
     "images": [
         "images/ZA12a-Inscription.jpg"
     ],
@@ -67436,7 +67262,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=200",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=201",
     "images": [
         "images/ZA12b-Inscription.jpg"
     ],
@@ -67502,7 +67328,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=202",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=203",
     "images": [
         "images/ZA13-Inscription.jpg"
     ],
@@ -67544,7 +67370,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=204",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=205",
     "images": [
         "images/ZA14-Inscription.jpg"
     ],
@@ -67649,7 +67475,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=206",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=207",
     "images": [
         "images/ZA15a-Inscription.jpg"
     ],
@@ -67763,7 +67589,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=206",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=209",
     "images": [
         "images/ZA15b-Inscription.jpg"
     ],
@@ -67832,7 +67658,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=210",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=211",
     "images": [
         "images/ZA16-Inscription.jpg"
     ],
@@ -67898,7 +67724,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=212",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=213",
     "images": [
         "images/ZA17-Inscription.jpg"
     ],
@@ -67940,7 +67766,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=214",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=215",
     "images": [
         "images/ZA18a-Inscription.jpg"
     ],
@@ -68027,7 +67853,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=214",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=215",
     "images": [
         "images/ZA18b-Inscription.jpg"
     ],
@@ -68072,7 +67898,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=216",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=217",
     "images": [
         "images/ZA19-Inscription.jpg"
     ],
@@ -68114,7 +67940,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=216",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=217",
     "images": [
         "images/ZA20-Inscription.jpg"
     ],
@@ -68213,7 +68039,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=218",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=219",
     "images": [
         "images/ZA21a-Inscription.jpg"
     ],
@@ -68321,7 +68147,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=218",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=221",
     "images": [
         "images/ZA21b-Inscription.jpg"
     ],
@@ -68347,7 +68173,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫",
         "\n",
-        "ME"
+        "[[ME]]"
     ],
     "transliteratedWords": [
         "I-DA",
@@ -68362,7 +68188,7 @@ var inscriptions = new Map([
         "\n",
         "𐝫",
         "\n",
-        "ME"
+        "[[ME]]"
     ],
     "words": [
         "𐘚𐘀𐝫",
@@ -68387,7 +68213,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=222",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=223",
     "images": [
         "images/ZA22-Inscription.jpg"
     ],
@@ -68395,78 +68221,72 @@ var inscriptions = new Map([
     "names": [
         "ZA22"
     ],
-    "parsedInscription": "𐝫\n𐝫𐘓𐝫\n𐘔𐄇𐝫\n𐝫𐄇\n𐘴𐝫𐄁𐝫𐘓𐄇𐝫\n𐝫𐄌\n𐘬𐘶𐝫\n𐘓𐄙𐝫",
+    "parsedInscription": "𐝫\n𐝫𐘐𐝫\n𐘑𐄇𐝫\n𐝫𐄇\n𐘴𐝫𐘐𐄇𐝫\n𐝫𐄍\n𐘬𐘶𐝫\n𐘐𐄙𐝫",
     "scribe": "",
     "site": "Zakros",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐘐𐝫\n𐘑𐄇𐝫\n𐝫𐄇𐘴𐝫𐄁𐝫𐘐𐄇𐝫\n𐝫𐄌𐘬𐘶𐝫\n𐘐𐄙𐝫",
+    "transcription": "𐝫\n𐝫𐘐𐝫\n𐘑𐄇𐝫\n𐝫𐄇𐘴𐝫𐘐𐄇𐝫\n𐝫𐄍𐘬𐘶𐝫\n𐘐𐄙𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
-        "she-goat",
+        "ewe",
         "\n",
-        "he-goat",
+        "ram",
         "1",
         "\n",
         "1",
         "\n",
-        "RA",
-        "𐄁",
-        "𐝫",
-        "she-goat",
+        "RA-[?]",
+        "ewe",
         "1",
         "\n",
-        "6",
+        "7",
         "\n",
         "DU-JU",
         "\n",
-        "she-goat",
+        "ewe",
         "100"
     ],
     "transliteratedWords": [
         "𐝫",
         "\n",
-        "*22F",
+        "*21F",
         "\n",
-        "*22M",
+        "*21M",
         "1",
         "\n",
         "1",
         "\n",
-        "RA",
-        "𐄁",
-        "𐝫",
-        "*22F",
+        "RA-[?]",
+        "*21F",
         "1",
         "\n",
-        "6",
+        "7",
         "\n",
         "DU-JU",
         "\n",
-        "*22F",
+        "*21F",
         "100"
     ],
     "words": [
         "𐝫",
         "\n",
-        "𐝫𐘓𐝫",
+        "𐝫𐘐𐝫",
         "\n",
-        "𐘔",
+        "𐘑",
         "𐄇𐝫",
         "\n",
         "𐝫𐄇",
         "\n",
         "𐘴𐝫",
-        "𐄁",
-        "𐝫",
-        "𐘓",
+        "𐘐",
         "𐄇𐝫",
         "\n",
-        "𐝫𐄌",
+        "𐝫𐄍",
         "\n",
         "𐘬𐘶𐝫",
         "\n",
-        "𐘓",
+        "𐘐",
         "𐄙𐝫"
     ]
 }],
@@ -68477,7 +68297,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=224",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=225",
     "images": [
         "images/ZA23-Inscription.jpg"
     ],
@@ -68525,7 +68345,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=224",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=225",
     "images": [
         "images/ZA24a-Inscription.jpg"
     ],
@@ -68570,7 +68390,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=224",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=225",
     "images": [
         "images/ZA24b-Inscription.jpg"
     ],
@@ -68606,7 +68426,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=226",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=227",
     "images": [
         "images/ZA25-Inscription.jpg"
     ],
@@ -68642,7 +68462,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=226",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=227",
     "images": [
         "images/ZA26a-Inscription.jpg"
     ],
@@ -68650,7 +68470,7 @@ var inscriptions = new Map([
     "names": [
         "ZA26a"
     ],
-    "parsedInscription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘓𐄐𐄉\n𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
+    "parsedInscription": "𐘤𐘃𐄁𐘆𐘆𐝫\n𐝫𐘐𐄐𐄉\n𐘱𐘸𐝫\n𐝫𐘸𐝫\n𐝫",
     "scribe": "",
     "site": "Zakros",
     "support": "Tablet",
@@ -68660,7 +68480,7 @@ var inscriptions = new Map([
         "𐄁",
         "DI-DI",
         "\n",
-        "she-goat",
+        "ewe",
         "13",
         "\n",
         "JA-KI",
@@ -68674,7 +68494,7 @@ var inscriptions = new Map([
         "𐄁",
         "DI-DI",
         "\n",
-        "*22F",
+        "*21F",
         "13",
         "\n",
         "JA-KI",
@@ -68688,7 +68508,7 @@ var inscriptions = new Map([
         "𐄁",
         "𐘆𐘆𐝫",
         "\n",
-        "𐝫𐘓",
+        "𐝫𐘐",
         "𐄐𐄉",
         "\n",
         "𐘱𐘸𐝫",
@@ -68705,7 +68525,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=226",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=227",
     "images": [
         "images/ZA26b-Inscription.jpg"
     ],
@@ -68713,25 +68533,25 @@ var inscriptions = new Map([
     "names": [
         "ZA26b"
     ],
-    "parsedInscription": "𐝫𐘓𐄍\n𐝫",
+    "parsedInscription": "𐝫𐘐𐄍\n𐝫",
     "scribe": "",
     "site": "Zakros",
     "support": "Tablet",
     "transcription": "𐝫𐘐𐄍\n𐝫",
     "translatedWords": [
-        "she-goat",
+        "ewe",
         "7",
         "\n",
         "𐝫"
     ],
     "transliteratedWords": [
-        "*22F",
+        "*21F",
         "7",
         "\n",
         "𐝫"
     ],
     "words": [
-        "𐝫𐘓",
+        "𐝫𐘐",
         "𐄍",
         "\n",
         "𐝫"
@@ -68744,7 +68564,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=228",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=229",
     "images": [
         "images/ZA27-Inscription.jpg"
     ],
@@ -68795,7 +68615,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=228",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=229",
     "images": [
         "images/ZA28-Inscription.jpg"
     ],
@@ -68840,7 +68660,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=230",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=231",
     "images": [
         "images/ZA29-Inscription.jpg"
     ],
@@ -68891,7 +68711,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=230",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=231",
     "images": [
         "images/ZA30-Inscription.jpg"
     ],
@@ -68939,7 +68759,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=232",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=233",
     "images": [
         "images/ZA31-Inscription.jpg"
     ],
@@ -68984,7 +68804,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=232",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=233",
     "images": [
         "images/ZA32-Inscription.jpg"
     ],
@@ -69026,7 +68846,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=232",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=233",
     "images": [
         "images/ZA33-Inscription.jpg"
     ],
@@ -69162,25 +68982,25 @@ var inscriptions = new Map([
     "names": [
         "ZAWc2"
     ],
-    "parsedInscription": "𐘇𐘠𐘾𐘇𐘬𐘺𐘻\n𐘇𐘠𐘾𐘇𐘬𐘺𐘻",
+    "parsedInscription": "𐘇𐘠𐘾𐘇𐘬𐘺𐘻",
     "scribe": "",
     "site": "Zakros",
     "support": "Roundel",
     "transcription": "𐘇𐘠𐘾𐘇\n𐘬𐘺𐘻",
     "translatedWords": [
-        "A-TI-KA-A-DU-KO-MI",
-        "\n",
-        "A-TI-KA-A-DU-KO-MI"
+        "A-TI-KA",
+        "A-DU-KO",
+        "[[MI]]"
     ],
     "transliteratedWords": [
-        "A-TI-KA-A-DU-KO-MI",
-        "\n",
-        "A-TI-KA-A-DU-KO-MI"
+        "A-TI-KA",
+        "A-DU-KO",
+        "[[MI]]"
     ],
     "words": [
-        "𐘇𐘠𐘾𐘇𐘬𐘺𐘻",
-        "\n",
-        "𐘇𐘠𐘾𐘇𐘬𐘺𐘻"
+        "𐘇𐘠𐘾",
+        "𐘇𐘬𐘺",
+        "𐘻"
     ]
 }],
 ["ZAZb3",{
@@ -69190,7 +69010,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=154",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=155",
     "images": [
         "images/ZAZb3-Inscription.jpg"
     ],
@@ -69198,7 +69018,7 @@ var inscriptions = new Map([
     "names": [
         "ZAZb3"
     ],
-    "parsedInscription": "𐙍𐄒𐄈\n𐘆𐘆𐘾𐘈𐘇𐘞𐘕𐘗𐘇𐘈\n𐘇𐘳𐘚𐙕𐘦𐘾𐄁𐘇𐘙𐘢𐘙𐘅𐄁𐘠𐘠𐙂",
+    "parsedInscription": "𐙍𐄒𐄈\n𐘆𐘆𐘾𐘈𐄁𐘇𐘞𐘕𐘗𐄁𐘇𐘈\n𐘇𐘳𐘚𐙕𐘦𐘾𐄁𐘇𐘙𐘢𐘙𐘅𐄁𐘠𐘠𐙂",
     "scribe": "",
     "site": "Zakros",
     "support": "Clay vessel",
@@ -69208,7 +69028,9 @@ var inscriptions = new Map([
         "32",
         "\n",
         "DI-DI-KA-SE",
+        "𐄁",
         "A-SA-MU-NE",
+        "𐄁",
         "A-SE",
         "\n",
         "gives",
@@ -69222,7 +69044,9 @@ var inscriptions = new Map([
         "32",
         "\n",
         "DI-DI-KA-SE",
+        "𐄁",
         "A-SA-MU-NE",
+        "𐄁",
         "A-SE",
         "\n",
         "A-TA-I-*301-DE-KA",
@@ -69236,7 +69060,9 @@ var inscriptions = new Map([
         "𐄒𐄈",
         "\n",
         "𐘆𐘆𐘾𐘈",
+        "𐄁",
         "𐘇𐘞𐘕𐘗",
+        "𐄁",
         "𐘇𐘈",
         "\n",
         "𐘇𐘳𐘚𐙕𐘦𐘾",
@@ -69253,7 +69079,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=156",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=157",
     "images": [
         "images/ZAZb34-Inscription.jpg"
     ],
@@ -69390,7 +69216,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=48",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=49",
     "images": [
         "images/APZa<3>-Inscription.jpg"
     ],
@@ -69420,7 +69246,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=44",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=45",
     "images": [
         "images/APZa1-Inscription.jpg"
     ],
@@ -69453,7 +69279,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=46",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=47",
     "images": [
         "images/APZa2-Inscription.jpg"
     ],
@@ -69461,22 +69287,20 @@ var inscriptions = new Map([
     "names": [
         "APZa2"
     ],
-    "parsedInscription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
+    "parsedInscription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐝫𐘌𐄁",
     "scribe": "",
     "site": "Apodoulou",
     "support": "Stone vessel",
-    "transcription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐄁𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐄁𐝫𐘌𐄁",
+    "transcription": "𐝫𐘅𐘤𐄁𐘚𐘢𐘅𐙁𐝫𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫\n𐝫𐘢𐘻𐘅𐘃𐄁𐘚𐘅𐘱𐘙𐘳𐝫𐝫𐘌𐄁",
     "translatedWords": [
         "NA-SI",
         "𐄁",
         "a favour",
-        "𐄁",
         "I-KU-PA₃-NA-TU-NA-TE",
         "\n",
         "PI-MI-NA-TE",
         "𐄁",
         "I-NA-JA-RE-TA",
-        "𐄁",
         "QA",
         "𐄁"
     ],
@@ -69484,13 +69308,11 @@ var inscriptions = new Map([
         "NA-SI",
         "𐄁",
         "I-PI-NA-MA",
-        "𐄁",
         "I-KU-PA₃-NA-TU-NA-TE",
         "\n",
         "PI-MI-NA-TE",
         "𐄁",
         "I-NA-JA-RE-TA",
-        "𐄁",
         "QA",
         "𐄁"
     ],
@@ -69498,13 +69320,11 @@ var inscriptions = new Map([
         "𐝫𐘅𐘤",
         "𐄁",
         "𐘚𐘢𐘅𐙁𐝫",
-        "𐄁",
         "𐝫𐘚𐙂𐘰𐘅𐘹𐘅𐘃𐝫",
         "\n",
         "𐝫𐘢𐘻𐘅𐘃",
         "𐄁",
         "𐘚𐘅𐘱𐘙𐘳𐝫",
-        "𐄁",
         "𐝫𐘌",
         "𐄁"
     ]
@@ -69516,7 +69336,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=184",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=185",
     "images": [
         "images/ARZf1-Inscription.jpg",
         "images/ARZf1a-Inscription.jpg"
@@ -69547,7 +69367,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "© École Française d'Athènes",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=204",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=186",
     "images": [
         "images/ARZf2-Inscription.jpg",
         "images/ARZf2b-Inscription.jpg"
@@ -69733,8 +69553,8 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "NA",
-        "8"
+        "[[NA]]",
+        "[[8]]"
     ],
     "transliteratedWords": [
         "A",
@@ -69748,8 +69568,8 @@ var inscriptions = new Map([
         "\n",
         "—",
         "\n",
-        "NA",
-        "8"
+        "[[NA]]",
+        "[[8]]"
     ],
     "words": [
         "𐘇𐝫",
@@ -69883,8 +69703,8 @@ var inscriptions = new Map([
         "\n",
         "2",
         "\n",
-        "*317",
-        "2",
+        "[[*317]]",
+        "[[2]]",
         "\n",
         "𐝫",
         "\n",
@@ -69919,8 +69739,8 @@ var inscriptions = new Map([
         "\n",
         "2",
         "\n",
-        "*317",
-        "2",
+        "[[*317]]",
+        "[[2]]",
         "\n",
         "𐝫",
         "\n",
@@ -69984,7 +69804,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=33",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=35",
     "images": [
         "images/ARKH3b-Inscription.jpg"
     ],
@@ -70071,7 +69891,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=35",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=37",
     "images": [
         "images/ARKH4a-Inscription.jpg"
     ],
@@ -70079,11 +69899,11 @@ var inscriptions = new Map([
     "names": [
         "ARKH4a"
     ],
-    "parsedInscription": "𐝫\n𐝫𐘝𐘳𐝫\n𐝫𐘳𐄁𐘙𐄋\n𐘇𐝫𐄁𐝫𐘶𐄊\n𐘦𐘲𐝫𐄁𐝫𐘨𐘃𐄋\n𐘢𐘠𐘗𐘇𐝫\n𐝫",
+    "parsedInscription": "𐝫\n𐝫𐘝𐘳𐝫\n𐝫𐘳𐄁𐘙𐄋\n𐘇𐝫𐝫𐘶𐄊\n𐘦𐘲𐝫𐘨𐘃𐄋\n𐘢𐘠𐘗𐘇𐝫\n𐝫",
     "scribe": "",
     "site": "Arkhalkhori",
     "support": "Tablet",
-    "transcription": "𐝫\n𐝫𐘝𐘳𐝫\n𐝫𐘳𐄁𐘙𐄋𐘇𐝫\n𐄁𐝫𐘶𐄊𐘦𐘲𐝫𐄁𐝫\n𐘨𐘃𐄋𐘢𐘠𐘗\n𐘇𐝫\n𐝫",
+    "transcription": "𐝫\n𐝫𐘝𐘳𐝫\n𐝫𐘳𐄁𐘙𐄋𐘇𐝫\n𐝫𐘶𐄊𐘦𐘲𐝫\n𐘨𐘃𐄋𐘢𐘠𐘗\n𐘇𐝫\n𐝫",
     "translatedWords": [
         "𐝫",
         "\n",
@@ -70094,17 +69914,13 @@ var inscriptions = new Map([
         "RE",
         "5",
         "\n",
-        "A",
-        "𐄁",
-        "flour",
+        "A-[?]-[?]-JU",
         "4",
         "\n",
-        "DE-SU",
-        "𐄁",
-        "*47-TE",
+        "DE-SU-[?]-*47-TE",
         "5",
         "\n",
-        "PI-TI-NE-A",
+        "PI-TI-NE-A-[?]",
         "\n",
         "𐝫"
     ],
@@ -70118,17 +69934,13 @@ var inscriptions = new Map([
         "RE",
         "5",
         "\n",
-        "A",
-        "𐄁",
-        "JU",
+        "A-[?]-[?]-JU",
         "4",
         "\n",
-        "DE-SU",
-        "𐄁",
-        "*47-TE",
+        "DE-SU-[?]-*47-TE",
         "5",
         "\n",
-        "PI-TI-NE-A",
+        "PI-TI-NE-A-[?]",
         "\n",
         "𐝫"
     ],
@@ -70142,14 +69954,10 @@ var inscriptions = new Map([
         "𐘙",
         "𐄋",
         "\n",
-        "𐘇𐝫",
-        "𐄁",
-        "𐝫𐘶",
+        "𐘇𐝫𐝫𐘶",
         "𐄊",
         "\n",
-        "𐘦𐘲𐝫",
-        "𐄁",
-        "𐝫𐘨𐘃",
+        "𐘦𐘲𐝫𐘨𐘃",
         "𐄋",
         "\n",
         "𐘢𐘠𐘗𐘇𐝫",
@@ -70164,7 +69972,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=37",
+    "imageRightsURL": "papers/GORILA-Vol3.pdf#page=39",
     "images": [
         "images/ARKH4b-Inscription.jpg"
     ],
@@ -70529,7 +70337,7 @@ var inscriptions = new Map([
     ],
     "findspot": "",
     "imageRights": "",
-    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=204",
+    "imageRightsURL": "papers/GORILA-Vol4.pdf#page=189",
     "images": [
         "images/CR(?)Zf1-Inscription.jpg"
     ],
@@ -70746,7 +70554,7 @@ var inscriptions = new Map([
         "SI-DA-RO",
         "¹⁄₄",
         "\n",
-        "SE",
+        "[?]-SE",
         "\n",
         "𐝫"
     ],
@@ -70766,7 +70574,7 @@ var inscriptions = new Map([
         "SI-DA-RO",
         "¹⁄₄",
         "\n",
-        "SE",
+        "[?]-SE",
         "\n",
         "𐝫"
     ],
@@ -70941,22 +70749,25 @@ var inscriptions = new Map([
     "names": [
         "GOWc3"
     ],
-    "parsedInscription": "𐝬𐄑,𐄈",
+    "parsedInscription": "𐝬𐄑𐄈",
     "scribe": "",
     "site": "Gournia",
     "support": "Roundel",
-    "transcription": "𐝬𐄑,𐄈",
+    "transcription": "𐝬𐄑𐄈",
     "translatedWords": [
         "*809",
-        "𐄑,𐄈"
+        "20",
+        "2"
     ],
     "transliteratedWords": [
         "*809",
-        "𐄑,𐄈"
+        "20",
+        "2"
     ],
     "words": [
         "𐝬",
-        "𐄑,𐄈"
+        "𐄑",
+        "𐄈"
     ]
 }],
 ["HSZg1",{
@@ -71390,19 +71201,19 @@ var inscriptions = new Map([
     "names": [
         "KNWa51"
     ],
-    "parsedInscription": "𐘻",
+    "parsedInscription": "𐝫",
     "scribe": "",
     "site": "Knossos",
     "support": "Nodule",
-    "transcription": "𐘻",
+    "transcription": "𐝫",
     "translatedWords": [
-        "liquid?"
+        "[?]"
     ],
     "transliteratedWords": [
-        "MI"
+        "[?]"
     ],
     "words": [
-        "𐘻"
+        "𐝫"
     ]
 }],
 ["THEZb6",{
@@ -71991,7 +71802,7 @@ var inscriptions = new Map([
         "images/noimage.jpg"
     ],
     "findspot": "",
-    "imageRights": "Ph Saperstein",
+    "imageRights": "Ph Sapirstein",
     "imageRightsURL": "papers/KNZg57.pdf",
     "images": [
         "images/KNZg57a-Inscription.jpg"
@@ -72069,7 +71880,7 @@ var inscriptions = new Map([
         "images/noimage.jpg"
     ],
     "findspot": "",
-    "imageRights": "Ph Saperstein",
+    "imageRights": "Excavator's archive",
     "imageRightsURL": "https://ejournals.lib.uoc.gr/Ariadne/article/view/1841/1751",
     "images": [
         "images/KNZg57b-Inscription.jpg"
@@ -72078,14 +71889,34 @@ var inscriptions = new Map([
     "names": [
         "KNZg57b"
     ],
-    "parsedInscription":"𐜪𐜪𐜫𐜩𐜶𐝫𐝫𐝫𐝫𐘝𐝫𐝫𐝫𐝫𐚪𐝫𐝫",
+    "parsedInscription":"𐘚𐙂𐘣𐘴𐘾𐘬𐝫𐙉𐙉𐙋",
     "scribe": "",
     "site": "Knossos",
     "support": "ivory object",
-    "transcription":"𐜪𐜪𐜫𐜩𐜶𐝫𐝫𐝫𐝫𐘝𐝫𐝫𐝫𐝫𐚪𐝫𐝫",
+    "transcription":"𐘚𐙂𐘣𐘴𐘾𐘬𐝫𐙉𐙉𐙋",
     "translatedWords": [
+        "I",
+        "KU",
+        "WI",
+        "RA",
+        "KA",
+        "DU",
+        "𐝫",
+        "grain",
+        "grain",
+        "olives"
     ],
     "transliteratedWords": [
+        "I",
+        "KU",
+        "WI",
+        "RA",
+        "KA",
+        "DU",
+        "𐝫",
+        "GRA",
+        "GRA",
+        "OLIV"
     ],
     "words": [
         "𐘚",
@@ -72106,7 +71937,7 @@ var inscriptions = new Map([
         "images/noimage.jpg"
     ],
     "findspot": "",
-    "imageRights": "Ph Saperstein",
+    "imageRights": "Ph Sapirstein",
     "imageRightsURL": "https://ejournals.lib.uoc.gr/Ariadne/article/view/1841/1751",
     "images": [
         "images/KNZg58-Inscription.jpg"
@@ -76340,118 +76171,118 @@ var sequences = new Map([
 var wordsInCorpus = new Map([
 ["𐘹𐘢𐘳",1],
 ["𐘄𐘰𐘆",1],
-["", 2735],
-["𐄁", 468],
+["", 2738],
+["𐄁", 403],
 ["𐄇", 310],
 ["𐙕", 238],
-["𐙂", 170],
+["𐙂", 169],
 ["𐘾", 169],
-["𐄈", 158],
+["𐄈", 160],
+["𐘤", 120],
 ["𐝆", 120],
-["𐘤", 118],
-["𐄉", 101],
+["𐄉", 102],
 ["𐘁", 95],
 ["𐄋", 81],
-["𐄊", 78],
-["𐘝", 75],
-["𐄐", 70],
-["𐙉", 60],
-["𐘃", 58],
-["𐄌", 58],
+["𐄊", 80],
+["𐘝", 77],
+["𐄐", 71],
+["𐙉", 61],
+["𐘃", 59],
+["𐙍", 58],
+["𐄌", 57],
 ["𐝃", 56],
 ["—", 56],
-["𐙍", 54],
-["𐙗", 52],
+["𐙗", 53],
 ["𐘼", 47],
-["𐄑", 40],
-["𐘚", 39],
+["𐄑", 42],
+["𐘚", 38],
 ["𐙂𐘁", 37],
+["𐄍", 32],
 ["𐙇", 31],
-["𐄍", 30],
-["𐘳", 29],
+["𐘳", 30],
 ["𐝕", 27],
 ["𐝇", 26],
-["𐘇", 26],
+["𐙘", 26],
 ["𐄎", 25],
-["𐙘", 25],
-["𐙋", 24],
+["𐙋", 25],
 ["𐝁", 24],
 ["𐜙", 23],
+["𐙖", 23],
 ["𐜋", 22],
-["𐙖", 22],
 ["𐝂", 22],
-["𐄒", 20],
+["𐘇", 21],
+["𐄒", 21],
 ["𐜓", 20],
 ["𐘞𐘽", 20],
 ["𐜗", 19],
 ["𐛭", 19],
 ["𐄐𐄋", 18],
-["𐘸", 18],
+["𐘸", 17],
+["𐘆", 17],
 ["𐘵", 17],
-["𐘸𐘁", 16],
-["𐘆", 16],
-["𐘂", 16],
-["𐄐𐄈", 16],
 ["𐘙", 16],
+["𐘸𐘁", 16],
+["𐄐𐄈", 16],
+["𐘐", 16],
 ["𐄓", 15],
 ["𐚫", 15],
+["𐘂", 15],
 ["𐝅", 14],
 ["𐝉", 14],
 ["𐝀", 14],
-["𐘓", 14],
 ["𐜚", 13],
-["𐘅", 13],
 ["𐙐", 13],
 ["𐜉", 12],
 ["𐙜", 12],
 ["𐙙", 12],
 ["𐄙", 12],
-["𐘠", 12],
+["𐘱", 12],
 ["𐙁", 11],
 ["𐝄", 11],
 ["𐄐𐄉", 11],
-["𐘱", 11],
 ["𐘹", 11],
 ["𐘇𐘳𐘚𐙕𐘮𐘱", 11],
+["𐘅", 11],
+["𐘠", 11],
+["𐚻", 11],
+["𐘗", 10],
 ["𐄐𐄍", 10],
 ["𐄏", 10],
 ["𐘡", 10],
 ["𐄐𐄇", 10],
-["𐘇𐘬", 10],
 ["𐜈", 10],
+["𐘲", 10],
 ["𐘀", 9],
-["𐄐𐄊", 9],
 ["𐙓", 9],
-["𐘲", 9],
-["𐘴", 9],
+["𐘇𐘬", 9],
 ["𐛀", 9],
 ["𐙒", 9],
 ["≈", 9],
 ["𐜝", 9],
+["𐛧", 9],
+["𐘱𐘞𐘞𐘴𐘋", 9],
 ["𐙂𐘰𐘯", 8],
 ["𐘘", 8],
 ["𐄐𐄌", 8],
-["𐚻", 8],
 ["𐄐𐄎", 8],
-["𐘑", 8],
+["𐄐𐄊", 8],
 ["𐛚", 8],
 ["𐜐", 8],
 ["𐝂𐝂", 8],
-["𐘗", 8],
-["𐛧", 8],
 ["𐘚𐘽", 8],
 ["𐛦", 8],
+["𐘴", 8],
 ["𐄑𐄊", 7],
 ["𐄔", 7],
 ["𐘿", 7],
 ["𐘖", 7],
-["𐘈", 7],
 ["𐛲", 7],
 ["𐄕", 7],
-["𐘱𐘞𐘞𐘴𐘋", 7],
 ["𐘤𐘘𐘃", 7],
 ["𐙚", 7],
 ["𐜩", 7],
+["𐘑", 7],
+["𐘉𐘅𐘾𐘅𐘤", 7],
 ["𐙁𐘆", 6],
 ["𐙛", 6],
 ["𐘾𐘂", 6],
@@ -76462,27 +76293,32 @@ var wordsInCorpus = new Map([
 ["𐘮", 6],
 ["𐚹", 6],
 ["𐘞", 6],
-["𐘶", 6],
+["𐘈", 6],
 ["𐘞𐘘", 6],
-["𐘻", 6],
 ["𐘤𐘾", 6],
 ["𐘚𐘢𐘅𐙁", 6],
 ["𐝍", 6],
 ["𐙏", 6],
+["𐙈", 6],
+["𐘔", 6],
+["𐘻", 6],
 ["𐄖", 5],
 ["𐝃𐝄", 5],
 ["𐄒𐄇", 5],
 ["𐘰", 5],
 ["𐙂𐘝𐘲", 5],
 ["𐜍", 5],
-["𐘒", 5],
+["𐘏", 5],
 ["𐙀", 5],
-["𐙫", 5],
 ["𐘀𐘾", 5],
 ["𐝇𐝉", 5],
 ["𐚩", 5],
 ["𐘚𐘀", 5],
 ["𐙂𐘂", 5],
+["𐛱", 5],
+["𐛉", 5],
+["𐘶", 5],
+["𐘍", 4],
 ["𐜎", 4],
 ["𐘸𐘙𐘳𐘅", 4],
 ["𐘞𐙁", 4],
@@ -76494,17 +76330,14 @@ var wordsInCorpus = new Map([
 ["𐙚𐘹", 4],
 ["𐘀𐘭𐘀", 4],
 ["𐘀𐘤𐙈", 4],
-["𐛱", 4],
 ["𐄓𐄉", 4],
 ["𐜏", 4],
-["𐚺", 4],
 ["𐄑𐄇", 4],
 ["𐄘", 4],
 ["𐙅", 4],
 ["𐘫", 4],
 ["𐘬", 4],
 ["𐘉", 4],
-["𐘢", 4],
 ["𐙢", 4],
 ["𐄑𐄋", 4],
 ["𐘇𐘈", 4],
@@ -76515,20 +76348,18 @@ var wordsInCorpus = new Map([
 ["𐄕𐄈", 4],
 ["𐛪", 4],
 ["𐄒𐄉", 4],
-["𐘐", 4],
 ["𐝆𐝁", 4],
-["𐘉𐘅𐘾𐘅𐘤", 4],
-["𐘱𐘞", 4],
 ["𐝁𐝁", 4],
-["𐘍", 4],
 ["𐙨", 4],
 ["𐙅𐘁", 4],
 ["𐚨", 4],
 ["𐙎", 4],
+["𐛵", 4],
+["𐄓𐄋", 4],
+["𐘱𐘞", 4],
 ["𐘿𐘽𐘉", 3],
 ["𐘇𐘾𐘘", 3],
 ["𐘀𐘿𐘴", 3],
-["𐄒𐄋", 3],
 ["𐘰𐘝𐘅", 3],
 ["𐘃𐘹", 3],
 ["𐘐𐘹𐘗", 3],
@@ -76539,16 +76370,13 @@ var wordsInCorpus = new Map([
 ["𐘉𐙱𐘍", 3],
 ["𐘷", 3],
 ["𐛢", 3],
-["𐙈", 3],
 ["𐘙𐘍", 3],
 ["𐄐𐄏", 3],
-["𐄓𐄋", 3],
 ["𐘉𐘟𐘤", 3],
 ["𐄜", 3],
 ["𐘾𐙂𐘂", 3],
 ["𐜖", 3],
 ["𐘕", 3],
-["𐙁𐘘𐘋", 3],
 ["𐄑𐄎", 3],
 ["𐛖", 3],
 ["𐝃𐝉", 3],
@@ -76556,15 +76384,14 @@ var wordsInCorpus = new Map([
 ["𐛛", 3],
 ["𐙲", 3],
 ["𐙄", 3],
-["𐛉", 3],
 ["𐙪", 3],
 ["𐛺", 3],
 ["𐄓𐄇", 3],
 ["𐘯", 3],
-["𐜜", 3],
+["𐙫", 3],
 ["𐛷", 3],
 ["𐘆𐘦𐘘", 3],
-["𐘇𐘴", 3],
+["𐘢", 3],
 ["𐘃𐘭", 3],
 ["𐘚𐛭", 3],
 ["𐄑𐄌", 3],
@@ -76574,10 +76401,8 @@ var wordsInCorpus = new Map([
 ["𐄙𐄕", 3],
 ["𐙓𐘬", 3],
 ["𐘽", 3],
-["𐛵", 3],
 ["𐄖𐄈", 3],
 ["𐘇𐘭", 3],
-["𐘋", 3],
 ["𐘧", 3],
 ["𐝕𐝉", 3],
 ["𐜨", 3],
@@ -76586,16 +76411,24 @@ var wordsInCorpus = new Map([
 ["𐙮", 3],
 ["𐝈", 3],
 ["𐘇𐙁", 3],
-["𐄙𐄑", 3],
-["𐘇𐘱", 3],
 ["𐜰", 3],
 ["𐝃𐝃", 3],
-["𐘔", 3],
 ["𐘛𐘯𐙁𐘙", 3],
 ["𐘤𐘢𐘸", 3],
 ["𐛿", 3],
 ["𐚽", 3],
 ["𐘬𐘙𐘍𐘈", 3],
+["𐜫", 3],
+["𐜠", 3],
+["𐝥𐘻", 3],
+["𐜅", 3],
+["𐛢𐘋", 3],
+["𐙩", 3],
+["𐘇𐘞𐘞𐘴𐘋", 3],
+["𐙯", 3],
+["𐘓", 3],
+["𐘣", 3],
+["𐘇𐘱", 3],
 ["𐄔𐄈", 2],
 ["𐄙𐄋", 2],
 ["𐜊", 2],
@@ -76617,7 +76450,8 @@ var wordsInCorpus = new Map([
 ["𐄙𐄒", 2],
 ["𐘫𐙍", 2],
 ["𐜇", 2],
-["𐄒𐄍", 2],
+["𐜜", 2],
+["𐘋", 2],
 ["𐘤𐘀𐘙", 2],
 ["𐘂𐘈", 2],
 ["𐘾𐘅", 2],
@@ -76634,8 +76468,6 @@ var wordsInCorpus = new Map([
 ["𐘘𐙁𐘳", 2],
 ["𐄕𐄋", 2],
 ["𐄙𐄊", 2],
-["𐄔𐄉", 2],
-["𐜫", 2],
 ["𐛆", 2],
 ["𐛜", 2],
 ["𐘠𐘠𐙂", 2],
@@ -76645,17 +76477,16 @@ var wordsInCorpus = new Map([
 ["𐘚𐘌𐙈", 2],
 ["𐙂𐘰𐘅𐘹", 2],
 ["𐘸𐘀𐘁", 2],
-["𐚞", 2],
 ["𐄕𐄊", 2],
 ["𐙀𐘬", 2],
 ["𐙂𐘻𐘅𐘿", 2],
 ["𐘤𐘘", 2],
-["𐘞𐘴", 2],
+["𐚺", 2],
+["𐄙𐄑", 2],
 ["𐘾𐘘", 2],
 ["𐘭𐘲𐙁", 2],
 ["𐝋", 2],
 ["𐘯𐘠", 2],
-["𐜠", 2],
 ["𐘰𐘝", 2],
 ["𐘸𐘙𐘷", 2],
 ["𐘿𐘾", 2],
@@ -76674,10 +76505,8 @@ var wordsInCorpus = new Map([
 ["𐘦", 2],
 ["𐄔𐄎", 2],
 ["𐄘𐄍", 2],
-["𐘣", 2],
 ["𐘀𐙂𐘈𐘗", 2],
 ["𐘸𐘴", 2],
-["𐄙𐄑𐄉", 2],
 ["𐘸𐘭𐘷", 2],
 ["𐘞𐙍", 2],
 ["𐘂𐘴𐘗", 2],
@@ -76689,7 +76518,6 @@ var wordsInCorpus = new Map([
 ["𐘉𐘪", 2],
 ["𐙆", 2],
 ["𐘂𐘴", 2],
-["𐘤𐙗", 2],
 ["𐘘𐘆", 2],
 ["𐘤𐘹", 2],
 ["𐛁", 2],
@@ -76698,10 +76526,8 @@ var wordsInCorpus = new Map([
 ["𐘮𐘆𐘝", 2],
 ["𐙀𐘆𐘴", 2],
 ["𐘯𐘁", 2],
-["𐘜", 2],
 ["𐙺", 2],
 ["𐛨", 2],
-["𐘚𐘤", 2],
 ["𐙻", 2],
 ["𐙼", 2],
 ["𐘎", 2],
@@ -76709,11 +76535,9 @@ var wordsInCorpus = new Map([
 ["𐚳", 2],
 ["𐙃", 2],
 ["𐚱", 2],
-["𐝥𐘻", 2],
 ["𐜥", 2],
 ["𐛝", 2],
 ["𐙾", 2],
-["𐘏", 2],
 ["𐝊", 2],
 ["𐘇𐘂", 2],
 ["𐘫𐘴", 2],
@@ -76723,7 +76547,6 @@ var wordsInCorpus = new Map([
 ["𐘨", 2],
 ["𐘿𐘦𐘻𐘯", 2],
 ["𐘙𐘠", 2],
-["𐜅", 2],
 ["𐜱", 2],
 ["𐜶", 2],
 ["𐝆𐝆", 2],
@@ -76733,8 +76556,6 @@ var wordsInCorpus = new Map([
 ["𐙄𐘤𐘙", 2],
 ["𐙁𐘾𐘚𐘳", 2],
 ["𐘚𐘢𐘅𐘻𐘅", 2],
-["𐘇𐘗", 2],
-["𐘙𐘱", 2],
 ["𐘱𐘱", 2],
 ["𐙑", 2],
 ["𐙝", 2],
@@ -76746,12 +76567,16 @@ var wordsInCorpus = new Map([
 ["𐘀𐘚𐘢𐘳", 2],
 ["𐙂𐘴", 2],
 ["𐘤𐘃", 2],
-["𐘇𐘠𐘾𐘇𐘬𐘺𐘻", 2],
 ["𐄒𐄈", 2],
 ["𐘌", 2],
 ["𐘚𐘀𐙁𐘃", 2],
-["𐙩", 2],
 ["𐙚𐘳𐘧", 2],
+["𐘹𐘋𐘚", 2],
+["𐘜𐘙𐘱", 2],
+["𐘴𐙐𐘠", 2],
+["𐛻", 2],
+["𐄒𐄋", 2],
+["𐘇𐘴", 2],
 ["𐄙𐄘𐄍", 1],
 ["𐙀𐘲", 1],
 ["𐘆𐘆𐘍𐘥", 1],
@@ -76774,7 +76599,6 @@ var wordsInCorpus = new Map([
 ["𐘾𐘂𐘿", 1],
 ["𐘿𐘢𐘳", 1],
 ["𐘴𐘠𐘈", 1],
-["𐙁𐘭𐘙𐘚", 1],
 ["𐘬𐘀𐙁", 1],
 ["𐘀𐘸", 1],
 ["𐘿𐘠", 1],
@@ -76814,8 +76638,6 @@ var wordsInCorpus = new Map([
 ["𐛹", 1],
 ["𐄝𐄖", 1],
 ["𐘞𐘊", 1],
-["𐘴󽇫𐘠", 1],
-["𐘴𐙐𐘠", 1],
 ["𐘬𐘋𐘆", 1],
 ["𐘂𐘁𐘲", 1],
 ["𐙂𐙁𐘶", 1],
@@ -76833,11 +76655,8 @@ var wordsInCorpus = new Map([
 ["𐘺𐘘", 1],
 ["𐘝𐘴", 1],
 ["𐙂𐘰𐘭𐘱", 1],
-["𐘸𐙁𐘘", 1],
 ["𐘂𐘞𐘭𐘱", 1],
 ["𐘘𐘚𐘺", 1],
-["𐛋𐙈", 1],
-["𐛒𐙈", 1],
 ["𐘘𐘝", 1],
 ["𐘉𐘙𐘣", 1],
 ["𐘹𐘿𐘯", 1],
@@ -76863,7 +76682,6 @@ var wordsInCorpus = new Map([
 ["𐘻𐘀", 1],
 ["𐛾", 1],
 ["𐛽", 1],
-["𐛧𐙍", 1],
 ["𐘇𐘘𐘀𐘴", 1],
 ["𐘚𐘳𐘱", 1],
 ["𐘣𐘆𐘅", 1],
@@ -76899,14 +76717,11 @@ var wordsInCorpus = new Map([
 ["𐄚𐄓𐄋", 1],
 ["𐛂", 1],
 ["𐘚𐙂𐘳", 1],
-["𐜠𐛱", 1],
-["𐄑𐄓𐄊", 1],
 ["𐘬𐙀𐘮", 1],
 ["𐘙𐘲", 1],
 ["𐘸𐙠𐘙", 1],
 ["𐘀𐘁𐘂", 1],
 ["𐚣", 1],
-["𐛞𐙈", 1],
 ["𐛎", 1],
 ["𐛏", 1],
 ["𐘞𐙁𐘠", 1],
@@ -76926,15 +76741,12 @@ var wordsInCorpus = new Map([
 ["𐘂𐚂𐘚", 1],
 ["𐜒", 1],
 ["𐜑", 1],
-["𐘃𐛵", 1],
 ["𐄖𐄋", 1],
-["𐄈𐄊", 1],
 ["𐛗", 1],
 ["𐘻𐘯𐘻", 1],
 ["𐘴𐘅𐘙", 1],
 ["𐘽𐘬", 1],
 ["𐘭", 1],
-["𐘲𐘸", 1],
 ["𐘠𐘬𐘝", 1],
 ["𐘤𐘴", 1],
 ["𐘹𐘲𐘜", 1],
@@ -76982,7 +76794,6 @@ var wordsInCorpus = new Map([
 ["𐘱𐘙𐘻", 1],
 ["𐘿𐘲𐘫", 1],
 ["𐙂𐘘𐙂", 1],
-["𐘇𐘹", 1],
 ["𐘸𐘸𐘅", 1],
 ["𐙂𐘰𐘰", 1],
 ["𐘾𐘶", 1],
@@ -77009,18 +76820,14 @@ var wordsInCorpus = new Map([
 ["𐘹𐙁", 1],
 ["𐘦𐘆", 1],
 ["𐘥𐘸𐘘", 1],
-["𐘦𐘋𐘃", 1],
 ["𐘐𐘹", 1],
 ["𐘀𐘬𐙁𐘳", 1],
 ["𐘚𐘠𐘠𐙂𐘝", 1],
 ["𐘇𐙌𐘃", 1],
 ["𐘤𐘻𐘳", 1],
 ["𐘘𐘞", 1],
-["𐙯𐙩", 1],
 ["𐘢𐘳𐘴", 1],
-["𐙯𐚄", 1],
 ["𐙂𐙁𐘁", 1],
-["𐘃𐘝", 1],
 ["𐘌𐙈𐘴𐘙", 1],
 ["𐄗𐄈", 1],
 ["𐘾𐘯𐘠", 1],
@@ -77029,7 +76836,6 @@ var wordsInCorpus = new Map([
 ["𐘁𐘥", 1],
 ["𐘾𐘭𐙠𐘚", 1],
 ["𐘀𐘘𐘗𐘃", 1],
-["𐛉𐘝", 1],
 ["𐙀𐘓𐘆", 1],
 ["𐚸", 1],
 ["𐙂𐘰", 1],
@@ -77101,7 +76907,6 @@ var wordsInCorpus = new Map([
 ["𐘇𐘭𐘲", 1],
 ["𐘭𐘘𐙁", 1],
 ["𐄒𐄊", 1],
-["𐄕𐄍", 1],
 ["𐘭𐘻𐘤", 1],
 ["𐘺𐘱", 1],
 ["𐘱𐚅", 1],
@@ -77159,7 +76964,6 @@ var wordsInCorpus = new Map([
 ["𐘹𐘋𐘂𐘱", 1],
 ["𐘯𐘃", 1],
 ["𐘧𐘳𐘅", 1],
-["𐛉𐛔", 1],
 ["𐝆𐙕", 1],
 ["𐝃𐙕", 1],
 ["𐘾𐘤", 1],
@@ -77183,12 +76987,9 @@ var wordsInCorpus = new Map([
 ["𐘇𐘅𐘯𐘤𐘱𐘈", 1],
 ["𐘂𐘳𐘀𐘬𐘜𐘙", 1],
 ["𐘤𐘫", 1],
-["𐘆𐄉𐘠𐘬", 1],
 ["𐘇𐘶", 1],
 ["𐘅𐙁𐙁𐘠𐘠𐙫", 1],
-["𐘣𐘱𐘲𐙁𐘠𐘠", 1],
 ["𐘳𐘱", 1],
-["𐙯", 1],
 ["𐘇𐘧𐘞", 1],
 ["𐘱𐘆𐘸𐘹", 1],
 ["𐘳𐘅𐘴𐘃𐘉𐘠𐘯", 1],
@@ -77199,15 +77000,11 @@ var wordsInCorpus = new Map([
 ["𐘚𐘅𐘳𐘚𐙀𐘆𐘤𐘾", 1],
 ["𐘱𐘠𐙭", 1],
 ["𐘇𐘅𐘠𐙕𐘮𐘱", 1],
-["𐘇𐘞𐘞𐘴𐘋", 1],
-["𐘀𐘀", 1],
 ["𐘉𐘠𐘯", 1],
 ["𐘚𐘅𐘚𐘀", 1],
-["𐘞𐘴𐘋", 1],
 ["𐙁𐘚", 1],
 ["𐘚𐘆", 1],
 ["𐙌", 1],
-["𐘱𐘞𐘞𐘴", 1],
 ["𐘉𐘅𐘘𐘾𐘅𐘤", 1],
 ["𐘹𐘯", 1],
 ["𐘾𐘞", 1],
@@ -77233,14 +77030,12 @@ var wordsInCorpus = new Map([
 ["𐘳𐘳", 1],
 ["𐘌𐘠𐘸", 1],
 ["𐘈𐙙", 1],
-["𐘺𐘡", 1],
 ["𐝁𐝌", 1],
 ["𐘉𐘳𐘚𐘈", 1],
 ["𐘂𐘅𐘹", 1],
 ["𐜛", 1],
 ["𐘇𐘤𐘲𐘊𐘇", 1],
 ["𐝃𐝁", 1],
-["𐛌𐙘", 1],
 ["𐘚𐘂𐘞𐘱", 1],
 ["𐘌𐙈", 1],
 ["𐘇𐘸𐘢𐘡𐘃", 1],
@@ -77275,7 +77070,6 @@ var wordsInCorpus = new Map([
 ["𐘴𐘸𐘳𐘅𐘤", 1],
 ["𐘷𐙗", 1],
 ["𐘱𐘀𐘲", 1],
-["𐘤𐝥𐘻", 1],
 ["𐝃𐝌", 1],
 ["𐘂𐘀", 1],
 ["𐘻𐘅", 1],
@@ -77291,10 +77085,7 @@ var wordsInCorpus = new Map([
 ["𐘇𐘀𐘐𐘭", 1],
 ["𐙂𐘝𐘃", 1],
 ["𐘅𐘸", 1],
-["𐘌𐘫", 1],
-["𐘚𐘍", 1],
 ["𐝈𐝀𐝀", 1],
-["𐘙𐘇𐘱", 1],
 ["𐘈𐘚", 1],
 ["𐘂𐘭𐘦", 1],
 ["𐘇𐘤𐙈", 1],
@@ -77306,7 +77097,6 @@ var wordsInCorpus = new Map([
 ["𐙔", 1],
 ["𐝥𐚋", 1],
 ["𐙇𐚌𐘱", 1],
-["𐝭𐘢𐘾", 1],
 ["𐘱𐙂𐘠", 1],
 ["𐄚𐄓", 1],
 ["𐘱𐘬𐘴𐘠", 1],
@@ -77327,36 +77117,27 @@ var wordsInCorpus = new Map([
 ["𐘝𐘢", 1],
 ["𐘱𐘴", 1],
 ["𐘳𐘯𐘕𐘠", 1],
-["𐘱𐘞𐘞𐘴𐙁", 1],
-["𐘀𐘮", 1],
-["𐘬𐘮𐘄", 1],
 ["𐘱𐘿", 1],
 ["𐘱𐘮", 1],
 ["𐘥𐘶𐘻", 1],
 ["𐙈𐘻𐘅", 1],
 ["𐘇𐘹𐘭𐘤𐘠", 1],
 ["𐘅𐘇𐘰", 1],
-["𐛻", 1],
-["𐘱𐘆𐘣", 1],
 ["𐘇𐘂𐘸", 1],
 ["𐘉𐘅𐘇", 1],
 ["𐙀𐘭𐘝𐙁", 1],
 ["𐘁𐛧", 1],
-["𐘟𐘠𐘭𐘇𐘆𐘀𐘸𐘠𐘂𐙂", 1],
 ["𐘝𐘱𐘯", 1],
-["𐘶𐙂𐘅𐘂𐙂𐘯𐘉𐘚𐙀", 1],
 ["𐘇𐘾𐘯𐘍𐘠", 1],
 ["𐘬𐘴𐘙", 1],
 ["𐘇𐙀𐘴", 1],
 ["𐘱𐘞𐘴𐘇𐘅𐘗", 1],
 ["𐘣𐘢", 1],
 ["𐘇𐘢", 1],
-["𐘚𐘮𐘱", 1],
 ["𐘾𐘤𐘇𐘃", 1],
 ["𐘥𐘤𐘃", 1],
 ["𐘵𐘀", 1],
 ["𐘇𐘙𐘗𐘤𐘆𐙕𐘢𐘥𐘂𐘱𐘳𐘭𐘈𐘃𐘭𐘕𐘇𐘱𐙂", 1],
-["𐘤𐘤𐘍𐘗𐙠", 1],
 ["𐘀𐘬𐘻𐘗", 1],
 ["𐘌𐘻𐘨𐘅𐘴", 1],
 ["𐘇𐘮𐘢", 1],
@@ -77373,12 +77154,10 @@ var wordsInCorpus = new Map([
 ["𐘇𐘴𐘺𐙂𐙀𐘮𐘞𐘄𐙁𐘁𐙄𐘳𐘦𐘊𐘝𐘍", 1],
 ["𐘀𐙁𐘃", 1],
 ["𐘱𐘠𐘹𐙂", 1],
-["𐄂𐘚𐘬𐘣", 1],
 ["𐘬𐘴", 1],
 ["𐘱𐙂", 1],
 ["𐘉𐘅𐘅", 1],
 ["𐘱𐙁𐘉𐘠", 1],
-["𐘳𐜅", 1],
 ["𐜆", 1],
 ["𐜄", 1],
 ["𐜃", 1],
@@ -77403,11 +77182,9 @@ var wordsInCorpus = new Map([
 ["𐙹𐘞𐘕", 1],
 ["𐁁", 1],
 ["𐘇𐙂𐘶𐘂𐙈", 1],
-["𐘉𐘾𐘙𐘇𐘈𐘤𐘅", 1],
 ["𐙂𐘂𐘭", 1],
 ["𐘡𐘾", 1],
 ["𐄒𐄌", 1],
-["𐘘𐘢𐙙𐘻", 1],
 ["𐘇𐙱𐘍", 1],
 ["𐘇𐘭𐘂", 1],
 ["𐘌𐘌𐘀", 1],
@@ -77418,7 +77195,6 @@ var wordsInCorpus = new Map([
 ["𐘇𐘯", 1],
 ["𐘇𐘾𐘴𐘸𐘳𐘅𐘤𐘱𐘈𐙇𐘍", 1],
 ["𐘱𐘮𐘢", 1],
-["𐘚𐘅", 1],
 ["𐘳𐘅𐙁𐘧", 1],
 ["𐘆𐘴𐘆𐘅", 1],
 ["𐝄𐝇", 1],
@@ -77471,7 +77247,6 @@ var wordsInCorpus = new Map([
 ["𐙁𐘙𐘭𐘻𐘦", 1],
 ["𐘂𐘳𐘀", 1],
 ["𐘬𐘭", 1],
-["𐘗𐘔", 1],
 ["𐘭𐘘𐙁𐘠", 1],
 ["𐘇𐘻𐘀𐘵", 1],
 ["𐘲𐘸𐘭𐘳", 1],
@@ -77487,7 +77262,6 @@ var wordsInCorpus = new Map([
 ["𐘮𐘢𐘠𐘅𐘽", 1],
 ["𐙴", 1],
 ["𐘌𐙙", 1],
-["𐘗𐘠", 1],
 ["𐘾𐘌", 1],
 ["𐘇𐘬𐘍", 1],
 ["𐘷𐘳𐘙", 1],
@@ -77502,23 +77276,16 @@ var wordsInCorpus = new Map([
 ["𐘇𐘞𐘞𐘴", 1],
 ["𐘰𐘡", 1],
 ["𐘱𐘆𐘸𐘃𐘃𐙛𐘜𐘙", 1],
-["𐘹𐘋𐘚", 1],
-["𐘱𐘞𐘉𐘅𐘾𐘅𐘤", 1],
 ["𐘚𐘢", 1],
-["𐘱𐘉𐘂𐙁𐘚𐘀", 1],
 ["𐘇𐘳𐘚𐙕𐘮𐘡", 1],
-["𐘇𐘆𐘸𐘃𐘃", 1],
 ["𐘢𐘃𐘭", 1],
 ["𐘇𐘺𐘇𐘗", 1],
-["𐘞𐘞𐘴𐘋", 1],
 ["𐘉𐘅𐘘𐘾𐘅𐘠", 1],
 ["𐘚𐘅𐘱𐘂𐘌", 1],
 ["𐘇𐘆𐘸𐘃", 1],
 ["𐘴𐘋", 1],
-["𐘉𐘅𐘘𐘾𐘱𐘤", 1],
 ["𐘇𐘂𐘬𐘂", 1],
 ["𐘱𐘂𐘌", 1],
-["𐘹𐘋", 1],
 ["𐘱𐘞𐘞", 1],
 ["𐘱𐘆𐘸𐘃𐘃𐘬𐘜𐘙", 1],
 ["𐘄𐘞", 1],
@@ -77528,38 +77295,28 @@ var wordsInCorpus = new Map([
 ["𐘸𐘳𐘝𐘃", 1],
 ["𐘻𐘀𐘴", 1],
 ["𐘯𐘭𐘱", 1],
-["𐙍𐙍", 1],
 ["𐘣𐘃𐘱𐘕", 1],
 ["𐘉𐘿𐘠", 1],
 ["𐘳𐘯𐘝𐘸𐘅", 1],
 ["𐘝𐘯𐘝", 1],
 ["𐘭𐘿𐘠𐘇𐘞𐘞𐘴𐙱", 1],
-["𐘳𐘅𐘲𐘃𐘥", 1],
 ["𐘈𐘄𐘚𐘱", 1],
-["𐘇𐘞𐘞𐝢𐘋", 1],
 ["𐘙𐘚𐘥", 1],
 ["𐘳𐘅𐘚𐙕𐘠", 1],
-["𐄌𐘱𐘠", 1],
 ["𐙓𐘬𐘈", 1],
 ["𐘠𐙁𐘘𐘣𐘃", 1],
-["𐝦𐙍", 1],
 ["𐘃𐘱", 1],
 ["𐝠", 1],
 ["𐘀𐙂", 1],
-["𐘀𐙈", 1],
 ["𐘇𐙁𐘴𐘗", 1],
 ["𐘅𐘹𐙕𐘗", 1],
-["𐘌𐘸𐘠", 1],
 ["𐘚𐘀𐘻", 1],
-["𐘱𐘲𐙁𐘹𐙋", 1],
-["𐘉𐘅𐘾𐘅𐘤𐙖", 1],
 ["𐘈𐘾𐘅𐘤", 1],
 ["𐘱𐘚𐘩𐘍", 1],
 ["𐘰𐘝𐘣", 1],
 ["𐘻𐘱", 1],
 ["𐘱𐘮𐘰", 1],
 ["𐘀𐘈𐘴𐘃", 1],
-["𐘴𐘸𐘝𐘈", 1],
 ["𐘱𐘂𐘴𐘱𐘈", 1],
 ["𐘌𐘞𐘴𐙂", 1],
 ["𐘁𐘌", 1],
@@ -77571,27 +77328,19 @@ var wordsInCorpus = new Map([
 ["𐘇𐘙𐘞𐘅", 1],
 ["𐘇𐘙", 1],
 ["𐘇𐘧", 1],
-["𐘏𐛻", 1],
-["𐘾𐘇𐘤𐘃", 1],
 ["𐙕𐘤", 1],
 ["𐘵𐘲𐘌𐘙", 1],
-["𐘉𐘅𐘾𐘅", 1],
 ["𐘢𐘻𐘳𐘠𐘽", 1],
 ["𐘬𐘻𐘳𐘠𐘽", 1],
 ["𐘗𐘻", 1],
 ["𐘻𐘗", 1],
-["𐙞𐘟𐘫𐘢", 1],
 ["𐄝", 1],
 ["𐄚𐄘", 1],
-["𐙞𐘸𐘫", 1],
 ["𐙝𐘀𐘫", 1],
 ["𐘂𐘀𐘘", 1],
 ["𐙝𐘶𐘸", 1],
 ["𐙝𐘭𐘶", 1],
 ["𐄗𐄊", 1],
-["𐙟𐘀𐘶", 1],
-["𐙟𐘘𐘾", 1],
-["𐙝𐘭𐘮𐘶", 1],
 ["𐙞𐘭𐘶", 1],
 ["𐄚𐄔", 1],
 ["𐙞", 1],
@@ -77700,7 +77449,6 @@ var wordsInCorpus = new Map([
 ["𐘇𐘞𐘕𐘗", 1],
 ["𐘇𐘳𐘚𐙕𐘦𐘾", 1],
 ["𐘇𐘙𐘢𐘙𐘅", 1],
-["𐘜𐘙𐘱", 1],
 ["𐘺𐘕", 1],
 ["𐘋𐘻𐘱𐘘", 1],
 ["𐘈𐘮𐙄𐘦", 1],
@@ -77724,8 +77472,6 @@ var wordsInCorpus = new Map([
 ["𐘱𐘢", 1],
 ["𐘢𐙦", 1],
 ["𐘝𐘳", 1],
-["𐘦𐘲", 1],
-["𐘨𐘃", 1],
 ["𐘢𐘠𐘗𐘇", 1],
 ["𐘦𐘻", 1],
 ["𐘚𐘨", 1],
@@ -77747,7 +77493,6 @@ var wordsInCorpus = new Map([
 ["𐘈𐘤", 1],
 ["𐘇𐘞𐘲𐙁𐘚𐘈", 1],
 ["𐝬", 1],
-["𐄑,𐄈", 1],
 ["𐘰𐘜", 1],
 ["𐘙𐙅", 1],
 ["𐘙𐘞", 1],
@@ -77762,6 +77507,47 @@ var wordsInCorpus = new Map([
 ["𐘚𐘞𐘭𐘥", 1],
 ["𐘜𐘙", 1],
 ["𐘀𐘨𐙂", 1],
+["𐛋", 1],
+["𐛒", 1],
+["𐄓𐄊", 1],
+["𐛞", 1],
+["𐄕𐄎", 1],
+["𐛔", 1],
+["𐛌", 1],
+["𐘱𐘞𐘞𐘴𐙁𐘅", 1],
+["𐄕𐄉", 1],
+["𐄙𐄒𐄍", 1],
+["𐘉𐘾𐘙", 1],
+["𐘇𐘈𐘤𐘅", 1],
+["𐘌𐘸𐙀", 1],
+["𐘱𐘲𐙁𐘹", 1],
+["𐘇𐘠𐘾", 1],
+["𐘇𐘬𐘺", 1],
+["𐄔𐄉", 1],
+["𐄙𐄑𐄉", 1],
+["𐘤𐙗", 1],
+["𐘜", 1],
+["𐘙𐘱", 1],
+["𐘸𐛢", 1],
+["𐄒𐄎", 1],
+["𐚄", 1],
+["𐝭", 1],
+["𐘢𐘾", 1],
+["𐘟𐘠𐘭", 1],
+["𐘇𐘆𐘀𐘸𐘠𐘂𐙂", 1],
+["𐘱𐘠", 1],
+["𐝯", 1],
+["𐘞𐘴", 1],
+["𐘠𐘬", 1],
+["𐘣𐘱𐘲𐙁𐘠𐘠𐙫", 1],
+["𐄂", 1],
+["𐘚𐘬𐘣", 1],
+["𐝦", 1],
+["𐘒", 1],
+["𐘤𐘍𐘗𐙠", 1],
+["𐘇𐘗", 1],
+["𐘚𐘤", 1],
+["𐚞", 1],
 ]);
 var ligatures = new Map([
 ["𐚳", ['𐘀', '𐘁']],
@@ -77810,7 +77596,7 @@ var ligatures = new Map([
 ["𐛟", ['𐘿', '𐙉', '𐘂']],
 ["𐛢", ['𐙁', '𐘘']],
 ["𐙁𐘘𐘋", ['𐙁', '𐘘', '𐘋']],
-["𐙁𐘘𐘙", ['𐙁', '𐘘', '𐘘']],
+["𐙁𐘘𐘙", ['𐙁', '𐘘', '𐘙']],
 ["𐛤", ['𐙂', ' ]']],
 ["𐛥", ['𐙅', "'*188'"]],
 ["𐛦", ['𐙅', '𐙓']],
@@ -77822,7 +77608,7 @@ var ligatures = new Map([
 ["𐛬", ['𐙉', '𐘀']],
 ["𐛭", ['𐙉', '𐘂']],
 ["𐛮", ['𐙉', 'QIf']],
-["𐛯", ['𐙉', 'BOSm']],
+["𐛯", ['𐙉', 'CAPm']],
 ["𐛰", ['𐙉', 'PA3']],
 ["𐛱", ['𐙉', '𐘿']],
 ["𐛲", ['𐙉', '𐙂']],
@@ -77830,9 +77616,9 @@ var ligatures = new Map([
 ["𐛴", ['𐙉', '𐝃']],
 ["𐛵", ['𐙉', '𐝄']],
 ["𐛶", ['𐙉', '𐝅']],
-["𐛷", ['𐙉', '𐝇', '𐝈']],
+["𐛷", ['𐙉', '𐝇', '𐝉']],
 ["𐛸", ['𐙉', '𐝉']],
-["𐛹", ['𐙉', '𐝋', '𐝋']],
+["𐛹", ['𐙉', '𐝊', '𐝊']],
 ["𐛺", ['*OLIV', '𐘹']],
 ["𐛻", ['𐙍', '𐘃']],
 ["𐛼", ['𐙍', '𐘞']],
@@ -77850,7 +77636,7 @@ var ligatures = new Map([
 ["𐜇", ['𐙓', '𐙂']],
 ["𐝥𐘻", ['𐙕', '𐘻']],
 ["𐜈", ['𐙕', '𐙡']],
-["𐝥𐚋", ['𐚋', '𐚋']],
+["𐝥𐚋", ['𐙕', '𐚋']],
 ["𐜉", ['𐙖', '𐘆']],
 ["𐜊", ['𐙖', '𐘇']],
 ["𐜋", ['𐙖', '𐘉']],
@@ -77875,16 +77661,16 @@ var ligatures = new Map([
 ["𐜝", ['𐙘', '𐘂']],
 ["𐜝𐙗𐝂", ['𐙘', '𐘂', '𐙗', '𐝂']],
 ["𐜝𐙨𐝂", ['𐙘', '𐘂', '𐙨', '𐝂']],
-["𐙘𐙨", ['𐙘', ' ]', '𐙗']],
-["𐙘𐙨", ['𐙘', ' ]', '𐙗', ' ]']],
+["𐙘𐙗", ['𐙘', ' ]', '𐙗', ' ]']],
+["𐙘𐙗", ['𐙘', ' ]', '𐙗']],
 ["𐜞", ['𐙚', '𐘻']],
 ["𐙚𐙇𐙛", ['𐙚', '𐙇', '𐙛']],
 ["𐙚𐙗𐝃", ['𐙚', '𐙗', '𐝃']],
 ["𐜟", ['𐙛', '𐙕']],
-["𐜠", ['𐙛', '*387']],
-["𐙨𐘁𐙍", ['𐙨', '𐘄', '𐙍']],
-["𐜡", ['𐙨', '𐘸']],
-["𐙩𐘸𐙺", ['𐙩', '𐙂', '𐙺']],
+["𐜠", ['𐙛', '𐙛']],
+["𐙨𐘁𐙍", ['𐙨', '𐘁', '𐙍']],
+["𐜡", ['𐙩', '𐘸']],
+["𐙩𐘸𐙺", ['𐙩', '𐘸', '𐙺']],
 ["𐜢", ['𐙪', ' ]']],
 ["𐜣", ['𐙶', '𐘀']],
 ["𐜤", ['𐙶', '𐘞']],
@@ -77894,16 +77680,16 @@ var ligatures = new Map([
 ["𐜨", ['𐚡', ' ]']],
 ["𐚡𐘇", ['𐚡', '𐘇']],
 ["𐜩", ['𐚡', '𐘘']],
-["𐜪", ['𐚡', '𐘁']],
+["𐜪", ['𐚡', '𐘴']],
 ["𐜫", ['𐚡', '𐙘']],
-["𐜬", ['𐚢', '𐘇']],
+["𐜬", ['𐚤', '𐘇']],
 ["𐜭", ['𐚥', '𐝐']],
 ["𐜮", ['*406VAS', '𐘥']],
-["𐜯", ['𐚮', '𐘇']],
+["𐜯", ['𐚧', '𐘇']],
 ["𐜰", ['𐚬', '𐝃']],
 ["𐜲", ['𐚭', '𐘲']],
 ["𐜳", ['𐚮', ' ]']],
 ["𐜴", ['𐚮', '𐝄']],
-["𐜵", ['𐚰', '𐝉']],
+["𐜵", ['𐚱', '𐝉']],
 ["𐜶", ['𐚲', '𐝉']],
 ]);

@@ -109,15 +109,7 @@
             "word": "\n"
         },
         {
-            "transliteratedWord": "𐝫",
-            "word": "𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
-            "transliteratedWord": "𐝫",
+            "transliteratedWord": "[?]",
             "word": "𐝫"
         },
         {

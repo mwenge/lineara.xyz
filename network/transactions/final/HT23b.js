@@ -15,6 +15,10 @@
             "word": "𐘝𐘴"
         },
         {
+            "transliteratedWord": "𐄁",
+            "word": "𐄁"
+        },
+        {
             "commodityID": 1,
             "description": "commodity",
             "transactionID": "HT23b-1",

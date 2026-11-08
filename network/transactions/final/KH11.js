@@ -21,18 +21,8 @@
         {
             "description": "recipient",
             "transactionID": "KH11-1",
-            "transliteratedWord": "A-DU",
-            "word": "𐘇𐘬𐝫"
-        },
-        {
-            "transactionID": "KH11-1",
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
-            "transactionID": "KH11-1",
-            "transliteratedWord": "ZA",
-            "word": "𐝫𐘍"
+            "transliteratedWord": "A-DU-[?]-ZA",
+            "word": "𐘇𐘬𐝫𐘍"
         },
         {
             "commodityID": 1,

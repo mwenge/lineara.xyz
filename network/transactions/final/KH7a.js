@@ -10,16 +10,8 @@
     ],
     "words": [
         {
-            "transliteratedWord": "NE",
-            "word": "𐝫𐘗𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
-            "transliteratedWord": "KI",
-            "word": "𐝫𐘸"
+            "transliteratedWord": "NE-[?]-KI",
+            "word": "𐝫𐘗𐝫𐘸"
         },
         {
             "transliteratedWord": "*334",
@@ -184,16 +176,8 @@
             "word": "\n"
         },
         {
-            "transliteratedWord": "KU",
-            "word": "𐙂𐝫"
-        },
-        {
-            "transliteratedWord": "𐄁",
-            "word": "𐄁"
-        },
-        {
-            "transliteratedWord": "KO-E",
-            "word": "𐝫𐘺𐘡"
+            "transliteratedWord": "KU-[?]-KO-E",
+            "word": "𐙂𐝫𐘺𐘡"
         },
         {
             "transliteratedWord": "VIR+*313b",
